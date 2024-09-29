@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/uek-calendar/static/css/main.e6c13ad2.css",
-    "main.js": "/uek-calendar/static/js/main.b3e73edb.js",
+    "main.js": "/uek-calendar/static/js/main.cb173c4c.js",
     "static/js/453.98a1ae32.chunk.js": "/uek-calendar/static/js/453.98a1ae32.chunk.js",
     "index.html": "/uek-calendar/index.html",
     "main.e6c13ad2.css.map": "/uek-calendar/static/css/main.e6c13ad2.css.map",
-    "main.b3e73edb.js.map": "/uek-calendar/static/js/main.b3e73edb.js.map",
+    "main.cb173c4c.js.map": "/uek-calendar/static/js/main.cb173c4c.js.map",
     "453.98a1ae32.chunk.js.map": "/uek-calendar/static/js/453.98a1ae32.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b3e73edb.js"
+    "static/js/main.cb173c4c.js"
   ]
 }
