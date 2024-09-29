@@ -57,7 +57,7 @@ const App: React.FC = () => {
       try {
         setLoading(true); // Start loading
         const response = await axios.get(
-          'https://szymonkonopek.github.io/calendar/src/group_folder.json'
+          'https://szymonkonopek.github.io/calendar/group_folder.json'
         );
         const data: GroupData = response.data; // Cast the response to GroupData type
         const groups = Object.entries(data).flatMap(
