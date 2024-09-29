@@ -1,0 +1,1290 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241021T143000Z
+LOCATION:Paw.G 11
+DTSTART:20241021T130000Z
+SUMMARY:Internacjonalizacja przedsiębiorstwa (wykład)
+UID:cee06562-9eb9-4635-9b0a-dde34eb78711@cee0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241023T161500Z
+LOCATION:Paw.U sala K
+DTSTART:20241023T144500Z
+SUMMARY:Europejska polityka spójnośći (wykład)
+UID:0ee8bbfb-ebe5-49ad-9aa7-af90d637ce88@0ee8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20241120T120000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241120T103000Z
+SUMMARY:Społeczna odpowiedzialność biznesu w gospodarce globalnej (wykład do wyboru)
+UID:fd64b780-1b59-4e3b-83f2-37bf844c58f1@fd64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Pera
+DTEND:20241217T083000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241217T070000Z
+SUMMARY:Finanse w biznesie międzynarodowym (wykład)
+UID:734b6708-bb02-4f46-be47-4e0eb9288e85@734b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241106T171500Z
+LOCATION:Paw.U sala K
+DTSTART:20241106T154500Z
+SUMMARY:Europejska polityka spójnośći (wykład)
+UID:c6157c3d-c0ee-4b86-832b-f59c345826aa@c615.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Nawracaj-Grygiel
+DTEND:20241216T171500Z
+LOCATION:Paw.G  7
+DTSTART:20241216T154500Z
+SUMMARY:Foreign Direct Investment in Central-Eastern European Countries (wykład do wyboru)
+UID:4a5bc108-5411-414f-b767-fca173eb2c95@4a5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Arkadiusz Mroczek
+DTEND:20241211T083000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241211T070000Z
+SUMMARY:Europejska polityka spójnośći (ćwiczenia)
+UID:828f518b-6c0d-47b2-9e66-b2895abdd0b2@828f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241125T153000Z
+LOCATION:Paw.G 11
+DTSTART:20241125T140000Z
+SUMMARY:Internacjonalizacja przedsiębiorstwa (wykład)
+UID:65623b8a-7446-44c0-903f-9ba48c55b7ca@6562.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241028T134500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241028T121500Z
+SUMMARY:Polityka konkurencji UE (wykład)
+UID:ce8f695d-9ac9-48bd-8f1e-53f65b0a375b@ce8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20241030T120000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241030T103000Z
+SUMMARY:Społeczna odpowiedzialność biznesu w gospodarce globalnej (wykład do wyboru)
+UID:f32ed0b2-52ee-47ef-b343-852254f27b39@f32e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Pera
+DTEND:20241008T073000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241008T060000Z
+SUMMARY:Finanse w biznesie międzynarodowym (wykład)
+UID:5611b64d-d0ab-4632-8894-576468eb1491@5611.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241007T124500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241007T111500Z
+SUMMARY:Polityka konkurencji UE (wykład)
+UID:2d93cdaf-ed90-4682-a1d5-eefa772def62@2d93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Kwaśny
+DTEND:20241216T101500Z
+LOCATION:Paw.G  7
+DTSTART:20241216T084500Z
+SUMMARY:Gospodarka i administracja publiczna w wybranych krajach (wykład)
+UID:7c64a2eb-1d27-43fa-b6b7-79c1a1f516df@7c64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Arkadiusz Mroczek
+DTEND:20250122T083000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20250122T070000Z
+SUMMARY:Europejska polityka spójnośći (ćwiczenia)
+UID:ec6dc7aa-c491-4744-8432-19f3834304a1@ec6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20250115T120000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20250115T103000Z
+SUMMARY:Społeczna odpowiedzialność biznesu w gospodarce globalnej (wykład do wyboru)
+UID:5b5af36b-751a-437b-a275-8884d4aa0a93@5b5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20241127T120000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241127T103000Z
+SUMMARY:Społeczna odpowiedzialność biznesu w gospodarce globalnej (wykład do wyboru)
+UID:d4a8d1cc-3198-4ce3-a3b1-673d1c7c5dff@d4a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Nawracaj-Grygiel
+DTEND:20241202T171500Z
+LOCATION:Paw.G  7
+DTSTART:20241202T154500Z
+SUMMARY:Foreign Direct Investment in Central-Eastern European Countries (wykład do wyboru)
+UID:c9a4fe48-032e-438c-a017-c7d9a86eee77@c9a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241209T153000Z
+LOCATION:Paw.G 11
+DTSTART:20241209T140000Z
+SUMMARY:Internacjonalizacja przedsiębiorstwa (wykład)
+UID:898cf574-8eeb-4ffc-89e2-2ff8a55bebee@898c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Arkadiusz Mroczek
+DTEND:20250115T083000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20250115T070000Z
+SUMMARY:Europejska polityka spójnośći (ćwiczenia)
+UID:33ed41d2-83ca-408d-89f6-ad755494eddd@33ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Kwaśny
+DTEND:20250113T101500Z
+LOCATION:Paw.G  7
+DTSTART:20250113T084500Z
+SUMMARY:Gospodarka i administracja publiczna w wybranych krajach (wykład)
+UID:65103b8c-0409-4de5-af83-9647d524ff34@6510.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20241029T120000Z
+LOCATION:Paw.G - 1
+DTSTART:20241029T103000Z
+SUMMARY:Międzynarodowe badania marketingowe (wykład)
+UID:d1aefaf5-aa82-427a-8e2d-55943483cbad@d1ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241028T153000Z
+LOCATION:Paw.G 11
+DTSTART:20241028T140000Z
+SUMMARY:Internacjonalizacja przedsiębiorstwa (wykład)
+UID:342f6218-738a-468e-976e-eaf3a137e005@342f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Pera
+DTEND:20241119T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241119T084500Z
+SUMMARY:Finanse w biznesie międzynarodowym (ćwiczenia)
+UID:bb4e698f-466a-4f91-9fed-81f625eb1fcd@bb4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20250113T153000Z
+LOCATION:Paw.G 11
+DTSTART:20250113T140000Z
+SUMMARY:Internacjonalizacja przedsiębiorstwa (wykład)
+UID:b11bfeda-f41e-434b-8b2c-b0e61536d048@b11b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Kwaśny
+DTEND:20241125T101500Z
+LOCATION:Paw.G  7
+DTSTART:20241125T084500Z
+SUMMARY:Gospodarka i administracja publiczna w wybranych krajach (wykład)
+UID:ad26de8a-1e47-463b-8288-3a28fe1d8801@ad26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241031T134500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241031T121500Z
+SUMMARY:Internacjonalizacja przedsiębiorstwa (wykład)
+UID:cdfe340a-8cc7-42e4-bf12-fc6c9bac1647@cdfe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20241118T120000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241118T103000Z
+SUMMARY:Międzynarodowe badania marketingowe (ćwiczenia)
+UID:37bae835-b420-49d5-a4fe-ddbe372885bb@37ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241104T153000Z
+LOCATION:Paw.G 11
+DTSTART:20241104T140000Z
+SUMMARY:Internacjonalizacja przedsiębiorstwa (wykład)
+UID:2f60184f-884c-4a06-b467-ec0be1ba9c6d@2f60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20241106T120000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241106T103000Z
+SUMMARY:Społeczna odpowiedzialność biznesu w gospodarce globalnej (wykład do wyboru)
+UID:8c6fdb6f-6ebc-43b9-9e3a-737a35b97c27@8c6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20241001T110000Z
+LOCATION:Paw.G - 1
+DTSTART:20241001T093000Z
+SUMMARY:Międzynarodowe badania marketingowe (wykład)
+UID:df22129f-7dec-406d-bf27-2ccf248df2b8@df22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Kwaśny
+DTEND:20241118T101500Z
+LOCATION:Paw.G  7
+DTSTART:20241118T084500Z
+SUMMARY:Gospodarka i administracja publiczna w wybranych krajach (wykład)
+UID:cc5215a7-e475-4f9e-a4a6-02fb2e6a3cb4@cc52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241216T134500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241216T121500Z
+SUMMARY:Polityka konkurencji UE (wykład)
+UID:7921bf91-fe4c-4f8f-a7ce-7fbba13968f1@7921.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241121T134500Z
+LOCATION:Paw.F CJ 210
+DTSTART:20241121T121500Z
+SUMMARY:Internacjonalizacja przedsiębiorstwa (wykład)
+UID:9636f86e-21cf-484e-b276-109e15263673@9636.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20250108T134500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250108T121500Z
+SUMMARY:Społeczna odpowiedzialność biznesu w gospodarce globalnej (wykład do wyboru)
+UID:e671cd5e-1159-42d5-8c3b-d7546b0e59bc@e671.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20250120T153000Z
+LOCATION:Paw.G 11
+DTSTART:20250120T140000Z
+SUMMARY:Internacjonalizacja przedsiębiorstwa (wykład)
+UID:931319ee-d967-4b82-80a1-59fe00674efe@9313.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Nawracaj-Grygiel
+DTEND:20250113T171500Z
+LOCATION:Paw.G  7
+DTSTART:20250113T154500Z
+SUMMARY:Foreign Direct Investment in Central-Eastern European Countries (wykład do wyboru)
+UID:ad58d288-6592-42fb-8372-c9f1d9c33cf4@ad58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Arkadiusz Mroczek
+DTEND:20241218T083000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241218T070000Z
+SUMMARY:Europejska polityka spójnośći (ćwiczenia)
+UID:cc328b88-d797-4028-a6c3-9dc08f3c712e@cc32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241014T143000Z
+LOCATION:Paw.G 11
+DTSTART:20241014T130000Z
+SUMMARY:Internacjonalizacja przedsiębiorstwa (wykład)
+UID:fbe433c2-59e6-4b13-82c3-c372d4163f97@fbe4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Nawracaj-Grygiel
+DTEND:20241125T171500Z
+LOCATION:Paw.G  7
+DTSTART:20241125T154500Z
+SUMMARY:Foreign Direct Investment in Central-Eastern European Countries (wykład do wyboru)
+UID:a56e41d2-f27a-4f2f-8d9e-987489aac9a2@a56e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20250115T101500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20250115T084500Z
+SUMMARY:Rynki pozaeuropejskie (wykład)
+UID:0db92af2-e6e8-493e-a7c4-9e8d220da6cb@0db9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Kwaśny
+DTEND:20241028T101500Z
+LOCATION:Paw.G  7
+DTSTART:20241028T084500Z
+SUMMARY:Gospodarka i administracja publiczna w wybranych krajach (wykład)
+UID:1a8f1246-f298-42dd-8249-d8394f24619b@1a8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20250123T190000Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20250123T181500Z
+SUMMARY:Międzynarodowe badania marketingowe (ćwiczenia)
+UID:49445b83-6ad3-4749-83b7-a130aa448c0c@4944.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Nawracaj-Grygiel
+DTEND:20250120T171500Z
+LOCATION:Paw.G  7
+DTSTART:20250120T154500Z
+SUMMARY:Foreign Direct Investment in Central-Eastern European Countries (wykład do wyboru)
+UID:8bb0cee8-c8e3-46a9-954b-dfd2e6de3ff8@8bb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241015T091500Z
+LOCATION:Paw.G 11
+DTSTART:20241015T074500Z
+SUMMARY:Internacjonalizacja przedsiębiorstwa (ćwiczenia)
+UID:70315cdc-bae1-4a73-bc8a-8a4d80d7a9a4@7031.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20241218T120000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241218T103000Z
+SUMMARY:Społeczna odpowiedzialność biznesu w gospodarce globalnej (wykład do wyboru)
+UID:24b7b678-b978-474a-bd42-1cbeef43a8f3@24b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241202T153000Z
+LOCATION:Paw.G 11
+DTSTART:20241202T140000Z
+SUMMARY:Internacjonalizacja przedsiębiorstwa (wykład)
+UID:cd726ac7-3651-4a82-898d-8763155cbbfd@cd72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241121T153000Z
+LOCATION:Paw.F CJ 210
+DTSTART:20241121T140000Z
+SUMMARY:Polityka konkurencji UE (wykład)
+UID:eb6db997-3742-4721-a1a4-bb917b1f3684@eb6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241118T153000Z
+LOCATION:Paw.G 11
+DTSTART:20241118T140000Z
+SUMMARY:Internacjonalizacja przedsiębiorstwa (wykład)
+UID:d906099f-7a37-457d-9676-fe00ae2dea07@d906.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241009T161500Z
+LOCATION:Paw.U sala K
+DTSTART:20241009T144500Z
+SUMMARY:Europejska polityka spójnośći (wykład)
+UID:4cc4cb0f-8b07-4151-b307-60f2ffb1cd9d@4cc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Arkadiusz Mroczek
+DTEND:20241113T083000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241113T070000Z
+SUMMARY:Europejska polityka spójnośći (ćwiczenia)
+UID:d1333dc7-fa94-4a4e-acb3-3951b0d39053@d133.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Nawracaj-Grygiel
+DTEND:20241028T190000Z
+LOCATION:Paw.G  7
+DTSTART:20241028T173000Z
+SUMMARY:Foreign Direct Investment in Central-Eastern European Countries (wykład do wyboru)
+UID:f2c06ce1-1afe-42aa-bfdb-29563a0730d4@f2c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241113T171500Z
+LOCATION:Paw.U sala K
+DTSTART:20241113T154500Z
+SUMMARY:Europejska polityka spójnośći (wykład)
+UID:243dbbc7-1b32-4731-ba52-cc4b924f220e@243d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20241106T101500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241106T084500Z
+SUMMARY:Rynki pozaeuropejskie (wykład)
+UID:edf7e51f-8d7a-4549-b845-7e517d650f18@edf7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20250113T120000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250113T103000Z
+SUMMARY:Międzynarodowe badania marketingowe (ćwiczenia)
+UID:a425aa9b-cc57-4efb-89f7-7240bc0ab571@a425.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Pera
+DTEND:20250114T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20250114T084500Z
+SUMMARY:Finanse w biznesie międzynarodowym (ćwiczenia)
+UID:2cd60f97-dd05-4242-b990-c7330939a5cf@2cd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Nawracaj-Grygiel
+DTEND:20241021T161500Z
+LOCATION:Paw.G  7
+DTSTART:20241021T144500Z
+SUMMARY:Foreign Direct Investment in Central-Eastern European Countries (wykład do wyboru)
+UID:3f9918a2-eb70-47e0-821d-2c844eef4f6c@3f99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Kwaśny
+DTEND:20241007T091500Z
+LOCATION:Paw.G  7
+DTSTART:20241007T074500Z
+SUMMARY:Gospodarka i administracja publiczna w wybranych krajach (wykład)
+UID:5002f5ee-6a06-44bd-93d5-7c310b00eaa3@5002.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Arkadiusz Mroczek
+DTEND:20250108T083000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20250108T070000Z
+SUMMARY:Europejska polityka spójnośći (ćwiczenia)
+UID:c351fc09-b977-4071-a6cb-1c61a7a1cf82@c351.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Kwaśny
+DTEND:20241202T101500Z
+LOCATION:Paw.G  7
+DTSTART:20241202T084500Z
+SUMMARY:Gospodarka i administracja publiczna w wybranych krajach (wykład)
+UID:dbfa3d1a-c430-4d95-b86b-9706ba3ee750@dbfa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Nawracaj-Grygiel
+DTEND:20241104T171500Z
+LOCATION:Paw.G  7
+DTSTART:20241104T154500Z
+SUMMARY:Foreign Direct Investment in Central-Eastern European Countries (wykład do wyboru)
+UID:16a5ebe7-46c6-4b8c-9a25-7bffcddae66e@16a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Arkadiusz Mroczek
+DTEND:20241023T073000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241023T060000Z
+SUMMARY:Europejska polityka spójnośći (ćwiczenia)
+UID:39d55e3a-58c7-443a-83ae-9c5b32cccb19@39d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Arkadiusz Mroczek
+DTEND:20241120T083000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241120T070000Z
+SUMMARY:Europejska polityka spójnośći (ćwiczenia)
+UID:599c40b1-e9c2-4add-a8d8-3fa0ed8b55a7@599c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20241021T110000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241021T093000Z
+SUMMARY:Międzynarodowe badania marketingowe (ćwiczenia)
+UID:77686e84-0359-4a89-a88e-efdc1189e645@7768.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20241202T120000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241202T103000Z
+SUMMARY:Międzynarodowe badania marketingowe (ćwiczenia)
+UID:4472d7a0-66fa-4ba8-ac2a-c5248537c7a4@4472.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Pera
+DTEND:20241203T083000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241203T070000Z
+SUMMARY:Finanse w biznesie międzynarodowym (wykład)
+UID:588486ba-9bda-41b1-8930-0b6922216385@5884.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20241016T091500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241016T074500Z
+SUMMARY:Rynki pozaeuropejskie (wykład)
+UID:c1989212-d406-452b-9779-20153eaebab5@c198.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Arkadiusz Mroczek
+DTEND:20241106T083000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241106T070000Z
+SUMMARY:Europejska polityka spójnośći (ćwiczenia)
+UID:a823a7eb-b868-43af-a7ba-0d04437d2de6@a823.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Arkadiusz Mroczek
+DTEND:20241204T083000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241204T070000Z
+SUMMARY:Europejska polityka spójnośći (ćwiczenia)
+UID:b596c8b5-cd2b-4d2a-a3b5-420e4ef65a3b@b596.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:1337de19-21d5-4757-888b-07e8d6880289@1337.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Pera
+DTEND:20241217T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241217T084500Z
+SUMMARY:Finanse w biznesie międzynarodowym (ćwiczenia)
+UID:5e432b72-1a09-440c-845c-2e6bb8bf2c32@5e43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Arkadiusz Mroczek
+DTEND:20241127T083000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241127T070000Z
+SUMMARY:Europejska polityka spójnośći (ćwiczenia)
+UID:a549a66f-5536-41de-ac55-6fa8c7eb1b00@a549.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20250115T134500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250115T121500Z
+SUMMARY:Rynki pozaeuropejskie (wykład)
+UID:96a6b080-cd82-477e-921f-01fec6dd42e3@96a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20241127T101500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241127T084500Z
+SUMMARY:Rynki pozaeuropejskie (wykład)
+UID:7830b49d-161b-4e7e-9787-6157e076e358@7830.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Kwaśny
+DTEND:20241209T101500Z
+LOCATION:Paw.G  7
+DTSTART:20241209T084500Z
+SUMMARY:Gospodarka i administracja publiczna w wybranych krajach (wykład)
+UID:ed82ef63-10ee-4fbf-9f32-9955438cc0c4@ed82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Pera
+DTEND:20241112T083000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241112T070000Z
+SUMMARY:Finanse w biznesie międzynarodowym (wykład)
+UID:b0b9ee67-e9e0-45c4-a1e0-64b69cfc4e52@b0b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241126T101500Z
+LOCATION:Paw.G 11
+DTSTART:20241126T084500Z
+SUMMARY:Internacjonalizacja przedsiębiorstwa (ćwiczenia)
+UID:233df143-d78f-497e-9ef4-8eca483871c4@233d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241031T153000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241031T140000Z
+SUMMARY:Polityka konkurencji UE (wykład)
+UID:1210141d-159e-48f7-b30d-c76b4e6ae78d@1210.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20250108T101500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20250108T084500Z
+SUMMARY:Rynki pozaeuropejskie (wykład)
+UID:e55a6b11-4a9a-4a41-8604-eea34dfc52d6@e55a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20250107T101500Z
+LOCATION:Paw.G 11
+DTSTART:20250107T084500Z
+SUMMARY:Internacjonalizacja przedsiębiorstwa (ćwiczenia)
+UID:68b7979e-5692-4b85-a792-668d6037cc64@68b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Pera
+DTEND:20241022T091500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241022T074500Z
+SUMMARY:Finanse w biznesie międzynarodowym (ćwiczenia)
+UID:1ce39db1-8088-448a-987b-033349c138f5@1ce3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Arkadiusz Mroczek
+DTEND:20241030T083000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241030T070000Z
+SUMMARY:Europejska polityka spójnośći (ćwiczenia)
+UID:ef581b56-1a0c-4415-a79a-4a9d34ab58b1@ef58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Pera
+DTEND:20241029T083000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241029T070000Z
+SUMMARY:Finanse w biznesie międzynarodowym (wykład)
+UID:26c54c76-1e7b-47fb-87b7-4fb6fb087354@26c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20241007T110000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241007T093000Z
+SUMMARY:Międzynarodowe badania marketingowe (ćwiczenia)
+UID:4ce128b7-1e47-4b65-b1a4-0efef59eabfc@4ce1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20241030T101500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241030T084500Z
+SUMMARY:Rynki pozaeuropejskie (wykład)
+UID:1e3cacdf-1efb-4dfc-aaf4-d6d70375b552@1e3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20241211T120000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241211T103000Z
+SUMMARY:Społeczna odpowiedzialność biznesu w gospodarce globalnej (wykład do wyboru)
+UID:155cb9f4-6d45-43a2-8988-924657f1516e@155c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Pera
+DTEND:20241126T083000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241126T070000Z
+SUMMARY:Finanse w biznesie międzynarodowym (wykład)
+UID:75e0faa1-81a7-4ef6-b9dc-b16a27aad73e@75e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Nawracaj-Grygiel
+DTEND:20241028T171500Z
+LOCATION:Paw.G  7
+DTSTART:20241028T154500Z
+SUMMARY:Foreign Direct Investment in Central-Eastern European Countries (wykład do wyboru)
+UID:1a5de3f7-fa09-4cec-af37-389797b90840@1a5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Arkadiusz Mroczek
+DTEND:20241009T073000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241009T060000Z
+SUMMARY:Europejska polityka spójnośći (ćwiczenia)
+UID:34d17ef7-98f0-4d1c-87b8-21d01cf98a5e@34d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Pera
+DTEND:20241105T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241105T084500Z
+SUMMARY:Finanse w biznesie międzynarodowym (ćwiczenia)
+UID:ff5e0720-d37b-46fe-b022-dfe5d385189b@ff5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Nawracaj-Grygiel
+DTEND:20241125T190000Z
+LOCATION:Paw.G  7
+DTSTART:20241125T173000Z
+SUMMARY:Foreign Direct Investment in Central-Eastern European Countries (wykład do wyboru)
+UID:79e37c31-fd10-42c6-95e8-5d1d719bc9d5@79e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Kwaśny
+DTEND:20250110T124500Z
+LOCATION:Paw.C sala A
+DTSTART:20250110T103000Z
+SUMMARY:Gospodarka i administracja publiczna w wybranych krajach (wykład)
+UID:c7be25be-e41d-40ff-b78c-ac120cee1d0a@c7be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Pera
+DTEND:20241022T073000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241022T060000Z
+SUMMARY:Finanse w biznesie międzynarodowym (wykład)
+UID:96c58ba8-f278-4ece-bdfd-3892ebd54304@96c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Kwaśny
+DTEND:20241104T101500Z
+LOCATION:Paw.G  7
+DTSTART:20241104T084500Z
+SUMMARY:Gospodarka i administracja publiczna w wybranych krajach (wykład)
+UID:77417e2e-b8a7-4370-b774-ad2576acbe20@7741.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241007T143000Z
+LOCATION:Paw.G 11
+DTSTART:20241007T130000Z
+SUMMARY:Internacjonalizacja przedsiębiorstwa (wykład)
+UID:03690197-f165-40de-992a-fc1a5a0cc205@0369.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20250108T120000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20250108T103000Z
+SUMMARY:Społeczna odpowiedzialność biznesu w gospodarce globalnej (wykład do wyboru)
+UID:d567fdca-ca02-4f66-8409-50befdc4c9d9@d567.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20241009T091500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241009T074500Z
+SUMMARY:Rynki pozaeuropejskie (wykład)
+UID:419efed5-3152-43a4-a009-c15fba120d15@419e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241029T101500Z
+LOCATION:Paw.G 11
+DTSTART:20241029T084500Z
+SUMMARY:Internacjonalizacja przedsiębiorstwa (ćwiczenia)
+UID:0c4c708f-87b9-4b47-bd91-8839b86f916c@0c4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Pera
+DTEND:20241001T073000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241001T060000Z
+SUMMARY:Finanse w biznesie międzynarodowym (wykład)
+UID:b3b3d92c-f531-4b74-b503-5026ccd9e161@b3b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Kwaśny
+DTEND:20241213T124500Z
+LOCATION:Paw.F 106
+DTSTART:20241213T103000Z
+SUMMARY:Gospodarka i administracja publiczna w wybranych krajach (wykład)
+UID:9692976d-0b25-47ec-b1ba-b3b08ee54651@9692.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20241210T120000Z
+LOCATION:Paw.G - 1
+DTSTART:20241210T103000Z
+SUMMARY:Międzynarodowe badania marketingowe (wykład)
+UID:830f75f6-2391-4098-80a8-00e8bace0353@830f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Nawracaj-Grygiel
+DTEND:20241007T161500Z
+LOCATION:Paw.G  7
+DTSTART:20241007T144500Z
+SUMMARY:Foreign Direct Investment in Central-Eastern European Countries (wykład do wyboru)
+UID:f218a61a-22d6-465c-a368-3e7174c077bb@f218.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20241218T101500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241218T084500Z
+SUMMARY:Rynki pozaeuropejskie (wykład)
+UID:a93d8c15-6903-4673-9970-d3f69b21ff58@a93d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241118T134500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241118T121500Z
+SUMMARY:Polityka konkurencji UE (wykład)
+UID:2299b50f-27e7-4c67-8580-4ca3351cc90b@2299.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20250121T111500Z
+LOCATION:Paw.G - 1
+DTSTART:20250121T103000Z
+SUMMARY:Międzynarodowe badania marketingowe (wykład)
+UID:1e628f89-74e4-413c-8d5b-5da23166e182@1e62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20241023T091500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241023T074500Z
+SUMMARY:Rynki pozaeuropejskie (wykład)
+UID:2fa626be-a45f-4d33-9551-9916982e131d@2fa6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20241113T101500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241113T084500Z
+SUMMARY:Rynki pozaeuropejskie (wykład)
+UID:fda48e9f-af88-4255-83fd-85d610a48516@fda4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Pera
+DTEND:20250121T083000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20250121T070000Z
+SUMMARY:Finanse w biznesie międzynarodowym (wykład)
+UID:1a1d26d6-d9c1-43e9-9b86-962689bc2195@1a1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:30f3ffbd-92d8-4cd8-b542-5d7bc3f90a8c@30f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20241112T120000Z
+LOCATION:Paw.G - 1
+DTSTART:20241112T103000Z
+SUMMARY:Międzynarodowe badania marketingowe (wykład)
+UID:caa252a5-d4be-4cba-96d3-233d0c9eeb8a@caa2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Pera
+DTEND:20241119T083000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241119T070000Z
+SUMMARY:Finanse w biznesie międzynarodowym (wykład)
+UID:ada5dc9b-7374-49f4-b332-53ca904d4819@ada5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20241126T120000Z
+LOCATION:Paw.G - 1
+DTSTART:20241126T103000Z
+SUMMARY:Międzynarodowe badania marketingowe (wykład)
+UID:5f5af5de-eda7-43ea-b1af-73805a642ce6@5f5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Pera
+DTEND:20250121T134500Z
+LOCATION:Bibl. 443
+DTSTART:20250121T130000Z
+SUMMARY:Finanse w biznesie międzynarodowym (ćwiczenia)
+UID:ef76919e-9eaf-450e-8b29-71b3506e9526@ef76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20241204T101500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241204T084500Z
+SUMMARY:Rynki pozaeuropejskie (wykład)
+UID:9a61d929-c1ff-4e65-99e5-dadfa5f86f44@9a61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241216T153000Z
+LOCATION:Paw.G 11
+DTSTART:20241216T140000Z
+SUMMARY:Internacjonalizacja przedsiębiorstwa (wykład)
+UID:9c422503-e99f-4d42-a823-b2cea4f357c2@9c42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241014T124500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241014T111500Z
+SUMMARY:Polityka konkurencji UE (wykład)
+UID:ad90af4e-ca27-4f98-b920-9fcbef16a49a@ad90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Pera
+DTEND:20241203T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241203T084500Z
+SUMMARY:Finanse w biznesie międzynarodowym (ćwiczenia)
+UID:e49bb43a-f854-45d2-a16d-27c15550b1f5@e49b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Nawracaj-Grygiel
+DTEND:20241014T161500Z
+LOCATION:Paw.G  7
+DTSTART:20241014T144500Z
+SUMMARY:Foreign Direct Investment in Central-Eastern European Countries (wykład do wyboru)
+UID:79510121-8640-4d99-8f7e-ac93c9bd2926@7951.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Kwaśny
+DTEND:20250120T101500Z
+LOCATION:Paw.G  7
+DTSTART:20250120T084500Z
+SUMMARY:Gospodarka i administracja publiczna w wybranych krajach (wykład)
+UID:1393af72-7f3a-45aa-9ef4-743c7a651c60@1393.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Pera
+DTEND:20241105T083000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241105T070000Z
+SUMMARY:Finanse w biznesie międzynarodowym (wykład)
+UID:75d9b1f5-4ee6-4176-bf97-09cc1a3a3e48@75d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20250121T093000Z
+LOCATION:Paw.G 11
+DTSTART:20250121T084500Z
+SUMMARY:Internacjonalizacja przedsiębiorstwa (ćwiczenia)
+UID:0cdc7a67-0c28-42f7-91e8-f0248c5479e9@0cdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20250107T120000Z
+LOCATION:Paw.G - 1
+DTSTART:20250107T103000Z
+SUMMARY:Międzynarodowe badania marketingowe (wykład)
+UID:17051954-a909-4984-acbc-e945dccdd80a@1705.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Pera
+DTEND:20250107T083000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20250107T070000Z
+SUMMARY:Finanse w biznesie międzynarodowym (wykład)
+UID:3cf354ab-5b41-47b8-9158-f725e9e596d8@3cf3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241001T091500Z
+LOCATION:Paw.G 11
+DTSTART:20241001T074500Z
+SUMMARY:Internacjonalizacja przedsiębiorstwa (ćwiczenia)
+UID:796e2560-29e3-42ce-847f-36e27df13859@796e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20241113T120000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241113T103000Z
+SUMMARY:Społeczna odpowiedzialność biznesu w gospodarce globalnej (wykład do wyboru)
+UID:80a003d6-59df-4e08-8d69-160fbc2750a9@80a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241016T161500Z
+LOCATION:Paw.U sala K
+DTSTART:20241016T144500Z
+SUMMARY:Europejska polityka spójnośći (wykład)
+UID:5d00589b-06be-4952-bda8-06f69fa51c65@5d00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241021T124500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241021T111500Z
+SUMMARY:Polityka konkurencji UE (wykład)
+UID:f873f59b-c377-426a-8952-00351f8b42e0@f873.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Kwaśny
+DTEND:20241014T091500Z
+LOCATION:Paw.G  7
+DTSTART:20241014T074500Z
+SUMMARY:Gospodarka i administracja publiczna w wybranych krajach (wykład)
+UID:0db37d67-9c97-416e-af14-4921741bf1f8@0db3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Kwaśny
+DTEND:20241021T091500Z
+LOCATION:Paw.G  7
+DTSTART:20241021T074500Z
+SUMMARY:Gospodarka i administracja publiczna w wybranych krajach (wykład)
+UID:3ea6332d-c259-4a74-bb7b-9b5a69564be5@3ea6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20241023T110000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241023T093000Z
+SUMMARY:Społeczna odpowiedzialność biznesu w gospodarce globalnej (wykład do wyboru)
+UID:15bc3038-2253-4073-b5be-d2cf617439f3@15bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Pera
+DTEND:20241015T073000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241015T060000Z
+SUMMARY:Finanse w biznesie międzynarodowym (wykład)
+UID:e91340dd-770b-43ef-adc9-543e9d570eaf@e913.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241030T171500Z
+LOCATION:Paw.U sala K
+DTSTART:20241030T154500Z
+SUMMARY:Europejska polityka spójnośći (wykład)
+UID:5d697f19-ad91-4142-8756-b76aa1b65556@5d69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Pera
+DTEND:20241008T091500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241008T074500Z
+SUMMARY:Finanse w biznesie międzynarodowym (ćwiczenia)
+UID:8c4a77f4-0738-42f3-ad0b-add60a6ac603@8c4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Pera
+DTEND:20250114T083000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20250114T070000Z
+SUMMARY:Finanse w biznesie międzynarodowym (wykład)
+UID:6a79056d-22e8-44b6-bf68-ae46df9ceca9@6a79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241209T134500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241209T121500Z
+SUMMARY:Polityka konkurencji UE (wykład)
+UID:4595ed7e-2410-4901-b372-42d8adf71627@4595.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20241104T120000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241104T103000Z
+SUMMARY:Międzynarodowe badania marketingowe (ćwiczenia)
+UID:15f64217-8532-426d-a2df-84b3216592a5@15f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20250120T134500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250120T121500Z
+SUMMARY:Polityka konkurencji UE (wykład)
+UID:8f5203e5-351c-4acb-a10b-91eef4aa32ec@8f52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Nawracaj-Grygiel
+DTEND:20241014T180000Z
+LOCATION:Paw.G  7
+DTSTART:20241014T163000Z
+SUMMARY:Foreign Direct Investment in Central-Eastern European Countries (wykład do wyboru)
+UID:74797b50-ac53-48dc-8557-903964bc3e2f@7479.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20241216T120000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241216T103000Z
+SUMMARY:Międzynarodowe badania marketingowe (ćwiczenia)
+UID:81f9a2d8-b450-47d0-8eb3-28f1b81c620d@81f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241127T163000Z
+LOCATION:Paw.U sala K
+DTSTART:20241127T154500Z
+SUMMARY:Europejska polityka spójnośći (wykład)
+UID:ff68493c-e621-47aa-9cc7-af9a6d011f37@ff68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Arkadiusz Mroczek
+DTEND:20241016T073000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241016T060000Z
+SUMMARY:Europejska polityka spójnośći (ćwiczenia)
+UID:8a7fd75a-67fe-4154-a29f-79bb2e97f40b@8a7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20250122T101500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20250122T084500Z
+SUMMARY:Rynki pozaeuropejskie (wykład)
+UID:8dce5f7a-1854-4439-a59c-a980c6b196ba@8dce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241202T134500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241202T121500Z
+SUMMARY:Polityka konkurencji UE (wykład)
+UID:627bd7fd-fe30-4244-b0e5-63706e3558d3@627b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Nawracaj-Grygiel
+DTEND:20241118T171500Z
+LOCATION:Paw.G  7
+DTSTART:20241118T154500Z
+SUMMARY:Foreign Direct Investment in Central-Eastern European Countries (wykład do wyboru)
+UID:83cbf157-ccb4-479e-946d-8dfcb5feed2b@83cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20250122T120000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20250122T103000Z
+SUMMARY:Społeczna odpowiedzialność biznesu w gospodarce globalnej (wykład do wyboru)
+UID:6a043834-e663-43dc-973e-35dbe5c6b6a7@6a04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20241015T110000Z
+LOCATION:Paw.G - 1
+DTSTART:20241015T093000Z
+SUMMARY:Międzynarodowe badania marketingowe (wykład)
+UID:4d088268-336d-4f47-be4d-732f7ed76de3@4d08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241125T134500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241125T121500Z
+SUMMARY:Polityka konkurencji UE (wykład)
+UID:16940309-0185-42a3-83ae-9756d0733e2d@1694.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Arkadiusz Mroczek
+DTEND:20241213T083000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241213T070000Z
+SUMMARY:Europejska polityka spójnośći (ćwiczenia)
+UID:ebd33bd5-043d-475c-9e56-4a12a9c0ebf7@ebd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20241016T110000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241016T093000Z
+SUMMARY:Społeczna odpowiedzialność biznesu w gospodarce globalnej (wykład do wyboru)
+UID:1dbbaba0-8ad5-4d6c-89f1-7b21f65b5c1c@1dbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241017T143000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241017T130000Z
+SUMMARY:Polityka konkurencji UE (wykład)
+UID:6a9618a4-7559-4cc3-9ef5-b716aeb2902d@6a96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241104T134500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241104T121500Z
+SUMMARY:Polityka konkurencji UE (wykład)
+UID:7b3fbae3-9913-4100-994b-dd6b23a6fc57@7b3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241017T124500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241017T111500Z
+SUMMARY:Internacjonalizacja przedsiębiorstwa (wykład)
+UID:231d516f-c43f-4201-8cc2-770c4277effd@231d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20241211T101500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241211T084500Z
+SUMMARY:Rynki pozaeuropejskie (wykład)
+UID:5949b4f1-e52f-4b90-96bd-b77926523ecb@5949.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20250113T134500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250113T121500Z
+SUMMARY:Polityka konkurencji UE (wykład)
+UID:450c8712-eb09-416d-af19-e74b85833516@450c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20241204T120000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241204T103000Z
+SUMMARY:Społeczna odpowiedzialność biznesu w gospodarce globalnej (wykład do wyboru)
+UID:03cc7f8a-19f8-4ccb-8f38-919be895b37f@03cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Nawracaj-Grygiel
+DTEND:20241209T171500Z
+LOCATION:Paw.G  7
+DTSTART:20241209T154500Z
+SUMMARY:Foreign Direct Investment in Central-Eastern European Countries (wykład do wyboru)
+UID:faada3d9-76e9-4518-a7e0-ce0f242a12e2@faad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Pera
+DTEND:20241210T083000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241210T070000Z
+SUMMARY:Finanse w biznesie międzynarodowym (wykład)
+UID:d47be7ac-78d5-451c-ad96-eb430fe14e77@d47b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241210T101500Z
+LOCATION:Paw.G 11
+DTSTART:20241210T084500Z
+SUMMARY:Internacjonalizacja przedsiębiorstwa (ćwiczenia)
+UID:5eec9b8e-4350-42c8-bb38-9d187255e187@5eec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241112T101500Z
+LOCATION:Paw.G 11
+DTSTART:20241112T084500Z
+SUMMARY:Internacjonalizacja przedsiębiorstwa (ćwiczenia)
+UID:c092f74c-a341-46e8-9f19-37c89fe6861c@c092.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20241009T110000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241009T093000Z
+SUMMARY:Społeczna odpowiedzialność biznesu w gospodarce globalnej (wykład do wyboru)
+UID:85b0a477-bf3f-4550-ab1a-7c2d3932ebc0@85b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20241120T101500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241120T084500Z
+SUMMARY:Rynki pozaeuropejskie (wykład)
+UID:07e7e2e1-2497-486e-96b1-11b6794268b7@07e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241120T171500Z
+LOCATION:Paw.U sala K
+DTSTART:20241120T154500Z
+SUMMARY:Europejska polityka spójnośći (wykład)
+UID:1b879e1d-38fb-4055-a614-39e9273f99ec@1b87.org
+END:VEVENT
+END:VCALENDAR

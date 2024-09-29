@@ -1,0 +1,874 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241114T153000Z
+LOCATION:link do zajęć
+DTSTART:20241114T140000Z
+SUMMARY:Teoria inwestowania i wyceny akcji (wykład)
+UID:f51ba8da-cb55-4884-b552-b975cb01e2d7@f51b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20250109T083000Z
+LOCATION:link do zajęć
+DTSTART:20250109T070000Z
+SUMMARY:Analiza techniczna (wykład)
+UID:beb543d5-7ae6-4b47-925d-b7f0e183468b@beb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241205T083000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241205T070000Z
+SUMMARY:Analiza techniczna (ćwiczenia)
+UID:773dd0c5-1555-4cc2-b0b0-39d17a22fc0d@773d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Kędzior
+DTEND:20241127T134500Z
+LOCATION:link do zajęć
+DTSTART:20241127T130000Z
+SUMMARY:Analiza finansowa z uwzględnieniem banków i ubezpieczycieli (wykład)
+UID:682938d0-8287-48f3-acee-71ea0685e4f3@6829.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Rafał Sieradzki
+DTEND:20250113T153000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250113T140000Z
+SUMMARY:Analiza i wycena instrumentów pochodnych (ćwiczenia)
+UID:c98d5604-9466-45a9-b85c-028145ad5c09@c98d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Kędzior
+DTEND:20241120T134500Z
+LOCATION:link do zajęć
+DTSTART:20241120T121500Z
+SUMMARY:Analiza finansowa z uwzględnieniem banków i ubezpieczycieli (wykład)
+UID:fc7a086a-6f3f-4039-be52-20c5e442cd2b@fc7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kędzior
+DTEND:20241015T143000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241015T130000Z
+SUMMARY:Analiza finansowa z uwzględnieniem banków i ubezpieczycieli (ćwiczenia)
+UID:9252e7a4-fc3d-480e-b821-deb5d51b3dda@9252.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20241030T153000Z
+LOCATION:link do zajęć
+DTSTART:20241030T140000Z
+SUMMARY:Prawo rynków finansowych II (wykład)
+UID:26dc0a7e-df43-43ff-a464-d3d0c2bfdd4c@26dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20241127T153000Z
+LOCATION:link do zajęć
+DTSTART:20241127T140000Z
+SUMMARY:Prawo rynków finansowych II (wykład)
+UID:a88d80b0-ef23-427f-8425-4220a17f38a4@a88d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20250123T093000Z
+LOCATION:link do zajęć
+DTSTART:20250123T084500Z
+SUMMARY:Zarządzanie Ryzykiem Finansowym (wykład)
+UID:77ecf535-63d9-4bdc-b19a-75d9ac403ed9@77ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Kędzior
+DTEND:20241106T134500Z
+LOCATION:link do zajęć
+DTSTART:20241106T121500Z
+SUMMARY:Analiza finansowa z uwzględnieniem banków i ubezpieczycieli (wykład)
+UID:008e9f11-5035-4094-88a7-d84c1d23dd18@008e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kędzior
+DTEND:20241105T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241105T140000Z
+SUMMARY:Analiza finansowa z uwzględnieniem banków i ubezpieczycieli (ćwiczenia)
+UID:75b28aec-5029-41a8-9704-089ea71ed8c5@75b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241212T153000Z
+LOCATION:link do zajęć
+DTSTART:20241212T140000Z
+SUMMARY:Teoria inwestowania i wyceny akcji (wykład)
+UID:6ef2acca-0d54-424c-9c16-0931d16e0ebf@6ef2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241212T101500Z
+LOCATION:link do zajęć
+DTSTART:20241212T084500Z
+SUMMARY:Zarządzanie Ryzykiem Finansowym (wykład)
+UID:4530d44c-e92a-4cb0-b330-1ee114487c58@4530.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Rychlak
+DTEND:20250113T181500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250113T173000Z
+SUMMARY:Zarządzanie Ryzykiem Finansowym (ćwiczenia)
+UID:7ef4d2e5-e904-45f4-81c8-61aec1fe1fca@7ef4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20250107T190000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250107T173000Z
+SUMMARY:Teoria inwestowania i wyceny akcji (ćwiczenia)
+UID:16e03720-546c-4230-8ff4-dbc39a3fd33f@16e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20250124T083000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250124T074500Z
+SUMMARY:Analiza techniczna (ćwiczenia)
+UID:7887cab4-3087-4063-a65c-aeacfe3b45be@7887.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20241204T153000Z
+LOCATION:link do zajęć
+DTSTART:20241204T140000Z
+SUMMARY:Prawo rynków finansowych II (wykład)
+UID:870354f0-f815-45b5-a3af-eb1985b1cc65@8703.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241031T101500Z
+LOCATION:link do zajęć
+DTSTART:20241031T084500Z
+SUMMARY:Zarządzanie Ryzykiem Finansowym (wykład)
+UID:e4b10aa6-e6f0-48a0-9845-9bbb219f4fa6@e4b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20250109T153000Z
+LOCATION:link do zajęć
+DTSTART:20250109T140000Z
+SUMMARY:Teoria inwestowania i wyceny akcji (wykład)
+UID:a0d64e09-82ae-4121-92bc-c713bf0be1a7@a0d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20250110T083000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250110T070000Z
+SUMMARY:Analiza techniczna (ćwiczenia)
+UID:419a71a2-7f88-4eb3-9df0-20b726410161@419a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20250115T153000Z
+LOCATION:link do zajęć
+DTSTART:20250115T140000Z
+SUMMARY:Prawo rynków finansowych II (wykład)
+UID:f5ad6e43-844b-49cb-9de8-b2cb4ab8d4a7@f5ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20250122T151500Z
+LOCATION:link do zajęć
+DTSTART:20250122T130000Z
+SUMMARY:Prawo rynków finansowych II (wykład)
+UID:40096ca4-b498-45b5-af17-2078048471c5@4009.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Rafał Sieradzki
+DTEND:20250120T153000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250120T140000Z
+SUMMARY:Analiza i wycena instrumentów pochodnych (ćwiczenia)
+UID:e288ec3b-13cc-4d47-a143-7f6adcabe703@e288.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Rafał Sieradzki
+DTEND:20241202T101500Z
+LOCATION:link do zajęć
+DTSTART:20241202T084500Z
+SUMMARY:Analiza i wycena instrumentów pochodnych (wykład)
+UID:4022913c-cad7-48ae-a4b9-a027ec23f0d8@4022.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241213T083000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241213T070000Z
+SUMMARY:Analiza techniczna (ćwiczenia)
+UID:ead55574-f84e-4011-ba08-d6b66c20f211@ead5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Rychlak
+DTEND:20250113T171500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250113T154500Z
+SUMMARY:Zarządzanie Ryzykiem Finansowym (ćwiczenia)
+UID:aaf70515-e37c-49ce-ac2d-48e37cbec9da@aaf7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Rychlak
+DTEND:20241202T171500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241202T154500Z
+SUMMARY:Zarządzanie Ryzykiem Finansowym (ćwiczenia)
+UID:345b9d4b-8d4b-4955-b36d-78dda3d618c4@345b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Rychlak
+DTEND:20241007T161500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241007T144500Z
+SUMMARY:Zarządzanie Ryzykiem Finansowym (ćwiczenia)
+UID:cbedd2f2-fc4f-4431-8c70-674b6dde305e@cbed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Kędzior
+DTEND:20241023T124500Z
+LOCATION:link do zajęć
+DTSTART:20241023T111500Z
+SUMMARY:Analiza finansowa z uwzględnieniem banków i ubezpieczycieli (wykład)
+UID:6c3f9de9-831a-4bdf-a17a-3db891e46539@6c3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kędzior
+DTEND:20241022T143000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241022T130000Z
+SUMMARY:Analiza finansowa z uwzględnieniem banków i ubezpieczycieli (ćwiczenia)
+UID:31b039d8-fd4c-4273-a183-fd67c3b96c15@31b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Kędzior
+DTEND:20241030T134500Z
+LOCATION:link do zajęć
+DTSTART:20241030T121500Z
+SUMMARY:Analiza finansowa z uwzględnieniem banków i ubezpieczycieli (wykład)
+UID:b80d31ed-9a1c-4a8b-8bf3-17b0d08368f3@b80d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Rychlak
+DTEND:20241104T171500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241104T154500Z
+SUMMARY:Zarządzanie Ryzykiem Finansowym (ćwiczenia)
+UID:c627db33-3246-4afd-b073-38cb0de8c45d@c627.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20241211T153000Z
+LOCATION:link do zajęć
+DTSTART:20241211T140000Z
+SUMMARY:Prawo rynków finansowych II (wykład)
+UID:73e6da32-1b74-4706-b78a-3cf2b288c0fa@73e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241025T110000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241025T093000Z
+SUMMARY:Analiza techniczna (ćwiczenia)
+UID:838127c4-c89a-44d2-a38e-9a2b59679a42@8381.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Rafał Sieradzki
+DTEND:20241007T143000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241007T130000Z
+SUMMARY:Analiza i wycena instrumentów pochodnych (ćwiczenia)
+UID:b5314d8a-6f1c-4b12-a6ce-9720827b1690@b531.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Rafał Sieradzki
+DTEND:20241216T101500Z
+LOCATION:link do zajęć
+DTSTART:20241216T084500Z
+SUMMARY:Analiza i wycena instrumentów pochodnych (wykład)
+UID:e35a1fee-4832-4336-a745-6bea87ba8d6b@e35a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241031T153000Z
+LOCATION:link do zajęć
+DTSTART:20241031T140000Z
+SUMMARY:Teoria inwestowania i wyceny akcji (wykład)
+UID:7d8b2a59-ba47-4ef9-9763-8a9862c90a78@7d8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Rychlak
+DTEND:20241118T171500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241118T154500Z
+SUMMARY:Zarządzanie Ryzykiem Finansowym (ćwiczenia)
+UID:e4774353-6965-4f8f-ac18-10b6da628610@e477.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241220T120000Z
+LOCATION:link do zajęć
+DTSTART:20241220T103000Z
+SUMMARY:Zarządzanie Ryzykiem Finansowym (wykład)
+UID:43ca607c-0c3f-4109-85a3-fd504f8b9280@43ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Rafał Sieradzki
+DTEND:20241219T194500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241219T173000Z
+SUMMARY:Analiza i wycena instrumentów pochodnych (ćwiczenia)
+UID:66b2319e-d38a-4da5-9e94-add6f44ad778@66b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Rafał Sieradzki
+DTEND:20241104T101500Z
+LOCATION:link do zajęć
+DTSTART:20241104T084500Z
+SUMMARY:Analiza i wycena instrumentów pochodnych (wykład)
+UID:4dbe1ff0-025f-484d-8af8-df0b83af9aff@4dbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241212T083000Z
+LOCATION:link do zajęć
+DTSTART:20241212T070000Z
+SUMMARY:Analiza techniczna (wykład)
+UID:5a743044-eb9a-4283-8659-9f842ce56771@5a74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kędzior
+DTEND:20241203T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241203T140000Z
+SUMMARY:Analiza finansowa z uwzględnieniem banków i ubezpieczycieli (ćwiczenia)
+UID:57731950-13c5-4eee-8e7a-43789df07e6c@5773.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Rafał Sieradzki
+DTEND:20241216T153000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241216T140000Z
+SUMMARY:Analiza i wycena instrumentów pochodnych (ćwiczenia)
+UID:394b2d8e-fc56-4b38-967e-7420614fdbab@394b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241210T190000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241210T173000Z
+SUMMARY:Teoria inwestowania i wyceny akcji (ćwiczenia)
+UID:60416f74-d815-4e96-83b0-2a47f27334ed@6041.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241017T091500Z
+LOCATION:link do zajęć
+DTSTART:20241017T074500Z
+SUMMARY:Zarządzanie Ryzykiem Finansowym (wykład)
+UID:b293d2d4-1768-4cfe-ac2e-6d32530025f6@b293.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20250121T181500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250121T173000Z
+SUMMARY:Teoria inwestowania i wyceny akcji (ćwiczenia)
+UID:a71f1e44-b792-463c-be7f-4f356c13bc62@a71f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20241023T143000Z
+LOCATION:link do zajęć
+DTSTART:20241023T130000Z
+SUMMARY:Prawo rynków finansowych II (wykład)
+UID:af4110a8-9897-4df9-ab3e-4300538d195d@af41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241031T083000Z
+LOCATION:link do zajęć
+DTSTART:20241031T070000Z
+SUMMARY:Analiza techniczna (wykład)
+UID:76ada495-cfcf-4e97-a6b0-d47c747e88e7@76ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20250123T144500Z
+LOCATION:link do zajęć
+DTSTART:20250123T140000Z
+SUMMARY:Teoria inwestowania i wyceny akcji (wykład)
+UID:7b515579-4481-462b-9857-1f8997c346d6@7b51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Rafał Sieradzki
+DTEND:20241202T153000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241202T140000Z
+SUMMARY:Analiza i wycena instrumentów pochodnych (ćwiczenia)
+UID:efac46e1-87f2-4f72-b27a-36eb05942ff5@efac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20241016T143000Z
+LOCATION:link do zajęć
+DTSTART:20241016T130000Z
+SUMMARY:Prawo rynków finansowych II (wykład)
+UID:b2708ebf-ab6f-4904-96c0-d2d8d97f33db@b270.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Rafał Sieradzki
+DTEND:20250113T083000Z
+LOCATION:link do zajęć
+DTSTART:20250113T074500Z
+SUMMARY:Analiza i wycena instrumentów pochodnych (wykład)
+UID:aabf2b95-8ffc-48dc-96b4-a9d5149bc603@aabf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241220T134500Z
+LOCATION:link do zajęć
+DTSTART:20241220T121500Z
+SUMMARY:Analiza techniczna (wykład)
+UID:e5674bb8-ff36-4984-bb01-729afca8d549@e567.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241112T190000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241112T173000Z
+SUMMARY:Teoria inwestowania i wyceny akcji (ćwiczenia)
+UID:44718312-120c-4200-97f0-e488e35dbe72@4471.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kędzior
+DTEND:20241119T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241119T140000Z
+SUMMARY:Analiza finansowa z uwzględnieniem banków i ubezpieczycieli (ćwiczenia)
+UID:7831dd0e-93b5-4f1f-b550-55cf0591ac7b@7831.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241003T091500Z
+LOCATION:link do zajęć
+DTSTART:20241003T074500Z
+SUMMARY:Zarządzanie Ryzykiem Finansowym (wykład)
+UID:991ac48e-9973-4340-aa17-ada37a6243d0@991a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241219T083000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241219T070000Z
+SUMMARY:Analiza techniczna (ćwiczenia)
+UID:3073d287-9376-4d18-8428-5ca5d37bbf09@3073.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20250109T101500Z
+LOCATION:link do zajęć
+DTSTART:20250109T084500Z
+SUMMARY:Zarządzanie Ryzykiem Finansowym (wykład)
+UID:a0c72f62-7f03-419e-8a72-84ce867a93ab@a0c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Rafał Sieradzki
+DTEND:20241021T091500Z
+LOCATION:link do zajęć
+DTSTART:20241021T074500Z
+SUMMARY:Analiza i wycena instrumentów pochodnych (wykład)
+UID:6b33d741-c6ea-4f93-9533-2f26bcd5ced9@6b33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Rafał Sieradzki
+DTEND:20241021T143000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241021T130000Z
+SUMMARY:Analiza i wycena instrumentów pochodnych (ćwiczenia)
+UID:60202b24-61bc-4f15-b790-cdfce8da7a97@6020.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Kędzior
+DTEND:20241016T124500Z
+LOCATION:link do zajęć
+DTSTART:20241016T111500Z
+SUMMARY:Analiza finansowa z uwzględnieniem banków i ubezpieczycieli (wykład)
+UID:c896f1a0-0209-40f2-ada9-2560bba13fd6@c896.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kędzior
+DTEND:20241217T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241217T140000Z
+SUMMARY:Analiza finansowa z uwzględnieniem banków i ubezpieczycieli (ćwiczenia)
+UID:715a501d-0387-4e48-bf56-86f7e1dc7aa2@715a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Rafał Sieradzki
+DTEND:20241205T194500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241205T173000Z
+SUMMARY:Analiza i wycena instrumentów pochodnych (ćwiczenia)
+UID:b8ea1d86-166b-432e-aa79-17b7e9a57dea@b8ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20250116T083000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250116T070000Z
+SUMMARY:Analiza techniczna (ćwiczenia)
+UID:d84e0ff2-b182-4566-931c-cfc28e402866@d84e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Rafał Sieradzki
+DTEND:20241028T153000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241028T140000Z
+SUMMARY:Analiza i wycena instrumentów pochodnych (ćwiczenia)
+UID:702b819c-a348-49cb-be75-f6343337e91a@702b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Rychlak
+DTEND:20241216T171500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241216T154500Z
+SUMMARY:Zarządzanie Ryzykiem Finansowym (ćwiczenia)
+UID:21ddc8b5-bc64-45ae-8416-fb034dfd670b@21dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20241106T153000Z
+LOCATION:link do zajęć
+DTSTART:20241106T140000Z
+SUMMARY:Prawo rynków finansowych II (wykład)
+UID:4a92e5ce-2e4f-4793-ae0a-09121d8dfa85@4a92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:7e10a7a4-119f-470b-b308-fada68f98733@7e10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Rafał Sieradzki
+DTEND:20241118T153000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241118T140000Z
+SUMMARY:Analiza i wycena instrumentów pochodnych (ćwiczenia)
+UID:0040f453-416e-4541-a6d2-ab903bc78e5b@0040.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241128T153000Z
+LOCATION:link do zajęć
+DTSTART:20241128T140000Z
+SUMMARY:Teoria inwestowania i wyceny akcji (wykład)
+UID:f0c9df41-3430-4ad1-8b26-8bc6b40e1c56@f0c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241003T143000Z
+LOCATION:link do zajęć
+DTSTART:20241003T130000Z
+SUMMARY:Teoria inwestowania i wyceny akcji (wykład)
+UID:18f7648a-6950-413d-bbad-dd7bcff8b4c3@18f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Rafał Sieradzki
+DTEND:20241125T153000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241125T140000Z
+SUMMARY:Analiza i wycena instrumentów pochodnych (ćwiczenia)
+UID:a8fafc09-560b-4f7a-a28c-86d0284c5b19@a8fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20250123T074500Z
+LOCATION:link do zajęć
+DTSTART:20250123T070000Z
+SUMMARY:Analiza techniczna (wykład)
+UID:92baa99a-7f2b-40d7-9389-39921335fc66@92ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Rafał Sieradzki
+DTEND:20241209T153000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241209T140000Z
+SUMMARY:Analiza i wycena instrumentów pochodnych (ćwiczenia)
+UID:a689fbdb-ca96-4c07-8760-0693d5182f0d@a689.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20241113T153000Z
+LOCATION:link do zajęć
+DTSTART:20241113T140000Z
+SUMMARY:Prawo rynków finansowych II (wykład)
+UID:859d4930-00da-485d-9d5b-1945c92e906a@859d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Rafał Sieradzki
+DTEND:20250113T101500Z
+LOCATION:link do zajęć
+DTSTART:20250113T084500Z
+SUMMARY:Analiza i wycena instrumentów pochodnych (wykład)
+UID:afb96f54-b90c-4872-926f-c8db52edc11c@afb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241001T180000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241001T163000Z
+SUMMARY:Teoria inwestowania i wyceny akcji (ćwiczenia)
+UID:8a8019c6-5e0b-426f-b825-2365c3971957@8a80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20241009T143000Z
+LOCATION:link do zajęć
+DTSTART:20241009T130000Z
+SUMMARY:Prawo rynków finansowych II (wykład)
+UID:2dccfcc5-127d-4375-86ab-de23b9df00d7@2dcc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Kędzior
+DTEND:20241113T134500Z
+LOCATION:link do zajęć
+DTSTART:20241113T121500Z
+SUMMARY:Analiza finansowa z uwzględnieniem banków i ubezpieczycieli (wykład)
+UID:86a11c53-8795-45d8-99eb-effb4b960509@86a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241010T073000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241010T060000Z
+SUMMARY:Analiza techniczna (ćwiczenia)
+UID:5a388a02-93bb-452c-9345-8185abc114b0@5a38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Rafał Sieradzki
+DTEND:20241014T143000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241014T130000Z
+SUMMARY:Analiza i wycena instrumentów pochodnych (ćwiczenia)
+UID:1c8cf07d-6754-4c3e-aa33-e86ae80bed42@1c8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Rychlak
+DTEND:20241021T161500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241021T144500Z
+SUMMARY:Zarządzanie Ryzykiem Finansowym (ćwiczenia)
+UID:0c2056b1-fc89-4eca-a88b-486efe7fefc3@0c20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20241120T153000Z
+LOCATION:link do zajęć
+DTSTART:20241120T140000Z
+SUMMARY:Prawo rynków finansowych II (wykład)
+UID:098b0c63-6b06-48d5-a2b2-0d62b85c3592@098b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20250108T151500Z
+LOCATION:link do zajęć
+DTSTART:20250108T130000Z
+SUMMARY:Prawo rynków finansowych II (wykład)
+UID:94cbf407-7f78-4ae2-a6f3-8a7b97024063@94cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kędzior
+DTEND:20241001T143000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241001T130000Z
+SUMMARY:Analiza finansowa z uwzględnieniem banków i ubezpieczycieli (ćwiczenia)
+UID:df6fbb7c-439d-45e4-8c20-afced5c09c0c@df6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kędzior
+DTEND:20241008T143000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241008T130000Z
+SUMMARY:Analiza finansowa z uwzględnieniem banków i ubezpieczycieli (ćwiczenia)
+UID:40aa09ed-d534-4291-8df8-56b43df57282@40aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Rafał Sieradzki
+DTEND:20241007T091500Z
+LOCATION:link do zajęć
+DTSTART:20241007T074500Z
+SUMMARY:Analiza i wycena instrumentów pochodnych (wykład)
+UID:85700662-012c-41a7-b78d-4df303a7789e@8570.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241017T143000Z
+LOCATION:link do zajęć
+DTSTART:20241017T130000Z
+SUMMARY:Teoria inwestowania i wyceny akcji (wykład)
+UID:d8cfa6b8-26d1-4723-8f2e-2a9a44ee3704@d8cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kędzior
+DTEND:20241112T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241112T140000Z
+SUMMARY:Analiza finansowa z uwzględnieniem banków i ubezpieczycieli (ćwiczenia)
+UID:f51ad7c5-cde7-48d6-bce5-39cf8bc11777@f51a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Kędzior
+DTEND:20241009T124500Z
+LOCATION:link do zajęć
+DTSTART:20241009T111500Z
+SUMMARY:Analiza finansowa z uwzględnieniem banków i ubezpieczycieli (wykład)
+UID:d0968b84-5196-4ab8-8959-a64cd6504724@d096.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:d3f1cd51-9b34-4020-890f-e35830cd6136@d3f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241017T073000Z
+LOCATION:link do zajęć
+DTSTART:20241017T060000Z
+SUMMARY:Analiza techniczna (wykład)
+UID:58f5abad-d704-4fe6-a7ee-b86975f5f4ca@58f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241206T134500Z
+LOCATION:link do zajęć
+DTSTART:20241206T121500Z
+SUMMARY:Analiza techniczna (wykład)
+UID:c44d4a7b-f620-4d1a-bfe4-6ce17c5929b9@c44d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kędzior
+DTEND:20241210T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241210T140000Z
+SUMMARY:Analiza finansowa z uwzględnieniem banków i ubezpieczycieli (ćwiczenia)
+UID:b2307002-c2a9-4fe3-8a88-85e89bcf2bc5@b230.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kędzior
+DTEND:20250114T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250114T140000Z
+SUMMARY:Analiza finansowa z uwzględnieniem banków i ubezpieczycieli (ćwiczenia)
+UID:c5127f31-c405-4a71-81a3-3e53e18ee36e@c512.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241003T073000Z
+LOCATION:link do zajęć
+DTSTART:20241003T060000Z
+SUMMARY:Analiza techniczna (wykład)
+UID:e86af80a-76ad-4ee2-bc86-ec3af13898d8@e86a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kędzior
+DTEND:20250121T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250121T140000Z
+SUMMARY:Analiza finansowa z uwzględnieniem banków i ubezpieczycieli (ćwiczenia)
+UID:18cb1694-a102-41c1-a538-d95774471a0f@18cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241206T120000Z
+LOCATION:link do zajęć
+DTSTART:20241206T103000Z
+SUMMARY:Zarządzanie Ryzykiem Finansowym (wykład)
+UID:39678d50-d1d7-4e0d-9861-ced9a8a0be3b@3967.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kędzior
+DTEND:20241126T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241126T140000Z
+SUMMARY:Analiza finansowa z uwzględnieniem banków i ubezpieczycieli (ćwiczenia)
+UID:fc9bdfc7-395e-4a4b-bc50-dfd5a54fffa1@fc9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Rafał Sieradzki
+DTEND:20241118T101500Z
+LOCATION:link do zajęć
+DTSTART:20241118T084500Z
+SUMMARY:Analiza i wycena instrumentów pochodnych (wykład)
+UID:ce2cd950-dbf6-4f60-a0ee-0ba6e60319ac@ce2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Monika Szaraniec
+DTEND:20241218T153000Z
+LOCATION:link do zajęć
+DTSTART:20241218T140000Z
+SUMMARY:Prawo rynków finansowych II (wykład)
+UID:16b590af-3748-4114-9ba7-c2149f77d961@16b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kędzior
+DTEND:20241029T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241029T140000Z
+SUMMARY:Analiza finansowa z uwzględnieniem banków i ubezpieczycieli (ćwiczenia)
+UID:ccfa97f7-81e9-4a89-8288-338546836343@ccfa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241029T190000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241029T173000Z
+SUMMARY:Teoria inwestowania i wyceny akcji (ćwiczenia)
+UID:36e4c98d-1dfd-4ac7-a8ef-089a014edbe6@36e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241015T180000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241015T163000Z
+SUMMARY:Teoria inwestowania i wyceny akcji (ćwiczenia)
+UID:c49229b3-106a-49b6-a163-51b321abe8c1@c492.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kędzior
+DTEND:20250107T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250107T140000Z
+SUMMARY:Analiza finansowa z uwzględnieniem banków i ubezpieczycieli (ćwiczenia)
+UID:d8a5cdf9-4739-4df6-94f5-9b1b41872fb7@d8a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241126T190000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241126T173000Z
+SUMMARY:Teoria inwestowania i wyceny akcji (ćwiczenia)
+UID:0d246b83-3481-4372-bf56-2747dbbe1ee4@0d24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Rafał Sieradzki
+DTEND:20241104T153000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241104T140000Z
+SUMMARY:Analiza i wycena instrumentów pochodnych (ćwiczenia)
+UID:0ae1b825-54f0-482b-bc35-cd56b13550fe@0ae1.org
+END:VEVENT
+END:VCALENDAR

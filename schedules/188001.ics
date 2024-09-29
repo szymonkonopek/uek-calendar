@@ -1,0 +1,874 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
+DTEND:20241022T091500Z
+LOCATION:Paw.S sala 9
+DTSTART:20241022T074500Z
+SUMMARY:Matematyka w zastosowaniach ekonomicznych (wykład)
+UID:7f092c35-2e01-442d-8d56-49e622c1f383@7f09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Szklarska
+DTEND:20241004T091500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241004T074500Z
+SUMMARY:Matematyka w zastosowaniach ekonomicznych (ćwiczenia)
+UID:14595efa-ce40-4c6a-8c59-ebc2f6a689f3@1459.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Kowalski
+DTEND:20241031T101500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241031T084500Z
+SUMMARY:Mikroekonomia (wykład)
+UID:a0866fed-f1fe-4646-987f-c3b244c67657@a086.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20250108T134500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250108T121500Z
+SUMMARY:Komputerowa analiza danych w biznesie i handlu zagranicznym (konwersatorium)
+UID:00f89a7f-bb87-432b-843e-9a002279118f@00f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Czesława Pilarska
+DTEND:20250109T134500Z
+LOCATION:Paw.B 351
+DTSTART:20250109T121500Z
+SUMMARY:Mikroekonomia (ćwiczenia)
+UID:13eaa513-cfaf-4979-89e6-87180197b853@13ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20241014T110000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241014T093000Z
+SUMMARY:Komputerowa analiza danych w biznesie i handlu zagranicznym (konwersatorium)
+UID:838b7a7f-b710-43b0-a538-25f7a1a0415a@838b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20241219T171500Z
+LOCATION:Paw.C sala F
+DTSTART:20241219T154500Z
+SUMMARY:Podstawy zarządzania (wykład)
+UID:2bcc63ba-c917-429d-b46d-11dafdba7dd6@2bcc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Czesława Pilarska
+DTEND:20241205T134500Z
+LOCATION:Paw.B 351
+DTSTART:20241205T121500Z
+SUMMARY:Mikroekonomia (ćwiczenia)
+UID:d457c680-88dc-4c74-abf1-eef4c811bf08@d457.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20250121T134500Z
+LOCATION:Paw.C sala E
+DTSTART:20250121T121500Z
+SUMMARY:Prawo gospodarcze (wykład)
+UID:431342b6-6441-4060-9644-3f530159cf16@4313.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
+DTEND:20241003T110000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241003T093000Z
+SUMMARY:Matematyka w zastosowaniach ekonomicznych (wykład)
+UID:e113df6f-10f7-4270-af60-40595cebe601@e113.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20250107T134500Z
+LOCATION:Paw.C sala E
+DTSTART:20250107T121500Z
+SUMMARY:Prawo gospodarcze (wykład)
+UID:278af421-9b50-4d7e-bd94-794bd97e65e5@278a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Szklarska
+DTEND:20250124T101500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20250124T084500Z
+SUMMARY:Matematyka w zastosowaniach ekonomicznych (ćwiczenia)
+UID:2f8abda9-e904-46b8-afc0-8400623e2eab@2f8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20241015T124500Z
+LOCATION:Paw.C sala E
+DTSTART:20241015T111500Z
+SUMMARY:Prawo gospodarcze (wykład)
+UID:c4894220-f48d-437c-92a9-404698d2e10e@c489.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Kowalski
+DTEND:20241128T101500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241128T084500Z
+SUMMARY:Mikroekonomia (wykład)
+UID:8378d89c-6fca-49c1-9ffb-c6149ec23477@8378.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Szklarska
+DTEND:20241025T091500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241025T074500Z
+SUMMARY:Matematyka w zastosowaniach ekonomicznych (ćwiczenia)
+UID:561be160-6b40-4e2f-bdca-ec313e7c7780@561b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Kowalski
+DTEND:20241121T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20241121T084500Z
+SUMMARY:Mikroekonomia (wykład)
+UID:acda8eae-1cd8-4c6f-be5a-2ade1dbe4eb4@acda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Kowalski
+DTEND:20241024T091500Z
+LOCATION:Paw.S sala 9
+DTSTART:20241024T074500Z
+SUMMARY:Mikroekonomia (wykład)
+UID:008b4d98-1881-48b0-a7b9-ce664c7b2777@008b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20241209T120000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241209T103000Z
+SUMMARY:Komputerowa analiza danych w biznesie i handlu zagranicznym (konwersatorium)
+UID:a216a2cd-2010-47e9-9d21-485084385fa6@a216.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
+DTEND:20241029T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20241029T084500Z
+SUMMARY:Matematyka w zastosowaniach ekonomicznych (wykład)
+UID:d17f1fc8-881e-4c9a-9a44-d05201729fb3@d17f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20250120T120000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20250120T103000Z
+SUMMARY:Komputerowa analiza danych w biznesie i handlu zagranicznym (konwersatorium)
+UID:7409d6a9-15dc-46d3-bcdc-eb7a2da65d2e@7409.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20241028T120000Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241028T103000Z
+SUMMARY:Komputerowa analiza danych w biznesie i handlu zagranicznym (konwersatorium)
+UID:3751f804-5242-4d4b-b478-fd405cceae88@3751.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
+DTEND:20241001T091500Z
+LOCATION:Paw.S sala 9
+DTSTART:20241001T074500Z
+SUMMARY:Matematyka w zastosowaniach ekonomicznych (wykład)
+UID:f43285a6-9eac-434e-9c28-3a43217f783b@f432.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Kowalski
+DTEND:20241205T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20241205T084500Z
+SUMMARY:Mikroekonomia (wykład)
+UID:9023e1da-11e7-4ea2-b71f-fbb545ebd51c@9023.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Szklarska
+DTEND:20241129T101500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241129T084500Z
+SUMMARY:Matematyka w zastosowaniach ekonomicznych (ćwiczenia)
+UID:bb15221a-d08b-410e-b48c-a2a9015b4975@bb15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Szklarska
+DTEND:20241122T101500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241122T084500Z
+SUMMARY:Matematyka w zastosowaniach ekonomicznych (ćwiczenia)
+UID:294832da-0d4d-4453-80ce-50aa27ca957a@2948.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
+DTEND:20241217T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20241217T084500Z
+SUMMARY:Matematyka w zastosowaniach ekonomicznych (wykład)
+UID:791fb7f4-05c6-44dd-bbf6-35dba149c50b@791f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20250114T120000Z
+LOCATION:Paw.C sala E
+DTSTART:20250114T103000Z
+SUMMARY:Podstawy zarządzania (wykład)
+UID:724edb58-61fa-4fcd-9814-3761efa41267@724e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Kowalski
+DTEND:20241003T091500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241003T074500Z
+SUMMARY:Mikroekonomia (wykład)
+UID:220ee34d-f717-4b74-b951-cff04249b481@220e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Czesława Pilarska
+DTEND:20241128T134500Z
+LOCATION:Paw.B 351
+DTSTART:20241128T121500Z
+SUMMARY:Mikroekonomia (ćwiczenia)
+UID:f1300fde-9eb0-4f33-af60-3247c79c65d1@f130.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20241119T134500Z
+LOCATION:Paw.C sala E
+DTSTART:20241119T121500Z
+SUMMARY:Prawo gospodarcze (wykład)
+UID:255e3315-e421-45f4-b72d-b9750b789d75@255e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20241022T124500Z
+LOCATION:Paw.C sala E
+DTSTART:20241022T111500Z
+SUMMARY:Prawo gospodarcze (wykład)
+UID:1f1b0c0b-e86c-4986-a8a4-06064390a6fa@1f1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Kowalski
+DTEND:20241010T091500Z
+LOCATION:Paw.S sala 9
+DTSTART:20241010T074500Z
+SUMMARY:Mikroekonomia (wykład)
+UID:7065ff20-7689-4087-9567-b6ab2f574591@7065.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
+DTEND:20250107T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20250107T084500Z
+SUMMARY:Matematyka w zastosowaniach ekonomicznych (wykład)
+UID:735e22ef-fb3f-4c32-a810-a0697192b0fb@735e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Czesława Pilarska
+DTEND:20241017T124500Z
+LOCATION:Paw.B 351
+DTSTART:20241017T111500Z
+SUMMARY:Mikroekonomia (ćwiczenia)
+UID:bb9e0ac4-2af7-4176-902c-bbf9d814b5c8@bb9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Kowalski
+DTEND:20241107T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20241107T084500Z
+SUMMARY:Mikroekonomia (wykład)
+UID:407e299f-982e-4c47-87b4-49f21ba7128b@407e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Szklarska
+DTEND:20241206T101500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241206T084500Z
+SUMMARY:Matematyka w zastosowaniach ekonomicznych (ćwiczenia)
+UID:70bf6e74-57d2-4c45-b32a-0a3a2161ee59@70bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:1d6c217f-f704-4c5b-8dfa-f0fb57f65f6a@1d6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: Studencki Uek Parlament
+DTEND:20241008T180000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241008T163000Z
+SUMMARY:Prawa i obowiązki studenta (rezerwacja)
+UID:3a2210b7-2579-41ff-8833-323223fa546b@3a22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Czesława Pilarska
+DTEND:20241031T134500Z
+LOCATION:Paw.B 351
+DTSTART:20241031T121500Z
+SUMMARY:Mikroekonomia (ćwiczenia)
+UID:42d8a81c-2d61-4672-b90d-93c4b73bdd5c@42d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
+DTEND:20250114T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20250114T084500Z
+SUMMARY:Matematyka w zastosowaniach ekonomicznych (wykład)
+UID:425868e0-d5e8-48ec-91e8-7273c052f9fa@4258.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Kowalski
+DTEND:20250116T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20250116T084500Z
+SUMMARY:Mikroekonomia (wykład)
+UID:72feb2eb-1096-454d-be30-aaa8245b3d47@72fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
+DTEND:20241015T091500Z
+LOCATION:Paw.S sala 9
+DTSTART:20241015T074500Z
+SUMMARY:Matematyka w zastosowaniach ekonomicznych (wykład)
+UID:8e5714c8-b8ae-4a26-8499-58daccedc14a@8e57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Czesława Pilarska
+DTEND:20241212T134500Z
+LOCATION:Paw.B 351
+DTSTART:20241212T121500Z
+SUMMARY:Mikroekonomia (ćwiczenia)
+UID:49b0b7bd-1a72-4757-bd98-a70bb0763949@49b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Czesława Pilarska
+DTEND:20241114T134500Z
+LOCATION:Paw.B 351
+DTSTART:20241114T121500Z
+SUMMARY:Mikroekonomia (ćwiczenia)
+UID:2cddd5da-0e2f-4440-bf38-1e51c533ca6a@2cdd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Czesława Pilarska
+DTEND:20241024T124500Z
+LOCATION:Paw.B 351
+DTSTART:20241024T111500Z
+SUMMARY:Mikroekonomia (ćwiczenia)
+UID:b1087cba-dd59-4c20-a56c-dbc3b4a7efbe@b108.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20241003T143000Z
+LOCATION:Paw.F CJ 012
+DTSTART:20241003T130000Z
+SUMMARY:Podstawy zarządzania (ćwiczenia)
+UID:de04e5f9-3620-445f-805a-14ac9d53d36d@de04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Szklarska
+DTEND:20250120T134500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250120T121500Z
+SUMMARY:Matematyka w zastosowaniach ekonomicznych (ćwiczenia)
+UID:0518d3b6-c4c3-49f0-be26-ca89a8b3c316@0518.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Czesława Pilarska
+DTEND:20250123T134500Z
+LOCATION:Paw.B 351
+DTSTART:20250123T121500Z
+SUMMARY:Mikroekonomia (ćwiczenia)
+UID:295fb234-ff9e-4ab3-81c3-b31ba1ec466d@295f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20241021T110000Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241021T093000Z
+SUMMARY:Komputerowa analiza danych w biznesie i handlu zagranicznym (konwersatorium)
+UID:6e02f998-028b-4189-a526-f88c42082eac@6e02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
+DTEND:20241008T091500Z
+LOCATION:Paw.S sala 9
+DTSTART:20241008T074500Z
+SUMMARY:Matematyka w zastosowaniach ekonomicznych (wykład)
+UID:af71ebd3-762e-4fb5-a5f3-901a9c53b4d9@af71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20241008T110000Z
+LOCATION:Paw.C sala E
+DTSTART:20241008T093000Z
+SUMMARY:Podstawy zarządzania (wykład)
+UID:ca7669b1-552c-422d-a620-40b5425b3ab4@ca76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20241001T101500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241001T093000Z
+SUMMARY:Podstawy zarządzania (wykład)
+UID:7d50cf51-3df9-4529-a53b-fc217c852fb1@7d50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20241202T120000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241202T103000Z
+SUMMARY:Komputerowa analiza danych w biznesie i handlu zagranicznym (konwersatorium)
+UID:1e7a9589-8245-44ad-b083-5253dbd5366a@1e7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20241218T171500Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20241218T154500Z
+SUMMARY:Komputerowa analiza danych w biznesie i handlu zagranicznym (konwersatorium)
+UID:c6d8f97e-14b5-44ef-95b7-e0a143b4cb36@c6d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Kowalski
+DTEND:20241212T101500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241212T084500Z
+SUMMARY:Mikroekonomia (wykład)
+UID:dc4ae830-b8fc-48a3-89c6-7ae87c5f611e@dc4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20250123T153000Z
+LOCATION:Paw.F CJ 012
+DTSTART:20250123T140000Z
+SUMMARY:Podstawy zarządzania (ćwiczenia)
+UID:8032cab4-755b-4657-9ead-f34848deb2bf@8032.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20250113T120000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20250113T103000Z
+SUMMARY:Komputerowa analiza danych w biznesie i handlu zagranicznym (konwersatorium)
+UID:fc05c5da-33aa-44b3-8017-a444dd5e858a@fc05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20241031T153000Z
+LOCATION:Paw.F CJ 012
+DTSTART:20241031T140000Z
+SUMMARY:Podstawy zarządzania (ćwiczenia)
+UID:928be93b-8ca0-40ac-a825-4fe53192e4b5@928b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20241007T110000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241007T093000Z
+SUMMARY:Komputerowa analiza danych w biznesie i handlu zagranicznym (konwersatorium)
+UID:ccc52eea-0382-4e0d-af2a-7acff6c70c94@ccc5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Szklarska
+DTEND:20241220T101500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241220T084500Z
+SUMMARY:Matematyka w zastosowaniach ekonomicznych (ćwiczenia)
+UID:fd7b6450-8a81-430e-8dba-74a44fc650d6@fd7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20241126T134500Z
+LOCATION:Paw.C sala E
+DTSTART:20241126T121500Z
+SUMMARY:Prawo gospodarcze (wykład)
+UID:5324b2cc-aa9b-44a0-919e-3c1021cc065d@5324.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20241128T153000Z
+LOCATION:Paw.F CJ 012
+DTSTART:20241128T140000Z
+SUMMARY:Podstawy zarządzania (ćwiczenia)
+UID:3baac6ae-b406-4f69-9f35-b084893d06c7@3baa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20241216T120000Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241216T103000Z
+SUMMARY:Komputerowa analiza danych w biznesie i handlu zagranicznym (konwersatorium)
+UID:947e681e-b3c9-4dd3-bb9c-1986c94c1625@947e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20241118T120000Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241118T103000Z
+SUMMARY:Komputerowa analiza danych w biznesie i handlu zagranicznym (konwersatorium)
+UID:6a09bb57-15d8-4996-a83a-eab87365b643@6a09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Szklarska
+DTEND:20241213T101500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241213T084500Z
+SUMMARY:Matematyka w zastosowaniach ekonomicznych (ćwiczenia)
+UID:85856042-776a-4dc1-afd9-be73dbfb586e@8585.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20241217T134500Z
+LOCATION:Paw.C sala E
+DTSTART:20241217T121500Z
+SUMMARY:Prawo gospodarcze (wykład)
+UID:1568b675-b12b-419f-9eac-f2dc0b1588ce@1568.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
+DTEND:20241203T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20241203T084500Z
+SUMMARY:Matematyka w zastosowaniach ekonomicznych (wykład)
+UID:70c3d928-54da-458c-adb4-3684aa4f8aaa@70c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
+DTEND:20250121T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20250121T084500Z
+SUMMARY:Matematyka w zastosowaniach ekonomicznych (wykład)
+UID:4d1d9fd6-2f7b-4174-b771-961ce122088d@4d1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20241104T120000Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241104T103000Z
+SUMMARY:Komputerowa analiza danych w biznesie i handlu zagranicznym (konwersatorium)
+UID:cd3f01f0-849f-44ab-8911-4e676af07e23@cd3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Czesława Pilarska
+DTEND:20241121T134500Z
+LOCATION:Paw.B 351
+DTSTART:20241121T121500Z
+SUMMARY:Mikroekonomia (ćwiczenia)
+UID:82aa35ca-737c-4fef-b25b-56bcef11c95e@82aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20250114T134500Z
+LOCATION:Paw.C sala E
+DTSTART:20250114T121500Z
+SUMMARY:Prawo gospodarcze (wykład)
+UID:1bc2431f-2f8f-48b6-824d-f587ec87e471@1bc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20241022T110000Z
+LOCATION:Paw.C sala E
+DTSTART:20241022T093000Z
+SUMMARY:Podstawy zarządzania (wykład)
+UID:8319ba2b-ec65-427d-86e8-bbe76677a0f1@8319.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20250116T120000Z
+LOCATION:Paw.S sala 6
+DTSTART:20250116T103000Z
+SUMMARY:Podstawy zarządzania (wykład)
+UID:101d3da2-cd3e-448f-8414-4482f42e897e@101d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Czesława Pilarska
+DTEND:20241107T134500Z
+LOCATION:Paw.B 351
+DTSTART:20241107T121500Z
+SUMMARY:Mikroekonomia (ćwiczenia)
+UID:f202db25-20d2-4b15-83a5-4fc53a0d0421@f202.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20241210T134500Z
+LOCATION:Paw.C sala E
+DTSTART:20241210T121500Z
+SUMMARY:Prawo gospodarcze (wykład)
+UID:14f5db68-25e7-46c0-a12a-cc854d9245ad@14f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20250122T130000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20250122T121500Z
+SUMMARY:Podstawy zarządzania (ćwiczenia)
+UID:7a7abe8b-5b7a-4c9e-9927-1f618e62b599@7a7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
+DTEND:20241119T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20241119T084500Z
+SUMMARY:Matematyka w zastosowaniach ekonomicznych (wykład)
+UID:b14580cf-0b35-4e55-90dc-38a5747b75a6@b145.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Czesława Pilarska
+DTEND:20241003T124500Z
+LOCATION:Paw.B 351
+DTSTART:20241003T111500Z
+SUMMARY:Mikroekonomia (ćwiczenia)
+UID:e154518a-f08f-453e-9783-eb7125e08b1a@e154.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Kowalski
+DTEND:20241017T091500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241017T074500Z
+SUMMARY:Mikroekonomia (wykład)
+UID:b8030d79-86cc-44a1-bd82-c3a9c93cd662@b803.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Kowalski
+DTEND:20241219T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20241219T084500Z
+SUMMARY:Mikroekonomia (wykład)
+UID:788a4ff9-4a2d-4a13-b666-f7e200456baf@788a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Kowalski
+DTEND:20250109T101500Z
+LOCATION:Paw.S sala 7
+DTSTART:20250109T084500Z
+SUMMARY:Mikroekonomia (wykład)
+UID:b9da23d5-2f2f-43ed-9215-1bb7de99be68@b9da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20241212T153000Z
+LOCATION:Paw.F CJ 012
+DTSTART:20241212T140000Z
+SUMMARY:Podstawy zarządzania (ćwiczenia)
+UID:abe788f7-ce76-40cc-bccd-c9b8d4fffc78@abe7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20241029T134500Z
+LOCATION:Paw.C sala E
+DTSTART:20241029T121500Z
+SUMMARY:Prawo gospodarcze (wykład)
+UID:85601246-2139-4912-bce6-766db7e9aca0@8560.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Czesława Pilarska
+DTEND:20241219T190000Z
+LOCATION:Paw.B 351
+DTSTART:20241219T173000Z
+SUMMARY:Mikroekonomia (ćwiczenia)
+UID:cb3a3734-c5b2-4fbf-a27b-e2dcf7e93ae4@cb3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20241217T120000Z
+LOCATION:Paw.C sala E
+DTSTART:20241217T103000Z
+SUMMARY:Podstawy zarządzania (wykład)
+UID:4458c3e3-f3ad-42ae-a6b6-5ef4f21feb18@4458.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Kowalski
+DTEND:20241114T101500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241114T084500Z
+SUMMARY:Mikroekonomia (wykład)
+UID:cd934c40-d83f-43e6-bf41-98596b4bf4d1@cd93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20241203T134500Z
+LOCATION:Paw.C sala E
+DTSTART:20241203T121500Z
+SUMMARY:Prawo gospodarcze (wykład)
+UID:e99a9c3e-150c-4355-8d24-4e0fdce9162d@e99a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20241008T124500Z
+LOCATION:Paw.C sala E
+DTSTART:20241008T111500Z
+SUMMARY:Prawo gospodarcze (wykład)
+UID:36462edb-c317-49ce-83e1-ca73005a3e0b@3646.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20241001T124500Z
+LOCATION:Paw.C sala E
+DTSTART:20241001T111500Z
+SUMMARY:Prawo gospodarcze (wykład)
+UID:9a5e8a85-c877-44e7-a25d-60e76c7560e6@9a5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20250109T153000Z
+LOCATION:Paw.F CJ 012
+DTSTART:20250109T140000Z
+SUMMARY:Podstawy zarządzania (ćwiczenia)
+UID:21be4901-2563-417d-a320-757326cd755b@21be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Szklarska
+DTEND:20241011T091500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241011T074500Z
+SUMMARY:Matematyka w zastosowaniach ekonomicznych (ćwiczenia)
+UID:e901e042-249d-45a4-b27a-a10a40c5b356@e901.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:e301e104-cce9-46a6-960d-0e2c08907e9c@e301.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20241125T120000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241125T103000Z
+SUMMARY:Komputerowa analiza danych w biznesie i handlu zagranicznym (konwersatorium)
+UID:dfb48c8e-97a9-4995-b250-e9b3bc66c010@dfb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
+DTEND:20241210T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20241210T084500Z
+SUMMARY:Matematyka w zastosowaniach ekonomicznych (wykład)
+UID:3a224ba0-8b5f-47bc-8b0a-ba892cf07536@3a22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20250115T134500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250115T121500Z
+SUMMARY:Komputerowa analiza danych w biznesie i handlu zagranicznym (konwersatorium)
+UID:0ef4af45-813e-42bc-9613-565074f25fc9@0ef4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Kowalski
+DTEND:20250123T101500Z
+LOCATION:Paw.S sala 7
+DTSTART:20250123T084500Z
+SUMMARY:Mikroekonomia (wykład)
+UID:e76abd83-5096-4774-8ef7-b1d660f0e627@e76a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Czesława Pilarska
+DTEND:20250116T134500Z
+LOCATION:Paw.B 351
+DTSTART:20250116T121500Z
+SUMMARY:Mikroekonomia (ćwiczenia)
+UID:5bc41b17-46cf-43df-8cc0-2ff375720595@5bc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Czesława Pilarska
+DTEND:20241010T161500Z
+LOCATION:Paw.S sala 4
+DTSTART:20241010T144500Z
+SUMMARY:Mikroekonomia (ćwiczenia)
+UID:6c161152-8dc2-4fa5-8c97-dd423350e29b@6c16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Szklarska
+DTEND:20241018T091500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241018T074500Z
+SUMMARY:Matematyka w zastosowaniach ekonomicznych (ćwiczenia)
+UID:f8f2e25e-8e74-4b09-83a7-a5a09c48abfe@f8f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20241112T134500Z
+LOCATION:Paw.C sala E
+DTSTART:20241112T121500Z
+SUMMARY:Prawo gospodarcze (wykład)
+UID:50318fc9-d086-43da-bd51-12ac4b7a165b@5031.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20241017T143000Z
+LOCATION:Paw.F CJ 012
+DTSTART:20241017T130000Z
+SUMMARY:Podstawy zarządzania (ćwiczenia)
+UID:6b4e70f0-508f-4f0e-ad6c-5773bbbd31c6@6b4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
+DTEND:20241126T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20241126T084500Z
+SUMMARY:Matematyka w zastosowaniach ekonomicznych (wykład)
+UID:b73d81d2-69e3-464a-a185-d29461c49e51@b73d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Szklarska
+DTEND:20250110T101500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20250110T084500Z
+SUMMARY:Matematyka w zastosowaniach ekonomicznych (ćwiczenia)
+UID:eabd08e9-1bdc-40bd-8911-d9bd165d12ef@eabd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20241203T120000Z
+LOCATION:Paw.C sala E
+DTSTART:20241203T103000Z
+SUMMARY:Podstawy zarządzania (wykład)
+UID:43b5e60d-1877-4cea-a7d2-6182b0a0677a@43b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Szklarska
+DTEND:20250117T101500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20250117T084500Z
+SUMMARY:Matematyka w zastosowaniach ekonomicznych (ćwiczenia)
+UID:b766555f-dd0a-41fc-bf16-027999968852@b766.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Szklarska
+DTEND:20241115T101500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241115T084500Z
+SUMMARY:Matematyka w zastosowaniach ekonomicznych (ćwiczenia)
+UID:4f6c8ac9-046b-4465-ae0b-c7acfcce2841@4f6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Szklarska
+DTEND:20241108T101500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241108T084500Z
+SUMMARY:Matematyka w zastosowaniach ekonomicznych (ćwiczenia)
+UID:e788c590-baff-41b1-9ce0-fe7883fb2cc5@e788.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Jan Tatar
+DTEND:20241105T101500Z
+LOCATION:Paw.S sala 9
+DTSTART:20241105T084500Z
+SUMMARY:Matematyka w zastosowaniach ekonomicznych (wykład)
+UID:6231874e-099f-42b0-a58f-bd71e9c9947d@6231.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20241105T134500Z
+LOCATION:Paw.C sala E
+DTSTART:20241105T121500Z
+SUMMARY:Prawo gospodarcze (wykład)
+UID:7c2a56f4-6b17-4cec-9a6d-45c4629de7d1@7c2a.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,594 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20241001T180000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241001T163000Z
+SUMMARY:Fundusze inwestycyjne i inwestycje alternatywne (ćwiczenia)
+UID:65aa07e5-c3ce-4eb9-b2ca-1de41e8dfcf5@65aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241114T134500Z
+LOCATION:link do zajęć
+DTSTART:20241114T121500Z
+SUMMARY:Zarządzanie majątkiem osobistym (wykład do wyboru)
+UID:786e49f2-a71b-4465-9f1b-c8d96974f524@786e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241205T120000Z
+LOCATION:link do zajęć
+DTSTART:20241205T103000Z
+SUMMARY:Zaawansowana analiza obligacji (wykład)
+UID:85f92dc7-2fca-428f-88c2-a2043fe3d8e8@85f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241128T134500Z
+LOCATION:link do zajęć
+DTSTART:20241128T121500Z
+SUMMARY:Zarządzanie majątkiem osobistym (wykład do wyboru)
+UID:7b16bd8e-186b-48a6-af19-cf7f912d1a7a@7b16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20241031T101500Z
+LOCATION:link do zajęć
+DTSTART:20241031T084500Z
+SUMMARY:Fundusze inwestycyjne i inwestycje alternatywne (wykład)
+UID:ecdaccb6-33ef-45cd-81ec-42ba633d0174@ecda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20241217T171500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241217T154500Z
+SUMMARY:Zaawansowana analiza obligacji (ćwiczenia)
+UID:2169a886-0271-44a4-8822-4834f1d5d489@2169.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20250121T181500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250121T173000Z
+SUMMARY:Fundusze inwestycyjne i inwestycje alternatywne (ćwiczenia)
+UID:bc75bb02-8f33-4595-a5d6-a9bbeb131539@bc75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241212T120000Z
+LOCATION:link do zajęć
+DTSTART:20241212T103000Z
+SUMMARY:Zaawansowana analiza obligacji (wykład)
+UID:2dc4a6e8-d80c-4ce9-b10b-66160d9409f2@2dc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20250116T124500Z
+LOCATION:link do zajęć
+DTSTART:20250116T111500Z
+SUMMARY:Zaawansowana analiza obligacji (wykład)
+UID:c5649113-2bb4-4a2e-b5f8-0d3775eb2fc9@c564.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20250123T120000Z
+LOCATION:link do zajęć
+DTSTART:20250123T103000Z
+SUMMARY:Zaawansowana analiza obligacji (wykład)
+UID:7b305c8b-ea79-4b46-b137-54c0a32e6128@7b30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241017T124500Z
+LOCATION:link do zajęć
+DTSTART:20241017T111500Z
+SUMMARY:Zarządzanie majątkiem osobistym (wykład do wyboru)
+UID:5fa026b8-70d9-4c1e-93ba-e93481265597@5fa0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241107T153000Z
+LOCATION:link do zajęć
+DTSTART:20241107T140000Z
+SUMMARY:Wycena i kreowanie wartości przedsiębiorstwa (wykład)
+UID:072f8392-52a9-4546-ae72-a740b152e90e@072f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20241205T101500Z
+LOCATION:link do zajęć
+DTSTART:20241205T084500Z
+SUMMARY:Fundusze inwestycyjne i inwestycje alternatywne (wykład)
+UID:50066bc8-da5a-4dc7-83e0-847ff27c7b05@5006.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20250114T190000Z
+LOCATION:Paw.F 515
+DTSTART:20250114T173000Z
+SUMMARY:Wycena i kreowanie wartości przedsiębiorstwa (ćwiczenia)
+UID:25bed460-0073-478b-a8f0-0cb66d7215e3@25be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241031T120000Z
+LOCATION:link do zajęć
+DTSTART:20241031T103000Z
+SUMMARY:Zaawansowana analiza obligacji (wykład)
+UID:4116ca89-4e15-44e9-80a2-ecb522d7e5e7@4116.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20241203T171500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241203T154500Z
+SUMMARY:Zaawansowana analiza obligacji (ćwiczenia)
+UID:e92ba638-2c63-4ee6-97ad-ec9d714818b0@e92b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241024T143000Z
+LOCATION:link do zajęć
+DTSTART:20241024T130000Z
+SUMMARY:Wycena i kreowanie wartości przedsiębiorstwa (wykład)
+UID:baefc631-2a62-445f-a249-523b4b68616e@baef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20250123T153000Z
+LOCATION:link do zajęć
+DTSTART:20250123T144500Z
+SUMMARY:Wycena i kreowanie wartości przedsiębiorstwa (wykład)
+UID:3af28d73-2649-4fc9-8225-7a627b05de95@3af2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:796493fd-4e33-40f3-9fef-0b799daeae2f@7964.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241213T101500Z
+LOCATION:link do zajęć
+DTSTART:20241213T084500Z
+SUMMARY:Zaawansowana analiza obligacji (wykład)
+UID:577830bd-1af1-4c45-8e09-a43ce03c566a@5778.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
+DTEND:20241203T083000Z
+LOCATION:link do zajęć
+DTSTART:20241203T070000Z
+SUMMARY:Etyka na rynkach finansowych (wykład)
+UID:9d2c9c55-4211-4d7a-8d19-f5dbd3dc9f2e@9d2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241022T180000Z
+LOCATION:Paw.F 515
+DTSTART:20241022T163000Z
+SUMMARY:Wycena i kreowanie wartości przedsiębiorstwa (ćwiczenia)
+UID:029ea093-8d63-4154-90e4-e77cf46c925c@029e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241003T110000Z
+LOCATION:link do zajęć
+DTSTART:20241003T093000Z
+SUMMARY:Zaawansowana analiza obligacji (wykład)
+UID:00958d89-266e-49c6-ae1f-2041730679b9@0095.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241024T124500Z
+LOCATION:link do zajęć
+DTSTART:20241024T111500Z
+SUMMARY:Zarządzanie majątkiem osobistym (wykład do wyboru)
+UID:f0e2f5f8-f4af-4671-8f5f-51c61f0afd0f@f0e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241119T190000Z
+LOCATION:Paw.F 515
+DTSTART:20241119T173000Z
+SUMMARY:Wycena i kreowanie wartości przedsiębiorstwa (ćwiczenia)
+UID:eadc01b4-545e-49c7-8b8f-62b04962025a@eadc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
+DTEND:20250114T091500Z
+LOCATION:link do zajęć
+DTSTART:20250114T070000Z
+SUMMARY:Etyka na rynkach finansowych (wykład)
+UID:e2c78459-6247-44d5-80b4-956807ac0f98@e2c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20241022T161500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241022T144500Z
+SUMMARY:Zaawansowana analiza obligacji (ćwiczenia)
+UID:ae0c4f5d-4549-429c-a583-01aba5f69a32@ae0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
+DTEND:20241105T083000Z
+LOCATION:link do zajęć
+DTSTART:20241105T070000Z
+SUMMARY:Etyka na rynkach finansowych (wykład)
+UID:68a90023-fd57-4b8f-bacb-c499e7af2329@68a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20241128T101500Z
+LOCATION:link do zajęć
+DTSTART:20241128T084500Z
+SUMMARY:Fundusze inwestycyjne i inwestycje alternatywne (wykład)
+UID:fbc85599-cf70-4762-ae15-aea74331a166@fbc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241025T124500Z
+LOCATION:link do zajęć
+DTSTART:20241025T111500Z
+SUMMARY:Zaawansowana analiza obligacji (wykład)
+UID:dade8745-e90f-487a-8523-58a8868e90e7@dade.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241219T120000Z
+LOCATION:link do zajęć
+DTSTART:20241219T103000Z
+SUMMARY:Zaawansowana analiza obligacji (wykład)
+UID:8d998ba1-7ed8-4083-a217-57ea258bc055@8d99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
+DTEND:20241217T083000Z
+LOCATION:link do zajęć
+DTSTART:20241217T070000Z
+SUMMARY:Etyka na rynkach finansowych (wykład)
+UID:2cc4f3f4-c654-4544-9384-b2c7eccfa508@2cc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20241017T091500Z
+LOCATION:link do zajęć
+DTSTART:20241017T074500Z
+SUMMARY:Fundusze inwestycyjne i inwestycje alternatywne (wykład)
+UID:c2dd1a39-aed0-4d20-9ae3-e668851a428c@c2dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20241015T180000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241015T163000Z
+SUMMARY:Fundusze inwestycyjne i inwestycje alternatywne (ćwiczenia)
+UID:0da7a2e9-dbe1-4d32-aac1-895f89a0e8f6@0da7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241121T153000Z
+LOCATION:link do zajęć
+DTSTART:20241121T140000Z
+SUMMARY:Wycena i kreowanie wartości przedsiębiorstwa (wykład)
+UID:54171d5c-846a-48f4-b0dd-d58094cfb105@5417.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20250116T153000Z
+LOCATION:link do zajęć
+DTSTART:20250116T140000Z
+SUMMARY:Wycena i kreowanie wartości przedsiębiorstwa (wykład)
+UID:a16348ab-6863-4b9b-8fb5-d732b0adde86@a163.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241105T190000Z
+LOCATION:Paw.F 515
+DTSTART:20241105T173000Z
+SUMMARY:Wycena i kreowanie wartości przedsiębiorstwa (ćwiczenia)
+UID:7ba0bed2-fdfa-4a19-8af7-cc00f610c77b@7ba0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241010T161500Z
+LOCATION:link do zajęć
+DTSTART:20241010T144500Z
+SUMMARY:Zaawansowana analiza obligacji (wykład)
+UID:bafcdc6c-b496-4a52-a86e-68befd478e19@bafc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20241114T101500Z
+LOCATION:link do zajęć
+DTSTART:20241114T084500Z
+SUMMARY:Fundusze inwestycyjne i inwestycje alternatywne (wykład)
+UID:c8bccc61-4ed5-449a-84f5-01863367c4bc@c8bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20241210T190000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241210T173000Z
+SUMMARY:Fundusze inwestycyjne i inwestycje alternatywne (ćwiczenia)
+UID:65b40fc5-a45d-4755-8feb-3fb0f21e8954@65b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241206T101500Z
+LOCATION:link do zajęć
+DTSTART:20241206T084500Z
+SUMMARY:Zaawansowana analiza obligacji (wykład)
+UID:ea56b998-4cf5-4067-965b-2fed4acc3510@ea56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241010T143000Z
+LOCATION:link do zajęć
+DTSTART:20241010T130000Z
+SUMMARY:Wycena i kreowanie wartości przedsiębiorstwa (wykład)
+UID:d7a04dde-9a6a-4a65-aa1c-c7dda0bd8790@d7a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241031T134500Z
+LOCATION:link do zajęć
+DTSTART:20241031T121500Z
+SUMMARY:Zarządzanie majątkiem osobistym (wykład do wyboru)
+UID:7cbf7a79-d95d-4d85-8e1e-f476bb8854ec@7cbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20250107T190000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250107T173000Z
+SUMMARY:Fundusze inwestycyjne i inwestycje alternatywne (ćwiczenia)
+UID:99449848-ff3b-48b0-843a-7ecddd529dcb@9944.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241008T180000Z
+LOCATION:Paw.F 515
+DTSTART:20241008T163000Z
+SUMMARY:Wycena i kreowanie wartości przedsiębiorstwa (ćwiczenia)
+UID:6c6bef62-3429-47f4-bbde-524197a81f52@6c6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241205T134500Z
+LOCATION:link do zajęć
+DTSTART:20241205T121500Z
+SUMMARY:Zarządzanie majątkiem osobistym (wykład do wyboru)
+UID:5b0ab395-933d-4ab7-ab8b-ec83430e2ad9@5b0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20241119T171500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241119T154500Z
+SUMMARY:Zaawansowana analiza obligacji (ćwiczenia)
+UID:34588e85-7aa1-4824-86c7-2a24545a29c7@3458.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20250114T171500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250114T154500Z
+SUMMARY:Zaawansowana analiza obligacji (ćwiczenia)
+UID:6610b5a2-687e-44c3-91d7-3df025db079d@6610.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20250109T120000Z
+LOCATION:link do zajęć
+DTSTART:20250109T103000Z
+SUMMARY:Zaawansowana analiza obligacji (wykład)
+UID:bd6874a8-4d02-48c1-8077-8ff7f01b2db6@bd68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20241003T091500Z
+LOCATION:link do zajęć
+DTSTART:20241003T074500Z
+SUMMARY:Fundusze inwestycyjne i inwestycje alternatywne (wykład)
+UID:4a7db633-7817-482f-92e9-3a020353a8a3@4a7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20241029T190000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241029T173000Z
+SUMMARY:Fundusze inwestycyjne i inwestycje alternatywne (ćwiczenia)
+UID:00765ce8-1bef-4ccd-8c1b-75669c892472@0076.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20241008T161500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241008T144500Z
+SUMMARY:Zaawansowana analiza obligacji (ćwiczenia)
+UID:a83ed4ec-9d2d-416f-9cf0-560b25760d08@a83e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20241112T190000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241112T173000Z
+SUMMARY:Fundusze inwestycyjne i inwestycje alternatywne (ćwiczenia)
+UID:14aaf16b-df6f-46f5-b4ff-824439461e10@14aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20250109T101500Z
+LOCATION:link do zajęć
+DTSTART:20250109T084500Z
+SUMMARY:Fundusze inwestycyjne i inwestycje alternatywne (wykład)
+UID:2c639d1c-14e0-4e0c-9a27-bc7e41fb1552@2c63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20250110T101500Z
+LOCATION:link do zajęć
+DTSTART:20250110T084500Z
+SUMMARY:Zaawansowana analiza obligacji (wykład)
+UID:930895eb-cc19-4387-8736-b359c339c253@9308.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20241105T171500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241105T154500Z
+SUMMARY:Zaawansowana analiza obligacji (ćwiczenia)
+UID:857de7d3-e5e0-445b-9335-0dad8f678c39@857d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20250121T171500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250121T163000Z
+SUMMARY:Zaawansowana analiza obligacji (ćwiczenia)
+UID:b0abe9c1-4b9b-4036-a582-63600ec95ea9@b0ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20250123T101500Z
+LOCATION:link do zajęć
+DTSTART:20250123T093000Z
+SUMMARY:Fundusze inwestycyjne i inwestycje alternatywne (wykład)
+UID:d6bd4bc1-7f74-4afc-8d4e-249e60c3a8d3@d6bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241010T180000Z
+LOCATION:link do zajęć
+DTSTART:20241010T163000Z
+SUMMARY:Zarządzanie majątkiem osobistym (wykład do wyboru)
+UID:1037aada-1b69-4ab5-8b3f-079f27fe52ca@1037.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241107T134500Z
+LOCATION:link do zajęć
+DTSTART:20241107T121500Z
+SUMMARY:Zarządzanie majątkiem osobistym (wykład do wyboru)
+UID:a64e7b85-8043-4889-8ebc-89a63a1fe163@a64e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20241126T190000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241126T173000Z
+SUMMARY:Fundusze inwestycyjne i inwestycje alternatywne (ćwiczenia)
+UID:112c0149-c6be-4af2-9f4b-b16880308ee7@112c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:2a0407a0-00f2-4ecd-88bc-75c85e8f128b@2a04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241017T110000Z
+LOCATION:link do zajęć
+DTSTART:20241017T093000Z
+SUMMARY:Zaawansowana analiza obligacji (wykład)
+UID:03c93bc0-e2b7-4625-a8d1-3a4dd30dff30@03c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241205T153000Z
+LOCATION:link do zajęć
+DTSTART:20241205T140000Z
+SUMMARY:Wycena i kreowanie wartości przedsiębiorstwa (wykład)
+UID:da753b5a-e70a-40eb-84c5-cb431f27a146@da75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
+DTEND:20241022T073000Z
+LOCATION:link do zajęć
+DTSTART:20241022T060000Z
+SUMMARY:Etyka na rynkach finansowych (wykład)
+UID:f8911f58-fcc7-4cdf-8383-9c130e301ca4@f891.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241219T153000Z
+LOCATION:link do zajęć
+DTSTART:20241219T140000Z
+SUMMARY:Wycena i kreowanie wartości przedsiębiorstwa (wykład)
+UID:5330d0db-37f0-470b-9951-fea49d5ae2c5@5330.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241220T101500Z
+LOCATION:link do zajęć
+DTSTART:20241220T084500Z
+SUMMARY:Zaawansowana analiza obligacji (wykład)
+UID:a26cbf27-9bcd-4f36-861b-67ea047719ac@a26c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241212T134500Z
+LOCATION:link do zajęć
+DTSTART:20241212T121500Z
+SUMMARY:Zarządzanie majątkiem osobistym (wykład do wyboru)
+UID:b8fde50e-abad-4d0c-982b-acd8ea8bde02@b8fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20250121T190000Z
+LOCATION:Paw.F 515
+DTSTART:20250121T181500Z
+SUMMARY:Wycena i kreowanie wartości przedsiębiorstwa (ćwiczenia)
+UID:ed951b6f-a73b-4358-af9d-de9d691541b9@ed95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
+DTEND:20241119T083000Z
+LOCATION:link do zajęć
+DTSTART:20241119T070000Z
+SUMMARY:Etyka na rynkach finansowych (wykład)
+UID:8985348f-4db7-4c71-84b6-2b4b53ae5d44@8985.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241121T134500Z
+LOCATION:link do zajęć
+DTSTART:20241121T121500Z
+SUMMARY:Zarządzanie majątkiem osobistym (wykład do wyboru)
+UID:510ec2eb-2a78-4b6e-8a83-5ef5c91f3c6e@510e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241217T190000Z
+LOCATION:Paw.F 515
+DTSTART:20241217T173000Z
+SUMMARY:Wycena i kreowanie wartości przedsiębiorstwa (ćwiczenia)
+UID:3cf22e8f-91af-4849-8d2c-0034eb13703d@3cf2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Janusz Żarnowski
+DTEND:20241203T190000Z
+LOCATION:Paw.F 515
+DTSTART:20241203T173000Z
+SUMMARY:Wycena i kreowanie wartości przedsiębiorstwa (ćwiczenia)
+UID:b92a4f5f-98f2-4e12-8a51-9b55db2b9aac@b92a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
+DTEND:20241008T073000Z
+LOCATION:link do zajęć
+DTSTART:20241008T060000Z
+SUMMARY:Etyka na rynkach finansowych (wykład)
+UID:42f378e1-bab1-49ba-9a83-d1ed3a1703c9@42f3.org
+END:VEVENT
+END:VCALENDAR

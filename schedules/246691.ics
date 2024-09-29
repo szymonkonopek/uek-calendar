@@ -1,0 +1,181 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20241208T143000Z
+DTSTART:20241208T074500Z
+SUMMARY:Nadzór właścicielski w JST. Analiza sprawozdań finansowych (Studia podyplomowe)
+UID:8bfc0c0e-5269-415e-8880-24985e91215d@8bfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Markiewicz
+DTEND:20241207T171500Z
+DTSTART:20241207T103000Z
+SUMMARY:Zarządzanie zmianą w sytuacji kryzysowej (Studia podyplomowe)
+UID:1b397a81-9c40-4e65-bc9e-33c9b7cda532@1b39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Olszewska
+DTEND:20241012T133000Z
+DTSTART:20241012T064500Z
+SUMMARY:Cyberbezpieczeństwo (Studia podyplomowe)
+UID:7ac0d616-3311-4b3a-abdb-b420638aa488@7ac0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kacper Siwek
+DTEND:20241110T143000Z
+DTSTART:20241110T074500Z
+SUMMARY:Finanse JST i inzynieria finansowa (Studia podyplomowe)
+UID:e4c15a14-0868-4cf4-899b-57531839bd1e@e4c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mirosław Oczkoś
+DTEND:20250413T111500Z
+DTSTART:20250413T064500Z
+SUMMARY:Wystąpienia publiczne (Studia podyplomowe)
+UID:fdd21c56-f899-4a0d-9ba0-fd4035eb8671@fdd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
+DTEND:20241207T101500Z
+DTSTART:20241207T084500Z
+SUMMARY:Metodyka przygotowania projektów (Studia podyplomowe)
+UID:fdffe55d-ef4d-4677-8601-f10b83640b16@fdff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marek Wójcik
+DTEND:20250330T120000Z
+DTSTART:20250330T064500Z
+SUMMARY:Mierniki rozwoju miast i regionów. Benchmarking. (Studia podyplomowe)
+UID:34a2496e-fa42-4329-adc9-346e220599cb@34a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Dolot
+DTEND:20250209T143000Z
+LOCATION:Zajęcia Online
+DTSTART:20250209T074500Z
+SUMMARY:Case Study - HR w samorządzie. Motywowanie pracowników (Studia podyplomowe)
+UID:45795ec9-5ea4-41a9-91df-5fcd05310820@4579.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr\, prof. KAAFM Tomasz Orłowski
+DTEND:20250308T143000Z
+DTSTART:20250308T074500Z
+SUMMARY:Protokół dyplomatyczny i etykieta w samorządzie (Studia podyplomowe)
+UID:2316aa83-e120-4a0f-b4c5-d0ad066fe2b1@2316.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Inga Mizdrak
+DTEND:20250208T143000Z
+LOCATION:Zajęcia Online
+DTSTART:20250208T074500Z
+SUMMARY:Etyczne uwarunkowania pracy menedżera JST (Studia podyplomowe)
+UID:48e42b41-9660-4708-af8f-a48dce3e0850@48e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marek Wójcik
+DTEND:20250329T143000Z
+DTSTART:20250329T074500Z
+SUMMARY:Mierniki rozwoju miast i regionów. Benchmarking. (Studia podyplomowe)
+UID:e1f6314f-cd6b-4697-a718-a1a55d3f8d63@e1f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Gnela
+DTEND:20241123T143000Z
+DTSTART:20241123T074500Z
+SUMMARY:Prawne uwarunkowania działalności JST (Studia podyplomowe)
+UID:dad2c01b-14bc-40d6-991c-ee42220a5f2d@dad2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250511T133000Z
+DTSTART:20250511T064500Z
+SUMMARY:Obrony prac końcowych (Studia podyplomowe)
+UID:75f6a895-154e-4441-95ad-b4b5fe528aaf@75f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
+DTEND:20241207T083000Z
+DTSTART:20241207T074500Z
+SUMMARY:Egzamin semestralny (Studia podyplomowe)
+UID:910feb07-9cb1-48db-9379-c6d0c0ae9758@910f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mirosław Oczkoś
+DTEND:20250412T134500Z
+DTSTART:20250412T074500Z
+SUMMARY:Wystąpienia publiczne (Studia podyplomowe)
+UID:9a54ad0b-2605-4419-9c29-02432124cd11@9a54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
+DTEND:20250412T073000Z
+DTSTART:20250412T064500Z
+SUMMARY:Egzamin semestralny (Studia podyplomowe)
+UID:8cf30d52-3d9d-4497-bec0-e9e14cc986ea@8cf3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Kwaśny
+DTEND:20250309T143000Z
+DTSTART:20250309T074500Z
+SUMMARY:Teoria i praktyka samorządu terytorialnego w Polsce (Studia podyplomowe)
+UID:75eb0fc7-5ca2-498a-a16e-be0f07b14d1f@75eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Rafał Jaśkowski
+DTEND:20250510T124500Z
+DTSTART:20250510T064500Z
+SUMMARY:Case Study - media w sytuacji zagrożenia (Studia podyplomowe)
+UID:a7659d13-95c3-45fa-9e4b-9a8e8d8a4b37@a765.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Jasinowska-Czarny
+DTEND:20241027T143000Z
+DTSTART:20241027T074500Z
+SUMMARY:Finanse JST i inzynieria finansowa (Studia podyplomowe)
+UID:22d8ec40-08da-478b-9feb-9221ad39a15f@22d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Magdalena Cetera
+DTEND:20241013T133000Z
+DTSTART:20241013T064500Z
+SUMMARY:Case Study - mediacje w samorządzie (Studia podyplomowe)
+UID:0c43848f-f89a-466f-8f1b-59852eaf6eb4@0c43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Gnela
+DTEND:20241124T143000Z
+DTSTART:20241124T074500Z
+SUMMARY:Zamówienia publiczne. Partnerstwo publiczno-prywatne (Studia podyplomowe)
+UID:68529490-6497-4bf7-a94b-d523513837fb@6852.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: Prof. UJ dr hab. Jarosław Flis
+DTEND:20241109T143000Z
+DTSTART:20241109T074500Z
+SUMMARY:Komunikacja społeczna w JST (Studia podyplomowe)
+UID:abefdc49-485e-495d-8027-05019e9b5de0@abef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20250112T143000Z
+DTSTART:20250112T074500Z
+SUMMARY:Programowanie i finansowanie polityk publicznych (Studia podyplomowe)
+UID:eb695ed8-fe05-4037-b10d-60d303d56fc8@eb69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20241026T133000Z
+DTSTART:20241026T064500Z
+SUMMARY:Zarządzanie publiczne (Studia podyplomowe)
+UID:8761a0f9-01e8-4aea-bcf1-e1264ed6f41a@8761.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20250111T143000Z
+DTSTART:20250111T074500Z
+SUMMARY:Trendy rozwojowe miast. Miasta przyszłości. (Studia podyplomowe)
+UID:84e86782-0ed0-47aa-9398-e069c77562bc@84e8.org
+END:VEVENT
+END:VCALENDAR

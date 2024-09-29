@@ -1,0 +1,650 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sobura
+DTEND:20241205T134500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241205T121500Z
+SUMMARY:Modele i strategie e-handlu (ćwiczenia)
+UID:e18b9704-7d83-4949-8802-cc2c00d48b0c@e18b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20250120T120000Z
+LOCATION:link do zajęć
+DTSTART:20250120T103000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:c90de50f-876f-400c-acd3-9e2575d0de05@c90d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Maria Bajak
+DTEND:20241024T110000Z
+LOCATION:Paw.A 301b
+DTSTART:20241024T093000Z
+SUMMARY:Marketing społeczny (ćwiczenia)
+UID:18c1dc3b-c554-4f9d-8c45-66545ac34b12@18c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Maria Bajak
+DTEND:20241121T120000Z
+LOCATION:Paw.A 301b
+DTSTART:20241121T103000Z
+SUMMARY:Marketing społeczny (ćwiczenia)
+UID:5a444a6c-70af-4fdd-aac1-6735893327ea@5a44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Maria Bajak
+DTEND:20241205T083000Z
+LOCATION:Paw.F 106
+DTSTART:20241205T070000Z
+SUMMARY:Marketing społeczny (ćwiczenia)
+UID:f3be29f2-0e3a-410c-8c28-727dabe56424@f3be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sobura
+DTEND:20241107T134500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241107T121500Z
+SUMMARY:Modele i strategie e-handlu (ćwiczenia)
+UID:c93569d1-8c1e-4683-b6ac-b6a34c13f8eb@c935.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
+DTEND:20241202T101500Z
+LOCATION:link do zajęć
+DTSTART:20241202T084500Z
+SUMMARY:Marketing społeczny (wykład)
+UID:25deb61e-5305-41b3-b34b-cf1097d07d6b@25de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sobura
+DTEND:20250123T134500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250123T121500Z
+SUMMARY:Modele i strategie e-handlu (ćwiczenia)
+UID:13d8a9bd-0908-4dab-8727-01da5d8ed500@13d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241216T083000Z
+LOCATION:link do zajęć
+DTSTART:20241216T070000Z
+SUMMARY:Technologie internetowe i mobilne (wykład)
+UID:1c94912b-9f3d-4137-92fa-a55f204621ab@1c94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241125T083000Z
+LOCATION:link do zajęć
+DTSTART:20241125T074500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:8938d06f-a283-4bdc-8c65-e640438cefa8@8938.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241017T143000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241017T130000Z
+SUMMARY:Technologie internetowe i mobilne (ćwiczenia)
+UID:ad754c18-129e-410a-bd2c-e8daf5a65f26@ad75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241007T073000Z
+LOCATION:link do zajęć
+DTSTART:20241007T060000Z
+SUMMARY:Technologie internetowe i mobilne (wykład)
+UID:02bbed9c-f355-451f-93c3-a07aa610d6c1@02bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20241125T134500Z
+LOCATION:link do zajęć
+DTSTART:20241125T130000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:a0256b82-1873-45de-8bde-6a2bcf5796d6@a025.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sobura
+DTEND:20241031T134500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241031T121500Z
+SUMMARY:Modele i strategie e-handlu (ćwiczenia)
+UID:0e2a68f2-5e7e-4cbc-af88-1131408137d3@0e2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sobura
+DTEND:20241121T134500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241121T121500Z
+SUMMARY:Modele i strategie e-handlu (ćwiczenia)
+UID:cd431a1b-c5f0-4a38-b8c6-8546b3ff7d6c@cd43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Maria Bajak
+DTEND:20241003T161500Z
+LOCATION:Paw.B 451
+DTSTART:20241003T144500Z
+SUMMARY:Marketing społeczny (ćwiczenia)
+UID:8a6dbec3-b729-4c4f-ad87-b15be75fd26d@8a6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:dcf40428-f1f2-4a23-b120-19a76135412c@dcf4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Kuziak
+DTEND:20241216T120000Z
+LOCATION:link do zajęć
+DTSTART:20241216T103000Z
+SUMMARY:Modele i strategie e-handlu (wykład)
+UID:e3ede1b3-b2b5-40ac-adb4-a10c7ce5b080@e3ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241219T153000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241219T140000Z
+SUMMARY:Technologie internetowe i mobilne (ćwiczenia)
+UID:a1598cf2-0413-4b9f-b409-4b37a9831884@a159.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241014T073000Z
+LOCATION:link do zajęć
+DTSTART:20241014T060000Z
+SUMMARY:Technologie internetowe i mobilne (wykład)
+UID:c416bb93-2f05-46f0-a4c2-34a1c687d43d@c416.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241104T083000Z
+LOCATION:link do zajęć
+DTSTART:20241104T070000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:c2d05aac-6a45-4028-bf00-3de2ce4b7b8d@c2d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Kuziak
+DTEND:20241104T120000Z
+LOCATION:link do zajęć
+DTSTART:20241104T103000Z
+SUMMARY:Modele i strategie e-handlu (wykład)
+UID:62dc354b-2bd7-4ad2-9ed1-ed806617a370@62dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20250120T101500Z
+LOCATION:link do zajęć
+DTSTART:20250120T084500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:56861843-1b5e-4811-aefb-de9d07e604d4@5686.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241028T083000Z
+LOCATION:link do zajęć
+DTSTART:20241028T070000Z
+SUMMARY:Technologie internetowe i mobilne (wykład)
+UID:75f35638-4141-4cec-a885-f64239fb2e3d@75f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241010T143000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241010T130000Z
+SUMMARY:Technologie internetowe i mobilne (ćwiczenia)
+UID:cb9fe566-f1cd-4c2c-bf8c-198ffe4407b5@cb9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Kuziak
+DTEND:20241007T110000Z
+LOCATION:link do zajęć
+DTSTART:20241007T093000Z
+SUMMARY:Modele i strategie e-handlu (wykład)
+UID:2242b70d-7d6f-4b92-ac77-66bee9a51b78@2242.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Maria Bajak
+DTEND:20241219T120000Z
+LOCATION:Paw.A 301b
+DTSTART:20241219T103000Z
+SUMMARY:Marketing społeczny (ćwiczenia)
+UID:9b8eb7ee-4b27-4711-bf46-1768b1b46c6b@9b8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241125T101500Z
+LOCATION:link do zajęć
+DTSTART:20241125T084500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:9de9ea3e-cbcc-4ef8-8e5a-189cd65aa8a2@9de9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241121T153000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241121T140000Z
+SUMMARY:Technologie internetowe i mobilne (ćwiczenia)
+UID:c82673c5-9042-4881-8961-16e03485aaee@c826.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241031T153000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241031T140000Z
+SUMMARY:Technologie internetowe i mobilne (ćwiczenia)
+UID:a9751bce-0d94-42df-af77-935bc19820f2@a975.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20250120T134500Z
+LOCATION:link do zajęć
+DTSTART:20250120T121500Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:cb3ce0e1-166c-4f0b-bd13-585e89f317e3@cb3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sobura
+DTEND:20241107T190000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241107T173000Z
+SUMMARY:Modele i strategie e-handlu (ćwiczenia)
+UID:cf683c43-b0a8-46c1-b3a2-b5a384810062@cf68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241024T143000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241024T130000Z
+SUMMARY:Technologie internetowe i mobilne (ćwiczenia)
+UID:7a20bc94-a2a0-4350-9132-dc99cc45be8d@7a20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
+DTEND:20241007T091500Z
+LOCATION:link do zajęć
+DTSTART:20241007T074500Z
+SUMMARY:Marketing społeczny (wykład)
+UID:2a9df64a-6166-4a31-abf5-47d8ddd1b1f0@2a9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20250109T153000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20250109T140000Z
+SUMMARY:Technologie internetowe i mobilne (ćwiczenia)
+UID:7d2f68e1-910e-4aaa-ad8f-944dcdf5ef34@7d2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241003T143000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241003T130000Z
+SUMMARY:Technologie internetowe i mobilne (ćwiczenia)
+UID:1b9db388-eb84-48fe-991f-8dbc83053c3c@1b9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20241209T130000Z
+LOCATION:link do zajęć
+DTSTART:20241209T121500Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:04b1b227-f68b-4fc3-8b08-2027567a8159@04b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Kuziak
+DTEND:20250113T120000Z
+LOCATION:link do zajęć
+DTSTART:20250113T103000Z
+SUMMARY:Modele i strategie e-handlu (wykład)
+UID:628f6b59-e131-4a17-833c-1744bf8dc365@628f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sobura
+DTEND:20241114T134500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241114T121500Z
+SUMMARY:Modele i strategie e-handlu (ćwiczenia)
+UID:b31c1891-2ac1-43db-8d81-1739181540da@b31c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Kuziak
+DTEND:20241202T130000Z
+LOCATION:link do zajęć
+DTSTART:20241202T121500Z
+SUMMARY:Modele i strategie e-handlu (wykład)
+UID:191149a5-3032-4c19-ac57-9db6388056ba@1911.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Kuziak
+DTEND:20241021T110000Z
+LOCATION:link do zajęć
+DTSTART:20241021T093000Z
+SUMMARY:Modele i strategie e-handlu (wykład)
+UID:990f49f3-1f39-474f-b782-f15766325da8@990f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sobura
+DTEND:20241128T134500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241128T121500Z
+SUMMARY:Modele i strategie e-handlu (ćwiczenia)
+UID:64ddac0b-6504-4ac9-92c4-809064ffb97e@64dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
+DTEND:20241216T101500Z
+LOCATION:link do zajęć
+DTSTART:20241216T084500Z
+SUMMARY:Marketing społeczny (wykład)
+UID:7d3ff8a5-46bc-4a19-9266-bc6349a9c2ea@7d3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sobura
+DTEND:20241017T124500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241017T111500Z
+SUMMARY:Modele i strategie e-handlu (ćwiczenia)
+UID:9d46f36e-916e-4c1e-b0d3-0e3ef538224e@9d46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sobura
+DTEND:20241128T190000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241128T173000Z
+SUMMARY:Modele i strategie e-handlu (ćwiczenia)
+UID:c42ce726-372c-4503-91e3-df87fbdb6a5a@c42c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241202T083000Z
+LOCATION:link do zajęć
+DTSTART:20241202T070000Z
+SUMMARY:Technologie internetowe i mobilne (wykład)
+UID:d09ef36c-6b67-4057-b1ec-a00115e2eb27@d09e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
+DTEND:20241104T101500Z
+LOCATION:link do zajęć
+DTSTART:20241104T084500Z
+SUMMARY:Marketing społeczny (wykład)
+UID:9be7e826-4284-4008-8678-9a0dbef59d56@9be7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20241125T120000Z
+LOCATION:link do zajęć
+DTSTART:20241125T103000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:28a32b4b-67bc-43b3-b78a-d6235a32dfba@28a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sobura
+DTEND:20250116T134500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250116T121500Z
+SUMMARY:Modele i strategie e-handlu (ćwiczenia)
+UID:0e3a952c-8d0b-4d6b-88e9-327978931c07@0e3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20241209T120000Z
+LOCATION:link do zajęć
+DTSTART:20241209T103000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:4b24c824-c6ef-40e9-a4d6-5d48c29a5aad@4b24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241114T153000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241114T140000Z
+SUMMARY:Technologie internetowe i mobilne (ćwiczenia)
+UID:97ff317e-0072-4854-b964-f3feab166e61@97ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20250113T083000Z
+LOCATION:link do zajęć
+DTSTART:20250113T074500Z
+SUMMARY:Technologie internetowe i mobilne (wykład)
+UID:e4bea302-c177-4a33-8b85-31e9d7ff7978@e4be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
+DTEND:20241118T101500Z
+LOCATION:link do zajęć
+DTSTART:20241118T084500Z
+SUMMARY:Marketing społeczny (wykład)
+UID:08616719-01f7-4cdf-88e1-fd213871d8fc@0861.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
+DTEND:20241125T163000Z
+LOCATION:link do zajęć
+DTSTART:20241125T154500Z
+SUMMARY:Marketing społeczny (wykład)
+UID:021726fe-b3d4-46bb-aa7d-26b081439f86@0217.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sobura
+DTEND:20241003T124500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241003T111500Z
+SUMMARY:Modele i strategie e-handlu (ćwiczenia)
+UID:0f029b1c-811f-4cd2-93ff-e5f2ae987056@0f02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20241125T130000Z
+LOCATION:link do zajęć
+DTSTART:20241125T121500Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:c1eb1f5e-e804-4b0b-9888-99517d359811@c1eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20241014T110000Z
+LOCATION:link do zajęć
+DTSTART:20241014T093000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:fecf1281-04a9-4cfd-b7c4-c212feae633d@fecf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
+DTEND:20241021T091500Z
+LOCATION:link do zajęć
+DTSTART:20241021T074500Z
+SUMMARY:Marketing społeczny (wykład)
+UID:961e5cbe-7349-404a-ae17-9a25a5898e42@961e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Maria Bajak
+DTEND:20241205T120000Z
+LOCATION:Paw.A 301b
+DTSTART:20241205T103000Z
+SUMMARY:Marketing społeczny (ćwiczenia)
+UID:af9febf8-a17e-406f-a7c0-69f6be834ded@af9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20241028T120000Z
+LOCATION:link do zajęć
+DTSTART:20241028T103000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:e6833ee4-6ffc-4768-8065-13c6a8ff499d@e683.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:e83d5739-44ed-4267-a14c-231b79294301@e83d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sobura
+DTEND:20241212T134500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241212T121500Z
+SUMMARY:Modele i strategie e-handlu (ćwiczenia)
+UID:ffbfe38c-c1e5-4cca-94d5-1880c1f0eed6@ffbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241028T101500Z
+LOCATION:link do zajęć
+DTSTART:20241028T084500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:7f00077e-2d36-4a93-b9d7-f9fcd21638de@7f00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241205T153000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241205T140000Z
+SUMMARY:Technologie internetowe i mobilne (ćwiczenia)
+UID:8a7279ad-d4e4-433d-9850-638c88c48739@8a72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241209T083000Z
+LOCATION:link do zajęć
+DTSTART:20241209T070000Z
+SUMMARY:Technologie internetowe i mobilne (wykład)
+UID:fc0b4073-4119-4197-a2c5-3dff5e132422@fc0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Kuziak
+DTEND:20241118T120000Z
+LOCATION:link do zajęć
+DTSTART:20241118T103000Z
+SUMMARY:Modele i strategie e-handlu (wykład)
+UID:0808921a-8569-4a0c-a2da-16d9dedc45e4@0808.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241212T153000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241212T140000Z
+SUMMARY:Technologie internetowe i mobilne (ćwiczenia)
+UID:118bb373-05a6-46d9-ba3d-01a5c6451602@118b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sobura
+DTEND:20250109T134500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250109T121500Z
+SUMMARY:Modele i strategie e-handlu (ćwiczenia)
+UID:2f729c01-e832-468a-b187-6358d11266d4@2f72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241118T083000Z
+LOCATION:link do zajęć
+DTSTART:20241118T070000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:e0bb1c77-a1bc-43d4-b4c0-52f9331b6c73@e0bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Maria Bajak
+DTEND:20250116T120000Z
+LOCATION:Paw.A 301b
+DTSTART:20250116T103000Z
+SUMMARY:Marketing społeczny (ćwiczenia)
+UID:286a2ebe-6400-4ef1-b7e2-ed3918f8c4c7@286a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20250123T153000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20250123T140000Z
+SUMMARY:Technologie internetowe i mobilne (ćwiczenia)
+UID:8fdbdc07-ca18-473e-93c2-0a1aead7bbcb@8fdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241209T101500Z
+LOCATION:link do zajęć
+DTSTART:20241209T084500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:e22062a3-663b-4333-99d8-f72cd92da517@e220.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241128T153000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241128T140000Z
+SUMMARY:Technologie internetowe i mobilne (ćwiczenia)
+UID:4dad83bc-810e-4a5f-9729-b208a79821dc@4dad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241107T153000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241107T140000Z
+SUMMARY:Technologie internetowe i mobilne (ćwiczenia)
+UID:91b5ab15-5e82-4c69-aaca-28340cf1987f@91b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Kuziak
+DTEND:20241202T120000Z
+LOCATION:link do zajęć
+DTSTART:20241202T103000Z
+SUMMARY:Modele i strategie e-handlu (wykład)
+UID:ce9f78c0-791b-4aff-9ab5-ecea594357a5@ce9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241014T091500Z
+LOCATION:link do zajęć
+DTSTART:20241014T074500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:069218a5-8b69-4531-8de1-6c8e9d1fb553@0692.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sobura
+DTEND:20241024T124500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241024T111500Z
+SUMMARY:Modele i strategie e-handlu (ćwiczenia)
+UID:a884d60b-12bb-4cb8-90cf-b7d8d0eeb53d@a884.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
+DTEND:20250113T101500Z
+LOCATION:link do zajęć
+DTSTART:20250113T084500Z
+SUMMARY:Marketing społeczny (wykład)
+UID:d8f186a4-a7a4-442a-bc16-c5a4bb161c27@d8f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20250116T153000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20250116T140000Z
+SUMMARY:Technologie internetowe i mobilne (ćwiczenia)
+UID:e5b29905-7ca6-4388-88f2-41adc18c1835@e5b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241021T073000Z
+LOCATION:link do zajęć
+DTSTART:20241021T060000Z
+SUMMARY:Technologie internetowe i mobilne (wykład)
+UID:3b785668-980d-4f8a-a04d-aeb18cb7405a@3b78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Maria Bajak
+DTEND:20241121T101500Z
+LOCATION:Bibl. 441
+DTSTART:20241121T093000Z
+SUMMARY:Marketing społeczny (ćwiczenia)
+UID:27caff4f-eacd-4a35-961a-77cee011c1af@27ca.org
+END:VEVENT
+END:VCALENDAR

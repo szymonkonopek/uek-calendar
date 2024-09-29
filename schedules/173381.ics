@@ -1,0 +1,658 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20241023T110000Z
+LOCATION:Bud.gł. 9
+DTSTART:20241023T093000Z
+SUMMARY:Stosunki UE i Polski z państwami WNP oraz Azji i Pacyfiku (ćwiczenia)
+UID:bdce359e-7332-4030-8e58-067bead400ca@bdce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20241127T120000Z
+LOCATION:Paw.U sala O
+DTSTART:20241127T103000Z
+SUMMARY:Stosunki UE i Polski z państwami WNP oraz Azji i Pacyfiku (ćwiczenia)
+UID:9288f0df-768c-4eff-a3c2-740c291b16b6@9288.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20241028T100000Z
+LOCATION:link do zajęć
+DTSTART:20241028T074500Z
+SUMMARY:Rozwój gospodarczy Chin\, Indii i Rosji w XXI wieku (wykład)
+UID:04534d5c-8d89-48e4-90ef-9a83986f0370@0453.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20241216T100000Z
+LOCATION:link do zajęć
+DTSTART:20241216T074500Z
+SUMMARY:Rozwój gospodarczy Chin\, Indii i Rosji w XXI wieku (wykład)
+UID:f42e0744-0454-430e-9876-b83ac3ed5b49@f42e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20250121T120000Z
+LOCATION:Bud.gł. 2
+DTSTART:20250121T103000Z
+SUMMARY:Wyzwania rozwoju systemów politycznych krajów euroazjatyckich (konwersatorium)
+UID:bbdc399b-deaf-40de-a4d1-4e7b6c71ecc9@bbdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20241211T120000Z
+LOCATION:Paw.U sala O
+DTSTART:20241211T103000Z
+SUMMARY:Stosunki UE i Polski z państwami WNP oraz Azji i Pacyfiku (ćwiczenia)
+UID:2a1aa601-9d9e-4d13-886c-fae78a7672ef@2a1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20241217T153000Z
+LOCATION:Paw.G  7
+DTSTART:20241217T140000Z
+SUMMARY:Rozwój gospodarczy Chin\, Indii i Rosji w XXI wieku (ćwiczenia)
+UID:9b0c5c30-c712-4502-b07e-1366fe5ee9c0@9b0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
+DTEND:20241210T134500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241210T121500Z
+SUMMARY:Analiza procesów gospodarczych na obszarze WNP (konwersatorium)
+UID:3d580322-3dc0-473f-8f0c-49b86537cf45@3d58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dzwończyk
+DTEND:20241210T101500Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241210T084500Z
+SUMMARY:Patologie życia politycznego (konwersatorium do wyboru)
+UID:63268bf6-5b97-4211-b5c5-e48843290fc6@6326.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20241007T090000Z
+LOCATION:link do zajęć
+DTSTART:20241007T064500Z
+SUMMARY:Rozwój gospodarczy Chin\, Indii i Rosji w XXI wieku (wykład)
+UID:edaa56b9-08d0-4a57-9bab-a3a9ee9e0bb0@edaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:d604b8cf-ae76-4d79-aeb3-d1691d019994@d604.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20250114T153000Z
+LOCATION:Paw.G  7
+DTSTART:20250114T140000Z
+SUMMARY:Rozwój gospodarczy Chin\, Indii i Rosji w XXI wieku (ćwiczenia)
+UID:64143129-2dfc-47bf-bd75-58708d820793@6414.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20241202T120000Z
+LOCATION:link do zajęć
+DTSTART:20241202T103000Z
+SUMMARY:Stosunki UE i Polski z państwami WNP oraz Azji i Pacyfiku (wykład)
+UID:2ec56415-9b67-4abb-b7cd-b43e6baeb30f@2ec5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dzwończyk
+DTEND:20241001T091500Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241001T083000Z
+SUMMARY:Patologie życia politycznego (konwersatorium do wyboru)
+UID:0eca8768-2e03-4151-a3c2-68cde099ed24@0eca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20241118T100000Z
+LOCATION:link do zajęć
+DTSTART:20241118T074500Z
+SUMMARY:Rozwój gospodarczy Chin\, Indii i Rosji w XXI wieku (wykład)
+UID:49739e61-a85e-464d-9508-43e0940d2a9e@4973.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241203T120000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241203T103000Z
+SUMMARY:Wyzwania rozwoju systemów politycznych krajów euroazjatyckich (konwersatorium)
+UID:259d7fb7-f054-482d-a037-041601459ed0@259d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241210T120000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241210T103000Z
+SUMMARY:Wyzwania rozwoju systemów politycznych krajów euroazjatyckich (konwersatorium)
+UID:b85f2a84-ef38-4d0e-8d3f-1588f3e7aadf@b85f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
+DTEND:20241217T134500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241217T121500Z
+SUMMARY:Analiza procesów gospodarczych na obszarze WNP (konwersatorium)
+UID:bc7eb5a1-c00b-4984-bf06-3721a1d7168f@bc7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20241216T120000Z
+LOCATION:link do zajęć
+DTSTART:20241216T103000Z
+SUMMARY:Stosunki UE i Polski z państwami WNP oraz Azji i Pacyfiku (wykład)
+UID:9e4383cf-4b3e-474c-ab45-604bf9188abe@9e43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241015T110000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241015T093000Z
+SUMMARY:Wyzwania rozwoju systemów politycznych krajów euroazjatyckich (konwersatorium)
+UID:f7bcbda5-767b-465c-8bff-19c7a940c8a9@f7bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20250114T120000Z
+LOCATION:Bud.gł. 2
+DTSTART:20250114T103000Z
+SUMMARY:Wyzwania rozwoju systemów politycznych krajów euroazjatyckich (konwersatorium)
+UID:4189cfba-4272-4a26-ad8f-f5d1ad8d2d3d@4189.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241008T110000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241008T093000Z
+SUMMARY:Wyzwania rozwoju systemów politycznych krajów euroazjatyckich (konwersatorium)
+UID:4a1e90df-565d-428f-912d-b388b4a9dc83@4a1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20241118T120000Z
+LOCATION:link do zajęć
+DTSTART:20241118T103000Z
+SUMMARY:Stosunki UE i Polski z państwami WNP oraz Azji i Pacyfiku (wykład)
+UID:3acbf466-85bd-4bc9-b087-cd1a5f10b4e0@3acb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dzwończyk
+DTEND:20250121T101500Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20250121T084500Z
+SUMMARY:Patologie życia politycznego (konwersatorium do wyboru)
+UID:a4d9104b-bfb9-49f1-8b40-790a079c7fc6@a4d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241126T120000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241126T103000Z
+SUMMARY:Wyzwania rozwoju systemów politycznych krajów euroazjatyckich (konwersatorium)
+UID:f27de6a1-34ab-4167-9dfe-f66f9ca854d1@f27d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
+DTEND:20241022T124500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241022T111500Z
+SUMMARY:Analiza procesów gospodarczych na obszarze WNP (konwersatorium)
+UID:148dd705-887a-4e0a-8d1e-1fe818b9f18b@148d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20250113T111500Z
+LOCATION:link do zajęć
+DTSTART:20250113T103000Z
+SUMMARY:Stosunki UE i Polski z państwami WNP oraz Azji i Pacyfiku (wykład)
+UID:b2254f6b-5d8a-4d5a-b6cf-6c6478dc5d47@b225.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20241113T120000Z
+LOCATION:Paw.U sala O
+DTSTART:20241113T103000Z
+SUMMARY:Stosunki UE i Polski z państwami WNP oraz Azji i Pacyfiku (ćwiczenia)
+UID:172a7e22-5034-4be0-8ff8-e4e50dff2f0d@172a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dzwończyk
+DTEND:20241126T101500Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241126T084500Z
+SUMMARY:Patologie życia politycznego (konwersatorium do wyboru)
+UID:18ac94f3-602f-49b7-a1ef-319d97cd06f6@18ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20250121T153000Z
+LOCATION:Paw.G  7
+DTSTART:20250121T140000Z
+SUMMARY:Rozwój gospodarczy Chin\, Indii i Rosji w XXI wieku (ćwiczenia)
+UID:7231f4e1-efb2-46a8-b8b8-d879a4e60e27@7231.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20241021T090000Z
+LOCATION:link do zajęć
+DTSTART:20241021T064500Z
+SUMMARY:Rozwój gospodarczy Chin\, Indii i Rosji w XXI wieku (wykład)
+UID:13bc01f4-58da-4451-a4af-8eb7db2b9ea0@13bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241119T120000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241119T103000Z
+SUMMARY:Wyzwania rozwoju systemów politycznych krajów euroazjatyckich (konwersatorium)
+UID:54e79d66-0d58-4acb-81eb-869be2ff9d76@54e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241022T110000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241022T093000Z
+SUMMARY:Wyzwania rozwoju systemów politycznych krajów euroazjatyckich (konwersatorium)
+UID:3ebad3ea-8b9a-4e96-8158-85681d02b82c@3eba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
+DTEND:20241203T134500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241203T121500Z
+SUMMARY:Analiza procesów gospodarczych na obszarze WNP (konwersatorium)
+UID:79be36b2-ba4e-4c22-9f5e-6e4ea60fb54a@79be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dzwończyk
+DTEND:20241015T091500Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241015T074500Z
+SUMMARY:Patologie życia politycznego (konwersatorium do wyboru)
+UID:a3d75d7f-3c2f-44c9-911d-900bb6d904c8@a3d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241105T120000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241105T103000Z
+SUMMARY:Wyzwania rozwoju systemów politycznych krajów euroazjatyckich (konwersatorium)
+UID:9c8ff6ed-5e2b-4b33-b37f-b8e3e7a4541f@9c8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
+DTEND:20241119T134500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241119T121500Z
+SUMMARY:Analiza procesów gospodarczych na obszarze WNP (konwersatorium)
+UID:a4b13ced-474c-4a2c-b7a2-e60fccaf33fe@a4b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241029T120000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241029T103000Z
+SUMMARY:Wyzwania rozwoju systemów politycznych krajów euroazjatyckich (konwersatorium)
+UID:e606e81e-f5ef-4a61-a4de-cb23b9937707@e606.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241001T110000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241001T093000Z
+SUMMARY:Wyzwania rozwoju systemów politycznych krajów euroazjatyckich (konwersatorium)
+UID:8352224e-80da-4cfe-a741-d4860134cb70@8352.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20250107T153000Z
+LOCATION:Paw.G  7
+DTSTART:20250107T140000Z
+SUMMARY:Rozwój gospodarczy Chin\, Indii i Rosji w XXI wieku (ćwiczenia)
+UID:7b1e3b38-9d97-4a06-8f9a-51a8d9e6d99c@7b1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20241030T120000Z
+LOCATION:Paw.U sala O
+DTSTART:20241030T103000Z
+SUMMARY:Stosunki UE i Polski z państwami WNP oraz Azji i Pacyfiku (ćwiczenia)
+UID:6210af14-98c8-4d1c-b829-c7f2e790e940@6210.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20241125T100000Z
+LOCATION:link do zajęć
+DTSTART:20241125T074500Z
+SUMMARY:Rozwój gospodarczy Chin\, Indii i Rosji w XXI wieku (wykład)
+UID:e891d69a-d069-44ce-b58e-717548ce8de6@e891.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
+DTEND:20241211T134500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241211T121500Z
+SUMMARY:Współczesna myśl liberalna (konwersatorium do wyboru)
+UID:d14d82a3-cc6d-4d45-b94f-47f83702bf08@d14d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20250107T120000Z
+LOCATION:Bud.gł. 2
+DTSTART:20250107T103000Z
+SUMMARY:Wyzwania rozwoju systemów politycznych krajów euroazjatyckich (konwersatorium)
+UID:a58f102f-52bf-4875-8673-5b4251c6398d@a58f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20241210T153000Z
+LOCATION:Paw.G  7
+DTSTART:20241210T140000Z
+SUMMARY:Rozwój gospodarczy Chin\, Indii i Rosji w XXI wieku (ćwiczenia)
+UID:c4540883-bcc1-4abb-8b8d-235b5616093b@c454.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
+DTEND:20250114T134500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20250114T121500Z
+SUMMARY:Analiza procesów gospodarczych na obszarze WNP (konwersatorium)
+UID:73247efd-647c-4126-82c0-24c8003cc0ff@7324.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241112T120000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241112T103000Z
+SUMMARY:Wyzwania rozwoju systemów politycznych krajów euroazjatyckich (konwersatorium)
+UID:e078e993-685d-41b1-a53e-b614d611f11a@e078.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
+DTEND:20241105T134500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241105T121500Z
+SUMMARY:Analiza procesów gospodarczych na obszarze WNP (konwersatorium)
+UID:b6868544-1fb5-46cb-8f01-2de28ae4e0ea@b686.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20241016T110000Z
+LOCATION:Paw.U sala O
+DTSTART:20241016T093000Z
+SUMMARY:Stosunki UE i Polski z państwami WNP oraz Azji i Pacyfiku (ćwiczenia)
+UID:ffc3be6c-b3ed-4d38-8dd2-75c47ae96821@ffc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20250122T111500Z
+LOCATION:Paw.U sala O
+DTSTART:20250122T103000Z
+SUMMARY:Stosunki UE i Polski z państwami WNP oraz Azji i Pacyfiku (ćwiczenia)
+UID:338ef6de-9f83-41c1-b27f-0b4693466736@338e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
+DTEND:20241113T134500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241113T121500Z
+SUMMARY:Współczesna myśl liberalna (konwersatorium do wyboru)
+UID:4d013641-2ad2-43e9-a8ee-a09bb764c010@4d01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
+DTEND:20241127T134500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241127T121500Z
+SUMMARY:Współczesna myśl liberalna (konwersatorium do wyboru)
+UID:84cb4141-69c7-4a0a-88f5-e683da46d57c@84cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20241104T100000Z
+LOCATION:link do zajęć
+DTSTART:20241104T074500Z
+SUMMARY:Rozwój gospodarczy Chin\, Indii i Rosji w XXI wieku (wykład)
+UID:b425a7e2-8313-4637-bdc8-b0eb644ecb7c@b425.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
+DTEND:20241030T134500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241030T121500Z
+SUMMARY:Współczesna myśl liberalna (konwersatorium do wyboru)
+UID:d6b22bd3-f85c-406b-b4c3-89ebdc885680@d6b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dzwończyk
+DTEND:20250107T101500Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20250107T084500Z
+SUMMARY:Patologie życia politycznego (konwersatorium do wyboru)
+UID:78eeba97-5250-4e56-9d8a-bdd12ef7679f@78ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241217T120000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241217T103000Z
+SUMMARY:Wyzwania rozwoju systemów politycznych krajów euroazjatyckich (konwersatorium)
+UID:44bdbef7-b160-4b6b-9d88-90e8e3af00ee@44bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
+DTEND:20241016T124500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241016T111500Z
+SUMMARY:Współczesna myśl liberalna (konwersatorium do wyboru)
+UID:1d706f2c-5f5a-45db-89d3-da88be67e0f1@1d70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
+DTEND:20241015T124500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241015T111500Z
+SUMMARY:Analiza procesów gospodarczych na obszarze WNP (konwersatorium)
+UID:be96c0ac-0e51-41a2-8e85-ac4539e8adc3@be96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
+DTEND:20241029T134500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241029T121500Z
+SUMMARY:Analiza procesów gospodarczych na obszarze WNP (konwersatorium)
+UID:6e748f4e-592d-4b3c-a06d-55ec362130d9@6e74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
+DTEND:20250121T134500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20250121T121500Z
+SUMMARY:Analiza procesów gospodarczych na obszarze WNP (konwersatorium)
+UID:bb8a6d92-2818-40d3-a615-6980e9208e1d@bb8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
+DTEND:20241112T134500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241112T121500Z
+SUMMARY:Analiza procesów gospodarczych na obszarze WNP (konwersatorium)
+UID:31e2fe5a-6b0b-46c9-b106-1d4e62f5e41c@31e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20250108T120000Z
+LOCATION:Paw.U sala O
+DTSTART:20250108T103000Z
+SUMMARY:Stosunki UE i Polski z państwami WNP oraz Azji i Pacyfiku (ćwiczenia)
+UID:7d30b1d7-2acc-4ee6-a382-c2b6b9a9b15b@7d30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20241104T120000Z
+LOCATION:link do zajęć
+DTSTART:20241104T103000Z
+SUMMARY:Stosunki UE i Polski z państwami WNP oraz Azji i Pacyfiku (wykład)
+UID:5f2ac739-3176-44d5-b1e4-e58cff7a166d@5f2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20241126T153000Z
+LOCATION:Paw.G  7
+DTSTART:20241126T140000Z
+SUMMARY:Rozwój gospodarczy Chin\, Indii i Rosji w XXI wieku (ćwiczenia)
+UID:e812d435-d564-42a0-9c91-dbe4e5705dd7@e812.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
+DTEND:20250107T134500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20250107T121500Z
+SUMMARY:Analiza procesów gospodarczych na obszarze WNP (konwersatorium)
+UID:6bb090c6-6850-490a-9963-f1dd204afb66@6bb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
+DTEND:20250122T130000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20250122T121500Z
+SUMMARY:Współczesna myśl liberalna (konwersatorium do wyboru)
+UID:e58f8918-c7b4-480e-95ac-ae4edd5c0a38@e58f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20241209T100000Z
+LOCATION:link do zajęć
+DTSTART:20241209T074500Z
+SUMMARY:Rozwój gospodarczy Chin\, Indii i Rosji w XXI wieku (wykład)
+UID:e93742da-465a-4691-ad21-75c18517b225@e937.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
+DTEND:20250115T134500Z
+LOCATION:Paw.U sala O
+DTSTART:20250115T121500Z
+SUMMARY:Współczesna myśl liberalna (konwersatorium do wyboru)
+UID:1218e4f9-de42-489e-bf09-8cdf8ffb6cf9@1218.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20241202T100000Z
+LOCATION:link do zajęć
+DTSTART:20241202T074500Z
+SUMMARY:Rozwój gospodarczy Chin\, Indii i Rosji w XXI wieku (wykład)
+UID:48aa9fd1-b902-44bb-90a3-e4eeed9c392e@48aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dzwończyk
+DTEND:20241029T101500Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241029T084500Z
+SUMMARY:Patologie życia politycznego (konwersatorium do wyboru)
+UID:093ae957-3332-49c2-be85-5f58b6d66e89@093a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20241007T110000Z
+LOCATION:link do zajęć
+DTSTART:20241007T093000Z
+SUMMARY:Stosunki UE i Polski z państwami WNP oraz Azji i Pacyfiku (wykład)
+UID:59e10c47-3f0d-4339-bf08-7ba1af60e761@59e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dzwończyk
+DTEND:20241112T101500Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241112T084500Z
+SUMMARY:Patologie życia politycznego (konwersatorium do wyboru)
+UID:8505bc6b-6b78-4700-a7d9-e565012f53cc@8505.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
+DTEND:20241126T134500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241126T121500Z
+SUMMARY:Analiza procesów gospodarczych na obszarze WNP (konwersatorium)
+UID:100610ba-e6c4-47ba-8d92-687e227286b1@1006.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20241014T110000Z
+LOCATION:link do zajęć
+DTSTART:20241014T093000Z
+SUMMARY:Stosunki UE i Polski z państwami WNP oraz Azji i Pacyfiku (wykład)
+UID:57628619-eb9b-49ec-8517-40cd26af9773@5762.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20241119T153000Z
+LOCATION:Paw.G  7
+DTSTART:20241119T144500Z
+SUMMARY:Rozwój gospodarczy Chin\, Indii i Rosji w XXI wieku (ćwiczenia)
+UID:52e3c09e-aab4-402e-9d85-99b2af4f2815@52e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20241203T153000Z
+LOCATION:Paw.G  7
+DTSTART:20241203T140000Z
+SUMMARY:Rozwój gospodarczy Chin\, Indii i Rosji w XXI wieku (ćwiczenia)
+UID:0dbf654f-29b4-4639-98ce-c07e69dd8b72@0dbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20241014T090000Z
+LOCATION:link do zajęć
+DTSTART:20241014T064500Z
+SUMMARY:Rozwój gospodarczy Chin\, Indii i Rosji w XXI wieku (wykład)
+UID:068f637a-fcce-4026-bd8b-18a688211b76@068f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
+DTEND:20241001T124500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241001T111500Z
+SUMMARY:Analiza procesów gospodarczych na obszarze WNP (konwersatorium)
+UID:817551d4-0c8c-41c7-9f1f-e64449e0f602@8175.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20241021T110000Z
+LOCATION:link do zajęć
+DTSTART:20241021T093000Z
+SUMMARY:Stosunki UE i Polski z państwami WNP oraz Azji i Pacyfiku (wykład)
+UID:a1a7f986-cbd1-413b-af8b-0ebd728f3dcd@a1a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
+DTEND:20250108T134500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20250108T121500Z
+SUMMARY:Współczesna myśl liberalna (konwersatorium do wyboru)
+UID:1e4bbb08-fedf-458e-bd90-49241be1730c@1e4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Kotulewicz-Wisińska
+DTEND:20241008T124500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241008T111500Z
+SUMMARY:Analiza procesów gospodarczych na obszarze WNP (konwersatorium)
+UID:3ecdf2b4-6038-4f4e-a81e-e56a40f48390@3ecd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:239e3b47-2ed9-4fa3-85db-23289c6bba85@239e.org
+END:VEVENT
+END:VCALENDAR

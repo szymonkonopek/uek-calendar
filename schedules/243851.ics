@@ -1,0 +1,882 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Tomasz Kwarciński
+DTEND:20250107T134500Z
+LOCATION:Paw.S sala 1
+DTSTART:20250107T121500Z
+SUMMARY:Wprowadzenie do myślenia krytycznego (konwersatorium)
+UID:0635d8c3-5ac8-41a4-a6e7-b054a5c8dd9c@0635.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20241121T171500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241121T154500Z
+SUMMARY:Filozofia społeczna (wykład)
+UID:c72ba408-f0d6-49e7-aae6-b2ca9c4578c2@c72b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20241205T171500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241205T154500Z
+SUMMARY:Filozofia społeczna (wykład)
+UID:8281e80c-b16c-42c4-bcd5-c690ff5f2948@8281.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20250110T120000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20250110T103000Z
+SUMMARY:Praca z tekstem naukowym (konwersatorium)
+UID:62380c1f-9486-4895-bf86-82ee08ff94de@6238.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Giza
+DTEND:20241031T153000Z
+LOCATION:Paw.S sala 5
+DTSTART:20241031T140000Z
+SUMMARY:Ekonomia (wykład)
+UID:6e833e9c-99a3-4023-8e4f-2d8b91ed226e@6e83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Giza
+DTEND:20250123T153000Z
+LOCATION:Paw.S sala 5
+DTSTART:20250123T140000Z
+SUMMARY:Ekonomia (wykład)
+UID:99bf2b44-4f30-404a-9ff3-401c6695e7ee@99bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20241127T190000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241127T173000Z
+SUMMARY:Psychologia (wykład)
+UID:1c4de9d9-5ce4-4b9e-9d82-d90ab7b22252@1c4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kwarcińska
+DTEND:20250121T153000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250121T144500Z
+SUMMARY:Projektowanie badań naukowych (konwersatorium)
+UID:59e32c21-f645-4418-92eb-6ab4c15b84cf@59e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241129T120000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241129T103000Z
+SUMMARY:Praca z tekstem naukowym (konwersatorium)
+UID:a064fe01-6414-40f2-8f74-4774f48a60f2@a064.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
+DTEND:20241015T161500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241015T144500Z
+SUMMARY:Wprowadzenie do statystyki i programów do analizy danych ilościowych (laboratorium)
+UID:2c487e8f-fadd-49f3-a119-5ccee9c1f066@2c48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kwarcińska
+DTEND:20250122T101500Z
+LOCATION:Paw.G  8
+DTSTART:20250122T084500Z
+SUMMARY:Projektowanie badań naukowych (konwersatorium)
+UID:822a4dd7-f34f-4e14-8cd6-6e8532d85b31@822a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kwarcińska
+DTEND:20241016T091500Z
+LOCATION:Paw.G  8
+DTSTART:20241016T074500Z
+SUMMARY:Projektowanie badań naukowych (konwersatorium)
+UID:12504283-2e05-4cd0-abcf-e5f1eea9fe87@1250.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
+DTEND:20250121T171500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20250121T154500Z
+SUMMARY:Wprowadzenie do statystyki i programów do analizy danych ilościowych (laboratorium)
+UID:abc21f27-9d16-4293-9688-aa2895347a28@abc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241004T110000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241004T093000Z
+SUMMARY:Praca z tekstem naukowym (konwersatorium)
+UID:44d69e04-e853-4b96-988e-4a84cc2d1d9c@44d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kwarcińska
+DTEND:20241127T101500Z
+LOCATION:Paw.G  8
+DTSTART:20241127T084500Z
+SUMMARY:Projektowanie badań naukowych (konwersatorium)
+UID:4ef49752-a498-4cf3-93da-3c362043d87d@4ef4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
+DTEND:20241105T171500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241105T154500Z
+SUMMARY:Wprowadzenie do statystyki i programów do analizy danych ilościowych (laboratorium)
+UID:38e661c5-aae2-4db1-8207-d4cc02657f1d@38e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20250109T171500Z
+LOCATION:Paw.S sala 2
+DTSTART:20250109T154500Z
+SUMMARY:Filozofia społeczna (wykład)
+UID:1d51b6f0-1bea-4cd6-bcec-95fba56f33ec@1d51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20241114T171500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241114T154500Z
+SUMMARY:Filozofia społeczna (wykład)
+UID:b2275132-0896-4ac1-b883-29cf9923a7a9@b227.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Tomasz Kwarciński
+DTEND:20241119T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241119T121500Z
+SUMMARY:Wprowadzenie do myślenia krytycznego (konwersatorium)
+UID:8c77bac4-72a6-4131-9f85-ebd89e69dc4a@8c77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Przemysław Kisiel
+DTEND:20250108T171500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20250108T154500Z
+SUMMARY:Socjologia (wykład)
+UID:18b5e08a-e3ba-477b-9143-457dd2356d44@18b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: Kolegium Gap Inne Jednostki -
+DTEND:20241007T091500Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20241007T074500Z
+SUMMARY: (rezerwacja)
+UID:3e3ea245-b4d6-4a05-b2e8-ea5dbf388dc8@3e3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Przemysław Kisiel
+DTEND:20241211T171500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241211T154500Z
+SUMMARY:Socjologia (wykład)
+UID:6646896f-8394-457c-b5f6-b4752c221761@6646.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Tomasz Kwarciński
+DTEND:20241105T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241105T121500Z
+SUMMARY:Wprowadzenie do myślenia krytycznego (konwersatorium)
+UID:29b01c1c-dfb4-4748-ba52-6ceece6a28d2@29b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
+DTEND:20241001T161500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241001T144500Z
+SUMMARY:Wprowadzenie do statystyki i programów do analizy danych ilościowych (laboratorium)
+UID:72fa3ea8-d81a-4bda-b660-8d8aa390514e@72fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
+DTEND:20241217T171500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241217T154500Z
+SUMMARY:Wprowadzenie do statystyki i programów do analizy danych ilościowych (laboratorium)
+UID:7405817e-0f73-4029-9a30-0c152af388b6@7405.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kwarcińska
+DTEND:20241030T101500Z
+LOCATION:Paw.G  8
+DTSTART:20241030T084500Z
+SUMMARY:Projektowanie badań naukowych (konwersatorium)
+UID:f625627e-29a8-444c-9eec-cd2d21f2813d@f625.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241213T120000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241213T103000Z
+SUMMARY:Praca z tekstem naukowym (konwersatorium)
+UID:04ef6f2d-f047-4dc2-9830-5ca7dd3e4771@04ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Giza
+DTEND:20241010T143000Z
+LOCATION:Paw.S sala 5
+DTSTART:20241010T130000Z
+SUMMARY:Ekonomia (wykład)
+UID:7c0e6885-d744-4707-ac71-e7e3f953e0f1@7c0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Giza
+DTEND:20241219T153000Z
+LOCATION:Paw.S sala 5
+DTSTART:20241219T140000Z
+SUMMARY:Ekonomia (wykład)
+UID:1041f1e2-29d9-4902-9c9d-f3927e9fda0e@1041.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Giza
+DTEND:20241024T143000Z
+LOCATION:Paw.S sala 5
+DTSTART:20241024T130000Z
+SUMMARY:Ekonomia (wykład)
+UID:3edeb9f5-da05-4306-ad99-cccd32f2758f@3ede.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20241031T171500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241031T154500Z
+SUMMARY:Filozofia społeczna (wykład)
+UID:2d64cefd-db99-4936-ab41-2537650076be@2d64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20241218T190000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241218T173000Z
+SUMMARY:Psychologia (wykład)
+UID:17f1c688-ef59-4139-8068-7e071fe56623@17f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Przemysław Kisiel
+DTEND:20241209T153000Z
+LOCATION:Paw.S sala 5
+DTSTART:20241209T140000Z
+SUMMARY:Socjologia (wykład)
+UID:f0e7badd-1536-4add-a423-9a0a91b8c976@f0e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Giza
+DTEND:20250109T153000Z
+LOCATION:Paw.S sala 5
+DTSTART:20250109T140000Z
+SUMMARY:Ekonomia (wykład)
+UID:5b1e1f85-02ee-4939-aa60-e23c23dae268@5b1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20250122T190000Z
+LOCATION:Paw.S sala 2
+DTSTART:20250122T173000Z
+SUMMARY:Psychologia (wykład)
+UID:2d5c5ae5-c66c-4d3e-a73a-482a0f614ad1@2d5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Przemysław Kisiel
+DTEND:20241009T161500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241009T144500Z
+SUMMARY:Socjologia (wykład)
+UID:886aa819-c6fa-4642-adf9-756cb806f7d1@886a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Giza
+DTEND:20241128T153000Z
+LOCATION:Paw.S sala 5
+DTSTART:20241128T140000Z
+SUMMARY:Ekonomia (wykład)
+UID:1c073e0a-a78f-45bc-b382-8f153b976d19@1c07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Tomasz Kwarciński
+DTEND:20241029T134500Z
+LOCATION:Paw.S sala 1
+DTSTART:20241029T121500Z
+SUMMARY:Wprowadzenie do myślenia krytycznego (konwersatorium)
+UID:aa46b3f7-3caa-408e-b473-781d93de9a99@aa46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20241024T161500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241024T144500Z
+SUMMARY:Filozofia społeczna (wykład)
+UID:ca61b2fe-9ae0-4876-928f-e4d079cb4811@ca61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241018T110000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241018T093000Z
+SUMMARY:Praca z tekstem naukowym (konwersatorium)
+UID:3a35c59e-0993-4562-b71b-53d68f0a948f@3a35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
+DTEND:20241210T171500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241210T154500Z
+SUMMARY:Wprowadzenie do statystyki i programów do analizy danych ilościowych (laboratorium)
+UID:7cd3bf83-b844-43c4-b7cc-7113a889f250@7cd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20241009T180000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241009T163000Z
+SUMMARY:Psychologia (wykład)
+UID:3102bb89-d2a7-4c4e-bd41-9bff0e6e2fb4@3102.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20241128T171500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241128T154500Z
+SUMMARY:Filozofia społeczna (wykład)
+UID:2abcc82f-e465-40a7-b9d8-b8fc16ab7c63@2abc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
+DTEND:20250107T171500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20250107T154500Z
+SUMMARY:Wprowadzenie do statystyki i programów do analizy danych ilościowych (laboratorium)
+UID:222ffc05-4580-4549-93af-55d3eca63677@222f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Tomasz Kwarciński
+DTEND:20241217T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241217T121500Z
+SUMMARY:Wprowadzenie do myślenia krytycznego (konwersatorium)
+UID:02e38d8f-6a98-4e5f-9622-3891db2468f5@02e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20241113T190000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241113T173000Z
+SUMMARY:Psychologia (wykład)
+UID:2ead43cf-362a-4221-bf96-e3f5beb328cc@2ead.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Przemysław Kisiel
+DTEND:20250110T134500Z
+LOCATION:Paw.S sala 2
+DTSTART:20250110T121500Z
+SUMMARY:Socjologia (wykład)
+UID:1de73cc3-8b5f-4a03-b137-31c415af3afe@1de7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20241030T190000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241030T173000Z
+SUMMARY:Psychologia (wykład)
+UID:f3190f7a-99ad-4a8d-bf0a-bc904097e368@f319.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20241204T190000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241204T173000Z
+SUMMARY:Psychologia (wykład)
+UID:0d4c1844-621b-40e5-8712-5aa3fc39696a@0d4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20241107T171500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241107T154500Z
+SUMMARY:Filozofia społeczna (wykład)
+UID:c8c8fad3-9294-4cb8-b6f9-d1e9161ba9c2@c8c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Tomasz Kwarciński
+DTEND:20250113T171500Z
+LOCATION:Bud.gł. 8
+DTSTART:20250113T154500Z
+SUMMARY:Wprowadzenie do myślenia krytycznego (konwersatorium)
+UID:265e8021-627a-4369-bd69-c2afa0cf079e@265e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Przemysław Kisiel
+DTEND:20250113T190000Z
+LOCATION:Paw.S sala 2
+DTSTART:20250113T173000Z
+SUMMARY:Socjologia (wykład)
+UID:51b8b258-ed0b-443b-8d66-74d2c02022a6@51b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
+DTEND:20241029T171500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241029T154500Z
+SUMMARY:Wprowadzenie do statystyki i programów do analizy danych ilościowych (laboratorium)
+UID:21a1e195-4d05-4789-99c8-100caf8f93d8@21a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20250115T190000Z
+LOCATION:Paw.S sala 2
+DTSTART:20250115T173000Z
+SUMMARY:Psychologia (wykład)
+UID:328b62e6-038e-4da2-9925-f7d01cbb42c9@328b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20241211T190000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241211T173000Z
+SUMMARY:Psychologia (wykład)
+UID:83472bd4-7b02-4ba5-a6ff-318052206790@8347.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Giza
+DTEND:20241003T143000Z
+LOCATION:Paw.S sala 5
+DTSTART:20241003T130000Z
+SUMMARY:Ekonomia (wykład)
+UID:f7869760-c4cc-4956-a7f8-36afbcb14162@f786.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Tomasz Kwarciński
+DTEND:20241210T134500Z
+LOCATION:Paw.S sala 1
+DTSTART:20241210T121500Z
+SUMMARY:Wprowadzenie do myślenia krytycznego (konwersatorium)
+UID:a2754c00-747f-4619-a063-db2e66d7e411@a275.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20250120T134500Z
+LOCATION:Paw.S sala 10
+DTSTART:20250120T130000Z
+SUMMARY:Praca z tekstem naukowym (konwersatorium)
+UID:070ab2d7-d8c7-41e9-8980-86ef407b9f82@070a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
+DTEND:20241203T171500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241203T154500Z
+SUMMARY:Wprowadzenie do statystyki i programów do analizy danych ilościowych (laboratorium)
+UID:512fd66b-1a25-4fc5-9b00-83d44ebf8bf1@512f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Tomasz Kwarciński
+DTEND:20241112T134500Z
+LOCATION:Paw.S sala 1
+DTSTART:20241112T121500Z
+SUMMARY:Wprowadzenie do myślenia krytycznego (konwersatorium)
+UID:eccee643-7f5d-437f-9713-6b9ade5a1053@ecce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kwarcińska
+DTEND:20250108T101500Z
+LOCATION:Paw.G  8
+DTSTART:20250108T084500Z
+SUMMARY:Projektowanie badań naukowych (konwersatorium)
+UID:f0abd72c-108c-4e50-a740-65b7288d286a@f0ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
+DTEND:20241008T161500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241008T144500Z
+SUMMARY:Wprowadzenie do statystyki i programów do analizy danych ilościowych (laboratorium)
+UID:56af9ae0-c875-4ed8-be5e-ecacd6e71e34@56af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20250108T190000Z
+LOCATION:Paw.S sala 2
+DTSTART:20250108T173000Z
+SUMMARY:Psychologia (wykład)
+UID:91766149-91da-46d7-85be-1bbd29e5e9ac@9176.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Tomasz Kwarciński
+DTEND:20241203T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241203T121500Z
+SUMMARY:Wprowadzenie do myślenia krytycznego (konwersatorium)
+UID:c1c9c477-f6ac-402e-b92b-0a4317c0aff0@c1c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Tomasz Kwarciński
+DTEND:20241015T124500Z
+LOCATION:Paw.S sala 1
+DTSTART:20241015T111500Z
+SUMMARY:Wprowadzenie do myślenia krytycznego (konwersatorium)
+UID:2584325a-6678-4508-9448-edfdbc4e2edf@2584.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20241010T161500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241010T144500Z
+SUMMARY:Filozofia społeczna (wykład)
+UID:7de6c9c5-682c-44dd-acce-330ebd964bec@7de6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
+DTEND:20241119T171500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241119T154500Z
+SUMMARY:Wprowadzenie do statystyki i programów do analizy danych ilościowych (laboratorium)
+UID:b3bbe577-d0f1-4338-9636-7e5691bb4cff@b3bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kwarcińska
+DTEND:20241113T101500Z
+LOCATION:Paw.G  8
+DTSTART:20241113T084500Z
+SUMMARY:Projektowanie badań naukowych (konwersatorium)
+UID:0be25f2b-a2c6-4ebe-aae3-c3f637eadb1b@0be2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20241003T161500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241003T144500Z
+SUMMARY:Filozofia społeczna (wykład)
+UID:9b9bc478-3900-4a09-9311-de2aa9c78f06@9b9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: Studencki Uek Parlament
+DTEND:20241024T180000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241024T163000Z
+SUMMARY:Prawa i obowiązki studenta (rezerwacja)
+UID:47f61157-2deb-4a1b-be8b-a04372b83f19@47f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Tomasz Kwarciński
+DTEND:20250114T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20250114T121500Z
+SUMMARY:Wprowadzenie do myślenia krytycznego (konwersatorium)
+UID:905a7f98-12f0-4ecf-bd82-6c42c6eeaa8c@905a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:b462b67e-ce34-4a9f-8cda-605c828ba058@b462.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
+DTEND:20241022T161500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241022T144500Z
+SUMMARY:Wprowadzenie do statystyki i programów do analizy danych ilościowych (laboratorium)
+UID:0a302cc1-719a-4b7b-8f66-7a3731d40c9c@0a30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
+DTEND:20241126T171500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241126T154500Z
+SUMMARY:Wprowadzenie do statystyki i programów do analizy danych ilościowych (laboratorium)
+UID:44c71c3b-607f-4705-a548-c922ecd1bffb@44c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
+DTEND:20250114T171500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20250114T154500Z
+SUMMARY:Wprowadzenie do statystyki i programów do analizy danych ilościowych (laboratorium)
+UID:c2f3863b-8fb7-4522-b68d-306c7c124550@c2f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
+DTEND:20241112T171500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241112T154500Z
+SUMMARY:Wprowadzenie do statystyki i programów do analizy danych ilościowych (laboratorium)
+UID:4f75d3ca-3e92-4822-aa5b-0c29c8bc02f6@4f75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Giza
+DTEND:20241205T153000Z
+LOCATION:Paw.S sala 5
+DTSTART:20241205T140000Z
+SUMMARY:Ekonomia (wykład)
+UID:d9ffd5c4-08f8-4285-ba51-1925090f3b86@d9ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Giza
+DTEND:20241107T153000Z
+LOCATION:Paw.S sala 5
+DTSTART:20241107T140000Z
+SUMMARY:Ekonomia (wykład)
+UID:c2b0d574-55db-4cd4-a3ef-62d4b92ecca1@c2b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241115T120000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241115T103000Z
+SUMMARY:Praca z tekstem naukowym (konwersatorium)
+UID:0241d65c-eccf-4013-a31f-86233cb7af44@0241.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Giza
+DTEND:20241114T153000Z
+LOCATION:Paw.S sala 5
+DTSTART:20241114T140000Z
+SUMMARY:Ekonomia (wykład)
+UID:d003fc4a-4096-456e-bd77-3acbf0e98dc5@d003.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Przemysław Kisiel
+DTEND:20241016T161500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241016T144500Z
+SUMMARY:Socjologia (wykład)
+UID:b9a54d30-7f88-47a3-b33a-c52744c78e6d@b9a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Tomasz Kwarciński
+DTEND:20241126T134500Z
+LOCATION:Paw.S sala 1
+DTSTART:20241126T121500Z
+SUMMARY:Wprowadzenie do myślenia krytycznego (konwersatorium)
+UID:ff9b161e-e847-41a0-8d4f-54c8304ed4fa@ff9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Giza
+DTEND:20241121T153000Z
+LOCATION:Paw.S sala 5
+DTSTART:20241121T140000Z
+SUMMARY:Ekonomia (wykład)
+UID:8b69aaa3-5d02-4a95-995f-fc6a7b8403f0@8b69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20241209T120000Z
+LOCATION:Paw.C sala F
+DTSTART:20241209T103000Z
+SUMMARY:Psychologia (wykład)
+UID:7e5348ef-07dd-43ed-9785-571724ad9be4@7e53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Tomasz Kwarciński
+DTEND:20241008T124500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241008T111500Z
+SUMMARY:Wprowadzenie do myślenia krytycznego (konwersatorium)
+UID:ff99e12b-9e8c-427a-819b-91aeaaa85737@ff99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Przemysław Kisiel
+DTEND:20241023T161500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241023T144500Z
+SUMMARY:Socjologia (wykład)
+UID:72695c68-ed6f-435f-9451-3d70e3f77306@7269.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Przemysław Kisiel
+DTEND:20241213T134500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241213T121500Z
+SUMMARY:Socjologia (wykład)
+UID:dc2cede1-29dc-48b5-aa30-81e7ae3eb8c8@dc2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Przemysław Kisiel
+DTEND:20241028T153000Z
+LOCATION:Paw.S sala 5
+DTSTART:20241028T140000Z
+SUMMARY:Socjologia (wykład)
+UID:91063a33-1db4-4939-b359-69433a414c7f@9106.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20241106T190000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241106T173000Z
+SUMMARY:Psychologia (wykład)
+UID:7fc83d09-ac00-48b4-a562-b85711810c1b@7fc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Giza
+DTEND:20241212T153000Z
+LOCATION:Paw.S sala 5
+DTSTART:20241212T140000Z
+SUMMARY:Ekonomia (wykład)
+UID:97559d33-3f71-45bf-a489-6b210551320d@9755.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Giza
+DTEND:20241017T143000Z
+LOCATION:Paw.S sala 5
+DTSTART:20241017T130000Z
+SUMMARY:Ekonomia (wykład)
+UID:a2ea1050-68f1-4122-a0d0-8d892433a601@a2ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Giza
+DTEND:20250116T153000Z
+LOCATION:Paw.S sala 5
+DTSTART:20250116T140000Z
+SUMMARY:Ekonomia (wykład)
+UID:c374db1e-4a98-4c9c-b074-ca43203dc94b@c374.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20250124T120000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20250124T103000Z
+SUMMARY:Praca z tekstem naukowym (konwersatorium)
+UID:d70edb56-78fd-4679-a01b-4c0493584fb5@d70e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20241212T171500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241212T154500Z
+SUMMARY:Filozofia społeczna (wykład)
+UID:7ac350cd-5d68-445c-9ccf-8800fa8eb68b@7ac3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:7b95794e-7c44-4d91-90c1-5175887fe32a@7b95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Tomasz Kwarciński
+DTEND:20250121T134500Z
+LOCATION:Paw.S sala 1
+DTSTART:20250121T121500Z
+SUMMARY:Wprowadzenie do myślenia krytycznego (konwersatorium)
+UID:47a330db-c06a-4042-b938-17bf8e1a310d@47a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Przemysław Kisiel
+DTEND:20241216T190000Z
+LOCATION:Paw.C sala B
+DTSTART:20241216T173000Z
+SUMMARY:Socjologia (wykład)
+UID:fee1b6a8-9c6f-4dc2-9f1d-6dada88c122d@fee1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20241219T171500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241219T154500Z
+SUMMARY:Filozofia społeczna (wykład)
+UID:85ff4eab-9a42-452a-a5d5-25978b7d061c@85ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kwarcińska
+DTEND:20241211T101500Z
+LOCATION:Paw.G  8
+DTSTART:20241211T084500Z
+SUMMARY:Projektowanie badań naukowych (konwersatorium)
+UID:a51acfeb-2edd-456a-8e0e-b05aecb7b32a@a51a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Tomasz Kwarciński
+DTEND:20241001T124500Z
+LOCATION:Paw.G 11
+DTSTART:20241001T111500Z
+SUMMARY:Wprowadzenie do myślenia krytycznego (konwersatorium)
+UID:dd670b8a-a3d0-4901-b1af-0eb7af9d4b8d@dd67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Przemysław Kisiel
+DTEND:20250115T171500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20250115T154500Z
+SUMMARY:Socjologia (wykład)
+UID:547bfd57-f10f-48ce-8f25-fa9901632c6d@547b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Przemysław Kisiel
+DTEND:20241030T171500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241030T154500Z
+SUMMARY:Socjologia (wykład)
+UID:897679f5-4821-4c86-ab8c-2d94e057b665@8976.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20250123T171500Z
+LOCATION:Paw.S sala 2
+DTSTART:20250123T154500Z
+SUMMARY:Filozofia społeczna (wykład)
+UID:305e2b4f-4abc-4ead-a28d-91ddc0283051@305e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20250116T171500Z
+LOCATION:Paw.S sala 2
+DTSTART:20250116T154500Z
+SUMMARY:Filozofia społeczna (wykład)
+UID:47118579-baed-43fe-9e1e-6636e8ab1e34@4711.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Przemysław Kisiel
+DTEND:20241218T171500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241218T154500Z
+SUMMARY:Socjologia (wykład)
+UID:615af77e-df33-417d-b920-f06183c6780f@615a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20241120T190000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241120T173000Z
+SUMMARY:Psychologia (wykład)
+UID:cf354c9b-a817-475b-8966-c7e865e53ca7@cf35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20241016T180000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241016T163000Z
+SUMMARY:Psychologia (wykład)
+UID:54d7a4cb-2c47-4b42-a132-8e967094a374@54d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Przemysław Kisiel
+DTEND:20250122T171500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20250122T154500Z
+SUMMARY:Socjologia (wykład)
+UID:079a8cef-3904-44ef-ac50-d8497551e848@079a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20241023T180000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241023T163000Z
+SUMMARY:Psychologia (wykład)
+UID:d26679ab-3e0b-4569-8958-770dbef2e1b5@d266.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Guczalska
+DTEND:20241017T161500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241017T144500Z
+SUMMARY:Filozofia społeczna (wykład)
+UID:49748dac-e11c-4cb1-8aa6-b1a068b083de@4974.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,834 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20241118T101500Z
+LOCATION:Paw.B 251
+DTSTART:20241118T084500Z
+SUMMARY:Grafika inżynierska (wykład)
+UID:9452dbf5-63b4-472d-8ab2-f2ee3145e7b5@9452.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20241213T143000Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20241213T121500Z
+SUMMARY:Metrologia (laboratorium)
+UID:06645485-e4aa-4cad-b338-c93a1ea7ae7d@0664.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20241212T120000Z
+LOCATION:Paw.F 104
+DTSTART:20241212T103000Z
+SUMMARY:Metrologia (wykład)
+UID:e1b01514-33a8-444a-bd83-2fac5ae0c086@e1b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241213T083000Z
+LOCATION:Paw.F 104
+DTSTART:20241213T070000Z
+SUMMARY:Ekonomia dla inżynierów (konwersatorium)
+UID:52b233cc-fea6-4633-99ed-1696377040f3@52b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20250110T083000Z
+LOCATION:Paw.F 104
+DTSTART:20250110T070000Z
+SUMMARY:Ekonomia dla inżynierów (konwersatorium)
+UID:1d5d5294-387d-459b-abfe-b89366e57f4d@1d5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20250120T101500Z
+LOCATION:Paw.B 251
+DTSTART:20250120T093000Z
+SUMMARY:Grafika inżynierska (wykład)
+UID:87f3bdbd-9072-4f8e-a3f6-4dadee73a398@87f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Magdalena Wojnarowska
+DTEND:20241217T133000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241217T111500Z
+SUMMARY:Ekologia i zarządzanie środowiskowe (konwersatorium)
+UID:bd05e980-deb9-4f42-934d-28d578bb2285@bd05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Magdalena Wojnarowska
+DTEND:20241203T133000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241203T111500Z
+SUMMARY:Ekologia i zarządzanie środowiskowe (konwersatorium)
+UID:2a52424e-7190-4e79-ae1d-b3dae3f06efa@2a52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20241220T120000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241220T103000Z
+SUMMARY:Przetwarzanie danych w arkuszu kalkulacyjnym (ćwiczenia)
+UID:ba7a63c6-9679-42a9-9866-0de3b4de37ad@ba7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20241003T110000Z
+LOCATION:Paw.F 104
+DTSTART:20241003T093000Z
+SUMMARY:Metrologia (wykład)
+UID:1e2a8df9-cbbe-4597-986c-d36580d59506@1e2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241122T083000Z
+LOCATION:Paw.F 104
+DTSTART:20241122T070000Z
+SUMMARY:Ekonomia dla inżynierów (konwersatorium)
+UID:f753c63a-ec4d-4999-8980-5aff2d062196@f753.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Magdalena Wojnarowska
+DTEND:20241105T133000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241105T111500Z
+SUMMARY:Ekologia i zarządzanie środowiskowe (konwersatorium)
+UID:37e17b86-53f5-4643-bfd9-bf15d32a3993@37e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Magdalena Wojnarowska
+DTEND:20250107T133000Z
+LOCATION:Paw.S sala 11
+DTSTART:20250107T111500Z
+SUMMARY:Ekologia i zarządzanie środowiskowe (konwersatorium)
+UID:096ee712-98d6-4d1d-8f23-03e947474676@096e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20241210T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241210T084500Z
+SUMMARY:Grafika inżynierska (laboratorium)
+UID:17454529-892a-4ba5-93bf-6f2f062cef42@1745.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20241004T110000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241004T093000Z
+SUMMARY:Przetwarzanie danych w arkuszu kalkulacyjnym (ćwiczenia)
+UID:a4c95f40-a481-42f4-ad60-9c41c09054ee@a4c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Magdalena Wojnarowska
+DTEND:20241015T123000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241015T101500Z
+SUMMARY:Ekologia i zarządzanie środowiskowe (konwersatorium)
+UID:4681cdc0-da2c-49f2-be57-b8f34427bbab@4681.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20241021T091500Z
+LOCATION:Paw.B 251
+DTSTART:20241021T074500Z
+SUMMARY:Grafika inżynierska (wykład)
+UID:e6a417ff-9192-4c56-a251-08c8944c19c6@e6a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Magdalena Wojnarowska
+DTEND:20241210T133000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241210T111500Z
+SUMMARY:Ekologia i zarządzanie środowiskowe (konwersatorium)
+UID:e85b0d26-fb0d-405c-9bea-2745f29ebea3@e85b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20250117T101500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20250117T084500Z
+SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia)
+UID:c265aa9f-877c-468d-a254-b93a606f3226@c265.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20241217T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241217T084500Z
+SUMMARY:Grafika inżynierska (laboratorium)
+UID:f60c12a7-8e13-4cec-9e64-033cd4d3070e@f60c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20241115T120000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241115T103000Z
+SUMMARY:Przetwarzanie danych w arkuszu kalkulacyjnym (ćwiczenia)
+UID:6c3846a9-7d32-4cfe-b15b-2c76ff889c21@6c38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241011T073000Z
+LOCATION:Paw.F 104
+DTSTART:20241011T060000Z
+SUMMARY:Ekonomia dla inżynierów (konwersatorium)
+UID:9ad8b8d5-b4b1-44da-ac59-0431f7e3f53c@9ad8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20241007T091500Z
+LOCATION:Paw.B 251
+DTSTART:20241007T074500Z
+SUMMARY:Grafika inżynierska (wykład)
+UID:9afc6762-e3ad-47a6-9a9b-274a5764b08d@9afc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20250123T111500Z
+LOCATION:Paw.F 104
+DTSTART:20250123T103000Z
+SUMMARY:Metrologia (wykład)
+UID:60f498c3-c796-43bb-9306-3b27fe3cc999@60f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241206T083000Z
+LOCATION:Paw.F 104
+DTSTART:20241206T070000Z
+SUMMARY:Ekonomia dla inżynierów (konwersatorium)
+UID:8c9da9e7-1f31-4c19-91b9-c69a60656912@8c9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20241001T091500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241001T074500Z
+SUMMARY:Grafika inżynierska (laboratorium)
+UID:8e994bea-f261-4926-b966-eb0726f2bdb6@8e99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20241122T120000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241122T103000Z
+SUMMARY:Przetwarzanie danych w arkuszu kalkulacyjnym (ćwiczenia)
+UID:c920883b-b595-4ccd-8225-628aa4ca6d8c@c920.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Magdalena Wojnarowska
+DTEND:20241119T133000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241119T111500Z
+SUMMARY:Ekologia i zarządzanie środowiskowe (konwersatorium)
+UID:c4cef660-9d69-4edc-b40d-889803a44985@c4ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20241031T120000Z
+LOCATION:Paw.F 104
+DTSTART:20241031T103000Z
+SUMMARY:Metrologia (wykład)
+UID:ee8fb8f8-e4d8-4adb-a079-11c371be414b@ee8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20241122T101500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241122T084500Z
+SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia)
+UID:622fe682-e5c8-46e9-adca-f8f9c6fa4708@622f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241004T073000Z
+LOCATION:Paw.F 104
+DTSTART:20241004T060000Z
+SUMMARY:Ekonomia dla inżynierów (konwersatorium)
+UID:386dc801-134a-4cd8-9106-a929b2a7f6bf@386d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20241018T133000Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20241018T111500Z
+SUMMARY:Metrologia (laboratorium)
+UID:64891dab-0872-4f54-ac26-bee4953b2e39@6489.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Magdalena Wojnarowska
+DTEND:20250121T133000Z
+LOCATION:Paw.S sala 11
+DTSTART:20250121T111500Z
+SUMMARY:Ekologia i zarządzanie środowiskowe (konwersatorium)
+UID:d44458b6-ebae-4f69-958a-f9dad0cce4b1@d444.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20250124T120000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20250124T103000Z
+SUMMARY:Przetwarzanie danych w arkuszu kalkulacyjnym (ćwiczenia)
+UID:cd631944-3c9c-492c-acc2-37c9b99369ac@cd63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20241213T120000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241213T103000Z
+SUMMARY:Przetwarzanie danych w arkuszu kalkulacyjnym (ćwiczenia)
+UID:50823d32-027e-40a0-b37a-282cf481e28a@5082.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20241115T143000Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20241115T121500Z
+SUMMARY:Metrologia (laboratorium)
+UID:b946aa18-71a9-4ef3-9ff1-770e6eda735d@b946.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20241129T120000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241129T103000Z
+SUMMARY:Przetwarzanie danych w arkuszu kalkulacyjnym (ćwiczenia)
+UID:dafd6b5c-f530-463a-93c3-a8aeec61664a@dafd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241127T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241127T084500Z
+SUMMARY:Podstawy organizacji i zarządzania (wykład)
+UID:bafcb2d7-14d0-40dd-971c-40dde540edb6@bafc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:d055af13-f087-4cb0-8490-cae31e52fda3@d055.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Magdalena Wojnarowska
+DTEND:20250114T133000Z
+LOCATION:Paw.S sala 11
+DTSTART:20250114T111500Z
+SUMMARY:Ekologia i zarządzanie środowiskowe (konwersatorium)
+UID:e37bd130-0a03-4b90-b995-ae8a66b5c5cd@e37b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Andrzej Chochół
+DTEND:20241108T143000Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20241108T121500Z
+SUMMARY:Metrologia (laboratorium)
+UID:698282da-e9e5-468d-b318-80af0659010e@6982.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20250121T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250121T084500Z
+SUMMARY:Grafika inżynierska (laboratorium)
+UID:2567adc8-a12d-4787-bd9a-c057064054e7@2567.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20241114T120000Z
+LOCATION:Paw.F 104
+DTSTART:20241114T103000Z
+SUMMARY:Metrologia (wykład)
+UID:80504d3c-f403-4b81-81ac-5e03088a4a11@8050.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20241108T120000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241108T103000Z
+SUMMARY:Przetwarzanie danych w arkuszu kalkulacyjnym (ćwiczenia)
+UID:3157e17d-d85f-4293-9a8b-1d8c8d9cc4e5@3157.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20250107T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250107T084500Z
+SUMMARY:Grafika inżynierska (laboratorium)
+UID:250960cb-6026-45f7-89f5-c798415de3ab@2509.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20241108T101500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241108T084500Z
+SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia)
+UID:9e47eb28-f2b3-439e-8243-87497ea03b50@9e47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241213T161500Z
+LOCATION:Paw.U sala K
+DTSTART:20241213T144500Z
+SUMMARY:Ekonomia dla inżynierów (konwersatorium)
+UID:8060affb-4ebc-4e09-89cb-460f1bd2b207@8060.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20241122T143000Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20241122T121500Z
+SUMMARY:Metrologia (laboratorium)
+UID:82e0bcde-b93a-4c25-b0ec-7d2bcade3a9c@82e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20241011T110000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241011T093000Z
+SUMMARY:Przetwarzanie danych w arkuszu kalkulacyjnym (ćwiczenia)
+UID:fa95be9a-da28-40c7-87aa-a324ceb23ceb@fa95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20241025T110000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241025T093000Z
+SUMMARY:Przetwarzanie danych w arkuszu kalkulacyjnym (ćwiczenia)
+UID:569a5520-fd50-4960-aadb-c974472a7319@569a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20250117T083000Z
+LOCATION:Paw.F 104
+DTSTART:20250117T070000Z
+SUMMARY:Ekonomia dla inżynierów (konwersatorium)
+UID:e219c754-a85b-4cc3-a8d0-7f09e1aa84bf@e219.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20250110T120000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20250110T103000Z
+SUMMARY:Przetwarzanie danych w arkuszu kalkulacyjnym (ćwiczenia)
+UID:ed514cdf-1747-49c4-90e1-ea2edce63c15@ed51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20241220T101500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241220T084500Z
+SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia)
+UID:087e8469-62f8-42a3-8acf-656a36971b13@087e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20241029T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241029T084500Z
+SUMMARY:Grafika inżynierska (laboratorium)
+UID:76b90fa4-3347-4afb-95ce-08605f084298@76b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20250124T083000Z
+LOCATION:Paw.F 104
+DTSTART:20250124T070000Z
+SUMMARY:Ekonomia dla inżynierów (konwersatorium)
+UID:e69d7e4e-bc35-4d97-ace5-a75902581d47@e69d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20250109T120000Z
+LOCATION:Paw.F 104
+DTSTART:20250109T103000Z
+SUMMARY:Metrologia (wykład)
+UID:ec7444ad-bc18-454c-8ddb-72e784e89104@ec74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241108T083000Z
+LOCATION:Paw.F 104
+DTSTART:20241108T070000Z
+SUMMARY:Ekonomia dla inżynierów (konwersatorium)
+UID:c291886e-51c5-4f67-94c6-9341fffb14a5@c291.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241115T083000Z
+LOCATION:Paw.F 104
+DTSTART:20241115T070000Z
+SUMMARY:Ekonomia dla inżynierów (konwersatorium)
+UID:e792ecf3-9d98-4892-9662-9595bef20d04@e792.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Magdalena Wojnarowska
+DTEND:20241001T123000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241001T101500Z
+SUMMARY:Ekologia i zarządzanie środowiskowe (konwersatorium)
+UID:8120c370-ab54-4c08-8c96-ba78085ba867@8120.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Magdalena Wojnarowska
+DTEND:20241126T133000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241126T111500Z
+SUMMARY:Ekologia i zarządzanie środowiskowe (konwersatorium)
+UID:4e2c9130-57a5-4c1a-b285-5aaca97dcda6@4e2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241211T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241211T084500Z
+SUMMARY:Podstawy organizacji i zarządzania (wykład)
+UID:234ddda8-ac4d-4743-9e4e-4ba7d4c54d73@234d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20241129T143000Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20241129T121500Z
+SUMMARY:Metrologia (laboratorium)
+UID:8b462a7f-71cc-488c-8fb6-596e3df2dfb7@8b46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20241203T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241203T084500Z
+SUMMARY:Grafika inżynierska (laboratorium)
+UID:2c028647-f815-4d11-be00-b145b5bc1612@2c02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20241004T133000Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20241004T111500Z
+SUMMARY:Metrologia (laboratorium)
+UID:3304139f-4b50-4fd3-a3ac-9963cc2a795f@3304.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Magdalena Wojnarowska
+DTEND:20241022T123000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241022T101500Z
+SUMMARY:Ekologia i zarządzanie środowiskowe (konwersatorium)
+UID:9329b9d7-8556-4b67-99e2-fb6a8a4190f8@9329.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20250113T101500Z
+LOCATION:Paw.B 251
+DTSTART:20250113T084500Z
+SUMMARY:Grafika inżynierska (wykład)
+UID:7c74329c-b72a-4cab-95ca-cac4a31a5cc5@7c74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20241202T101500Z
+LOCATION:Paw.B 251
+DTSTART:20241202T084500Z
+SUMMARY:Grafika inżynierska (wykład)
+UID:0f5f7e49-fb2b-46f7-8752-34d3d8a6877e@0f5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20250114T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250114T084500Z
+SUMMARY:Grafika inżynierska (laboratorium)
+UID:94d16b59-583a-40da-847e-90a56273148b@94d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20250108T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250108T084500Z
+SUMMARY:Podstawy organizacji i zarządzania (wykład)
+UID:984d5479-df8e-4327-9cf9-46fe48329833@984d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20241022T091500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241022T074500Z
+SUMMARY:Grafika inżynierska (laboratorium)
+UID:46923197-7fdc-47e0-bd8a-d5d5c756f010@4692.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20241126T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241126T084500Z
+SUMMARY:Grafika inżynierska (laboratorium)
+UID:7ca9aa4a-79dd-4cbb-bf83-ca2bba6865ed@7ca9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Andrzej Chochół
+DTEND:20241025T133000Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20241025T111500Z
+SUMMARY:Metrologia (laboratorium)
+UID:d8e93e46-4b2a-4403-aa94-7407d54bbcf2@d8e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20250117T120000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20250117T103000Z
+SUMMARY:Przetwarzanie danych w arkuszu kalkulacyjnym (ćwiczenia)
+UID:7a78eb87-8f6c-4e23-a0c1-3018cd5bd390@7a78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20241017T110000Z
+LOCATION:Paw.F 104
+DTSTART:20241017T093000Z
+SUMMARY:Metrologia (wykład)
+UID:2d85f06e-6aeb-4e2c-b0bb-5e0a97d158c6@2d85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20250116T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250116T093000Z
+SUMMARY:Podstawy organizacji i zarządzania (wykład)
+UID:56e73c53-c4fd-44a7-9e37-28d7a1b0a10b@56e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20250122T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250122T084500Z
+SUMMARY:Podstawy organizacji i zarządzania (wykład)
+UID:dbccfe76-0f16-4bd4-8fb7-ab55b42c89b4@dbcc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20241129T170000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241129T144500Z
+SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia)
+UID:37437017-dda4-4e0c-8a6e-97fba116700e@3743.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20250109T153000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20250109T140000Z
+SUMMARY:Przetwarzanie danych w arkuszu kalkulacyjnym (ćwiczenia)
+UID:4cc4fc92-0021-4512-b2fb-d83cc11277f5@4cc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241129T083000Z
+LOCATION:Paw.F 104
+DTSTART:20241129T070000Z
+SUMMARY:Ekonomia dla inżynierów (konwersatorium)
+UID:3379f855-7502-467a-8532-b3173658b616@3379.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241025T073000Z
+LOCATION:Paw.F 104
+DTSTART:20241025T060000Z
+SUMMARY:Ekonomia dla inżynierów (konwersatorium)
+UID:4d3cd9c6-c9b6-4412-a85a-ce9a84ca7b23@4d3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20241015T091500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241015T074500Z
+SUMMARY:Grafika inżynierska (laboratorium)
+UID:780357f3-fa41-47f6-8505-c00310a039e0@7803.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20241206T101500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241206T084500Z
+SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia)
+UID:d48d4a69-7b92-4428-bd21-d9f8acc76262@d48d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20241011T133000Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20241011T111500Z
+SUMMARY:Metrologia (laboratorium)
+UID:c0c59c46-60ed-410f-809a-4b5be5640c0f@c0c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20241025T091500Z
+LOCATION:Paw.G 12
+DTSTART:20241025T074500Z
+SUMMARY:Podstawy organizacji i zarządzania (ćwiczenia)
+UID:3d8f7beb-5759-4a92-b1a0-f8a298cdaba3@3d8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241113T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241113T084500Z
+SUMMARY:Podstawy organizacji i zarządzania (wykład)
+UID:01978128-d8fe-4acb-ad14-3fc2a4d952f4@0197.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241220T083000Z
+LOCATION:Paw.F 104
+DTSTART:20241220T070000Z
+SUMMARY:Ekonomia dla inżynierów (konwersatorium)
+UID:92f57eaf-beae-47df-9a82-b835da4df96b@92f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Magdalena Wojnarowska
+DTEND:20241112T133000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241112T111500Z
+SUMMARY:Ekologia i zarządzanie środowiskowe (konwersatorium)
+UID:d2b88182-810d-4d9c-a2e5-617d7b51b110@d2b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20241206T143000Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20241206T121500Z
+SUMMARY:Metrologia (laboratorium)
+UID:94ce7fb7-d6ae-4dcc-93fa-5ad329545f15@94ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241018T073000Z
+LOCATION:Paw.F 104
+DTSTART:20241018T060000Z
+SUMMARY:Ekonomia dla inżynierów (konwersatorium)
+UID:1b840ae0-ebd1-4217-95ee-f7f9df0f9751@1b84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: Studencki Uek Parlament
+DTEND:20241021T161500Z
+LOCATION:Paw.S sala 5
+DTSTART:20241021T144500Z
+SUMMARY:Prawa i obowiązki studenta (rezerwacja)
+UID:b1725ede-cd00-4aa3-a516-3808acc62b51@b172.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241016T091500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241016T074500Z
+SUMMARY:Podstawy organizacji i zarządzania (wykład)
+UID:d6ec5691-f244-4acd-980f-8f0e51b0edb2@d6ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20241105T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241105T084500Z
+SUMMARY:Grafika inżynierska (laboratorium)
+UID:79ff0f73-3261-4c1d-8a53-dca532dae573@79ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jacek Czerniak
+DTEND:20241128T120000Z
+LOCATION:Paw.F 104
+DTSTART:20241128T103000Z
+SUMMARY:Metrologia (wykład)
+UID:4dd3bbc7-97f7-4b0c-afbf-f3552b29ea0e@4dd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20241206T120000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241206T103000Z
+SUMMARY:Przetwarzanie danych w arkuszu kalkulacyjnym (ćwiczenia)
+UID:6f342101-21d3-4439-9116-542183ce7dd5@6f34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:3dc6eb57-11ac-4f78-b068-5a49ebd23db7@3dc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20241119T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241119T084500Z
+SUMMARY:Grafika inżynierska (laboratorium)
+UID:b6177c4b-cb68-4bee-b51b-5a8584cd9aab@b617.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20241008T091500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241008T074500Z
+SUMMARY:Grafika inżynierska (laboratorium)
+UID:30a577d9-d239-4c0d-8222-295f2933d322@30a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20241112T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241112T084500Z
+SUMMARY:Grafika inżynierska (laboratorium)
+UID:a49201a6-4c6e-46b5-964c-194b3147996b@a492.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Magdalena Wojnarowska
+DTEND:20241008T123000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241008T101500Z
+SUMMARY:Ekologia i zarządzanie środowiskowe (konwersatorium)
+UID:d1d75672-519a-4eed-a807-28ed54c42efa@d1d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20241216T101500Z
+LOCATION:Paw.B 251
+DTSTART:20241216T084500Z
+SUMMARY:Grafika inżynierska (wykład)
+UID:404ff9da-0394-472e-9189-3dd425092c86@404f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20241104T101500Z
+LOCATION:Paw.B 251
+DTSTART:20241104T084500Z
+SUMMARY:Grafika inżynierska (wykład)
+UID:53e6e3f0-4724-4953-8932-72c38174d267@53e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20241025T151500Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241025T134500Z
+SUMMARY:Przetwarzanie danych w arkuszu kalkulacyjnym (ćwiczenia)
+UID:b6b29353-1a48-48f9-9e46-24d603e05307@b6b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241030T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241030T084500Z
+SUMMARY:Podstawy organizacji i zarządzania (wykład)
+UID:66b086d9-f2a0-4b5f-8bed-22ac3d7bd567@66b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Magdalena Wojnarowska
+DTEND:20241029T133000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241029T111500Z
+SUMMARY:Ekologia i zarządzanie środowiskowe (konwersatorium)
+UID:9b864fc6-45a5-403a-bdf6-433fcdd558c3@9b86.org
+END:VEVENT
+END:VCALENDAR

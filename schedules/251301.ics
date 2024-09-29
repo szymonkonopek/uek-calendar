@@ -1,0 +1,324 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Konrad Pędziwiatr
+DTEND:20241027T164500Z
+LOCATION:link do zajęć
+DTSTART:20241027T130000Z
+SUMMARY:Problemy rozwoju Afryki (wykład)
+UID:1e7d2098-165a-4178-9c8f-424de7f6f45f@1e7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20250118T133000Z
+LOCATION:Paw.S sala 6
+DTSTART:20250118T103000Z
+SUMMARY:Negocjacje w środowisku wielokulturowym (konwersatorium)
+UID:e87a685a-0ead-44d6-a2d1-838529b7bd12@e87a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksander Dańda
+DTEND:20250119T104500Z
+LOCATION:Paw.C sala E
+DTSTART:20250119T074500Z
+SUMMARY:Polityka zagraniczna i bezpieczeństwa UE (konwersatorium do wyboru)
+UID:63dc5edc-ea73-4413-b005-71ec066a1231@63dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksander Dańda
+DTEND:20250125T161500Z
+LOCATION:Paw.C sala E
+DTSTART:20250125T140000Z
+SUMMARY:Polityka zagraniczna i bezpieczeństwa UE (konwersatorium do wyboru)
+UID:87063c92-b8da-4ec7-923b-514448acf43e@8706.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20241201T133000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241201T111500Z
+SUMMARY:Determinanty aktyw. wybranych krajów rozw.w państwach rozwijajcych się (konwersatorium do wyboru)
+UID:d256e678-27e7-4d75-a275-2d254513651f@d256.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksander Dańda
+DTEND:20241208T114500Z
+LOCATION:Paw.C sala E
+DTSTART:20241208T084500Z
+SUMMARY:Polityka zagraniczna i bezpieczeństwa UE (konwersatorium do wyboru)
+UID:6a0b6316-51c2-4c76-9ab9-fae17eb5eade@6a0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20241221T133000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241221T111500Z
+SUMMARY:Projekty i fundusze europejskie (konwersatorium do wyboru)
+UID:14451ca8-b8c1-49f9-94c7-145c69890e51@1445.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
+DTEND:20241026T094500Z
+LOCATION:link do zajęć
+DTSTART:20241026T064500Z
+SUMMARY:Problemy rozwoju Ameryki Łacińskiej (wykład)
+UID:1107cb70-0b6b-40d4-9664-c689f5a7c43a@1107.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20241207T104500Z
+LOCATION:Paw.S sala 4
+DTSTART:20241207T074500Z
+SUMMARY:Determinanty aktyw. wybranych krajów rozw.w państwach rozwijajcych się (konwersatorium do wyboru)
+UID:7d022845-c5ef-4847-a6a2-4ee96df5b5b1@7d02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Konrad Pędziwiatr
+DTEND:20241115T183000Z
+LOCATION:link do zajęć
+DTSTART:20241115T144500Z
+SUMMARY:Problemy rozwoju Afryki (wykład)
+UID:e01d7d95-6ff9-422a-8958-47d5471ac6cb@e01d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksander Dańda
+DTEND:20241117T100000Z
+LOCATION:Paw.C sala E
+DTSTART:20241117T074500Z
+SUMMARY:Polityka zagraniczna i bezpieczeństwa UE (konwersatorium do wyboru)
+UID:65995d2c-ec34-4704-9a41-b09c289db805@6599.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
+DTEND:20241124T104500Z
+LOCATION:link do zajęć
+DTSTART:20241124T074500Z
+SUMMARY:Problemy rozwoju Ameryki Łacińskiej (wykład)
+UID:9597de60-bbdb-44d3-8e0e-275ceb343f2d@9597.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dobrosława Wiktor-Mach
+DTEND:20241005T141500Z
+LOCATION:link do zajęć
+DTSTART:20241005T120000Z
+SUMMARY:Muzułmanie w Europie (wykład)
+UID:f4928b13-cb3f-49e6-ac80-65beff7aac3a@f492.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksander Dańda
+DTEND:20241222T114500Z
+LOCATION:Paw.C sala E
+DTSTART:20241222T084500Z
+SUMMARY:Przywództwo i decyzje polityczne (konwersatorium)
+UID:b4951281-5f82-4c76-a4a9-f99a44a2cd0c@b495.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dobrosława Wiktor-Mach
+DTEND:20241124T141500Z
+LOCATION:link do zajęć
+DTSTART:20241124T111500Z
+SUMMARY:Muzułmanie w Europie (wykład)
+UID:c5a6a585-c090-4ebb-886d-2ebd8e202746@c5a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20241221T104500Z
+LOCATION:Paw.S sala 4
+DTSTART:20241221T074500Z
+SUMMARY:Determinanty aktyw. wybranych krajów rozw.w państwach rozwijajcych się (konwersatorium do wyboru)
+UID:b731771b-1913-403f-8e3c-d86f1d9721c4@b731.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
+DTEND:20241116T104500Z
+LOCATION:link do zajęć
+DTSTART:20241116T074500Z
+SUMMARY:Problemy rozwoju Ameryki Łacińskiej (wykład)
+UID:5a814cb3-45f7-4447-a847-fc0d49d6c7f2@5a81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
+DTEND:20241206T170000Z
+LOCATION:link do zajęć
+DTSTART:20241206T144500Z
+SUMMARY:Problemy rozwoju Ameryki Łacińskiej (wykład)
+UID:7e39ae57-2a91-49c1-8071-4931749679c2@7e39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Konrad Pędziwiatr
+DTEND:20241220T183000Z
+LOCATION:link do zajęć
+DTSTART:20241220T144500Z
+SUMMARY:Problemy rozwoju Afryki (wykład)
+UID:054ddeba-7715-4ce1-9a88-ca1a52b2ad83@054d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksander Dańda
+DTEND:20250119T133000Z
+LOCATION:Paw.C sala E
+DTSTART:20250119T111500Z
+SUMMARY:Przywództwo i decyzje polityczne (konwersatorium)
+UID:9ad6674e-4c60-4696-9316-2a6df601c78f@9ad6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dobrosława Wiktor-Mach
+DTEND:20241116T141500Z
+LOCATION:link do zajęć
+DTSTART:20241116T111500Z
+SUMMARY:Muzułmanie w Europie (wykład)
+UID:26646d01-49e3-475e-bdab-947d8e5de121@2664.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20250119T170000Z
+LOCATION:Paw.B 451
+DTSTART:20250119T144500Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (konwersatorium do wyboru)
+UID:40285f6d-5d54-4c3d-a030-67670575b487@4028.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksander Dańda
+DTEND:20241130T141500Z
+LOCATION:Paw.C sala E
+DTSTART:20241130T111500Z
+SUMMARY:Przywództwo i decyzje polityczne (konwersatorium)
+UID:b2736a85-028c-45d1-8b22-967e3897333b@b273.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Aleksander Surdej
+DTEND:20241005T090000Z
+LOCATION:link do zajęć
+DTSTART:20241005T064500Z
+SUMMARY:Problemy rozwoju Ameryki Łacińskiej (wykład)
+UID:28195167-8216-4060-a143-60cd2706ac0e@2819.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20241130T104500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241130T074500Z
+SUMMARY:Negocjacje w środowisku wielokulturowym (konwersatorium)
+UID:30f08ca3-430e-44fe-ab9b-1cc5ec31e5c4@30f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksander Dańda
+DTEND:20241117T124500Z
+LOCATION:Paw.C sala E
+DTSTART:20241117T103000Z
+SUMMARY:Przywództwo i decyzje polityczne (konwersatorium)
+UID:3d38f299-e4d1-4b54-b505-265a0cbb1d65@3d38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20241123T104500Z
+LOCATION:Paw.S sala 4
+DTSTART:20241123T074500Z
+SUMMARY:Determinanty aktyw. wybranych krajów rozw.w państwach rozwijajcych się (konwersatorium do wyboru)
+UID:2e5bf557-0b0a-4ba6-a336-44eeb196fe9e@2e5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20250125T133000Z
+LOCATION:Paw.S sala 6
+DTSTART:20250125T111500Z
+SUMMARY:Negocjacje w środowisku wielokulturowym (konwersatorium)
+UID:19b32402-edf4-4bf4-b15c-7359954f342c@19b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20241207T133000Z
+LOCATION:Paw.C sala D
+DTSTART:20241207T111500Z
+SUMMARY:Projekty i fundusze europejskie (konwersatorium do wyboru)
+UID:899075db-824d-45de-8f46-af358b99ba43@8990.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241208T143000Z
+LOCATION:Paw.B 351
+DTSTART:20241208T121500Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (konwersatorium do wyboru)
+UID:b2628f80-f48a-4282-8bbc-ef5aec6b6989@b262.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Konrad Pędziwiatr
+DTEND:20250117T170000Z
+LOCATION:link do zajęć
+DTSTART:20250117T144500Z
+SUMMARY:Problemy rozwoju Afryki (wykład)
+UID:e99bc4c0-2896-4135-86e7-27302afbe59b@e99b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20241123T133000Z
+LOCATION:Paw.C sala B
+DTSTART:20241123T111500Z
+SUMMARY:Projekty i fundusze europejskie (konwersatorium do wyboru)
+UID:1f2a13ab-614a-4413-98c3-be52608d58eb@1f2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksander Dańda
+DTEND:20241201T104500Z
+LOCATION:Paw.C sala E
+DTSTART:20241201T074500Z
+SUMMARY:Polityka zagraniczna i bezpieczeństwa UE (konwersatorium do wyboru)
+UID:b2927e2b-1293-4c1a-b908-601ce9a92bd2@b292.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20250118T100000Z
+LOCATION:Paw.S sala 4
+DTSTART:20250118T074500Z
+SUMMARY:Determinanty aktyw. wybranych krajów rozw.w państwach rozwijajcych się (konwersatorium do wyboru)
+UID:89df807a-403a-4b6c-a461-9e16365967ee@89df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20241222T151500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241222T121500Z
+SUMMARY:Negocjacje w środowisku wielokulturowym (konwersatorium)
+UID:063ba301-3fd0-45da-bba6-536d2d924934@063b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dobrosława Wiktor-Mach
+DTEND:20241027T104500Z
+LOCATION:link do zajęć
+DTSTART:20241027T074500Z
+SUMMARY:Muzułmanie w Europie (wykład)
+UID:43525e67-84cd-43de-92c4-092620ebf387@4352.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20241123T161500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241123T140000Z
+SUMMARY:Negocjacje w środowisku wielokulturowym (konwersatorium)
+UID:7c31f58c-a58a-4cad-b845-a7d1aca53ad1@7c31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dobrosława Wiktor-Mach
+DTEND:20241129T170000Z
+LOCATION:link do zajęć
+DTSTART:20241129T144500Z
+SUMMARY:Muzułmanie w Europie (wykład)
+UID:f312939a-4efa-42b8-bcb9-0e8e281c6ca0@f312.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksander Dańda
+DTEND:20250125T193000Z
+LOCATION:Paw.C sala E
+DTSTART:20250125T163000Z
+SUMMARY:Przywództwo i decyzje polityczne (konwersatorium)
+UID:9716d834-ba7e-4317-9531-6e1dbeaac814@9716.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241221T170000Z
+LOCATION:Paw.B 451
+DTSTART:20241221T144500Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (konwersatorium do wyboru)
+UID:0bf6d022-f1db-4235-86fc-58dd94ce0ed1@0bf6.org
+END:VEVENT
+END:VCALENDAR

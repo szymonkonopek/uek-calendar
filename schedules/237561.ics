@@ -1,0 +1,1556 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20241017T124500Z
+LOCATION:Paw.C sala F
+DTSTART:20241017T111500Z
+SUMMARY:Podatki pośrednie i bezpośrednie (ćwiczenia)
+UID:c21e22be-7786-46a8-8e67-edc0867e7d36@c21e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Jędrzejczyk
+DTEND:20250122T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20250122T074500Z
+SUMMARY:Rozwój teorii rachunkowości (wykład)
+UID:1727ec54-9315-4b8e-9c3b-465262010677@1727.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kowalik
+DTEND:20250123T120000Z
+LOCATION:Paw.C sala E
+DTSTART:20250123T103000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:bb731181-388f-41b6-b253-3b513224b592@bb73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Rojek
+DTEND:20241004T141500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241004T111500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:e716616c-55b7-4de7-88ad-bf8a1170f2c6@e716.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20241108T083000Z
+LOCATION:Paw.C sala E
+DTSTART:20241108T070000Z
+SUMMARY:Rachunkowość finansowa (wykład)
+UID:5844f50d-8964-45ee-bfbf-21a7c3ef5d2c@5844.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20241129T083000Z
+LOCATION:Paw.C sala E
+DTSTART:20241129T070000Z
+SUMMARY:Rachunkowość finansowa (wykład)
+UID:df76ef47-e1da-40e0-a044-53d4954ea3b2@df76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20241202T134500Z
+LOCATION:Paw.A 301b
+DTSTART:20241202T121500Z
+SUMMARY:Ekonomika przedsiębiorstwa (ćwiczenia)
+UID:9410d777-5a55-4b4e-a2f5-204edd9a781d@9410.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T091500Z
+DTSTART:20241010T074500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:88574bcc-1552-40ba-b7c6-05a74e863526@8857.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241119T101500Z
+DTSTART:20241119T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:c5f04ed3-ce7c-49d8-b7ae-b5b19cb15bc3@c5f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241125T101500Z
+DTSTART:20241125T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:952e9cdd-40bc-4e07-ae10-797a05c54c09@952e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241018T091500Z
+DTSTART:20241018T074500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:b3f1aae5-7b1d-46a3-963e-6d016124b235@b3f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20241031T134500Z
+LOCATION:Paw.C sala F
+DTSTART:20241031T121500Z
+SUMMARY:Podatki pośrednie i bezpośrednie (ćwiczenia)
+UID:3dea51af-61a8-4d58-9fb2-fd86bed5d460@3dea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Jędrzejczyk
+DTEND:20241106T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241106T070000Z
+SUMMARY:Rozwój teorii rachunkowości (wykład)
+UID:fcdd87b8-8c3f-4aa4-a8c1-0a8236fa2d1e@fcdd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241217T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241217T103000Z
+SUMMARY:Podatki pośrednie i bezpośrednie (wykład)
+UID:b62275e5-6444-47dc-9698-7f0212fdcc60@b622.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20241121T083000Z
+LOCATION:Paw.F 109
+DTSTART:20241121T070000Z
+SUMMARY:Podatki pośrednie i bezpośrednie (ćwiczenia)
+UID:38171b2b-20fb-4424-b18f-2f4b40c56754@3817.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241118T101500Z
+DTSTART:20241118T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:f299d629-308d-46fe-868b-e4958ce3bf65@f299.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20241209T134500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241209T121500Z
+SUMMARY:Ekonomika przedsiębiorstwa (wykład)
+UID:a681ee0e-6082-49e6-84f9-fd935656003b@a681.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
+DTEND:20241112T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241112T103000Z
+SUMMARY:Podatki pośrednie i bezpośrednie (wykład)
+UID:fa601bf6-d529-42c8-b49d-59f394c1c1e2@fa60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Jędrzejczyk
+DTEND:20241009T073000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241009T060000Z
+SUMMARY:Rozwój teorii rachunkowości (wykład)
+UID:ec8597d0-966f-445c-8117-9a080cc0a1d3@ec85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20241126T170000Z
+LOCATION:Paw.U sala M
+DTSTART:20241126T144500Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:29c4094c-42da-41e0-9870-ef266264ab5f@29c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20241003T143000Z
+LOCATION:Paw.F CJ 302
+DTSTART:20241003T130000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
+UID:6565c025-3fc2-436e-890a-4aed7056d8c2@6565.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20250121T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20250121T103000Z
+SUMMARY:Podatki pośrednie i bezpośrednie (wykład)
+UID:15fca592-f3dc-41b2-b006-7c9bd0458c24@15fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250114T170000Z
+LOCATION:Paw.U sala M
+DTSTART:20250114T144500Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:f5002d4b-5818-4d48-b334-5a58fb68fedf@f500.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241204T134500Z
+DTSTART:20241204T121500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:2d917061-a69f-4bb2-9d9f-e98177ff1186@2d91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Jędrzejczyk
+DTEND:20241120T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241120T070000Z
+SUMMARY:Rozwój teorii rachunkowości (wykład)
+UID:4297b0c2-7efe-479d-81f9-ca4be7b7de98@4297.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kowalik
+DTEND:20241024T110000Z
+LOCATION:Paw.C sala E
+DTSTART:20241024T093000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:58fe2ec4-d0b3-4d27-aa4a-6ddddd5adc05@58fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241008T091500Z
+DTSTART:20241008T074500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:2dea3185-54ea-4389-8f0b-1a219108197b@2dea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20241114T153000Z
+LOCATION:Paw.F CJ 302
+DTSTART:20241114T140000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
+UID:4c5b874a-dda7-423f-b6a2-bcb49ca4cbf5@4c5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20241209T083000Z
+LOCATION:Paw.C sala E
+DTSTART:20241209T074500Z
+SUMMARY:Ekonomika przedsiębiorstwa (wykład)
+UID:a7413636-f93a-4bd9-9597-e017fa91ca7f@a741.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20241030T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241030T070000Z
+SUMMARY:Rachunkowość finansowa (wykład)
+UID:ccdc7e93-ae48-4069-bff4-7012e2afe1e7@ccdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
+DTEND:20241216T171500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241216T154500Z
+SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
+UID:f19d59dd-69e2-4168-93b8-56abe1ffe270@f19d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20241015T160000Z
+LOCATION:Paw.U sala M
+DTSTART:20241015T134500Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:39144b20-7545-481e-b2f5-fb14f62c1076@3914.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
+DTEND:20250107T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20250107T103000Z
+SUMMARY:Podatki pośrednie i bezpośrednie (wykład)
+UID:c47398c5-f53a-487b-a226-3baba2787856@c473.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20241114T134500Z
+LOCATION:Paw.C sala F
+DTSTART:20241114T121500Z
+SUMMARY:Podatki pośrednie i bezpośrednie (ćwiczenia)
+UID:0162bc3d-a514-487c-b2b3-efa737a21696@0162.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241127T134500Z
+DTSTART:20241127T121500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:150214dc-232d-4084-ab8d-42e4f2e2c00d@1502.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
+DTEND:20241001T110000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241001T093000Z
+SUMMARY:Podatki pośrednie i bezpośrednie (wykład)
+UID:0dc682c4-3211-4d9d-9dae-556017d97c08@0dc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241024T091500Z
+DTSTART:20241024T074500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:0be47355-3c25-4372-9eab-6aa5dc44f8d3@0be4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241028T101500Z
+DTSTART:20241028T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:4462904a-f31c-4f86-86ef-bf6d4f1c55b9@4462.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20241115T083000Z
+LOCATION:Paw.C sala E
+DTSTART:20241115T070000Z
+SUMMARY:Rachunkowość finansowa (wykład)
+UID:6603a9c2-1e19-4880-af91-f5bb575fb935@6603.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241121T101500Z
+DTSTART:20241121T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:06ef1915-fd8a-45a0-bd7e-80596867c788@06ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20241212T134500Z
+LOCATION:Paw.C sala F
+DTSTART:20241212T121500Z
+SUMMARY:Podatki pośrednie i bezpośrednie (ćwiczenia)
+UID:b8a77153-48be-43fe-b3e5-70429d43a073@b8a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20241220T083000Z
+LOCATION:Paw.C sala E
+DTSTART:20241220T070000Z
+SUMMARY:Rachunkowość finansowa (wykład)
+UID:a88e0574-74b4-484d-be84-09e613d9b2ab@a88e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20241107T083000Z
+LOCATION:Paw.F 109
+DTSTART:20241107T070000Z
+SUMMARY:Podatki pośrednie i bezpośrednie (ćwiczenia)
+UID:c9d8f44c-ef52-4a84-bd3e-a0f09a07f5d4@c9d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T101500Z
+DTSTART:20241219T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:0481e97a-ad15-46e6-978d-fb4a476a9931@0481.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241112T101500Z
+DTSTART:20241112T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:f1d60edf-a1f5-4d92-8fc2-4b76fe04c1f2@f1d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241203T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241203T103000Z
+SUMMARY:Podatki pośrednie i bezpośrednie (wykład)
+UID:f31c9737-3fbb-456a-9d35-b7a41d446eb0@f31c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
+DTEND:20250113T171500Z
+LOCATION:Paw.S sala 2
+DTSTART:20250113T154500Z
+SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
+UID:5c0c024a-dcc0-44f9-8327-13b3eb589533@5c0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20241021T124500Z
+LOCATION:Paw.A 301b
+DTSTART:20241021T111500Z
+SUMMARY:Ekonomika przedsiębiorstwa (ćwiczenia)
+UID:cf37d0f6-0e23-4115-8700-5bc8d0fef7fa@cf37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20250109T153000Z
+LOCATION:Paw.F CJ 302
+DTSTART:20250109T140000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
+UID:a4857d5f-ffa2-495a-a2d6-b8f82c357192@a485.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250121T101500Z
+DTSTART:20250121T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:c102e87b-2794-4d92-887a-92618e5abd71@c102.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250122T134500Z
+DTSTART:20250122T121500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:1d6e596b-0b98-41b7-a3b7-5bd97a670433@1d6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241029T101500Z
+DTSTART:20241029T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:b94d8fce-d30c-4d44-9624-b331a9200621@b94d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Rojek
+DTEND:20241018T141500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241018T111500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:8f4a8525-d1d4-4e7f-879b-d8986189df2a@8f4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kowalik
+DTEND:20241114T120000Z
+LOCATION:Paw.C sala E
+DTSTART:20241114T103000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:41159fff-dd0b-44c0-b5e3-8e9f94f8535d@4115.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20241010T073000Z
+LOCATION:Paw.F 109
+DTSTART:20241010T060000Z
+SUMMARY:Podatki pośrednie i bezpośrednie (ćwiczenia)
+UID:0289c374-d754-44eb-bc99-30f928f8ea04@0289.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241212T101500Z
+DTSTART:20241212T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:77f89491-64b1-49b0-b04d-c6093877b087@77f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Rojek
+DTEND:20250108T153000Z
+LOCATION:Paw.E sala J
+DTSTART:20250108T140000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:265557a1-16bc-48c5-803b-0c4120554298@2655.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Jędrzejczyk
+DTEND:20241204T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241204T070000Z
+SUMMARY:Rozwój teorii rachunkowości (wykład)
+UID:eb373da7-3a43-412d-8103-c9b0d80b2e93@eb37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241105T101500Z
+DTSTART:20241105T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:3e4dfb9d-368f-4f3d-8b96-98dcee94c8a9@3e4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Rojek
+DTEND:20250117T151500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250117T121500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:09c1dd08-9997-4b27-93b9-5abea4c28046@09c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kowalik
+DTEND:20241107T120000Z
+LOCATION:Paw.C sala E
+DTSTART:20241107T103000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:c3f14938-479c-40bd-b330-c1534db7c162@c3f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Rojek
+DTEND:20241122T151500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241122T121500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:36a807cc-4e99-4e25-86d1-37301487be59@36a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
+DTEND:20241126T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241126T103000Z
+SUMMARY:Podatki pośrednie i bezpośrednie (wykład)
+UID:1c64d003-beda-4504-b525-972dd778e537@1c64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
+DTEND:20241007T161500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241007T144500Z
+SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
+UID:24188fd7-394a-4bdf-8c40-d85ebddae016@2418.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Jędrzejczyk
+DTEND:20250115T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20250115T070000Z
+SUMMARY:Rozwój teorii rachunkowości (wykład)
+UID:6ebb200e-74e4-4381-b6cc-1aed564f8c8f@6ebb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:22538dfc-8c50-4930-8acc-85002072aafd@2253.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
+DTEND:20241104T171500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241104T154500Z
+SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
+UID:101a801e-5a1e-4802-8f38-b4fad292e06a@101a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241205T101500Z
+DTSTART:20241205T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:7228302a-a049-4385-a194-10c97d850db5@7228.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Rojek
+DTEND:20241213T151500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241213T121500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:5bb7658f-5ef8-489f-bd7c-a500b2913505@5bb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20241128T134500Z
+LOCATION:Paw.C sala F
+DTSTART:20241128T121500Z
+SUMMARY:Podatki pośrednie i bezpośrednie (ćwiczenia)
+UID:2ccd7d39-8e86-49f5-b729-28f06e6ef54a@2ccd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241031T101500Z
+DTSTART:20241031T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:c4bcd923-1462-4ad5-872f-d28c1a5cc93f@c4bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Jędrzejczyk
+DTEND:20241218T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241218T070000Z
+SUMMARY:Rozwój teorii rachunkowości (wykład)
+UID:a736f675-fcf8-4396-9161-8fca65e2b0a5@a736.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241218T134500Z
+DTSTART:20241218T121500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:39b576ca-756b-407d-ba0a-788705a3a076@39b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241022T110000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241022T093000Z
+SUMMARY:Podatki pośrednie i bezpośrednie (wykład)
+UID:f023b48b-ab42-495a-b0f4-f58e6213ae06@f023.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20241007T124500Z
+LOCATION:Paw.A 301b
+DTSTART:20241007T111500Z
+SUMMARY:Ekonomika przedsiębiorstwa (ćwiczenia)
+UID:7dbed58f-0f88-442b-8bd6-a23cf78a83e7@7dbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241105T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241105T103000Z
+SUMMARY:Podatki pośrednie i bezpośrednie (wykład)
+UID:912c630b-9d36-4cf8-b424-da7b87c1436b@912c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20250114T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20250114T103000Z
+SUMMARY:Podatki pośrednie i bezpośrednie (wykład)
+UID:aceac335-f1b7-4940-9354-d8131b94d12c@acea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20241028T134500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241028T121500Z
+SUMMARY:Ekonomika przedsiębiorstwa (wykład)
+UID:4c51dbf5-e2a7-4b33-a0eb-273dc18ddbfd@4c51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kowalik
+DTEND:20241128T120000Z
+LOCATION:Paw.C sala E
+DTSTART:20241128T103000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:15b33e8a-3fd1-4125-b373-664133bc8cf5@15b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20241011T073000Z
+LOCATION:Paw.C sala E
+DTSTART:20241011T060000Z
+SUMMARY:Rachunkowość finansowa (wykład)
+UID:5cf08f97-cac2-4453-980e-164647379eb3@5cf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241016T124500Z
+DTSTART:20241016T111500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:4d8a618c-42d5-4928-ad8b-715fdad598b4@4d8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Rojek
+DTEND:20241206T151500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241206T121500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:78197bf8-628d-4140-b06d-79e571cf6ddd@7819.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241216T101500Z
+DTSTART:20241216T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:493b386c-f16c-48cc-a2cf-2fd671b78c36@493b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241007T091500Z
+DTSTART:20241007T074500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:f6cea970-9093-4d14-bb5b-72390a812e60@f6ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20250110T083000Z
+LOCATION:Paw.C sala E
+DTSTART:20250110T070000Z
+SUMMARY:Rachunkowość finansowa (wykład)
+UID:f775e0a0-6a7f-49b3-8341-51737e941605@f775.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241128T101500Z
+DTSTART:20241128T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:552bfed2-90de-4f6b-81ab-2be495499688@552b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
+DTEND:20241210T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241210T103000Z
+SUMMARY:Podatki pośrednie i bezpośrednie (wykład)
+UID:56d4dab5-c974-4a2f-a4a6-8b49501ef8a9@56d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20241004T073000Z
+LOCATION:Paw.C sala E
+DTSTART:20241004T060000Z
+SUMMARY:Rachunkowość finansowa (wykład)
+UID:a9c5cc52-522e-4383-9c57-c27ca5be4cb4@a9c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20241031T153000Z
+LOCATION:Paw.F CJ 302
+DTSTART:20241031T140000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
+UID:52f2a353-09be-4840-9861-12c85d36581a@52f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241104T101500Z
+DTSTART:20241104T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:cbd5cee3-1c7f-44a1-83ec-08d2a403388b@cbd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kowalik
+DTEND:20241017T110000Z
+LOCATION:Paw.C sala E
+DTSTART:20241017T093000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:d7026524-f01d-43ac-b9c6-89aea9783600@d702.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241210T101500Z
+DTSTART:20241210T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:f2d08829-5779-4660-8652-ef0125399224@f2d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250120T101500Z
+DTSTART:20250120T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:2e3b5fff-03d8-41ad-aa0c-b2f662496340@2e3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20241001T160000Z
+LOCATION:Paw.U sala M
+DTSTART:20241001T134500Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:cf167ef1-d31f-45ec-8838-4028e7dde59c@cf16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241001T091500Z
+DTSTART:20241001T074500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:4aab029f-0bcb-4110-a5a5-e1dae530ded0@4aab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241129T101500Z
+DTSTART:20241129T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:647d1c35-eb62-4c4e-9670-088e0e95bec2@647d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kowalik
+DTEND:20250116T120000Z
+LOCATION:Paw.C sala E
+DTSTART:20250116T103000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:ddb6f15b-99fd-43b7-9fc5-89af8b48fd26@ddb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20250117T083000Z
+LOCATION:Paw.C sala E
+DTSTART:20250117T070000Z
+SUMMARY:Rachunkowość finansowa (wykład)
+UID:49b2b3ad-3d9c-4e9a-843b-f233e9a9310f@49b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241120T134500Z
+DTSTART:20241120T121500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:d0201887-ff28-4fd5-bf10-8e7998f6a5b3@d020.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241220T101500Z
+DTSTART:20241220T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:07043e10-efa8-4e18-8c00-136aa3ecc4f3@0704.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20250123T144500Z
+LOCATION:Paw.F CJ 302
+DTSTART:20250123T140000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
+UID:06e36dd0-8cdb-4a8e-a33c-bc4a739cd71b@06e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241115T101500Z
+DTSTART:20241115T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:80e0c794-cd26-4e5c-92f5-8207d2bd4acc@80e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20241025T073000Z
+LOCATION:Paw.C sala E
+DTSTART:20241025T060000Z
+SUMMARY:Rachunkowość finansowa (wykład)
+UID:16f89cd3-f6fa-41e8-849f-332c4acad79f@16f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20241203T170000Z
+LOCATION:Paw.U sala M
+DTSTART:20241203T144500Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:5a585b41-0030-4075-be47-3bb3a0011859@5a58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20241014T124500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241014T111500Z
+SUMMARY:Ekonomika przedsiębiorstwa (wykład)
+UID:b3aa2b81-ebae-420d-81ea-1e1905bee515@b3aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20241216T134500Z
+LOCATION:Paw.A 301b
+DTSTART:20241216T121500Z
+SUMMARY:Ekonomika przedsiębiorstwa (ćwiczenia)
+UID:cc3224f9-8be4-4e50-bee8-0f85ec47776b@cc32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20241118T134500Z
+LOCATION:Paw.A 301b
+DTSTART:20241118T121500Z
+SUMMARY:Ekonomika przedsiębiorstwa (ćwiczenia)
+UID:2d6a8e4e-6767-47e9-8a46-bf3033a2d9c6@2d6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20250113T134500Z
+LOCATION:Paw.A 301b
+DTSTART:20250113T121500Z
+SUMMARY:Ekonomika przedsiębiorstwa (ćwiczenia)
+UID:ceb89f7a-baec-4d6e-894a-cd8a94e5d386@ceb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20241029T170000Z
+LOCATION:Paw.U sala M
+DTSTART:20241029T144500Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:bea50c80-56a7-4790-b8be-66ffc5402434@bea5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20241018T073000Z
+LOCATION:Paw.C sala E
+DTSTART:20241018T060000Z
+SUMMARY:Rachunkowość finansowa (wykład)
+UID:ebb96991-15d6-4afa-8013-c7b6a4e8a9b2@ebb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
+DTEND:20241202T171500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241202T154500Z
+SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
+UID:a083c20a-ee94-4d07-99d5-c21463b4a7ba@a083.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
+DTEND:20241029T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241029T103000Z
+SUMMARY:Podatki pośrednie i bezpośrednie (wykład)
+UID:6a9ea155-b5b1-48a1-be36-d78bc1b7e2f0@6a9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241209T101500Z
+DTSTART:20241209T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:49d86161-def8-45f3-b78e-20f0208042e3@49d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20241210T170000Z
+LOCATION:Paw.U sala M
+DTSTART:20241210T144500Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:0b1bca21-e710-4224-9d21-c381c21337f6@0b1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Rojek
+DTEND:20250124T151500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250124T121500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:3fba524b-1932-4722-8161-48f06c4b53d8@3fba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241106T134500Z
+DTSTART:20241106T121500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:b80fb576-8a37-4936-8212-1ebc59f292e5@b80f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250115T134500Z
+DTSTART:20250115T121500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:872a07bd-d95f-4ccd-8df1-8dcc9b30151b@872a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241211T134500Z
+DTSTART:20241211T121500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:8205efd3-f13a-4db5-998a-6044926f9a5d@8205.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Rojek
+DTEND:20241220T151500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241220T121500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:b361432f-e532-4031-b45f-72549f89ad22@b361.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20241017T143000Z
+LOCATION:Paw.F CJ 302
+DTSTART:20241017T130000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
+UID:68549a34-73df-40b4-836a-4a9ed8b072e2@6854.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kowalik
+DTEND:20241219T120000Z
+LOCATION:Paw.C sala E
+DTSTART:20241219T103000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:2aaed358-c195-4fcb-8f30-54e25e2473ba@2aae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20241202T153000Z
+LOCATION:Paw.S sala 5
+DTSTART:20241202T140000Z
+SUMMARY:Ekonomika przedsiębiorstwa (wykład)
+UID:d6490de5-a676-4c9f-b963-8115ffd7639d@d649.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20250120T144500Z
+LOCATION:Paw.B 351
+DTSTART:20250120T140000Z
+SUMMARY:Ekonomika przedsiębiorstwa (ćwiczenia)
+UID:980660c4-2bdc-4570-9810-de885ef6aacf@9806.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:1c9d9aa6-00fb-485a-8232-d9d69aa668c5@1c9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
+DTEND:20241118T171500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241118T154500Z
+SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
+UID:120cce4b-6037-46cc-942b-88580590a230@120c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250117T101500Z
+DTSTART:20250117T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:e6daacb8-ffcc-4ea8-8099-e6175fcf4656@e6da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20241022T160000Z
+LOCATION:Paw.U sala M
+DTSTART:20241022T134500Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:e2c9d68f-9006-4caa-bfe6-4a57306395c2@e2c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241108T101500Z
+DTSTART:20241108T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:8b05215a-21af-4f99-91ef-cbd2a9f72faf@8b05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20250120T134500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20250120T121500Z
+SUMMARY:Ekonomika przedsiębiorstwa (wykład)
+UID:54d92c0e-4b9c-4e77-a8f7-92cd592aa139@54d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20250124T083000Z
+LOCATION:Paw.C sala E
+DTSTART:20250124T070000Z
+SUMMARY:Rachunkowość finansowa (wykład)
+UID:7f5e1f6f-0ad5-4778-a649-915a0720ddde@7f5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241203T101500Z
+DTSTART:20241203T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:5178250a-c1c7-452d-ac79-0095d941a0e6@5178.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241119T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241119T103000Z
+SUMMARY:Podatki pośrednie i bezpośrednie (wykład)
+UID:1106157b-a66d-49de-b55c-81698011cb56@1106.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241202T101500Z
+DTSTART:20241202T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:c54ea2cf-ad7f-432d-831a-3b2b1d410926@c54e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
+DTEND:20241021T161500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241021T144500Z
+SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
+UID:bdd0455c-32c8-4191-b72f-cf4dc321d53a@bdd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250107T101500Z
+DTSTART:20250107T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:d6bceef6-5c45-4e65-9a2a-aad122a7f092@d6bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20241213T083000Z
+LOCATION:Paw.C sala E
+DTSTART:20241213T070000Z
+SUMMARY:Rachunkowość finansowa (wykład)
+UID:f16f357d-61a1-4a16-b4c6-3b664196e033@f16f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241107T101500Z
+DTSTART:20241107T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:23b752d8-0822-405e-b319-f6cae4876a00@23b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241213T101500Z
+DTSTART:20241213T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:feca97e6-d505-4e4d-b994-a86a1ed639de@feca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241023T124500Z
+DTSTART:20241023T111500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:d4f18e06-c4bc-4721-aab4-e3c8dff62770@d4f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20241217T170000Z
+LOCATION:Paw.U sala M
+DTSTART:20241217T144500Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:a9d071d7-4f8b-43a4-a8a3-ebfa3669c184@a9d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Rojek
+DTEND:20241115T151500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241115T121500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:7937703b-fca8-46bb-aa97-940efb303dab@7937.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241126T101500Z
+DTSTART:20241126T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:72516cf9-abb4-47d2-9ebb-8a5da2428a65@7251.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20241128T153000Z
+LOCATION:Paw.F CJ 302
+DTSTART:20241128T140000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
+UID:7113bdac-e3f3-4c4a-b283-7e08d5bb41e1@7113.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241122T101500Z
+DTSTART:20241122T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:982ee6cd-989c-4a61-b7ef-c14ebd9e2a2e@982e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241021T091500Z
+DTSTART:20241021T074500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:ea0b95c6-f871-4900-8f6d-f33b34d4b405@ea0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250109T101500Z
+DTSTART:20250109T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:73c56a43-86c0-4e72-aeae-72fe0daff855@73c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Jędrzejczyk
+DTEND:20241023T073000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241023T060000Z
+SUMMARY:Rozwój teorii rachunkowości (wykład)
+UID:e3305cc1-0755-46b5-a10c-bb52f98d0ac7@e330.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kowalik
+DTEND:20241113T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241113T070000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:8ab8663b-99a8-4574-9f9d-901853005f7e@8ab8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241114T101500Z
+DTSTART:20241114T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:365b4130-075b-47a7-9c10-72743e0256d5@365b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241206T101500Z
+DTSTART:20241206T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:96b33eae-e95f-483f-8181-76ee1c8fda15@96b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250123T101500Z
+DTSTART:20250123T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:5bf75073-6e06-4ee4-a052-ad3c6740e72d@5bf7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241014T091500Z
+DTSTART:20241014T074500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:7a26757d-2720-49bb-97c7-83b87dc43911@7a26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Rojek
+DTEND:20241129T151500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241129T121500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:5ec55867-ab25-46a2-af1b-c986145109c5@5ec5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Rojek
+DTEND:20250110T151500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250110T121500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:8d4b3150-d1de-4388-a7f4-94f99d1c019c@8d4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241011T091500Z
+DTSTART:20241011T074500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:b7b4d55f-c2d0-462b-8b50-43c8abc902ce@b7b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20241212T153000Z
+LOCATION:Paw.F CJ 302
+DTSTART:20241212T140000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
+UID:eafc86a1-f813-4b25-baeb-16a5632747f9@eafc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20241118T153000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241118T140000Z
+SUMMARY:Ekonomika przedsiębiorstwa (wykład)
+UID:1220e865-21fc-431a-8db8-93d4ca3ab50b@1220.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250107T170000Z
+LOCATION:Paw.U sala M
+DTSTART:20250107T144500Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:d99cdce1-334b-4c48-90e6-967132ea6420@d99c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20241112T170000Z
+LOCATION:Paw.U sala M
+DTSTART:20241112T144500Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:6321e98e-9770-4fe9-9f91-39fcdde9655d@6321.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kowalik
+DTEND:20241205T120000Z
+LOCATION:Paw.C sala E
+DTSTART:20241205T103000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:cef673f8-e59c-4e84-9579-1f1624688c69@cef6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20241119T170000Z
+LOCATION:Paw.U sala M
+DTSTART:20241119T144500Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:25ba6ef9-85f0-4a3b-be0c-02a7c3e1146f@25ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250108T134500Z
+DTSTART:20250108T121500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:6f7ade9b-8a81-4b73-96ba-866ce734eb1a@6f7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20250123T134500Z
+LOCATION:Paw.C sala F
+DTSTART:20250123T121500Z
+SUMMARY:Podatki pośrednie i bezpośrednie (ćwiczenia)
+UID:52a44a3f-9ca4-4745-bff7-851bb107c18c@52a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20241206T083000Z
+LOCATION:Paw.C sala E
+DTSTART:20241206T070000Z
+SUMMARY:Rachunkowość finansowa (wykład)
+UID:056bd428-8c41-43e2-8be7-97557f58dd3c@056b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241008T110000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241008T093000Z
+SUMMARY:Podatki pośrednie i bezpośrednie (wykład)
+UID:5403a2ac-b940-459c-a3f9-6ce0d30e07f6@5403.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Kopeć
+DTEND:20241028T153000Z
+LOCATION:Paw.C sala D
+DTSTART:20241028T144500Z
+SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
+UID:a95ac97f-28a2-489e-826a-abc9397ec154@a95a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Rojek
+DTEND:20241108T151500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241108T121500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:918410c2-b311-44e9-aaa9-986b63a61906@9184.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kowalik
+DTEND:20241212T120000Z
+LOCATION:Paw.C sala E
+DTSTART:20241212T103000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:f5af694a-43a9-4c7b-88f4-d3e07e1354b6@f5af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250114T101500Z
+DTSTART:20250114T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:47017b9d-7899-4b6b-a1a9-b4f5da0a76e2@4701.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Rojek
+DTEND:20241025T141500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241025T111500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:40224951-0ea0-425e-9227-5973f41a4688@4022.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241017T091500Z
+DTSTART:20241017T074500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:c29bd9ca-be7e-4a8d-963c-f0d48e99c579@c29b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Rojek
+DTEND:20241011T141500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241011T111500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:1807c1ee-1f67-4147-901a-b8c869c89611@1807.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241217T101500Z
+DTSTART:20241217T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:ef8c16fd-3757-4dca-a95c-3549ea1e7305@ef8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20250109T134500Z
+LOCATION:Paw.C sala F
+DTSTART:20250109T121500Z
+SUMMARY:Podatki pośrednie i bezpośrednie (ćwiczenia)
+UID:8d941d29-3c45-43b5-ba2f-751a74fbae23@8d94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250110T101500Z
+DTSTART:20250110T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:eafa2d04-f76f-4415-bdef-d102e1241650@eafa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250116T101500Z
+DTSTART:20250116T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:beddd8ce-09ad-424e-9505-179754f2a4e6@bedd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241003T091500Z
+DTSTART:20241003T074500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:aec6f17d-4f33-45f9-89a2-cf8dc3903711@aec6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kowalik
+DTEND:20250109T120000Z
+LOCATION:Paw.C sala E
+DTSTART:20250109T103000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:99f69248-af60-4865-9201-9ab91ea38aab@99f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kowalik
+DTEND:20241003T110000Z
+LOCATION:Paw.C sala E
+DTSTART:20241003T093000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:a5c507f8-05b1-444e-b97f-cea9e8844535@a5c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241009T124500Z
+DTSTART:20241009T111500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:57c2fd50-5a2d-44ea-b0d3-396dab65a254@57c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241015T091500Z
+DTSTART:20241015T074500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:cab71747-22c0-497a-b8bb-51d33f5058ed@cab7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Bauer
+DTEND:20241122T083000Z
+LOCATION:Paw.C sala E
+DTSTART:20241122T070000Z
+SUMMARY:Rachunkowość finansowa (wykład)
+UID:985ad3d8-dcba-4229-85a2-97b6747a4745@985a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20250121T170000Z
+LOCATION:Paw.U sala M
+DTSTART:20250121T144500Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:865aa112-9cfd-4074-bcaa-69aa1e01a428@865a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20241024T073000Z
+LOCATION:Paw.F 109
+DTSTART:20241024T060000Z
+SUMMARY:Podatki pośrednie i bezpośrednie (ćwiczenia)
+UID:696550c4-e27a-47f3-8e90-85f6e54c3daf@6965.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20241008T160000Z
+LOCATION:Paw.U sala M
+DTSTART:20241008T134500Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:7a43fd9f-8e88-4010-8456-63588e59d2f9@7a43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241030T134500Z
+DTSTART:20241030T121500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:9a8fbf31-4c13-4797-a1a0-039f3215e7e1@9a8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kowalik
+DTEND:20241121T120000Z
+LOCATION:Paw.C sala E
+DTSTART:20241121T103000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:2f5d7166-d3a3-4fb8-815f-c146b0b76986@2f5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kowalik
+DTEND:20241031T120000Z
+LOCATION:Paw.C sala E
+DTSTART:20241031T103000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:441abd4d-d574-4400-b260-7b3210420482@441a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20241125T134500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241125T121500Z
+SUMMARY:Ekonomika przedsiębiorstwa (wykład)
+UID:ff268128-0462-4e9f-af1d-cf6840299457@ff26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20241205T083000Z
+LOCATION:Paw.F 109
+DTSTART:20241205T070000Z
+SUMMARY:Podatki pośrednie i bezpośrednie (ćwiczenia)
+UID:d8c1c8e0-ac88-44f4-aea2-da4aa2425578@d8c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241113T134500Z
+DTSTART:20241113T121500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:32f7e4ac-6bd2-4f9b-afa0-b35e4a21ecd0@32f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250113T101500Z
+DTSTART:20250113T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:7aaa02f9-4298-4989-b0df-cbaab04ee743@7aaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241025T091500Z
+DTSTART:20241025T074500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:3e5c2d77-c271-4e4e-aa86-8e78bd93387f@3e5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Rojek
+DTEND:20250122T120000Z
+LOCATION:Paw.C sala B
+DTSTART:20250122T103000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:571cdc04-b336-4650-a96b-70496eb71376@571c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Toborek-Mazur
+DTEND:20241105T170000Z
+LOCATION:Paw.U sala M
+DTSTART:20241105T144500Z
+SUMMARY:Rachunkowość finansowa (ćwiczenia)
+UID:d84bf72f-548f-4aac-a83b-9d35c8d3c192@d84b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20241219T083000Z
+LOCATION:Paw.F 109
+DTSTART:20241219T070000Z
+SUMMARY:Podatki pośrednie i bezpośrednie (ćwiczenia)
+UID:365b1bd9-e9d9-4b90-a925-a5bb0a04f661@365b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250124T101500Z
+DTSTART:20250124T084500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:6d7835e3-2809-4951-9463-5136f77454d4@6d78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241004T091500Z
+DTSTART:20241004T074500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:ada9ca94-e26e-455d-b1c2-4e4704c0381d@ada9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20250116T083000Z
+LOCATION:Paw.F 109
+DTSTART:20250116T070000Z
+SUMMARY:Podatki pośrednie i bezpośrednie (ćwiczenia)
+UID:b84e749d-935f-4a19-a6e5-2d4ad1106ebc@b84e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Dziura
+DTEND:20241104T134500Z
+LOCATION:Paw.A 301b
+DTSTART:20241104T121500Z
+SUMMARY:Ekonomika przedsiębiorstwa (ćwiczenia)
+UID:ef6e64b6-8bc2-4aaa-ab1e-f5c7309e9911@ef6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20241003T124500Z
+LOCATION:Paw.C sala F
+DTSTART:20241003T111500Z
+SUMMARY:Podatki pośrednie i bezpośrednie (ćwiczenia)
+UID:0f4cc24a-f087-4518-9320-9b3adb753d4a@0f4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241022T091500Z
+DTSTART:20241022T074500Z
+SUMMARY:Język obcy 2.3 (studia stacjonarne) - grupa przedmiotów (ćwiczenia)
+UID:0864dd16-f62f-4ac5-9b45-d273240bc358@0864.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aneta Kaźmierczyk
+DTEND:20241015T110000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241015T093000Z
+SUMMARY:Podatki pośrednie i bezpośrednie (wykład)
+UID:90794c56-0727-40d9-9fce-7704e49b0d8e@9079.org
+END:VEVENT
+END:VCALENDAR

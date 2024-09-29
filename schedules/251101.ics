@@ -1,0 +1,954 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Ewelina Jamróz
+DTEND:20241203T101500Z
+LOCATION:Paw.F 104
+DTSTART:20241203T084500Z
+SUMMARY:Techniki pakowania (wykład)
+UID:dd11716d-8cf4-41e2-8d6c-0d2c245a5474@dd11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20250108T120000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20250108T103000Z
+SUMMARY:Techniki pakowania (laboratorium)
+UID:5a5812aa-62d4-4337-bb43-34bf1e2cdb33@5a58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20241118T180000Z
+LOCATION:Paw.C sala C
+DTSTART:20241118T163000Z
+SUMMARY:Zastosow.chromatografii gazowej i olfaktometrii w bad. jakości produkt (wykład do wyboru)
+UID:c240271d-81eb-4606-8e28-7ac989c1cd01@c240.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241128T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20241128T084500Z
+SUMMARY:Zarządzanie operacyjne (wykład)
+UID:34217d8e-964a-4595-a250-715b9fe662db@3421.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20250117T130000Z
+LOCATION:Bibl. 443
+DTSTART:20250117T121500Z
+SUMMARY:Zarządzanie jakością i bezpieczeństwem II (ćwiczenia)
+UID:35e2536e-bf17-42f9-8025-8db0f281ca12@35e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241016T110000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241016T093000Z
+SUMMARY:Techniki pakowania (laboratorium)
+UID:2f912a7e-7837-408b-bda0-638fcd0c92d5@2f91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Ewelina Jamróz
+DTEND:20241029T101500Z
+LOCATION:Paw.F 104
+DTSTART:20241029T084500Z
+SUMMARY:Techniki pakowania (wykład)
+UID:a77654db-1ab6-406b-8e19-7b6fb7eb79b6@a776.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20250113T110000Z
+LOCATION:Sienk. 5 pr. spoż. 3
+DTSTART:20250113T093000Z
+SUMMARY:Procesy w przetwórstwie żywności pochodzenia zwierzęcego (laboratorium)
+UID:e504cc7a-63bd-43b0-841e-75430dac76e4@e504.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20241104T161500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241104T140000Z
+SUMMARY:Procesy w przetwórstwie żywności pochodzenia zwierzęcego (wykład)
+UID:599b2fdf-9868-494f-ab5e-9b86bc5a8f6d@599b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Ewelina Jamróz
+DTEND:20241112T101500Z
+LOCATION:Paw.F 104
+DTSTART:20241112T084500Z
+SUMMARY:Techniki pakowania (wykład)
+UID:fb6020d2-58f1-41f2-8fd2-eee15c2568fb@fb60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Jabłoński
+DTEND:20241107T083000Z
+LOCATION:Paw.F 104
+DTSTART:20241107T070000Z
+SUMMARY:Zarządzanie produkcją i usługami (wykład)
+UID:9e0b897d-4fea-4f2c-a1da-0b1e0449bd26@9e0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241009T161500Z
+LOCATION:Paw.F 717
+DTSTART:20241009T144500Z
+SUMMARY:Zarządzanie jakością i bezpieczeństwem II (wykład)
+UID:76fd5621-8e49-409b-b026-7025044caf50@76fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Jabłoński
+DTEND:20241205T083000Z
+LOCATION:Paw.F 104
+DTSTART:20241205T070000Z
+SUMMARY:Zarządzanie produkcją i usługami (wykład)
+UID:dc842d9b-1033-4f0a-9594-7fa33be1273b@dc84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Ewelina Jamróz
+DTEND:20241126T101500Z
+LOCATION:Paw.F 104
+DTSTART:20241126T084500Z
+SUMMARY:Techniki pakowania (wykład)
+UID:6ac974e3-cb5c-4e52-b099-1b973bd5b1d0@6ac9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20250109T153000Z
+LOCATION:Paw.C sala E
+DTSTART:20250109T140000Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:4d181459-3aa6-4be5-b0b4-db6d0afa660c@4d18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Jabłoński
+DTEND:20241128T083000Z
+LOCATION:Paw.F 104
+DTSTART:20241128T070000Z
+SUMMARY:Zarządzanie produkcją i usługami (wykład)
+UID:910ed584-c10b-44a6-9bfe-32ec7d1029c4@910e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241017T143000Z
+LOCATION:Paw.C sala E
+DTSTART:20241017T130000Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:9ad46f1f-2bd9-443c-9e5e-c0af769bbecd@9ad4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241106T120000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241106T103000Z
+SUMMARY:Techniki pakowania (laboratorium)
+UID:3173a5cf-2d5c-4b92-82ca-4e2509ca4286@3173.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241108T083000Z
+LOCATION:Paw.F 111
+DTSTART:20241108T070000Z
+SUMMARY:Zarządzanie jakością i bezpieczeństwem II (ćwiczenia)
+UID:49d4ea88-5185-463e-9d76-de6f73e50875@49d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20250122T120000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20250122T103000Z
+SUMMARY:Techniki pakowania (laboratorium)
+UID:64e7d402-cbdc-47e1-9619-bc03cf06f11f@64e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241009T180000Z
+LOCATION:Paw.F 715
+DTSTART:20241009T163000Z
+SUMMARY:Zarządzanie jakością i bezpieczeństwem II (wykład)
+UID:1f7bf9e0-fe85-4142-a5d3-defffc4e0252@1f7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20241203T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20241203T103000Z
+SUMMARY:Zarządzanie operacyjne (ćwiczenia)
+UID:9df88dfa-b57f-4890-bc13-b1359fc19923@9df8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241216T134500Z
+LOCATION:Paw.C sala C
+DTSTART:20241216T121500Z
+SUMMARY:Zarządzanie gospodarką odpadami (wykład)
+UID:c0be64c6-6919-4065-bec4-b4e76426d6c7@c0be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241003T091500Z
+LOCATION:Paw.C sala A
+DTSTART:20241003T074500Z
+SUMMARY:Zarządzanie operacyjne (wykład)
+UID:5134b339-2436-446c-812a-3515941cdd18@5134.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Jabłoński
+DTEND:20250109T083000Z
+LOCATION:Paw.F 104
+DTSTART:20250109T070000Z
+SUMMARY:Zarządzanie produkcją i usługami (wykład)
+UID:84dda171-0dce-4d51-9bd7-83cdad07a725@84dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241114T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20241114T084500Z
+SUMMARY:Zarządzanie operacyjne (wykład)
+UID:5b31c82a-12bd-4f8e-b41a-08ef5e6fb578@5b31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241113T120000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241113T103000Z
+SUMMARY:Techniki pakowania (laboratorium)
+UID:b0e8339d-4bd0-4c34-90f5-5d0dafa84612@b0e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20241028T180000Z
+LOCATION:Paw.C sala C
+DTSTART:20241028T163000Z
+SUMMARY:Zastosow.chromatografii gazowej i olfaktometrii w bad. jakości produkt (wykład do wyboru)
+UID:3430bc98-8360-49b4-b664-332425a9b096@3430.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241212T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20241212T084500Z
+SUMMARY:Zarządzanie operacyjne (wykład)
+UID:c3d02101-1ec5-40da-966d-76899791903d@c3d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241120T120000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241120T103000Z
+SUMMARY:Techniki pakowania (laboratorium)
+UID:439f061c-2f2b-4376-8cc5-99c433d7116b@439f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20241209T161500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241209T140000Z
+SUMMARY:Procesy w przetwórstwie żywności pochodzenia zwierzęcego (wykład)
+UID:239cd98b-66e0-4417-b464-0e6a66b571b6@239c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20241118T104500Z
+LOCATION:Sienk. 5 pr. spoż. 3
+DTSTART:20241118T074500Z
+SUMMARY:Procesy w przetwórstwie żywności pochodzenia zwierzęcego (laboratorium)
+UID:01102460-07fe-4081-bd09-f5f2d0716281@0110.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Jabłoński
+DTEND:20241017T073000Z
+LOCATION:Paw.F 104
+DTSTART:20241017T060000Z
+SUMMARY:Zarządzanie produkcją i usługami (wykład)
+UID:6f049280-e898-4096-abe3-076721e3dc36@6f04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20241007T151500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241007T130000Z
+SUMMARY:Procesy w przetwórstwie żywności pochodzenia zwierzęcego (wykład)
+UID:13d04e9a-c5e5-4dbf-8f0b-a81e655ac32c@13d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241011T073000Z
+LOCATION:Paw.F 111
+DTSTART:20241011T060000Z
+SUMMARY:Zarządzanie jakością i bezpieczeństwem II (ćwiczenia)
+UID:49d9163c-8415-42cf-b462-e738206d4423@49d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241118T134500Z
+LOCATION:Paw.C sala C
+DTSTART:20241118T121500Z
+SUMMARY:Zarządzanie gospodarką odpadami (wykład)
+UID:beb592eb-e2f0-4b06-be68-358335a95312@beb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241030T120000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241030T103000Z
+SUMMARY:Techniki pakowania (laboratorium)
+UID:e3a67d97-a505-41b3-a304-b050f255f97e@e3a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20241118T161500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241118T140000Z
+SUMMARY:Procesy w przetwórstwie żywności pochodzenia zwierzęcego (wykład)
+UID:51b03bab-bbdd-46e1-9ce2-374f6634bdd3@51b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241218T120000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241218T103000Z
+SUMMARY:Techniki pakowania (laboratorium)
+UID:60a440d4-07b9-433e-a39a-95c7b85491ed@60a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241023T161500Z
+LOCATION:Paw.F 717
+DTSTART:20241023T144500Z
+SUMMARY:Zarządzanie jakością i bezpieczeństwem II (wykład)
+UID:8bbc8496-ea69-41df-a0a4-ef7f810c8851@8bbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241031T153000Z
+LOCATION:Paw.C sala E
+DTSTART:20241031T140000Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:38b01c3c-f93b-4e5f-80fc-8eeb05a63641@38b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20250113T134500Z
+LOCATION:Paw.C sala C
+DTSTART:20250113T121500Z
+SUMMARY:Zarządzanie gospodarką odpadami (wykład)
+UID:d4beda62-478d-468a-98a0-59275de6928f@d4be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Jabłoński
+DTEND:20241212T083000Z
+LOCATION:Paw.F 104
+DTSTART:20241212T070000Z
+SUMMARY:Zarządzanie produkcją i usługami (wykład)
+UID:fd43ba00-f778-43b2-9db2-4ca26470569b@fd43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:f26732ea-aff2-440b-948d-8a595ce482d5@f267.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Jabłoński
+DTEND:20241003T073000Z
+LOCATION:Paw.F 104
+DTSTART:20241003T060000Z
+SUMMARY:Zarządzanie produkcją i usługami (wykład)
+UID:f6ddd482-5ee7-475a-b22c-0c7dc381b2d6@f6dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20241119T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20241119T103000Z
+SUMMARY:Zarządzanie operacyjne (ćwiczenia)
+UID:cf2f7ccd-562d-4cea-a4dc-c0c1815f45c9@cf2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Jabłoński
+DTEND:20241010T073000Z
+LOCATION:Paw.F 104
+DTSTART:20241010T060000Z
+SUMMARY:Zarządzanie produkcją i usługami (wykład)
+UID:e31f8011-26e6-4282-8b9f-e608b6766d57@e31f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241127T120000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241127T103000Z
+SUMMARY:Techniki pakowania (laboratorium)
+UID:a0e298ef-c4dc-4b73-b2c3-e93c49c25c38@a0e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241031T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20241031T084500Z
+SUMMARY:Zarządzanie operacyjne (wykład)
+UID:6b200731-19bd-4899-84c1-eb7dc1059381@6b20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20250114T181500Z
+LOCATION:Paw.S sala 6
+DTSTART:20250114T173000Z
+SUMMARY:Zarządzanie jakością i bezpieczeństwem II (wykład)
+UID:433c7410-0e01-4458-98a6-86b4af68742e@433c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241206T083000Z
+LOCATION:Paw.F 111
+DTSTART:20241206T070000Z
+SUMMARY:Zarządzanie jakością i bezpieczeństwem II (ćwiczenia)
+UID:9f0c19cb-a798-49d9-a774-0328bc8cbda9@9f0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Ewelina Jamróz
+DTEND:20241105T101500Z
+LOCATION:Paw.F 104
+DTSTART:20241105T084500Z
+SUMMARY:Techniki pakowania (wykład)
+UID:f3fefbb3-27be-49f5-83d7-20ca1b205ae2@f3fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Jabłoński
+DTEND:20241219T083000Z
+LOCATION:Paw.F 104
+DTSTART:20241219T070000Z
+SUMMARY:Zarządzanie produkcją i usługami (wykład)
+UID:89eaf9a0-4f35-48c5-b98e-2de9056c407a@89ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20241209T104500Z
+LOCATION:Sienk. 5 pr. spoż. 3
+DTSTART:20241209T074500Z
+SUMMARY:Procesy w przetwórstwie żywności pochodzenia zwierzęcego (laboratorium)
+UID:52eeb985-f0e2-4545-a4f3-1b6d97ade4a0@52ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Ewelina Jamróz
+DTEND:20250121T101500Z
+LOCATION:Paw.F 104
+DTSTART:20250121T084500Z
+SUMMARY:Techniki pakowania (wykład)
+UID:0c4036a6-2619-4dba-89f3-cf243f27c02d@0c40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241104T134500Z
+LOCATION:Paw.C sala C
+DTSTART:20241104T121500Z
+SUMMARY:Zarządzanie gospodarką odpadami (wykład)
+UID:1984e175-ac66-48b4-b2d5-9eeef5138be7@1984.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20241202T161500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241202T140000Z
+SUMMARY:Procesy w przetwórstwie żywności pochodzenia zwierzęcego (wykład)
+UID:cabd0d32-2b67-448c-86ca-dc476e7627c0@cabd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241108T143000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241108T121500Z
+SUMMARY:Zarządzanie operacyjne (wykład)
+UID:3d6f699d-e99a-4d6c-98d6-5359b2407209@3d6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Ewelina Jamróz
+DTEND:20241015T091500Z
+LOCATION:Paw.F 104
+DTSTART:20241015T074500Z
+SUMMARY:Techniki pakowania (wykład)
+UID:1445d891-9e1c-48b7-9e9f-15d00fc39749@1445.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20250124T120000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20250124T103000Z
+SUMMARY:Techniki pakowania (laboratorium)
+UID:192ed36a-ed69-4a17-87c9-be2e5efff65c@192e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Jabłoński
+DTEND:20241031T083000Z
+LOCATION:Paw.F 104
+DTSTART:20241031T070000Z
+SUMMARY:Zarządzanie produkcją i usługami (wykład)
+UID:bf608050-e167-42b5-8b68-dfd2b142ff1f@bf60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Jabłoński
+DTEND:20241024T073000Z
+LOCATION:Paw.F 104
+DTSTART:20241024T060000Z
+SUMMARY:Zarządzanie produkcją i usługami (wykład)
+UID:08039ac0-71d8-4c5c-b50d-f00724cb9737@0803.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241202T134500Z
+LOCATION:Paw.C sala C
+DTSTART:20241202T121500Z
+SUMMARY:Zarządzanie gospodarką odpadami (wykład)
+UID:719bdc76-4f77-4d44-a5d0-8217a24b3925@719b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20241104T104500Z
+LOCATION:Sienk. 5 pr. spoż. 3
+DTSTART:20241104T074500Z
+SUMMARY:Procesy w przetwórstwie żywności pochodzenia zwierzęcego (laboratorium)
+UID:3fd36091-1fda-430a-83e0-7820a19da730@3fd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241017T091500Z
+LOCATION:Paw.C sala A
+DTSTART:20241017T074500Z
+SUMMARY:Zarządzanie operacyjne (wykład)
+UID:fe1af40a-3e3e-4624-bc52-e449dace63a3@fe1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20250114T171500Z
+LOCATION:Paw.S sala 7
+DTSTART:20250114T154500Z
+SUMMARY:Zarządzanie jakością i bezpieczeństwem II (wykład)
+UID:74f0799b-7384-4d73-ac35-45eb52fb3fe8@74f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241212T153000Z
+LOCATION:Paw.C sala E
+DTSTART:20241212T140000Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:6bf81b8c-6212-46e1-9555-ba0013c6e0cb@6bf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20241028T104500Z
+LOCATION:Sienk. 5 pr. spoż. 3
+DTSTART:20241028T074500Z
+SUMMARY:Procesy w przetwórstwie żywności pochodzenia zwierzęcego (laboratorium)
+UID:e6af74bb-26c3-44d4-9b14-fee4341192b3@e6af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20241202T104500Z
+LOCATION:Sienk. 5 pr. spoż. 3
+DTSTART:20241202T074500Z
+SUMMARY:Procesy w przetwórstwie żywności pochodzenia zwierzęcego (laboratorium)
+UID:68ecfd29-197b-496e-b39d-2003483828b6@68ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241220T083000Z
+LOCATION:Paw.F 111
+DTSTART:20241220T070000Z
+SUMMARY:Zarządzanie jakością i bezpieczeństwem II (ćwiczenia)
+UID:68289793-e06d-4724-98d8-25cfd1ce10e8@6828.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Jabłoński
+DTEND:20250123T083000Z
+LOCATION:Paw.F 104
+DTSTART:20250123T070000Z
+SUMMARY:Zarządzanie produkcją i usługami (wykład)
+UID:cba06118-a6ce-4a7f-ac3b-1413eebd51f5@cba0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20250117T083000Z
+LOCATION:Paw.F 111
+DTSTART:20250117T070000Z
+SUMMARY:Zarządzanie jakością i bezpieczeństwem II (ćwiczenia)
+UID:3334d86b-7d2c-4780-aa16-96b2210dee87@3334.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20241105T083000Z
+LOCATION:Paw.C sala A
+DTSTART:20241105T070000Z
+SUMMARY:Zarządzanie operacyjne (ćwiczenia)
+UID:571835be-67f8-4a7e-8cec-9a94faa1704d@5718.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20241216T161500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241216T140000Z
+SUMMARY:Procesy w przetwórstwie żywności pochodzenia zwierzęcego (wykład)
+UID:5a48099c-3d0e-40d0-a5ab-850ff9b16882@5a48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20250115T074500Z
+LOCATION:Paw.C sala A
+DTSTART:20250115T070000Z
+SUMMARY:Zarządzanie operacyjne (ćwiczenia)
+UID:8eb52bed-296c-4a8e-875f-d03cbcd664ca@8eb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241016T180000Z
+LOCATION:Paw.F 715
+DTSTART:20241016T163000Z
+SUMMARY:Zarządzanie jakością i bezpieczeństwem II (wykład)
+UID:35139b79-958e-4403-860e-b20bf4940376@3513.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241007T124500Z
+LOCATION:Paw.C sala C
+DTSTART:20241007T111500Z
+SUMMARY:Zarządzanie gospodarką odpadami (wykład)
+UID:06edbd0c-9c3d-41ac-841c-05d0b06f1b3b@06ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Ewelina Jamróz
+DTEND:20241217T101500Z
+LOCATION:Paw.F 104
+DTSTART:20241217T084500Z
+SUMMARY:Techniki pakowania (wykład)
+UID:2e8701a2-f8fc-48fe-9ed9-d1865d5cd1c9@2e87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241003T143000Z
+LOCATION:Paw.C sala E
+DTSTART:20241003T130000Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:6a24ad84-3ddf-4c15-86d3-6a9810875acd@6a24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20250115T120000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20250115T103000Z
+SUMMARY:Techniki pakowania (laboratorium)
+UID:ac43c3b2-b54f-4a5d-9f8e-fe5bcfa0af86@ac43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20241125T180000Z
+LOCATION:Paw.C sala C
+DTSTART:20241125T163000Z
+SUMMARY:Zastosow.chromatografii gazowej i olfaktometrii w bad. jakości produkt (wykład do wyboru)
+UID:44e15bdc-9d2e-45fc-802a-f6eae155c732@44e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Jabłoński
+DTEND:20241114T083000Z
+LOCATION:Paw.F 104
+DTSTART:20241114T070000Z
+SUMMARY:Zarządzanie produkcją i usługami (wykład)
+UID:cfe4eb07-007b-431b-98e9-d8e03f1b908d@cfe4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241023T110000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241023T093000Z
+SUMMARY:Techniki pakowania (laboratorium)
+UID:53563972-c3b7-4379-87ed-194a72f9eeda@5356.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20241021T170000Z
+LOCATION:Paw.C sala C
+DTSTART:20241021T153000Z
+SUMMARY:Zastosow.chromatografii gazowej i olfaktometrii w bad. jakości produkt (wykład do wyboru)
+UID:6bcc6be2-afa7-4670-8b81-aa69ee50568b@6bcc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20241008T110000Z
+LOCATION:Paw.C sala A
+DTSTART:20241008T093000Z
+SUMMARY:Zarządzanie operacyjne (ćwiczenia)
+UID:885ef127-da9a-4081-8ae8-d9d4c221346c@885e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Ewelina Jamróz
+DTEND:20250107T101500Z
+LOCATION:Paw.F 104
+DTSTART:20250107T084500Z
+SUMMARY:Techniki pakowania (wykład)
+UID:f019e1d4-d7f5-4fe0-862f-e9ba8fcd0992@f019.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Jabłoński
+DTEND:20241121T083000Z
+LOCATION:Paw.F 104
+DTSTART:20241121T070000Z
+SUMMARY:Zarządzanie produkcją i usługami (wykład)
+UID:ca314d2f-8532-45f2-9904-d18d9a94bb14@ca31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241023T180000Z
+LOCATION:Paw.F 715
+DTSTART:20241023T163000Z
+SUMMARY:Zarządzanie jakością i bezpieczeństwem II (wykład)
+UID:c33eaf95-b261-4b9b-8644-07c9dba7d547@c33e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20241014T151500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241014T130000Z
+SUMMARY:Procesy w przetwórstwie żywności pochodzenia zwierzęcego (wykład)
+UID:702a41a0-ddcc-46a1-baf3-9a41dfefdb64@702a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20241202T171500Z
+LOCATION:Paw.C sala C
+DTSTART:20241202T163000Z
+SUMMARY:Zastosow.chromatografii gazowej i olfaktometrii w bad. jakości produkt (wykład do wyboru)
+UID:421dc67f-1b46-43d2-ae64-04042aea8f84@421d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241211T120000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241211T103000Z
+SUMMARY:Techniki pakowania (laboratorium)
+UID:3dc3847a-b16d-46cf-bf63-1f1144ba8b61@3dc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Ewelina Jamróz
+DTEND:20250114T101500Z
+LOCATION:Paw.F 104
+DTSTART:20250114T084500Z
+SUMMARY:Techniki pakowania (wykład)
+UID:ec2a6ef4-cfb1-45ee-8c4a-7a39f9b3c0d1@ec2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20250113T161500Z
+LOCATION:Paw.S sala 7
+DTSTART:20250113T140000Z
+SUMMARY:Procesy w przetwórstwie żywności pochodzenia zwierzęcego (wykład)
+UID:59f5db01-bf2e-4fc8-89ec-614e27db504d@59f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20250120T130000Z
+LOCATION:Paw.C sala C
+DTSTART:20250120T121500Z
+SUMMARY:Zarządzanie gospodarką odpadami (wykład)
+UID:e7068b82-ca64-43a4-a10a-239b26e10a6e@e706.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20241216T104500Z
+LOCATION:Sienk. 5 pr. spoż. 3
+DTSTART:20241216T074500Z
+SUMMARY:Procesy w przetwórstwie żywności pochodzenia zwierzęcego (laboratorium)
+UID:e4b6c88e-c7c8-4d51-9056-c6e7128b6fbc@e4b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Ewelina Jamróz
+DTEND:20241022T091500Z
+LOCATION:Paw.F 104
+DTSTART:20241022T074500Z
+SUMMARY:Techniki pakowania (wykład)
+UID:2a708bb7-43e4-42c7-82cc-5b0db580bb79@2a70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241021T124500Z
+LOCATION:Paw.C sala C
+DTSTART:20241021T111500Z
+SUMMARY:Zarządzanie gospodarką odpadami (wykład)
+UID:2515a0aa-6004-44b8-9e56-23f2e25f8180@2515.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20241014T170000Z
+LOCATION:Paw.C sala C
+DTSTART:20241014T153000Z
+SUMMARY:Zastosow.chromatografii gazowej i olfaktometrii w bad. jakości produkt (wykład do wyboru)
+UID:ae2c0921-8c87-42d3-8e6d-2ee9c9857ed9@ae2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241016T161500Z
+LOCATION:Paw.F 715
+DTSTART:20241016T144500Z
+SUMMARY:Zarządzanie jakością i bezpieczeństwem II (wykład)
+UID:ef66f874-38d1-4a27-bcd0-196cfc9986e2@ef66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20241104T180000Z
+LOCATION:Paw.C sala C
+DTSTART:20241104T163000Z
+SUMMARY:Zastosow.chromatografii gazowej i olfaktometrii w bad. jakości produkt (wykład do wyboru)
+UID:93424fdc-6027-4208-b5e1-24469907df72@9342.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241122T083000Z
+LOCATION:Paw.F 111
+DTSTART:20241122T070000Z
+SUMMARY:Zarządzanie jakością i bezpieczeństwem II (ćwiczenia)
+UID:b051d6bc-2ed8-465f-a0d6-a0cb934a4862@b051.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20241028T161500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241028T140000Z
+SUMMARY:Procesy w przetwórstwie żywności pochodzenia zwierzęcego (wykład)
+UID:b6a5ffcb-33b0-43b7-9605-65533f7b688d@b6a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20241021T094500Z
+LOCATION:Sienk. 5 pr. spoż. 3
+DTSTART:20241021T064500Z
+SUMMARY:Procesy w przetwórstwie żywności pochodzenia zwierzęcego (laboratorium)
+UID:f056b840-8dd6-4c2e-a844-926321d5c0d7@f056.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20241022T110000Z
+LOCATION:Paw.C sala A
+DTSTART:20241022T093000Z
+SUMMARY:Zarządzanie operacyjne (ćwiczenia)
+UID:f31eeb0d-8660-493e-81b5-f165f3be242a@f31e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Ewelina Jamróz
+DTEND:20241210T101500Z
+LOCATION:Paw.F 104
+DTSTART:20241210T084500Z
+SUMMARY:Techniki pakowania (wykład)
+UID:3f5e3e6f-cef8-47a3-9402-d0754742d5a9@3f5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241206T174500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241206T144500Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:101931a2-74bd-43d5-bcf4-097f57901ec9@1019.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241025T073000Z
+LOCATION:Paw.F 111
+DTSTART:20241025T060000Z
+SUMMARY:Zarządzanie jakością i bezpieczeństwem II (ćwiczenia)
+UID:78285a3e-ec75-4e8d-ae5a-d833596183af@7828.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241009T110000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241009T093000Z
+SUMMARY:Techniki pakowania (laboratorium)
+UID:739ba040-2758-421e-b03d-637551131a2f@739b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20241217T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20241217T103000Z
+SUMMARY:Zarządzanie operacyjne (ćwiczenia)
+UID:5aff66db-2ed1-4f32-9680-86676e59684c@5aff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241204T120000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241204T103000Z
+SUMMARY:Techniki pakowania (laboratorium)
+UID:6215bb85-5884-42ec-8404-3f834eaca9c4@6215.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20241007T170000Z
+LOCATION:Paw.C sala C
+DTSTART:20241007T153000Z
+SUMMARY:Zastosow.chromatografii gazowej i olfaktometrii w bad. jakości produkt (wykład do wyboru)
+UID:8f1a3285-94c5-4487-a9be-46fb2e489471@8f1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20241105T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20241105T103000Z
+SUMMARY:Zarządzanie operacyjne (ćwiczenia)
+UID:64e018c6-700b-4286-aa23-1f949fecc359@64e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20241021T151500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241021T130000Z
+SUMMARY:Procesy w przetwórstwie żywności pochodzenia zwierzęcego (wykład)
+UID:9e49812a-9444-4fcf-8e61-464ceaf168d7@9e49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Jabłoński
+DTEND:20250116T083000Z
+LOCATION:Paw.F 104
+DTSTART:20250116T070000Z
+SUMMARY:Zarządzanie produkcją i usługami (wykład)
+UID:e9e494e1-713f-45fa-bc35-006c2df3f95f@e9e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Ewelina Jamróz
+DTEND:20241119T101500Z
+LOCATION:Paw.F 104
+DTSTART:20241119T084500Z
+SUMMARY:Techniki pakowania (wykład)
+UID:43b5e880-5979-4add-a987-104fb2545d09@43b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:e4f1f1c4-5562-4386-b385-48faedca005b@e4f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20250123T144500Z
+LOCATION:Paw.C sala E
+DTSTART:20250123T140000Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:0c70c570-38a0-47a7-bd89-8e3a1ffb2346@0c70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Ewelina Jamróz
+DTEND:20241008T091500Z
+LOCATION:Paw.F 104
+DTSTART:20241008T074500Z
+SUMMARY:Techniki pakowania (wykład)
+UID:c223d462-f8a6-4103-8f97-2b91d71839ba@c223.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Ewelina Jamróz
+DTEND:20241001T091500Z
+LOCATION:Paw.F 104
+DTSTART:20241001T074500Z
+SUMMARY:Techniki pakowania (wykład)
+UID:45dce2d0-a388-46ea-98dd-97766acbb9a3@45dc.org
+END:VEVENT
+END:VCALENDAR

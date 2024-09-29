@@ -1,0 +1,388 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241116T114500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241116T093000Z
+SUMMARY:Systemy edukacji w wybranych krajach świata (konwersatorium do wyboru)
+UID:78b39b03-4126-4b04-b8a1-eec06feb61dd@78b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241130T151500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241130T121500Z
+SUMMARY:Polityka zagraniczna (ćwiczenia)
+UID:34b10012-6a99-4def-9082-84452394a119@34b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Kaczorowski
+DTEND:20241013T160000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241013T134500Z
+SUMMARY:Komunikacja międzykulturowa (ćwiczenia)
+UID:7bca1fb2-5bac-4782-ad44-794c1286c9f6@7bca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241115T170000Z
+LOCATION:link do zajęć
+DTSTART:20241115T144500Z
+SUMMARY:Polityka zagraniczna (wykład)
+UID:d9f8eb90-e469-4a01-9244-94d1c1093bfa@d9f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241208T151500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241208T121500Z
+SUMMARY:Systemy edukacji w wybranych krajach świata (konwersatorium do wyboru)
+UID:071d983b-432f-4015-9385-d5577fae3f0a@071d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Kaczorowski
+DTEND:20241115T194500Z
+LOCATION:link do zajęć
+DTSTART:20241115T173000Z
+SUMMARY:Komunikacja międzykulturowa (wykład)
+UID:64d3ef27-87fd-46c9-8f2b-14275e371e06@64d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241214T151500Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241214T121500Z
+SUMMARY:Polityka zagraniczna (ćwiczenia)
+UID:ff854bca-3548-4b1e-9237-77c308f9c1d1@ff85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20241124T151500Z
+LOCATION:Paw.B 251
+DTSTART:20241124T121500Z
+SUMMARY:Współczesne systemy polityczne (ćwiczenia)
+UID:d9092f9e-2888-4650-9828-c09fa1c7b3e9@d909.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kędzierski
+DTEND:20241117T170000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241117T144500Z
+SUMMARY:Wprowadzenie do polityki publicznej (konwersatorium)
+UID:c227adae-6745-4ead-a939-439686b53994@c227.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241116T143000Z
+LOCATION:Bud.gł. 3
+DTSTART:20241116T121500Z
+SUMMARY:Wstęp do badań społecznych (ćwiczenia)
+UID:f30c9744-2de4-48c9-8144-981cfd0c683b@f30c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241206T184500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241206T154500Z
+SUMMARY:Wstęp do badań społecznych (ćwiczenia)
+UID:0d12f966-fe46-457f-b62e-c0d167e1c3f0@0d12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kędzierski
+DTEND:20250111T180000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20250111T154500Z
+SUMMARY:Wprowadzenie do polityki publicznej (konwersatorium)
+UID:f9841423-97b8-4676-a1e0-06678038ae74@f984.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241026T100000Z
+LOCATION:link do zajęć
+DTSTART:20241026T074500Z
+SUMMARY:Współczesne systemy polityczne (wykład)
+UID:6505dc9b-18af-4e5f-8dc8-ab0c10adbcf5@6505.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20250125T180000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20250125T154500Z
+SUMMARY:Zielona Gospodarka i Zrównoważony Rozwój (konwersatorium do wyboru)
+UID:79054e64-4704-4caf-ad2d-13b4ded4ae57@7905.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241222T091500Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241222T070000Z
+SUMMARY:Polityka zagraniczna (ćwiczenia)
+UID:95edfa1d-b09f-4d42-8ffb-b1ec3b999d2f@95ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kędzierski
+DTEND:20241123T114500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241123T084500Z
+SUMMARY:Wprowadzenie do polityki publicznej (konwersatorium)
+UID:42066f12-de04-4a13-9e68-d1183cce9aec@4206.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Kaczorowski
+DTEND:20241123T180000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241123T154500Z
+SUMMARY:Komunikacja międzykulturowa (ćwiczenia)
+UID:78b3eba9-26d6-4e56-b1a2-4c76f3b19923@78b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20241201T151500Z
+LOCATION:Paw.B 251
+DTSTART:20241201T121500Z
+SUMMARY:Współczesne systemy polityczne (ćwiczenia)
+UID:108e7b44-2cd8-47a8-8b6d-594a32d26cd9@108e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20241207T114500Z
+LOCATION:Bud.gł. 6
+DTSTART:20241207T084500Z
+SUMMARY:Światowe kultury biznesu (konwersatorium do wyboru)
+UID:e08ec200-8ad4-42eb-ba3e-dd34eebe54e7@e08e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20241215T151500Z
+LOCATION:Paw.B 351
+DTSTART:20241215T121500Z
+SUMMARY:Współczesne systemy polityczne (ćwiczenia)
+UID:809739ab-d07d-4c14-a197-d23affd4630f@8097.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20250125T151500Z
+LOCATION:Bud.gł. 3
+DTSTART:20250125T130000Z
+SUMMARY:Wstęp do badań społecznych (ćwiczenia)
+UID:4616628a-c28a-45a2-be17-d9533999358c@4616.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20250110T184500Z
+LOCATION:Bud.gł. 3
+DTSTART:20250110T154500Z
+SUMMARY:Wstęp do badań społecznych (ćwiczenia)
+UID:9eed9b81-06c2-493c-a9af-9e715d074cc1@9eed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241012T100000Z
+LOCATION:link do zajęć
+DTSTART:20241012T074500Z
+SUMMARY:Współczesne systemy polityczne (wykład)
+UID:583f6624-bd68-4504-8a7d-b22a49601e17@583f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kędzierski
+DTEND:20241130T114500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241130T084500Z
+SUMMARY:Wprowadzenie do polityki publicznej (konwersatorium)
+UID:ff785284-a445-4deb-8881-243501ce4c86@ff78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Kaczorowski
+DTEND:20241011T184500Z
+LOCATION:link do zajęć
+DTSTART:20241011T163000Z
+SUMMARY:Komunikacja międzykulturowa (wykład)
+UID:10e7d7da-30db-4cda-b4cc-a27d58328c1b@10e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241122T181500Z
+LOCATION:link do zajęć
+DTSTART:20241122T173000Z
+SUMMARY:Polityka zagraniczna (wykład)
+UID:4429ebbc-6124-4427-a211-8f5d3fb9b0fb@4429.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20250126T091500Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20250126T070000Z
+SUMMARY:Światowe kultury biznesu (konwersatorium do wyboru)
+UID:31f0abc8-64e6-48c3-b3c2-1cc5cd09e10a@31f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20241221T114500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241221T084500Z
+SUMMARY:Światowe kultury biznesu (konwersatorium do wyboru)
+UID:dcdc11d5-cb4f-4b31-8cf8-5e7572ea56e9@dcdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20241207T151500Z
+LOCATION:Bud.gł. 4
+DTSTART:20241207T121500Z
+SUMMARY:Zielona Gospodarka i Zrównoważony Rozwój (konwersatorium do wyboru)
+UID:bda0e3fd-cd78-4958-9182-d9daca6d286b@bda0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241123T151500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241123T121500Z
+SUMMARY:Polityka zagraniczna (ćwiczenia)
+UID:0e8fca42-9d17-4799-863f-8d773debcdb8@0e8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20241221T151500Z
+LOCATION:Bud.gł. 4
+DTSTART:20241221T121500Z
+SUMMARY:Zielona Gospodarka i Zrównoważony Rozwój (konwersatorium do wyboru)
+UID:12833a91-0ebd-47f0-ae75-624d0030e0b8@1283.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20241116T170000Z
+LOCATION:Bud.gł. 4
+DTSTART:20241116T144500Z
+SUMMARY:Zielona Gospodarka i Zrównoważony Rozwój (konwersatorium do wyboru)
+UID:7265d90e-3d3b-403f-a546-79b5e4f6611a@7265.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241222T151500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241222T121500Z
+SUMMARY:Systemy edukacji w wybranych krajach świata (konwersatorium do wyboru)
+UID:56d602f3-c5ed-404d-9b45-31a8fbce713f@56d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20250112T180000Z
+LOCATION:Paw.B 351
+DTSTART:20250112T154500Z
+SUMMARY:Współczesne systemy polityczne (ćwiczenia)
+UID:76417eb6-fd63-4c83-9867-1e5b553fc319@7641.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241122T170000Z
+LOCATION:link do zajęć
+DTSTART:20241122T144500Z
+SUMMARY:Współczesne systemy polityczne (wykład)
+UID:c261ad80-8023-438e-8b53-382551369c48@c261.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Kaczorowski
+DTEND:20241025T184500Z
+LOCATION:link do zajęć
+DTSTART:20241025T163000Z
+SUMMARY:Komunikacja międzykulturowa (wykład)
+UID:3fe3c34b-66f9-45f9-b5e8-be87da35ae9d@3fe3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241025T161500Z
+LOCATION:link do zajęć
+DTSTART:20241025T144500Z
+SUMMARY:Polityka zagraniczna (wykład)
+UID:63459ac9-9721-4c74-9fb8-694e2553880a@6345.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241026T123000Z
+LOCATION:link do zajęć
+DTSTART:20241026T101500Z
+SUMMARY:Polityka zagraniczna (wykład)
+UID:7496e640-d58e-4fa3-89d2-51c5884b645f@7496.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20250112T151500Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20250112T121500Z
+SUMMARY:Światowe kultury biznesu (konwersatorium do wyboru)
+UID:55727b70-53f4-4aba-a4f6-709b27200940@5572.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kędzierski
+DTEND:20241214T114500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241214T084500Z
+SUMMARY:Wprowadzenie do polityki publicznej (konwersatorium)
+UID:f67c6bd5-b642-465f-92f0-18f2f680bce4@f67c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20250111T151500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20250111T121500Z
+SUMMARY:Zielona Gospodarka i Zrównoważony Rozwój (konwersatorium do wyboru)
+UID:b13db978-ef28-43b3-bdd0-71ab3e7936d2@b13d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20241013T133000Z
+LOCATION:Paw.B 251
+DTSTART:20241013T111500Z
+SUMMARY:Współczesne systemy polityczne (ćwiczenia)
+UID:6608b7d1-20cb-4b94-8fcb-f7a89f41c462@6608.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241220T184500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241220T154500Z
+SUMMARY:Wstęp do badań społecznych (ćwiczenia)
+UID:de61f9af-ccb3-490d-8779-e103fd730253@de61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20250126T143000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20250126T121500Z
+SUMMARY:Polityka zagraniczna (ćwiczenia)
+UID:4cfa6144-b28f-4c5b-a7de-93d00c146858@4cfa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20250111T114500Z
+LOCATION:Bud.gł. 3
+DTSTART:20250111T084500Z
+SUMMARY:Systemy edukacji w wybranych krajach świata (konwersatorium do wyboru)
+UID:ed98b4c5-300c-4e9d-a61a-021cae8892ce@ed98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Kaczorowski
+DTEND:20241027T143000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241027T121500Z
+SUMMARY:Komunikacja międzykulturowa (ćwiczenia)
+UID:35e74470-12fc-4ab9-9768-70000f6f45ab@35e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20250125T124500Z
+LOCATION:Bud.gł. 3
+DTSTART:20250125T103000Z
+SUMMARY:Systemy edukacji w wybranych krajach świata (konwersatorium do wyboru)
+UID:0943aba1-3b72-4a6f-a769-61c58d265a4c@0943.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20241117T143000Z
+LOCATION:Bud.gł. 6
+DTSTART:20241117T121500Z
+SUMMARY:Światowe kultury biznesu (konwersatorium do wyboru)
+UID:bad8bdac-3c69-4470-b09e-f471fbc99ace@bad8.org
+END:VEVENT
+END:VCALENDAR

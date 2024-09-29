@@ -1,0 +1,1834 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20250113T120000Z
+LOCATION:Paw.U sala O
+DTSTART:20250113T103000Z
+SUMMARY:Zielona Gospodarka i Zrównoważony Rozwój (konwersatorium do wyboru)
+UID:6682afd2-d6b8-43c2-9f54-de0b93123852@6682.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241009T110000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241009T093000Z
+SUMMARY:Wstęp do badań społecznych (ćwiczenia)
+UID:8fea012a-971f-493b-bf25-f9d42a594c2a@8fea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241021T124500Z
+LOCATION:Paw.C sala B
+DTSTART:20241021T111500Z
+SUMMARY:Polityka zagraniczna (wykład)
+UID:69502707-ad1a-44aa-b6bb-9aca0f20000e@6950.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dobrosława Wiktor-Mach
+DTEND:20241209T181500Z
+LOCATION:Paw.C sala B
+DTSTART:20241209T173000Z
+SUMMARY:Komunikacja międzykulturowa (wykład)
+UID:dfc5aa4c-f899-401a-82e9-5c571b29180d@dfc5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek  prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241204T153000Z
+LOCATION:Paw.F 106
+DTSTART:20241204T140000Z
+SUMMARY:Wykrywanie oszustw w przedsiębiorstwach międzynarodowych (konwersatorium do wyboru)
+UID:bc8cd08a-69ad-400e-a1ba-283c5353f18e@bc8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241105T153000Z
+LOCATION:Paw.G 11
+DTSTART:20241105T140000Z
+SUMMARY:Systemy edukacji w wybranych krajach świata (konwersatorium do wyboru)
+UID:0e0cf970-9e64-4391-a9b0-31c734314e83@0e0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20250123T153000Z
+LOCATION:Paw.G 11
+DTSTART:20250123T140000Z
+SUMMARY:Światowe kultury biznesu (konwersatorium do wyboru)
+UID:de9ecf90-d691-4bcd-9b8e-6eb07cee75f8@de9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241203T134500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20241203T121500Z
+SUMMARY:Polityka zagraniczna (ćwiczenia)
+UID:3bde1190-16a6-4fc5-8696-260f5cdd6fa4@3bde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20250122T120000Z
+LOCATION:Bud.gł. 2
+DTSTART:20250122T103000Z
+SUMMARY:Wstęp do badań społecznych (ćwiczenia)
+UID:dd3b2202-4782-44d5-be6d-d305be9b2254@dd3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20250113T130000Z
+LOCATION:Paw.C sala B
+DTSTART:20250113T121500Z
+SUMMARY:Polityka zagraniczna (wykład)
+UID:32f97b15-ea8d-46d5-af7c-f7b842615933@32f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Sanetra-Szeliga
+DTEND:20241114T134500Z
+LOCATION:Paw.U sala O
+DTSTART:20241114T121500Z
+SUMMARY:Historia społeczno-gospodarcza świata (konwersatorium do wyboru)
+UID:9cf33f5a-7d98-4940-8edd-17b512c95b8d@9cf3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241112T153000Z
+LOCATION:Paw.F CJ 210
+DTSTART:20241112T140000Z
+SUMMARY:Systemy edukacji w wybranych krajach świata (konwersatorium do wyboru)
+UID:707e7b3e-0db9-4d2d-a9d4-5e7f7d0bff4b@707e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20241107T153000Z
+LOCATION:Paw.G 11
+DTSTART:20241107T140000Z
+SUMMARY:Światowe kultury biznesu (konwersatorium do wyboru)
+UID:e766e60b-088e-4f35-9e16-157d01d3d72e@e766.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kłosowicz-Toborek
+DTEND:20241128T120000Z
+LOCATION:Paw.F 106
+DTSTART:20241128T103000Z
+SUMMARY:Współczesne modele kapitalizmu (konwersatorium do wyboru)
+UID:e74c68d0-c887-415e-9663-f224cd87fc76@e74c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20241021T110000Z
+LOCATION:Paw.U sala O
+DTSTART:20241021T093000Z
+SUMMARY:Zielona Gospodarka i Zrównoważony Rozwój (konwersatorium do wyboru)
+UID:1e0b93f0-392e-4c06-8cb1-ce25155394a4@1e0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kłosowicz-Toborek
+DTEND:20241017T110000Z
+LOCATION:Paw.F 106
+DTSTART:20241017T093000Z
+SUMMARY:Współczesne modele kapitalizmu (konwersatorium do wyboru)
+UID:ac29f421-de27-43b3-904c-f9630705957f@ac29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20241113T171500Z
+LOCATION:Paw.G 11
+DTSTART:20241113T154500Z
+SUMMARY:Współczesne systemy polityczne (ćwiczenia)
+UID:87fec6f4-8f90-493d-bfce-05ca12337312@87fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241120T120000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241120T103000Z
+SUMMARY:Wstęp do badań społecznych (ćwiczenia)
+UID:f9fa9957-2fff-4b00-bb78-8961a123dcb4@f9fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Sanetra-Szeliga
+DTEND:20250120T153000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20250120T140000Z
+SUMMARY:Historia społeczno-gospodarcza świata (konwersatorium do wyboru)
+UID:867875d5-57f4-42f0-8b15-f98a4b491311@8678.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241112T134500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20241112T121500Z
+SUMMARY:Polityka zagraniczna (ćwiczenia)
+UID:5c8a87da-3a0b-4cad-bcb4-32095084bfe0@5c8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kłosowicz-Toborek
+DTEND:20250123T120000Z
+LOCATION:Paw.F 106
+DTSTART:20250123T103000Z
+SUMMARY:Współczesne modele kapitalizmu (konwersatorium do wyboru)
+UID:e9f07a94-a33d-49be-90a0-c8a1f84e9cf7@e9f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dobrosława Wiktor-Mach
+DTEND:20241021T143000Z
+LOCATION:Paw.C sala B
+DTSTART:20241021T130000Z
+SUMMARY:Komunikacja międzykulturowa (wykład)
+UID:d8d1428e-3afb-4260-9b31-9205ac1ab2d0@d8d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20241213T134500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241213T121500Z
+SUMMARY:�ródła cywilizacji śródziemnomorskiej (konwersatorium do wyboru)
+UID:619a8ecb-ebbc-48f7-afc2-1b5e280c78dc@619a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20241118T120000Z
+LOCATION:Paw.U sala O
+DTSTART:20241118T103000Z
+SUMMARY:Zielona Gospodarka i Zrównoważony Rozwój (konwersatorium do wyboru)
+UID:93b90755-ef02-480c-b562-f9616eaa89e6@93b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241029T153000Z
+LOCATION:Paw.F CJ 210
+DTSTART:20241029T140000Z
+SUMMARY:Systemy edukacji w wybranych krajach świata (konwersatorium do wyboru)
+UID:74f1e6a5-3a1c-4fa3-906c-06665856443d@74f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241203T153000Z
+LOCATION:Paw.G 11
+DTSTART:20241203T140000Z
+SUMMARY:Systemy edukacji w wybranych krajach świata (konwersatorium do wyboru)
+UID:276aa21a-bb23-442a-93c1-73b5d93d6d6f@276a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dobrosława Wiktor-Mach
+DTEND:20241118T153000Z
+LOCATION:Paw.C sala B
+DTSTART:20241118T140000Z
+SUMMARY:Komunikacja międzykulturowa (wykład)
+UID:e889dfe2-1796-48a5-a4df-3128aa0a6c0b@e889.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20250117T134500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20250117T121500Z
+SUMMARY:�ródła cywilizacji śródziemnomorskiej (konwersatorium do wyboru)
+UID:4c94114a-bc56-484d-8f02-60cc31a0f680@4c94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dobrosława Wiktor-Mach
+DTEND:20250110T120000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20250110T103000Z
+SUMMARY:Komunikacja międzykulturowa (ćwiczenia)
+UID:40e948cd-7d6b-48e8-9211-504dd82deb13@40e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241112T083000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241112T070000Z
+SUMMARY:Współczesne systemy polityczne (wykład)
+UID:efcfbf04-995f-4827-a26c-cde58efe55f8@efcf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241126T153000Z
+LOCATION:Paw.F CJ 210
+DTSTART:20241126T140000Z
+SUMMARY:Systemy edukacji w wybranych krajach świata (konwersatorium do wyboru)
+UID:db568869-2272-4557-a007-8f517d9bc5ef@db56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Kaczorowski
+DTEND:20250108T190000Z
+LOCATION:Paw.G  7
+DTSTART:20250108T173000Z
+SUMMARY:Socjologia procesów globalnych (konwersatorium do wyboru)
+UID:e7a6c6dc-64d6-449f-b770-297b93df81b0@e7a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241022T124500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20241022T111500Z
+SUMMARY:Polityka zagraniczna (ćwiczenia)
+UID:76fc6d71-ad08-480c-be59-b10782568e63@76fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek  prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241106T153000Z
+LOCATION:Paw.F 106
+DTSTART:20241106T140000Z
+SUMMARY:Wykrywanie oszustw w przedsiębiorstwach międzynarodowych (konwersatorium do wyboru)
+UID:68d18b59-9fa4-498a-bbfd-3eed3a439d4a@68d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Sanetra-Szeliga
+DTEND:20241121T134500Z
+LOCATION:Paw.U sala O
+DTSTART:20241121T121500Z
+SUMMARY:Historia społeczno-gospodarcza świata (konwersatorium do wyboru)
+UID:1ff371bf-f234-4a42-b6b0-d7dc0e31e665@1ff3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Kaczorowski
+DTEND:20241023T180000Z
+LOCATION:Paw.G  7
+DTSTART:20241023T163000Z
+SUMMARY:Socjologia procesów globalnych (konwersatorium do wyboru)
+UID:6a55654f-7659-40a4-8a59-e0a7259111be@6a55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20241128T153000Z
+LOCATION:Paw.G 11
+DTSTART:20241128T140000Z
+SUMMARY:Światowe kultury biznesu (konwersatorium do wyboru)
+UID:9d1d5bda-a7a2-42a5-9106-5da48d92be27@9d1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20250121T153000Z
+LOCATION:Paw.F CJ 210
+DTSTART:20250121T140000Z
+SUMMARY:Systemy edukacji w wybranych krajach świata (konwersatorium do wyboru)
+UID:fd7a20ff-6cd0-4b82-9cb4-3dedbf53767b@fd7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241118T134500Z
+LOCATION:Paw.C sala B
+DTSTART:20241118T121500Z
+SUMMARY:Polityka zagraniczna (wykład)
+UID:edcdc4c3-9b0d-4364-8888-de142caf4844@edcd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Sanetra-Szeliga
+DTEND:20241219T083000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241219T070000Z
+SUMMARY:Historia społeczno-gospodarcza świata (konwersatorium do wyboru)
+UID:ee9a018d-2a56-4564-bf2d-88d7d466500a@ee9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20250120T120000Z
+LOCATION:Paw.U sala O
+DTSTART:20250120T103000Z
+SUMMARY:Zielona Gospodarka i Zrównoważony Rozwój (konwersatorium do wyboru)
+UID:f4a12ce8-33f0-483d-9b14-6b854240cd47@f4a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241008T143000Z
+LOCATION:Paw.G 11
+DTSTART:20241008T130000Z
+SUMMARY:Systemy edukacji w wybranych krajach świata (konwersatorium do wyboru)
+UID:6c9497fb-9081-4c46-8d91-d9f5277bedb1@6c94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20241108T134500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241108T121500Z
+SUMMARY:�ródła cywilizacji śródziemnomorskiej (konwersatorium do wyboru)
+UID:f9b2c1d6-79e3-47e4-8580-26ddc7a2c145@f9b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241001T073000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241001T060000Z
+SUMMARY:Współczesne systemy polityczne (wykład)
+UID:b10ab8ff-98d3-47f0-8751-4a098b4269a5@b10a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Kaczorowski
+DTEND:20250122T190000Z
+LOCATION:Paw.G  7
+DTSTART:20250122T173000Z
+SUMMARY:Socjologia procesów globalnych (konwersatorium do wyboru)
+UID:8b5e8c64-b9f3-40e2-aebc-c61029e04013@8b5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241122T083000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241122T070000Z
+SUMMARY:Zaufanie w relacjach społecznych (konwersatorium do wyboru)
+UID:326b9479-d988-4d88-a1d5-30b07c2046ba@326b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20241205T153000Z
+LOCATION:Paw.G 11
+DTSTART:20241205T140000Z
+SUMMARY:Światowe kultury biznesu (konwersatorium do wyboru)
+UID:736ae978-8cbc-4011-8623-a28dbc619bbc@736a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20241017T143000Z
+LOCATION:Paw.G 11
+DTSTART:20241017T130000Z
+SUMMARY:Światowe kultury biznesu (konwersatorium do wyboru)
+UID:1c2c771d-8d04-4419-b3f0-e65bb609cc9c@1c2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20241211T171500Z
+LOCATION:Paw.G 11
+DTSTART:20241211T154500Z
+SUMMARY:Współczesne systemy polityczne (ćwiczenia)
+UID:aaa9f54b-dafe-43c3-ad32-1a28fb7ab6cb@aaa9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241007T161500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241007T144500Z
+SUMMARY:Zaufanie w relacjach społecznych (konwersatorium do wyboru)
+UID:b8c19811-988c-4cee-ad8d-60c20d977a2e@b8c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20241203T190000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241203T173000Z
+SUMMARY:�ródła cywilizacji śródziemnomorskiej (konwersatorium do wyboru)
+UID:de67d15e-2b8d-4e88-9db3-e808366490fa@de67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20241216T120000Z
+LOCATION:Paw.U sala O
+DTSTART:20241216T103000Z
+SUMMARY:Zielona Gospodarka i Zrównoważony Rozwój (konwersatorium do wyboru)
+UID:f0be35e3-8735-49f8-800d-6edbf72eedc7@f0be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dobrosława Wiktor-Mach
+DTEND:20241216T153000Z
+LOCATION:Paw.C sala B
+DTSTART:20241216T140000Z
+SUMMARY:Komunikacja międzykulturowa (wykład)
+UID:8a79a08e-cc68-4a0d-846c-ed706817aeb4@8a79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20250122T171500Z
+LOCATION:Paw.G 11
+DTSTART:20250122T154500Z
+SUMMARY:Współczesne systemy polityczne (ćwiczenia)
+UID:bfa23a60-eed8-4140-b554-d5f857b44468@bfa2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kędzierski
+DTEND:20241023T124500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241023T111500Z
+SUMMARY:Wprowadzenie do polityki publicznej (konwersatorium)
+UID:0ea5c5a3-17c8-4067-8b48-9a0523e3179c@0ea5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241008T124500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20241008T111500Z
+SUMMARY:Polityka zagraniczna (ćwiczenia)
+UID:b8999072-88c4-4935-9cef-a8ad5b857b6f@b899.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek  prof. UEK dr hab. Andrzej Zyguła
+DTEND:20250115T153000Z
+LOCATION:Paw.F 106
+DTSTART:20250115T140000Z
+SUMMARY:Wykrywanie oszustw w przedsiębiorstwach międzynarodowych (konwersatorium do wyboru)
+UID:8de39f81-01ea-47bf-b4f2-eb4b8df535c8@8de3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kędzierski
+DTEND:20241009T124500Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20241009T111500Z
+SUMMARY:Wprowadzenie do polityki publicznej (konwersatorium)
+UID:6a7c3337-bd32-46c6-a310-663703f06b3a@6a7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20241016T161500Z
+LOCATION:Paw.G 11
+DTSTART:20241016T144500Z
+SUMMARY:Współczesne systemy polityczne (ćwiczenia)
+UID:ad40f2b5-7dd4-4750-8d2b-526f8f1fc041@ad40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dobrosława Wiktor-Mach
+DTEND:20241129T120000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241129T103000Z
+SUMMARY:Komunikacja międzykulturowa (ćwiczenia)
+UID:4642aa75-2414-451c-b289-660afc47c694@4642.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20241011T124500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241011T111500Z
+SUMMARY:�ródła cywilizacji śródziemnomorskiej (konwersatorium do wyboru)
+UID:7238ba8b-65cc-424d-8509-7cf7e5b216c8@7238.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241104T171500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241104T154500Z
+SUMMARY:Zaufanie w relacjach społecznych (konwersatorium do wyboru)
+UID:7c87a2b4-9695-4660-b7f3-d0a68a09aa1c@7c87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20241129T134500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241129T121500Z
+SUMMARY:�ródła cywilizacji śródziemnomorskiej (konwersatorium do wyboru)
+UID:96cf1929-3886-4596-befc-ce9a9c3fb87c@96cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241202T171500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241202T154500Z
+SUMMARY:Zaufanie w relacjach społecznych (konwersatorium do wyboru)
+UID:19301b94-6cd7-411e-a23a-31adfaad9a1e@1930.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kłosowicz-Toborek
+DTEND:20250109T120000Z
+LOCATION:Paw.F 106
+DTSTART:20250109T103000Z
+SUMMARY:Współczesne modele kapitalizmu (konwersatorium do wyboru)
+UID:d8c0f053-103d-4d68-b716-b3a8d59a7794@d8c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20250107T134500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20250107T121500Z
+SUMMARY:Polityka zagraniczna (ćwiczenia)
+UID:3078fcc7-ad29-437d-857d-f27e56ccc709@3078.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20241209T134500Z
+LOCATION:Paw.G  8
+DTSTART:20241209T121500Z
+SUMMARY:Zielona Gospodarka i Zrównoważony Rozwój (konwersatorium do wyboru)
+UID:c3db3863-4ee9-4d44-ad60-679d034251b6@c3db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241202T134500Z
+LOCATION:Paw.C sala B
+DTSTART:20241202T121500Z
+SUMMARY:Polityka zagraniczna (wykład)
+UID:8688b5b3-3844-447a-9a80-4c171b82c763@8688.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241029T083000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241029T070000Z
+SUMMARY:Współczesne systemy polityczne (wykład)
+UID:93f7fa4b-52a4-4ce4-8941-3948704fc290@93f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20241018T124500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241018T111500Z
+SUMMARY:�ródła cywilizacji śródziemnomorskiej (konwersatorium do wyboru)
+UID:914fb56e-3ebd-4855-9f1e-e93cc18f411a@914f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20241120T171500Z
+LOCATION:Paw.G 11
+DTSTART:20241120T154500Z
+SUMMARY:Współczesne systemy polityczne (ćwiczenia)
+UID:a17d06b1-12ce-46d3-bd48-c7d0c0c31155@a17d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20250120T134500Z
+LOCATION:Paw.S sala 5
+DTSTART:20250120T121500Z
+SUMMARY:Zielona Gospodarka i Zrównoważony Rozwój (konwersatorium do wyboru)
+UID:6dc0afe5-4a4c-472a-a9eb-3059b7e6c581@6dc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241104T134500Z
+LOCATION:Paw.C sala B
+DTSTART:20241104T121500Z
+SUMMARY:Polityka zagraniczna (wykład)
+UID:3e90a8ab-d933-411d-9581-8cbbf7e09887@3e90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241210T153000Z
+LOCATION:Paw.F CJ 210
+DTSTART:20241210T140000Z
+SUMMARY:Systemy edukacji w wybranych krajach świata (konwersatorium do wyboru)
+UID:6ca3fce6-60fe-49ec-817f-81e694bd3ad4@6ca3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241204T120000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241204T103000Z
+SUMMARY:Wstęp do badań społecznych (ćwiczenia)
+UID:798c3da6-58ba-4423-8853-46374d93dd9a@798c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241015T143000Z
+LOCATION:Paw.F CJ 210
+DTSTART:20241015T130000Z
+SUMMARY:Systemy edukacji w wybranych krajach świata (konwersatorium do wyboru)
+UID:63f98743-a437-4bb2-9163-e10ac80e933d@63f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Kaczorowski
+DTEND:20241218T190000Z
+LOCATION:Paw.G  7
+DTSTART:20241218T173000Z
+SUMMARY:Socjologia procesów globalnych (konwersatorium do wyboru)
+UID:ac34aec2-6bf5-4db3-8cbb-aaaf2bc34653@ac34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241106T120000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241106T103000Z
+SUMMARY:Wstęp do badań społecznych (ćwiczenia)
+UID:4d2cd4f3-6c0c-47b2-a253-01e551e12ac8@4d2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241015T124500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20241015T111500Z
+SUMMARY:Polityka zagraniczna (ćwiczenia)
+UID:b5792b88-fc36-408f-8853-e43f4ab1200c@b579.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Sanetra-Szeliga
+DTEND:20241128T134500Z
+LOCATION:Paw.U sala O
+DTSTART:20241128T121500Z
+SUMMARY:Historia społeczno-gospodarcza świata (konwersatorium do wyboru)
+UID:9e849d5a-5605-4e85-8741-bde2ec01b0ce@9e84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Kaczorowski
+DTEND:20241030T190000Z
+LOCATION:Paw.G  7
+DTSTART:20241030T173000Z
+SUMMARY:Socjologia procesów globalnych (konwersatorium do wyboru)
+UID:0c3ecabe-0c4d-4ac9-92d5-772fe25f7cfa@0c3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241014T161500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241014T144500Z
+SUMMARY:Zaufanie w relacjach społecznych (konwersatorium do wyboru)
+UID:c3189954-f1df-46a4-9ac4-3b3725069a3d@c318.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek  prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241127T153000Z
+LOCATION:Paw.F 106
+DTSTART:20241127T140000Z
+SUMMARY:Wykrywanie oszustw w przedsiębiorstwach międzynarodowych (konwersatorium do wyboru)
+UID:ccd55cd0-33e7-497a-a03e-66a4fa6928c4@ccd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kędzierski
+DTEND:20241211T134500Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241211T121500Z
+SUMMARY:Wprowadzenie do polityki publicznej (konwersatorium)
+UID:096c99a9-7d68-4193-ab93-216c8235b748@096c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241129T083000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241129T070000Z
+SUMMARY:Zaufanie w relacjach społecznych (konwersatorium do wyboru)
+UID:0c4d62a3-2751-4212-b8e2-68f6d245f8da@0c4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241001T161500Z
+LOCATION:Paw.F 717
+DTSTART:20241001T144500Z
+SUMMARY:Wstęp do badań społecznych (ćwiczenia)
+UID:defa2af8-9187-4bb7-b99b-1cb4860041d1@defa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241001T143000Z
+LOCATION:Paw.F CJ 210
+DTSTART:20241001T130000Z
+SUMMARY:Systemy edukacji w wybranych krajach świata (konwersatorium do wyboru)
+UID:dd361636-9b69-4d83-bb4f-23a525383f04@dd36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241030T120000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241030T103000Z
+SUMMARY:Wstęp do badań społecznych (ćwiczenia)
+UID:498d37f0-f668-4945-87f1-2bfeb1f64f89@498d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20241204T171500Z
+LOCATION:Paw.G 11
+DTSTART:20241204T154500Z
+SUMMARY:Współczesne systemy polityczne (ćwiczenia)
+UID:d10e5ee4-5fe2-410c-be72-b271125b5ed6@d10e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241210T083000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241210T070000Z
+SUMMARY:Współczesne systemy polityczne (wykład)
+UID:1f09249d-1e92-4aeb-a911-cbc6eb6bfbb6@1f09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Sanetra-Szeliga
+DTEND:20241024T124500Z
+LOCATION:Paw.U sala O
+DTSTART:20241024T111500Z
+SUMMARY:Historia społeczno-gospodarcza świata (konwersatorium do wyboru)
+UID:890ecb67-ef48-4a9b-8606-26b502005499@890e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek  prof. UEK dr hab. Andrzej Zyguła
+DTEND:20250122T153000Z
+LOCATION:Paw.F 106
+DTSTART:20250122T140000Z
+SUMMARY:Wykrywanie oszustw w przedsiębiorstwach międzynarodowych (konwersatorium do wyboru)
+UID:6e93e149-7eca-4492-bf9d-ba9990d94314@6e93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:fa0c2408-0c89-4e6e-850f-69ac09da29b7@fa0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20241010T143000Z
+LOCATION:Paw.G 11
+DTSTART:20241010T130000Z
+SUMMARY:Światowe kultury biznesu (konwersatorium do wyboru)
+UID:4b550cb0-e1f6-4de6-9d47-0c7971452a15@4b55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20250107T083000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20250107T070000Z
+SUMMARY:Współczesne systemy polityczne (wykład)
+UID:b4542c29-cb30-41d8-ac9d-8e96430e726e@b454.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241021T161500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241021T144500Z
+SUMMARY:Zaufanie w relacjach społecznych (konwersatorium do wyboru)
+UID:d1a31b3f-db90-4a40-93fd-7f05c6919df8@d1a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20241114T153000Z
+LOCATION:Paw.G 11
+DTSTART:20241114T140000Z
+SUMMARY:Światowe kultury biznesu (konwersatorium do wyboru)
+UID:55b808fc-e39b-46c1-99a2-d41095cfd8b2@55b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dobrosława Wiktor-Mach
+DTEND:20241213T120000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241213T103000Z
+SUMMARY:Komunikacja międzykulturowa (ćwiczenia)
+UID:6f970a71-3e43-40c5-9cfb-3f9f11179cdc@6f97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kędzierski
+DTEND:20250123T083000Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20250123T070000Z
+SUMMARY:Wprowadzenie do polityki publicznej (konwersatorium)
+UID:1c5902be-86a3-4f4e-ac34-9e3dd6256d12@1c59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kędzierski
+DTEND:20241030T134500Z
+LOCATION:Paw.F 415
+DTSTART:20241030T121500Z
+SUMMARY:Wprowadzenie do polityki publicznej (konwersatorium)
+UID:8ace4f02-ad04-40c6-b46b-afb6e3ce6426@8ace.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kłosowicz-Toborek
+DTEND:20241008T073000Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20241008T060000Z
+SUMMARY:Współczesne modele kapitalizmu (konwersatorium do wyboru)
+UID:5a4ab1b3-edfc-48ae-9433-3bc1e267d480@5a4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dobrosława Wiktor-Mach
+DTEND:20241202T153000Z
+LOCATION:Paw.C sala B
+DTSTART:20241202T140000Z
+SUMMARY:Komunikacja międzykulturowa (wykład)
+UID:4bea4d47-3b79-4e47-b372-c3bd9c0579a7@4bea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241218T120000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241218T103000Z
+SUMMARY:Wstęp do badań społecznych (ćwiczenia)
+UID:fead58da-5c2d-4033-9713-cf59c6641c55@fead.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dobrosława Wiktor-Mach
+DTEND:20241018T110000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241018T093000Z
+SUMMARY:Komunikacja międzykulturowa (ćwiczenia)
+UID:3a1fb9d5-0a6c-4b8e-ac53-6edf2c94cec4@3a1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Kaczorowski
+DTEND:20241128T190000Z
+LOCATION:Paw.G  8
+DTSTART:20241128T173000Z
+SUMMARY:Socjologia procesów globalnych (konwersatorium do wyboru)
+UID:9a6ba913-b167-4ede-99c5-d45cfa703218@9a6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20250121T134500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20250121T121500Z
+SUMMARY:Polityka zagraniczna (ćwiczenia)
+UID:7e61521c-eff0-4acf-8bbe-7cc117c693c2@7e61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20241213T153000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241213T140000Z
+SUMMARY:Współczesne systemy polityczne (ćwiczenia)
+UID:01374ba0-2164-4aa8-8e40-eef43d17402f@0137.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:bd6ce525-c54c-4869-acf2-38a0e73709e9@bd6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20241115T134500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241115T121500Z
+SUMMARY:�ródła cywilizacji śródziemnomorskiej (konwersatorium do wyboru)
+UID:bf41df3a-a2b0-42b8-99f8-71c1a925c005@bf41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek  prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241120T153000Z
+LOCATION:Paw.F 106
+DTSTART:20241120T140000Z
+SUMMARY:Wykrywanie oszustw w przedsiębiorstwach międzynarodowych (konwersatorium do wyboru)
+UID:ccffb1a0-51b7-409f-a9a0-e5d0c05f031a@ccff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Sanetra-Szeliga
+DTEND:20241212T134500Z
+LOCATION:Paw.U sala O
+DTSTART:20241212T121500Z
+SUMMARY:Historia społeczno-gospodarcza świata (konwersatorium do wyboru)
+UID:73c440f8-027d-4b01-b43e-301f60309f2b@73c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20241219T153000Z
+LOCATION:Paw.G 11
+DTSTART:20241219T140000Z
+SUMMARY:Światowe kultury biznesu (konwersatorium do wyboru)
+UID:36bd70b0-cd10-4c98-a2e0-2afe5d092b5a@36bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20241104T120000Z
+LOCATION:Paw.U sala O
+DTSTART:20241104T103000Z
+SUMMARY:Zielona Gospodarka i Zrównoważony Rozwój (konwersatorium do wyboru)
+UID:28fa63c9-f6e3-4b11-b723-2d1e0d76104e@28fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Kaczorowski
+DTEND:20241204T190000Z
+LOCATION:Paw.G  7
+DTSTART:20241204T173000Z
+SUMMARY:Socjologia procesów globalnych (konwersatorium do wyboru)
+UID:a1516ecc-f11a-4a1f-8caf-8a16d2f09e22@a151.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20250114T134500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20250114T121500Z
+SUMMARY:Polityka zagraniczna (ćwiczenia)
+UID:8ed645c2-abf0-4a28-a899-db30f847568b@8ed6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20250114T153000Z
+LOCATION:Paw.G 11
+DTSTART:20250114T140000Z
+SUMMARY:Systemy edukacji w wybranych krajach świata (konwersatorium do wyboru)
+UID:e238a4d2-908d-4a4b-94bf-c360ed855318@e238.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Kaczorowski
+DTEND:20250115T190000Z
+LOCATION:Paw.G  7
+DTSTART:20250115T173000Z
+SUMMARY:Socjologia procesów globalnych (konwersatorium do wyboru)
+UID:cceae04d-b782-4444-a4b0-8d1df0089f8b@ccea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Sanetra-Szeliga
+DTEND:20250123T134500Z
+LOCATION:Paw.U sala O
+DTSTART:20250123T121500Z
+SUMMARY:Historia społeczno-gospodarcza świata (konwersatorium do wyboru)
+UID:36dec2b2-18df-4517-8128-9f6eda0c4986@36de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241119T153000Z
+LOCATION:Paw.G 11
+DTSTART:20241119T140000Z
+SUMMARY:Systemy edukacji w wybranych krajach świata (konwersatorium do wyboru)
+UID:c92b24ed-cec0-4709-b09b-15a6deaec94b@c92b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20250109T153000Z
+LOCATION:Paw.G 11
+DTSTART:20250109T140000Z
+SUMMARY:Światowe kultury biznesu (konwersatorium do wyboru)
+UID:14d7d738-8ca2-46a1-949e-6c0e51ae7d0c@14d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek  prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241113T153000Z
+LOCATION:Paw.F 106
+DTSTART:20241113T140000Z
+SUMMARY:Wykrywanie oszustw w przedsiębiorstwach międzynarodowych (konwersatorium do wyboru)
+UID:c2adb9ae-d692-4d8c-bb1a-451e7729f28b@c2ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20241121T153000Z
+LOCATION:Paw.G 11
+DTSTART:20241121T140000Z
+SUMMARY:Światowe kultury biznesu (konwersatorium do wyboru)
+UID:3d0bf43d-c8f1-4ebb-9524-7c204a6ecaf9@3d0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20241127T171500Z
+LOCATION:Paw.G 11
+DTSTART:20241127T154500Z
+SUMMARY:Współczesne systemy polityczne (ćwiczenia)
+UID:dcc3373b-e95f-44b4-907d-090101b8f953@dcc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241125T171500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241125T154500Z
+SUMMARY:Zaufanie w relacjach społecznych (konwersatorium do wyboru)
+UID:8d3677a4-c2e9-49bb-a48d-273df64d7456@8d36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241028T171500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241028T154500Z
+SUMMARY:Zaufanie w relacjach społecznych (konwersatorium do wyboru)
+UID:f3c9c7b0-f8b0-4fb6-8583-963c02199cea@f3c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dobrosława Wiktor-Mach
+DTEND:20241115T120000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241115T103000Z
+SUMMARY:Komunikacja międzykulturowa (ćwiczenia)
+UID:faeb6f8b-db63-475b-ab41-d4274926e623@faeb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20241209T120000Z
+LOCATION:Paw.U sala O
+DTSTART:20241209T103000Z
+SUMMARY:Zielona Gospodarka i Zrównoważony Rozwój (konwersatorium do wyboru)
+UID:8a9f0b13-f83f-4e8c-b7d0-b5e90e5ea582@8a9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dobrosława Wiktor-Mach
+DTEND:20250113T153000Z
+LOCATION:Paw.C sala B
+DTSTART:20250113T140000Z
+SUMMARY:Komunikacja międzykulturowa (wykład)
+UID:a1a24c43-45ad-42d9-8d06-7c8046312521@a1a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20241202T120000Z
+LOCATION:Paw.U sala O
+DTSTART:20241202T103000Z
+SUMMARY:Zielona Gospodarka i Zrównoważony Rozwój (konwersatorium do wyboru)
+UID:269b3201-ef18-4238-96d0-3de89d1a4005@269b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241119T134500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20241119T121500Z
+SUMMARY:Polityka zagraniczna (ćwiczenia)
+UID:23d78e33-42ad-4a9d-a409-95db1b270efe@23d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241127T120000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241127T103000Z
+SUMMARY:Wstęp do badań społecznych (ćwiczenia)
+UID:14177f18-f366-4519-9ce6-5a9fc01bc5c0@1417.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241115T083000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241115T070000Z
+SUMMARY:Zaufanie w relacjach społecznych (konwersatorium do wyboru)
+UID:538ae483-e403-4a27-8896-1d68fce14e3d@538a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dobrosława Wiktor-Mach
+DTEND:20241004T110000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241004T093000Z
+SUMMARY:Komunikacja międzykulturowa (ćwiczenia)
+UID:c0a69fdd-2a54-456a-a2e2-1bc99c80457f@c0a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Sanetra-Szeliga
+DTEND:20241017T124500Z
+LOCATION:Paw.U sala O
+DTSTART:20241017T111500Z
+SUMMARY:Historia społeczno-gospodarcza świata (konwersatorium do wyboru)
+UID:6beead2b-b9c7-4dd9-969b-1a25f162ed23@6bee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20250110T134500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20250110T121500Z
+SUMMARY:�ródła cywilizacji śródziemnomorskiej (konwersatorium do wyboru)
+UID:0cadb25c-8e6d-44a2-b639-d2bb5ed48da7@0cad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dobrosława Wiktor-Mach
+DTEND:20241007T143000Z
+LOCATION:Paw.C sala B
+DTSTART:20241007T130000Z
+SUMMARY:Komunikacja międzykulturowa (wykład)
+UID:44cd4257-d53b-4c4a-866c-45df5a48c0d2@44cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241216T171500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241216T154500Z
+SUMMARY:Zaufanie w relacjach społecznych (konwersatorium do wyboru)
+UID:40264705-3c24-4ba4-838a-dcc102f6f139@4026.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20250120T171500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20250120T154500Z
+SUMMARY:Zaufanie w relacjach społecznych (konwersatorium do wyboru)
+UID:be303c8a-04e0-49a5-bc03-0283dcd1f851@be30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241217T153000Z
+LOCATION:Paw.G 11
+DTSTART:20241217T140000Z
+SUMMARY:Systemy edukacji w wybranych krajach świata (konwersatorium do wyboru)
+UID:aeb48821-44f0-4ac3-a7d7-d606aaea42fb@aeb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Sanetra-Szeliga
+DTEND:20241003T124500Z
+LOCATION:Paw.U sala O
+DTSTART:20241003T111500Z
+SUMMARY:Historia społeczno-gospodarcza świata (konwersatorium do wyboru)
+UID:8565cc4e-bc55-4297-bea6-9195a103b2d3@8565.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241015T073000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241015T060000Z
+SUMMARY:Współczesne systemy polityczne (wykład)
+UID:0bac70f1-96d0-4555-bbb7-8ee1af6f029f@0bac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kędzierski
+DTEND:20241016T124500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241016T111500Z
+SUMMARY:Wprowadzenie do polityki publicznej (konwersatorium)
+UID:e051456c-922d-4345-a6b2-169c8ad31e49@e051.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241126T134500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20241126T121500Z
+SUMMARY:Polityka zagraniczna (ćwiczenia)
+UID:b517e891-1bec-45f4-94de-d3aaccd5086c@b517.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek  prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241023T143000Z
+LOCATION:Paw.F 106
+DTSTART:20241023T130000Z
+SUMMARY:Wykrywanie oszustw w przedsiębiorstwach międzynarodowych (konwersatorium do wyboru)
+UID:e445a392-0272-4563-9b78-45b7d17dd8e2@e445.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20250110T153000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250110T140000Z
+SUMMARY:Współczesne systemy polityczne (ćwiczenia)
+UID:0c6b42b5-cf38-4614-ab91-dc626ab302b6@0c6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Sanetra-Szeliga
+DTEND:20241014T124500Z
+LOCATION:Paw.S sala 5
+DTSTART:20241014T111500Z
+SUMMARY:Historia społeczno-gospodarcza świata (konwersatorium do wyboru)
+UID:ffbd4d5e-f8e7-4f3e-9ca4-659993bd0257@ffbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241001T124500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20241001T111500Z
+SUMMARY:Polityka zagraniczna (ćwiczenia)
+UID:ae9370b2-71f3-4333-ab20-81c090f5c7df@ae93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Kaczorowski
+DTEND:20241211T190000Z
+LOCATION:Paw.G  7
+DTSTART:20241211T173000Z
+SUMMARY:Socjologia procesów globalnych (konwersatorium do wyboru)
+UID:1875e277-a1c4-483c-ac7d-03f99f6a02d2@1875.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241126T083000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241126T070000Z
+SUMMARY:Współczesne systemy polityczne (wykład)
+UID:7e3d6890-ef0f-4086-894b-334e82bb59d8@7e3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20250108T120000Z
+LOCATION:Bud.gł. 2
+DTSTART:20250108T103000Z
+SUMMARY:Wstęp do badań społecznych (ćwiczenia)
+UID:2b39b1f1-6203-49d3-ab12-c93b00951401@2b39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kłosowicz-Toborek
+DTEND:20241217T083000Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20241217T070000Z
+SUMMARY:Współczesne modele kapitalizmu (konwersatorium do wyboru)
+UID:b29d4422-29d6-453c-b368-6f591d61e31c@b29d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20241031T153000Z
+LOCATION:Paw.G 11
+DTSTART:20241031T140000Z
+SUMMARY:Światowe kultury biznesu (konwersatorium do wyboru)
+UID:8aa34343-cc10-4272-97af-eb8347205d57@8aa3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20241023T161500Z
+LOCATION:Paw.G 11
+DTSTART:20241023T144500Z
+SUMMARY:Współczesne systemy polityczne (ćwiczenia)
+UID:aaa7c394-add7-475c-930f-4d727c6c840f@aaa7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Kaczorowski
+DTEND:20241127T190000Z
+LOCATION:Paw.G  7
+DTSTART:20241127T173000Z
+SUMMARY:Socjologia procesów globalnych (konwersatorium do wyboru)
+UID:0d7628d5-b396-4640-974c-fa34b9f97e86@0d76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241209T171500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241209T154500Z
+SUMMARY:Zaufanie w relacjach społecznych (konwersatorium do wyboru)
+UID:578661c3-c925-49c5-af45-1f7dfcb4d0e1@5786.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20241024T143000Z
+LOCATION:Paw.G 11
+DTSTART:20241024T130000Z
+SUMMARY:Światowe kultury biznesu (konwersatorium do wyboru)
+UID:7505addd-ad2c-4599-ac70-03d3651d9728@7505.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20241206T134500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241206T121500Z
+SUMMARY:�ródła cywilizacji śródziemnomorskiej (konwersatorium do wyboru)
+UID:ef7fd0d8-c41f-48c9-8f2a-436b31bc5c75@ef7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek  prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241211T153000Z
+LOCATION:Paw.F 106
+DTSTART:20241211T140000Z
+SUMMARY:Wykrywanie oszustw w przedsiębiorstwach międzynarodowych (konwersatorium do wyboru)
+UID:d7d91488-a40d-48b5-9607-51616da2c9a9@d7d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Sanetra-Szeliga
+DTEND:20241031T134500Z
+LOCATION:Paw.U sala O
+DTSTART:20241031T121500Z
+SUMMARY:Historia społeczno-gospodarcza świata (konwersatorium do wyboru)
+UID:8371fdef-9bb6-4327-af0d-9ca9a7dd3a48@8371.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kłosowicz-Toborek
+DTEND:20241119T083000Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20241119T070000Z
+SUMMARY:Współczesne modele kapitalizmu (konwersatorium do wyboru)
+UID:52aecac3-997d-4fc4-b78f-a2efc04539a7@52ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Sanetra-Szeliga
+DTEND:20250116T134500Z
+LOCATION:Paw.U sala O
+DTSTART:20250116T121500Z
+SUMMARY:Historia społeczno-gospodarcza świata (konwersatorium do wyboru)
+UID:9f9d4337-c226-4f12-8981-0da4874cd398@9f9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20241028T120000Z
+LOCATION:Paw.U sala O
+DTSTART:20241028T103000Z
+SUMMARY:Zielona Gospodarka i Zrównoważony Rozwój (konwersatorium do wyboru)
+UID:b37fc725-7eba-4f02-996e-70ed2c75c2b1@b37f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20241030T171500Z
+LOCATION:Paw.G 11
+DTSTART:20241030T154500Z
+SUMMARY:Współczesne systemy polityczne (ćwiczenia)
+UID:da619bb7-f08a-49bf-8040-7fa22c56f670@da61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20241106T171500Z
+LOCATION:Paw.G 11
+DTSTART:20241106T154500Z
+SUMMARY:Współczesne systemy polityczne (ćwiczenia)
+UID:01a489de-11c9-46d9-a081-119f86794398@01a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kłosowicz-Toborek
+DTEND:20241212T120000Z
+LOCATION:Paw.F 106
+DTSTART:20241212T103000Z
+SUMMARY:Współczesne modele kapitalizmu (konwersatorium do wyboru)
+UID:a7606f3e-54e0-4578-8778-2cb17787fd6b@a760.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Kaczorowski
+DTEND:20241016T180000Z
+LOCATION:Paw.G  7
+DTSTART:20241016T163000Z
+SUMMARY:Socjologia procesów globalnych (konwersatorium do wyboru)
+UID:d7bac7e1-30f6-4527-a647-54e2f8650b96@d7ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kędzierski
+DTEND:20250107T171500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250107T154500Z
+SUMMARY:Wprowadzenie do polityki publicznej (konwersatorium)
+UID:ee5b7bcc-761f-4de2-82fe-2ce059feefad@ee5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20250124T134500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20250124T121500Z
+SUMMARY:�ródła cywilizacji śródziemnomorskiej (konwersatorium do wyboru)
+UID:d94787c1-4f64-4ddc-8826-d9732763e721@d947.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Sanetra-Szeliga
+DTEND:20250109T134500Z
+LOCATION:Paw.U sala O
+DTSTART:20250109T121500Z
+SUMMARY:Historia społeczno-gospodarcza świata (konwersatorium do wyboru)
+UID:b03d2249-4510-40e8-abd8-9b729f9c7696@b03d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20250115T171500Z
+LOCATION:Paw.G 11
+DTSTART:20250115T154500Z
+SUMMARY:Współczesne systemy polityczne (ćwiczenia)
+UID:044b2c85-a507-4ec0-8bcf-76236bec4bec@044b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20241004T124500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241004T111500Z
+SUMMARY:�ródła cywilizacji śródziemnomorskiej (konwersatorium do wyboru)
+UID:e787cfb5-48e0-445c-94c2-222f7e8999ba@e787.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20241014T110000Z
+LOCATION:Paw.U sala O
+DTSTART:20241014T093000Z
+SUMMARY:Zielona Gospodarka i Zrównoważony Rozwój (konwersatorium do wyboru)
+UID:612562e9-b1d0-498a-b8be-ffdd05e03864@6125.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241113T120000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241113T103000Z
+SUMMARY:Wstęp do badań społecznych (ćwiczenia)
+UID:4fb7fdb1-d4e9-4209-9b67-d1d98388dc18@4fb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dobrosława Wiktor-Mach
+DTEND:20250124T120000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20250124T103000Z
+SUMMARY:Komunikacja międzykulturowa (ćwiczenia)
+UID:d0b2ef69-6035-48e3-84d4-3ef12bf5b3e0@d0b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek  prof. UEK dr hab. Andrzej Zyguła
+DTEND:20250124T153000Z
+LOCATION:Paw.C sala B
+DTSTART:20250124T140000Z
+SUMMARY:Wykrywanie oszustw w przedsiębiorstwach międzynarodowych (konwersatorium do wyboru)
+UID:4aeabdea-5d5a-423f-8f09-2dc6cc74af0d@4aea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dobrosława Wiktor-Mach
+DTEND:20250116T190000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250116T181500Z
+SUMMARY:Komunikacja międzykulturowa (ćwiczenia)
+UID:ef163f05-3890-4e85-80cc-a16b7fb1e764@ef16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241016T110000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241016T093000Z
+SUMMARY:Wstęp do badań społecznych (ćwiczenia)
+UID:100247da-4054-4ecc-9e6f-d4c831fbb00b@1002.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kędzierski
+DTEND:20241127T134500Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241127T121500Z
+SUMMARY:Wprowadzenie do polityki publicznej (konwersatorium)
+UID:45792ebb-377e-4451-b4f1-73ef5803c0ce@4579.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20250113T171500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20250113T154500Z
+SUMMARY:Zaufanie w relacjach społecznych (konwersatorium do wyboru)
+UID:5a66757b-ae8a-47b0-a8c1-bc0ebe15a12f@5a66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20241212T153000Z
+LOCATION:Paw.G 11
+DTSTART:20241212T140000Z
+SUMMARY:Światowe kultury biznesu (konwersatorium do wyboru)
+UID:01ba7c53-6eae-4787-a0e7-a8ac1abf009a@01ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241007T124500Z
+LOCATION:Paw.C sala B
+DTSTART:20241007T111500Z
+SUMMARY:Polityka zagraniczna (wykład)
+UID:cdaacef7-21c4-47c4-9af4-92a273aff31e@cdaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241211T120000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241211T103000Z
+SUMMARY:Wstęp do badań społecznych (ćwiczenia)
+UID:33482e1d-37fc-4b5d-937d-28086d819fae@3348.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Sanetra-Szeliga
+DTEND:20241205T134500Z
+LOCATION:Paw.U sala O
+DTSTART:20241205T121500Z
+SUMMARY:Historia społeczno-gospodarcza świata (konwersatorium do wyboru)
+UID:1f7234af-66d0-403f-81c8-e38b522324e8@1f72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek  prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241218T153000Z
+LOCATION:Paw.F 106
+DTSTART:20241218T140000Z
+SUMMARY:Wykrywanie oszustw w przedsiębiorstwach międzynarodowych (konwersatorium do wyboru)
+UID:b5be726b-92d1-45d8-bd18-65e344b4f0b3@b5be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kłosowicz-Toborek
+DTEND:20241031T120000Z
+LOCATION:Paw.F 106
+DTSTART:20241031T103000Z
+SUMMARY:Współczesne modele kapitalizmu (konwersatorium do wyboru)
+UID:0ff42511-eaf3-4589-952c-db762fc6f8a3@0ff4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kędzierski
+DTEND:20250121T171500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250121T154500Z
+SUMMARY:Wprowadzenie do polityki publicznej (konwersatorium)
+UID:1a85550e-191d-4de0-be15-ef52c139ab45@1a85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kłosowicz-Toborek
+DTEND:20241010T073000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241010T060000Z
+SUMMARY:Współczesne modele kapitalizmu (konwersatorium do wyboru)
+UID:bd44e064-c326-4faf-bc1f-8ff378b076bf@bd44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kędzierski
+DTEND:20241217T171500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241217T154500Z
+SUMMARY:Wprowadzenie do polityki publicznej (konwersatorium)
+UID:c7f31215-12e6-4fcd-a180-35d19b2326f6@c7f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek  prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241016T143000Z
+LOCATION:Paw.F 106
+DTSTART:20241016T130000Z
+SUMMARY:Wykrywanie oszustw w przedsiębiorstwach międzynarodowych (konwersatorium do wyboru)
+UID:01e27e80-ef89-4b4c-bb75-b23baac9bbc3@01e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20241218T171500Z
+LOCATION:Paw.G 11
+DTSTART:20241218T154500Z
+SUMMARY:Współczesne systemy polityczne (ćwiczenia)
+UID:b104eb75-a294-448f-bbcf-9a9e411631c6@b104.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Kaczorowski
+DTEND:20241009T180000Z
+LOCATION:Paw.G  7
+DTSTART:20241009T163000Z
+SUMMARY:Socjologia procesów globalnych (konwersatorium do wyboru)
+UID:5b851af5-0b8d-4d69-a937-a3e69938cc04@5b85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20241007T110000Z
+LOCATION:Paw.U sala O
+DTSTART:20241007T093000Z
+SUMMARY:Zielona Gospodarka i Zrównoważony Rozwój (konwersatorium do wyboru)
+UID:1ec12104-a3ad-44ea-b4d8-3c5e376de87c@1ec1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241014T143000Z
+LOCATION:Paw.C sala B
+DTSTART:20241014T130000Z
+SUMMARY:Polityka zagraniczna (wykład)
+UID:a88ead09-9580-4f6c-95eb-3c5aeee5bf6a@a88e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek  prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241009T143000Z
+LOCATION:Paw.F 106
+DTSTART:20241009T130000Z
+SUMMARY:Wykrywanie oszustw w przedsiębiorstwach międzynarodowych (konwersatorium do wyboru)
+UID:9402cff8-d832-4c5e-9b1b-eea0b0a6b38e@9402.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241105T134500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20241105T121500Z
+SUMMARY:Polityka zagraniczna (ćwiczenia)
+UID:b697ac50-4c79-40f6-b7bd-698516d62eaf@b697.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Kaczorowski
+DTEND:20241120T190000Z
+LOCATION:Paw.G  7
+DTSTART:20241120T173000Z
+SUMMARY:Socjologia procesów globalnych (konwersatorium do wyboru)
+UID:de507acd-f6af-4275-84e5-912656b413ce@de50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20241003T143000Z
+LOCATION:Paw.G 11
+DTSTART:20241003T130000Z
+SUMMARY:Światowe kultury biznesu (konwersatorium do wyboru)
+UID:81243177-773d-4ef8-a5df-1f703f2d101b@8124.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20250115T120000Z
+LOCATION:Bud.gł. 2
+DTSTART:20250115T103000Z
+SUMMARY:Wstęp do badań społecznych (ćwiczenia)
+UID:895b4cd0-c14d-4a55-b62d-ef9b97843d68@895b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Kaczorowski
+DTEND:20241113T190000Z
+LOCATION:Paw.G  7
+DTSTART:20241113T173000Z
+SUMMARY:Socjologia procesów globalnych (konwersatorium do wyboru)
+UID:6d3f8722-f608-462d-8c14-32465eb46e38@6d3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20250107T153000Z
+LOCATION:Paw.F CJ 210
+DTSTART:20250107T140000Z
+SUMMARY:Systemy edukacji w wybranych krajach świata (konwersatorium do wyboru)
+UID:f8a3e55b-f68a-4a00-aa78-3cb9fde63794@f8a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241023T110000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241023T093000Z
+SUMMARY:Wstęp do badań społecznych (ćwiczenia)
+UID:8a99b0d2-f3df-4646-aee1-ea55d2db3ff8@8a99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241217T134500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20241217T121500Z
+SUMMARY:Polityka zagraniczna (ćwiczenia)
+UID:53be0e33-fd95-440a-98a9-b78acff311b8@53be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20250108T171500Z
+LOCATION:Paw.G 11
+DTSTART:20250108T154500Z
+SUMMARY:Współczesne systemy polityczne (ćwiczenia)
+UID:ed8678ce-0ab1-4b2f-a95c-ae8c03a37528@ed86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kłosowicz-Toborek
+DTEND:20241022T073000Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20241022T060000Z
+SUMMARY:Współczesne modele kapitalizmu (konwersatorium do wyboru)
+UID:db532be4-60a1-4bd8-b899-20013a1efe73@db53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kędzierski
+DTEND:20241106T134500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241106T121500Z
+SUMMARY:Wprowadzenie do polityki publicznej (konwersatorium)
+UID:9d3f85e8-3fa9-41d5-8aea-a533d1129246@9d3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20250121T083000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20250121T074500Z
+SUMMARY:Współczesne systemy polityczne (wykład)
+UID:eed370ea-30b4-459f-a5f8-653612c539db@eed3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241022T143000Z
+LOCATION:Paw.G 11
+DTSTART:20241022T130000Z
+SUMMARY:Systemy edukacji w wybranych krajach świata (konwersatorium do wyboru)
+UID:2968f00e-9025-43de-8c7d-ea1fdb76e19f@2968.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dobrosława Wiktor-Mach
+DTEND:20241104T153000Z
+LOCATION:Paw.C sala B
+DTSTART:20241104T140000Z
+SUMMARY:Komunikacja międzykulturowa (wykład)
+UID:a2f5433e-6357-4059-b705-acf0f1cb061a@a2f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20241125T134500Z
+LOCATION:Paw.G  8
+DTSTART:20241125T121500Z
+SUMMARY:Zielona Gospodarka i Zrównoważony Rozwój (konwersatorium do wyboru)
+UID:3a0aaf49-dca8-4339-9883-d15ccc3139fb@3a0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241118T171500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241118T154500Z
+SUMMARY:Zaufanie w relacjach społecznych (konwersatorium do wyboru)
+UID:0e556b7c-9bd7-4e28-a152-1c256ff186f4@0e55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kędzierski
+DTEND:20241119T171500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241119T154500Z
+SUMMARY:Wprowadzenie do polityki publicznej (konwersatorium)
+UID:b748e2e1-39fc-4b4d-80a4-1a48926e4a39@b748.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kłosowicz-Toborek
+DTEND:20250114T083000Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20250114T070000Z
+SUMMARY:Współczesne modele kapitalizmu (konwersatorium do wyboru)
+UID:37d4cd32-705f-496f-8a28-07bb1d975608@37d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20241122T134500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241122T121500Z
+SUMMARY:�ródła cywilizacji śródziemnomorskiej (konwersatorium do wyboru)
+UID:560fc99a-4b33-4c50-bc8a-90c6b2d8fc64@560f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20250116T153000Z
+LOCATION:Paw.G 11
+DTSTART:20250116T140000Z
+SUMMARY:Światowe kultury biznesu (konwersatorium do wyboru)
+UID:2a55407e-d084-4025-99d5-c99506a77017@2a55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20241220T134500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241220T121500Z
+SUMMARY:�ródła cywilizacji śródziemnomorskiej (konwersatorium do wyboru)
+UID:73944453-ce9a-4e15-9536-7959294fc217@7394.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kędzierski
+DTEND:20241203T171500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241203T154500Z
+SUMMARY:Wprowadzenie do polityki publicznej (konwersatorium)
+UID:7f2487f7-5491-4417-930d-803b7136e531@7f24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek  prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241030T153000Z
+LOCATION:Paw.F 106
+DTSTART:20241030T140000Z
+SUMMARY:Wykrywanie oszustw w przedsiębiorstwach międzynarodowych (konwersatorium do wyboru)
+UID:642c7dc8-127b-403f-9db5-698245fc1b20@642c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek  prof. UEK dr hab. Andrzej Zyguła
+DTEND:20250108T153000Z
+LOCATION:Paw.F 106
+DTSTART:20250108T140000Z
+SUMMARY:Wykrywanie oszustw w przedsiębiorstwach międzynarodowych (konwersatorium do wyboru)
+UID:a9d3c6d3-6746-48b0-a99e-37dbd6370a13@a9d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dobrosław Kot
+DTEND:20241025T124500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241025T111500Z
+SUMMARY:�ródła cywilizacji śródziemnomorskiej (konwersatorium do wyboru)
+UID:e54abd4a-f5b9-4adf-9bff-235789f974bc@e54a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kędzierski
+DTEND:20250115T134500Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20250115T121500Z
+SUMMARY:Wprowadzenie do polityki publicznej (konwersatorium)
+UID:1eac6c92-9830-4d52-af9d-12c7082fb5a3@1eac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kłosowicz-Toborek
+DTEND:20241203T083000Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20241203T070000Z
+SUMMARY:Współczesne modele kapitalizmu (konwersatorium do wyboru)
+UID:0b3b300c-031c-4739-b07d-c1e833c653d9@0b3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Kaczorowski
+DTEND:20241106T190000Z
+LOCATION:Paw.G  7
+DTSTART:20241106T173000Z
+SUMMARY:Socjologia procesów globalnych (konwersatorium do wyboru)
+UID:ddd17921-44eb-4f07-82bb-8fff4c5f313d@ddd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241029T134500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20241029T121500Z
+SUMMARY:Polityka zagraniczna (ćwiczenia)
+UID:7b8135fd-80ae-4b21-87ad-4557b53175f7@7b81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kłosowicz-Toborek
+DTEND:20241105T083000Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20241105T070000Z
+SUMMARY:Współczesne modele kapitalizmu (konwersatorium do wyboru)
+UID:f1dffaaa-34fd-42fe-9a26-3874933a4c57@f1df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Król
+DTEND:20241125T120000Z
+LOCATION:Paw.U sala O
+DTSTART:20241125T103000Z
+SUMMARY:Zielona Gospodarka i Zrównoważony Rozwój (konwersatorium do wyboru)
+UID:66949c53-5d3a-4cd1-bd10-b68fe0f02a9b@6694.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241210T134500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20241210T121500Z
+SUMMARY:Polityka zagraniczna (ćwiczenia)
+UID:0a00699f-ac50-40e5-bfeb-10481809cc98@0a00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kłosowicz-Toborek
+DTEND:20241114T120000Z
+LOCATION:Paw.F 106
+DTSTART:20241114T103000Z
+SUMMARY:Współczesne modele kapitalizmu (konwersatorium do wyboru)
+UID:0aa649ef-2c28-4060-ae22-5c68a9fac2b3@0aa6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Kędzierski
+DTEND:20241113T134500Z
+LOCATION:Bibl. 440
+DTSTART:20241113T121500Z
+SUMMARY:Wprowadzenie do polityki publicznej (konwersatorium)
+UID:460407e9-f4a6-46ca-9049-a1a08ec39ddd@4604.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241216T134500Z
+LOCATION:Paw.C sala B
+DTSTART:20241216T121500Z
+SUMMARY:Polityka zagraniczna (wykład)
+UID:d15687a3-1215-4af8-8763-74d6bc8f06cf@d156.org
+END:VEVENT
+END:VCALENDAR

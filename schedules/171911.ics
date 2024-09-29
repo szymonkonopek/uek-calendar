@@ -1,0 +1,690 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Rudnicki
+DTEND:20241016T110000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241016T093000Z
+SUMMARY:Planowanie kongresów i spotkań (ćwiczenia)
+UID:29c92606-06e8-41ea-9d78-86210961d874@29c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jadwiga Berbeka
+DTEND:20241210T171500Z
+LOCATION:link do zajęć
+DTSTART:20241210T154500Z
+SUMMARY:Zarządzanie dużymi wydarzeniami (wykład)
+UID:e0fe9db1-6805-4b7b-90eb-0aa0eb8143b8@e0fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Rudnicki
+DTEND:20241113T163000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241113T154500Z
+SUMMARY:Transport w turystyce (ćwiczenia)
+UID:16a884e0-5187-42fc-9ded-f169b6936ba5@16a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jadwiga Berbeka
+DTEND:20241210T181500Z
+LOCATION:link do zajęć
+DTSTART:20241210T173000Z
+SUMMARY:Zarządzanie dużymi wydarzeniami (wykład)
+UID:dfb1fcc9-92b7-49f7-89eb-868d6debf548@dfb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Rudnicki
+DTEND:20250122T120000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20250122T103000Z
+SUMMARY:Planowanie kongresów i spotkań (ćwiczenia)
+UID:1341f8ab-ec37-468b-8986-4cbca5acf470@1341.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jadwiga Berbeka
+DTEND:20241001T161500Z
+LOCATION:link do zajęć
+DTSTART:20241001T144500Z
+SUMMARY:Zarządzanie dużymi wydarzeniami (wykład)
+UID:44c99b3f-b98c-463d-b2a3-da2113d107bb@44c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Rudnicki
+DTEND:20241030T120000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241030T103000Z
+SUMMARY:Planowanie kongresów i spotkań (ćwiczenia)
+UID:dd7c5013-f5cd-491e-9a34-b87a225d0657@dd7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241017T110000Z
+LOCATION:link do zajęć
+DTSTART:20241017T093000Z
+SUMMARY:Prognozowanie w turystyce (wykład)
+UID:03c7c23d-99f6-4cab-9c33-f37fd38a7c23@03c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20241024T091500Z
+LOCATION:link do zajęć
+DTSTART:20241024T074500Z
+SUMMARY:Organizacja spotkań biznesowych (wykład)
+UID:80dfec99-e9e1-4fb0-8f3b-e45bc9596d62@80df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Klimek
+DTEND:20241003T133000Z
+LOCATION:link do zajęć
+DTSTART:20241003T111500Z
+SUMMARY:DMO w rozwoju obszarów recepcji (wykład)
+UID:278c203c-e0c7-4266-918f-e2c300730b7a@278c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Rudnicki
+DTEND:20241023T110000Z
+LOCATION:Paw.G  9
+DTSTART:20241023T093000Z
+SUMMARY:Transport w turystyce (ćwiczenia)
+UID:c8e417f4-5420-4313-801b-a6620480e6d1@c8e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Klimek
+DTEND:20241024T133000Z
+LOCATION:link do zajęć
+DTSTART:20241024T111500Z
+SUMMARY:DMO w rozwoju obszarów recepcji (wykład)
+UID:0629cce4-00d4-4273-8650-08778ea664d3@0629.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jadwiga Berbeka
+DTEND:20241217T180000Z
+LOCATION:link do zajęć
+DTSTART:20241217T154500Z
+SUMMARY:Zarządzanie dużymi wydarzeniami (wykład)
+UID:909023b0-56a1-415a-86ab-59a9dd3af115@9090.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241120T153000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241120T140000Z
+SUMMARY:Prognozowanie w turystyce (ćwiczenia)
+UID:32e2c43e-a53e-4ea5-97c9-2cadb64eef28@32e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:f13a993a-3439-4615-b32e-e23c04672cd1@f13a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20241107T120000Z
+LOCATION:link do zajęć
+DTSTART:20241107T103000Z
+SUMMARY:Planowanie kongresów i spotkań (wykład)
+UID:3d0b810e-3dfb-49a8-aa9b-e394cf6989a0@3d0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20241205T101500Z
+LOCATION:link do zajęć
+DTSTART:20241205T084500Z
+SUMMARY:Organizacja spotkań biznesowych (wykład)
+UID:ca8b8e78-dd8a-4fbf-a846-6b6517f15b67@ca8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20241219T120000Z
+LOCATION:link do zajęć
+DTSTART:20241219T103000Z
+SUMMARY:Planowanie kongresów i spotkań (wykład)
+UID:cc21049f-9b0f-4322-93f2-5e3b73755b1f@cc21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241128T120000Z
+LOCATION:link do zajęć
+DTSTART:20241128T103000Z
+SUMMARY:Prognozowanie w turystyce (wykład)
+UID:3f45ad6d-f904-4049-b5f1-421c5afc90b6@3f45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241219T083000Z
+LOCATION:link do zajęć
+DTSTART:20241219T070000Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:a7c09717-f824-4455-9691-02002e090efd@a7c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241003T073000Z
+LOCATION:link do zajęć
+DTSTART:20241003T060000Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:12beb277-6e59-4159-b000-56f1b7fa546a@12be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241010T073000Z
+LOCATION:link do zajęć
+DTSTART:20241010T060000Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:e5cf2cac-30a7-45e8-b1ad-5a6bd6fa4ca0@e5cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20250109T083000Z
+LOCATION:link do zajęć
+DTSTART:20250109T070000Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:55492193-b111-4b77-ac97-3cf88bc987b7@5549.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Rudnicki
+DTEND:20241120T120000Z
+LOCATION:Paw.G  9
+DTSTART:20241120T103000Z
+SUMMARY:Transport w turystyce (ćwiczenia)
+UID:a007119c-7c94-4a95-8efb-8ee572c2d03c@a007.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241218T153000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241218T140000Z
+SUMMARY:Prognozowanie w turystyce (ćwiczenia)
+UID:ba7829b1-2365-4215-b019-f4d1edadcf87@ba78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Rudnicki
+DTEND:20241218T120000Z
+LOCATION:Paw.G  9
+DTSTART:20241218T103000Z
+SUMMARY:Transport w turystyce (ćwiczenia)
+UID:95fdc9d5-6f16-488d-8228-c488b8570a30@95fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241107T083000Z
+LOCATION:link do zajęć
+DTSTART:20241107T070000Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:3a7af938-0ddc-4a54-8d75-fcfba8aea534@3a7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20241004T073000Z
+LOCATION:link do zajęć
+DTSTART:20241004T060000Z
+SUMMARY:Planowanie kongresów i spotkań (wykład)
+UID:75abc8ec-f610-41b1-b759-a14b03d44c1a@75ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Klimek
+DTEND:20241031T143000Z
+LOCATION:link do zajęć
+DTSTART:20241031T121500Z
+SUMMARY:DMO w rozwoju obszarów recepcji (wykład)
+UID:57392211-3c42-485f-b935-03631d9097f9@5739.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20241003T091500Z
+LOCATION:link do zajęć
+DTSTART:20241003T074500Z
+SUMMARY:Transport w turystyce (wykład)
+UID:bd271f3a-6a00-431f-b34a-2957e2ae2d27@bd27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241031T120000Z
+LOCATION:link do zajęć
+DTSTART:20241031T103000Z
+SUMMARY:Prognozowanie w turystyce (wykład)
+UID:61eacba5-49da-42ef-b26c-e6b2102c8796@61ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20241107T101500Z
+LOCATION:link do zajęć
+DTSTART:20241107T084500Z
+SUMMARY:Organizacja spotkań biznesowych (wykład)
+UID:9eb8573a-6013-4174-b115-666a8028cced@9eb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20241205T120000Z
+LOCATION:link do zajęć
+DTSTART:20241205T103000Z
+SUMMARY:Planowanie kongresów i spotkań (wykład)
+UID:e68a2656-0be1-42d1-85bd-3ec30f022e04@e68a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20250108T180000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250108T163000Z
+SUMMARY:Prognozowanie w turystyce (ćwiczenia)
+UID:c47b2c8a-dea5-43ed-bf9a-28ed808119c5@c47b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20241121T101500Z
+LOCATION:link do zajęć
+DTSTART:20241121T084500Z
+SUMMARY:Organizacja spotkań biznesowych (wykład)
+UID:c702fa8a-aaad-4b3d-8782-c3b9f45b28bb@c702.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20241219T101500Z
+LOCATION:link do zajęć
+DTSTART:20241219T084500Z
+SUMMARY:Organizacja spotkań biznesowych (wykład)
+UID:4c69ceac-ffa0-4ebe-b4d3-66c8e016922f@4c69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Rudnicki
+DTEND:20250115T120000Z
+LOCATION:Paw.G  9
+DTSTART:20250115T103000Z
+SUMMARY:Transport w turystyce (ćwiczenia)
+UID:9946ad36-8936-49f7-8d1d-4a113bd02679@9946.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Klimek
+DTEND:20241017T133000Z
+LOCATION:link do zajęć
+DTSTART:20241017T111500Z
+SUMMARY:DMO w rozwoju obszarów recepcji (wykład)
+UID:83a44b09-bc9f-4304-88df-bd2c27f98208@83a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20250116T120000Z
+LOCATION:link do zajęć
+DTSTART:20250116T103000Z
+SUMMARY:Planowanie kongresów i spotkań (wykład)
+UID:844ffb72-33ed-4c17-b957-8a920bea7ab5@844f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Rudnicki
+DTEND:20250108T120000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20250108T103000Z
+SUMMARY:Planowanie kongresów i spotkań (ćwiczenia)
+UID:90abbbfb-9665-471a-8ced-5f6d912091de@90ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20241212T101500Z
+LOCATION:link do zajęć
+DTSTART:20241212T084500Z
+SUMMARY:Transport w turystyce (wykład)
+UID:44d45392-287c-453c-829a-a0a36b0d12a0@44d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241205T083000Z
+LOCATION:link do zajęć
+DTSTART:20241205T070000Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:c08bead2-b5a1-49e4-8158-939ba82def89@c08b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Rudnicki
+DTEND:20241106T120000Z
+LOCATION:Paw.G  9
+DTSTART:20241106T103000Z
+SUMMARY:Transport w turystyce (ćwiczenia)
+UID:4410b3aa-2b64-48de-ba39-747c27c5c808@4410.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:277c11e4-c505-4c6d-a8c5-056c6a30b70d@277c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Rudnicki
+DTEND:20241218T181500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241218T173000Z
+SUMMARY:Planowanie kongresów i spotkań (ćwiczenia)
+UID:f3386f28-15df-49bf-be8f-453ea7976640@f338.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20250109T130000Z
+LOCATION:link do zajęć
+DTSTART:20250109T121500Z
+SUMMARY:Prognozowanie w turystyce (wykład)
+UID:13b95004-04ce-4106-81aa-2deb2e59fff0@13b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20241114T101500Z
+LOCATION:link do zajęć
+DTSTART:20241114T084500Z
+SUMMARY:Transport w turystyce (wykład)
+UID:208e7b2a-78f9-46aa-858d-f65ea8cf1a89@208e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Klimek
+DTEND:20241107T143000Z
+LOCATION:link do zajęć
+DTSTART:20241107T121500Z
+SUMMARY:DMO w rozwoju obszarów recepcji (wykład)
+UID:b7b9f16a-1fe7-4a90-9d1b-877acbeab7c8@b7b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20241004T091500Z
+LOCATION:link do zajęć
+DTSTART:20241004T074500Z
+SUMMARY:Transport w turystyce (wykład)
+UID:72dea67c-f019-4d34-be29-370f2c514b20@72de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Rudnicki
+DTEND:20241113T120000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241113T103000Z
+SUMMARY:Planowanie kongresów i spotkań (ćwiczenia)
+UID:181ba8fe-0344-4c58-a49f-6cc956e2f68f@181b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241023T143000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241023T130000Z
+SUMMARY:Prognozowanie w turystyce (ćwiczenia)
+UID:8f8faa25-0ef4-40e5-a2b7-d5ac4b2aaf8d@8f8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20241205T130000Z
+LOCATION:link do zajęć
+DTSTART:20241205T121500Z
+SUMMARY:Planowanie kongresów i spotkań (wykład)
+UID:eb41523b-0cdd-4090-849c-6fad61cf5feb@eb41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20250115T153000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250115T140000Z
+SUMMARY:Prognozowanie w turystyce (ćwiczenia)
+UID:31e025cf-19f0-4569-b279-ee09fb9969f4@31e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jadwiga Berbeka
+DTEND:20250121T163000Z
+LOCATION:link do zajęć
+DTSTART:20250121T154500Z
+SUMMARY:Zarządzanie dużymi wydarzeniami (wykład)
+UID:88e47629-302b-4881-9207-d0cf1ad7c54f@88e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jadwiga Berbeka
+DTEND:20241112T181500Z
+LOCATION:link do zajęć
+DTSTART:20241112T173000Z
+SUMMARY:Zarządzanie dużymi wydarzeniami (wykład)
+UID:268f53e0-f6f5-4c33-8031-752d068cc906@268f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241218T171500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241218T163000Z
+SUMMARY:Prognozowanie w turystyce (ćwiczenia)
+UID:e261fdcc-7b4b-455b-a2af-bde8bdabbf02@e261.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20250109T101500Z
+LOCATION:link do zajęć
+DTSTART:20250109T084500Z
+SUMMARY:Transport w turystyce (wykład)
+UID:be0af7b3-5f3a-450b-b02c-d7bc40161266@be0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Rudnicki
+DTEND:20241204T120000Z
+LOCATION:Paw.G  9
+DTSTART:20241204T103000Z
+SUMMARY:Transport w turystyce (ćwiczenia)
+UID:9b16189b-b871-4475-8672-747cb9a0c8eb@9b16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jadwiga Berbeka
+DTEND:20241001T171500Z
+LOCATION:link do zajęć
+DTSTART:20241001T163000Z
+SUMMARY:Zarządzanie dużymi wydarzeniami (wykład)
+UID:8a72be8d-bbb2-49f3-8f7d-d0796dc67c13@8a72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20241031T101500Z
+LOCATION:link do zajęć
+DTSTART:20241031T084500Z
+SUMMARY:Transport w turystyce (wykład)
+UID:69a7b6b0-b820-4181-9ed1-c192e258138d@69a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241212T120000Z
+LOCATION:link do zajęć
+DTSTART:20241212T103000Z
+SUMMARY:Prognozowanie w turystyce (wykład)
+UID:b32061df-5ace-45c6-91b3-587f6e4bb09b@b320.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20250123T093000Z
+LOCATION:link do zajęć
+DTSTART:20250123T084500Z
+SUMMARY:Transport w turystyce (wykład)
+UID:0c2f4bc4-9dd5-4e7b-aba5-4c48a13b3672@0c2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241114T120000Z
+LOCATION:link do zajęć
+DTSTART:20241114T103000Z
+SUMMARY:Prognozowanie w turystyce (wykład)
+UID:c60d47aa-4593-4038-937f-0b02da32158e@c60d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Rudnicki
+DTEND:20241211T120000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241211T103000Z
+SUMMARY:Planowanie kongresów i spotkań (ćwiczenia)
+UID:2ecb8779-17d2-4a7b-9b45-f9fd6a39691f@2ecb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20250116T101500Z
+LOCATION:link do zajęć
+DTSTART:20250116T084500Z
+SUMMARY:Organizacja spotkań biznesowych (wykład)
+UID:4626ccaf-1ec6-440d-909e-0efdc8d40e90@4626.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241015T151500Z
+LOCATION:link do zajęć
+DTSTART:20241015T130000Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:fc17a562-6497-4556-a922-75ca6d7e06b4@fc17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20250123T083000Z
+LOCATION:link do zajęć
+DTSTART:20250123T070000Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:4affc7a3-38c7-4738-ab3e-6af237f0ab40@4aff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jadwiga Berbeka
+DTEND:20250107T171500Z
+LOCATION:link do zajęć
+DTSTART:20250107T154500Z
+SUMMARY:Zarządzanie dużymi wydarzeniami (wykład)
+UID:13df6f51-e645-4d68-b07e-cfc22ccb478d@13df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jadwiga Berbeka
+DTEND:20241112T171500Z
+LOCATION:link do zajęć
+DTSTART:20241112T154500Z
+SUMMARY:Zarządzanie dużymi wydarzeniami (wykład)
+UID:65ebb588-4019-471d-8cbc-e5848a27ce05@65eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20241121T120000Z
+LOCATION:link do zajęć
+DTSTART:20241121T103000Z
+SUMMARY:Planowanie kongresów i spotkań (wykład)
+UID:9886741a-c9e1-4629-8514-34e9c1c52d98@9886.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Rudnicki
+DTEND:20241127T120000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241127T103000Z
+SUMMARY:Planowanie kongresów i spotkań (ćwiczenia)
+UID:994f6721-681a-469f-86fb-10a7f22a4459@994f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20241128T101500Z
+LOCATION:link do zajęć
+DTSTART:20241128T084500Z
+SUMMARY:Transport w turystyce (wykład)
+UID:7291fe36-e9d9-4a45-b7f6-589a10e2acf3@7291.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20250123T120000Z
+LOCATION:link do zajęć
+DTSTART:20250123T103000Z
+SUMMARY:Prognozowanie w turystyce (wykład)
+UID:6225c418-bb15-498e-a6d0-702b2c42527b@6225.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241009T143000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241009T130000Z
+SUMMARY:Prognozowanie w turystyce (ćwiczenia)
+UID:2cf043fd-0dbd-4142-982a-15bf59ca21d2@2cf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20241024T110000Z
+LOCATION:link do zajęć
+DTSTART:20241024T093000Z
+SUMMARY:Planowanie kongresów i spotkań (wykład)
+UID:3d3bac39-02c4-4acb-a841-fbe36170b6b1@3d3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20241122T101500Z
+LOCATION:link do zajęć
+DTSTART:20241122T084500Z
+SUMMARY:Organizacja spotkań biznesowych (wykład)
+UID:067bbf10-35ab-4b0f-99fb-80566876d43f@067b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20250109T120000Z
+LOCATION:link do zajęć
+DTSTART:20250109T103000Z
+SUMMARY:Prognozowanie w turystyce (wykład)
+UID:8ee9f799-de1b-42c9-afc8-c40dccb689b4@8ee9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241017T073000Z
+LOCATION:link do zajęć
+DTSTART:20241017T060000Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:3500beb4-58a0-4783-a3f0-882820d6fb6c@3500.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20250116T083000Z
+LOCATION:link do zajęć
+DTSTART:20250116T070000Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:ff18c9b5-d8cc-4145-abcd-41945075bc42@ff18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241031T083000Z
+LOCATION:link do zajęć
+DTSTART:20241031T070000Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:43465b2d-7e6a-4cba-bcd4-b90c264606f0@4346.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Rudnicki
+DTEND:20241113T153000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241113T140000Z
+SUMMARY:Transport w turystyce (ćwiczenia)
+UID:e7030c37-9be3-40cf-bdbc-f693c13eb398@e703.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241212T083000Z
+LOCATION:link do zajęć
+DTSTART:20241212T070000Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:040f202f-7ff4-4f1d-a873-986d2bf24a1d@040f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241204T153000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241204T140000Z
+SUMMARY:Prognozowanie w turystyce (ćwiczenia)
+UID:93272157-b7cd-463e-96c5-0743dcaef6d0@9327.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241024T073000Z
+LOCATION:link do zajęć
+DTSTART:20241024T060000Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:cfaec559-32a9-433d-b95b-706ea8b2b06f@cfae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241008T151500Z
+LOCATION:link do zajęć
+DTSTART:20241008T130000Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:e50a63f9-5079-4dcd-b200-63d27964e07c@e50a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20241128T130000Z
+LOCATION:link do zajęć
+DTSTART:20241128T121500Z
+SUMMARY:Organizacja spotkań biznesowych (wykład)
+UID:ac48f41e-6785-4b2f-b573-a62a8e69eed6@ac48.org
+END:VEVENT
+END:VCALENDAR

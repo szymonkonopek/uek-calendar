@@ -1,0 +1,436 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20241207T170000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241207T144500Z
+SUMMARY:E-business (ćwiczenia)
+UID:8c49e9a9-dbae-4ff8-b8ac-3048d19a1e9f@8c49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20241222T114500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241222T093000Z
+SUMMARY:Pracownia programowania III (ćwiczenia)
+UID:279b4f53-6f5d-4f6d-80e0-bb179c2c3bbc@279b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20241025T160000Z
+LOCATION:Paw.F 415
+DTSTART:20241025T134500Z
+SUMMARY:Metody numeryczne (ćwiczenia)
+UID:c574a472-ab3a-4fdb-893c-f70a8a391ba6@c574.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Niklewicz
+DTEND:20241013T114500Z
+LOCATION:link do zajęć
+DTSTART:20241013T093000Z
+SUMMARY:Analiza i projektowanie systemów informacyjnych (wykład)
+UID:2af5f8f2-4bfe-4d8e-9006-d99e43361421@2af5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Widlak
+DTEND:20241116T100000Z
+LOCATION:link do zajęć
+DTSTART:20241116T074500Z
+SUMMARY:Systemy operacyjne (wykład)
+UID:05c55cf2-7c81-46aa-b993-72c01087bbff@05c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20250118T184500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250118T163000Z
+SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
+UID:1e17780a-086b-4bdd-8179-9cd3340239c2@1e17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20241201T151500Z
+LOCATION:link do zajęć
+DTSTART:20241201T130000Z
+SUMMARY:E-business (wykład)
+UID:85adef44-6abf-4f80-a0ad-40ee23720421@85ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
+DTEND:20241123T133000Z
+LOCATION:Paw.U sala M
+DTSTART:20241123T111500Z
+SUMMARY:Ekonomika i finanse przedsiębiorstw (ćwiczenia)
+UID:f932e372-6e0a-4ac1-8ad9-c4e6d979257f@f932.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20241026T090000Z
+LOCATION:link do zajęć
+DTSTART:20241026T064500Z
+SUMMARY:Wprowadzenie do baz danych (wykład)
+UID:5a1eacd2-32ac-4ebb-9277-daba32dc612e@5a1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20250118T161500Z
+LOCATION:Paw.F 104
+DTSTART:20250118T140000Z
+SUMMARY:Metody numeryczne (ćwiczenia)
+UID:36888fb4-a63b-4135-8eff-79de971213d6@3688.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Niklewicz
+DTEND:20241215T151500Z
+LOCATION:link do zajęć
+DTSTART:20241215T130000Z
+SUMMARY:Analiza i projektowanie systemów informacyjnych (wykład)
+UID:a74b347e-a14a-4268-a696-456e5356359d@a74b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Niklewicz
+DTEND:20241207T114500Z
+LOCATION:Paw.S sala 5
+DTSTART:20241207T093000Z
+SUMMARY:Analiza i projektowanie systemów informacyjnych (ćwiczenia)
+UID:e4572ca8-418d-494e-9c26-d611b400c017@e457.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Kornafel
+DTEND:20241026T151500Z
+LOCATION:link do zajęć
+DTSTART:20241026T130000Z
+SUMMARY:Metody numeryczne (wykład)
+UID:ab352e0a-1e9d-4037-88b1-6886c79ae4fc@ab35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Niklewicz
+DTEND:20241222T143000Z
+LOCATION:Bibl. 441
+DTSTART:20241222T121500Z
+SUMMARY:Analiza i projektowanie systemów informacyjnych (ćwiczenia)
+UID:1e0b9a59-e490-47b6-951b-ae5e4297150f@1e0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20241214T133000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241214T111500Z
+SUMMARY:Metody numeryczne (ćwiczenia)
+UID:e6f30fed-195a-4f86-8198-26a957b4415b@e6f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20241130T091500Z
+LOCATION:Paw.F 111
+DTSTART:20241130T070000Z
+SUMMARY:Metody numeryczne (ćwiczenia)
+UID:dbf7d858-d346-4fc6-99fe-b7e35c109689@dbf7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20241130T170000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241130T144500Z
+SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
+UID:b488a1c5-0d97-4b38-9d6a-62cba0be56ec@b488.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Niklewicz
+DTEND:20241116T124500Z
+LOCATION:link do zajęć
+DTSTART:20241116T103000Z
+SUMMARY:Analiza i projektowanie systemów informacyjnych (wykład)
+UID:a2a52329-55fd-4a39-9ae2-2a12ec6cebf3@a2a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Niklewicz
+DTEND:20241206T170000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241206T144500Z
+SUMMARY:Analiza i projektowanie systemów informacyjnych (ćwiczenia)
+UID:3c20ca68-011c-469e-9927-fc1e76e11681@3c20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20241117T100000Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20241117T074500Z
+SUMMARY:Metody numeryczne (ćwiczenia)
+UID:7c138c71-523f-401f-b71f-e7279c388afe@7c13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20241026T114500Z
+LOCATION:link do zajęć
+DTSTART:20241026T093000Z
+SUMMARY:E-business (wykład)
+UID:59041a27-5137-405f-aa93-fcc6f61511b0@5904.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20250112T143000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20250112T121500Z
+SUMMARY:Pracownia programowania III (ćwiczenia)
+UID:df675bb8-6ee1-4120-b272-286916231dc5@df67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Niklewicz
+DTEND:20250119T114500Z
+LOCATION:Bibl. 441
+DTSTART:20250119T093000Z
+SUMMARY:Analiza i projektowanie systemów informacyjnych (ćwiczenia)
+UID:8ac095c3-1d25-4dda-bc5f-3cdcaaf52ede@8ac0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20241012T090000Z
+LOCATION:link do zajęć
+DTSTART:20241012T064500Z
+SUMMARY:Wprowadzenie do baz danych (wykład)
+UID:d4efedec-f991-4f75-939e-ae111bc06489@d4ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20241221T170000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241221T144500Z
+SUMMARY:E-business (ćwiczenia)
+UID:d97b5f1f-107f-4abb-9748-ed7b7bbd71c4@d97b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20241123T184500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241123T163000Z
+SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
+UID:9fabb067-fe7b-4ac2-9dc8-8fe369f0023a@9fab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
+DTEND:20241201T124500Z
+LOCATION:link do zajęć
+DTSTART:20241201T103000Z
+SUMMARY:Ekonomika i finanse przedsiębiorstw (wykład)
+UID:3244046b-1f01-4fba-b021-7fa1d86dfa2d@3244.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
+DTEND:20250111T151500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250111T130000Z
+SUMMARY:Ekonomika i finanse przedsiębiorstw (ćwiczenia)
+UID:2efb3b2a-0f61-45dc-b7b1-b8974974956f@2efb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Widlak
+DTEND:20250125T194500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250125T173000Z
+SUMMARY:Systemy operacyjne (ćwiczenia)
+UID:517b455a-baeb-4596-801e-9bca2a2c0a4d@517b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20241214T184500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241214T163000Z
+SUMMARY:Pracownia programowania III (ćwiczenia)
+UID:5d313b98-f779-42cc-9bc7-db72062ca2b0@5d31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
+DTEND:20241116T170000Z
+LOCATION:link do zajęć
+DTSTART:20241116T144500Z
+SUMMARY:Ekonomika i finanse przedsiębiorstw (wykład)
+UID:7f994b25-13c7-4144-9ef4-dc298fc32036@7f99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Widlak
+DTEND:20241221T194500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241221T173000Z
+SUMMARY:Systemy operacyjne (ćwiczenia)
+UID:95bccd39-6aa1-4647-a5c3-a0690b767c5d@95bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Kornafel
+DTEND:20241124T124500Z
+LOCATION:link do zajęć
+DTSTART:20241124T103000Z
+SUMMARY:Metody numeryczne (wykład)
+UID:decce6e4-1ffe-4578-b090-dc430637147d@decc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Widlak
+DTEND:20250118T133000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250118T111500Z
+SUMMARY:Systemy operacyjne (ćwiczenia)
+UID:bac19452-d51b-4619-a1dd-2ea1f0368d33@bac1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20241123T161500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241123T140000Z
+SUMMARY:E-business (ćwiczenia)
+UID:55b1d117-5421-42d8-8ed3-b9766697cd75@55b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20250111T091500Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20250111T070000Z
+SUMMARY:Metody numeryczne (ćwiczenia)
+UID:53bef951-3962-49e8-9d23-d19450f1d4a2@53be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Niklewicz
+DTEND:20241130T143000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241130T121500Z
+SUMMARY:Analiza i projektowanie systemów informacyjnych (ćwiczenia)
+UID:a414595b-bf4e-4761-8c13-d68012a86625@a414.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
+DTEND:20241213T170000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241213T144500Z
+SUMMARY:Ekonomika i finanse przedsiębiorstw (ćwiczenia)
+UID:b85e6401-0a10-4d10-828a-76b41bbe4dc0@b85e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Niklewicz
+DTEND:20250125T170000Z
+LOCATION:Bibl. 440
+DTSTART:20250125T144500Z
+SUMMARY:Analiza i projektowanie systemów informacyjnych (ćwiczenia)
+UID:e6fd8d59-8566-46f6-b5cb-c72d77d056b9@e6fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Niklewicz
+DTEND:20241208T124500Z
+LOCATION:link do zajęć
+DTSTART:20241208T103000Z
+SUMMARY:Analiza i projektowanie systemów informacyjnych (wykład)
+UID:dba712b9-1d1d-4d55-98ac-c0bb8a5d7d59@dba7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20241129T170000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241129T144500Z
+SUMMARY:Pracownia programowania III (ćwiczenia)
+UID:a75916eb-61b9-4098-a07a-ba8a5113ee07@a759.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Widlak
+DTEND:20241124T151500Z
+LOCATION:link do zajęć
+DTSTART:20241124T130000Z
+SUMMARY:Systemy operacyjne (wykład)
+UID:a98c647a-5d17-4850-a3fb-f071bc685d22@a98c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Widlak
+DTEND:20241012T151500Z
+LOCATION:link do zajęć
+DTSTART:20241012T130000Z
+SUMMARY:Systemy operacyjne (wykład)
+UID:195a0ce8-eb6d-4cd6-a262-0849a1f88147@195a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20241207T194500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241207T173000Z
+SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
+UID:200207e6-3a0c-43db-bdcb-84a50b24869c@2002.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20241208T100000Z
+LOCATION:link do zajęć
+DTSTART:20241208T074500Z
+SUMMARY:Wprowadzenie do baz danych (wykład)
+UID:522c0164-8253-4936-ac32-a463658712cd@522c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20241027T151500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241027T130000Z
+SUMMARY:Pracownia programowania III (ćwiczenia)
+UID:e5f62d89-2c92-4813-bd49-59dee3b41c27@e5f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20241214T161500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241214T140000Z
+SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
+UID:02395e7d-705f-4788-b791-5e7a69d1478f@0239.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Żuwała
+DTEND:20250119T091500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20250119T070000Z
+SUMMARY:Pracownia programowania III (ćwiczenia)
+UID:0ebcf1e5-8ee4-4834-88f5-7c048f5dbbcd@0ebc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20241012T114500Z
+LOCATION:link do zajęć
+DTSTART:20241012T093000Z
+SUMMARY:E-business (wykład)
+UID:f09500d3-ac2e-4ce5-8f1e-02c3201b6606@f095.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Kornafel
+DTEND:20241013T090000Z
+LOCATION:link do zajęć
+DTSTART:20241013T064500Z
+SUMMARY:Metody numeryczne (wykład)
+UID:d67f7917-ac1f-4293-b1d3-a24b3afbf8fe@d67f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
+DTEND:20241215T114500Z
+LOCATION:link do zajęć
+DTSTART:20241215T093000Z
+SUMMARY:Ekonomika i finanse przedsiębiorstw (wykład)
+UID:fe7b0944-7173-4a15-96a8-e24f5f5efc29@fe7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20250126T143000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250126T121500Z
+SUMMARY:Wprowadzenie do baz danych (ćwiczenia)
+UID:866b121b-b3ce-445e-bd13-c0a343086e87@866b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Widlak
+DTEND:20241117T180000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241117T154500Z
+SUMMARY:Systemy operacyjne (ćwiczenia)
+UID:0f933cba-b3fc-4c8e-a749-c99477c32024@0f93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20241124T100000Z
+LOCATION:link do zajęć
+DTSTART:20241124T074500Z
+SUMMARY:Wprowadzenie do baz danych (wykład)
+UID:5d787563-f164-4c05-86ba-75c92e24eee3@5d78.org
+END:VEVENT
+END:VCALENDAR

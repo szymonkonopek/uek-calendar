@@ -1,0 +1,946 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241107T171500Z
+LOCATION:Paw.F 516
+DTSTART:20241107T154500Z
+SUMMARY:Substancje dodatkowe w rozwoju produktu żywnościowego (wykład do wyboru)
+UID:6e3fb839-3711-4f34-b045-b71b220ac93b@6e3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20241205T153000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241205T140000Z
+SUMMARY:Merchandising (ćwiczenia)
+UID:c18aba5b-b1b7-428c-8976-a67d0c402e05@c18a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20241025T073000Z
+LOCATION:Paw.A 301b
+DTSTART:20241025T060000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:2acc4cc6-d34b-4b69-a2fc-aee8b65ff476@2acc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jarosław Świda
+DTEND:20241021T143000Z
+LOCATION:Paw.G  9
+DTSTART:20241021T130000Z
+SUMMARY:Podstawy logistyki (wykład)
+UID:dc829a6e-64ea-49d8-afb5-b430be1d0607@dc82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241220T120000Z
+LOCATION:Bud.gł. 3
+DTSTART:20241220T103000Z
+SUMMARY:Rozpatrywanie reklamacji konsumenckich (wykład do wyboru)
+UID:923808e7-debd-4caf-97ad-97861f9c7912@9238.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek  prof. UEK dr hab. Andrzej Zyguła
+DTEND:20250108T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250108T154500Z
+SUMMARY:Wprowadzenie do Wordpressa (wykład do wyboru)
+UID:07b2011c-85e9-45e4-8368-d1d8c15112ed@07b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Cholewa-Wójcik
+DTEND:20241021T110000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241021T093000Z
+SUMMARY:Przechowalnictwo (laboratorium)
+UID:5ebef925-f7de-4220-a4c4-a83dd60a2daa@5ebe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20241024T143000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241024T130000Z
+SUMMARY:Merchandising (ćwiczenia)
+UID:ad2f4a28-1101-4514-bda2-ca26fb3384bf@ad2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek  prof. UEK dr hab. Andrzej Zyguła
+DTEND:20250115T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250115T154500Z
+SUMMARY:Wprowadzenie do Wordpressa (wykład do wyboru)
+UID:49565917-1d27-45c1-a7a0-b0953f5ef02c@4956.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Cholewa-Wójcik
+DTEND:20241118T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241118T084500Z
+SUMMARY:Przechowalnictwo (wykład)
+UID:a0df448e-0e37-46ed-a228-d2e86e7e0d51@a0df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20241108T083000Z
+LOCATION:Paw.A 301b
+DTSTART:20241108T070000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:cfdda9a9-505e-4329-8684-7ffed9b7af1c@cfdd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Inga Mizdrak
+DTEND:20241210T120000Z
+LOCATION:Paw.F 516
+DTSTART:20241210T103000Z
+SUMMARY:Etyka biznesu (wykład)
+UID:21dd589a-b112-4a28-981c-ed7677edda52@21dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Cholewa-Wójcik
+DTEND:20241202T120000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241202T103000Z
+SUMMARY:Przechowalnictwo (laboratorium)
+UID:ddb3f2e9-116a-4741-b020-fd07394e31f2@ddb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jarosław Świda
+DTEND:20241118T153000Z
+LOCATION:Paw.U sala K
+DTSTART:20241118T140000Z
+SUMMARY:Podstawy logistyki (wykład)
+UID:29a261d2-7544-4ed4-9a6a-91d69216c926@29a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241018T114500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241018T093000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:5df2c75e-60b7-4728-8d9a-899bd92985ed@5df2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20241122T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241122T084500Z
+SUMMARY:Biologiczne metody kontroli jakości środowiska (wykład do wyboru)
+UID:58854595-5e41-48e8-b5de-9620f372fdf9@5885.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241011T114500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241011T093000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:a939e739-d5aa-4743-bbfd-e77082283af9@a939.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20241220T083000Z
+LOCATION:Paw.A 301b
+DTSTART:20241220T070000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:f0c5474a-e729-44db-8e8d-8ae42acbaad4@f0c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek  prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241120T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241120T154500Z
+SUMMARY:Wprowadzenie do Wordpressa (wykład do wyboru)
+UID:9ce347e6-6495-4d50-b0b2-7b22da3e8468@9ce3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20250116T171500Z
+LOCATION:Paw.F 516
+DTSTART:20250116T154500Z
+SUMMARY:Substancje dodatkowe w rozwoju produktu żywnościowego (wykład do wyboru)
+UID:22ea1187-b5d7-41c3-80c8-dcce7205fc0a@22ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241004T114500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241004T093000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:5fe7677c-8111-44ff-8a1e-fe206d306d28@5fe7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20241007T124500Z
+LOCATION:Bud.gł. 2
+DTSTART:20241007T111500Z
+SUMMARY:Merchandising (wykład)
+UID:4694d08f-1a12-4abe-8fec-3e65d90d1c4a@4694.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Inga Mizdrak
+DTEND:20241112T134500Z
+LOCATION:Paw.F 104
+DTSTART:20241112T121500Z
+SUMMARY:Etyka biznesu (wykład)
+UID:a32cb008-5694-4edd-98b4-e9ecad9ffbb2@a32c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek  prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241204T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241204T154500Z
+SUMMARY:Wprowadzenie do Wordpressa (wykład do wyboru)
+UID:c9025286-781b-4c29-9b7e-84df9b511553@c902.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20250124T134500Z
+LOCATION:Bud.gł. 8
+DTSTART:20250124T121500Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:1beaf9b0-ae69-4abe-a023-51dd79a43742@1bea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20250124T083000Z
+LOCATION:Paw.A 301b
+DTSTART:20250124T070000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:b7bf58b5-cca3-4f32-896c-52afdae71e22@b7bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Cholewa-Wójcik
+DTEND:20241216T120000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241216T103000Z
+SUMMARY:Przechowalnictwo (laboratorium)
+UID:3420f065-56ed-410a-8968-7062def45cac@3420.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20241122T083000Z
+LOCATION:Paw.A 301b
+DTSTART:20241122T070000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:adff5cca-543a-4214-b7f9-5b8631f5fffe@adff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241025T114500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241025T093000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:db444dc8-1aeb-4a25-86fb-533b189c9909@db44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek  prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241218T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241218T154500Z
+SUMMARY:Wprowadzenie do Wordpressa (wykład do wyboru)
+UID:5d069f46-7a51-49b0-b77d-ead5f4eaa909@5d06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241128T171500Z
+LOCATION:Paw.F 516
+DTSTART:20241128T154500Z
+SUMMARY:Substancje dodatkowe w rozwoju produktu żywnościowego (wykład do wyboru)
+UID:98f60167-79e1-43b7-8096-755a715a31df@98f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20241206T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241206T084500Z
+SUMMARY:Biologiczne metody kontroli jakości środowiska (wykład do wyboru)
+UID:6ebbb19c-a02e-4702-8dae-46e6aa4c4d93@6ebb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:91d5c2dd-5b7c-42b0-a1fc-0721e9a73737@91d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20241118T134500Z
+LOCATION:Bud.gł. 2
+DTSTART:20241118T121500Z
+SUMMARY:Merchandising (wykład)
+UID:fe53ca5b-2623-4f6b-afa7-e7ab61f9b371@fe53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Cholewa-Wójcik
+DTEND:20250120T111500Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20250120T103000Z
+SUMMARY:Przechowalnictwo (laboratorium)
+UID:7507eb25-fed2-4606-89d0-fd705ab0f11d@7507.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241213T120000Z
+LOCATION:Bud.gł. 3
+DTSTART:20241213T103000Z
+SUMMARY:Rozpatrywanie reklamacji konsumenckich (wykład do wyboru)
+UID:00467b11-c3eb-4ba0-b262-78e919c2bb52@0046.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241114T171500Z
+LOCATION:Paw.F 516
+DTSTART:20241114T154500Z
+SUMMARY:Substancje dodatkowe w rozwoju produktu żywnościowego (wykład do wyboru)
+UID:d0469039-85b3-4013-bd00-c269ed1506a9@d046.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20241115T083000Z
+LOCATION:Paw.A 301b
+DTSTART:20241115T070000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:15c8d4fa-bf98-43b1-bebf-7fcac5aff605@15c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Cholewa-Wójcik
+DTEND:20250113T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250113T084500Z
+SUMMARY:Przechowalnictwo (wykład)
+UID:fa688fac-a86a-4616-90de-7fe61847ea49@fa68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20241121T153000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241121T140000Z
+SUMMARY:Merchandising (ćwiczenia)
+UID:2d1c87d9-dbac-4ea6-95e1-3b337e2a15d2@2d1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Inga Mizdrak
+DTEND:20241126T134500Z
+LOCATION:Paw.F 104
+DTSTART:20241126T121500Z
+SUMMARY:Etyka biznesu (wykład)
+UID:d5f7fc99-ac46-466c-bbf2-9fae7328e6e2@d5f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241003T161500Z
+LOCATION:Paw.F 516
+DTSTART:20241003T144500Z
+SUMMARY:Substancje dodatkowe w rozwoju produktu żywnościowego (wykład do wyboru)
+UID:356a46a0-3241-4fe2-a432-f5c56529c40b@356a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20250124T111500Z
+LOCATION:Paw.G  8
+DTSTART:20250124T103000Z
+SUMMARY:Biologiczne metody kontroli jakości środowiska (wykład do wyboru)
+UID:b378f735-3fde-4fa6-ae99-05ab656400d4@b378.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek  prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241211T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241211T154500Z
+SUMMARY:Wprowadzenie do Wordpressa (wykład do wyboru)
+UID:0d31b980-4c1c-4363-ad5d-de5d0ccbba91@0d31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20250123T171500Z
+LOCATION:Paw.F 516
+DTSTART:20250123T154500Z
+SUMMARY:Substancje dodatkowe w rozwoju produktu żywnościowego (wykład do wyboru)
+UID:253a81c6-3ce2-4024-bd3a-a42e833206ab@253a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20241219T153000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241219T140000Z
+SUMMARY:Merchandising (ćwiczenia)
+UID:973d6e8e-4f33-473c-a4bd-8aff76e87600@973d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20250116T153000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250116T140000Z
+SUMMARY:Merchandising (ćwiczenia)
+UID:62264af3-cda2-45ce-b264-55c43cfd8bc0@6226.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Inga Mizdrak
+DTEND:20241001T124500Z
+LOCATION:Paw.F 104
+DTSTART:20241001T111500Z
+SUMMARY:Etyka biznesu (wykład)
+UID:623d2d6e-02e7-4153-80c2-23d7a91134d7@623d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Inga Mizdrak
+DTEND:20241210T134500Z
+LOCATION:Paw.F 104
+DTSTART:20241210T121500Z
+SUMMARY:Etyka biznesu (wykład)
+UID:13b7b630-8f38-4b06-85a9-85248cddb1e3@13b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20241206T083000Z
+LOCATION:Paw.A 301b
+DTSTART:20241206T070000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:cde751f1-5914-4a6b-86b6-55942771826c@cde7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250113T144500Z
+LOCATION:Bud.gł. 2
+DTSTART:20250113T140000Z
+SUMMARY:Merchandising (wykład)
+UID:d22a0c35-95e9-4088-b13d-b62eee4aab49@d22a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20241025T091500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241025T074500Z
+SUMMARY:Biologiczne metody kontroli jakości środowiska (wykład do wyboru)
+UID:d3ed23a8-9c13-460f-a699-6a472840ec6f@d3ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20250110T083000Z
+LOCATION:Paw.A 301b
+DTSTART:20250110T070000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:6d5a8d6d-4c8b-4dfc-9225-a215a3cac4e6@6d5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241114T190000Z
+LOCATION:Paw.F 516
+DTSTART:20241114T173000Z
+SUMMARY:Substancje dodatkowe w rozwoju produktu żywnościowego (wykład do wyboru)
+UID:7a3187ad-5a40-47b2-854e-15e336acf932@7a31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20241104T134500Z
+LOCATION:Bud.gł. 2
+DTSTART:20241104T121500Z
+SUMMARY:Merchandising (wykład)
+UID:cb51788f-abfe-4ebf-8d1b-c2803213b41d@cb51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Cholewa-Wójcik
+DTEND:20241007T091500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241007T074500Z
+SUMMARY:Przechowalnictwo (wykład)
+UID:96a0f8e9-ff96-4664-8656-74fee5256538@96a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek  prof. UEK dr hab. Andrzej Zyguła
+DTEND:20250122T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250122T154500Z
+SUMMARY:Wprowadzenie do Wordpressa (wykład do wyboru)
+UID:d5463bd9-0812-47f6-9a13-0e3fb648df19@d546.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek  prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241113T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241113T154500Z
+SUMMARY:Wprowadzenie do Wordpressa (wykład do wyboru)
+UID:0024d9c8-941b-4301-aa0e-a2248ba6b801@0024.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Cholewa-Wójcik
+DTEND:20241104T120000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241104T103000Z
+SUMMARY:Przechowalnictwo (laboratorium)
+UID:e15321a9-2a80-4d7b-9353-279c1bd4aa64@e153.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Cholewa-Wójcik
+DTEND:20241021T091500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241021T074500Z
+SUMMARY:Przechowalnictwo (wykład)
+UID:fb07afcd-60ea-4d8c-ad45-6c3489c1a630@fb07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jarosław Świda
+DTEND:20241004T091500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241004T074500Z
+SUMMARY:Podstawy logistyki (wykład)
+UID:c15b7ac1-e4c0-4707-8994-0b3fa1e88cb2@c15b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Inga Mizdrak
+DTEND:20241204T124500Z
+LOCATION:Paw.F 516
+DTSTART:20241204T103000Z
+SUMMARY:Etyka biznesu (wykład)
+UID:bcdc33c6-b2ba-4962-9bff-7063ca35428a@bcdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20241021T124500Z
+LOCATION:Bud.gł. 2
+DTSTART:20241021T111500Z
+SUMMARY:Merchandising (wykład)
+UID:bf647166-62b8-430e-8709-b0b3423a6d6d@bf64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241115T120000Z
+LOCATION:Bud.gł. 3
+DTSTART:20241115T103000Z
+SUMMARY:Rozpatrywanie reklamacji konsumenckich (wykład do wyboru)
+UID:5ed5b0af-0c1f-4eaa-aa58-a762f657e40e@5ed5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241206T120000Z
+LOCATION:Bud.gł. 3
+DTSTART:20241206T103000Z
+SUMMARY:Rozpatrywanie reklamacji konsumenckich (wykład do wyboru)
+UID:bf8267ef-7f7b-4390-8e10-da6b7054cab5@bf82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek  prof. UEK dr hab. Andrzej Zyguła
+DTEND:20250123T190000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250123T173000Z
+SUMMARY:Wprowadzenie do Wordpressa (wykład do wyboru)
+UID:cf80f62d-6e21-4ac3-8ec7-c27efcde621e@cf80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241108T124500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241108T103000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:584cdee8-cd3e-44f1-91e0-56d75d449267@584c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20250109T171500Z
+LOCATION:Paw.F 516
+DTSTART:20250109T154500Z
+SUMMARY:Substancje dodatkowe w rozwoju produktu żywnościowego (wykład do wyboru)
+UID:e07869d0-c980-49c0-b66e-6a890f028cab@e078.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Cholewa-Wójcik
+DTEND:20250113T120000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20250113T103000Z
+SUMMARY:Przechowalnictwo (laboratorium)
+UID:b4d0c73d-a8c3-4fb0-a7ae-0f7e5778e2e1@b4d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Cholewa-Wójcik
+DTEND:20241216T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241216T084500Z
+SUMMARY:Przechowalnictwo (wykład)
+UID:b9254e15-6250-4968-bb1e-845a710a8d69@b925.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241024T161500Z
+LOCATION:Paw.F 516
+DTSTART:20241024T144500Z
+SUMMARY:Substancje dodatkowe w rozwoju produktu żywnościowego (wykład do wyboru)
+UID:d31e75a5-f41f-4f62-aec2-71cb656eb364@d31e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20250117T111500Z
+LOCATION:Bud.gł. 3
+DTSTART:20250117T103000Z
+SUMMARY:Rozpatrywanie reklamacji konsumenckich (wykład do wyboru)
+UID:6776da8d-c048-430c-b7d7-f71cf7067a87@6776.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241219T171500Z
+LOCATION:Paw.F 516
+DTSTART:20241219T154500Z
+SUMMARY:Substancje dodatkowe w rozwoju produktu żywnościowego (wykład do wyboru)
+UID:ce98ff73-0738-4b9f-adde-37e87e18024d@ce98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241122T120000Z
+LOCATION:Bud.gł. 3
+DTSTART:20241122T103000Z
+SUMMARY:Rozpatrywanie reklamacji konsumenckich (wykład do wyboru)
+UID:ec98a996-a8c2-4bd5-8a1c-0fa22bdca4a7@ec98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241202T171500Z
+LOCATION:Paw.G 10
+DTSTART:20241202T154500Z
+SUMMARY:Konsument na rynku (wykład do wyboru)
+UID:1137e59f-7840-46a5-9487-7253b7300ba8@1137.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jarosław Świda
+DTEND:20241018T091500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241018T074500Z
+SUMMARY:Podstawy logistyki (wykład)
+UID:fb8765e6-074e-4a59-a835-1c6664b6f1c9@fb87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Cholewa-Wójcik
+DTEND:20241007T110000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241007T093000Z
+SUMMARY:Przechowalnictwo (laboratorium)
+UID:c753ffca-4078-4cc7-b126-21d89562518a@c753.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Cholewa-Wójcik
+DTEND:20241104T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241104T084500Z
+SUMMARY:Przechowalnictwo (wykład)
+UID:7ddaab05-bb4b-4574-ac16-3c51b492fc5b@7dda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20241011T073000Z
+LOCATION:Paw.A 301b
+DTSTART:20241011T060000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:849b4c6a-ebb4-47b8-9dfc-9cccbbe66f41@849b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Cholewa-Wójcik
+DTEND:20241118T120000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241118T103000Z
+SUMMARY:Przechowalnictwo (laboratorium)
+UID:978a76ed-46a7-49e5-ad51-9422edccd16d@978a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20241202T134500Z
+LOCATION:Bud.gł. 2
+DTSTART:20241202T121500Z
+SUMMARY:Merchandising (wykład)
+UID:65368230-0166-4599-ac84-802794044f13@6536.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek  prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241009T161500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241009T144500Z
+SUMMARY:Wprowadzenie do Wordpressa (wykład do wyboru)
+UID:4a810fd5-54a9-40db-8043-132eb7e07f17@4a81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20250117T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250117T084500Z
+SUMMARY:Biologiczne metody kontroli jakości środowiska (wykład do wyboru)
+UID:7f9a75bf-390d-43ae-b378-82727bb586b5@7f9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Cholewa-Wójcik
+DTEND:20241202T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241202T084500Z
+SUMMARY:Przechowalnictwo (wykład)
+UID:06420d93-5fbb-4595-8256-08cae62b7ac2@0642.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek  prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241030T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241030T154500Z
+SUMMARY:Wprowadzenie do Wordpressa (wykład do wyboru)
+UID:4c12644a-d5eb-4817-9e21-cd3cc8f6f43e@4c12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek  prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241127T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241127T154500Z
+SUMMARY:Wprowadzenie do Wordpressa (wykład do wyboru)
+UID:478cab32-6c9b-4a08-b946-5f461ee7a0b8@478c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241007T161500Z
+LOCATION:Paw.G 10
+DTSTART:20241007T144500Z
+SUMMARY:Konsument na rynku (wykład do wyboru)
+UID:f5ea5360-80e5-4298-992b-934a2d564db4@f5ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20241018T073000Z
+LOCATION:Paw.A 301b
+DTSTART:20241018T060000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:22413f3a-1fbc-47a1-a857-16a868e2dc10@2241.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20250110T120000Z
+LOCATION:Bud.gł. 3
+DTSTART:20250110T103000Z
+SUMMARY:Rozpatrywanie reklamacji konsumenckich (wykład do wyboru)
+UID:0ad30137-b577-4d00-b04e-5598a272b89f@0ad3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jarosław Świda
+DTEND:20241129T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241129T084500Z
+SUMMARY:Podstawy logistyki (wykład)
+UID:fb44ae59-97b4-4c49-a57e-e2ebd971064b@fb44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241129T120000Z
+LOCATION:Bud.gł. 3
+DTSTART:20241129T103000Z
+SUMMARY:Rozpatrywanie reklamacji konsumenckich (wykład do wyboru)
+UID:bd21813f-938a-4781-bf6e-fab9130de38c@bd21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek  prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241106T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241106T154500Z
+SUMMARY:Wprowadzenie do Wordpressa (wykład do wyboru)
+UID:0354c22b-e3e6-4c43-8ada-bb50a36baa76@0354.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20241107T153000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241107T140000Z
+SUMMARY:Merchandising (ćwiczenia)
+UID:48861b07-95cf-43ca-b3bd-800445932a6f@4886.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250113T134500Z
+LOCATION:Bud.gł. 2
+DTSTART:20250113T121500Z
+SUMMARY:Merchandising (wykład)
+UID:d0bf3d83-a298-42b1-a8e8-47a5b74a3cd1@d0bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20241129T083000Z
+LOCATION:Paw.A 301b
+DTSTART:20241129T070000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:1c0fcb31-ee5c-4186-8a89-7a4f415865f3@1c0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek  prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241023T161500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241023T144500Z
+SUMMARY:Wprowadzenie do Wordpressa (wykład do wyboru)
+UID:6585bf8e-1112-486d-ab64-0ad122888a3a@6585.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20250123T134500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250123T130000Z
+SUMMARY:Merchandising (ćwiczenia)
+UID:24185409-33b4-4eb5-8a63-88b863997314@2418.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20241010T143000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241010T130000Z
+SUMMARY:Merchandising (ćwiczenia)
+UID:7f19e455-922f-4a34-978b-167f7eddccc8@7f19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20241220T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241220T084500Z
+SUMMARY:Biologiczne metody kontroli jakości środowiska (wykład do wyboru)
+UID:ec9bd070-3053-4a93-9ddb-de3fffc85028@ec9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241031T171500Z
+LOCATION:Paw.F 516
+DTSTART:20241031T154500Z
+SUMMARY:Substancje dodatkowe w rozwoju produktu żywnościowego (wykład do wyboru)
+UID:f423c8f5-c090-4b2d-b9f6-07615d96faef@f423.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20241004T073000Z
+LOCATION:Paw.A 301b
+DTSTART:20241004T060000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:9fda9c6e-43fa-4555-a8de-92856996225f@9fda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241024T180000Z
+LOCATION:Paw.F 516
+DTSTART:20241024T163000Z
+SUMMARY:Substancje dodatkowe w rozwoju produktu żywnościowego (wykład do wyboru)
+UID:86123104-58bb-446e-88d8-809f600d51b5@8612.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jarosław Świda
+DTEND:20241216T161500Z
+LOCATION:Paw.G 10
+DTSTART:20241216T140000Z
+SUMMARY:Podstawy logistyki (wykład)
+UID:9366c680-8986-4ce8-8c53-4d5cb0078d2e@9366.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20241216T134500Z
+LOCATION:Bud.gł. 2
+DTSTART:20241216T121500Z
+SUMMARY:Merchandising (wykład)
+UID:e6b9484b-a83c-4881-a95f-3084dcb4975e@e6b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20250117T083000Z
+LOCATION:Paw.A 301b
+DTSTART:20250117T070000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:10654a83-8f94-4ce7-be28-11ad359b7827@1065.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:180a31b9-570d-458b-88cb-9a234419c55c@180a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Inga Mizdrak
+DTEND:20250107T134500Z
+LOCATION:Paw.F 104
+DTSTART:20250107T121500Z
+SUMMARY:Etyka biznesu (wykład)
+UID:b21af38b-56e9-4b16-9f69-59376aea7a93@b21a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20241213T083000Z
+LOCATION:Paw.A 301b
+DTSTART:20241213T070000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:9726c131-1eeb-4e94-b41b-e2aced894a42@9726.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek  prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241016T161500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241016T144500Z
+SUMMARY:Wprowadzenie do Wordpressa (wykład do wyboru)
+UID:14739705-ccd3-498a-bc35-5bf221370fb7@1473.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241220T190000Z
+LOCATION:Platforma Moodle
+DTSTART:20241220T121500Z
+SUMMARY:Konsument na rynku (wykład e-learningowy)
+UID:8ed7bc3d-5850-4aa6-80ee-0789dc6c6806@8ed7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20241108T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241108T084500Z
+SUMMARY:Biologiczne metody kontroli jakości środowiska (wykład do wyboru)
+UID:750f1453-699e-4c60-9d72-18a6ad74fde5@750f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Cholewa-Wójcik
+DTEND:20250120T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250120T093000Z
+SUMMARY:Przechowalnictwo (wykład)
+UID:8b96f084-9164-481d-ba67-1b35200239d5@8b96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241212T171500Z
+LOCATION:Paw.F 516
+DTSTART:20241212T154500Z
+SUMMARY:Substancje dodatkowe w rozwoju produktu żywnościowego (wykład do wyboru)
+UID:d4962643-cfd5-48dc-91cb-97f07a7c6d7b@d496.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241121T171500Z
+LOCATION:Paw.F 516
+DTSTART:20241121T154500Z
+SUMMARY:Substancje dodatkowe w rozwoju produktu żywnościowego (wykład do wyboru)
+UID:555d9a7d-50b7-40e9-a386-717254adf178@555d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20241011T091500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241011T074500Z
+SUMMARY:Biologiczne metody kontroli jakości środowiska (wykład do wyboru)
+UID:dec61f82-34fd-4cff-ab2e-04518138006d@dec6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jarosław Świda
+DTEND:20241115T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241115T084500Z
+SUMMARY:Podstawy logistyki (wykład)
+UID:4732b34e-3046-4ea8-beaf-51a93a1cab94@4732.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241104T171500Z
+LOCATION:Paw.G 10
+DTSTART:20241104T154500Z
+SUMMARY:Konsument na rynku (wykład do wyboru)
+UID:b692178f-48b7-4b2b-a953-692c37586051@b692.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241205T171500Z
+LOCATION:Paw.F 516
+DTSTART:20241205T154500Z
+SUMMARY:Substancje dodatkowe w rozwoju produktu żywnościowego (wykład do wyboru)
+UID:6fdebfed-f6a5-4920-8226-5c0272bb619d@6fde.org
+END:VEVENT
+END:VCALENDAR

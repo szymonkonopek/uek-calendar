@@ -1,0 +1,212 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ryszard Kołodziej
+DTEND:20250314T191500Z
+LOCATION:Paw.G 11
+DTSTART:20250314T144500Z
+SUMMARY:Wprowadzenie do zwinnego i ekstremalnego zarządzania projektami (Studia podyplomowe)
+UID:0f5c1c50-9a6c-4f6c-9ee2-3e66662fbc8e@0f5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20241012T111500Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20241012T064500Z
+SUMMARY:Podstawy zarządzania (Studia podyplomowe)
+UID:955f44a7-4882-4336-b923-4118acc99d78@955f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20250215T134500Z
+LOCATION:Paw.G 11
+DTSTART:20250215T130000Z
+SUMMARY:Egzamin semestralny (Studia podyplomowe)
+UID:742b2362-845e-4b40-892b-0725120ac414@742b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20250607T124500Z
+LOCATION:Paw.G  7
+DTSTART:20250607T120000Z
+SUMMARY:Egzamin semestralny (Studia podyplomowe)
+UID:8bcbcdca-75c7-4db4-8a58-955dde599695@8bcb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20250301T121500Z
+LOCATION:Paw.G 11
+DTSTART:20250301T074500Z
+SUMMARY:Opłacalność inwestycji w zarządzaniu projektami (Studia podyplomowe)
+UID:8575ee53-d7b8-40f0-bafc-684d945e48d0@8575.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kołodziej
+DTEND:20241213T191500Z
+LOCATION:Paw.G 11
+DTSTART:20241213T144500Z
+SUMMARY:Zarządzanie ryzykiem w projekcie (Studia podyplomowe)
+UID:a0f68d46-bcec-4cb0-ac2b-0135db1d1f87@a0f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kołodziej
+DTEND:20241116T121500Z
+LOCATION:Paw.G 12
+DTSTART:20241116T074500Z
+SUMMARY:Jakość w zarządzaniu projektami (Studia podyplomowe)
+UID:796edd07-e0ef-4e50-a63d-ae95fda79cb1@796e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Magdalena Stusińska-Krywalska
+DTEND:20250131T191500Z
+LOCATION:Paw.G 11
+DTSTART:20250131T144500Z
+SUMMARY:Audyt w realizacji działalności projektowej (Studia podyplomowe)
+UID:f3de4e08-112a-40bb-bfa9-69bef6487dde@f3de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Miś
+DTEND:20250117T191500Z
+LOCATION:Paw.G 11
+DTSTART:20250117T144500Z
+SUMMARY:Prawne zagadnienia zarządzania projektami (Studia podyplomowe)
+UID:cfca773d-6b4b-4046-b65c-f56210c097f3@cfca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Beata Buchelt
+DTEND:20250328T191500Z
+LOCATION:Paw.G  7
+DTSTART:20250328T144500Z
+SUMMARY:Tworzenie zespołów projektowych (Studia podyplomowe)
+UID:f0d91179-4344-4f53-b801-9e37dac71170@f0d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Kafel
+DTEND:20250606T181500Z
+LOCATION:Paw.G  7
+DTSTART:20250606T134500Z
+SUMMARY:Zarządzanie strategiczne (Studia podyplomowe)
+UID:fc77a1d0-df08-4f70-8680-a10800ce159c@fc77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ryszard Kołodziej
+DTEND:20241130T121500Z
+LOCATION:Paw.G 11
+DTSTART:20241130T074500Z
+SUMMARY:Rozwiązywanie konfliktów w grupie (Studia podyplomowe)
+UID:c78e6db7-b1c2-43d3-9b91-cd7ad5416cdb@c78e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ryszard Kołodziej
+DTEND:20241129T191500Z
+LOCATION:Paw.G 11
+DTSTART:20241129T144500Z
+SUMMARY:Podstawy komunikowania się i negocjacji w pracy projektowej (Studia podyplomowe)
+UID:dd5619c5-0573-4bd8-8333-8fd32fd329fc@dd56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20250607T111500Z
+LOCATION:Paw.G  7
+DTSTART:20250607T064500Z
+SUMMARY:Zarządzanie międzynarodowe (Studia podyplomowe)
+UID:1300192b-0f1f-4e89-978c-50f57818ea24@1300.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20250215T121500Z
+LOCATION:Paw.G 11
+DTSTART:20250215T074500Z
+SUMMARY:Zarządzanie zmianą (Studia podyplomowe)
+UID:8d281935-9c3c-49e9-9c71-77af8f2c83a5@8d28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Beata Buchelt
+DTEND:20250329T121500Z
+LOCATION:Paw.G  7
+DTSTART:20250329T074500Z
+SUMMARY:Motywowanie zespołów projektowych (Studia podyplomowe)
+UID:da2db7df-3391-4de0-923e-922c2d7fa882@da2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Dołhasz
+DTEND:20241115T191500Z
+LOCATION:Paw.G 12
+DTSTART:20241115T144500Z
+SUMMARY:Zarządzanie marketingowe (Studia podyplomowe)
+UID:653b2ac9-6086-4cef-b502-f78f293830d6@653b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Peszko
+DTEND:20250411T181500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250411T134500Z
+SUMMARY:Wspomaganie informatyczne w realizacji projektów (Studia podyplomowe)
+UID:f01e1c29-a30b-4a20-bdf9-df85724894d3@f01e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Angelika Wodecka-Hyjek
+DTEND:20250118T121500Z
+LOCATION:Paw.G 11
+DTSTART:20250118T074500Z
+SUMMARY:Techniki twórczego myślenia (Studia podyplomowe)
+UID:7e4f7fea-7be2-4db8-8a78-999eda330f85@7e4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ryszard Kołodziej
+DTEND:20250315T121500Z
+LOCATION:Paw.G 11
+DTSTART:20250315T074500Z
+SUMMARY:Wprowadzenie do zwinnego i ekstremalnego zarządzania projektami (Studia podyplomowe)
+UID:2203fe70-6d9c-4bc2-adfa-f77cf64fba07@2203.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Peszko
+DTEND:20241025T181500Z
+LOCATION:Paw.G - 2
+DTSTART:20241025T134500Z
+SUMMARY:Wprowadzenie do zarządzania projektami (Studia podyplomowe)
+UID:cfefda13-9a0a-47c3-bf9f-b46e6719b7f0@cfef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Peszko
+DTEND:20250412T111500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250412T064500Z
+SUMMARY:Wspomaganie informatyczne w realizacji projektów (Studia podyplomowe)
+UID:86d872f1-5993-4e85-a814-f51769d930e7@86d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Schmidt
+DTEND:20241026T111500Z
+LOCATION:Paw.G - 2
+DTSTART:20241026T064500Z
+SUMMARY:Metodyki zarządzania projektami (Studia podyplomowe)
+UID:53392df9-b7fb-4538-b458-84b85e997b89@5339.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20250228T191500Z
+LOCATION:Paw.G 11
+DTSTART:20250228T144500Z
+SUMMARY:Controlling realizacji projektów (Studia podyplomowe)
+UID:06b6be16-5eb9-4324-aedf-cce7283d4b38@06b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kołodziej
+DTEND:20241214T121500Z
+LOCATION:Paw.G 11
+DTSTART:20241214T074500Z
+SUMMARY:Zarządzanie ryzykiem w projekcie (Studia podyplomowe)
+UID:6aa031d5-7c15-4245-86f8-7258b41b5be6@6aa0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20250214T191500Z
+LOCATION:Paw.G 11
+DTSTART:20250214T144500Z
+SUMMARY:Budżetowanie i rachunkowość projektów (Studia podyplomowe)
+UID:85ffd74a-f969-4303-8643-f9cb5a9d4e4d@85ff.org
+END:VEVENT
+END:VCALENDAR

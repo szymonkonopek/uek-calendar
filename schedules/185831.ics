@@ -1,0 +1,1234 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marek Ćwiklicki
+DTEND:20241108T120000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241108T103000Z
+SUMMARY:Quality Management in International Business (ćwiczenia)
+UID:6bc5f19a-912e-420f-8344-a491d6caa670@6bc5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Żur
+DTEND:20241114T101500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241114T084500Z
+SUMMARY:Contemporary Management Concepts (wykład)
+UID:67f13636-6803-4031-946d-e182aea1cce1@67f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20241030T083000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241030T070000Z
+SUMMARY:Economic Growth and Convergence (wykład do wyboru)
+UID:40dabb9e-2d01-4816-9ed4-8d9074eb0f99@40da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241029T171500Z
+LOCATION:Paw.S sala 4
+DTSTART:20241029T154500Z
+SUMMARY:Industrial Policy and Global Competition (wykład)
+UID:f2c58a04-4aa1-492d-aace-66663bbc2105@f2c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20241008T073000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241008T060000Z
+SUMMARY:American Foreign Policy (wykład do wyboru)
+UID:3397a722-df75-406c-9f34-18c7b248696c@3397.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Głodowska
+DTEND:20241107T120000Z
+LOCATION:Paw.G - 2
+DTSTART:20241107T103000Z
+SUMMARY:Risk and Insurance in International Business (ćwiczenia)
+UID:e740bcd8-3c34-4292-a7aa-abe9abe496b1@e740.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Polan
+DTEND:20241216T083000Z
+LOCATION:Paw.F 107
+DTSTART:20241216T070000Z
+SUMMARY:International Trade Simulation (konwersatorium)
+UID:df61cd40-c4e3-47cc-8e99-6451ccd60c52@df61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Głodowska
+DTEND:20241104T083000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241104T070000Z
+SUMMARY:Risk and Insurance in International Business (wykład)
+UID:2d3f445b-25f4-4553-84a1-5484b522b804@2d3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Wajda-Lichy
+DTEND:20241218T101500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241218T084500Z
+SUMMARY:Extra-European Economies (wykład)
+UID:adc74a1b-c7f5-4340-a969-90253c392e01@adc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20241029T083000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241029T070000Z
+SUMMARY:American Foreign Policy (wykład do wyboru)
+UID:86ebbf1d-26c5-488a-8320-02f2094edc4d@86eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20241205T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241205T140000Z
+SUMMARY:Sociology of International Relations (wykład do wyboru)
+UID:1c3c066b-3ad2-479a-8111-f726dd1eb2e3@1c3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marek Ćwiklicki
+DTEND:20241004T110000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241004T093000Z
+SUMMARY:Quality Management in International Business (ćwiczenia)
+UID:0329140c-c39b-488d-a3fa-b48b102714ee@0329.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
+DTEND:20241210T134500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241210T121500Z
+SUMMARY:Managerial Accounting (ćwiczenia)
+UID:03392761-3f04-4b7e-a4e5-6cf0d00ba212@0339.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20241003T143000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241003T130000Z
+SUMMARY:Sociology of International Relations (wykład do wyboru)
+UID:d8c96b4b-c50e-49a9-b85d-5d0aee7419f6@d8c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Polan
+DTEND:20241209T101500Z
+LOCATION:Paw.F 515
+DTSTART:20241209T084500Z
+SUMMARY:International Trade Simulation (konwersatorium)
+UID:5d8f6a80-2233-4aae-8ae4-f42505922734@5d8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marek Ćwiklicki
+DTEND:20241021T124500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241021T111500Z
+SUMMARY:Quality Management in International Business (wykład)
+UID:7b3d84a1-35dd-45ef-85ae-028bde926069@7b3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Wajda-Lichy
+DTEND:20250122T101500Z
+LOCATION:Paw.S sala 3
+DTSTART:20250122T084500Z
+SUMMARY:Extra-European Economies (wykład)
+UID:6294d9e5-b51e-4c82-99d2-fe2c20f26d32@6294.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartosz Kurek
+DTEND:20241210T120000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241210T103000Z
+SUMMARY:Managerial Accounting (wykład)
+UID:61999236-a8ef-4270-acb8-7587f72df3e4@6199.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Żur
+DTEND:20250122T120000Z
+LOCATION:Paw.F 416
+DTSTART:20250122T103000Z
+SUMMARY:Contemporary Management Concepts (wykład)
+UID:53066a73-1001-482a-9b13-63cafcb3b5a8@5306.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Żur
+DTEND:20241128T101500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241128T084500Z
+SUMMARY:Contemporary Management Concepts (wykład)
+UID:83120c40-7010-42c8-90cc-c960652e3886@8312.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Głodowska
+DTEND:20241219T120000Z
+LOCATION:Paw.G - 2
+DTSTART:20241219T103000Z
+SUMMARY:Risk and Insurance in International Business (ćwiczenia)
+UID:7c092865-dbce-4b83-bdf1-8ba71a3de11b@7c09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Polan
+DTEND:20241202T101500Z
+LOCATION:Paw.F 515
+DTSTART:20241202T084500Z
+SUMMARY:International Trade Simulation (konwersatorium)
+UID:d915b30c-2728-4c37-a01b-916e0b562c21@d915.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20241114T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241114T140000Z
+SUMMARY:Sociology of International Relations (wykład do wyboru)
+UID:acdfcec4-c5ca-4ac8-8085-d321c7eecd03@acdf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241105T101500Z
+LOCATION:Paw.S sala 10
+DTSTART:20241105T084500Z
+SUMMARY:Industrial Policy and Global Competition (ćwiczenia)
+UID:be49234b-fc56-45ec-9d40-df94629f73fe@be49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marek Ćwiklicki
+DTEND:20241018T110000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241018T093000Z
+SUMMARY:Quality Management in International Business (ćwiczenia)
+UID:49e86ce7-f534-48b5-a9b1-25f669f70c24@49e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Polan
+DTEND:20250113T101500Z
+LOCATION:Paw.F 515
+DTSTART:20250113T084500Z
+SUMMARY:International Trade Simulation (konwersatorium)
+UID:beee0387-280c-4c6a-8911-5e0b9727afdc@beee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20250108T083000Z
+LOCATION:Paw.S sala 2
+DTSTART:20250108T070000Z
+SUMMARY:Economic Growth and Convergence (wykład do wyboru)
+UID:21deedcb-e1dd-4128-8afd-72ce5352b4a4@21de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartosz Kurek
+DTEND:20241112T120000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241112T103000Z
+SUMMARY:Managerial Accounting (wykład)
+UID:cb922404-a019-4ebd-b009-251df0e976a6@cb92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Głodowska
+DTEND:20241209T083000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241209T070000Z
+SUMMARY:Risk and Insurance in International Business (wykład)
+UID:96fe4412-35aa-4348-b3cb-e2241e6e1eab@96fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Polan
+DTEND:20241007T091500Z
+LOCATION:Paw.F 515
+DTSTART:20241007T074500Z
+SUMMARY:International Trade Simulation (konwersatorium)
+UID:9d90e619-2171-4d84-93f5-c65483f950a5@9d90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20241212T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241212T140000Z
+SUMMARY:Sociology of International Relations (wykład do wyboru)
+UID:00a20d85-55c8-4b91-9936-86fb1a2ff9ac@00a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20241022T180000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241022T163000Z
+SUMMARY:American Foreign Policy (wykład do wyboru)
+UID:e79622f8-ced3-48a6-9389-664001ed104c@e796.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartosz Kurek
+DTEND:20241029T120000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241029T103000Z
+SUMMARY:Managerial Accounting (wykład)
+UID:9c7b1fd7-eeab-4049-90f7-faafcee45eeb@9c7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20241211T083000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241211T070000Z
+SUMMARY:Economic Growth and Convergence (wykład do wyboru)
+UID:f3103637-328d-4da5-9e18-d173098771b2@f310.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Wajda-Lichy
+DTEND:20250108T101500Z
+LOCATION:Paw.S sala 3
+DTSTART:20250108T084500Z
+SUMMARY:Extra-European Economies (wykład)
+UID:a8f9f8a9-ea4b-4d90-a6e8-bb3a6dc90457@a8f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20250116T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20250116T140000Z
+SUMMARY:Sociology of International Relations (wykład do wyboru)
+UID:abfc2c26-ccb9-4744-9f3a-865f5e3cbfdf@abfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Polan
+DTEND:20241021T091500Z
+LOCATION:Paw.F 515
+DTSTART:20241021T074500Z
+SUMMARY:International Trade Simulation (konwersatorium)
+UID:554e1f4c-2eee-4411-9c6b-9b1fe61fd1e7@554e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Głodowska
+DTEND:20241125T153000Z
+LOCATION:Paw.F 102
+DTSTART:20241125T140000Z
+SUMMARY:Risk and Insurance in International Business (ćwiczenia)
+UID:07885995-0936-4e4d-b7a6-10f66afa1943@0788.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20250114T083000Z
+LOCATION:Paw.S sala 2
+DTSTART:20250114T070000Z
+SUMMARY:American Foreign Policy (wykład do wyboru)
+UID:2e6b98d8-ade8-45a1-9cf2-542bed298b3b@2e6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marek Ćwiklicki
+DTEND:20250108T180000Z
+LOCATION:Paw.S sala 8
+DTSTART:20250108T154500Z
+SUMMARY:Quality Management in International Business (wykład)
+UID:426a3187-5e77-46c1-9d44-99d7e57fa5df@426a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Wajda-Lichy
+DTEND:20250115T101500Z
+LOCATION:Paw.S sala 3
+DTSTART:20250115T084500Z
+SUMMARY:Extra-European Economies (wykład)
+UID:dfb732ac-8b5d-4b11-b47e-6a653874d700@dfb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20241113T083000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241113T070000Z
+SUMMARY:Economic Growth and Convergence (wykład do wyboru)
+UID:afbf9a47-2424-4cf8-a0d4-5d54ed6c097c@afbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
+DTEND:20241126T134500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241126T121500Z
+SUMMARY:Managerial Accounting (ćwiczenia)
+UID:a7f8bc0a-22d2-4749-82de-cf6591d2ec83@a7f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marek Ćwiklicki
+DTEND:20241007T124500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241007T111500Z
+SUMMARY:Quality Management in International Business (wykład)
+UID:d367b751-a56d-42d0-bcd9-244590b3b225@d367.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241015T161500Z
+LOCATION:Paw.S sala 4
+DTSTART:20241015T144500Z
+SUMMARY:Industrial Policy and Global Competition (wykład)
+UID:5b6aa59c-7545-4df8-9722-0ff59c405a8b@5b6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Polan
+DTEND:20241219T083000Z
+LOCATION:Paw.F 106
+DTSTART:20241219T070000Z
+SUMMARY:International Trade Simulation (konwersatorium)
+UID:58ad2a05-491a-4d83-bce7-65932e6cd3fa@58ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Głodowska
+DTEND:20250113T083000Z
+LOCATION:Paw.S sala 8
+DTSTART:20250113T070000Z
+SUMMARY:Risk and Insurance in International Business (wykład)
+UID:9904549d-8814-4299-a173-b11bb26179d0@9904.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Głodowska
+DTEND:20241024T110000Z
+LOCATION:Paw.G - 2
+DTSTART:20241024T093000Z
+SUMMARY:Risk and Insurance in International Business (ćwiczenia)
+UID:32760e79-c9a6-4473-a369-7b882be1e0d0@3276.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marek Ćwiklicki
+DTEND:20241122T120000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241122T103000Z
+SUMMARY:Quality Management in International Business (ćwiczenia)
+UID:079ca3da-f337-40fd-a075-a47825e989f1@079c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Wajda-Lichy
+DTEND:20241204T101500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241204T084500Z
+SUMMARY:Extra-European Economies (wykład)
+UID:93dabab5-a5da-4e3a-8124-f17a922f077f@93da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marek Ćwiklicki
+DTEND:20241104T134500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241104T121500Z
+SUMMARY:Quality Management in International Business (wykład)
+UID:7dc2a976-05fe-4d05-9cc0-a14193f11bd5@7dc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20241015T180000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241015T163000Z
+SUMMARY:American Foreign Policy (wykład do wyboru)
+UID:b752ad6a-98cc-4ee8-a25f-52ad433710de@b752.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20241127T083000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241127T070000Z
+SUMMARY:Economic Growth and Convergence (wykład do wyboru)
+UID:2c828519-0011-45da-a420-693d4cdbbb6d@2c82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Wajda-Lichy
+DTEND:20241113T101500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241113T084500Z
+SUMMARY:Extra-European Economies (wykład)
+UID:b5f153f5-36cd-4b4a-ad6f-ca42ba422fd8@b5f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20241105T083000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241105T070000Z
+SUMMARY:American Foreign Policy (wykład do wyboru)
+UID:eefc893d-9d1d-4f6c-b199-7eff0d2cf641@eefc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20241107T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241107T140000Z
+SUMMARY:Sociology of International Relations (wykład do wyboru)
+UID:93ae1ca3-24ff-4ad2-b690-fc4d0f2d6a95@93ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241112T171500Z
+LOCATION:Paw.S sala 4
+DTSTART:20241112T154500Z
+SUMMARY:Industrial Policy and Global Competition (wykład)
+UID:ae8bf880-f9fa-4787-9772-c2cfa8791658@ae8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20241024T143000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241024T130000Z
+SUMMARY:Sociology of International Relations (wykład do wyboru)
+UID:27a93221-c2a6-4fc8-9452-7106868f113e@27a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20241217T083000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241217T070000Z
+SUMMARY:American Foreign Policy (wykład do wyboru)
+UID:ef8e5d1f-1945-4eee-b79e-23a5e4337610@ef8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241119T101500Z
+LOCATION:Paw.S sala 10
+DTSTART:20241119T084500Z
+SUMMARY:Industrial Policy and Global Competition (ćwiczenia)
+UID:b7b7a71b-9514-4af1-bb69-98e31dec228a@b7b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241008T091500Z
+LOCATION:Paw.S sala 10
+DTSTART:20241008T074500Z
+SUMMARY:Industrial Policy and Global Competition (ćwiczenia)
+UID:b163458b-0284-42d1-9030-627614d6adf7@b163.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
+DTEND:20241001T124500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241001T111500Z
+SUMMARY:Managerial Accounting (ćwiczenia)
+UID:4a772382-4e0a-4ae7-b4c3-7d5176ca1540@4a77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Głodowska
+DTEND:20250116T120000Z
+LOCATION:Paw.G - 2
+DTSTART:20250116T103000Z
+SUMMARY:Risk and Insurance in International Business (ćwiczenia)
+UID:a8dc5917-51f1-4c61-9823-59fc6746af44@a8dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Głodowska
+DTEND:20250123T120000Z
+LOCATION:Paw.G - 2
+DTSTART:20250123T111500Z
+SUMMARY:Risk and Insurance in International Business (ćwiczenia)
+UID:8dcab713-b7fa-4a12-bd1a-ac8b1e8e2874@8dca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20250109T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20250109T140000Z
+SUMMARY:Sociology of International Relations (wykład do wyboru)
+UID:3cdc78e2-76e6-4936-8bc1-c1562bc85998@3cdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Wajda-Lichy
+DTEND:20241016T091500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241016T074500Z
+SUMMARY:Extra-European Economies (wykład)
+UID:8513993e-7278-49c3-8a3d-c83831d0339b@8513.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Wajda-Lichy
+DTEND:20241030T101500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241030T084500Z
+SUMMARY:Extra-European Economies (wykład)
+UID:242bb608-2af9-4f4a-b6dc-1b41bb0e802d@242b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartosz Kurek
+DTEND:20241126T120000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241126T103000Z
+SUMMARY:Managerial Accounting (wykład)
+UID:f69b784f-2f86-4533-90e5-78aa12b52540@f69b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20241010T143000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241010T130000Z
+SUMMARY:Sociology of International Relations (wykład do wyboru)
+UID:34ed2da7-58d4-4283-a100-4f30e2b9f2fc@34ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marek Ćwiklicki
+DTEND:20250113T153000Z
+LOCATION:Bud.gł. 6
+DTSTART:20250113T144500Z
+SUMMARY:Quality Management in International Business (ćwiczenia)
+UID:e96efe46-2f2e-4a86-beaf-10e15ec461b7@e96e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20241120T083000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241120T070000Z
+SUMMARY:Economic Growth and Convergence (wykład do wyboru)
+UID:d0b37732-90fe-4769-8e45-7b1cb01ffd62@d0b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Głodowska
+DTEND:20241125T083000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241125T070000Z
+SUMMARY:Risk and Insurance in International Business (wykład)
+UID:8e25bb16-b4bb-420f-9891-8a66e806887f@8e25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Wajda-Lichy
+DTEND:20241023T091500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241023T074500Z
+SUMMARY:Extra-European Economies (wykład)
+UID:42e3d6da-d881-41ca-b529-7dc9be15a83a@42e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241203T101500Z
+LOCATION:Paw.S sala 10
+DTSTART:20241203T084500Z
+SUMMARY:Industrial Policy and Global Competition (ćwiczenia)
+UID:2e7ddbb7-aa09-4497-8612-ec3237810459@2e7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20250123T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20250123T140000Z
+SUMMARY:Sociology of International Relations (wykład do wyboru)
+UID:cba894b3-068b-462f-a66f-9f143cb7f0f8@cba8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20241203T083000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241203T070000Z
+SUMMARY:American Foreign Policy (wykład do wyboru)
+UID:600ec06c-820f-44ce-a331-19d99f632594@600e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20250122T083000Z
+LOCATION:Paw.S sala 2
+DTSTART:20250122T070000Z
+SUMMARY:Economic Growth and Convergence (wykład do wyboru)
+UID:a062cb25-03ff-447d-8f7c-caf0c13e78b0@a062.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20241126T083000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241126T070000Z
+SUMMARY:American Foreign Policy (wykład do wyboru)
+UID:104b166b-650a-4c9c-81cc-3f043f23f244@104b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marek Ćwiklicki
+DTEND:20241206T120000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241206T103000Z
+SUMMARY:Quality Management in International Business (ćwiczenia)
+UID:b1f3425d-821c-452b-9dfc-d979594b9556@b1f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Żur
+DTEND:20241212T101500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241212T084500Z
+SUMMARY:Contemporary Management Concepts (wykład)
+UID:5f06d345-d8c4-4bd6-ac31-e99ffeec9ad8@5f06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Polan
+DTEND:20241125T101500Z
+LOCATION:Paw.F 515
+DTSTART:20241125T084500Z
+SUMMARY:International Trade Simulation (konwersatorium)
+UID:45df3bd3-cedd-42df-986a-3da4b1049053@45df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20241023T073000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241023T060000Z
+SUMMARY:Economic Growth and Convergence (wykład do wyboru)
+UID:93efefde-e54f-4300-b88d-3d27564be3f6@93ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:4a59610a-a335-471f-8ddd-243775226109@4a59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Głodowska
+DTEND:20241121T120000Z
+LOCATION:Paw.G - 2
+DTSTART:20241121T103000Z
+SUMMARY:Risk and Insurance in International Business (ćwiczenia)
+UID:dd43ea94-97b6-4dce-b19a-f7c777bfa120@dd43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Wajda-Lichy
+DTEND:20241106T101500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241106T084500Z
+SUMMARY:Extra-European Economies (wykład)
+UID:e08cc0f1-db54-40fa-8dd5-7f02e0c7771d@e08c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Wajda-Lichy
+DTEND:20241120T101500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241120T084500Z
+SUMMARY:Extra-European Economies (wykład)
+UID:009a949f-917a-4e47-872a-98a486a7f025@009a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Polan
+DTEND:20250120T101500Z
+LOCATION:Paw.F 515
+DTSTART:20250120T084500Z
+SUMMARY:International Trade Simulation (konwersatorium)
+UID:f6527940-2c19-479c-b819-a0c91733abae@f652.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
+DTEND:20250107T134500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250107T121500Z
+SUMMARY:Managerial Accounting (ćwiczenia)
+UID:75216756-cb6b-4014-81aa-33c65bc53d68@7521.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Żur
+DTEND:20241024T091500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241024T074500Z
+SUMMARY:Contemporary Management Concepts (wykład)
+UID:c4f78318-f280-4009-b85e-592b2307567e@c4f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Żur
+DTEND:20241121T101500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241121T084500Z
+SUMMARY:Contemporary Management Concepts (wykład)
+UID:c1060019-6e68-4739-9afa-73902c1d4959@c106.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Żur
+DTEND:20241003T091500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241003T074500Z
+SUMMARY:Contemporary Management Concepts (wykład)
+UID:1bd936e9-ad21-4bd7-9cc3-c1c59a0140c6@1bd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Polan
+DTEND:20241104T101500Z
+LOCATION:Paw.F 515
+DTSTART:20241104T084500Z
+SUMMARY:International Trade Simulation (konwersatorium)
+UID:e1d45630-6a1d-4bd4-ae51-d68b1945c4b1@e1d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marek Ćwiklicki
+DTEND:20241220T120000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241220T103000Z
+SUMMARY:Quality Management in International Business (ćwiczenia)
+UID:82f6b0c2-bcc4-4d52-8a61-c3bd63840c68@82f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Polan
+DTEND:20241220T134500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241220T121500Z
+SUMMARY:International Trade Simulation (konwersatorium)
+UID:ee869c2d-d1ef-4f12-b591-e017a64a12f2@ee86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartosz Kurek
+DTEND:20250121T111500Z
+LOCATION:Paw.S sala 3
+DTSTART:20250121T103000Z
+SUMMARY:Managerial Accounting (wykład)
+UID:49a46c37-7024-4033-810e-e0decf74801a@49a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Głodowska
+DTEND:20241021T073000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241021T060000Z
+SUMMARY:Risk and Insurance in International Business (wykład)
+UID:7c6a1b4d-63d0-44cd-81f5-75351681fde0@7c6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartosz Kurek
+DTEND:20241001T110000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241001T093000Z
+SUMMARY:Managerial Accounting (wykład)
+UID:aacd3ecc-8643-4cbd-a4db-d78f7dfaa32d@aacd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20241119T083000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241119T070000Z
+SUMMARY:American Foreign Policy (wykład do wyboru)
+UID:61357da8-41a3-4070-85ae-8879305a0ce9@6135.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Polan
+DTEND:20241014T091500Z
+LOCATION:Paw.F 515
+DTSTART:20241014T074500Z
+SUMMARY:International Trade Simulation (konwersatorium)
+UID:f38c62d0-a267-4c2a-a258-cfc8948d1b3b@f38c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Wajda-Lichy
+DTEND:20241211T101500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241211T084500Z
+SUMMARY:Extra-European Economies (wykład)
+UID:d13f6cb6-804f-42c6-9a49-678417f1421d@d13f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Żur
+DTEND:20241107T101500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241107T084500Z
+SUMMARY:Contemporary Management Concepts (wykład)
+UID:a18ff15d-2fd6-4dee-a197-f9c12ec595a2@a18f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Żur
+DTEND:20250123T101500Z
+LOCATION:Paw.S sala 3
+DTSTART:20250123T084500Z
+SUMMARY:Contemporary Management Concepts (wykład)
+UID:f6910d2c-62d4-4ed5-b707-5e5b547b3ccb@f691.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20241001T073000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241001T060000Z
+SUMMARY:American Foreign Policy (wykład do wyboru)
+UID:9e4ae2b9-c295-4ce9-a4d1-1d5c5e3466fb@9e4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20241128T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241128T140000Z
+SUMMARY:Sociology of International Relations (wykład do wyboru)
+UID:6c283f56-c5bc-4142-a42e-6c29d84b3f7d@6c28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20241031T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241031T140000Z
+SUMMARY:Sociology of International Relations (wykład do wyboru)
+UID:43d12253-f21f-42bc-9bad-faa29e741dd2@43d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:d97ce234-69a4-4e7f-ac06-0aa3aaba91e3@d97c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20250107T171500Z
+LOCATION:Paw.S sala 4
+DTSTART:20250107T154500Z
+SUMMARY:Industrial Policy and Global Competition (wykład)
+UID:4195ca46-384e-4a6d-9300-27c14d2a61b8@4195.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20250121T153000Z
+LOCATION:Paw.B 151
+DTSTART:20250121T144500Z
+SUMMARY:Industrial Policy and Global Competition (ćwiczenia)
+UID:bd67e03c-df48-43b4-a28c-29d3b84442c0@bd67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Żur
+DTEND:20241219T101500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241219T084500Z
+SUMMARY:Contemporary Management Concepts (wykład)
+UID:4dbebade-6d2d-4c3b-8e89-9ec9df37cfaa@4dbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20250115T083000Z
+LOCATION:Paw.S sala 2
+DTSTART:20250115T070000Z
+SUMMARY:Economic Growth and Convergence (wykład do wyboru)
+UID:17bfab64-fb3b-43e5-a3cd-b859e4fc43b2@17bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Żur
+DTEND:20250116T101500Z
+LOCATION:Paw.S sala 3
+DTSTART:20250116T084500Z
+SUMMARY:Contemporary Management Concepts (wykład)
+UID:315c9245-902d-4b55-9cf9-344aec2365a3@315c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
+DTEND:20250121T130000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250121T121500Z
+SUMMARY:Managerial Accounting (ćwiczenia)
+UID:6cccf2e6-77aa-451f-bc71-a1c270942a74@6ccc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241022T091500Z
+LOCATION:Paw.S sala 10
+DTSTART:20241022T074500Z
+SUMMARY:Industrial Policy and Global Competition (ćwiczenia)
+UID:c409e48e-541a-4326-9f4a-c760c3528457@c409.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20241121T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241121T140000Z
+SUMMARY:Sociology of International Relations (wykład do wyboru)
+UID:d5386cee-c382-4d9b-9586-91a61b71963b@d538.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Głodowska
+DTEND:20250120T143000Z
+LOCATION:Paw.C sala B
+DTSTART:20250120T121500Z
+SUMMARY:Risk and Insurance in International Business (wykład)
+UID:403276a2-35df-4f7d-805a-d7903efe988d@4032.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Wajda-Lichy
+DTEND:20241127T101500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241127T084500Z
+SUMMARY:Extra-European Economies (wykład)
+UID:bc336486-4cbe-4273-a9e4-b19915cf716d@bc33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241001T153000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241001T144500Z
+SUMMARY:Industrial Policy and Global Competition (wykład)
+UID:1f9dd93e-4b74-454b-bb52-92c940a08769@1f9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20241218T083000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241218T070000Z
+SUMMARY:Economic Growth and Convergence (wykład do wyboru)
+UID:d6328e7e-53dc-4db0-aa6f-1d540fb49a9e@d632.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Wajda-Lichy
+DTEND:20241009T091500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241009T074500Z
+SUMMARY:Extra-European Economies (wykład)
+UID:ecf17f94-307d-4e50-9620-b0e0a33bc1f9@ecf1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
+DTEND:20241015T124500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241015T111500Z
+SUMMARY:Managerial Accounting (ćwiczenia)
+UID:47b96080-f34d-4d80-b325-574edcf36558@47b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartosz Kurek
+DTEND:20241015T110000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241015T093000Z
+SUMMARY:Managerial Accounting (wykład)
+UID:f2f30112-21e3-4f29-8711-0daf6e32c9b7@f2f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20241112T083000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241112T070000Z
+SUMMARY:American Foreign Policy (wykład do wyboru)
+UID:3ff5ef9e-e5a9-4c43-9dd5-029fb02bd014@3ff5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
+DTEND:20241029T134500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241029T121500Z
+SUMMARY:Managerial Accounting (ćwiczenia)
+UID:f3961d98-3e33-43d2-8abd-83bce92fe37e@f396.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marek Ćwiklicki
+DTEND:20241125T134500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241125T121500Z
+SUMMARY:Quality Management in International Business (wykład)
+UID:e679d143-43ce-4a59-b692-22d608d5fdbd@e679.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Żur
+DTEND:20241017T091500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241017T074500Z
+SUMMARY:Contemporary Management Concepts (wykład)
+UID:6fc4d56c-0063-475b-bc3d-8a0088172265@6fc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Polan
+DTEND:20241028T101500Z
+LOCATION:Paw.F 515
+DTSTART:20241028T084500Z
+SUMMARY:International Trade Simulation (konwersatorium)
+UID:16f2a38c-6814-4d24-825c-14204654e460@16f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
+DTEND:20241112T134500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241112T121500Z
+SUMMARY:Managerial Accounting (ćwiczenia)
+UID:152e50b8-72a8-4f0c-af05-a70620067314@152e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20250121T083000Z
+LOCATION:Paw.S sala 2
+DTSTART:20250121T070000Z
+SUMMARY:American Foreign Policy (wykład do wyboru)
+UID:7cd0e894-c859-4bf5-b454-c755157f3188@7cd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241210T171500Z
+LOCATION:Paw.S sala 4
+DTSTART:20241210T154500Z
+SUMMARY:Industrial Policy and Global Competition (wykład)
+UID:af2b3ac6-9662-47bc-8000-b59e111a60d4@af2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20241016T073000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241016T060000Z
+SUMMARY:Economic Growth and Convergence (wykład do wyboru)
+UID:3f6220e7-c035-4b34-ba5f-70acb33f7718@3f62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Głodowska
+DTEND:20241205T120000Z
+LOCATION:Paw.G - 2
+DTSTART:20241205T103000Z
+SUMMARY:Risk and Insurance in International Business (ćwiczenia)
+UID:40122667-bbad-4920-b2a4-2df08a91fa66@4012.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20250120T171500Z
+LOCATION:Paw.S sala 1
+DTSTART:20250120T154500Z
+SUMMARY:Economic Growth and Convergence (wykład do wyboru)
+UID:4beac5bf-3e08-4bc5-b1d5-9163cc82dd15@4bea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartosz Kurek
+DTEND:20250107T120000Z
+LOCATION:Paw.S sala 3
+DTSTART:20250107T103000Z
+SUMMARY:Managerial Accounting (wykład)
+UID:60e23d1f-96fd-4891-b328-34a60bb2c68e@60e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20241017T143000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241017T130000Z
+SUMMARY:Sociology of International Relations (wykład do wyboru)
+UID:eef1f190-9883-4184-9b2b-ba173d537521@eef1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Żur
+DTEND:20250109T101500Z
+LOCATION:Paw.S sala 3
+DTSTART:20250109T084500Z
+SUMMARY:Contemporary Management Concepts (wykład)
+UID:0879ba67-7a49-4afa-8153-276dd12bdc91@0879.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Głodowska
+DTEND:20241007T073000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241007T060000Z
+SUMMARY:Risk and Insurance in International Business (wykład)
+UID:92423c94-2493-494f-8871-c543bb9e6581@9242.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marek Ćwiklicki
+DTEND:20250113T134500Z
+LOCATION:Paw.S sala 2
+DTSTART:20250113T121500Z
+SUMMARY:Quality Management in International Business (wykład)
+UID:77a77840-8b68-4c01-a881-5a40ce98ee59@77a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Wajda-Lichy
+DTEND:20250116T190000Z
+LOCATION:Paw.C sala C
+DTSTART:20250116T173000Z
+SUMMARY:Extra-European Economies (wykład)
+UID:a92d0bd8-89d0-43d0-9ab4-f6d736c43613@a92d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marek Ćwiklicki
+DTEND:20250117T120000Z
+LOCATION:Paw.S sala 10
+DTSTART:20250117T103000Z
+SUMMARY:Quality Management in International Business (ćwiczenia)
+UID:657205b7-4c71-4027-a82b-48668b7a5930@6572.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Marek Ćwiklicki
+DTEND:20241209T134500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241209T121500Z
+SUMMARY:Quality Management in International Business (wykład)
+UID:4b3a7135-0d98-464d-9b46-ec4aa7a26ea0@4b3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20250114T101500Z
+LOCATION:Paw.S sala 10
+DTSTART:20250114T084500Z
+SUMMARY:Industrial Policy and Global Competition (ćwiczenia)
+UID:a4ce4b6e-a09d-47fb-95be-9c49d6b171f9@a4ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Żur
+DTEND:20241031T101500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241031T084500Z
+SUMMARY:Contemporary Management Concepts (wykład)
+UID:b9b44d05-d949-4205-87c6-54715caf33bc@b9b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Żur
+DTEND:20241205T101500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241205T084500Z
+SUMMARY:Contemporary Management Concepts (wykład)
+UID:d50f4ea3-baf3-43ce-a84e-f59b08a5bed1@d50f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20241210T083000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241210T070000Z
+SUMMARY:American Foreign Policy (wykład do wyboru)
+UID:b6dae50b-942f-4c8f-b855-95a3be348018@b6da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Polan
+DTEND:20241216T101500Z
+LOCATION:Paw.F 515
+DTSTART:20241216T084500Z
+SUMMARY:International Trade Simulation (konwersatorium)
+UID:04d31550-4b01-42cf-b0d0-c5db55232d64@04d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20241009T073000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241009T060000Z
+SUMMARY:Economic Growth and Convergence (wykład do wyboru)
+UID:aad0f8ca-095e-4d25-acdc-b075678f2718@aad0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241126T171500Z
+LOCATION:Paw.S sala 4
+DTSTART:20241126T154500Z
+SUMMARY:Industrial Policy and Global Competition (wykład)
+UID:14358ca8-eb4d-487e-bc14-d5ba4280406e@1435.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20241204T083000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241204T070000Z
+SUMMARY:Economic Growth and Convergence (wykład do wyboru)
+UID:6b68befb-5d46-45b9-a239-d53140f98b20@6b68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20241118T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241118T121500Z
+SUMMARY:Economic Growth and Convergence (wykład do wyboru)
+UID:a0d6c5ab-152f-426b-ab83-ab632d9b1ff1@a0d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20250107T083000Z
+LOCATION:Paw.S sala 2
+DTSTART:20250107T070000Z
+SUMMARY:American Foreign Policy (wykład do wyboru)
+UID:c2d7167b-780d-4cdb-a3ba-d4b3fa409ec9@c2d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Polan
+DTEND:20241118T101500Z
+LOCATION:Paw.F 515
+DTSTART:20241118T084500Z
+SUMMARY:International Trade Simulation (konwersatorium)
+UID:8a687999-10ba-44fb-9335-0066ee2867db@8a68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20241219T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241219T140000Z
+SUMMARY:Sociology of International Relations (wykład do wyboru)
+UID:f8c41948-e973-466f-b645-ba8815ed011e@f8c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20250121T163000Z
+LOCATION:Paw.S sala 4
+DTSTART:20250121T154500Z
+SUMMARY:Industrial Policy and Global Competition (wykład)
+UID:3f181cac-58c0-401f-b1f2-cbfd699438b0@3f18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241217T101500Z
+LOCATION:Paw.S sala 10
+DTSTART:20241217T084500Z
+SUMMARY:Industrial Policy and Global Competition (ćwiczenia)
+UID:b6c64b62-06d2-43df-b57e-e114aa1378b4@b6c6.org
+END:VEVENT
+END:VCALENDAR

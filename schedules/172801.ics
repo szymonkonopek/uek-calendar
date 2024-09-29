@@ -1,0 +1,444 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20241124T091500Z
+LOCATION:link do zajęć
+DTSTART:20241124T070000Z
+SUMMARY:Zarządzanie sprzedażą (wykład)
+UID:8305bdbd-1b60-49ea-9fa7-aa7cc2185b65@8305.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Sołtysik
+DTEND:20241012T081500Z
+LOCATION:link do zajęć
+DTSTART:20241012T060000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
+UID:b942d1f4-91c4-440e-a24b-5a162c815b33@b942.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Węgrzyn
+DTEND:20241027T114500Z
+LOCATION:link do zajęć
+DTSTART:20241027T093000Z
+SUMMARY:Badania rynku (wykład)
+UID:e226a7d8-6abe-4e24-9112-bd33c30998b5@e226.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241005T104500Z
+LOCATION:link do zajęć
+DTSTART:20241005T083000Z
+SUMMARY:Zachowania organizacyjne (wykład)
+UID:ae2660f5-2f55-40b3-8d33-9ed311069077@ae26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Sołtysik
+DTEND:20241026T104500Z
+LOCATION:link do zajęć
+DTSTART:20241026T083000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
+UID:b5d68628-d6a4-40ca-94e5-fc1e0494a618@b5d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20241221T091500Z
+LOCATION:Paw.U sala K
+DTSTART:20241221T070000Z
+SUMMARY:Zachowania organizacyjne (ćwiczenia)
+UID:f6872628-e718-409d-aa0d-842406ee514a@f687.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Mrówka
+DTEND:20241005T081500Z
+LOCATION:link do zajęć
+DTSTART:20241005T060000Z
+SUMMARY:Metody organizacji i zarządzania (wykład)
+UID:cd89b60a-a91a-4d8f-8ac3-1c60c6c897d5@cd89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marek Koczyński
+DTEND:20250111T114500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250111T093000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
+UID:46478361-9537-4fa7-941d-91e36ec75ba6@4647.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241012T133000Z
+LOCATION:link do zajęć
+DTSTART:20241012T111500Z
+SUMMARY:Zachowania organizacyjne (wykład)
+UID:2e794695-6d54-4b3a-ab37-8eacb7d8062e@2e79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20250112T091500Z
+LOCATION:Paw.U sala K
+DTSTART:20250112T070000Z
+SUMMARY:Zachowania organizacyjne (ćwiczenia)
+UID:aab494a6-1342-47e1-bddf-fe6b120dc8d6@aab4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20241130T143000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241130T121500Z
+SUMMARY:Zachowania organizacyjne (ćwiczenia)
+UID:d024adf9-40d2-481d-b692-e7eca9b830af@d024.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Sołtysik
+DTEND:20241005T133000Z
+LOCATION:link do zajęć
+DTSTART:20241005T111500Z
+SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
+UID:9f73dbbe-53ee-4b1c-801d-83a5fb107e64@9f73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Mrówka
+DTEND:20241012T104500Z
+LOCATION:link do zajęć
+DTSTART:20241012T083000Z
+SUMMARY:Metody organizacji i zarządzania (wykład)
+UID:577f0cbd-7179-4c18-bf7d-b8c281c5dcd8@577f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marek Koczyński
+DTEND:20241208T091500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241208T070000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
+UID:631b092c-b615-4eef-bc96-8ff90d2043f2@631b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Węgrzyn
+DTEND:20250126T091500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20250126T070000Z
+SUMMARY:Badania rynku (ćwiczenia)
+UID:3164b78c-bd80-40db-8bdb-3edd343ad344@3164.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20241006T081500Z
+LOCATION:link do zajęć
+DTSTART:20241006T060000Z
+SUMMARY:Zarządzanie sprzedażą (wykład)
+UID:0150b545-317d-4b57-97e4-aaf071b22348@0150.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241117T114500Z
+LOCATION:link do zajęć
+DTSTART:20241117T093000Z
+SUMMARY:Zachowania organizacyjne (wykład)
+UID:e2eaaa4f-e63d-4e85-8fbb-3eb125617e60@e2ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20241123T143000Z
+LOCATION:Paw.S sala 1
+DTSTART:20241123T121500Z
+SUMMARY:Statystyka w zarządzaniu (ćwiczenia)
+UID:71b0ed09-3648-48b6-8e17-fea50c1c99ef@71b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Mrówka
+DTEND:20241129T170000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241129T144500Z
+SUMMARY:Metody organizacji i zarządzania (ćwiczenia)
+UID:addc0c62-72d3-4d14-9ced-1182e3590da2@addc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20241207T091500Z
+LOCATION:Paw.U sala K
+DTSTART:20241207T070000Z
+SUMMARY:Zachowania organizacyjne (ćwiczenia)
+UID:36a5c6a8-823c-4794-8f6a-12d6111c8f43@36a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Mrówka
+DTEND:20250111T143000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250111T121500Z
+SUMMARY:Metody organizacji i zarządzania (ćwiczenia)
+UID:b73e3a6c-a629-4298-82b3-737e48731e66@b73e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20241013T104500Z
+LOCATION:link do zajęć
+DTSTART:20241013T083000Z
+SUMMARY:Zarządzanie sprzedażą (wykład)
+UID:690d3c6f-ba32-4af7-bcf7-f2d00c94dc59@690d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20241013T081500Z
+LOCATION:link do zajęć
+DTSTART:20241013T060000Z
+SUMMARY:Statystyka w zarządzaniu (wykład)
+UID:a4847961-c60e-490b-91da-022b976917ee@a484.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20241115T170000Z
+LOCATION:Paw.S sala 1
+DTSTART:20241115T144500Z
+SUMMARY:Statystyka w zarządzaniu (ćwiczenia)
+UID:ac45744b-6ab4-48f7-9286-d64ee8a57961@ac45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Sołtysik
+DTEND:20241124T143000Z
+LOCATION:link do zajęć
+DTSTART:20241124T121500Z
+SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
+UID:a4517153-2f6c-46f4-b5fc-035a7fbdb33b@a451.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marek Koczyński
+DTEND:20241215T114500Z
+LOCATION:Bibl. 441
+DTSTART:20241215T093000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
+UID:8b7b95b4-448e-4051-bd24-d7236e71f8e1@8b7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Mrówka
+DTEND:20241116T114500Z
+LOCATION:link do zajęć
+DTSTART:20241116T093000Z
+SUMMARY:Metody organizacji i zarządzania (wykład)
+UID:07b2789e-95b2-49d3-8d97-f1490d36da8a@07b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Mrówka
+DTEND:20241222T091500Z
+LOCATION:Paw.B 251
+DTSTART:20241222T070000Z
+SUMMARY:Metody organizacji i zarządzania (ćwiczenia)
+UID:0dd63560-9e56-4e98-a9f6-7af94eeccafb@0dd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20250125T114500Z
+LOCATION:Paw.A 301b
+DTSTART:20250125T093000Z
+SUMMARY:Zachowania organizacyjne (ćwiczenia)
+UID:7e7dac4d-1d01-470c-ab43-24b0f6e01d73@7e7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241116T091500Z
+LOCATION:link do zajęć
+DTSTART:20241116T070000Z
+SUMMARY:Zachowania organizacyjne (wykład)
+UID:d214e9ba-9484-4b34-9903-4eb6b855d8b9@d214.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241124T114500Z
+LOCATION:link do zajęć
+DTSTART:20241124T093000Z
+SUMMARY:Zachowania organizacyjne (wykład)
+UID:0c854f3b-f531-4d9c-b39f-82129a14e275@0c85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20241130T114500Z
+LOCATION:Paw.B 451
+DTSTART:20241130T093000Z
+SUMMARY:Zarządzanie sprzedażą (ćwiczenia)
+UID:042db36b-fb01-450f-8f1a-8e28374ba863@042d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marek Koczyński
+DTEND:20241221T114500Z
+LOCATION:Paw.B 351
+DTSTART:20241221T093000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
+UID:a6e45367-703f-468b-8695-6ec3c200e176@a6e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20241116T143000Z
+LOCATION:link do zajęć
+DTSTART:20241116T121500Z
+SUMMARY:Statystyka w zarządzaniu (wykład)
+UID:a6e2840c-1ddb-429d-800a-0cd8dc12cc01@a6e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marek Koczyński
+DTEND:20250125T091500Z
+LOCATION:Paw.B 251
+DTSTART:20250125T070000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
+UID:fd3c57d5-5d44-4e95-a13e-cf297dcf92d3@fd3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Mrówka
+DTEND:20241213T170000Z
+LOCATION:Paw.E sala J
+DTSTART:20241213T144500Z
+SUMMARY:Metody organizacji i zarządzania (ćwiczenia)
+UID:0996183f-e7cd-423f-88c7-21814bf66eea@0996.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Sołtysik
+DTEND:20241117T143000Z
+LOCATION:link do zajęć
+DTSTART:20241117T121500Z
+SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
+UID:be3bd9fd-dc9f-44bf-bd81-9f1045bd5249@be3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241027T091500Z
+LOCATION:link do zajęć
+DTSTART:20241027T070000Z
+SUMMARY:Zachowania organizacyjne (wykład)
+UID:90cfdb1d-c3ec-4026-9702-9dce93eb1de6@90cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Mrówka
+DTEND:20241026T081500Z
+LOCATION:link do zajęć
+DTSTART:20241026T060000Z
+SUMMARY:Metody organizacji i zarządzania (wykład)
+UID:292ae517-5c19-40f6-bb97-b8e13c53176c@292a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Węgrzyn
+DTEND:20241117T091500Z
+LOCATION:link do zajęć
+DTSTART:20241117T070000Z
+SUMMARY:Badania rynku (wykład)
+UID:746c45e2-7015-46de-88b9-7dae647cdf87@746c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20241214T114500Z
+LOCATION:Paw.S sala 4
+DTSTART:20241214T093000Z
+SUMMARY:Statystyka w zarządzaniu (ćwiczenia)
+UID:d2d9ed1f-87f2-45f5-b494-f63074db1340@d2d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Sołtysik
+DTEND:20241004T160000Z
+LOCATION:link do zajęć
+DTSTART:20241004T134500Z
+SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
+UID:7b49decd-aa52-4896-9208-a7077240e250@7b49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Mrówka
+DTEND:20250126T114500Z
+LOCATION:Paw.F 415
+DTSTART:20250126T093000Z
+SUMMARY:Metody organizacji i zarządzania (ćwiczenia)
+UID:df1a7f57-ca11-4fdf-9ab2-f84b6af19779@df1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Węgrzyn
+DTEND:20241206T170000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241206T144500Z
+SUMMARY:Badania rynku (ćwiczenia)
+UID:4d03a31d-54f7-492d-b248-4d9f0ad8255e@4d03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Węgrzyn
+DTEND:20241222T114500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241222T093000Z
+SUMMARY:Badania rynku (ćwiczenia)
+UID:3b34fe5e-95c1-4990-a649-e6fba39aaf72@3b34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20241208T114500Z
+LOCATION:Paw.S sala 1
+DTSTART:20241208T093000Z
+SUMMARY:Statystyka w zarządzaniu (ćwiczenia)
+UID:bd430a4d-45a9-49c6-acae-a0b57709c166@bd43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Mrówka
+DTEND:20241208T143000Z
+LOCATION:Bibl. 440
+DTSTART:20241208T121500Z
+SUMMARY:Metody organizacji i zarządzania (ćwiczenia)
+UID:200fc899-232f-4252-958e-8018a92a17b7@200f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20241201T114500Z
+LOCATION:Paw.S sala 1
+DTSTART:20241201T093000Z
+SUMMARY:Statystyka w zarządzaniu (ćwiczenia)
+UID:fe4babb1-b650-4085-b93b-e58ef09b3592@fe4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Węgrzyn
+DTEND:20241006T104500Z
+LOCATION:link do zajęć
+DTSTART:20241006T083000Z
+SUMMARY:Badania rynku (wykład)
+UID:e5e0a623-d1e4-4c88-bed6-0e9fd8900adc@e5e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20250110T170000Z
+LOCATION:Paw.U sala N
+DTSTART:20250110T144500Z
+SUMMARY:Zachowania organizacyjne (ćwiczenia)
+UID:94a963b2-cb6d-49b1-bf1f-632e75bf1089@94a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20250111T091500Z
+LOCATION:Paw.S sala 4
+DTSTART:20250111T070000Z
+SUMMARY:Zarządzanie sprzedażą (ćwiczenia)
+UID:b50abb7c-7544-4aef-9387-ad3855133c2e@b50a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20241123T091500Z
+LOCATION:Paw.B 351
+DTSTART:20241123T070000Z
+SUMMARY:Zarządzanie sprzedażą (ćwiczenia)
+UID:d14a3283-ebcc-4d1f-b402-016fcc1a1ab3@d14a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marek Koczyński
+DTEND:20241123T114500Z
+LOCATION:Paw.B 151
+DTSTART:20241123T093000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
+UID:f360bd4f-37b1-4cf3-9133-d0222653eb96@f360.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20241026T133000Z
+LOCATION:link do zajęć
+DTSTART:20241026T111500Z
+SUMMARY:Statystyka w zarządzaniu (wykład)
+UID:539d4b07-7b96-4b0b-8e84-779379561104@539d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20250125T143000Z
+LOCATION:Paw.S sala 3
+DTSTART:20250125T121500Z
+SUMMARY:Statystyka w zarządzaniu (ćwiczenia)
+UID:4adacdb2-b44a-4e08-8bf9-f62da7c47454@4ada.org
+END:VEVENT
+END:VCALENDAR

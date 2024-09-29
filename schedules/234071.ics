@@ -1,0 +1,930 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Szmigiel
+DTEND:20250123T101500Z
+LOCATION:Paw.G  8
+DTSTART:20250123T084500Z
+SUMMARY:Finansowanie projektów innowacyjnych (ćwiczenia)
+UID:3c718bba-500c-4062-8a11-dd4443a66e2e@3c71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Surówka
+DTEND:20241126T101500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241126T084500Z
+SUMMARY:Analiza finansowa przedsiębiorstw (ćwiczenia)
+UID:63d5811e-13e1-47ba-8ba2-6a9f812a6437@63d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Surówka
+DTEND:20241008T110000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241008T093000Z
+SUMMARY:Analiza finansowa przedsiębiorstw (ćwiczenia)
+UID:d8ed8c0d-df0d-4631-826e-e6ec61fccb2b@d8ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Surówka
+DTEND:20241001T091500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241001T083000Z
+SUMMARY:Analiza finansowa przedsiębiorstw (ćwiczenia)
+UID:d2cb71da-52ff-4684-bedc-bd257a853931@d2cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20241115T120000Z
+LOCATION:link do zajęć
+DTSTART:20241115T103000Z
+SUMMARY:Alternatywne metody zabezpieczenia emerytalnego (wykład do wyboru)
+UID:2672cd22-c522-434f-ba5a-4901df99cca5@2672.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241202T083000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241202T070000Z
+SUMMARY:Kryptowaluty i technologia blockchain (ćwiczenia)
+UID:8647f6fa-03ba-4c68-9a49-721f7a69d4ac@8647.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Szmigiel
+DTEND:20241212T101500Z
+LOCATION:Paw.G  8
+DTSTART:20241212T084500Z
+SUMMARY:Finansowanie projektów innowacyjnych (ćwiczenia)
+UID:98ea7ff8-ed3e-493f-b3c9-659d5bb1b330@98ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241213T101500Z
+LOCATION:link do zajęć
+DTSTART:20241213T084500Z
+SUMMARY:Zarządzanie emocjami i gniewem (wykład do wyboru)
+UID:4c3d036c-74de-4d5c-b4aa-c7c60eaec874@4c3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20250110T120000Z
+LOCATION:link do zajęć
+DTSTART:20250110T103000Z
+SUMMARY:Alternatywne metody zabezpieczenia emerytalnego (wykład do wyboru)
+UID:9bc24a74-9f65-41b9-b362-5c3dabfd4dcf@9bc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241014T073000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241014T060000Z
+SUMMARY:Kryptowaluty i technologia blockchain (warsztaty)
+UID:a4b1b70f-5312-4e4d-aaaa-378deb754484@a4b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20241212T120000Z
+LOCATION:Paw.F 109
+DTSTART:20241212T103000Z
+SUMMARY:Komercjalizacja i dyfuzja innowacji (warsztaty)
+UID:51fa2829-93c6-41e2-97be-8d96a07cc02f@51fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20250124T083000Z
+LOCATION:link do zajęć
+DTSTART:20250124T070000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:9a7a7b64-d97e-44ba-925d-7cc0085ad49b@9a7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Surówka
+DTEND:20241210T101500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241210T084500Z
+SUMMARY:Analiza finansowa przedsiębiorstw (ćwiczenia)
+UID:b9007f8d-eb24-4134-900f-97dfbfc2bca8@b900.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20241128T120000Z
+LOCATION:Paw.F 109
+DTSTART:20241128T103000Z
+SUMMARY:Komercjalizacja i dyfuzja innowacji (warsztaty)
+UID:2907289c-9ac3-4eab-8465-ce6479089f6d@2907.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Szmigiel
+DTEND:20241128T101500Z
+LOCATION:Paw.G  8
+DTSTART:20241128T084500Z
+SUMMARY:Finansowanie projektów innowacyjnych (ćwiczenia)
+UID:2160b0ef-1dcb-4c70-a743-198042a50ec2@2160.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241115T101500Z
+LOCATION:link do zajęć
+DTSTART:20241115T084500Z
+SUMMARY:Zarządzanie emocjami i gniewem (wykład do wyboru)
+UID:ee82f105-5b21-49ec-91f8-f98cfce363e1@ee82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20241004T114500Z
+LOCATION:link do zajęć
+DTSTART:20241004T093000Z
+SUMMARY:Alternatywne metody zabezpieczenia emerytalnego (wykład do wyboru)
+UID:35f47eeb-ca87-4e52-8c0c-5d6717847460@35f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20250121T120000Z
+LOCATION:Paw.F 415
+DTSTART:20250121T103000Z
+SUMMARY:Metody oceny projektów inwestycyjnych (warsztaty)
+UID:48c3678c-8fd8-46f5-b7bb-b8ddb482a05d@48c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20241018T110000Z
+LOCATION:link do zajęć
+DTSTART:20241018T093000Z
+SUMMARY:Alternatywne metody zabezpieczenia emerytalnego (wykład do wyboru)
+UID:232c6ea9-3db6-444f-96e3-e00fa22c0dac@232c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Szmigiel
+DTEND:20241112T120000Z
+LOCATION:Paw.G  8
+DTSTART:20241112T111500Z
+SUMMARY:Finansowanie projektów innowacyjnych (warsztaty)
+UID:cc138d44-522b-4784-8372-c4e09a888334@cc13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Izabela Czaja
+DTEND:20241216T101500Z
+LOCATION:Bibl.425
+DTSTART:20241216T084500Z
+SUMMARY:Design Thinking w biznesie (warsztaty)
+UID:1b699dc5-9768-4e5f-9fb9-9dd7fc379145@1b69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Izabela Czaja
+DTEND:20241104T101500Z
+LOCATION:Bibl.425
+DTSTART:20241104T084500Z
+SUMMARY:Design Thinking w biznesie (warsztaty)
+UID:f76e8f43-9e3a-4d54-879e-f8893a2c5dc5@f76e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241018T073000Z
+LOCATION:link do zajęć
+DTSTART:20241018T060000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:327d9c88-6b71-42ee-a7c6-bcd9c8a79118@327d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20241210T120000Z
+LOCATION:Paw.F 415
+DTSTART:20241210T103000Z
+SUMMARY:Metody oceny projektów inwestycyjnych (warsztaty)
+UID:18e4a12f-7922-485f-91da-e5d81014c579@18e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241216T083000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241216T070000Z
+SUMMARY:Kryptowaluty i technologia blockchain (ćwiczenia)
+UID:66baa5c8-1e28-497c-8d86-ae92fdb9c9b6@66ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20241003T110000Z
+LOCATION:Paw.F 109
+DTSTART:20241003T093000Z
+SUMMARY:Komercjalizacja i dyfuzja innowacji (warsztaty)
+UID:cdefeb5e-5206-4724-aa66-d693b7c0d1cd@cdef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Piątkowski
+DTEND:20241021T143000Z
+LOCATION:Paw.F CJ 012
+DTSTART:20241021T130000Z
+SUMMARY:Fundusze europejskie w biznesie (warsztaty)
+UID:61666672-df52-4939-82a4-1e86bc88effb@6166.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Piątkowski
+DTEND:20241104T153000Z
+LOCATION:Paw.F CJ 012
+DTSTART:20241104T140000Z
+SUMMARY:Fundusze europejskie w biznesie (warsztaty)
+UID:f57d9ef8-20f1-461f-8fe1-475e22e0f25c@f57d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Szmigiel
+DTEND:20241112T134500Z
+LOCATION:Paw.G 10
+DTSTART:20241112T121500Z
+SUMMARY:Finansowanie projektów innowacyjnych (warsztaty)
+UID:696582a3-acd9-4f11-9e9c-a00689d9aebc@6965.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agata Miętus
+DTEND:20250121T134500Z
+LOCATION:L 525 Ustr.
+DTSTART:20250121T121500Z
+SUMMARY:Fundusze europejskie w biznesie (ćwiczenia)
+UID:710c122e-d8f1-4225-89a6-aef62432a6b0@710c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20250124T101500Z
+LOCATION:link do zajęć
+DTSTART:20250124T084500Z
+SUMMARY:Zarządzanie emocjami i gniewem (wykład do wyboru)
+UID:3aac4212-d044-423d-9a47-4127050a86ee@3aac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Piątkowski
+DTEND:20241118T153000Z
+LOCATION:Paw.F CJ 012
+DTSTART:20241118T140000Z
+SUMMARY:Fundusze europejskie w biznesie (warsztaty)
+UID:17548697-482c-44ed-9173-d9cea1da2b70@1754.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Izabela Czaja
+DTEND:20241202T101500Z
+LOCATION:Bibl.425
+DTSTART:20241202T084500Z
+SUMMARY:Design Thinking w biznesie (warsztaty)
+UID:df7fe1ea-b3eb-4a9c-a4a6-772c980812e0@df7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agata Miętus
+DTEND:20241216T134500Z
+LOCATION:Paw.F CJ 012
+DTSTART:20241216T121500Z
+SUMMARY:Fundusze europejskie w biznesie (ćwiczenia)
+UID:e6b0c456-bf45-4a42-bb32-e4e90ed374a4@e6b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20250123T120000Z
+LOCATION:Paw.F 109
+DTSTART:20250123T103000Z
+SUMMARY:Komercjalizacja i dyfuzja innowacji (warsztaty)
+UID:0e0e4180-78ca-420a-9d62-4dac53dc3c71@0e0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20241119T101500Z
+LOCATION:Paw.F 415
+DTSTART:20241119T084500Z
+SUMMARY:Metody oceny projektów inwestycyjnych (ćwiczenia)
+UID:aa2783e2-d779-4595-97ec-5ade4cbb8b3f@aa27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20250110T083000Z
+LOCATION:link do zajęć
+DTSTART:20250110T070000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:367f91e7-993e-48d0-9e86-f2e832d1ac6d@367f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:a88e2388-514b-40e0-8c33-3cc203e7eb27@a88e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20250114T101500Z
+LOCATION:Paw.F 415
+DTSTART:20250114T084500Z
+SUMMARY:Metody oceny projektów inwestycyjnych (warsztaty)
+UID:c54a22a9-8edd-416c-83c1-e1c7e89488ef@c54a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241028T093000Z
+LOCATION:Bibl.425
+DTSTART:20241028T084500Z
+SUMMARY:Kryptowaluty i technologia blockchain (ćwiczenia)
+UID:4760e88f-57e3-4dcb-8ba1-cf717d2ac5bb@4760.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241007T073000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241007T060000Z
+SUMMARY:Kryptowaluty i technologia blockchain (ćwiczenia)
+UID:0b16f76a-9f35-428e-b7c4-a16440c0db2e@0b16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241209T083000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241209T070000Z
+SUMMARY:Kryptowaluty i technologia blockchain (warsztaty)
+UID:cfcd41df-a023-4488-9507-020f678c2a5a@cfcd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Piątkowski
+DTEND:20241202T153000Z
+LOCATION:Paw.F CJ 012
+DTSTART:20241202T140000Z
+SUMMARY:Fundusze europejskie w biznesie (warsztaty)
+UID:ae835f0a-b20e-4df0-a80a-83532607fe30@ae83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20250120T083000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250120T070000Z
+SUMMARY:Kryptowaluty i technologia blockchain (warsztaty)
+UID:deb51a5b-9518-46d7-a2c0-f3643cbf2ddd@deb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20241129T120000Z
+LOCATION:link do zajęć
+DTSTART:20241129T103000Z
+SUMMARY:Alternatywne metody zabezpieczenia emerytalnego (wykład do wyboru)
+UID:65fa5141-b68d-4057-abd3-05e417b50e52@65fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:9dd62886-a23b-43e9-9efe-18df5c05a567@9dd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241115T083000Z
+LOCATION:link do zajęć
+DTSTART:20241115T070000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:84dab713-29ef-4406-b15a-1233b5ab9a7f@84da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241004T091500Z
+LOCATION:link do zajęć
+DTSTART:20241004T074500Z
+SUMMARY:Zarządzanie emocjami i gniewem (wykład do wyboru)
+UID:937769dd-380e-475d-bc24-66b9a0349caf@9377.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agata Miętus
+DTEND:20241003T081500Z
+LOCATION:Bibl. 443
+DTSTART:20241003T060000Z
+SUMMARY:Fundusze europejskie w biznesie (ćwiczenia)
+UID:ea027abb-86b5-4b14-b314-82a5fa21b03a@ea02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Piątkowski
+DTEND:20241216T153000Z
+LOCATION:Paw.F CJ 012
+DTSTART:20241216T140000Z
+SUMMARY:Fundusze europejskie w biznesie (warsztaty)
+UID:408780f5-331a-4485-9f5e-91e6469dec12@4087.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20241213T120000Z
+LOCATION:link do zajęć
+DTSTART:20241213T103000Z
+SUMMARY:Alternatywne metody zabezpieczenia emerytalnego (wykład do wyboru)
+UID:0be104e4-ecd5-4d2a-b7b5-6bcadfc15757@0be1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agata Miętus
+DTEND:20241024T091500Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20241024T074500Z
+SUMMARY:Fundusze europejskie w biznesie (ćwiczenia)
+UID:0e420037-7dbf-43a6-8d27-c25a35c19950@0e42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241001T171500Z
+LOCATION:link do zajęć
+DTSTART:20241001T163000Z
+SUMMARY:Zarządzanie emocjami i gniewem (wykład do wyboru)
+UID:0709c87d-a5f7-434a-9c16-de2488cfa60b@0709.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Izabela Czaja
+DTEND:20241021T091500Z
+LOCATION:Bibl.425
+DTSTART:20241021T074500Z
+SUMMARY:Design Thinking w biznesie (warsztaty)
+UID:d2435c69-2daa-4a3a-ad39-1b443f258fbd@d243.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20250124T120000Z
+LOCATION:link do zajęć
+DTSTART:20250124T103000Z
+SUMMARY:Alternatywne metody zabezpieczenia emerytalnego (wykład do wyboru)
+UID:aeceaab6-f3bf-4240-af14-4c693b6060f0@aece.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Szmigiel
+DTEND:20241219T120000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241219T103000Z
+SUMMARY:Finansowanie projektów innowacyjnych (warsztaty)
+UID:f0a18ee1-7105-4d9c-b0c5-e17312e45f36@f0a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Szmigiel
+DTEND:20250116T120000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20250116T103000Z
+SUMMARY:Finansowanie projektów innowacyjnych (warsztaty)
+UID:bb599dd2-cfe9-4ee4-83ca-c82b9a0bdfc9@bb59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241028T101500Z
+LOCATION:Bibl.425
+DTSTART:20241028T093000Z
+SUMMARY:Kryptowaluty i technologia blockchain (warsztaty)
+UID:296255e1-57db-46af-a036-b1bcca752fa1@2962.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Surówka
+DTEND:20241112T101500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241112T084500Z
+SUMMARY:Analiza finansowa przedsiębiorstw (ćwiczenia)
+UID:831fd89a-dcdc-404f-b724-8af8cbf28996@831f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241125T083000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241125T070000Z
+SUMMARY:Kryptowaluty i technologia blockchain (warsztaty)
+UID:0043c91f-d6bd-414e-bcc8-5fe5804d7b6c@0043.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20241022T091500Z
+LOCATION:Paw.F 415
+DTSTART:20241022T074500Z
+SUMMARY:Metody oceny projektów inwestycyjnych (ćwiczenia)
+UID:7dcc7168-9267-4640-81e5-1c5d9ee89bab@7dcc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Molo
+DTEND:20241022T073000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241022T060000Z
+SUMMARY:Analiza finansowa przedsiębiorstw (warsztaty)
+UID:c74dcafd-3287-4951-9c38-f519d4dc4c4d@c74d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Szmigiel
+DTEND:20241024T110000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241024T093000Z
+SUMMARY:Finansowanie projektów innowacyjnych (warsztaty)
+UID:3f80eec5-8ab5-4bda-a921-5f6e8afb1886@3f80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Molo
+DTEND:20241203T083000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241203T070000Z
+SUMMARY:Analiza finansowa przedsiębiorstw (warsztaty)
+UID:5c3daff6-c4e7-4cfa-9690-a8e39e02d6d8@5c3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20241126T120000Z
+LOCATION:Paw.F 415
+DTSTART:20241126T103000Z
+SUMMARY:Metody oceny projektów inwestycyjnych (warsztaty)
+UID:4d88576c-a3fe-4297-b19c-9dc8ecabfba9@4d88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Molo
+DTEND:20241217T083000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241217T070000Z
+SUMMARY:Analiza finansowa przedsiębiorstw (warsztaty)
+UID:8a657394-f6ca-4397-8de7-ad6ff21da399@8a65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agata Miętus
+DTEND:20250113T134500Z
+LOCATION:Paw.F CJ 012
+DTSTART:20250113T121500Z
+SUMMARY:Fundusze europejskie w biznesie (ćwiczenia)
+UID:a05f6b54-a4c0-4e28-a794-d02868a811c2@a05f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20241017T110000Z
+LOCATION:Paw.F 109
+DTSTART:20241017T093000Z
+SUMMARY:Komercjalizacja i dyfuzja innowacji (warsztaty)
+UID:4e4e42ab-ca7c-4f57-b7dd-bca892e04332@4e4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Szmigiel
+DTEND:20241107T120000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241107T103000Z
+SUMMARY:Finansowanie projektów innowacyjnych (warsztaty)
+UID:9d94012d-bb73-48c9-a1bc-77fc9c7ae836@9d94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agata Miętus
+DTEND:20250109T171500Z
+LOCATION:Bibl. 443
+DTSTART:20250109T154500Z
+SUMMARY:Fundusze europejskie w biznesie (ćwiczenia)
+UID:1d250104-a599-4be8-b379-43f5d3e71856@1d25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Molo
+DTEND:20241119T083000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241119T070000Z
+SUMMARY:Analiza finansowa przedsiębiorstw (warsztaty)
+UID:7c8f1515-4e8e-4675-ac5d-dfe4bc31d43e@7c8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20241029T120000Z
+LOCATION:Paw.F 415
+DTSTART:20241029T103000Z
+SUMMARY:Metody oceny projektów inwestycyjnych (warsztaty)
+UID:38946fef-e8b1-4bf2-b95f-3dcc7b74f75a@3894.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241118T083000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241118T070000Z
+SUMMARY:Kryptowaluty i technologia blockchain (ćwiczenia)
+UID:f1a9b397-1ec8-465e-b027-c3abedb5ae39@f1a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241129T083000Z
+LOCATION:link do zajęć
+DTSTART:20241129T070000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:9d0b55f2-135d-4124-8271-3de30485edc5@9d0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20241015T110000Z
+LOCATION:Paw.F 415
+DTSTART:20241015T093000Z
+SUMMARY:Metody oceny projektów inwestycyjnych (warsztaty)
+UID:35816a00-d51c-48d6-bb1b-cf70d5047aa0@3581.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241004T073000Z
+LOCATION:link do zajęć
+DTSTART:20241004T060000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:cdee4dc1-c91b-4fdb-b2c4-e2a3ad3e9245@cdee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Molo
+DTEND:20241015T120000Z
+LOCATION:Bibl. 443
+DTSTART:20241015T111500Z
+SUMMARY:Analiza finansowa przedsiębiorstw (warsztaty)
+UID:94fadffb-b45d-4062-b212-32e0bf9c3eae@94fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Surówka
+DTEND:20241029T101500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241029T084500Z
+SUMMARY:Analiza finansowa przedsiębiorstw (ćwiczenia)
+UID:3bac124d-c7bd-41e8-a8ba-74bc2468b7c0@3bac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Szmigiel
+DTEND:20250109T101500Z
+LOCATION:Paw.G  8
+DTSTART:20250109T084500Z
+SUMMARY:Finansowanie projektów innowacyjnych (ćwiczenia)
+UID:21904e6b-cd7c-43ba-98da-f62afc21bb0f@2190.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20250109T120000Z
+LOCATION:Paw.F 109
+DTSTART:20250109T103000Z
+SUMMARY:Komercjalizacja i dyfuzja innowacji (warsztaty)
+UID:0ee25347-0824-4060-9319-80d61d6f1bac@0ee2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agata Miętus
+DTEND:20241202T134500Z
+LOCATION:Paw.F CJ 012
+DTSTART:20241202T121500Z
+SUMMARY:Fundusze europejskie w biznesie (ćwiczenia)
+UID:deba7f71-f403-4526-9a07-51524844e4d5@deba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Surówka
+DTEND:20250107T101500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250107T084500Z
+SUMMARY:Analiza finansowa przedsiębiorstw (ćwiczenia)
+UID:b6f7f614-2050-4d5f-94e4-2df8b60f3eb6@b6f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Szmigiel
+DTEND:20241017T091500Z
+LOCATION:Paw.G  8
+DTSTART:20241017T074500Z
+SUMMARY:Finansowanie projektów innowacyjnych (ćwiczenia)
+UID:cc751008-813f-4d68-960a-707d3501549c@cc75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20241217T101500Z
+LOCATION:Paw.F 415
+DTSTART:20241217T084500Z
+SUMMARY:Metody oceny projektów inwestycyjnych (ćwiczenia)
+UID:ae8ee18a-76b2-4418-b003-46bae217337b@ae8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Szmigiel
+DTEND:20241205T120000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241205T103000Z
+SUMMARY:Finansowanie projektów innowacyjnych (warsztaty)
+UID:a05def98-67b2-4f8d-bf6f-8e14103ed5b2@a05d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Izabela Czaja
+DTEND:20241007T091500Z
+LOCATION:Bibl.425
+DTSTART:20241007T074500Z
+SUMMARY:Design Thinking w biznesie (warsztaty)
+UID:d1905212-78bd-4cc4-bde1-af4dc7176487@d190.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241129T101500Z
+LOCATION:link do zajęć
+DTSTART:20241129T084500Z
+SUMMARY:Zarządzanie emocjami i gniewem (wykład do wyboru)
+UID:569553c8-4f36-46fe-8ac7-d39f5553bdd8@5695.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20250110T101500Z
+LOCATION:link do zajęć
+DTSTART:20250110T084500Z
+SUMMARY:Zarządzanie emocjami i gniewem (wykład do wyboru)
+UID:36d7c5ef-ba0f-4c8e-bf4a-9ee0a96a67f6@36d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241028T083000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241028T070000Z
+SUMMARY:Kryptowaluty i technologia blockchain (warsztaty)
+UID:1ab2c307-92f8-41e3-a9d7-395d2a7c11a9@1ab2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241209T101500Z
+LOCATION:Bibl.425
+DTSTART:20241209T084500Z
+SUMMARY:Kryptowaluty i technologia blockchain (warsztaty)
+UID:25de53ce-16fc-4e19-ab13-1eabf7b1aca0@25de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241125T101500Z
+LOCATION:Bibl.425
+DTSTART:20241125T084500Z
+SUMMARY:Kryptowaluty i technologia blockchain (warsztaty)
+UID:74965194-132d-4ed3-9600-ad7f1b869a07@7496.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20241001T120000Z
+LOCATION:Paw.F CJ 302
+DTSTART:20241001T111500Z
+SUMMARY:Komercjalizacja i dyfuzja innowacji (warsztaty)
+UID:3c934adc-d27d-43b6-9875-0b4f435e6e28@3c93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Szmigiel
+DTEND:20241003T091500Z
+LOCATION:Paw.G  8
+DTSTART:20241003T083000Z
+SUMMARY:Finansowanie projektów innowacyjnych (ćwiczenia)
+UID:b8183e35-a4ae-4937-9df7-9993ab61843f@b818.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Izabela Czaja
+DTEND:20241118T101500Z
+LOCATION:Bibl.425
+DTSTART:20241118T084500Z
+SUMMARY:Design Thinking w biznesie (warsztaty)
+UID:ceec3415-6af1-4c70-b6a9-c3723e6903af@ceec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241021T073000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241021T060000Z
+SUMMARY:Kryptowaluty i technologia blockchain (ćwiczenia)
+UID:c4f20634-6641-4e55-8dfe-697371469919@c4f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241104T083000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241104T070000Z
+SUMMARY:Kryptowaluty i technologia blockchain (ćwiczenia)
+UID:de3f19d0-b8b5-4bcf-9410-070e3a6c9e29@de3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Piątkowski
+DTEND:20250109T153000Z
+LOCATION:L 525 Ustr.
+DTSTART:20250109T140000Z
+SUMMARY:Fundusze europejskie w biznesie (warsztaty)
+UID:630fbbf8-8c4d-4304-bfc7-0761ca8dbd90@630f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20241203T101500Z
+LOCATION:Paw.F 415
+DTSTART:20241203T084500Z
+SUMMARY:Metody oceny projektów inwestycyjnych (ćwiczenia)
+UID:996b2553-1b2d-4a25-b477-571b957fb501@996b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20241015T091500Z
+LOCATION:Paw.F 415
+DTSTART:20241015T074500Z
+SUMMARY:Metody oceny projektów inwestycyjnych (ćwiczenia)
+UID:ac2ac88f-6b43-4908-87ca-02189b41ba1c@ac2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Szmigiel
+DTEND:20241031T101500Z
+LOCATION:Paw.G  8
+DTSTART:20241031T084500Z
+SUMMARY:Finansowanie projektów innowacyjnych (ćwiczenia)
+UID:4b16d0e7-b67f-41b9-b649-86bbac868865@4b16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Szmigiel
+DTEND:20241121T120000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241121T103000Z
+SUMMARY:Finansowanie projektów innowacyjnych (warsztaty)
+UID:cc9d0a8b-91d3-4961-a89b-8b4502381364@cc9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Szmigiel
+DTEND:20241114T101500Z
+LOCATION:Paw.G  8
+DTSTART:20241114T084500Z
+SUMMARY:Finansowanie projektów innowacyjnych (ćwiczenia)
+UID:1bc0683e-9aa0-46c5-bc1e-862b4dee7fa5@1bc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241213T083000Z
+LOCATION:link do zajęć
+DTSTART:20241213T070000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:6e92f1d1-cbfc-4b96-9988-d95f788ad2c3@6e92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Izabela Czaja
+DTEND:20241001T124500Z
+LOCATION:Paw.F CJ 302
+DTSTART:20241001T120000Z
+SUMMARY:Design Thinking w biznesie (warsztaty)
+UID:23b6eeb4-cdaa-4b02-b210-c84d60cee12e@23b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241018T091500Z
+LOCATION:link do zajęć
+DTSTART:20241018T074500Z
+SUMMARY:Zarządzanie emocjami i gniewem (wykład do wyboru)
+UID:e4379d3a-6bc9-4823-93f9-ce46fdcaff28@e437.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Surówka
+DTEND:20250121T101500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250121T084500Z
+SUMMARY:Analiza finansowa przedsiębiorstw (ćwiczenia)
+UID:f6d2ab0b-5614-4b8e-bd90-c78411a0d560@f6d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Izabela Czaja
+DTEND:20250113T101500Z
+LOCATION:Bibl.425
+DTSTART:20250113T084500Z
+SUMMARY:Design Thinking w biznesie (warsztaty)
+UID:4c541565-6af5-48ed-90ff-0033b80cd5c0@4c54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Molo
+DTEND:20250114T083000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20250114T070000Z
+SUMMARY:Analiza finansowa przedsiębiorstw (warsztaty)
+UID:fa4145d1-4fc8-485b-a435-ac6e0a37ce07@fa41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Molo
+DTEND:20241008T073000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241008T060000Z
+SUMMARY:Analiza finansowa przedsiębiorstw (warsztaty)
+UID:e6102de2-f882-4581-a79e-58dbd917a587@e610.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Piątkowski
+DTEND:20250120T110000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20250120T084500Z
+SUMMARY:Fundusze europejskie w biznesie (warsztaty)
+UID:bcf2ef8f-2513-4ce1-9b4b-e43aacd52062@bcf2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20241105T101500Z
+LOCATION:Paw.F 415
+DTSTART:20241105T084500Z
+SUMMARY:Metody oceny projektów inwestycyjnych (ćwiczenia)
+UID:30d4618f-74c6-4a24-bfba-2f7460ad9407@30d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20250107T120000Z
+LOCATION:Paw.F 415
+DTSTART:20250107T103000Z
+SUMMARY:Metody oceny projektów inwestycyjnych (warsztaty)
+UID:e7c17728-b8f3-46e9-9ca5-f1234d7cc4d4@e7c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241001T161500Z
+LOCATION:link do zajęć
+DTSTART:20241001T153000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:b4cb2fe5-5c3f-457d-85fe-87ab89ff1a12@b4cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Molo
+DTEND:20241105T083000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241105T070000Z
+SUMMARY:Analiza finansowa przedsiębiorstw (warsztaty)
+UID:a0f3aa33-9bae-444c-b8df-56d1667e11ca@a0f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20250113T083000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250113T070000Z
+SUMMARY:Kryptowaluty i technologia blockchain (ćwiczenia)
+UID:da1d25f4-5e56-4d15-9870-460587ed38cd@da1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20241031T120000Z
+LOCATION:Paw.F 109
+DTSTART:20241031T103000Z
+SUMMARY:Komercjalizacja i dyfuzja innowacji (warsztaty)
+UID:ee17cb3e-b92c-449e-b889-f4ba2e6763de@ee17.org
+END:VEVENT
+END:VCALENDAR

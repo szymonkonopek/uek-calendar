@@ -1,0 +1,156 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20241018T183000Z
+LOCATION:Zajęcia Online
+DTSTART:20241018T144500Z
+SUMMARY:Wprowadzenie do programowania w językach R i Python (Studia podyplomowe)
+UID:b1c8efdc-7507-45b7-a31e-8d821e1e9e01@b1c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20241004T183000Z
+LOCATION:Zajęcia Online
+DTSTART:20241004T144500Z
+SUMMARY:Podstawy relacyjnych baz danych (Studia podyplomowe)
+UID:d053ea1e-de65-4abc-bd4f-3d48a50a6bd8@d053.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20241116T113000Z
+LOCATION:Zajęcia Online
+DTSTART:20241116T074500Z
+SUMMARY:Wprowadzenie do programowania w językach R i Python (Studia podyplomowe)
+UID:9ddd87dc-b3b8-4b5e-a499-e8d41c909bce@9ddd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20241020T103000Z
+LOCATION:Zajęcia Online
+DTSTART:20241020T064500Z
+SUMMARY:Wprowadzenie do programowania w językach R i Python (Studia podyplomowe)
+UID:220c9703-a61c-401b-b907-c1cbc3bc0ca4@220c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
+DTEND:20241213T184500Z
+LOCATION:Zajęcia Online
+DTSTART:20241213T154500Z
+SUMMARY:Elementy wnioskowania statystycznego (Studia podyplomowe)
+UID:d881d3fe-3908-4bf7-98ce-8de67c988e2b@d881.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20241006T103000Z
+LOCATION:Zajęcia Online
+DTSTART:20241006T064500Z
+SUMMARY:Wprowadzenie do programowania w językach R i Python (Studia podyplomowe)
+UID:ae025dab-33a3-4c12-b971-41abe3a0c76f@ae02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20241130T141500Z
+LOCATION:Zajęcia Online
+DTSTART:20241130T111500Z
+SUMMARY:Przetwarzanie dokumentów i wielkich zbiorów danych (Studia podyplomowe)
+UID:c9109804-01d0-4260-98a7-f82c484418b3@c910.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
+DTEND:20241214T141500Z
+LOCATION:Zajęcia Online
+DTSTART:20241214T111500Z
+SUMMARY:Elementy wnioskowania statystycznego (Studia podyplomowe)
+UID:b5414ff6-bbea-4199-9fce-b69a9cfcf528@b541.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20250111T113000Z
+LOCATION:Zajęcia Online
+DTSTART:20250111T074500Z
+SUMMARY:Przetwarzanie dokumentów i wielkich zbiorów danych (Studia podyplomowe)
+UID:a7b80d8d-5c2a-4424-bb87-724dc86f02c6@a7b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20241005T133000Z
+LOCATION:Zajęcia Online
+DTSTART:20241005T111500Z
+SUMMARY:Wprowadzenie do programowania w językach R i Python (Studia podyplomowe)
+UID:e0760004-7a2c-4f6a-b612-4cbaa1d9b377@e076.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20250118T083000Z
+LOCATION:Zajęcia Online
+DTSTART:20250118T074500Z
+SUMMARY:Egzamin semestralny (Studia podyplomowe)
+UID:2daf18b7-ff94-4b2d-91c0-2be95db01ed7@2daf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20241129T193000Z
+LOCATION:Zajęcia Online
+DTSTART:20241129T154500Z
+SUMMARY:Przetwarzanie dokumentów i wielkich zbiorów danych (Studia podyplomowe)
+UID:3c6a34f4-0441-4553-820e-1efd31e3d15e@3c6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20241115T193000Z
+LOCATION:Zajęcia Online
+DTSTART:20241115T154500Z
+SUMMARY:Podstawy relacyjnych baz danych (Studia podyplomowe)
+UID:7a558578-eb3f-4cc0-9061-077ca2c5c784@7a55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
+DTEND:20250111T143000Z
+LOCATION:Zajęcia Online
+DTSTART:20250111T121500Z
+SUMMARY:Elementy wnioskowania statystycznego (Studia podyplomowe)
+UID:0e90f751-8da0-4290-895c-850d9bc2e0f8@0e90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20241214T104500Z
+LOCATION:Zajęcia Online
+DTSTART:20241214T074500Z
+SUMMARY:Przetwarzanie dokumentów i wielkich zbiorów danych (Studia podyplomowe)
+UID:fe54c7e1-e1a0-4bc3-990f-7156159f71aa@fe54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20241005T103000Z
+LOCATION:Zajęcia Online
+DTSTART:20241005T064500Z
+SUMMARY:Podstawy relacyjnych baz danych (Studia podyplomowe)
+UID:f5a86555-cbba-47a4-adcf-e62c369b2bb4@f5a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Sławomir Śmiech
+DTEND:20241130T104500Z
+LOCATION:Zajęcia Online
+DTSTART:20241130T074500Z
+SUMMARY:Elementy wnioskowania statystycznego (Studia podyplomowe)
+UID:28a98fa7-3563-4979-b9de-24d532f8b7f9@28a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20241019T103000Z
+LOCATION:Zajęcia Online
+DTSTART:20241019T064500Z
+SUMMARY:Podstawy relacyjnych baz danych (Studia podyplomowe)
+UID:7d599b15-a9a5-4b3e-8ff3-1a96f7b2f230@7d59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20241019T133000Z
+LOCATION:Zajęcia Online
+DTSTART:20241019T111500Z
+SUMMARY:Wprowadzenie do programowania w językach R i Python (Studia podyplomowe)
+UID:a89db805-094d-409a-868e-fef58aaa286f@a89d.org
+END:VEVENT
+END:VCALENDAR

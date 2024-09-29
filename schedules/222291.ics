@@ -1,0 +1,658 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241003T073000Z
+LOCATION:Paw.U sala M
+DTSTART:20241003T060000Z
+SUMMARY:Projektowanie systemów produkcyjnych (wykład)
+UID:e0247e38-1fe2-43bc-9987-329a08e7958d@e024.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20250122T091500Z
+LOCATION:Paw.S sala 11
+DTSTART:20250122T074500Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:7e66320f-6b6b-4cdb-bb22-031c49cc147a@7e66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241018T124500Z
+LOCATION:Paw.F 614
+DTSTART:20241018T111500Z
+SUMMARY:Rozpatrywanie reklamacji konsumenckich (wykład do wyboru)
+UID:ff86ec2a-8804-4958-80a2-b4c8582ca898@ff86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241106T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241106T121500Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:ce6e4a29-517e-4d61-bfb6-2de51525b67e@ce6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:1ed4e2a8-e917-4f08-b5a3-4e7edc0780ad@1ed4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20241203T180000Z
+LOCATION:Paw.F 516
+DTSTART:20241203T154500Z
+SUMMARY:Rozwijanie kreatywności i twórcze rozwiązywanie problemów (wykład do wyboru)
+UID:faa7bb9c-55e4-4278-a175-47c748a20f5b@faa7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20250122T120000Z
+LOCATION:Paw.U sala M
+DTSTART:20250122T111500Z
+SUMMARY:Projektowanie systemów produkcyjnych (wykład)
+UID:c55d9728-c221-4a25-baa3-776e915e406e@c55d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20250115T171500Z
+LOCATION:Paw.U sala M
+DTSTART:20250115T154500Z
+SUMMARY:Projektowanie systemów produkcyjnych (wykład)
+UID:1440d14b-ff63-4b17-8105-66ddd5cb5b72@1440.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20241022T170000Z
+LOCATION:Paw.F 516
+DTSTART:20241022T144500Z
+SUMMARY:Rozwijanie kreatywności i twórcze rozwiązywanie problemów (wykład do wyboru)
+UID:8131fc36-4afc-4409-aa98-9d8737fa22bf@8131.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20250114T180000Z
+LOCATION:Paw.F 516
+DTSTART:20250114T154500Z
+SUMMARY:Rozwijanie kreatywności i twórcze rozwiązywanie problemów (wykład do wyboru)
+UID:2bc194a3-c7f9-4aa1-b09b-711331a82e7a@2bc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241129T120000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241129T103000Z
+SUMMARY:Technologie i organizacja czystszej produkcji (ćwiczenia)
+UID:d6ca6441-db55-4f25-acee-07e5f1947873@d6ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20250117T134500Z
+LOCATION:Platforma Moodle
+DTSTART:20250117T070000Z
+SUMMARY:Rachunek kosztów dla inżynierów (wykład e-learningowy)
+UID:97685200-a7f0-4464-ad3d-40f5db06fd71@9768.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20241018T073000Z
+LOCATION:Paw.F 107
+DTSTART:20241018T060000Z
+SUMMARY:Controlling produkcji (wykład do wyboru)
+UID:080a95e7-f2a5-42b0-aee4-2c18faa2f97e@080a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241204T171500Z
+LOCATION:Paw.U sala M
+DTSTART:20241204T154500Z
+SUMMARY:Projektowanie systemów produkcyjnych (wykład)
+UID:1b390950-c74d-4793-92ad-927603b03657@1b39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241011T091500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241011T074500Z
+SUMMARY:Technologie i organizacja czystszej produkcji (wykład)
+UID:3b908db0-096b-4904-a780-d056cb0874ab@3b90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20250108T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20250108T121500Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:d7f694c9-f109-4d06-8e49-b4dd4db6dc3e@d7f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241204T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241204T121500Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:0e49aea0-f75c-4fd5-af94-a200de230230@0e49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241018T091500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241018T074500Z
+SUMMARY:Technologie i organizacja czystszej produkcji (wykład)
+UID:7737eab9-fb7d-412d-a8a8-57392a2def16@7737.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241018T110000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241018T093000Z
+SUMMARY:Technologie i organizacja czystszej produkcji (ćwiczenia)
+UID:a5029e98-624d-46af-a2d4-376a341468a2@a502.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241025T091500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241025T074500Z
+SUMMARY:Technologie i organizacja czystszej produkcji (wykład)
+UID:090e08e7-05cd-40ef-82b1-104a18757cdd@090e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241122T101500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241122T084500Z
+SUMMARY:Technologie i organizacja czystszej produkcji (wykład)
+UID:15100ace-8144-4830-a2ab-5181f6dfa544@1510.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241029T153000Z
+LOCATION:Bud.gł. 7
+DTSTART:20241029T140000Z
+SUMMARY:Rachunek kosztów dla inżynierów (ćwiczenia)
+UID:47351e0c-da40-4ac9-b59e-6fb54a7e7734@4735.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20241016T143000Z
+LOCATION:Paw.C sala A
+DTSTART:20241016T130000Z
+SUMMARY:Ochrona własności intelektualnej (wykład)
+UID:ff43d26e-fbdf-4a0c-bb39-4758b964e5ca@ff43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241122T134500Z
+LOCATION:Paw.F 614
+DTSTART:20241122T121500Z
+SUMMARY:Rozpatrywanie reklamacji konsumenckich (wykład do wyboru)
+UID:c973235e-7870-4387-9938-19694d376067@c973.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241004T124500Z
+LOCATION:Paw.F 614
+DTSTART:20241004T111500Z
+SUMMARY:Rozpatrywanie reklamacji konsumenckich (wykład do wyboru)
+UID:b9ec000d-dee9-4c37-8092-e27e5cf16d18@b9ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:fc23a80d-38de-4f30-8bdd-676224bd3bb8@fc23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20241122T083000Z
+LOCATION:Paw.F 107
+DTSTART:20241122T070000Z
+SUMMARY:Controlling produkcji (wykład do wyboru)
+UID:88cde6df-a24b-4011-b00f-6f6ec4061ca6@88cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241127T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241127T121500Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:843bb0b6-9aac-4ab9-8707-422b695b448f@843b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241129T130000Z
+LOCATION:Paw.F 614
+DTSTART:20241129T121500Z
+SUMMARY:Rozpatrywanie reklamacji konsumenckich (wykład do wyboru)
+UID:c5e1e016-07d8-4e21-b9bf-07347ccabbca@c5e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241009T124500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241009T111500Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:e9fb0783-83ba-4794-9115-528ca0aefe4c@e9fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241009T143000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241009T130000Z
+SUMMARY:Konsument na rynku (wykład do wyboru)
+UID:4a4785d8-ed78-4ef0-ba31-e272ef90b005@4a47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241025T110000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241025T093000Z
+SUMMARY:Technologie i organizacja czystszej produkcji (ćwiczenia)
+UID:5a87159b-26d1-46c1-b8f2-ace6ff2bdd01@5a87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241106T153000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241106T140000Z
+SUMMARY:Konsument na rynku (wykład do wyboru)
+UID:b6eea99a-7743-4b6a-ac80-38b4138bdfc4@b6ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241218T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241218T121500Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:7dbcaeb9-48e3-4172-9a93-8df679fc1bc1@7dbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20241011T073000Z
+LOCATION:Paw.F 107
+DTSTART:20241011T060000Z
+SUMMARY:Controlling produkcji (wykład do wyboru)
+UID:66e83b80-3db8-4522-87d2-c195c968d9d9@66e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241122T120000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241122T103000Z
+SUMMARY:Technologie i organizacja czystszej produkcji (ćwiczenia)
+UID:ffb9050f-f8eb-47e0-9b39-d52c6ebfb7be@ffb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20250124T134500Z
+LOCATION:Platforma Moodle
+DTSTART:20250124T070000Z
+SUMMARY:Rachunek kosztów dla inżynierów (Ćwiczenia e-learningowe)
+UID:3af01241-29da-4d94-8c7b-b328e8124410@3af0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241218T171500Z
+LOCATION:Paw.U sala M
+DTSTART:20241218T154500Z
+SUMMARY:Projektowanie systemów produkcyjnych (wykład)
+UID:9dfa8e43-f749-4e27-97bd-9490e0fe9469@9dfa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241011T124500Z
+LOCATION:Paw.F 614
+DTSTART:20241011T111500Z
+SUMMARY:Rozpatrywanie reklamacji konsumenckich (wykład do wyboru)
+UID:29251446-2648-4cf4-b916-4318b9eb4281@2925.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241115T134500Z
+LOCATION:Paw.F 614
+DTSTART:20241115T121500Z
+SUMMARY:Rozpatrywanie reklamacji konsumenckich (wykład do wyboru)
+UID:c046a7fc-37bb-40d2-8e8f-859cf48cf0df@c046.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241129T101500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241129T093000Z
+SUMMARY:Technologie i organizacja czystszej produkcji (wykład)
+UID:2804eb75-ffbd-4cc8-ac93-7ba88adc2481@2804.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241204T153000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241204T140000Z
+SUMMARY:Konsument na rynku (wykład do wyboru)
+UID:d35fe65c-cd41-409c-b97e-0042546dd294@d35f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20241127T153000Z
+LOCATION:Paw.C sala A
+DTSTART:20241127T140000Z
+SUMMARY:Ochrona własności intelektualnej (wykład)
+UID:b5dfd6a1-ca6f-4cc7-8635-fa2190c8f9f1@b5df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20241108T083000Z
+LOCATION:Paw.F 107
+DTSTART:20241108T070000Z
+SUMMARY:Controlling produkcji (wykład do wyboru)
+UID:6bf1a9aa-41d0-41cb-a039-27e7d14b363a@6bf1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241108T101500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241108T084500Z
+SUMMARY:Technologie i organizacja czystszej produkcji (wykład)
+UID:bf8130a8-31db-415e-8e73-7817b8beb710@bf81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20241030T153000Z
+LOCATION:Paw.C sala A
+DTSTART:20241030T140000Z
+SUMMARY:Ochrona własności intelektualnej (wykład)
+UID:5881c57b-3f51-4c4f-baed-109f2638eff1@5881.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20250108T153000Z
+LOCATION:Paw.C sala A
+DTSTART:20250108T140000Z
+SUMMARY:Ochrona własności intelektualnej (wykład)
+UID:ee200113-1ea8-4c99-a01c-3d5c1799b4a3@ee20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241211T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241211T121500Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:a3480acc-7bc4-4439-befc-ca055c5507d6@a348.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241030T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241030T121500Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:fcee9627-42d1-45dd-8679-067db80f20b6@fcee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20250122T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20250122T121500Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:c8562caf-f7f6-4fe1-91ba-f68df45ea625@c856.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20250110T190000Z
+LOCATION:Platforma Moodle
+DTSTART:20250110T121500Z
+SUMMARY:Konsument na rynku (wykład e-learningowy)
+UID:e58a1622-0b40-44b3-9d65-725e48c85bb1@e58a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20250107T153000Z
+LOCATION:Bud.gł. 7
+DTSTART:20250107T140000Z
+SUMMARY:Rachunek kosztów dla inżynierów (ćwiczenia)
+UID:5b814b3a-965c-4d35-8864-5b27f0d30d61@5b81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241105T153000Z
+LOCATION:Paw.U sala N
+DTSTART:20241105T140000Z
+SUMMARY:Rachunek kosztów dla inżynierów (wykład)
+UID:ec399867-1d4a-4043-801a-e638864f6652@ec39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20241129T083000Z
+LOCATION:Paw.F 107
+DTSTART:20241129T074500Z
+SUMMARY:Controlling produkcji (wykład do wyboru)
+UID:33480581-3f13-4c64-9ecd-f917324b775e@3348.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241004T101500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241004T093000Z
+SUMMARY:Technologie i organizacja czystszej produkcji (ćwiczenia)
+UID:c32cb186-393d-4651-831c-fc2079904c64@c32c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241106T171500Z
+LOCATION:Paw.U sala M
+DTSTART:20241106T154500Z
+SUMMARY:Projektowanie systemów produkcyjnych (wykład)
+UID:70b8cfb9-f84f-46db-ac86-994fec946c8c@70b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241108T120000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241108T103000Z
+SUMMARY:Technologie i organizacja czystszej produkcji (ćwiczenia)
+UID:3a92ca3e-3264-4eb1-918b-95ee535b44ab@3a92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241113T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241113T121500Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:c60bb65b-e52d-432a-aa71-1773a8577c8f@c60b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241120T171500Z
+LOCATION:Paw.U sala M
+DTSTART:20241120T154500Z
+SUMMARY:Projektowanie systemów produkcyjnych (wykład)
+UID:f3162689-dc57-47ee-8403-23445bcfd7f5@f316.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241011T110000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241011T093000Z
+SUMMARY:Technologie i organizacja czystszej produkcji (ćwiczenia)
+UID:24c3a052-fcfa-4325-a98b-f7fe117d6f7a@24c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20241105T180000Z
+LOCATION:Paw.F 516
+DTSTART:20241105T154500Z
+SUMMARY:Rozwijanie kreatywności i twórcze rozwiązywanie problemów (wykład do wyboru)
+UID:c6112e8a-32cb-4902-ae6d-234d92a89d58@c611.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20250122T153000Z
+LOCATION:Paw.C sala A
+DTSTART:20250122T140000Z
+SUMMARY:Ochrona własności intelektualnej (wykład)
+UID:381029c1-11cc-4e0c-b272-508c79361fa3@3810.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241004T091500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241004T074500Z
+SUMMARY:Technologie i organizacja czystszej produkcji (wykład)
+UID:44109cf2-c535-4b0f-9ea7-f044a5ee20fa@4410.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20241113T153000Z
+LOCATION:Paw.C sala A
+DTSTART:20241113T140000Z
+SUMMARY:Ochrona własności intelektualnej (wykład)
+UID:8296521f-600b-4b23-bb2a-17d31e8af354@8296.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241003T091500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241003T074500Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:8755315c-24fa-440f-adc1-5826939f5179@8755.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20250115T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20250115T121500Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:8edd1ef4-13b5-4a59-9ee2-999b1729830c@8edd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241120T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241120T121500Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:dfbaec20-5812-4d57-ac09-7c70ac472e03@dfba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20250120T163000Z
+LOCATION:Paw.C sala A
+DTSTART:20250120T154500Z
+SUMMARY:Ochrona własności intelektualnej (wykład)
+UID:629a5460-6f75-4dd3-be84-f19ff15742e8@629a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241008T143000Z
+LOCATION:Paw.U sala N
+DTSTART:20241008T130000Z
+SUMMARY:Rachunek kosztów dla inżynierów (wykład)
+UID:a086f2e8-d273-4b6e-808a-1db6fc541bc0@a086.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20241115T083000Z
+LOCATION:Paw.F 107
+DTSTART:20241115T070000Z
+SUMMARY:Controlling produkcji (wykład do wyboru)
+UID:0f311af1-1278-4357-a3b7-29d635e72361@0f31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20241025T073000Z
+LOCATION:Paw.F 107
+DTSTART:20241025T060000Z
+SUMMARY:Controlling produkcji (wykład do wyboru)
+UID:7ffd0b9b-faef-4500-980f-3953ce45e060@7ffd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241115T101500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241115T084500Z
+SUMMARY:Technologie i organizacja czystszej produkcji (wykład)
+UID:519c354b-6289-4d4f-bd17-c330f32e78b2@519c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241025T124500Z
+LOCATION:Paw.F 614
+DTSTART:20241025T111500Z
+SUMMARY:Rozpatrywanie reklamacji konsumenckich (wykład do wyboru)
+UID:92d5fefe-f083-4f94-90f6-a19c4f1b07c7@92d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20241211T153000Z
+LOCATION:Paw.C sala A
+DTSTART:20241211T140000Z
+SUMMARY:Ochrona własności intelektualnej (wykład)
+UID:4b8db36e-e547-4ab3-98ef-df781a0d65c5@4b8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20241004T073000Z
+LOCATION:Paw.F 107
+DTSTART:20241004T060000Z
+SUMMARY:Controlling produkcji (wykład do wyboru)
+UID:c308db76-ea94-49cd-bc92-bd05b4a401d7@c308.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241108T134500Z
+LOCATION:Paw.F 614
+DTSTART:20241108T121500Z
+SUMMARY:Rozpatrywanie reklamacji konsumenckich (wykład do wyboru)
+UID:aa8955c4-0fd1-48b7-8fec-adb0ac7325fc@aa89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241018T151500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241018T134500Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:a9ce622e-2c62-4de0-a0b3-b4dabbcf9465@a9ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241009T161500Z
+LOCATION:Paw.U sala M
+DTSTART:20241009T144500Z
+SUMMARY:Projektowanie systemów produkcyjnych (wykład)
+UID:ab619e8a-e68d-408d-87f7-3d4c0f325293@ab61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241126T153000Z
+LOCATION:Bud.gł. 7
+DTSTART:20241126T140000Z
+SUMMARY:Rachunek kosztów dla inżynierów (ćwiczenia)
+UID:ce96a23b-b945-4773-8386-1bb147f9c181@ce96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241203T153000Z
+LOCATION:Paw.U sala N
+DTSTART:20241203T140000Z
+SUMMARY:Rachunek kosztów dla inżynierów (wykład)
+UID:b72216fa-a4d9-437a-bede-a806017528da@b722.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20241217T180000Z
+LOCATION:Paw.F 516
+DTSTART:20241217T154500Z
+SUMMARY:Rozwijanie kreatywności i twórcze rozwiązywanie problemów (wykład do wyboru)
+UID:9b8f6043-ea6b-4237-8178-84eee5751970@9b8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241115T120000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241115T103000Z
+SUMMARY:Technologie i organizacja czystszej produkcji (ćwiczenia)
+UID:cdc38f7a-d4bc-49a9-aa61-f68ad9594f85@cdc3.org
+END:VEVENT
+END:VCALENDAR

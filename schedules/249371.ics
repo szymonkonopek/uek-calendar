@@ -1,0 +1,175 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Magdalena Cetera
+DTEND:20250223T143000Z
+LOCATION:Zajęcia Online
+DTSTART:20250223T074500Z
+SUMMARY:Case Study - mediacje w samorządzie (Studia podyplomowe)
+UID:d918537d-631a-4cee-9d4d-dd7b6e318f7b@d918.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marek Wójcik
+DTEND:20241124T143000Z
+LOCATION:Paw.G  7
+DTSTART:20241124T074500Z
+SUMMARY:Mierniki rozwoju miast i regionów. Benchmarking. (Studia podyplomowe)
+UID:ddcd5276-a346-4f89-9739-6dff00091e6a@ddcd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Jasinowska-Czarny
+DTEND:20241208T143000Z
+LOCATION:Zajęcia Online
+DTSTART:20241208T074500Z
+SUMMARY:Finanse JST i inzynieria finansowa (Studia podyplomowe)
+UID:0d4e4273-96f7-4e89-89a2-2dd2a69e903a@0d4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20250426T091500Z
+DTSTART:20250426T074500Z
+SUMMARY:Case study\, Metodyka przygotowania projektów (Studia podyplomowe)
+UID:0e0e30ba-6bbe-4ce1-9ddd-f3eef2d4dffd@0e0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250517T133000Z
+DTSTART:20250517T064500Z
+SUMMARY:Obrony prac końcowych (Studia podyplomowe)
+UID:b1741153-64cb-4e2d-b1d5-f3e06f5305fd@b174.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20241123T083000Z
+LOCATION:Paw.G  7
+DTSTART:20241123T074500Z
+SUMMARY:Egzamin semestralny (Studia podyplomowe)
+UID:89a6cad9-0dfa-4552-a20f-ce437c91d3f3@89a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Robert Kamiński
+DTEND:20250202T143000Z
+LOCATION:Zajęcia Online
+DTSTART:20250202T074500Z
+SUMMARY:Zarządzanie zmianą w sytuacji kryzysowej (Studia podyplomowe)
+UID:e395c28d-e703-4aef-ab04-ab303f63d4d0@e395.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Wojciech Fill
+DTEND:20250118T143000Z
+LOCATION:Zajęcia Online
+DTSTART:20250118T074500Z
+SUMMARY:Zamówienia publiczne. Partnerstwo publiczno-prywatne (Studia podyplomowe)
+UID:9347524a-7ed3-4fc8-8ae3-e20a09017154@9347.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Kamil Wyszkowski
+DTEND:20250330T133000Z
+LOCATION:Zajęcia Online
+DTSTART:20250330T064500Z
+SUMMARY:Zmiany klimatyczne - perspektywa dla miast i regionów (Studia podyplomowe)
+UID:40c273fd-c775-40e1-8ebd-f9e331ee3f44@40c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Tomasz Piekot
+DTEND:20250119T151500Z
+LOCATION:Zajęcia Online
+DTSTART:20250119T121500Z
+SUMMARY:Standard prostego języka w urzędzie (Studia podyplomowe)
+UID:f92a7ac4-04b9-42ce-a734-3718a59cfc0c@f92a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Tomasz Piekot
+DTEND:20250119T113000Z
+LOCATION:Zajęcia Online
+DTSTART:20250119T074500Z
+SUMMARY:Wystąpienia publiczne (Studia podyplomowe)
+UID:c77f75c0-9e65-41a5-8ded-6db5d0c9c96b@c77f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20241123T101500Z
+LOCATION:Paw.G  7
+DTSTART:20241123T084500Z
+SUMMARY:Case study\, Metodyka przygotowania projektów (Studia podyplomowe)
+UID:6bf32604-8531-4125-ba4a-d70af9993bf9@6bf3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Kwaśny
+DTEND:20250329T143000Z
+LOCATION:Zajęcia Online
+DTSTART:20250329T074500Z
+SUMMARY:Teoria i praktyka samorządu terytorialnego w Polsce (Studia podyplomowe)
+UID:b35e444e-0c87-4b46-a298-4346e8bb1f64@b35e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241013T133000Z
+LOCATION:Zajęcia Online
+DTSTART:20241013T064500Z
+SUMMARY:Programowanie i finansowanie polityk publicznych (Studia podyplomowe)
+UID:b9893615-d683-44c7-a63f-d34e638f87cc@b989.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Markiewicz
+DTEND:20250201T143000Z
+LOCATION:Zajęcia Online
+DTSTART:20250201T074500Z
+SUMMARY:Przywództwo (Studia podyplomowe)
+UID:715b7e25-e808-4e3b-b24c-bc75eff27732@715b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr\, prof. KAAFM Tomasz Orłowski
+DTEND:20250427T133000Z
+DTSTART:20250427T064500Z
+SUMMARY:Protokół dyplomatyczny i etykieta w samorządzie (Studia podyplomowe)
+UID:9111d9eb-1bb9-40df-ab8b-d3d0aaecb15f@9111.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marek Wójcik
+DTEND:20241123T154500Z
+LOCATION:Paw.G  7
+DTSTART:20241123T103000Z
+SUMMARY:Mierniki rozwoju miast i regionów. Benchmarking. (Studia podyplomowe)
+UID:0736a47c-2483-4cdd-a140-782392e5302a@0736.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kacper Siwek
+DTEND:20250222T143000Z
+LOCATION:Zajęcia Online
+DTSTART:20250222T074500Z
+SUMMARY:Finanse JST i inzynieria finansowa (Studia podyplomowe)
+UID:a7056885-5c8b-4399-b098-16038a2fca50@a705.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Inga Mizdrak
+DTEND:20241207T143000Z
+LOCATION:Zajęcia Online
+DTSTART:20241207T074500Z
+SUMMARY:Etyczne uwarunkowania pracy menedżera JST (Studia podyplomowe)
+UID:948afcab-772d-4822-99c3-af1682f64afc@948a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Andrzej Sztando
+DTEND:20250426T161500Z
+DTSTART:20250426T093000Z
+SUMMARY:Zarządzanie strategiczne. Projekty\, które zmieniły miasto/region (Studia podyplomowe)
+UID:6c5fe268-1614-4abc-86ab-dcf7ff8734bd@6c5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20250426T073000Z
+DTSTART:20250426T064500Z
+SUMMARY:Egzamin semestralny (Studia podyplomowe)
+UID:cecf1bb3-0b5d-4742-a715-4125c7975747@cecf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Dolot
+DTEND:20241012T133000Z
+LOCATION:Zajęcia Online
+DTSTART:20241012T064500Z
+SUMMARY:Case Study - HR w samorządzie. Motywowanie pracowników (Studia podyplomowe)
+UID:22548725-bf89-4fb5-b299-1426f1571cb6@2254.org
+END:VEVENT
+END:VCALENDAR

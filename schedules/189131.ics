@@ -1,0 +1,404 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogusława Puzio-Wacławik
+DTEND:20241213T170000Z
+LOCATION:link do zajęć
+DTSTART:20241213T144500Z
+SUMMARY:Mikroekonomia (wykład)
+UID:f8fe20e1-7cc1-4b52-996c-bc923087b909@f8fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksander Dańda
+DTEND:20250124T184500Z
+LOCATION:link do zajęć
+DTSTART:20250124T154500Z
+SUMMARY:Historia współczesnych stosunków międzynarodowych (do 1991) (wykład)
+UID:7b562958-e2cc-4a69-9564-514163d85c17@7b56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogusława Puzio-Wacławik
+DTEND:20241129T184500Z
+LOCATION:link do zajęć
+DTSTART:20241129T154500Z
+SUMMARY:Mikroekonomia (wykład)
+UID:7e6c2515-cfb4-42d9-8836-7bd73c9a712e@7e6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: Kolegium Gap Inne Jednostki -
+DTEND:20241004T091500Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20241004T074500Z
+SUMMARY: (rezerwacja)
+UID:31202e9e-0999-4c8e-8ee6-61162754b5e9@3120.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Bardel
+DTEND:20250125T133000Z
+LOCATION:link do zajęć
+DTSTART:20250125T103000Z
+SUMMARY:Filozofia (wykład)
+UID:beea2443-4972-4386-ba0a-8dfe06b8b4a8@beea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241122T194500Z
+LOCATION:link do zajęć
+DTSTART:20241122T173000Z
+SUMMARY:Geografia polityczna i ekonomiczna (wykład)
+UID:a4baae98-2e76-4797-93a6-8818dc1eff83@a4ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20250126T114500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20250126T093000Z
+SUMMARY:Wstęp do teorii stosunków międzynarodowych (konwersatorium)
+UID:afab3d2b-7663-4b58-9c68-0724f12a259c@afab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241214T114500Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241214T084500Z
+SUMMARY:Wstęp do teorii stosunków międzynarodowych (konwersatorium)
+UID:cffc7bd1-e686-4755-a197-65255e093281@cffc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20241012T123000Z
+LOCATION:link do zajęć
+DTSTART:20241012T101500Z
+SUMMARY:Podstawy socjologii (wykład)
+UID:25e7f1c3-4f0d-42a6-9b3f-49cbefcf5335@25e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Olech
+DTEND:20250126T143000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20250126T121500Z
+SUMMARY:Podstawy prawa (ćwiczenia)
+UID:2249caf5-b86d-4e8c-83d1-197f7a067cda@2249.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksander Dańda
+DTEND:20241116T091500Z
+LOCATION:link do zajęć
+DTSTART:20241116T070000Z
+SUMMARY:Historia współczesnych stosunków międzynarodowych (do 1991) (wykład)
+UID:a144fd0d-12a5-4dd5-a966-06ac765f9472@a144.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogusława Puzio-Wacławik
+DTEND:20241201T114500Z
+LOCATION:Paw.F 416
+DTSTART:20241201T093000Z
+SUMMARY:Mikroekonomia (ćwiczenia)
+UID:3cdb8c30-5d73-4bf3-88f2-ea588fc0cb45@3cdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241123T114500Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241123T084500Z
+SUMMARY:Wstęp do teorii stosunków międzynarodowych (konwersatorium)
+UID:8f23a73d-d397-4500-b1ec-ab5db34d4d16@8f23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241005T114500Z
+LOCATION:link do zajęć
+DTSTART:20241005T093000Z
+SUMMARY:Nauka o państwie (wykład)
+UID:4f251219-cb65-433c-a3e0-139a7b3283b5@4f25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogusława Puzio-Wacławik
+DTEND:20250110T184500Z
+LOCATION:link do zajęć
+DTSTART:20250110T154500Z
+SUMMARY:Mikroekonomia (wykład)
+UID:8f3e19f3-a9cb-47f0-9401-14b54fc360ff@8f3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogusława Puzio-Wacławik
+DTEND:20241006T114500Z
+LOCATION:link do zajęć
+DTSTART:20241006T093000Z
+SUMMARY:Mikroekonomia (wykład)
+UID:fe1a2f62-9033-4bff-a827-3558e0527c32@fe1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Bardel
+DTEND:20241026T094500Z
+LOCATION:link do zajęć
+DTSTART:20241026T064500Z
+SUMMARY:Filozofia (wykład)
+UID:a9b9ad28-6772-41f3-8d1f-ba5c80335ea8@a9b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20250125T100000Z
+LOCATION:link do zajęć
+DTSTART:20250125T074500Z
+SUMMARY:Podstawy socjologii (wykład)
+UID:a23d011d-9cc4-4f67-b753-32834de85e5e@a23d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20241006T141500Z
+LOCATION:link do zajęć
+DTSTART:20241006T120000Z
+SUMMARY:Podstawy socjologii (wykład)
+UID:3ef36785-d276-4e95-906a-7edc3267552b@3ef3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksander Dańda
+DTEND:20241012T164500Z
+LOCATION:link do zajęć
+DTSTART:20241012T134500Z
+SUMMARY:Historia współczesnych stosunków międzynarodowych (do 1991) (wykład)
+UID:df975246-d6b8-4082-b4c1-df5e6224f2ba@df97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Bardel
+DTEND:20241012T100000Z
+LOCATION:link do zajęć
+DTSTART:20241012T074500Z
+SUMMARY:Filozofia (wykład)
+UID:45b48236-8738-4063-8e46-d3c4b928489d@45b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20241115T170000Z
+LOCATION:link do zajęć
+DTSTART:20241115T144500Z
+SUMMARY:Podstawy socjologii (wykład)
+UID:34fb5a24-2f8b-4940-ba69-e058526fd022@34fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241222T114500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241222T093000Z
+SUMMARY:Wstęp do teorii stosunków międzynarodowych (konwersatorium)
+UID:f96b55c4-bf9b-4787-ad7c-e0e238d65628@f96b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20250112T143000Z
+LOCATION:Paw.B 351
+DTSTART:20250112T121500Z
+SUMMARY:Nauka o państwie (ćwiczenia)
+UID:f88016ad-4015-4aa0-9e5c-8396cf87e714@f880.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241220T184500Z
+LOCATION:link do zajęć
+DTSTART:20241220T154500Z
+SUMMARY:Nauka o państwie (wykład)
+UID:707e5624-c969-4537-a98a-f3d1cb29f431@707e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20241013T104500Z
+LOCATION:Paw.B 251
+DTSTART:20241013T083000Z
+SUMMARY:Nauka o państwie (ćwiczenia)
+UID:c6cd2bea-faa9-4090-8486-d98e5cdeae42@c6cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Olech
+DTEND:20241208T114500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241208T093000Z
+SUMMARY:Podstawy prawa (ćwiczenia)
+UID:1aaada6a-2140-4979-8c1c-e91145ad6540@1aaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksander Dańda
+DTEND:20241207T104500Z
+LOCATION:link do zajęć
+DTSTART:20241207T074500Z
+SUMMARY:Historia współczesnych stosunków międzynarodowych (do 1991) (wykład)
+UID:016f32c4-6726-41c5-8e44-914038d9a12a@016f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Olech
+DTEND:20241006T090000Z
+LOCATION:link do zajęć
+DTSTART:20241006T064500Z
+SUMMARY:Podstawy prawa (wykład)
+UID:87ab9e18-2b20-446e-876b-568c4e152cd3@87ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Danel
+DTEND:20241124T114500Z
+LOCATION:Paw.B 251
+DTSTART:20241124T093000Z
+SUMMARY:Nauka o państwie (ćwiczenia)
+UID:b6ec794b-f1b5-4c2f-ba73-e74421f2f88b@b6ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241130T114500Z
+LOCATION:Paw.C sala D
+DTSTART:20241130T084500Z
+SUMMARY:Wstęp do teorii stosunków międzynarodowych (konwersatorium)
+UID:fdfcf864-3681-4424-84d9-21087b8bdc37@fdfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20250111T170000Z
+LOCATION:link do zajęć
+DTSTART:20250111T140000Z
+SUMMARY:Nauka o państwie (wykład)
+UID:e2ac6d1d-bac2-47f9-8e54-b297c54a35d0@e2ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20241213T194500Z
+LOCATION:link do zajęć
+DTSTART:20241213T173000Z
+SUMMARY:Podstawy socjologii (wykład)
+UID:9600b91c-ad4d-4bd9-b14b-dbc5b2232c7c@9600.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241025T184500Z
+LOCATION:link do zajęć
+DTSTART:20241025T163000Z
+SUMMARY:Nauka o państwie (wykład)
+UID:3cc4efd8-d74c-4b53-a5b8-933bdd700047@3cc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241005T141500Z
+LOCATION:link do zajęć
+DTSTART:20241005T120000Z
+SUMMARY:Geografia polityczna i ekonomiczna (wykład)
+UID:26ae2dd9-ced9-43b9-a63b-cf7e0a4a36e9@26ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: Studencki Uek Parlament
+DTEND:20241013T170000Z
+LOCATION:link do zajęć
+DTSTART:20241013T153000Z
+SUMMARY:Prawa i obowiązki studenta (rezerwacja)
+UID:3b16db5d-4d64-4148-9931-f5eaa8fb4b3d@3b16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksander Dańda
+DTEND:20241005T170000Z
+LOCATION:link do zajęć
+DTSTART:20241005T144500Z
+SUMMARY:Historia współczesnych stosunków międzynarodowych (do 1991) (wykład)
+UID:b6436977-453b-474a-ab00-76efac2819e0@b643.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Olech
+DTEND:20241222T143000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241222T121500Z
+SUMMARY:Podstawy prawa (ćwiczenia)
+UID:d51ea37e-1d72-4c1b-b60b-cf88556ab9be@d51e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241221T141500Z
+LOCATION:link do zajęć
+DTSTART:20241221T111500Z
+SUMMARY:Geografia polityczna i ekonomiczna (wykład)
+UID:b563793b-23a5-4b38-878b-cb8bed08b63a@b563.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogusława Puzio-Wacławik
+DTEND:20241116T123000Z
+LOCATION:link do zajęć
+DTSTART:20241116T093000Z
+SUMMARY:Mikroekonomia (wykład)
+UID:dfaee5ff-d82f-46f1-989b-acf63d8241d3@dfae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Bardel
+DTEND:20241122T170000Z
+LOCATION:link do zajęć
+DTSTART:20241122T144500Z
+SUMMARY:Filozofia (wykład)
+UID:309137d1-50d0-484b-972f-2875a685fe9d@3091.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20250111T133000Z
+LOCATION:link do zajęć
+DTSTART:20250111T103000Z
+SUMMARY:Geografia polityczna i ekonomiczna (wykład)
+UID:142cb74f-3502-4075-a14a-c75bbcaf3317@142c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Bardel
+DTEND:20241221T104500Z
+LOCATION:link do zajęć
+DTSTART:20241221T074500Z
+SUMMARY:Filozofia (wykład)
+UID:49a8a6bf-6509-47c6-b312-b2adb13cedcd@49a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241026T131500Z
+LOCATION:link do zajęć
+DTSTART:20241026T101500Z
+SUMMARY:Geografia polityczna i ekonomiczna (wykład)
+UID:3f36db35-3ad0-4602-b278-4e5c2c20bd4d@3f36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogusława Puzio-Wacławik
+DTEND:20250112T114500Z
+LOCATION:Paw.S sala 7
+DTSTART:20250112T093000Z
+SUMMARY:Mikroekonomia (ćwiczenia)
+UID:e472ce53-6e3a-4763-9c6f-ce24f3bf9270@e472.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Olech
+DTEND:20241025T160000Z
+LOCATION:link do zajęć
+DTSTART:20241025T134500Z
+SUMMARY:Podstawy prawa (wykład)
+UID:5768cea7-1101-40c8-9abb-234ea5fbde74@5768.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Olech
+DTEND:20241115T194500Z
+LOCATION:link do zajęć
+DTSTART:20241115T173000Z
+SUMMARY:Podstawy prawa (wykład)
+UID:e789d61c-4994-4622-8eca-cfcb7c371dc7@e789.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogusława Puzio-Wacławik
+DTEND:20241117T114500Z
+LOCATION:Paw.F 415
+DTSTART:20241117T093000Z
+SUMMARY:Mikroekonomia (ćwiczenia)
+UID:e1477cd4-148f-43fe-a0dd-f2c831fc29fa@e147.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241116T160000Z
+LOCATION:link do zajęć
+DTSTART:20241116T130000Z
+SUMMARY:Nauka o państwie (wykład)
+UID:81e98483-1c66-4366-8868-44d05088cbd1@81e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20250111T100000Z
+LOCATION:link do zajęć
+DTSTART:20250111T074500Z
+SUMMARY:Podstawy socjologii (wykład)
+UID:77bc6941-e5fe-42a1-bc0a-d1d894a03e41@77bc.org
+END:VEVENT
+END:VCALENDAR

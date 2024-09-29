@@ -1,0 +1,962 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:2a0cb803-7751-421c-923e-260e7a83c826@2a0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241120T134500Z
+LOCATION:Paw.F 613
+DTSTART:20241120T121500Z
+SUMMARY:Partycypacja społeczna w zarządzaniu rozwojem (ćwiczenia)
+UID:34373d26-8264-4aa2-9d3a-be62734fe289@3437.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Laura Kochel
+DTEND:20241122T120000Z
+LOCATION:Paw.F 106
+DTSTART:20241122T103000Z
+SUMMARY:Architektura krajobrazu (wykład do wyboru)
+UID:4d8cc944-b45b-446b-bd49-0345134795e0@4d8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241118T153000Z
+LOCATION:Paw.F 106
+DTSTART:20241118T140000Z
+SUMMARY:Partycypacja społeczna w zarządzaniu rozwojem (wykład)
+UID:350bef27-26d6-4f60-805e-18be8233b130@350b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241115T134500Z
+LOCATION:Paw.F 106
+DTSTART:20241115T121500Z
+SUMMARY:Partycypacja społeczna w zarządzaniu rozwojem (wykład)
+UID:e1a1f646-4aac-44b7-ac10-5efa1f5ec16c@e1a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Laura Kochel
+DTEND:20241129T124500Z
+LOCATION:Paw.F 106
+DTSTART:20241129T103000Z
+SUMMARY:Architektura krajobrazu (wykład do wyboru)
+UID:50bfa9f0-e2d3-4b9d-8b09-3d97a6ae7041@50bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Anna Karwińska
+DTEND:20241216T114500Z
+LOCATION:Paw.G 12
+DTSTART:20241216T093000Z
+SUMMARY:Socjologia miasta (wykład)
+UID:017143d8-205c-4b5b-8f32-286b82c12d94@0171.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241220T083000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241220T070000Z
+SUMMARY:Zarządzanie projektami inżynierskimi (Projekt)
+UID:2025ada5-6182-44df-8ce6-56768c363e5c@2025.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
+DTEND:20241024T110000Z
+LOCATION:Paw.G 12
+DTSTART:20241024T093000Z
+SUMMARY:Oddziaływanie inwestycji inżynieryjnych na środowisko (Projekt)
+UID:dd771ad8-e957-4294-80dc-badee5ca6bb4@dd77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Laura Kochel
+DTEND:20241105T083000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241105T070000Z
+SUMMARY:Architektura krajobrazu (Projekt)
+UID:08188e65-3733-487f-b725-5260e8fcc734@0818.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Laura Kochel
+DTEND:20241115T120000Z
+LOCATION:Paw.F 106
+DTSTART:20241115T103000Z
+SUMMARY:Architektura krajobrazu (wykład do wyboru)
+UID:2138b3c5-347b-469b-b74b-bd65bce03351@2138.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20241129T093000Z
+LOCATION:Paw.F 109
+DTSTART:20241129T084500Z
+SUMMARY:Ekologistyka sieci osadniczych (wykład do wyboru)
+UID:47571f95-472a-4290-b2c4-cf076b64b216@4757.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241030T134500Z
+LOCATION:Paw.F 613
+DTSTART:20241030T121500Z
+SUMMARY:Partycypacja społeczna w zarządzaniu rozwojem (ćwiczenia)
+UID:f487750b-9b3b-45cb-93d0-645b6295e48f@f487.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
+DTEND:20241219T120000Z
+LOCATION:Paw.G 12
+DTSTART:20241219T103000Z
+SUMMARY:Oddziaływanie inwestycji inżynieryjnych na środowisko (Projekt)
+UID:5a83798e-19b0-4dbc-b34c-dcac89e1a732@5a83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Laura Kochel
+DTEND:20241008T091500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241008T074500Z
+SUMMARY:Architektura krajobrazu (Projekt)
+UID:d6579dd1-3752-4d98-be21-a59d2f7778b8@d657.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Anna Karwińska
+DTEND:20241007T104500Z
+LOCATION:Paw.G 12
+DTSTART:20241007T083000Z
+SUMMARY:Socjologia miasta (wykład)
+UID:1cb74a8e-4540-4a4e-ba80-1c1676ee9c4c@1cb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20241015T133000Z
+LOCATION:.
+DTSTART:20241015T060000Z
+SUMMARY:Ekologistyka sieci osadniczych (Zajęcia terenowe)
+UID:4ea28327-8534-4d58-a8c9-60e18d12f803@4ea2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20241108T101500Z
+LOCATION:Paw.F 109
+DTSTART:20241108T084500Z
+SUMMARY:Ekologistyka sieci osadniczych (wykład do wyboru)
+UID:ddfdf885-ad9b-4520-886b-f5a675222c42@ddfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Anna Karwińska
+DTEND:20241202T114500Z
+LOCATION:Paw.G 12
+DTSTART:20241202T093000Z
+SUMMARY:Socjologia miasta (wykład)
+UID:d5ef5dc7-9273-475d-bc1a-e6cd59e7e54b@d5ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20241011T091500Z
+LOCATION:Paw.F 109
+DTSTART:20241011T074500Z
+SUMMARY:Ekologistyka sieci osadniczych (wykład do wyboru)
+UID:19bb834a-ef40-44a7-8a5a-1525d2facfd8@19bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Laura Kochel
+DTEND:20241008T073000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241008T060000Z
+SUMMARY:Architektura krajobrazu (Projekt)
+UID:07827813-2ebd-4af8-bcc1-533cdd329678@0782.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
+DTEND:20241212T120000Z
+LOCATION:Paw.G 12
+DTSTART:20241212T103000Z
+SUMMARY:Oddziaływanie inwestycji inżynieryjnych na środowisko (Projekt)
+UID:84222c06-3b6f-40ad-ac86-f8008cd6d662@8422.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241009T110000Z
+LOCATION:Paw.F 109
+DTSTART:20241009T093000Z
+SUMMARY:Oddziaływanie inwestycji inżynieryjnych na środowisko (wykład do wyboru)
+UID:4bc3d1f2-98fa-43e7-8f3c-39caf9531348@4bc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Laura Kochel
+DTEND:20241014T161500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241014T144500Z
+SUMMARY:Architektura krajobrazu (Projekt)
+UID:c2b37587-1ca1-47d9-a026-4dd99355d884@c2b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Anna Karwińska
+DTEND:20241028T114500Z
+LOCATION:Paw.G 12
+DTSTART:20241028T093000Z
+SUMMARY:Socjologia miasta (wykład)
+UID:16e34605-387a-41c4-b7f1-303d062f3841@16e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241023T110000Z
+LOCATION:Paw.F 109
+DTSTART:20241023T093000Z
+SUMMARY:Oddziaływanie inwestycji inżynieryjnych na środowisko (wykład do wyboru)
+UID:9b454e73-7491-4749-a25d-69d50093d084@9b45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241127T111500Z
+LOCATION:Paw.F 109
+DTSTART:20241127T103000Z
+SUMMARY:Oddziaływanie inwestycji inżynieryjnych na środowisko (wykład do wyboru)
+UID:e57fdffa-d15d-41f1-b8a9-cf4d32535fd2@e57f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241211T101500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241211T084500Z
+SUMMARY:Zarządzanie projektami inżynierskimi (Projekt)
+UID:8825f7a7-203b-4c25-9b12-aae7ed861330@8825.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241016T124500Z
+LOCATION:Paw.F 613
+DTSTART:20241016T111500Z
+SUMMARY:Partycypacja społeczna w zarządzaniu rozwojem (ćwiczenia)
+UID:09c2f81e-fc58-4f8d-bd2e-a35763e720d7@09c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241030T120000Z
+LOCATION:Paw.F 109
+DTSTART:20241030T103000Z
+SUMMARY:Oddziaływanie inwestycji inżynieryjnych na środowisko (wykład do wyboru)
+UID:8ab29bc4-c5b3-4636-9db4-1d3172063671@8ab2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
+DTEND:20241031T120000Z
+LOCATION:Paw.G 12
+DTSTART:20241031T103000Z
+SUMMARY:Oddziaływanie inwestycji inżynieryjnych na środowisko (Projekt)
+UID:0e66c92f-2923-491e-9dd9-5bd861105f69@0e66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Laura Kochel
+DTEND:20241022T073000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241022T060000Z
+SUMMARY:Architektura krajobrazu (Projekt)
+UID:6ccbf01e-82b8-4b65-baa7-25141a9ed77b@6ccb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241106T134500Z
+LOCATION:Paw.F 613
+DTSTART:20241106T121500Z
+SUMMARY:Partycypacja społeczna w zarządzaniu rozwojem (ćwiczenia)
+UID:cfdf6ff9-4b0c-4de5-850f-499cac0f33d3@cfdf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
+DTEND:20241017T110000Z
+LOCATION:Paw.G 12
+DTSTART:20241017T093000Z
+SUMMARY:Oddziaływanie inwestycji inżynieryjnych na środowisko (Projekt)
+UID:e4bc8fa8-6a57-44b7-8207-4cec9203e109@e4bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241114T101500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241114T084500Z
+SUMMARY:Ekologistyka sieci osadniczych (Projekt)
+UID:6d388533-1336-439e-8794-65ef7af36bbc@6d38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20250108T101500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20250108T084500Z
+SUMMARY:Zarządzanie projektami inżynierskimi (Projekt)
+UID:8027a305-4ebd-4228-89d0-c4bace56e51f@8027.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241204T101500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241204T084500Z
+SUMMARY:Zarządzanie projektami inżynierskimi (Projekt)
+UID:c92e6818-31fb-4c5a-988e-2838ed3e6ca8@c92e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241004T134500Z
+LOCATION:Paw.F 106
+DTSTART:20241004T130000Z
+SUMMARY:Partycypacja społeczna w zarządzaniu rozwojem (wykład)
+UID:0e296151-c90b-485e-9a48-ea5e129740b6@0e29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241106T120000Z
+LOCATION:Paw.F 109
+DTSTART:20241106T103000Z
+SUMMARY:Oddziaływanie inwestycji inżynieryjnych na środowisko (wykład do wyboru)
+UID:a0874c7c-fe18-4aef-ba67-c1820bb35d17@a087.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Anna Karwińska
+DTEND:20241014T104500Z
+LOCATION:Paw.G 12
+DTSTART:20241014T083000Z
+SUMMARY:Socjologia miasta (wykład)
+UID:2fda1c63-fcc2-442d-965d-c9e07d29dd5f@2fda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241106T101500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241106T084500Z
+SUMMARY:Zarządzanie projektami inżynierskimi (Projekt)
+UID:e8183454-47db-48f5-916d-e78fbf9966e7@e818.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241004T124500Z
+LOCATION:Paw.F 106
+DTSTART:20241004T111500Z
+SUMMARY:Partycypacja społeczna w zarządzaniu rozwojem (wykład)
+UID:5dff4449-acb8-4d7f-a1a7-eac293f728a0@5dff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Anna Karwińska
+DTEND:20241125T114500Z
+LOCATION:Paw.G 12
+DTSTART:20241125T093000Z
+SUMMARY:Socjologia miasta (wykład)
+UID:6683752d-c537-43c1-b1be-1756a3cf42ae@6683.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241023T091500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241023T074500Z
+SUMMARY:Zarządzanie projektami inżynierskimi (Projekt)
+UID:152a14da-a26a-4627-877e-e64142676f1c@152a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Laura Kochel
+DTEND:20241203T083000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241203T070000Z
+SUMMARY:Architektura krajobrazu (Projekt)
+UID:c1aafa80-0efc-41ee-a445-2d27d9bc698b@c1aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241113T101500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241113T084500Z
+SUMMARY:Zarządzanie projektami inżynierskimi (Projekt)
+UID:5ed90463-111f-4f4b-8a8b-c55e72454115@5ed9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20250110T120000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20250110T103000Z
+SUMMARY:Zarządzanie projektami inżynierskimi (Projekt)
+UID:b3bec5a9-f826-48b3-9d89-c025422ea6f6@b3be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Laura Kochel
+DTEND:20241210T083000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241210T070000Z
+SUMMARY:Architektura krajobrazu (Projekt)
+UID:48ee6a55-8c87-4e02-a691-504087a17ba7@48ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
+DTEND:20241107T120000Z
+LOCATION:Paw.G 12
+DTSTART:20241107T103000Z
+SUMMARY:Oddziaływanie inwestycji inżynieryjnych na środowisko (Projekt)
+UID:857c7807-4b09-4acb-a51c-02cd29cf1cf7@857c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
+DTEND:20250109T120000Z
+LOCATION:Paw.G 12
+DTSTART:20250109T103000Z
+SUMMARY:Oddziaływanie inwestycji inżynieryjnych na środowisko (Projekt)
+UID:66018879-17ce-4fb0-bc14-0183d60edb09@6601.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241107T101500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241107T084500Z
+SUMMARY:Ekologistyka sieci osadniczych (Projekt)
+UID:5dbd4bf4-6b4e-46fc-afb6-cf6580985e1c@5dbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241007T124500Z
+LOCATION:Paw.C sala D
+DTSTART:20241007T111500Z
+SUMMARY:Zarządzanie projektami inżynierskimi (wykład do wyboru)
+UID:244facfd-3f0a-47c2-86dc-0b6523859fb3@244f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
+DTEND:20241003T110000Z
+LOCATION:Paw.G 12
+DTSTART:20241003T093000Z
+SUMMARY:Oddziaływanie inwestycji inżynieryjnych na środowisko (Projekt)
+UID:d80d8c03-dc31-4c69-99a4-0e2500875357@d80d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241018T124500Z
+LOCATION:Paw.F 106
+DTSTART:20241018T111500Z
+SUMMARY:Partycypacja społeczna w zarządzaniu rozwojem (wykład)
+UID:8e1d6946-52d5-4ce4-be8b-e0e8c3b540c0@8e1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Laura Kochel
+DTEND:20241029T083000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241029T070000Z
+SUMMARY:Architektura krajobrazu (Projekt)
+UID:a82bd680-b34b-4ce2-a912-f09eb7118685@a82b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Anna Karwińska
+DTEND:20241104T114500Z
+LOCATION:Paw.G 12
+DTSTART:20241104T093000Z
+SUMMARY:Socjologia miasta (wykład)
+UID:b86211d6-8a4b-4122-b036-66bca74ad578@b862.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Anna Karwińska
+DTEND:20241021T104500Z
+LOCATION:Paw.G 12
+DTSTART:20241021T083000Z
+SUMMARY:Socjologia miasta (wykład)
+UID:33c29189-539f-4dbc-9029-b544b922e324@33c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241014T124500Z
+LOCATION:Paw.C sala D
+DTSTART:20241014T111500Z
+SUMMARY:Zarządzanie projektami inżynierskimi (wykład do wyboru)
+UID:92f53ea2-8198-4ab2-baa9-2338b1fd419f@92f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241127T130000Z
+LOCATION:Paw.F 613
+DTSTART:20241127T121500Z
+SUMMARY:Partycypacja społeczna w zarządzaniu rozwojem (ćwiczenia)
+UID:8e9a3371-dcfb-4abc-9df6-b4fad3013c08@8e9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241021T124500Z
+LOCATION:Paw.C sala D
+DTSTART:20241021T111500Z
+SUMMARY:Zarządzanie projektami inżynierskimi (wykład do wyboru)
+UID:fa49733e-1123-4574-8a36-ab8f7b978776@fa49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241218T101500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241218T084500Z
+SUMMARY:Zarządzanie projektami inżynierskimi (Projekt)
+UID:f4bc2664-b9c2-4c22-b797-17c1e7fbe24d@f4bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
+DTEND:20241011T124500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241011T111500Z
+SUMMARY:Oddziaływanie inwestycji inżynieryjnych na środowisko (Projekt)
+UID:96a940be-0bc7-4d2c-adc9-4add38658b5f@96a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Laura Kochel
+DTEND:20241031T083000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241031T070000Z
+SUMMARY:Architektura krajobrazu (Projekt)
+UID:babc6dde-265d-4b1a-b120-863fc402b506@babc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Laura Kochel
+DTEND:20250107T083000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20250107T070000Z
+SUMMARY:Architektura krajobrazu (Projekt)
+UID:649f5543-bd34-43bd-a411-069b2b21fd27@649f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241007T143000Z
+LOCATION:Paw.F 106
+DTSTART:20241007T130000Z
+SUMMARY:Partycypacja społeczna w zarządzaniu rozwojem (wykład)
+UID:d9e633fb-e242-444f-b3a3-91f623749c77@d9e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241028T134500Z
+LOCATION:Paw.C sala D
+DTSTART:20241028T121500Z
+SUMMARY:Zarządzanie projektami inżynierskimi (wykład do wyboru)
+UID:ca446764-1c60-41f9-a62e-10e95a849c41@ca44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241023T124500Z
+LOCATION:Paw.F 613
+DTSTART:20241023T111500Z
+SUMMARY:Partycypacja społeczna w zarządzaniu rozwojem (ćwiczenia)
+UID:82e41c37-ec31-403e-9116-3364436a0dd5@82e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241104T134500Z
+LOCATION:Paw.C sala D
+DTSTART:20241104T121500Z
+SUMMARY:Zarządzanie projektami inżynierskimi (wykład do wyboru)
+UID:610ff07b-e8c4-448f-bbda-8b889d56ab54@610f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Laura Kochel
+DTEND:20241018T110000Z
+LOCATION:Paw.F 106
+DTSTART:20241018T093000Z
+SUMMARY:Architektura krajobrazu (wykład do wyboru)
+UID:adfc3526-c64e-4b7b-9d6d-afdd5d55df87@adfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Anna Karwińska
+DTEND:20241209T114500Z
+LOCATION:Paw.G 12
+DTSTART:20241209T093000Z
+SUMMARY:Socjologia miasta (wykład)
+UID:94626ada-197a-40b8-a1b8-91d74188f621@9462.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Laura Kochel
+DTEND:20241011T110000Z
+LOCATION:Paw.F 106
+DTSTART:20241011T093000Z
+SUMMARY:Architektura krajobrazu (wykład do wyboru)
+UID:05520fb3-8d36-4105-9af1-576cf8339ad2@0552.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241104T153000Z
+LOCATION:Paw.F 106
+DTSTART:20241104T140000Z
+SUMMARY:Partycypacja społeczna w zarządzaniu rozwojem (wykład)
+UID:4dfb4632-eeff-40aa-a122-430c1e50d26f@4dfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Laura Kochel
+DTEND:20241217T083000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241217T070000Z
+SUMMARY:Architektura krajobrazu (Projekt)
+UID:5bb21a5a-75f3-4dad-a6dc-1c1c8314a6e4@5bb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20241115T101500Z
+LOCATION:Paw.F 109
+DTSTART:20241115T084500Z
+SUMMARY:Ekologistyka sieci osadniczych (wykład do wyboru)
+UID:fa90af2e-3a2e-4c53-93d4-28958dae4f48@fa90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
+DTEND:20241112T101500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241112T084500Z
+SUMMARY:Oddziaływanie inwestycji inżynieryjnych na środowisko (Projekt)
+UID:c8200376-c3ff-4e73-be16-04f8bc39ec95@c820.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241009T124500Z
+LOCATION:Paw.F 613
+DTSTART:20241009T111500Z
+SUMMARY:Partycypacja społeczna w zarządzaniu rozwojem (ćwiczenia)
+UID:8508f21e-cafd-4118-9e68-99b57e77763d@8508.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241213T120000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241213T103000Z
+SUMMARY:Zarządzanie projektami inżynierskimi (Projekt)
+UID:583eb940-c52e-46c0-a927-194b3c8c7d49@583e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241219T101500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241219T084500Z
+SUMMARY:Ekologistyka sieci osadniczych (Projekt)
+UID:3f5c8b37-5b5d-44a7-8779-797ecf84142c@3f5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
+DTEND:20241121T120000Z
+LOCATION:Paw.G 12
+DTSTART:20241121T103000Z
+SUMMARY:Oddziaływanie inwestycji inżynieryjnych na środowisko (Projekt)
+UID:76724381-3d00-4511-9572-810f449acdd8@7672.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
+DTEND:20241128T120000Z
+LOCATION:Paw.G 12
+DTSTART:20241128T103000Z
+SUMMARY:Oddziaływanie inwestycji inżynieryjnych na środowisko (Projekt)
+UID:7592f546-7894-4ae6-8324-fcfe31f7c2c9@7592.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20250109T101500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20250109T084500Z
+SUMMARY:Ekologistyka sieci osadniczych (Projekt)
+UID:504a446d-8e6a-4b90-a649-0f1b3ddded5d@504a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241127T101500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241127T084500Z
+SUMMARY:Zarządzanie projektami inżynierskimi (Projekt)
+UID:f039a433-4a45-4556-9a5f-d199d56d1342@f039.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241202T130000Z
+LOCATION:Paw.C sala D
+DTSTART:20241202T121500Z
+SUMMARY:Zarządzanie projektami inżynierskimi (wykład do wyboru)
+UID:8ad5cf73-1134-4022-8e49-bb98778a9be6@8ad5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Anna Karwińska
+DTEND:20241118T114500Z
+LOCATION:Paw.G 12
+DTSTART:20241118T093000Z
+SUMMARY:Socjologia miasta (wykład)
+UID:9ae71d94-b8f9-42cb-826b-1b35914319ff@9ae7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241010T091500Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20241010T074500Z
+SUMMARY:Ekologistyka sieci osadniczych (Projekt)
+UID:3aa402b2-d606-482d-8f7d-ded17a577250@3aa4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241120T101500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241120T084500Z
+SUMMARY:Zarządzanie projektami inżynierskimi (Projekt)
+UID:1cc1fc29-a422-4419-88cd-23829c9c5fc8@1cc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
+DTEND:20241205T120000Z
+LOCATION:Paw.G 12
+DTSTART:20241205T103000Z
+SUMMARY:Oddziaływanie inwestycji inżynieryjnych na środowisko (Projekt)
+UID:41724b42-d1a6-4319-b6d9-f660c13d7cf6@4172.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241030T101500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241030T084500Z
+SUMMARY:Zarządzanie projektami inżynierskimi (Projekt)
+UID:5935887d-5ed9-41f0-b055-99343bf712de@5935.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241003T091500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241003T074500Z
+SUMMARY:Ekologistyka sieci osadniczych (Projekt)
+UID:ae8a0af8-d62b-495b-8bfd-94631eba6b18@ae8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241128T101500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241128T084500Z
+SUMMARY:Ekologistyka sieci osadniczych (Projekt)
+UID:b4856494-dd61-40f8-a6d2-00e1f9159f43@b485.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241009T091500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241009T074500Z
+SUMMARY:Zarządzanie projektami inżynierskimi (Projekt)
+UID:1be5fcd9-939d-49e4-a3b9-7b412fdc4f70@1be5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20241122T101500Z
+LOCATION:Paw.F 109
+DTSTART:20241122T084500Z
+SUMMARY:Ekologistyka sieci osadniczych (wykład do wyboru)
+UID:19ef9377-4d51-4011-a453-ac836a1d29ab@19ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241031T101500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241031T084500Z
+SUMMARY:Ekologistyka sieci osadniczych (Projekt)
+UID:bd826441-bf26-4763-9339-c3a74d9eebb3@bd82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Laura Kochel
+DTEND:20241126T083000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241126T070000Z
+SUMMARY:Architektura krajobrazu (Projekt)
+UID:3bbcd634-e310-48a2-a365-2bc0eefc2ccc@3bbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241205T101500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241205T084500Z
+SUMMARY:Ekologistyka sieci osadniczych (Projekt)
+UID:d71d0d08-6f29-4754-97b0-9b26d99500c9@d71d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241118T134500Z
+LOCATION:Paw.C sala D
+DTSTART:20241118T121500Z
+SUMMARY:Zarządzanie projektami inżynierskimi (wykład do wyboru)
+UID:d88dd6ec-84ba-4b5d-9693-1eff1dc3c3d2@d88d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241121T101500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241121T084500Z
+SUMMARY:Ekologistyka sieci osadniczych (Projekt)
+UID:cf501d2f-82e7-481d-a5d3-33f2982a1133@cf50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20241018T091500Z
+LOCATION:Paw.F 109
+DTSTART:20241018T074500Z
+SUMMARY:Ekologistyka sieci osadniczych (wykład do wyboru)
+UID:d2c136f1-c368-4e5b-8c49-31a975827405@d2c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
+DTEND:20250107T101500Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20250107T084500Z
+SUMMARY:Oddziaływanie inwestycji inżynieryjnych na środowisko (Projekt)
+UID:59cdd529-336d-4c67-a869-ce7b71f37a5a@59cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Laura Kochel
+DTEND:20241114T083000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241114T070000Z
+SUMMARY:Architektura krajobrazu (Projekt)
+UID:d6728466-62fc-469c-ae65-f68c3f9881d4@d672.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241120T120000Z
+LOCATION:Paw.F 109
+DTSTART:20241120T103000Z
+SUMMARY:Oddziaływanie inwestycji inżynieryjnych na środowisko (wykład do wyboru)
+UID:13a9153c-d91e-4cd4-ad15-adf6c4fa65b2@13a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241017T091500Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20241017T074500Z
+SUMMARY:Ekologistyka sieci osadniczych (Projekt)
+UID:ad7e59a4-6aec-44ec-af82-4d46801594ea@ad7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Laura Kochel
+DTEND:20241112T083000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241112T070000Z
+SUMMARY:Architektura krajobrazu (Projekt)
+UID:01c5f8f8-ee2d-46a1-bfff-f41034b12681@01c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:338ecb61-1535-45b5-9c5b-49919893edbe@338e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241021T143000Z
+LOCATION:Paw.F 106
+DTSTART:20241021T130000Z
+SUMMARY:Partycypacja społeczna w zarządzaniu rozwojem (wykład)
+UID:12ebf3eb-fd8c-49dd-9a95-1bc2966af832@12eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241212T101500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241212T084500Z
+SUMMARY:Ekologistyka sieci osadniczych (Projekt)
+UID:2b9d75a4-f9b2-4227-a0f5-6488b5554075@2b9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Laura Kochel
+DTEND:20241119T083000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241119T070000Z
+SUMMARY:Architektura krajobrazu (Projekt)
+UID:09942e27-dd8e-47ad-8b01-97749b13de11@0994.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241113T134500Z
+LOCATION:Paw.F 613
+DTSTART:20241113T121500Z
+SUMMARY:Partycypacja społeczna w zarządzaniu rozwojem (ćwiczenia)
+UID:ed5b23c9-5539-41f0-8551-fc93f7cbf6f0@ed5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241113T120000Z
+LOCATION:Paw.F 109
+DTSTART:20241113T103000Z
+SUMMARY:Oddziaływanie inwestycji inżynieryjnych na środowisko (wykład do wyboru)
+UID:4f7e86d2-41c0-4e61-b854-b41e76cdce9b@4f7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241016T091500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241016T074500Z
+SUMMARY:Zarządzanie projektami inżynierskimi (Projekt)
+UID:a5dd7382-0bbb-4594-bcf1-a5379c6a3761@a5dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
+DTEND:20241114T120000Z
+LOCATION:Paw.G 12
+DTSTART:20241114T103000Z
+SUMMARY:Oddziaływanie inwestycji inżynieryjnych na środowisko (Projekt)
+UID:3498eea5-971e-46d6-adc8-ffa44b5df339@3498.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241206T134500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241206T121500Z
+SUMMARY:Ekologistyka sieci osadniczych (Projekt)
+UID:936e1b97-928d-40b7-a0b8-03ebb83227eb@936e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241216T134500Z
+LOCATION:L 525 Ustr.
+DTSTART:20241216T121500Z
+SUMMARY:Ekologistyka sieci osadniczych (Projekt)
+UID:36d39841-1141-43dc-a8a0-d224565d2493@36d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241125T134500Z
+LOCATION:Paw.C sala D
+DTSTART:20241125T121500Z
+SUMMARY:Zarządzanie projektami inżynierskimi (wykład do wyboru)
+UID:b8436017-70e6-4481-b678-28ea12d2828c@b843.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Laura Kochel
+DTEND:20241025T110000Z
+LOCATION:Paw.F 106
+DTSTART:20241025T093000Z
+SUMMARY:Architektura krajobrazu (wykład do wyboru)
+UID:74bbb8fe-59c6-45cd-8922-31e77488e515@74bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20241025T091500Z
+LOCATION:Paw.F 109
+DTSTART:20241025T074500Z
+SUMMARY:Ekologistyka sieci osadniczych (wykład do wyboru)
+UID:22fdcc86-11ee-4cab-886b-c25db45ef222@22fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241024T091500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241024T074500Z
+SUMMARY:Ekologistyka sieci osadniczych (Projekt)
+UID:de0a8afa-baa8-42a6-a8cc-d84e0094188d@de0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241016T110000Z
+LOCATION:Paw.F 109
+DTSTART:20241016T093000Z
+SUMMARY:Oddziaływanie inwestycji inżynieryjnych na środowisko (wykład do wyboru)
+UID:5131f302-ff4b-4a7f-ae25-245dae9c1a12@5131.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20241004T091500Z
+LOCATION:Paw.F 109
+DTSTART:20241004T074500Z
+SUMMARY:Ekologistyka sieci osadniczych (wykład do wyboru)
+UID:626d2391-e27b-46de-a848-3d50ab77330b@626d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Laura Kochel
+DTEND:20241108T120000Z
+LOCATION:Paw.F 106
+DTSTART:20241108T103000Z
+SUMMARY:Architektura krajobrazu (wykład do wyboru)
+UID:a15d2c28-1f0f-4fe9-a3c7-136647ca718b@a15d.org
+END:VEVENT
+END:VCALENDAR

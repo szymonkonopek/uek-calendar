@@ -1,0 +1,267 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250412T124500Z
+LOCATION:Paw.G  7
+DTSTART:20250412T064500Z
+SUMMARY:Multi-channel Communications (Studia podyplomowe)
+UID:7442f034-2c7f-4c0f-a1fa-5bd330e03f92@7442.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ireneusz Górowski
+DTEND:20250314T193000Z
+LOCATION:Paw.G  7
+DTSTART:20250314T154500Z
+SUMMARY:Fundamentals of Business Analysis (Studia podyplomowe)
+UID:41e3c58d-0b7f-4cbb-9bd4-eca920ae995c@41e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Sedlak
+DTEND:20250629T120000Z
+LOCATION:Paw.G  7
+DTSTART:20250629T064500Z
+SUMMARY:Global Marketing (Studia podyplomowe)
+UID:3dc1e0c6-a20b-4d90-a7a6-5e9b0ef12cf9@3dc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250413T120000Z
+LOCATION:Paw.G  7
+DTSTART:20250413T064500Z
+SUMMARY:Multi-channel Communications (Studia podyplomowe)
+UID:fcd54418-790a-413c-8dfe-222e98776e76@fcd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Dawid Ostręga
+DTEND:20250118T134500Z
+LOCATION:Paw.G - 2
+DTSTART:20250118T074500Z
+SUMMARY:Project Management (Studia podyplomowe)
+UID:1cc45c9e-0f0b-4fec-a814-c6e99e9d7b50@1cc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Dawid Ostręga
+DTEND:20250119T130000Z
+LOCATION:Paw.G - 2
+DTSTART:20250119T074500Z
+SUMMARY:Project Management (Studia podyplomowe)
+UID:eb46de01-fb91-44a5-ae2c-a98a555cffb2@eb46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Romana Paszkowska
+DTEND:20241213T193000Z
+LOCATION:Paw.G  7
+DTSTART:20241213T154500Z
+SUMMARY:Cultural Diversity and Intercultural Communication (Studia podyplomowe)
+UID:820fe841-e17b-47a3-8e5f-a1d2c2b71ca9@820f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Dawid Ostręga
+DTEND:20250110T193000Z
+LOCATION:Paw.G  7
+DTSTART:20250110T154500Z
+SUMMARY:Project Management (Studia podyplomowe)
+UID:35a3aeaa-7ef0-421f-9088-dcf0058af23a@35a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Dawid Ostręga
+DTEND:20250117T193000Z
+LOCATION:Paw.G - 2
+DTSTART:20250117T154500Z
+SUMMARY:Project Management (Studia podyplomowe)
+UID:5f657d8c-53cb-4dda-83c6-0aa9bc1d1bc5@5f65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250406T120000Z
+LOCATION:Paw.G  7
+DTSTART:20250406T064500Z
+SUMMARY:Multi-channel Communications (Studia podyplomowe)
+UID:8924eae4-8b58-4795-a7ed-08dc7e011141@8924.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
+DTEND:20241214T141500Z
+LOCATION:Paw.G  7
+DTSTART:20241214T103000Z
+SUMMARY:Cultural Diversity and Intercultural Communication (Studia podyplomowe)
+UID:444cb613-ea5e-4b0d-9549-091347e9c13e@444c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Romana Paszkowska
+DTEND:20241215T134500Z
+LOCATION:Paw.G  7
+DTSTART:20241215T121500Z
+SUMMARY:Cultural Diversity and Intercultural Communication (Studia podyplomowe)
+UID:f58d9067-ddb0-4578-a582-e7cfc0bcc7b0@f58d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
+DTEND:20250307T193000Z
+LOCATION:Paw.G  7
+DTSTART:20250307T154500Z
+SUMMARY:Fundamentals of Business Analysis (Studia podyplomowe)
+UID:dbc159a2-c24f-4ad2-9161-cb2d15b1f6ef@dbc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ireneusz Górowski
+DTEND:20250316T130000Z
+LOCATION:Paw.G  7
+DTSTART:20250316T074500Z
+SUMMARY:Fundamentals of Business Analysis (Studia podyplomowe)
+UID:07611a27-360a-449d-be7d-3f8728faa06d@0761.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
+DTEND:20241215T113000Z
+LOCATION:Paw.G  7
+DTSTART:20241215T074500Z
+SUMMARY:Cultural Diversity and Intercultural Communication (Studia podyplomowe)
+UID:17fbcd80-92f1-4fa9-8151-a4196804160b@17fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Sztokfisz
+DTEND:20250518T120000Z
+LOCATION:Paw.G  7
+DTSTART:20250518T064500Z
+SUMMARY:Global Marketing (Studia podyplomowe)
+UID:4fddf379-c495-487a-bd64-2e322f49af59@4fdd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Sady
+DTEND:20250613T183000Z
+DTSTART:20250613T144500Z
+SUMMARY:Capstone Practicum (Studia podyplomowe)
+UID:8ac3368a-f4d7-43af-ae9f-b13a567bf6c8@8ac3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Sedlak
+DTEND:20250627T183000Z
+LOCATION:Paw.G  7
+DTSTART:20250627T144500Z
+SUMMARY:Global Marketing (Studia podyplomowe)
+UID:55227500-64b4-4560-adf0-e7aacb39d1b5@5522.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Romana Paszkowska
+DTEND:20241124T130000Z
+LOCATION:Paw.G 10
+DTSTART:20241124T074500Z
+SUMMARY:Cultural Diversity and Intercultural Communication (Studia podyplomowe)
+UID:d6b605a3-a8a4-4cd6-a08a-7e1155a8914b@d6b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ireneusz Górowski
+DTEND:20250315T134500Z
+LOCATION:Paw.G  7
+DTSTART:20250315T074500Z
+SUMMARY:Fundamentals of Business Analysis (Studia podyplomowe)
+UID:c86922aa-0593-4b84-8485-bc3d053dc260@c869.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Romana Paszkowska
+DTEND:20241123T134500Z
+LOCATION:Paw.G 10
+DTSTART:20241123T074500Z
+SUMMARY:Cultural Diversity and Intercultural Communication (Studia podyplomowe)
+UID:4603ecb5-6dbd-4fe4-94d4-97b841bb7528@4603.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Sedlak
+DTEND:20250628T124500Z
+LOCATION:Paw.G  7
+DTSTART:20250628T064500Z
+SUMMARY:Global Marketing (Studia podyplomowe)
+UID:522f0680-2939-4530-b80f-81c88da4ae17@522f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Romana Paszkowska
+DTEND:20241214T100000Z
+LOCATION:Paw.G  7
+DTSTART:20241214T074500Z
+SUMMARY:Cultural Diversity and Intercultural Communication (Studia podyplomowe)
+UID:42a2cd3c-20c4-4307-ac42-8018c85c90e0@42a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
+DTEND:20250308T134500Z
+LOCATION:Paw.G  7
+DTSTART:20250308T074500Z
+SUMMARY:Fundamentals of Business Analysis (Studia podyplomowe)
+UID:667c09d5-f678-4ab4-9118-0c8728e50f57@667c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250404T183000Z
+LOCATION:Paw.G  7
+DTSTART:20250404T144500Z
+SUMMARY:Multi-channel Communications (Studia podyplomowe)
+UID:14f75c2d-3d1e-4c8c-b089-c6e2dc9ba14e@14f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Sztokfisz
+DTEND:20250516T183000Z
+LOCATION:Paw.G  7
+DTSTART:20250516T144500Z
+SUMMARY:Global Marketing (Studia podyplomowe)
+UID:7cdb07d3-0056-4067-81bd-d3476068aa32@7cdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Dawid Ostręga
+DTEND:20250111T134500Z
+LOCATION:Paw.G  7
+DTSTART:20250111T074500Z
+SUMMARY:Project Management (Studia podyplomowe)
+UID:b03b2a6d-211b-4764-a83d-64a5cfffb28d@b03b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Dawid Ostręga
+DTEND:20250112T130000Z
+LOCATION:Paw.G  7
+DTSTART:20250112T074500Z
+SUMMARY:Project Management (Studia podyplomowe)
+UID:3d66944e-16c4-446d-8fb7-83eb9b704f6d@3d66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250411T183000Z
+LOCATION:Paw.G  7
+DTSTART:20250411T144500Z
+SUMMARY:Multi-channel Communications (Studia podyplomowe)
+UID:a7cef1fe-ea1f-47cb-a6fa-6c16b676456a@a7ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Romana Paszkowska
+DTEND:20241122T193000Z
+LOCATION:Paw.G 10
+DTSTART:20241122T154500Z
+SUMMARY:Cultural Diversity and Intercultural Communication (Studia podyplomowe)
+UID:7f4e0049-3db2-410d-a1b6-5d9e6df2ec49@7f4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Wójtowicz
+DTEND:20250309T130000Z
+LOCATION:Paw.G  7
+DTSTART:20250309T074500Z
+SUMMARY:Fundamentals of Business Analysis (Studia podyplomowe)
+UID:4d99cea7-3bdb-42fe-b1f1-6db475114e5b@4d99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250405T124500Z
+LOCATION:Paw.G  7
+DTSTART:20250405T064500Z
+SUMMARY:Multi-channel Communications (Studia podyplomowe)
+UID:6fbe2126-a7fb-4315-ac53-1115dbe94afc@6fbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Sztokfisz
+DTEND:20250517T124500Z
+LOCATION:Paw.G  7
+DTSTART:20250517T064500Z
+SUMMARY:Global Marketing (Studia podyplomowe)
+UID:7203b00d-5ce2-410e-92e6-1de482b8c9da@7203.org
+END:VEVENT
+END:VCALENDAR

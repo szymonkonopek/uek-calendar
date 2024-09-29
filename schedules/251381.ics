@@ -1,0 +1,986 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20241125T120000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241125T103000Z
+SUMMARY:International comparisons (wykład)
+UID:aba200f9-292b-4cb7-bc23-b62dff9077ee@aba2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Krzysztof Wach
+DTEND:20250117T101500Z
+LOCATION:link do zajęć
+DTSTART:20250117T084500Z
+SUMMARY:International Entrepreneurship (Ćwiczenia e-learningowe)
+UID:a3f08d96-455a-467d-9f01-66115bf8c2b9@a3f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Homoncik
+DTEND:20241003T174500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241003T153000Z
+SUMMARY:International Economics (ćwiczenia)
+UID:575596b2-c6bd-482d-b688-e4b53774c692@5755.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20241004T110000Z
+LOCATION:Paw.G - 2
+DTSTART:20241004T093000Z
+SUMMARY:Entrepreneurship and New Venture Planning (konwersatorium)
+UID:468588c8-b6f5-471a-8db2-8ef60e4cf28e@4685.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20241121T153000Z
+LOCATION:Paw.F 008
+DTSTART:20241121T140000Z
+SUMMARY:Research methods in economics and business (konwersatorium)
+UID:2c20fee2-cef6-421c-a6b8-e5a942757f78@2c20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Krzysztof Wach
+DTEND:20241126T120000Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20241126T103000Z
+SUMMARY:International Entrepreneurship (ćwiczenia)
+UID:da5df6d3-689a-464f-9039-3c6b946e1e17@da5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20250108T101500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250108T084500Z
+SUMMARY:International comparisons (ćwiczenia)
+UID:d7662b6b-cfb3-426b-aeb0-382936457751@d766.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Głodowska
+DTEND:20250120T190000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250120T181500Z
+SUMMARY:Payment methods in international business (ćwiczenia)
+UID:5124ab3b-b30c-4c2d-a456-b53842d835fd@5124.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20241114T153000Z
+LOCATION:Paw.F 008
+DTSTART:20241114T140000Z
+SUMMARY:Research methods in economics and business (konwersatorium)
+UID:3a7de030-4ce5-4ac3-980d-cb4352aa7b80@3a7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20241113T101500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241113T084500Z
+SUMMARY:International comparisons (ćwiczenia)
+UID:0ba53449-5369-4bbf-8d8a-3f0ff1bd2641@0ba5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20241213T120000Z
+LOCATION:Paw.G - 2
+DTSTART:20241213T103000Z
+SUMMARY:Entrepreneurship and New Venture Planning (konwersatorium)
+UID:81c5a3a0-eb69-4982-a99f-9d5249ff92df@81c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Głodowska
+DTEND:20241007T091500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241007T074500Z
+SUMMARY:Payment methods in international business (wykład)
+UID:f3cca855-33ca-4c39-b440-3533faa47b6d@f3cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20250113T161500Z
+LOCATION:Paw.S sala 5
+DTSTART:20250113T140000Z
+SUMMARY:International comparisons (wykład)
+UID:5cd2c018-ca8c-4f14-bea8-b0e766fe2841@5cd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20250110T120000Z
+LOCATION:Paw.G - 2
+DTSTART:20250110T103000Z
+SUMMARY:Entrepreneurship and New Venture Planning (konwersatorium)
+UID:a92b7597-019c-4118-8af1-21d3612c39a0@a92b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:a1bd47af-7630-4504-837a-f03d4d83c137@a1bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Krzysztof Wach
+DTEND:20241018T091500Z
+LOCATION:Paw.C sala B
+DTSTART:20241018T074500Z
+SUMMARY:International Entrepreneurship (wykład)
+UID:f9e4b341-0ad0-4a32-9a35-31559674cffe@f9e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Alicja Dudek
+DTEND:20250123T163000Z
+LOCATION:Paw.G 11
+DTSTART:20250123T154500Z
+SUMMARY:Self-development in a working environment (konwersatorium)
+UID:44510e51-4494-4d03-8729-f8ce2de527c9@4451.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20241108T120000Z
+LOCATION:Paw.G - 2
+DTSTART:20241108T103000Z
+SUMMARY:Entrepreneurship and New Venture Planning (konwersatorium)
+UID:6e855322-20f8-4465-a386-f11486a66dae@6e85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Krzysztof Wach
+DTEND:20241115T101500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241115T084500Z
+SUMMARY:International Entrepreneurship (wykład)
+UID:96540e2d-9221-49c8-9d30-573f05557c26@9654.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Krzysztof Wach
+DTEND:20241213T101500Z
+LOCATION:Paw.S sala 5
+DTSTART:20241213T084500Z
+SUMMARY:International Entrepreneurship (wykład)
+UID:80a5765f-a044-44e0-ae5e-a461fede5431@80a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20241206T143000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241206T121500Z
+SUMMARY:International Economics (wykład)
+UID:8deef9b9-3bca-462e-9ac0-5858b238ff55@8dee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20241018T110000Z
+LOCATION:Paw.G - 2
+DTSTART:20241018T093000Z
+SUMMARY:Entrepreneurship and New Venture Planning (konwersatorium)
+UID:941ec9ff-760b-4180-a0df-7d708bf829d2@941e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20241030T101500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241030T084500Z
+SUMMARY:International comparisons (ćwiczenia)
+UID:15aee088-2158-456b-b676-b14663db6cc3@15ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Głodowska
+DTEND:20241121T101500Z
+LOCATION:Paw.G - 2
+DTSTART:20241121T084500Z
+SUMMARY:Payment methods in international business (ćwiczenia)
+UID:9f74c73e-c49e-40a3-963f-ec3ee3c38643@9f74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20241028T120000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241028T103000Z
+SUMMARY:International comparisons (wykład)
+UID:d2bd21e9-6ce7-4346-83bd-976e69c3e95d@d2bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Krzysztof Wach
+DTEND:20241129T101500Z
+LOCATION:Paw.C sala B
+DTSTART:20241129T084500Z
+SUMMARY:International Entrepreneurship (wykład)
+UID:0c0d22f7-462f-46a5-97fa-112ae06fe96c@0c0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20241128T153000Z
+LOCATION:Paw.F 008
+DTSTART:20241128T140000Z
+SUMMARY:Research methods in economics and business (konwersatorium)
+UID:4222b907-f2e9-45d6-8dab-a568f2d7fbac@4222.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Homoncik
+DTEND:20241031T184500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241031T163000Z
+SUMMARY:International Economics (ćwiczenia)
+UID:f5dca54f-23b4-4439-a564-24504c7231ee@f5dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20241206T120000Z
+LOCATION:Paw.G - 2
+DTSTART:20241206T103000Z
+SUMMARY:Entrepreneurship and New Venture Planning (konwersatorium)
+UID:d2388f8e-cec6-435f-a9ca-f66abf673030@d238.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Głodowska
+DTEND:20241024T091500Z
+LOCATION:Paw.G - 2
+DTSTART:20241024T074500Z
+SUMMARY:Payment methods in international business (ćwiczenia)
+UID:0afa4f9c-f9f8-4934-b18c-c88d1e5b54f7@0afa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Homoncik
+DTEND:20241212T184500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241212T163000Z
+SUMMARY:International Economics (ćwiczenia)
+UID:16ea2eb0-f957-43f8-b534-0daf53b615d6@16ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Homoncik
+DTEND:20241010T174500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241010T153000Z
+SUMMARY:International Economics (ćwiczenia)
+UID:e2e62859-7b5b-4448-adc7-3d100fe11d04@e2e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Głodowska
+DTEND:20241021T091500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241021T074500Z
+SUMMARY:Payment methods in international business (wykład)
+UID:a38e6fc9-cecb-46ea-a74b-66f3858cd3e3@a38e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Krzysztof Wach
+DTEND:20250114T120000Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20250114T103000Z
+SUMMARY:International Entrepreneurship (ćwiczenia)
+UID:941c9086-7ccb-430b-a0e1-26fe0d141a62@941c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Homoncik
+DTEND:20241219T184500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241219T163000Z
+SUMMARY:International Economics (ćwiczenia)
+UID:98770e93-57bf-458f-9c3b-466a759f5f41@9877.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20241004T133000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241004T111500Z
+SUMMARY:International Economics (wykład)
+UID:be82eeec-9109-4a38-a48c-c48b8f0dfaf5@be82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20241025T133000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241025T111500Z
+SUMMARY:International Economics (wykład)
+UID:b4bef2ce-8053-4577-9e73-2192dad071e8@b4be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Głodowska
+DTEND:20241104T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241104T084500Z
+SUMMARY:Payment methods in international business (wykład)
+UID:d7d3c1e2-97f3-4bae-985b-5b0d71948a7d@d7d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20241129T120000Z
+LOCATION:Paw.G - 2
+DTSTART:20241129T103000Z
+SUMMARY:Entrepreneurship and New Venture Planning (konwersatorium)
+UID:d4a895f5-dba8-4faf-8d6d-1385c9612e00@d4a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Homoncik
+DTEND:20241128T184500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241128T163000Z
+SUMMARY:International Economics (ćwiczenia)
+UID:40269281-a30b-476e-b199-0ed9bccb530d@4026.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20250110T143000Z
+LOCATION:Paw.S sala 3
+DTSTART:20250110T121500Z
+SUMMARY:International Economics (wykład)
+UID:b63644fe-771f-497f-a8ae-c4fd3bea6e34@b636.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Alicja Dudek
+DTEND:20250114T083000Z
+LOCATION:Paw.S sala 10
+DTSTART:20250114T070000Z
+SUMMARY:Self-development in a working environment (konwersatorium)
+UID:36eaa53c-942d-4b1f-88a8-8d9fdc17d775@36ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20241108T143000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241108T121500Z
+SUMMARY:International Economics (wykład)
+UID:c6f81f3f-c0c8-4417-8854-9fb91e56133f@c6f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20241107T153000Z
+LOCATION:Paw.F 008
+DTSTART:20241107T140000Z
+SUMMARY:Research methods in economics and business (konwersatorium)
+UID:74f4ec40-81f5-4faa-9fe6-65925a5b0adf@74f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Głodowska
+DTEND:20241107T101500Z
+LOCATION:Paw.G - 2
+DTSTART:20241107T084500Z
+SUMMARY:Payment methods in international business (ćwiczenia)
+UID:0b66528c-b33d-4dc2-9cfd-7da74e4fd5fc@0b66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Głodowska
+DTEND:20250113T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250113T084500Z
+SUMMARY:Payment methods in international business (wykład)
+UID:7c4954b3-7bf3-430a-829b-5218ead53933@7c49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Homoncik
+DTEND:20250109T184500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250109T163000Z
+SUMMARY:International Economics (ćwiczenia)
+UID:c40e2f87-6720-4b16-ae0b-c41686f6a181@c40e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20241025T110000Z
+LOCATION:Paw.G - 2
+DTSTART:20241025T093000Z
+SUMMARY:Entrepreneurship and New Venture Planning (konwersatorium)
+UID:0599a1df-4b66-4bf8-b693-02e0a991de27@0599.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20241211T101500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241211T084500Z
+SUMMARY:International comparisons (ćwiczenia)
+UID:9e5750f5-e6ef-4962-8759-679f99059cb4@9e57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Homoncik
+DTEND:20241205T184500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241205T163000Z
+SUMMARY:International Economics (ćwiczenia)
+UID:f349254c-9326-4a15-8725-559941c07f4f@f349.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20241209T120000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241209T103000Z
+SUMMARY:International comparisons (wykład)
+UID:beea223a-2853-481a-95d4-3f533efed416@beea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20241021T110000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241021T093000Z
+SUMMARY:International comparisons (wykład)
+UID:123a28f7-ec19-4ce0-86f0-64c6fac919f8@123a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Homoncik
+DTEND:20241121T184500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241121T163000Z
+SUMMARY:International Economics (ćwiczenia)
+UID:a90098eb-186a-4bfa-a775-35a611d9a2a6@a900.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Homoncik
+DTEND:20241017T174500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241017T153000Z
+SUMMARY:International Economics (ćwiczenia)
+UID:76f4bde9-279c-4197-aa1e-091aef3a6204@76f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20250124T120000Z
+LOCATION:Paw.G - 2
+DTSTART:20250124T103000Z
+SUMMARY:Entrepreneurship and New Venture Planning (konwersatorium)
+UID:fa546101-3abb-4505-83eb-a9936758b93d@fa54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Głodowska
+DTEND:20250121T180000Z
+LOCATION:Paw.S sala 5
+DTSTART:20250121T154500Z
+SUMMARY:Payment methods in international business (wykład)
+UID:7ed0c2e7-98f3-445b-b8e0-376e8c905c09@7ed0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Zajączkowska
+DTEND:20241003T143000Z
+LOCATION:Paw.F 008
+DTSTART:20241003T130000Z
+SUMMARY:Research methods in economics and business (konwersatorium)
+UID:4b193320-2471-429e-bec6-ecb87b3a66d1@4b19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20241122T143000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241122T121500Z
+SUMMARY:International Economics (wykład)
+UID:cf509a37-e98e-4ea7-9bf5-4c1537351446@cf50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:dcc98451-e4bb-476f-9c6c-569bd60f2bca@dcc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Krzysztof Wach
+DTEND:20241210T120000Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20241210T103000Z
+SUMMARY:International Entrepreneurship (ćwiczenia)
+UID:8235f3d2-564d-42a9-99a9-9b91aca39127@8235.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20241122T120000Z
+LOCATION:Paw.G - 2
+DTSTART:20241122T103000Z
+SUMMARY:Entrepreneurship and New Venture Planning (konwersatorium)
+UID:887d0c90-6d7c-4517-bbe6-b6dccf0e2597@887d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Głodowska
+DTEND:20241219T101500Z
+LOCATION:Paw.G - 2
+DTSTART:20241219T084500Z
+SUMMARY:Payment methods in international business (ćwiczenia)
+UID:d5f0fd52-f417-4d77-85c4-5431ff5992c1@d5f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20241016T091500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241016T074500Z
+SUMMARY:International comparisons (ćwiczenia)
+UID:5bf47f86-0926-477e-abdc-1266ac031730@5bf4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Krzysztof Wach
+DTEND:20241029T120000Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20241029T103000Z
+SUMMARY:International Entrepreneurship (ćwiczenia)
+UID:458f0875-0fc9-42f0-acdf-098fc16cc0d0@458f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Alicja Dudek
+DTEND:20241008T073000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241008T060000Z
+SUMMARY:Self-development in a working environment (konwersatorium)
+UID:b1c200fa-84ee-4bd5-8fd4-e24e7a1d10ac@b1c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Zajączkowska
+DTEND:20241031T153000Z
+LOCATION:Paw.F 008
+DTSTART:20241031T140000Z
+SUMMARY:Research methods in economics and business (konwersatorium)
+UID:538d9a29-29f3-47e5-8842-22612e25b834@538d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Alicja Dudek
+DTEND:20241119T083000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241119T070000Z
+SUMMARY:Self-development in a working environment (konwersatorium)
+UID:66a90a44-ce5f-4284-a730-7dd907432f8e@66a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20241011T133000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241011T111500Z
+SUMMARY:International Economics (wykład)
+UID:9b8386d5-1346-445b-80d4-faa45c86d817@9b83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20241129T143000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241129T121500Z
+SUMMARY:International Economics (wykład)
+UID:c17b2daf-df76-4358-8c25-49042fe95c5f@c17b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Homoncik
+DTEND:20250116T184500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250116T163000Z
+SUMMARY:International Economics (ćwiczenia)
+UID:a4a63f43-e2e3-40c8-8461-1b13d00a8c2e@a4a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Krzysztof Wach
+DTEND:20250121T120000Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20250121T103000Z
+SUMMARY:International Entrepreneurship (ćwiczenia)
+UID:b66276e6-b2e5-4236-9f7a-f25568a92956@b662.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20250124T143000Z
+LOCATION:Paw.S sala 3
+DTSTART:20250124T121500Z
+SUMMARY:International Economics (wykład)
+UID:f83c4487-9877-4b00-a40b-f092a4fb5790@f83c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Krzysztof Wach
+DTEND:20250107T120000Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20250107T103000Z
+SUMMARY:International Entrepreneurship (ćwiczenia)
+UID:e146e5bf-ef93-4523-ac53-7c4829bc8a02@e146.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Głodowska
+DTEND:20241209T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241209T084500Z
+SUMMARY:Payment methods in international business (wykład)
+UID:5e96fd99-40a9-4f81-a8c6-510ce482291f@5e96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20241205T153000Z
+LOCATION:Paw.F 008
+DTSTART:20241205T140000Z
+SUMMARY:Research methods in economics and business (konwersatorium)
+UID:21148cfa-840f-4fd6-be2d-a8e1110fe0a8@2114.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Homoncik
+DTEND:20250123T184500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250123T163000Z
+SUMMARY:International Economics (ćwiczenia)
+UID:83ecf00f-d4a4-460c-b9b0-6fd5054e803d@83ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Krzysztof Wach
+DTEND:20241022T110000Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20241022T093000Z
+SUMMARY:International Entrepreneurship (ćwiczenia)
+UID:039d1f28-14d4-4b83-be08-9d872f9bb97d@039d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Homoncik
+DTEND:20241114T184500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241114T163000Z
+SUMMARY:International Economics (ćwiczenia)
+UID:531a56b4-f0ad-4f68-b40e-3158aa150c18@531a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20250122T101500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250122T084500Z
+SUMMARY:International comparisons (ćwiczenia)
+UID:04876295-9f3a-4d85-9332-52ee7af56437@0487.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20241011T110000Z
+LOCATION:Paw.G - 2
+DTSTART:20241011T093000Z
+SUMMARY:Entrepreneurship and New Venture Planning (konwersatorium)
+UID:4671ebda-16ad-4646-a0a1-165ea11af6eb@4671.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20250117T120000Z
+LOCATION:Paw.G - 2
+DTSTART:20250117T103000Z
+SUMMARY:Entrepreneurship and New Venture Planning (konwersatorium)
+UID:a29f1fdd-a933-4b5d-b2b7-b07f57571f07@a29f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Krzysztof Wach
+DTEND:20241015T110000Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20241015T093000Z
+SUMMARY:International Entrepreneurship (ćwiczenia)
+UID:2c34de21-90ef-4c41-b9c2-5ab666fa4e5b@2c34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20241220T120000Z
+LOCATION:Paw.G - 2
+DTSTART:20241220T103000Z
+SUMMARY:Entrepreneurship and New Venture Planning (konwersatorium)
+UID:4bcff550-84ec-4467-a019-a7f0cd898200@4bcf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartłomiej Marona
+DTEND:20250109T153000Z
+LOCATION:Paw.F 008
+DTSTART:20250109T140000Z
+SUMMARY:Research methods in economics and business (konwersatorium)
+UID:81a20c39-1cc7-458d-946f-9619bf3a538f@81a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Krzysztof Wach
+DTEND:20241105T120000Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20241105T103000Z
+SUMMARY:International Entrepreneurship (ćwiczenia)
+UID:ea9dc3b7-7edb-42b4-93b7-7389e3756c8e@ea9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Krzysztof Wach
+DTEND:20241008T110000Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20241008T093000Z
+SUMMARY:International Entrepreneurship (ćwiczenia)
+UID:5abcdf04-7db7-482a-962b-d739d8cdab82@5abc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Homoncik
+DTEND:20241107T184500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241107T163000Z
+SUMMARY:International Economics (ćwiczenia)
+UID:80a04bfa-6dfa-404c-9aab-bd82a69e9908@80a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartłomiej Marona
+DTEND:20241219T153000Z
+LOCATION:Paw.F 008
+DTSTART:20241219T140000Z
+SUMMARY:Research methods in economics and business (konwersatorium)
+UID:b99629a2-f9b8-4859-a371-68155f7a2bbf@b996.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20241127T101500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241127T084500Z
+SUMMARY:International comparisons (ćwiczenia)
+UID:6e12766e-fe34-44b6-9fa6-9d3699f2ab43@6e12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Krzysztof Wach
+DTEND:20241217T120000Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20241217T103000Z
+SUMMARY:International Entrepreneurship (ćwiczenia)
+UID:d3ee204c-cc87-4936-8868-fe5856c9e5a8@d3ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Krzysztof Wach
+DTEND:20241112T120000Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20241112T103000Z
+SUMMARY:International Entrepreneurship (ćwiczenia)
+UID:878b9b81-c229-4b6e-aaf6-92ce818f7ea9@878b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Alicja Dudek
+DTEND:20241217T083000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241217T070000Z
+SUMMARY:Self-development in a working environment (konwersatorium)
+UID:fea0eb16-594f-4490-bc15-f893ed775854@fea0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Alicja Dudek
+DTEND:20241203T083000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241203T070000Z
+SUMMARY:Self-development in a working environment (konwersatorium)
+UID:e810f728-3aba-404d-95cb-c9b389d54efb@e810.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Zajączkowska
+DTEND:20241010T143000Z
+LOCATION:Paw.F 008
+DTSTART:20241010T130000Z
+SUMMARY:Research methods in economics and business (konwersatorium)
+UID:f1ba0801-9ff1-4cfd-b938-4bdb8a177532@f1ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Alicja Dudek
+DTEND:20241105T083000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241105T070000Z
+SUMMARY:Self-development in a working environment (konwersatorium)
+UID:80e73c38-a8de-46d6-86a8-9d626551584f@80e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartłomiej Marona
+DTEND:20241212T153000Z
+LOCATION:Paw.F 008
+DTSTART:20241212T140000Z
+SUMMARY:Research methods in economics and business (konwersatorium)
+UID:014f94d1-1e25-48d6-98f7-0246aaed0154@014f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20241018T133000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241018T111500Z
+SUMMARY:International Economics (wykład)
+UID:7844f8e1-c977-4433-9bcb-16765dd0d47d@7844.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Zajączkowska
+DTEND:20241024T143000Z
+LOCATION:Paw.F 008
+DTSTART:20241024T130000Z
+SUMMARY:Research methods in economics and business (konwersatorium)
+UID:c4f9a390-6a9a-4b0e-80ee-d308ab3c2aef@c4f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20241115T120000Z
+LOCATION:Paw.G - 2
+DTSTART:20241115T103000Z
+SUMMARY:Entrepreneurship and New Venture Planning (konwersatorium)
+UID:ba408862-12ab-43c7-8220-e8304ae1cedb@ba40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Krzysztof Wach
+DTEND:20250110T101500Z
+LOCATION:Paw.C sala B
+DTSTART:20250110T084500Z
+SUMMARY:International Entrepreneurship (wykład)
+UID:4fa4c11a-c4d5-4bbb-8caf-6e2ba7301a0c@4fa4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Krzysztof Wach
+DTEND:20250124T101500Z
+LOCATION:Paw.C sala B
+DTSTART:20250124T084500Z
+SUMMARY:International Entrepreneurship (wykład)
+UID:a1c8bd97-16ae-465b-951d-4a15bb96c37b@a1c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Krzysztof Wach
+DTEND:20241119T120000Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20241119T103000Z
+SUMMARY:International Entrepreneurship (ćwiczenia)
+UID:8ae8558d-0628-4771-a021-dfeb2d5c3ca5@8ae8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20241220T143000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241220T121500Z
+SUMMARY:International Economics (wykład)
+UID:9888fbc6-faaa-44a0-a6ab-5b1ffaa705de@9888.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Krzysztof Wach
+DTEND:20241004T091500Z
+LOCATION:Paw.C sala B
+DTSTART:20241004T074500Z
+SUMMARY:International Entrepreneurship (wykład)
+UID:3c51d786-cee8-4398-8fdf-89427568c53f@3c51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Głodowska
+DTEND:20241205T101500Z
+LOCATION:Paw.G - 2
+DTSTART:20241205T084500Z
+SUMMARY:Payment methods in international business (ćwiczenia)
+UID:33a2c959-784b-4b55-8817-019f09fe5c1b@33a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20250117T143000Z
+LOCATION:Paw.S sala 3
+DTSTART:20250117T121500Z
+SUMMARY:International Economics (wykład)
+UID:184760bd-9d29-4cd8-81ac-1518b286a9e0@1847.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20241213T143000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241213T121500Z
+SUMMARY:International Economics (wykład)
+UID:11e755d8-f2e3-4747-83d8-1c3f4bfe1618@11e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20250115T120000Z
+LOCATION:Bibl. 440
+DTSTART:20250115T103000Z
+SUMMARY:Entrepreneurship and New Venture Planning (konwersatorium)
+UID:367d6002-b460-441e-a12a-ecbbe09fd714@367d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20241014T110000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241014T093000Z
+SUMMARY:International comparisons (wykład)
+UID:8a522c00-5fc0-4519-881b-efb960fe262f@8a52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Głodowska
+DTEND:20241010T091500Z
+LOCATION:Paw.G - 2
+DTSTART:20241010T074500Z
+SUMMARY:Payment methods in international business (ćwiczenia)
+UID:86aef25c-6fd0-4402-975b-e97e1a51b1c4@86ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Krzysztof Wach
+DTEND:20241203T120000Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20241203T103000Z
+SUMMARY:International Entrepreneurship (ćwiczenia)
+UID:5300a273-c88d-43a5-8ba6-9cd0f43bd965@5300.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20250113T120000Z
+LOCATION:Paw.S sala 2
+DTSTART:20250113T103000Z
+SUMMARY:International comparisons (wykład)
+UID:6a8faf1d-e381-4a68-ab50-f95f145b1b70@6a8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20250120T180000Z
+LOCATION:Paw.S sala 5
+DTSTART:20250120T154500Z
+SUMMARY:International Economics (wykład)
+UID:7b4d1ff3-0f44-4263-8a9a-31114cdd28b9@7b4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Zajączkowska
+DTEND:20241017T143000Z
+LOCATION:Paw.F 008
+DTSTART:20241017T130000Z
+SUMMARY:Research methods in economics and business (konwersatorium)
+UID:e7bdc62f-64ad-4c51-8bb7-104948c0df95@e7bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartłomiej Marona
+DTEND:20250116T153000Z
+LOCATION:Paw.F 008
+DTSTART:20250116T140000Z
+SUMMARY:Research methods in economics and business (konwersatorium)
+UID:b1f79ddf-abe8-41cb-9118-96fca81dc3a0@b1f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Głodowska
+DTEND:20250116T101500Z
+LOCATION:Paw.G - 2
+DTSTART:20250116T084500Z
+SUMMARY:Payment methods in international business (ćwiczenia)
+UID:778a6f61-57ad-459f-9d2e-4a36885f74cb@778a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Alicja Dudek
+DTEND:20241022T073000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241022T060000Z
+SUMMARY:Self-development in a working environment (konwersatorium)
+UID:76365e79-57dd-4886-b817-665ed40aea02@7636.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Krzysztof Wach
+DTEND:20250121T083000Z
+LOCATION:Paw.S sala 1
+DTSTART:20250121T074500Z
+SUMMARY:International Entrepreneurship (wykład)
+UID:c8a3b3ac-355e-4b51-b9af-2f179a45c83b@c8a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Karolina Klecha-Tylec
+DTEND:20241115T143000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241115T121500Z
+SUMMARY:International Economics (wykład)
+UID:f7770f26-14f1-4d10-beb4-2a668f59a4f5@f777.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20250120T153000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250120T144500Z
+SUMMARY:International comparisons (ćwiczenia)
+UID:7d94654d-8d13-498e-ac22-73a085f361c7@7d94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Głodowska
+DTEND:20241125T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241125T084500Z
+SUMMARY:Payment methods in international business (wykład)
+UID:175b3028-4088-431a-880e-4e47950bbaa5@175b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartłomiej Marona
+DTEND:20250123T153000Z
+LOCATION:Paw.F 008
+DTSTART:20250123T140000Z
+SUMMARY:Research methods in economics and business (konwersatorium)
+UID:2703c123-da22-4ae9-82e3-73ad876f3578@2703.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Homoncik
+DTEND:20241024T174500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241024T153000Z
+SUMMARY:International Economics (ćwiczenia)
+UID:4b1638ff-e941-4626-ac5e-1343f6f20822@4b16.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,602 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
+DTEND:20250123T190000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20250123T173000Z
+SUMMARY:Informatyka w rachunkowości (MSR/MSSF) (ćwiczenia)
+UID:507ad9ce-e283-4980-b335-2d5bcc4952a5@507a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
+DTEND:20241107T190000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241107T173000Z
+SUMMARY:Informatyka w rachunkowości (MSR/MSSF) (ćwiczenia)
+UID:85adbe08-d472-4f98-ab6e-8767066b3f5a@85ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20241205T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20241205T103000Z
+SUMMARY:Rachunkowość podatkowa (MSR/MSSF) (ćwiczenia)
+UID:e5f4131b-5742-4aab-aece-e98e984aac31@e5f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ireneusz Górowski
+DTEND:20241023T110000Z
+LOCATION:link do zajęć
+DTSTART:20241023T093000Z
+SUMMARY:Rachunkowość podatkowa (MSR/MSSF) (wykład)
+UID:9e779b46-6962-4b16-a6a8-1622ecc493d1@9e77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ireneusz Górowski
+DTEND:20241106T120000Z
+LOCATION:link do zajęć
+DTSTART:20241106T103000Z
+SUMMARY:Rachunkowość podatkowa (MSR/MSSF) (wykład)
+UID:fad5ed02-7333-4c00-bcf6-97e40b594d8a@fad5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Staszel
+DTEND:20241217T171500Z
+LOCATION:Paw.B 451
+DTSTART:20241217T154500Z
+SUMMARY:Międzynarodowe standardy rachunkowości (MSR/MSSF) (ćwiczenia)
+UID:84d486cf-a2b9-4383-b216-4dc5b7eb0a03@84d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20241003T110000Z
+LOCATION:Paw.C sala A
+DTSTART:20241003T093000Z
+SUMMARY:Rachunkowość podatkowa (MSR/MSSF) (ćwiczenia)
+UID:2294aa8a-3539-46dc-8153-9822457a777b@2294.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Jędrzejczyk
+DTEND:20241030T120000Z
+LOCATION:link do zajęć
+DTSTART:20241030T103000Z
+SUMMARY:Teoria i zasady rachunkowości (wykład)
+UID:2720ce6f-512b-4de2-9df0-b67897d5d781@2720.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241030T083000Z
+LOCATION:link do zajęć
+DTSTART:20241030T070000Z
+SUMMARY:Międzynarodowe standardy rachunkowości (MSR/MSSF) (wykład)
+UID:da30aefe-07a2-4984-bade-ead81889e356@da30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
+DTEND:20241031T190000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241031T173000Z
+SUMMARY:Informatyka w rachunkowości (MSR/MSSF) (ćwiczenia)
+UID:97333507-f390-43d2-9f6d-e4886085fcf4@9733.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241009T073000Z
+LOCATION:link do zajęć
+DTSTART:20241009T060000Z
+SUMMARY:Międzynarodowe standardy rachunkowości (MSR/MSSF) (wykład)
+UID:0ad8114f-41a7-4cef-a404-5d9afda3e3b4@0ad8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241113T083000Z
+LOCATION:link do zajęć
+DTSTART:20241113T070000Z
+SUMMARY:Międzynarodowe standardy rachunkowości (MSR/MSSF) (wykład)
+UID:278d6d61-b73e-4a02-b557-dba8f05beaa5@278d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ireneusz Górowski
+DTEND:20241218T120000Z
+LOCATION:link do zajęć
+DTSTART:20241218T103000Z
+SUMMARY:Rachunkowość podatkowa (MSR/MSSF) (wykład)
+UID:b4a4b7ac-538b-4302-a62e-834ada50d1d6@b4a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
+DTEND:20241017T180000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241017T163000Z
+SUMMARY:Informatyka w rachunkowości (MSR/MSSF) (ćwiczenia)
+UID:05e04b75-a2b9-4bb4-8df1-a384b5847dc8@05e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:ec6b4671-ecc5-4032-8b75-535b99437d7e@ec6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250123T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20250123T103000Z
+SUMMARY:Rachunkowość podatkowa (MSR/MSSF) (ćwiczenia)
+UID:3c2caf85-7cc8-4abf-9a34-f2bacb6302ac@3c2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20241121T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20241121T103000Z
+SUMMARY:Rachunkowość podatkowa (MSR/MSSF) (ćwiczenia)
+UID:13ffb477-2f66-458b-a4e6-7915f0cb7b1c@13ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20241219T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20241219T103000Z
+SUMMARY:Rachunkowość podatkowa (MSR/MSSF) (ćwiczenia)
+UID:8868dd1b-18d5-4142-af07-3198e9f430d0@8868.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
+DTEND:20241128T190000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241128T173000Z
+SUMMARY:Informatyka w rachunkowości (MSR/MSSF) (ćwiczenia)
+UID:b25d75b0-5db2-4429-af64-35e4d1ed9c2a@b25d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Staszel
+DTEND:20241112T171500Z
+LOCATION:Paw.B 451
+DTSTART:20241112T154500Z
+SUMMARY:Międzynarodowe standardy rachunkowości (MSR/MSSF) (ćwiczenia)
+UID:8b20011e-58f2-4d05-83bd-a7a43a3446bb@8b20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20241128T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20241128T103000Z
+SUMMARY:Rachunkowość podatkowa (MSR/MSSF) (ćwiczenia)
+UID:86811e50-6af5-4e88-9f0e-e74698897db6@8681.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20250122T083000Z
+LOCATION:link do zajęć
+DTSTART:20250122T070000Z
+SUMMARY:Międzynarodowe standardy rachunkowości (MSR/MSSF) (wykład)
+UID:2eb35185-0ba7-4236-9da5-ac6a9862eaec@2eb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Staszel
+DTEND:20241203T171500Z
+LOCATION:Paw.B 451
+DTSTART:20241203T154500Z
+SUMMARY:Międzynarodowe standardy rachunkowości (MSR/MSSF) (ćwiczenia)
+UID:1db18f1e-1a3c-4a7c-b195-f3cc6af2f961@1db1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ireneusz Górowski
+DTEND:20250115T120000Z
+LOCATION:link do zajęć
+DTSTART:20250115T103000Z
+SUMMARY:Rachunkowość podatkowa (MSR/MSSF) (wykład)
+UID:80c50fc5-3c8a-4cde-ab7f-fada0521139e@80c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241106T083000Z
+LOCATION:link do zajęć
+DTSTART:20241106T070000Z
+SUMMARY:Międzynarodowe standardy rachunkowości (MSR/MSSF) (wykład)
+UID:143bdec5-733a-4c40-bdec-3a672826af73@143b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20241107T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20241107T103000Z
+SUMMARY:Rachunkowość podatkowa (MSR/MSSF) (ćwiczenia)
+UID:e23e4475-3dc9-43cd-a9de-059aeb838852@e23e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
+DTEND:20241024T180000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241024T163000Z
+SUMMARY:Informatyka w rachunkowości (MSR/MSSF) (ćwiczenia)
+UID:63e8faec-9ba9-49a4-83ef-59c9a6e075dc@63e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241023T073000Z
+LOCATION:link do zajęć
+DTSTART:20241023T060000Z
+SUMMARY:Międzynarodowe standardy rachunkowości (MSR/MSSF) (wykład)
+UID:d8980968-c807-45e1-bede-3136d2d6477a@d898.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ireneusz Górowski
+DTEND:20241113T101500Z
+LOCATION:link do zajęć
+DTSTART:20241113T093000Z
+SUMMARY:Rachunkowość podatkowa (MSR/MSSF) (wykład)
+UID:efa3fec6-44a7-460a-b238-f62349969ffe@efa3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Jędrzejczyk
+DTEND:20241127T120000Z
+LOCATION:link do zajęć
+DTSTART:20241127T103000Z
+SUMMARY:Teoria i zasady rachunkowości (wykład)
+UID:961e00df-1ab1-4a09-b953-62ac06a27a6f@961e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Jędrzejczyk
+DTEND:20241113T120000Z
+LOCATION:link do zajęć
+DTSTART:20241113T103000Z
+SUMMARY:Teoria i zasady rachunkowości (wykład)
+UID:101c8344-41fd-4b37-83f3-a936d5382dae@101c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
+DTEND:20241205T190000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241205T173000Z
+SUMMARY:Informatyka w rachunkowości (MSR/MSSF) (ćwiczenia)
+UID:684d1096-bd49-4c57-af62-125482280522@684d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Staszel
+DTEND:20241001T161500Z
+LOCATION:Paw.B 451
+DTSTART:20241001T144500Z
+SUMMARY:Międzynarodowe standardy rachunkowości (MSR/MSSF) (ćwiczenia)
+UID:69da18a3-b346-454a-bdcc-ec589c9ef316@69da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Staszel
+DTEND:20241029T171500Z
+LOCATION:Paw.B 451
+DTSTART:20241029T154500Z
+SUMMARY:Międzynarodowe standardy rachunkowości (MSR/MSSF) (ćwiczenia)
+UID:54f00698-dc6f-47bf-a36b-9fd1723df736@54f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Staszel
+DTEND:20241119T171500Z
+LOCATION:Paw.B 451
+DTSTART:20241119T154500Z
+SUMMARY:Międzynarodowe standardy rachunkowości (MSR/MSSF) (ćwiczenia)
+UID:c702c66d-af97-479d-b0cb-6ce3ee07f196@c702.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241204T083000Z
+LOCATION:link do zajęć
+DTSTART:20241204T070000Z
+SUMMARY:Międzynarodowe standardy rachunkowości (MSR/MSSF) (wykład)
+UID:95f12d24-9f20-42a6-af81-e8edb8094f7e@95f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20241212T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20241212T103000Z
+SUMMARY:Rachunkowość podatkowa (MSR/MSSF) (ćwiczenia)
+UID:9621c818-410b-4a04-b0cc-c498a71b713d@9621.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20241105T153000Z
+LOCATION:Paw.F 515
+DTSTART:20241105T140000Z
+SUMMARY:Rachunkowość podatkowa (MSR/MSSF) (ćwiczenia)
+UID:509627c2-4378-4209-b48f-6b72a26f87c6@5096.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ireneusz Górowski
+DTEND:20241204T120000Z
+LOCATION:link do zajęć
+DTSTART:20241204T103000Z
+SUMMARY:Rachunkowość podatkowa (MSR/MSSF) (wykład)
+UID:75157ef8-45ce-470b-ba68-dbc57b49cf57@7515.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250109T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20250109T103000Z
+SUMMARY:Rachunkowość podatkowa (MSR/MSSF) (ćwiczenia)
+UID:d19f4d58-fa92-486c-9d0b-7f4fa0b60c36@d19f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
+DTEND:20250116T190000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20250116T173000Z
+SUMMARY:Informatyka w rachunkowości (MSR/MSSF) (ćwiczenia)
+UID:f0564881-f7a8-4277-bf61-3e31c80489b6@f056.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Staszel
+DTEND:20250121T171500Z
+LOCATION:Paw.B 451
+DTSTART:20250121T154500Z
+SUMMARY:Międzynarodowe standardy rachunkowości (MSR/MSSF) (ćwiczenia)
+UID:87ca252b-3341-445d-9770-7c6b98b33d20@87ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
+DTEND:20241003T180000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241003T163000Z
+SUMMARY:Informatyka w rachunkowości (MSR/MSSF) (ćwiczenia)
+UID:8e51c578-e820-4187-a713-4a26d5096e74@8e51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Jędrzejczyk
+DTEND:20241211T120000Z
+LOCATION:link do zajęć
+DTSTART:20241211T103000Z
+SUMMARY:Teoria i zasady rachunkowości (wykład)
+UID:4f002856-4479-4853-834b-8708cfecae8b@4f00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Staszel
+DTEND:20250114T171500Z
+LOCATION:Paw.B 451
+DTSTART:20250114T154500Z
+SUMMARY:Międzynarodowe standardy rachunkowości (MSR/MSSF) (ćwiczenia)
+UID:3aed5081-3637-42b5-9ed0-5e9f5bf8d9b7@3aed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Staszel
+DTEND:20241015T161500Z
+LOCATION:Paw.B 451
+DTSTART:20241015T144500Z
+SUMMARY:Międzynarodowe standardy rachunkowości (MSR/MSSF) (ćwiczenia)
+UID:29959c98-78bb-41c7-ba27-32ebb318686a@2995.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241120T083000Z
+LOCATION:link do zajęć
+DTSTART:20241120T070000Z
+SUMMARY:Międzynarodowe standardy rachunkowości (MSR/MSSF) (wykład)
+UID:efe1afdb-6c06-49cc-97d4-efeb37a809e4@efe1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ireneusz Górowski
+DTEND:20241120T120000Z
+LOCATION:link do zajęć
+DTSTART:20241120T103000Z
+SUMMARY:Rachunkowość podatkowa (MSR/MSSF) (wykład)
+UID:e70a5678-f51e-465c-85fa-ce0b64f0c634@e70a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241218T083000Z
+LOCATION:link do zajęć
+DTSTART:20241218T070000Z
+SUMMARY:Międzynarodowe standardy rachunkowości (MSR/MSSF) (wykład)
+UID:2640d12f-be62-48be-beba-b0f591e79b4d@2640.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241016T073000Z
+LOCATION:link do zajęć
+DTSTART:20241016T060000Z
+SUMMARY:Międzynarodowe standardy rachunkowości (MSR/MSSF) (wykład)
+UID:ccde56b0-a2b9-46d3-9db5-7ca797627d63@ccde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Staszel
+DTEND:20241126T171500Z
+LOCATION:Paw.B 451
+DTSTART:20241126T154500Z
+SUMMARY:Międzynarodowe standardy rachunkowości (MSR/MSSF) (ćwiczenia)
+UID:1fdaaf6e-db16-4d7f-a751-0d81a383545c@1fda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20241031T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20241031T103000Z
+SUMMARY:Rachunkowość podatkowa (MSR/MSSF) (ćwiczenia)
+UID:26cb6246-5db0-4ead-88c0-776f44eed22e@26cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Staszel
+DTEND:20241105T171500Z
+LOCATION:Paw.B 451
+DTSTART:20241105T154500Z
+SUMMARY:Międzynarodowe standardy rachunkowości (MSR/MSSF) (ćwiczenia)
+UID:c2fe5581-df78-4382-adc5-7075c8410e41@c2fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
+DTEND:20241219T190000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241219T173000Z
+SUMMARY:Informatyka w rachunkowości (MSR/MSSF) (ćwiczenia)
+UID:88bb6d07-316f-4ce3-8734-61535f13342a@88bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ireneusz Górowski
+DTEND:20241009T110000Z
+LOCATION:link do zajęć
+DTSTART:20241009T093000Z
+SUMMARY:Rachunkowość podatkowa (MSR/MSSF) (wykład)
+UID:eba021c0-88c7-4970-accd-e8537d947bf0@eba0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:28e43db5-f119-48de-9a1a-efbcb878a5a8@28e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20241024T110000Z
+LOCATION:Paw.C sala A
+DTSTART:20241024T093000Z
+SUMMARY:Rachunkowość podatkowa (MSR/MSSF) (ćwiczenia)
+UID:4a8136ad-4b9a-4cdf-be53-c09c043c72a0@4a81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20241017T110000Z
+LOCATION:Paw.C sala A
+DTSTART:20241017T093000Z
+SUMMARY:Rachunkowość podatkowa (MSR/MSSF) (ćwiczenia)
+UID:c7c9c5fd-2112-42c3-ad17-662e6819b89f@c7c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20241114T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20241114T103000Z
+SUMMARY:Rachunkowość podatkowa (MSR/MSSF) (ćwiczenia)
+UID:7423474c-0a8b-459d-8817-8cf8ddd4175e@7423.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20250108T083000Z
+LOCATION:link do zajęć
+DTSTART:20250108T070000Z
+SUMMARY:Międzynarodowe standardy rachunkowości (MSR/MSSF) (wykład)
+UID:d8f0b476-6e74-4fd5-990a-b5c7cc2511f5@d8f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
+DTEND:20241114T190000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241114T173000Z
+SUMMARY:Informatyka w rachunkowości (MSR/MSSF) (ćwiczenia)
+UID:3dc0669a-3f9f-4505-ad58-36116f16e54b@3dc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Staszel
+DTEND:20241210T171500Z
+LOCATION:Paw.B 451
+DTSTART:20241210T154500Z
+SUMMARY:Międzynarodowe standardy rachunkowości (MSR/MSSF) (ćwiczenia)
+UID:e6bb6dce-bcbb-4548-893f-8c27ba805686@e6bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
+DTEND:20250109T190000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20250109T173000Z
+SUMMARY:Informatyka w rachunkowości (MSR/MSSF) (ćwiczenia)
+UID:90f46eef-badd-4f21-a857-15b3d6419e7e@90f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
+DTEND:20241121T190000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241121T173000Z
+SUMMARY:Informatyka w rachunkowości (MSR/MSSF) (ćwiczenia)
+UID:c5e5724b-7a89-447e-96c3-d87a27e76b2a@c5e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
+DTEND:20241212T190000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241212T173000Z
+SUMMARY:Informatyka w rachunkowości (MSR/MSSF) (ćwiczenia)
+UID:3fc48c07-2dfc-4a3d-9dba-e9776fa2422b@3fc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jerzy Kuchmacz
+DTEND:20250116T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20250116T103000Z
+SUMMARY:Rachunkowość podatkowa (MSR/MSSF) (ćwiczenia)
+UID:07c6bf9b-d5d3-4804-815f-a47827f2d7ee@07c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241211T083000Z
+LOCATION:link do zajęć
+DTSTART:20241211T070000Z
+SUMMARY:Międzynarodowe standardy rachunkowości (MSR/MSSF) (wykład)
+UID:4096f4d4-1d19-4d64-b6c8-6a8d8e2b02ba@4096.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Staszel
+DTEND:20241008T161500Z
+LOCATION:Paw.B 451
+DTSTART:20241008T144500Z
+SUMMARY:Międzynarodowe standardy rachunkowości (MSR/MSSF) (ćwiczenia)
+UID:79d90494-0edf-46c2-b27d-082759c5b9e8@79d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Staszel
+DTEND:20250107T171500Z
+LOCATION:Paw.B 451
+DTSTART:20250107T154500Z
+SUMMARY:Międzynarodowe standardy rachunkowości (MSR/MSSF) (ćwiczenia)
+UID:87441784-99a1-447d-8bda-9119db37df58@8744.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Katarzyna Szymczyk-Madej
+DTEND:20241010T180000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241010T163000Z
+SUMMARY:Informatyka w rachunkowości (MSR/MSSF) (ćwiczenia)
+UID:beed5b17-509a-4d08-8ddf-3149405990f9@beed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Staszel
+DTEND:20241022T161500Z
+LOCATION:Paw.B 451
+DTSTART:20241022T144500Z
+SUMMARY:Międzynarodowe standardy rachunkowości (MSR/MSSF) (ćwiczenia)
+UID:2a162da6-d71a-414c-815c-34e73d98051f@2a16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20250115T083000Z
+LOCATION:link do zajęć
+DTSTART:20250115T070000Z
+SUMMARY:Międzynarodowe standardy rachunkowości (MSR/MSSF) (wykład)
+UID:a45a1c64-9283-4622-a1ca-bc3f988dc568@a45a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Jędrzejczyk
+DTEND:20241016T110000Z
+LOCATION:link do zajęć
+DTSTART:20241016T093000Z
+SUMMARY:Teoria i zasady rachunkowości (wykład)
+UID:bf644c2e-34d6-470d-9150-5ab2090e2da7@bf64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241127T083000Z
+LOCATION:link do zajęć
+DTSTART:20241127T070000Z
+SUMMARY:Międzynarodowe standardy rachunkowości (MSR/MSSF) (wykład)
+UID:b5e3be58-08cd-423f-abd2-bb59b39bcac9@b5e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241204T101500Z
+LOCATION:link do zajęć
+DTSTART:20241204T084500Z
+SUMMARY:Międzynarodowe standardy rachunkowości (MSR/MSSF) (wykład)
+UID:2fd3d1c7-c905-4a0a-b18f-236b68f14e31@2fd3.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,404 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Cholewa
+DTEND:20241117T091500Z
+LOCATION:Paw.U sala K
+DTSTART:20241117T070000Z
+SUMMARY:Statystyka matematyczna (ćwiczenia)
+UID:42b5afe0-c291-4ad7-b3f1-dd4e0d69919a@42b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20241130T091500Z
+LOCATION:link do zajęć
+DTSTART:20241130T070000Z
+SUMMARY:Wzrost gospodarczy i konwergencja (wykład do wyboru)
+UID:4f8f5b47-6cd4-48ee-819d-43ad6e4d0f99@4f8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20241026T104500Z
+LOCATION:link do zajęć
+DTSTART:20241026T083000Z
+SUMMARY:Wzrost gospodarczy i konwergencja (wykład do wyboru)
+UID:86e57c90-7eb2-4fac-9476-e05d9456662c@86e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Statystyka Vacat Nowy1
+DTEND:20241026T081500Z
+LOCATION:link do zajęć
+DTSTART:20241026T060000Z
+SUMMARY:Statystyka z pakietem R (wykład do wyboru)
+UID:55e6f3b8-2dfe-43b7-9e17-09077bbc4048@55e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Salamaga
+DTEND:20241130T151500Z
+LOCATION:link do zajęć
+DTSTART:20241130T121500Z
+SUMMARY:Statystyka matematyczna (wykład)
+UID:0b97557d-8483-4a24-b3de-17c8c8860af2@0b97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Wajda-Lichy
+DTEND:20241124T170000Z
+LOCATION:Paw.B 151
+DTSTART:20241124T144500Z
+SUMMARY:Makroekonomia II (ćwiczenia)
+UID:11c931ee-8f4a-4805-94a9-28f012de3ca1@11c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Wajda-Lichy
+DTEND:20250112T134500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20250112T121500Z
+SUMMARY:Makroekonomia II (ćwiczenia)
+UID:cbc54a23-53be-4673-b0f9-2d434094fdb0@cbc5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Barburski
+DTEND:20241124T143000Z
+LOCATION:Paw.U sala K
+DTSTART:20241124T121500Z
+SUMMARY:Ocena kondycji finansowej przedsiębiorstwa (ćwiczenia)
+UID:22da7bb3-dc24-4947-b88b-208a4e28f836@22da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Cholewa
+DTEND:20241012T104500Z
+LOCATION:Paw.U sala K
+DTSTART:20241012T083000Z
+SUMMARY:Statystyka matematyczna (ćwiczenia)
+UID:4939b633-0e0a-49a2-ba63-1ca2bfc15c68@4939.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Salamaga
+DTEND:20241005T090000Z
+LOCATION:link do zajęć
+DTSTART:20241005T064500Z
+SUMMARY:Statystyka matematyczna (wykład)
+UID:c981be00-4913-4c31-84b8-6ec9b36952dc@c981.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Grabińska
+DTEND:20241005T114500Z
+LOCATION:link do zajęć
+DTSTART:20241005T093000Z
+SUMMARY:Podstawy finansów (wykład)
+UID:2054c7ad-c664-49e1-8ea8-33e10d93e295@2054.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Barburski
+DTEND:20241004T184500Z
+LOCATION:link do zajęć
+DTSTART:20241004T163000Z
+SUMMARY:Ocena kondycji finansowej przedsiębiorstwa (wykład)
+UID:dda56ead-c0c0-4c38-a0f0-736f853729b0@dda5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241115T170000Z
+LOCATION:link do zajęć
+DTSTART:20241115T144500Z
+SUMMARY:Teoria gier (wykład do wyboru)
+UID:37413af2-260f-48c2-bc61-bf8558db8ff4@3741.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Grabińska
+DTEND:20241130T114500Z
+LOCATION:link do zajęć
+DTSTART:20241130T093000Z
+SUMMARY:Podstawy finansów (wykład)
+UID:5699da5a-1c7f-49af-8bfd-01ec701d6f23@5699.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Wajda-Lichy
+DTEND:20241025T184500Z
+LOCATION:link do zajęć
+DTSTART:20241025T163000Z
+SUMMARY:Makroekonomia II (wykład)
+UID:ddce40c5-bade-460e-b93c-187f6e20f854@ddce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241027T143000Z
+LOCATION:Paw.F 107
+DTSTART:20241027T121500Z
+SUMMARY:Teoria gier (ćwiczenia do wyboru)
+UID:a912919c-be76-4e2f-9830-410c2c662b59@a912.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Barburski
+DTEND:20241129T194500Z
+LOCATION:link do zajęć
+DTSTART:20241129T173000Z
+SUMMARY:Ocena kondycji finansowej przedsiębiorstwa (wykład)
+UID:087fe9fc-c45d-413f-a0ef-4acea6d7bf17@087f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Salamaga
+DTEND:20241214T160000Z
+LOCATION:link do zajęć
+DTSTART:20241214T130000Z
+SUMMARY:Statystyka matematyczna (wykład)
+UID:649192b8-ddfc-4745-8868-93d5a962e904@6491.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Grabińska
+DTEND:20250112T091500Z
+LOCATION:Paw.F 516
+DTSTART:20250112T070000Z
+SUMMARY:Podstawy finansów (ćwiczenia)
+UID:00faef3a-f837-4ddd-8c94-9ed7d0637a99@00fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Statystyka Vacat Nowy1
+DTEND:20241123T143000Z
+LOCATION:link do zajęć
+DTSTART:20241123T121500Z
+SUMMARY:Statystyka z pakietem R (wykład do wyboru)
+UID:7e764f49-7ed6-40c7-986f-9cdc12eb9140@7e76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Wajda-Lichy
+DTEND:20241027T091500Z
+LOCATION:Paw.B 151
+DTSTART:20241027T070000Z
+SUMMARY:Makroekonomia II (ćwiczenia)
+UID:571d086b-ead4-4570-a1b1-7a2d77d6fadb@571d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Wajda-Lichy
+DTEND:20241116T091500Z
+LOCATION:Paw.B 151
+DTSTART:20241116T070000Z
+SUMMARY:Makroekonomia II (ćwiczenia)
+UID:5a8f824a-b53d-455c-8dd2-a9334954ccd4@5a8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20250125T091500Z
+LOCATION:link do zajęć
+DTSTART:20250125T070000Z
+SUMMARY:Wzrost gospodarczy i konwergencja (wykład do wyboru)
+UID:b26343c1-6f61-4efc-b0df-ee02cb15d7c0@b263.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Statystyka Vacat Nowy1
+DTEND:20250125T114500Z
+LOCATION:link do zajęć
+DTSTART:20250125T093000Z
+SUMMARY:Statystyka z pakietem R (wykład do wyboru)
+UID:3b67b0a8-fe07-4c5e-b995-0c3c5de5598c@3b67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Grabińska
+DTEND:20241215T091500Z
+LOCATION:Paw.F 516
+DTSTART:20241215T070000Z
+SUMMARY:Podstawy finansów (ćwiczenia)
+UID:6b4b1f73-32a2-4a1a-bb27-b50a1a6499c1@6b4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Cholewa
+DTEND:20241208T091500Z
+LOCATION:Paw.U sala K
+DTSTART:20241208T070000Z
+SUMMARY:Statystyka matematyczna (ćwiczenia)
+UID:67feb75d-6960-4b18-8abf-0972dcaeec8c@67fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Statystyka Vacat Nowy1
+DTEND:20250111T124500Z
+LOCATION:link do zajęć
+DTSTART:20250111T103000Z
+SUMMARY:Statystyka z pakietem R (wykład do wyboru)
+UID:87cab045-9642-4bde-a2a7-c65877bfde79@87ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Statystyka Vacat Nowy1
+DTEND:20241220T194500Z
+LOCATION:link do zajęć
+DTSTART:20241220T173000Z
+SUMMARY:Statystyka z pakietem R (wykład do wyboru)
+UID:4966b022-4606-4399-abb4-33fd5a2f8d5f@4966.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Wajda-Lichy
+DTEND:20241115T194500Z
+LOCATION:link do zajęć
+DTSTART:20241115T173000Z
+SUMMARY:Makroekonomia II (wykład)
+UID:e453992f-1904-4f46-b123-c7daa0cf7359@e453.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20241006T114500Z
+LOCATION:link do zajęć
+DTSTART:20241006T093000Z
+SUMMARY:Wzrost gospodarczy i konwergencja (wykład do wyboru)
+UID:44a4570f-f88e-49a5-87e8-ec116af4911e@44a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Barburski
+DTEND:20241207T114500Z
+LOCATION:link do zajęć
+DTSTART:20241207T093000Z
+SUMMARY:Ocena kondycji finansowej przedsiębiorstwa (wykład)
+UID:34f437bc-9a54-4407-8afe-f01e46190f4a@34f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Cholewa
+DTEND:20241215T143000Z
+LOCATION:Paw.C sala A
+DTSTART:20241215T121500Z
+SUMMARY:Statystyka matematyczna (ćwiczenia)
+UID:a62c8d8c-c54a-4c06-a190-06c0c2d30777@a62c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20250110T194500Z
+LOCATION:Paw.F 111
+DTSTART:20250110T173000Z
+SUMMARY:Teoria gier (ćwiczenia do wyboru)
+UID:fb8b3fbf-c418-4748-9f73-fbf6ffeaced0@fb8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Cholewa
+DTEND:20250112T170000Z
+LOCATION:Paw.C sala A
+DTSTART:20250112T144500Z
+SUMMARY:Statystyka matematyczna (ćwiczenia)
+UID:c572b3b1-489f-46cd-b06d-dcaa0764c7fe@c572.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Salamaga
+DTEND:20241123T114500Z
+LOCATION:link do zajęć
+DTSTART:20241123T084500Z
+SUMMARY:Statystyka matematyczna (wykład)
+UID:65825e70-888b-4a37-b84a-941ef141a02b@6582.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Wajda-Lichy
+DTEND:20241201T151500Z
+LOCATION:Paw.B 151
+DTSTART:20241201T121500Z
+SUMMARY:Makroekonomia II (ćwiczenia)
+UID:1ada31d6-79d4-4c37-9bca-ea50757cdb43@1ada.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Statystyka Vacat Nowy1
+DTEND:20241214T124500Z
+LOCATION:link do zajęć
+DTSTART:20241214T103000Z
+SUMMARY:Statystyka z pakietem R (wykład do wyboru)
+UID:07ebd9f8-f211-4087-bb8d-23a093f971d1@07eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Wajda-Lichy
+DTEND:20241222T091500Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241222T070000Z
+SUMMARY:Makroekonomia II (ćwiczenia)
+UID:ec2d4cb1-bce4-460f-be0d-7d07ecd163bc@ec2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Wajda-Lichy
+DTEND:20241005T141500Z
+LOCATION:link do zajęć
+DTSTART:20241005T120000Z
+SUMMARY:Makroekonomia II (wykład)
+UID:77f5a29d-8cf8-4e18-8538-51b91a18748f@77f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Cholewa
+DTEND:20250126T143000Z
+LOCATION:Paw.C sala A
+DTSTART:20250126T121500Z
+SUMMARY:Statystyka matematyczna (ćwiczenia)
+UID:b2ba99d5-9eba-4c43-94be-d36e614ea2cc@b2ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20250111T100000Z
+LOCATION:link do zajęć
+DTSTART:20250111T074500Z
+SUMMARY:Wzrost gospodarczy i konwergencja (wykład do wyboru)
+UID:07c5a9b8-d755-4841-bb30-744149ccabc5@07c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Grabińska
+DTEND:20241013T081500Z
+LOCATION:Paw.F 516
+DTSTART:20241013T060000Z
+SUMMARY:Podstawy finansów (ćwiczenia)
+UID:a95b0a20-fe7b-45d5-8e10-59885742da92@a95b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241116T114500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241116T093000Z
+SUMMARY:Teoria gier (ćwiczenia do wyboru)
+UID:ace6ebfd-362e-4fde-80da-a971054c738f@ace6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Łukasz Jabłoński
+DTEND:20241207T143000Z
+LOCATION:link do zajęć
+DTSTART:20241207T121500Z
+SUMMARY:Wzrost gospodarczy i konwergencja (wykład do wyboru)
+UID:874addd5-6b4d-4a0d-a602-b90bb565c61d@874a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Grabińska
+DTEND:20241214T100000Z
+LOCATION:link do zajęć
+DTSTART:20241214T074500Z
+SUMMARY:Podstawy finansów (wykład)
+UID:642165c2-1a25-4e62-8ed0-11f90619dae3@6421.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Salamaga
+DTEND:20241026T174500Z
+LOCATION:link do zajęć
+DTSTART:20241026T153000Z
+SUMMARY:Statystyka matematyczna (wykład)
+UID:06d4f7a9-4911-47c4-a668-6fae603f5d31@06d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Barburski
+DTEND:20241221T114500Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241221T093000Z
+SUMMARY:Ocena kondycji finansowej przedsiębiorstwa (ćwiczenia)
+UID:87be7031-a603-420a-9379-a5cd8bf03c92@87be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Barburski
+DTEND:20241012T133000Z
+LOCATION:Paw.U sala M
+DTSTART:20241012T111500Z
+SUMMARY:Ocena kondycji finansowej przedsiębiorstwa (ćwiczenia)
+UID:ef12cc33-46ed-4779-806d-61ff375c3d4c@ef12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241026T133000Z
+LOCATION:link do zajęć
+DTSTART:20241026T111500Z
+SUMMARY:Teoria gier (wykład do wyboru)
+UID:f7282830-22bb-4d1d-8e80-929686ab62ca@f728.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241006T090000Z
+LOCATION:link do zajęć
+DTSTART:20241006T064500Z
+SUMMARY:Teoria gier (wykład do wyboru)
+UID:0b3c96a9-91a4-4b43-a5a5-862d3db08a59@0b3c.org
+END:VEVENT
+END:VCALENDAR

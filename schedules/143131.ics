@@ -1,0 +1,618 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20241217T083000Z
+LOCATION:Paw.F 613
+DTSTART:20241217T070000Z
+SUMMARY:Elektromobilność w logistyce (konwersatorium)
+UID:3ff6ee2b-3e1b-4d09-8305-36ec98b189c3@3ff6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20241213T101500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241213T084500Z
+SUMMARY:Metody Optymalizacji w logistyce (laboratorium)
+UID:813156e2-6631-4b6a-abba-25a3bfe4c018@8131.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20250107T083000Z
+LOCATION:Paw.F 613
+DTSTART:20250107T070000Z
+SUMMARY:Elektromobilność w logistyce (konwersatorium)
+UID:66ca59b7-07e4-49ee-b300-ecbc44b74f6d@66ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20241112T083000Z
+LOCATION:Paw.F 613
+DTSTART:20241112T070000Z
+SUMMARY:Elektromobilność w logistyce (konwersatorium)
+UID:8b357938-70d4-4171-ab3b-bccc97f0e507@8b35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20241210T083000Z
+LOCATION:Paw.F 613
+DTSTART:20241210T070000Z
+SUMMARY:Elektromobilność w logistyce (konwersatorium)
+UID:8b37d5bb-7e66-4540-a8cd-6aedf4c1db11@8b37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20241008T110000Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20241008T093000Z
+SUMMARY:Ekologistyka (wykład do wyboru)
+UID:69e0f374-1791-4c8d-b117-a7affb074954@69e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20241203T120000Z
+LOCATION:L Paw.A 401
+DTSTART:20241203T103000Z
+SUMMARY:Ekologistyka (wykład do wyboru)
+UID:5cbab861-3dab-4ca7-a43b-516c2b783223@5cba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Katarzyna Sułek
+DTEND:20241220T083000Z
+LOCATION:Paw.U sala K
+DTSTART:20241220T070000Z
+SUMMARY:Metody i techniki rozwiązywania problemów logistycznych (konwersatorium)
+UID:f7b60776-bb54-4af8-9da4-439f73965c6f@f7b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20241129T101500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241129T084500Z
+SUMMARY:Metody Optymalizacji w logistyce (laboratorium)
+UID:0644da11-d4fb-4004-9fbe-0a840908552d@0644.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20241029T083000Z
+LOCATION:Paw.F 613
+DTSTART:20241029T070000Z
+SUMMARY:Elektromobilność w logistyce (konwersatorium)
+UID:ae7fe459-c257-4cb4-b3b0-d70c5d9ce1ff@ae7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20250121T083000Z
+LOCATION:Paw.F 613
+DTSTART:20250121T070000Z
+SUMMARY:Elektromobilność w logistyce (konwersatorium)
+UID:b6fb413a-8c5b-43c0-9089-c744c3e7c861@b6fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20241004T091500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241004T074500Z
+SUMMARY:Metody Optymalizacji w logistyce (laboratorium)
+UID:8964af87-4001-4ea7-b139-9d6642a2d078@8964.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20241115T101500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241115T084500Z
+SUMMARY:Metody Optymalizacji w logistyce (laboratorium)
+UID:c700c71f-dca8-4116-8fa7-021efd1d3456@c700.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20250117T101500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20250117T084500Z
+SUMMARY:Metody Optymalizacji w logistyce (laboratorium)
+UID:08340d3f-66cf-48bf-afca-4cffc2999343@0834.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20241011T091500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241011T074500Z
+SUMMARY:Metody Optymalizacji w logistyce (laboratorium)
+UID:a94b075c-1c57-4b64-b725-d9998c9e6f76@a94b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20241210T101500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241210T084500Z
+SUMMARY:Techniki twórczego myślenia (konwersatorium)
+UID:7fbcd936-f311-4f2c-bebd-02c4da7214b7@7fbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20241018T091500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241018T074500Z
+SUMMARY:Metody Optymalizacji w logistyce (laboratorium)
+UID:dbe86666-9f85-468e-a8ab-ca1edc248da3@dbe8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Katarzyna Sułek
+DTEND:20241025T073000Z
+LOCATION:Paw.U sala K
+DTSTART:20241025T060000Z
+SUMMARY:Metody i techniki rozwiązywania problemów logistycznych (konwersatorium)
+UID:2db4d879-4db0-4e5f-9af7-4bbb11317f90@2db4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241029T120000Z
+LOCATION:L Paw.A 401
+DTSTART:20241029T103000Z
+SUMMARY:Bezpieczeństwo w logistyce (wykład do wyboru)
+UID:493994ba-aac9-45a3-b6b5-d2e664e734ef@4939.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20241015T091500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241015T074500Z
+SUMMARY:Techniki twórczego myślenia (konwersatorium)
+UID:6d24582b-4d3f-4c51-99fb-cdbbb0befdff@6d24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20241217T101500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241217T084500Z
+SUMMARY:Techniki twórczego myślenia (konwersatorium)
+UID:d97a77c5-ad9e-4e46-8239-80190d3250bf@d97a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Katarzyna Sułek
+DTEND:20241011T073000Z
+LOCATION:Paw.U sala K
+DTSTART:20241011T060000Z
+SUMMARY:Metody i techniki rozwiązywania problemów logistycznych (konwersatorium)
+UID:792aaf92-40bf-47fe-b817-fe6f14a46e67@792a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20241126T101500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241126T084500Z
+SUMMARY:Techniki twórczego myślenia (konwersatorium)
+UID:d5fe42a5-1ac2-4b1d-840e-64c1d165d5d0@d5fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20241112T101500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241112T084500Z
+SUMMARY:Techniki twórczego myślenia (konwersatorium)
+UID:b8db066e-f68e-4aa2-b7e2-6416b919109d@b8db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20241022T073000Z
+LOCATION:Paw.F 613
+DTSTART:20241022T060000Z
+SUMMARY:Elektromobilność w logistyce (konwersatorium)
+UID:d89098c5-98c2-4442-a9a0-6bbf334f45b6@d890.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20241011T124500Z
+LOCATION:Bibl.425
+DTSTART:20241011T111500Z
+SUMMARY:Techniki twórczego myślenia (konwersatorium)
+UID:b0c1b246-6d4c-40a2-a5e4-21f23c234f17@b0c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20250121T120000Z
+LOCATION:L Paw.A 401
+DTSTART:20250121T111500Z
+SUMMARY:Bezpieczeństwo w logistyce (wykład do wyboru)
+UID:6ed8e147-d851-465c-901a-d6a4887a2b0b@6ed8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Katarzyna Sułek
+DTEND:20241129T083000Z
+LOCATION:Paw.U sala K
+DTSTART:20241129T070000Z
+SUMMARY:Metody i techniki rozwiązywania problemów logistycznych (konwersatorium)
+UID:d39d2dd5-2c93-4d2e-b226-3d0a97bcaa8a@d39d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20250114T101500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20250114T084500Z
+SUMMARY:Techniki twórczego myślenia (konwersatorium)
+UID:3fc5ef60-f443-4b5d-8fa6-2b58f70818b1@3fc5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20241204T153000Z
+LOCATION:Paw.F CJ 310
+DTSTART:20241204T140000Z
+SUMMARY:Metody Optymalizacji w logistyce (laboratorium)
+UID:f4d0e10c-b0c6-4c12-8d91-a5cb106fbaf9@f4d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Katarzyna Sułek
+DTEND:20250117T083000Z
+LOCATION:Paw.U sala K
+DTSTART:20250117T070000Z
+SUMMARY:Metody i techniki rozwiązywania problemów logistycznych (konwersatorium)
+UID:9a4dd976-9c6a-4bd2-a963-d946510dc85c@9a4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241015T110000Z
+LOCATION:L Paw.A 401
+DTSTART:20241015T093000Z
+SUMMARY:Bezpieczeństwo w logistyce (wykład do wyboru)
+UID:752d1e2d-8d79-4e05-97ea-89c671bb6966@752d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20241001T073000Z
+LOCATION:Paw.F 613
+DTSTART:20241001T060000Z
+SUMMARY:Elektromobilność w logistyce (konwersatorium)
+UID:2a289778-9656-486f-b8ee-c87d754a1b25@2a28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20241105T101500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241105T084500Z
+SUMMARY:Techniki twórczego myślenia (konwersatorium)
+UID:febea7b1-3cd5-4ed1-9678-39abb4bf4049@febe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20241217T120000Z
+LOCATION:L Paw.A 401
+DTSTART:20241217T103000Z
+SUMMARY:Ekologistyka (wykład do wyboru)
+UID:b249dd49-f979-486c-8bb5-ac8ece90efcd@b249.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Katarzyna Sułek
+DTEND:20241004T073000Z
+LOCATION:Paw.U sala K
+DTSTART:20241004T060000Z
+SUMMARY:Metody i techniki rozwiązywania problemów logistycznych (konwersatorium)
+UID:54999a04-7095-4bc1-bbbf-719a0546bf73@5499.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Katarzyna Sułek
+DTEND:20241018T073000Z
+LOCATION:Paw.U sala K
+DTSTART:20241018T060000Z
+SUMMARY:Metody i techniki rozwiązywania problemów logistycznych (konwersatorium)
+UID:3b77ef77-ce6f-4c8d-aaa4-1754fec5f46f@3b77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20241108T101500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241108T084500Z
+SUMMARY:Metody Optymalizacji w logistyce (laboratorium)
+UID:420c5537-bb33-4453-9699-75ec511650f1@420c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:9295784a-ec6c-4a14-b401-1728aca2df1e@9295.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241001T110000Z
+LOCATION:L Paw.A 401
+DTSTART:20241001T093000Z
+SUMMARY:Bezpieczeństwo w logistyce (wykład do wyboru)
+UID:9656da48-c679-43f9-88b1-346d2476fa18@9656.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20241220T101500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241220T084500Z
+SUMMARY:Metody Optymalizacji w logistyce (laboratorium)
+UID:976f1757-6832-4d62-8293-6a3dd1a21ce0@976f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20250124T101500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20250124T084500Z
+SUMMARY:Metody Optymalizacji w logistyce (laboratorium)
+UID:ac0d645e-a774-4030-924c-38f7ee8cd79c@ac0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20241029T101500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241029T084500Z
+SUMMARY:Techniki twórczego myślenia (konwersatorium)
+UID:db1c7c5e-188f-41d7-a3be-7c5ca4b636a3@db1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Katarzyna Sułek
+DTEND:20241204T171500Z
+LOCATION:Paw.U sala K
+DTSTART:20241204T154500Z
+SUMMARY:Metody i techniki rozwiązywania problemów logistycznych (konwersatorium)
+UID:e1fd575d-c518-4333-a500-fa6783dba6c1@e1fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20250107T101500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20250107T084500Z
+SUMMARY:Techniki twórczego myślenia (konwersatorium)
+UID:d5a136ac-124e-4b1f-a5eb-ead6914b89da@d5a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Katarzyna Sułek
+DTEND:20241115T083000Z
+LOCATION:Paw.U sala K
+DTSTART:20241115T070000Z
+SUMMARY:Metody i techniki rozwiązywania problemów logistycznych (konwersatorium)
+UID:4743524f-5a3b-4a37-b14f-3e6a47e6b064@4743.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20241126T083000Z
+LOCATION:Paw.F 613
+DTSTART:20241126T070000Z
+SUMMARY:Elektromobilność w logistyce (konwersatorium)
+UID:3cd5f67f-b53b-4bbc-9695-e7faa58eb1de@3cd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20241105T120000Z
+LOCATION:L Paw.A 401
+DTSTART:20241105T103000Z
+SUMMARY:Ekologistyka (wykład do wyboru)
+UID:31f70fda-8c46-45d9-b1e0-c2abe4f83bd9@31f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241210T120000Z
+LOCATION:L Paw.A 401
+DTSTART:20241210T103000Z
+SUMMARY:Bezpieczeństwo w logistyce (wykład do wyboru)
+UID:b08e00f4-f620-4082-8117-7dfcca31ab77@b08e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241112T120000Z
+LOCATION:L Paw.A 401
+DTSTART:20241112T103000Z
+SUMMARY:Bezpieczeństwo w logistyce (wykład do wyboru)
+UID:55fdec93-ebbe-499a-898f-c926b8e94263@55fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20241022T091500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241022T074500Z
+SUMMARY:Techniki twórczego myślenia (konwersatorium)
+UID:8c561514-6c06-411a-8f60-2d246739b687@8c56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20241206T101500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241206T084500Z
+SUMMARY:Metody Optymalizacji w logistyce (laboratorium)
+UID:779b884a-b8d6-4b11-abe4-3d4d1caefd2f@779b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20241119T101500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241119T084500Z
+SUMMARY:Techniki twórczego myślenia (konwersatorium)
+UID:a5500d54-3a34-4012-ae5e-d5e1e448b98c@a550.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20241015T073000Z
+LOCATION:Paw.F 613
+DTSTART:20241015T060000Z
+SUMMARY:Elektromobilność w logistyce (konwersatorium)
+UID:0ef70744-0b4b-44d0-90f1-05f8a8e0331e@0ef7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20241021T133000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241021T111500Z
+SUMMARY:Ekologistyka (wykład do wyboru)
+UID:97d248fb-10d8-4c56-ad20-99bbca4e51f0@97d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20241008T073000Z
+LOCATION:Paw.F 613
+DTSTART:20241008T060000Z
+SUMMARY:Elektromobilność w logistyce (konwersatorium)
+UID:5d92956a-c8f1-4bc2-9979-da0606787129@5d92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20241119T120000Z
+LOCATION:L Paw.A 401
+DTSTART:20241119T103000Z
+SUMMARY:Ekologistyka (wykład do wyboru)
+UID:e5fe03fe-febf-4129-9763-db72700408a6@e5fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Katarzyna Sułek
+DTEND:20241206T083000Z
+LOCATION:Paw.U sala K
+DTSTART:20241206T070000Z
+SUMMARY:Metody i techniki rozwiązywania problemów logistycznych (konwersatorium)
+UID:8af01656-f7b1-4391-bf39-f86010b35f79@8af0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20241203T101500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241203T084500Z
+SUMMARY:Techniki twórczego myślenia (konwersatorium)
+UID:b7fb23af-94a6-4000-97f4-4ef5392c507a@b7fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20241119T083000Z
+LOCATION:Paw.F 613
+DTSTART:20241119T070000Z
+SUMMARY:Elektromobilność w logistyce (konwersatorium)
+UID:8ea888bd-3086-44f0-b8e2-2c9cb6a5f2bb@8ea8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Katarzyna Sułek
+DTEND:20241213T083000Z
+LOCATION:Paw.U sala K
+DTSTART:20241213T070000Z
+SUMMARY:Metody i techniki rozwiązywania problemów logistycznych (konwersatorium)
+UID:a7648f86-770e-4fb1-9e27-7dad50e1a7ed@a764.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20241008T091500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241008T074500Z
+SUMMARY:Techniki twórczego myślenia (konwersatorium)
+UID:c9ffd1ac-faaf-4d9a-a13b-467130f24441@c9ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Katarzyna Sułek
+DTEND:20241108T083000Z
+LOCATION:Paw.U sala K
+DTSTART:20241108T070000Z
+SUMMARY:Metody i techniki rozwiązywania problemów logistycznych (konwersatorium)
+UID:db93a158-e873-4b12-949a-17a9be15d3a1@db93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241126T120000Z
+LOCATION:L Paw.A 401
+DTSTART:20241126T103000Z
+SUMMARY:Bezpieczeństwo w logistyce (wykład do wyboru)
+UID:7c9fe035-70f0-4751-97e1-5a26055acaa3@7c9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20250107T120000Z
+LOCATION:L Paw.A 401
+DTSTART:20250107T103000Z
+SUMMARY:Bezpieczeństwo w logistyce (wykład do wyboru)
+UID:9a7dda69-88de-48a3-82d0-88c3b8a3426e@9a7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Katarzyna Sułek
+DTEND:20250110T083000Z
+LOCATION:Paw.U sala K
+DTSTART:20250110T070000Z
+SUMMARY:Metody i techniki rozwiązywania problemów logistycznych (konwersatorium)
+UID:d91f3680-6d5f-4971-a7ee-6ebd7f2a66e8@d91f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20241025T091500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241025T074500Z
+SUMMARY:Metody Optymalizacji w logistyce (laboratorium)
+UID:cf05c173-feff-4daa-910b-80a6678f4f0a@cf05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:d3c23aba-fb0b-4f8a-830c-e102043307c9@d3c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20250121T101500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20250121T084500Z
+SUMMARY:Techniki twórczego myślenia (konwersatorium)
+UID:fb8d6562-0857-4ff2-adf6-11928c23cff6@fb8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20241105T083000Z
+LOCATION:Paw.F 613
+DTSTART:20241105T070000Z
+SUMMARY:Elektromobilność w logistyce (konwersatorium)
+UID:cd40d45b-713d-4ae8-ba7a-d02a85967666@cd40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20241203T083000Z
+LOCATION:Paw.F 613
+DTSTART:20241203T070000Z
+SUMMARY:Elektromobilność w logistyce (konwersatorium)
+UID:a51097cf-4c7e-4954-a275-a5cee078feef@a510.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Katarzyna Sułek
+DTEND:20241122T083000Z
+LOCATION:Paw.U sala K
+DTSTART:20241122T070000Z
+SUMMARY:Metody i techniki rozwiązywania problemów logistycznych (konwersatorium)
+UID:f665e6bb-cd36-4b0d-a390-b09703d21936@f665.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20250110T101500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20250110T084500Z
+SUMMARY:Metody Optymalizacji w logistyce (laboratorium)
+UID:1fd10842-0037-4ce9-8131-52cb0fb7a8fa@1fd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20250114T120000Z
+LOCATION:L Paw.A 401
+DTSTART:20250114T103000Z
+SUMMARY:Ekologistyka (wykład do wyboru)
+UID:c23a6200-e2de-4a06-8dca-4be6f7988f7d@c23a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20241122T101500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241122T084500Z
+SUMMARY:Metody Optymalizacji w logistyce (laboratorium)
+UID:6f31eee5-0037-4976-99eb-0a9ed37f257c@6f31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Katarzyna Sułek
+DTEND:20250124T083000Z
+LOCATION:Paw.U sala K
+DTSTART:20250124T070000Z
+SUMMARY:Metody i techniki rozwiązywania problemów logistycznych (konwersatorium)
+UID:68bff73f-e439-4f6f-851e-68a21c1ae83c@68bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20250114T083000Z
+LOCATION:Paw.F 613
+DTSTART:20250114T070000Z
+SUMMARY:Elektromobilność w logistyce (konwersatorium)
+UID:de91531f-4edc-4bb5-b32b-3f74da8a9459@de91.org
+END:VEVENT
+END:VCALENDAR

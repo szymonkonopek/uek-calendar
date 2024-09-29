@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartosz Wilk
+DTEND:20241108T183000Z
+LOCATION:Zajęcia Online
+DTSTART:20241108T144500Z
+SUMMARY:Prawne uwarunkowania działalności przedsiębiorstw publicznych (Studia podyplomowe)
+UID:3fb233c7-58bc-4a2e-b311-64c7857db8e1@3fb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Gnela
+DTEND:20241109T134500Z
+DTSTART:20241109T074500Z
+SUMMARY:Prawo gospodarcze UE (Studia podyplomowe)
+UID:04f40943-1916-4ace-b2e6-3dde755657d3@04f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Witold Wilk
+DTEND:20250112T143000Z
+DTSTART:20250112T074500Z
+SUMMARY:Technologiczne podstawy zarządzania (Studia podyplomowe)
+UID:0e915b3d-9ce0-4143-8cab-b8d63a151825@0e91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20250307T174500Z
+LOCATION:Zajęcia Online
+DTSTART:20250307T140000Z
+SUMMARY:Zasady ładu korporacyjnego (Studia podyplomowe)
+UID:9afe4d3d-a0d4-4c50-9734-3e16df3b7687@9afe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20250322T134500Z
+DTSTART:20250322T074500Z
+SUMMARY:Ekonomiczne podstawy pracy menedżera (Studia podyplomowe)
+UID:56253f34-5673-4bf2-83e1-53305524c371@5625.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20250321T174500Z
+LOCATION:Zajęcia Online
+DTSTART:20250321T144500Z
+SUMMARY:Ekonomiczne podstawy pracy menedżera (Studia podyplomowe)
+UID:25763729-62b8-4ca8-9711-35808be3cf5e@2576.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: Prof. UJ dr hab. Jarosław Flis
+DTEND:20241019T133000Z
+DTSTART:20241019T064500Z
+SUMMARY:Komunikacja społeczna (Studia podyplomowe)
+UID:aceca50b-16cd-4ab6-a35a-6bda978274e2@acec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Witold Wilk
+DTEND:20250111T143000Z
+DTSTART:20250111T074500Z
+SUMMARY:Technologiczne podstawy zarządzania (Studia podyplomowe)
+UID:2122e83e-9c5d-435a-8527-967057201b9b@2122.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Gnela
+DTEND:20241005T133000Z
+DTSTART:20241005T064500Z
+SUMMARY:Organizacja procesu zamówień publicznych (Studia podyplomowe)
+UID:66b0bbb9-eed0-44dd-8950-18784e3838b7@66b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kacper Siwek
+DTEND:20241123T143000Z
+DTSTART:20241123T074500Z
+SUMMARY:Inżynieria finansowa (Studia podyplomowe)
+UID:04c0eec4-88b2-42bf-a696-e10e3e27d69d@04c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250308T143000Z
+DTSTART:20250308T074500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstw (Studia podyplomowe)
+UID:b35bf5f3-d060-4bb4-817f-b4aa89239bea@b35b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250309T143000Z
+DTSTART:20250309T074500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstw (Studia podyplomowe)
+UID:47864d2d-9cf3-4781-a940-f10a0953b15f@4786.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20241110T143000Z
+DTSTART:20241110T074500Z
+SUMMARY:Ekonomiczne podstawy pracy menedżera (Studia podyplomowe)
+UID:efc90e3d-00ac-4366-8d02-1869217ab6a1@efc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20250221T174500Z
+LOCATION:Zajęcia Online
+DTSTART:20250221T144500Z
+SUMMARY:Rachunkowość zarządcza i rewizja finansowa w instytucjach publicznych (Studia podyplomowe)
+UID:28a2a868-0bdd-4712-8658-e61634695274@28a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241208T143000Z
+DTSTART:20241208T074500Z
+SUMMARY:Marketing w ujęciu relacyjnym (Studia podyplomowe)
+UID:4e64b080-2ec6-46af-b52f-d1786dcf2151@4e64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20250323T121500Z
+DTSTART:20250323T074500Z
+SUMMARY:Ekonomiczne podstawy pracy menedżera (Studia podyplomowe)
+UID:04d6acbb-2800-47aa-a2ae-56cc113b3541@04d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartosz Wilk
+DTEND:20250110T174500Z
+LOCATION:Zajęcia Online
+DTSTART:20250110T144500Z
+SUMMARY:Prawne uwarunkowania działalności przedsiębiorstw publicznych (Studia podyplomowe)
+UID:a8460a92-65d8-4932-9336-19898be62256@a846.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kacper Siwek
+DTEND:20241124T143000Z
+DTSTART:20241124T074500Z
+SUMMARY:Inżynieria finansowa (Studia podyplomowe)
+UID:b525672b-06eb-49bc-a3a3-70825d29521c@b525.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartosz Wilk
+DTEND:20241206T174500Z
+LOCATION:Zajęcia Online
+DTSTART:20241206T144500Z
+SUMMARY:Prawne uwarunkowania działalności przedsiębiorstw publicznych (Studia podyplomowe)
+UID:90bf47bb-c059-4c6b-b7b2-c3dca0d6b9f2@90bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241006T133000Z
+LOCATION:Zajęcia Online
+DTSTART:20241006T064500Z
+SUMMARY:Marketing w ujęciu relacyjnym (Studia podyplomowe)
+UID:03a15094-40a1-44c7-ac02-1134d0826210@03a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartosz Wilk
+DTEND:20241122T183000Z
+LOCATION:Zajęcia Online
+DTSTART:20241122T144500Z
+SUMMARY:Prawne uwarunkowania działalności przedsiębiorstw publicznych (Studia podyplomowe)
+UID:d179aa5b-edf9-48fc-8765-c8725bbed212@d179.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20250222T134500Z
+DTSTART:20250222T074500Z
+SUMMARY:Rachunkowość zarządcza i rewizja finansowa w instytucjach publicznych (Studia podyplomowe)
+UID:3978410f-0e54-4a34-90d3-c2573aad46cf@3978.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: Prof. UJ dr hab. Jarosław Flis
+DTEND:20241207T143000Z
+DTSTART:20241207T074500Z
+SUMMARY:Komunikacja społeczna (Studia podyplomowe)
+UID:d57f931a-7374-4af4-b04a-2c1b13cc025d@d57f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20241020T151500Z
+DTSTART:20241020T083000Z
+SUMMARY:Ekonomiczne podstawy pracy menedżera (Studia podyplomowe)
+UID:37fb8340-089d-46cb-9274-5921f1a39495@37fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Hubert Guz
+DTEND:20241004T181500Z
+LOCATION:Zajęcia Online
+DTSTART:20241004T134500Z
+SUMMARY:Integracja europejska. Prawo gospodarcze Unii Europejskiej. (Studia podyplomowe)
+UID:06c7688f-0a44-4f71-8cd2-e1d509c69d64@06c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20250223T121500Z
+DTSTART:20250223T074500Z
+SUMMARY:Rachunkowość zarządcza i rewizja finansowa w instytucjach publicznych (Studia podyplomowe)
+UID:8cf78974-735e-48b2-9000-2ec4e5e23456@8cf7.org
+END:VEVENT
+END:VCALENDAR

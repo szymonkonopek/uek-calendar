@@ -1,0 +1,1098 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Gracjana Noga
+DTEND:20241120T171500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241120T154500Z
+SUMMARY:Analizy i gry strategiczne (wykład do wyboru)
+UID:f9365845-902b-45bc-a346-4d3876839ecc@f936.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20241121T171500Z
+LOCATION:Paw.C sala D
+DTSTART:20241121T154500Z
+SUMMARY:Innowacyjne trendy w marketingu (wykład do wyboru)
+UID:acf6e535-98b3-41f2-89e4-fe733c992a4b@acf6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20241023T143000Z
+LOCATION:Paw.C sala D
+DTSTART:20241023T130000Z
+SUMMARY:Innowacyjne trendy w marketingu (wykład do wyboru)
+UID:0203f624-83a1-4e3e-b675-6f91c8952101@0203.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Moras - Olaś
+DTEND:20241210T134500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241210T121500Z
+SUMMARY:Partycypacja pracownicza (wykład)
+UID:62a49f12-bb3c-41b3-a627-51b9183bda1f@62a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Moras - Olaś
+DTEND:20241029T134500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241029T121500Z
+SUMMARY:Partycypacja pracownicza (wykład)
+UID:65ff7a3d-c8d0-42b3-8804-f412a55454c8@65ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Machaczka
+DTEND:20250124T130000Z
+LOCATION:Paw.F 614
+DTSTART:20250124T121500Z
+SUMMARY:Kultura organizacji (ćwiczenia)
+UID:f2ee2eb6-b287-4e42-8216-647fcdc80c86@f2ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20241024T110000Z
+LOCATION:Paw.C sala F
+DTSTART:20241024T093000Z
+SUMMARY:Gamification in HRM (wykład do wyboru)
+UID:89985f77-044f-438f-9dce-1979f0f1e93b@8998.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20250116T134500Z
+LOCATION:Paw.C sala E
+DTSTART:20250116T121500Z
+SUMMARY:Ergonomia w pracy menedżera (wykład do wyboru)
+UID:15388745-8030-4b76-bda6-99285380e224@1538.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20241017T110000Z
+LOCATION:Paw.C sala F
+DTSTART:20241017T093000Z
+SUMMARY:Gamification in HRM (wykład do wyboru)
+UID:eed47432-9a0f-4e75-a4ac-d2cac1089c3a@eed4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20250116T120000Z
+LOCATION:Paw.C sala F
+DTSTART:20250116T103000Z
+SUMMARY:Gamification in HRM (wykład do wyboru)
+UID:6981edc7-4e3d-472b-8fb8-8f3f879d5232@6981.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Gracjana Noga
+DTEND:20250122T171500Z
+LOCATION:Paw.S sala 7
+DTSTART:20250122T154500Z
+SUMMARY:Analizy i gry strategiczne (wykład do wyboru)
+UID:8286ddd8-d4b3-47aa-a04c-0c5539e81f3b@8286.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20250124T083000Z
+LOCATION:Paw.E sala J
+DTSTART:20250124T070000Z
+SUMMARY:Wirtualizacja pracy na współczesnym rynku pracy (wykład do wyboru)
+UID:41db99f7-4332-4534-9e8f-3d1609124ba0@41db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241016T124500Z
+LOCATION:Paw.F 008
+DTSTART:20241016T111500Z
+SUMMARY:Wirtualizacja pracy na współczesnym rynku pracy (wykład do wyboru)
+UID:e438d0c0-05ff-43d7-8e13-e6c058ee6034@e438.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20241128T120000Z
+LOCATION:Paw.C sala F
+DTSTART:20241128T103000Z
+SUMMARY:Gamification in HRM (wykład do wyboru)
+UID:dfe494b8-38fb-465d-942d-976a4b40b10e@dfe4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20241010T174500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241010T144500Z
+SUMMARY:Ergonomia w pracy menedżera (wykład do wyboru)
+UID:40e51113-e437-46ac-b546-cdd2fa3bf40f@40e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20241212T120000Z
+LOCATION:Paw.C sala F
+DTSTART:20241212T103000Z
+SUMMARY:Gamification in HRM (wykład do wyboru)
+UID:fc07e922-524f-4a2d-b26a-b6493cb0d03f@fc07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Urszula Bukowska
+DTEND:20250110T120000Z
+LOCATION:Paw.A 301b
+DTSTART:20250110T103000Z
+SUMMARY:Kształtowanie środowiska pracy (konwersatorium)
+UID:4eb28ba0-13e3-401d-a1f8-610d459bbe0d@4eb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Moras - Olaś
+DTEND:20241112T134500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241112T121500Z
+SUMMARY:Partycypacja pracownicza (wykład)
+UID:351d6459-dbb2-4543-8cd6-6d89f5f985cc@351d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Gracjana Noga
+DTEND:20250108T171500Z
+LOCATION:Paw.S sala 7
+DTSTART:20250108T154500Z
+SUMMARY:Analizy i gry strategiczne (wykład do wyboru)
+UID:b62757b5-197d-4971-a02b-dc90a268bad7@b627.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
+DTEND:20241112T184500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20241112T154500Z
+SUMMARY:Doradztwo personalne (konwersatorium)
+UID:57269ccd-6339-42c6-a52f-45a722ed76e7@5726.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Gracjana Noga
+DTEND:20241009T170000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241009T144500Z
+SUMMARY:Analizy i gry strategiczne (wykład do wyboru)
+UID:a3d5e628-57e4-43d1-a113-8dce67457ba5@a3d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241213T083000Z
+LOCATION:Paw.E sala J
+DTSTART:20241213T070000Z
+SUMMARY:Wirtualizacja pracy na współczesnym rynku pracy (wykład do wyboru)
+UID:05aa2c7e-7b7d-4b0d-81ff-8508296604b9@05aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Zając
+DTEND:20250120T124500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250120T103000Z
+SUMMARY:Marketing personalny (ćwiczenia)
+UID:332c686e-2220-4495-a193-31e5a41a9324@332c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Machaczka
+DTEND:20241029T120000Z
+LOCATION:Paw.S sala 6
+DTSTART:20241029T103000Z
+SUMMARY:Kultura organizacji (wykład)
+UID:418e268e-458d-4831-bed6-cf4a96a3f4a6@418e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241206T083000Z
+LOCATION:Paw.E sala J
+DTSTART:20241206T070000Z
+SUMMARY:Wirtualizacja pracy na współczesnym rynku pracy (wykład do wyboru)
+UID:5dd893a6-c071-45dc-b83d-4eaf303e918d@5dd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:7edc4ea3-50a9-4523-b9ca-b92bb71b5380@7edc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Urszula Bukowska
+DTEND:20250124T120000Z
+LOCATION:Paw.A 301b
+DTSTART:20250124T103000Z
+SUMMARY:Kształtowanie środowiska pracy (konwersatorium)
+UID:8e88c8ba-db8d-4c58-9211-a36e1d1b7dff@8e88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Urszula Bukowska
+DTEND:20241129T120000Z
+LOCATION:Paw.A 301b
+DTSTART:20241129T103000Z
+SUMMARY:Kształtowanie środowiska pracy (konwersatorium)
+UID:abfba15d-d200-44e8-89d7-147bb228d4d7@abfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241108T083000Z
+LOCATION:Paw.E sala J
+DTSTART:20241108T070000Z
+SUMMARY:Wirtualizacja pracy na współczesnym rynku pracy (wykład do wyboru)
+UID:161a3e11-de58-4eaf-ac10-d98746372473@161a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
+DTEND:20241210T184500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20241210T154500Z
+SUMMARY:Doradztwo personalne (konwersatorium)
+UID:dd7d2c1b-c193-475b-befe-1e77f362fd9d@dd7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Zając
+DTEND:20241108T101500Z
+LOCATION:Paw.E sala J
+DTSTART:20241108T084500Z
+SUMMARY:Marketing personalny (ćwiczenia)
+UID:18844843-64c2-4a86-9254-c22358fca9bd@1884.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
+DTEND:20250107T180000Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20250107T154500Z
+SUMMARY:Doradztwo personalne (konwersatorium)
+UID:2f893edf-e53c-4715-b531-7dd323f00f32@2f89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20250123T120000Z
+LOCATION:Paw.C sala F
+DTSTART:20250123T103000Z
+SUMMARY:Gamification in HRM (wykład do wyboru)
+UID:caea45ac-4c3c-4c74-a767-8dc7e6381f0d@caea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Moras - Olaś
+DTEND:20241015T124500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241015T111500Z
+SUMMARY:Partycypacja pracownicza (wykład)
+UID:511ed8fe-7de1-4746-ae49-897a5459ea36@511e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Moras - Olaś
+DTEND:20241126T153000Z
+LOCATION:Bud.gł. 3
+DTSTART:20241126T140000Z
+SUMMARY:Partycypacja pracownicza (ćwiczenia)
+UID:27014654-1997-420e-8353-4c0405e06f3e@2701.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Moras - Olaś
+DTEND:20241112T153000Z
+LOCATION:Bud.gł. 3
+DTSTART:20241112T140000Z
+SUMMARY:Partycypacja pracownicza (ćwiczenia)
+UID:a0810c08-66a4-4208-8e7b-14bc14b63151@a081.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Gracjana Noga
+DTEND:20241106T171500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241106T154500Z
+SUMMARY:Analizy i gry strategiczne (wykład do wyboru)
+UID:1b1f0627-b046-418e-9d67-49b52ae6e3d9@1b1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241011T073000Z
+LOCATION:Paw.E sala J
+DTSTART:20241011T060000Z
+SUMMARY:Wirtualizacja pracy na współczesnym rynku pracy (wykład do wyboru)
+UID:ad27de91-5269-467c-bd6b-814c8b2b0f13@ad27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Machaczka
+DTEND:20241210T120000Z
+LOCATION:Paw.S sala 6
+DTSTART:20241210T103000Z
+SUMMARY:Kultura organizacji (wykład)
+UID:cdab2159-5bf1-4755-b3b5-98aee9341525@cdab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Moras - Olaś
+DTEND:20241004T124500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241004T111500Z
+SUMMARY:Partycypacja pracownicza (ćwiczenia)
+UID:52046d22-4a23-4c5f-b48f-fb3889447a50@5204.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Gracjana Noga
+DTEND:20241211T171500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241211T154500Z
+SUMMARY:Analizy i gry strategiczne (wykład do wyboru)
+UID:c07d7be6-b344-4934-8142-373d5d6f3948@c07d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20241009T143000Z
+LOCATION:Paw.C sala D
+DTSTART:20241009T130000Z
+SUMMARY:Innowacyjne trendy w marketingu (wykład do wyboru)
+UID:e9c1a065-4ba6-44ef-a5bc-66ee565a3688@e9c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Machaczka
+DTEND:20250107T120000Z
+LOCATION:Paw.S sala 6
+DTSTART:20250107T103000Z
+SUMMARY:Kultura organizacji (wykład)
+UID:7ba9f948-3e87-424b-bbec-9c7ae8bab04f@7ba9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Urszula Bukowska
+DTEND:20241004T110000Z
+LOCATION:Paw.A 301b
+DTSTART:20241004T093000Z
+SUMMARY:Kształtowanie środowiska pracy (konwersatorium)
+UID:b2170c68-ca43-4385-bf8c-fd5c8b49ba13@b217.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Machaczka
+DTEND:20241008T091500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20241008T074500Z
+SUMMARY:Kultura organizacji (ćwiczenia)
+UID:7f0886c5-6162-4c0e-b3c5-1bad84d65833@7f08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20241205T120000Z
+LOCATION:Paw.C sala F
+DTSTART:20241205T103000Z
+SUMMARY:Gamification in HRM (wykład do wyboru)
+UID:1fa1fac7-d1cb-4ab6-9a7d-ebca47b37b96@1fa1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Gracjana Noga
+DTEND:20241218T171500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241218T154500Z
+SUMMARY:Analizy i gry strategiczne (wykład do wyboru)
+UID:625a5c2f-d534-42ac-8cae-407ab34d8cf9@625a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Urszula Bukowska
+DTEND:20241018T110000Z
+LOCATION:Paw.A 301b
+DTSTART:20241018T093000Z
+SUMMARY:Kształtowanie środowiska pracy (konwersatorium)
+UID:e1d36420-12c4-4384-88f8-d97c7bfb7a3f@e1d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
+DTEND:20241015T174500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20241015T144500Z
+SUMMARY:Doradztwo personalne (konwersatorium)
+UID:25e46de7-9855-4be0-a144-0cb73d010762@25e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Machaczka
+DTEND:20241015T110000Z
+LOCATION:Paw.S sala 6
+DTSTART:20241015T093000Z
+SUMMARY:Kultura organizacji (wykład)
+UID:96984403-ac0d-494a-9bf5-aa7bb116b6de@9698.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Machaczka
+DTEND:20241126T120000Z
+LOCATION:Paw.S sala 6
+DTSTART:20241126T103000Z
+SUMMARY:Kultura organizacji (wykład)
+UID:0f93fa19-9718-414e-b2c4-17361a522fa5@0f93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Zając
+DTEND:20250124T101500Z
+LOCATION:Paw.E sala J
+DTSTART:20250124T084500Z
+SUMMARY:Marketing personalny (wykład)
+UID:5cdcbbed-54b7-4147-bf9d-120f07a39af0@5cdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20241003T110000Z
+LOCATION:Paw.C sala F
+DTSTART:20241003T093000Z
+SUMMARY:Gamification in HRM (wykład do wyboru)
+UID:1b9e0108-7b78-4c19-87bc-c3b6c0519d39@1b9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Gracjana Noga
+DTEND:20241204T171500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241204T154500Z
+SUMMARY:Analizy i gry strategiczne (wykład do wyboru)
+UID:309f7df6-9579-4ea9-ac44-b0e1877532ef@309f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241115T083000Z
+LOCATION:Paw.E sala J
+DTSTART:20241115T070000Z
+SUMMARY:Wirtualizacja pracy na współczesnym rynku pracy (wykład do wyboru)
+UID:c8168e76-7bb3-4343-b9b4-2426e6f0e10c@c816.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Zając
+DTEND:20250110T101500Z
+LOCATION:Paw.E sala J
+DTSTART:20250110T084500Z
+SUMMARY:Marketing personalny (wykład)
+UID:2d78c0ec-ee53-475a-bf01-1f0475d29fe1@2d78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
+DTEND:20250121T180000Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20250121T154500Z
+SUMMARY:Doradztwo personalne (konwersatorium)
+UID:63f2268e-b089-4d06-b538-ea854cb114f2@63f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Moras - Olaś
+DTEND:20250121T144500Z
+LOCATION:Bud.gł. 3
+DTSTART:20250121T140000Z
+SUMMARY:Partycypacja pracownicza (ćwiczenia)
+UID:92cbf2dc-96f9-4c44-aec0-ca87eef2a595@92cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Gracjana Noga
+DTEND:20250115T171500Z
+LOCATION:Paw.S sala 7
+DTSTART:20250115T154500Z
+SUMMARY:Analizy i gry strategiczne (wykład do wyboru)
+UID:3c24507a-12c5-491c-a8dd-050ca0603dc6@3c24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Moras - Olaś
+DTEND:20241210T153000Z
+LOCATION:Bud.gł. 3
+DTSTART:20241210T140000Z
+SUMMARY:Partycypacja pracownicza (ćwiczenia)
+UID:6156a658-b702-4ffb-953c-5557da7388e0@6156.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Gracjana Noga
+DTEND:20241023T161500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241023T144500Z
+SUMMARY:Analizy i gry strategiczne (wykład do wyboru)
+UID:fe0c1fbc-7a57-416c-a5bb-c16adae298f4@fe0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20250115T153000Z
+LOCATION:Paw.C sala D
+DTSTART:20250115T140000Z
+SUMMARY:Innowacyjne trendy w marketingu (wykład do wyboru)
+UID:089d2f07-5485-441a-97b5-0f4192bcf25b@089d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Zając
+DTEND:20241220T101500Z
+LOCATION:Paw.E sala J
+DTSTART:20241220T084500Z
+SUMMARY:Marketing personalny (ćwiczenia)
+UID:150e333f-c6b6-423d-a562-0fc81086e6c4@150e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20241009T124500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241009T111500Z
+SUMMARY:Gamification in HRM (wykład do wyboru)
+UID:ecf9c995-a27a-49f3-bbbd-46f22b816f72@ecf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20241114T134500Z
+LOCATION:Paw.C sala E
+DTSTART:20241114T121500Z
+SUMMARY:Ergonomia w pracy menedżera (wykład do wyboru)
+UID:b57c0517-9939-4fac-8bd7-2de9791b2b8f@b57c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20241218T153000Z
+LOCATION:Paw.C sala D
+DTSTART:20241218T140000Z
+SUMMARY:Innowacyjne trendy w marketingu (wykład do wyboru)
+UID:a779c0c8-d42f-4a0c-ba00-97f8cb47ade2@a779.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20241121T134500Z
+LOCATION:Paw.C sala E
+DTSTART:20241121T121500Z
+SUMMARY:Ergonomia w pracy menedżera (wykład do wyboru)
+UID:2c10360b-57da-4e46-8618-f64c771e4ce6@2c10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20241204T153000Z
+LOCATION:Paw.C sala D
+DTSTART:20241204T140000Z
+SUMMARY:Innowacyjne trendy w marketingu (wykład do wyboru)
+UID:fb703df3-e771-4f78-88bd-99d95fa97319@fb70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Zając
+DTEND:20241018T091500Z
+LOCATION:Paw.E sala J
+DTSTART:20241018T074500Z
+SUMMARY:Marketing personalny (wykład)
+UID:bcc455e7-3abf-445b-a840-188063988269@bcc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20241024T124500Z
+LOCATION:Paw.C sala E
+DTSTART:20241024T111500Z
+SUMMARY:Ergonomia w pracy menedżera (wykład do wyboru)
+UID:7c8fced1-9650-47dc-93aa-797c8e48091f@7c8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20241030T153000Z
+LOCATION:Paw.C sala D
+DTSTART:20241030T140000Z
+SUMMARY:Innowacyjne trendy w marketingu (wykład do wyboru)
+UID:a51616d8-21d7-4f60-8f90-c6626f22c87d@a516.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20241113T153000Z
+LOCATION:Paw.C sala D
+DTSTART:20241113T140000Z
+SUMMARY:Innowacyjne trendy w marketingu (wykład do wyboru)
+UID:0fba12c6-92f7-410e-889e-c371ff7e2efc@0fba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Moras - Olaś
+DTEND:20241015T143000Z
+LOCATION:Bud.gł. 3
+DTSTART:20241015T130000Z
+SUMMARY:Partycypacja pracownicza (ćwiczenia)
+UID:1aacfd77-c3e3-4af1-9a61-5ace45fa2f4a@1aac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
+DTEND:20241126T184500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20241126T154500Z
+SUMMARY:Doradztwo personalne (konwersatorium)
+UID:e7c68261-b618-4a16-bea4-1acf743b2173@e7c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241018T073000Z
+LOCATION:Paw.E sala J
+DTSTART:20241018T060000Z
+SUMMARY:Wirtualizacja pracy na współczesnym rynku pracy (wykład do wyboru)
+UID:f85113b6-a066-4395-9257-6019a767d324@f851.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20241106T153000Z
+LOCATION:Paw.C sala D
+DTSTART:20241106T140000Z
+SUMMARY:Innowacyjne trendy w marketingu (wykład do wyboru)
+UID:0b8b341c-710e-491c-aff5-380d034fc819@0b8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20250109T134500Z
+LOCATION:Paw.C sala E
+DTSTART:20250109T121500Z
+SUMMARY:Ergonomia w pracy menedżera (wykład do wyboru)
+UID:8f838112-b35f-43f4-97cc-57787436fa50@8f83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20241031T134500Z
+LOCATION:Paw.C sala E
+DTSTART:20241031T121500Z
+SUMMARY:Ergonomia w pracy menedżera (wykład do wyboru)
+UID:71dcb660-9f33-4f40-bd2e-335d9cdb9a4c@71dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20250123T134500Z
+LOCATION:Paw.C sala E
+DTSTART:20250123T121500Z
+SUMMARY:Ergonomia w pracy menedżera (wykład do wyboru)
+UID:c86e3d32-c000-425e-bc13-be82c4417355@c86e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Zając
+DTEND:20241115T101500Z
+LOCATION:Paw.E sala J
+DTSTART:20241115T084500Z
+SUMMARY:Marketing personalny (wykład)
+UID:fcb2c8e5-2cc6-48de-a6d0-1e21fc3d7df7@fcb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20250110T083000Z
+LOCATION:Paw.E sala J
+DTSTART:20250110T070000Z
+SUMMARY:Wirtualizacja pracy na współczesnym rynku pracy (wykład do wyboru)
+UID:34e60fe1-2fba-4d26-90c2-f41fe8d8433b@34e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241004T073000Z
+LOCATION:Paw.E sala J
+DTSTART:20241004T060000Z
+SUMMARY:Wirtualizacja pracy na współczesnym rynku pracy (wykład do wyboru)
+UID:1dfa0008-1ef5-4377-bccc-dda4a5d2ec79@1dfa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Machaczka
+DTEND:20241203T101500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20241203T084500Z
+SUMMARY:Kultura organizacji (ćwiczenia)
+UID:b5a126f4-85ba-4177-ae05-c2e9f28c6737@b5a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20241211T153000Z
+LOCATION:Paw.C sala D
+DTSTART:20241211T140000Z
+SUMMARY:Innowacyjne trendy w marketingu (wykład do wyboru)
+UID:83c1d5c0-354c-41fd-a4b2-0264d49ea3ce@83c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Moras - Olaś
+DTEND:20241004T091500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241004T074500Z
+SUMMARY:Partycypacja pracownicza (wykład)
+UID:1c6a2d52-cfc5-4f57-9857-fb8d195f105e@1c6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20241017T124500Z
+LOCATION:Paw.C sala E
+DTSTART:20241017T111500Z
+SUMMARY:Ergonomia w pracy menedżera (wykład do wyboru)
+UID:c2612560-ffe8-4ea6-b135-3a56900bf403@c261.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:921e5de5-dca1-4f96-859f-46d91e997dad@921e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Machaczka
+DTEND:20241119T101500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20241119T084500Z
+SUMMARY:Kultura organizacji (ćwiczenia)
+UID:92a76ea3-8310-4eb6-a089-3c2a8061cbf1@92a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20250122T153000Z
+LOCATION:Paw.C sala D
+DTSTART:20250122T140000Z
+SUMMARY:Innowacyjne trendy w marketingu (wykład do wyboru)
+UID:a26e22bb-b9dd-42f0-9c39-eb821b6c1891@a26e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241129T083000Z
+LOCATION:Paw.E sala J
+DTSTART:20241129T070000Z
+SUMMARY:Wirtualizacja pracy na współczesnym rynku pracy (wykład do wyboru)
+UID:2d03c497-47df-4a2a-aae9-a44a638dc7cc@2d03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Urszula Bukowska
+DTEND:20241011T101500Z
+LOCATION:Paw.G 10
+DTSTART:20241011T093000Z
+SUMMARY:Kształtowanie środowiska pracy (konwersatorium)
+UID:dc9a6c21-559c-4bdf-baa2-a612d7d8bd5c@dc9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20250117T083000Z
+LOCATION:Paw.E sala J
+DTSTART:20250117T070000Z
+SUMMARY:Wirtualizacja pracy na współczesnym rynku pracy (wykład do wyboru)
+UID:ebb8ba69-a2ca-4d46-b31c-a4d5b5c58059@ebb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Machaczka
+DTEND:20241217T101500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20241217T084500Z
+SUMMARY:Kultura organizacji (ćwiczenia)
+UID:f3eb061c-2b4e-4f9c-9d32-43a0eeb7394a@f3eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20241031T120000Z
+LOCATION:Paw.C sala F
+DTSTART:20241031T103000Z
+SUMMARY:Gamification in HRM (wykład do wyboru)
+UID:f15b8514-3eb0-4d2a-ab14-dc491d12b1c7@f15b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Machaczka
+DTEND:20241001T110000Z
+LOCATION:Paw.S sala 6
+DTSTART:20241001T093000Z
+SUMMARY:Kultura organizacji (wykład)
+UID:59879bb5-3e71-456d-9f32-d00c28abb178@5987.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Machaczka
+DTEND:20250114T101500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20250114T084500Z
+SUMMARY:Kultura organizacji (ćwiczenia)
+UID:71945830-05ce-43d4-914d-6ceabcb6d6a7@7194.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Zając
+DTEND:20250117T101500Z
+LOCATION:Paw.E sala J
+DTSTART:20250117T084500Z
+SUMMARY:Marketing personalny (ćwiczenia)
+UID:931b9059-df27-4897-9523-32ed6fb7f3b6@931b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Machaczka
+DTEND:20250121T120000Z
+LOCATION:Paw.S sala 6
+DTSTART:20250121T111500Z
+SUMMARY:Kultura organizacji (wykład)
+UID:b84e49fd-af6b-4592-ad51-71386c88708a@b84e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20241219T120000Z
+LOCATION:Paw.C sala F
+DTSTART:20241219T103000Z
+SUMMARY:Gamification in HRM (wykład do wyboru)
+UID:1cf862c7-f149-4b7a-b898-9b61398bbbe9@1cf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20241114T120000Z
+LOCATION:Paw.C sala F
+DTSTART:20241114T103000Z
+SUMMARY:Gamification in HRM (wykład do wyboru)
+UID:b6bb07d3-2ed2-4901-8eb9-8c1e1ee6cb60@b6bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Moras - Olaś
+DTEND:20250107T134500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20250107T121500Z
+SUMMARY:Partycypacja pracownicza (wykład)
+UID:da9a7378-5410-4bfe-b456-ab9c5d8698bc@da9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Urszula Bukowska
+DTEND:20241213T120000Z
+LOCATION:Paw.A 301b
+DTSTART:20241213T103000Z
+SUMMARY:Kształtowanie środowiska pracy (konwersatorium)
+UID:de09ab6e-be09-440a-94cd-80315e0d52ec@de09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
+DTEND:20241029T184500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20241029T154500Z
+SUMMARY:Doradztwo personalne (konwersatorium)
+UID:28b5d1c6-92a4-4e0b-8608-41f7c8d85ef2@28b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Gracjana Noga
+DTEND:20241016T170000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241016T144500Z
+SUMMARY:Analizy i gry strategiczne (wykład do wyboru)
+UID:55860658-4db5-4038-bf8f-3d7747623f31@5586.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Urszula Bukowska
+DTEND:20241115T120000Z
+LOCATION:Paw.A 301b
+DTSTART:20241115T103000Z
+SUMMARY:Kształtowanie środowiska pracy (konwersatorium)
+UID:0d746074-ee2b-490d-926a-343433e9bcb9@0d74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241025T073000Z
+LOCATION:Paw.E sala J
+DTSTART:20241025T060000Z
+SUMMARY:Wirtualizacja pracy na współczesnym rynku pracy (wykład do wyboru)
+UID:98c18101-b37e-4277-a22e-67a56e88a071@98c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20241107T134500Z
+LOCATION:Paw.C sala E
+DTSTART:20241107T121500Z
+SUMMARY:Ergonomia w pracy menedżera (wykład do wyboru)
+UID:9dd8c3d6-d044-4d47-8536-a1816313b7d6@9dd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Moras - Olaś
+DTEND:20241126T134500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241126T121500Z
+SUMMARY:Partycypacja pracownicza (wykład)
+UID:f8a4d23f-e174-4088-998f-76b696eb1f60@f8a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20241120T153000Z
+LOCATION:Paw.C sala D
+DTSTART:20241120T140000Z
+SUMMARY:Innowacyjne trendy w marketingu (wykład do wyboru)
+UID:b799a3ab-9cd8-45b7-9a11-1035d6d4103e@b799.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Moras - Olaś
+DTEND:20250107T153000Z
+LOCATION:Bud.gł. 3
+DTSTART:20250107T140000Z
+SUMMARY:Partycypacja pracownicza (ćwiczenia)
+UID:bdd3291b-acaf-4452-b0c6-28d6d31a8c7a@bdd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Machaczka
+DTEND:20241105T101500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20241105T084500Z
+SUMMARY:Kultura organizacji (ćwiczenia)
+UID:3505267c-8726-4555-805e-9f27325e5d18@3505.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Zając
+DTEND:20241031T171500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241031T154500Z
+SUMMARY:Marketing personalny (ćwiczenia)
+UID:42eb3421-58a4-4d2f-8b4f-08a163dcd1cc@42eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20241127T153000Z
+LOCATION:Paw.C sala D
+DTSTART:20241127T140000Z
+SUMMARY:Innowacyjne trendy w marketingu (wykład do wyboru)
+UID:3fc0db0b-8cd1-49f0-92ab-8f425419ae4e@3fc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20241212T134500Z
+LOCATION:Paw.C sala E
+DTSTART:20241212T121500Z
+SUMMARY:Ergonomia w pracy menedżera (wykład do wyboru)
+UID:53b11cec-4f97-4f09-87ed-81524209833a@53b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Zając
+DTEND:20241024T151500Z
+LOCATION:Paw.S sala 1
+DTSTART:20241024T130000Z
+SUMMARY:Marketing personalny (wykład)
+UID:30bc377b-585e-4016-afb0-99c82feea786@30bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20241121T120000Z
+LOCATION:Paw.C sala F
+DTSTART:20241121T103000Z
+SUMMARY:Gamification in HRM (wykład do wyboru)
+UID:062fb451-849f-45b0-a905-4f7f64a96cf8@062f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Machaczka
+DTEND:20241112T120000Z
+LOCATION:Paw.S sala 6
+DTSTART:20241112T103000Z
+SUMMARY:Kultura organizacji (wykład)
+UID:1025c2b8-3f36-4eed-ad34-09c91b5fe401@1025.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Machaczka
+DTEND:20241022T091500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20241022T074500Z
+SUMMARY:Kultura organizacji (ćwiczenia)
+UID:50ca1a5f-658d-41d2-8ec7-e030f6bd3288@50ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20250109T120000Z
+LOCATION:Paw.C sala F
+DTSTART:20250109T103000Z
+SUMMARY:Gamification in HRM (wykład do wyboru)
+UID:1dc6c839-36a7-4a3e-8128-4d28a82b488f@1dc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20241016T143000Z
+LOCATION:Paw.C sala D
+DTSTART:20241016T130000Z
+SUMMARY:Innowacyjne trendy w marketingu (wykład do wyboru)
+UID:e7c7bebc-fec4-411a-9750-73cee26e3581@e7c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20241128T134500Z
+LOCATION:Paw.C sala E
+DTSTART:20241128T121500Z
+SUMMARY:Ergonomia w pracy menedżera (wykład do wyboru)
+UID:54b44088-d40b-4614-9728-517386c4d4ee@54b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
+DTEND:20241001T174500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20241001T144500Z
+SUMMARY:Doradztwo personalne (konwersatorium)
+UID:deb156d8-8123-47d1-af81-2d5374386de6@deb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Gracjana Noga
+DTEND:20241113T171500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241113T154500Z
+SUMMARY:Analizy i gry strategiczne (wykład do wyboru)
+UID:a053c5e3-ca61-49b6-9f0d-01d215d2d8bd@a053.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20241107T120000Z
+LOCATION:Paw.C sala F
+DTSTART:20241107T103000Z
+SUMMARY:Gamification in HRM (wykład do wyboru)
+UID:583efbc0-722b-4f7e-93d4-7400e31e6aee@583e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20241003T124500Z
+LOCATION:Paw.C sala E
+DTSTART:20241003T111500Z
+SUMMARY:Ergonomia w pracy menedżera (wykład do wyboru)
+UID:e8d9244d-31b9-4599-8a0a-3a882e1bb157@e8d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Zając
+DTEND:20241213T101500Z
+LOCATION:Paw.E sala J
+DTSTART:20241213T084500Z
+SUMMARY:Marketing personalny (wykład)
+UID:59aca3a5-f34c-4a45-b4fd-d5844ad78a96@59ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241122T083000Z
+LOCATION:Paw.E sala J
+DTSTART:20241122T070000Z
+SUMMARY:Wirtualizacja pracy na współczesnym rynku pracy (wykład do wyboru)
+UID:2088c5af-0dae-4871-8251-a3f115e9aed3@2088.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Moras - Olaś
+DTEND:20250121T134500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20250121T130000Z
+SUMMARY:Partycypacja pracownicza (wykład)
+UID:7e985aaf-561f-4624-ba26-aa76a0674445@7e98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Zając
+DTEND:20241031T153000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241031T140000Z
+SUMMARY:Marketing personalny (wykład)
+UID:d6ef9933-e244-42d5-b188-50ad5d5af52b@d6ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241220T083000Z
+LOCATION:Paw.E sala J
+DTSTART:20241220T070000Z
+SUMMARY:Wirtualizacja pracy na współczesnym rynku pracy (wykład do wyboru)
+UID:0112d3d4-cf1f-46d1-92a9-b97388f77c23@0112.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Moras - Olaś
+DTEND:20241029T153000Z
+LOCATION:Bud.gł. 3
+DTSTART:20241029T140000Z
+SUMMARY:Partycypacja pracownicza (ćwiczenia)
+UID:361ea249-e863-420f-9c44-6ae3bbc553eb@361e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20241205T134500Z
+LOCATION:Paw.C sala E
+DTSTART:20241205T121500Z
+SUMMARY:Ergonomia w pracy menedżera (wykład do wyboru)
+UID:e514f59d-46d8-4935-bb71-a99707676c75@e514.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Zając
+DTEND:20241011T091500Z
+LOCATION:Paw.E sala J
+DTSTART:20241011T074500Z
+SUMMARY:Marketing personalny (ćwiczenia)
+UID:8231a231-9747-4e54-9364-4f341217869d@8231.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Gracjana Noga
+DTEND:20241127T171500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241127T154500Z
+SUMMARY:Analizy i gry strategiczne (wykład do wyboru)
+UID:300b304d-bb5e-433b-a530-04197f395b82@300b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Zając
+DTEND:20241025T091500Z
+LOCATION:Paw.E sala J
+DTSTART:20241025T074500Z
+SUMMARY:Marketing personalny (ćwiczenia)
+UID:68eca459-c969-4cdb-974e-de4894be0470@68ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20250108T153000Z
+LOCATION:Paw.C sala D
+DTSTART:20250108T140000Z
+SUMMARY:Innowacyjne trendy w marketingu (wykład do wyboru)
+UID:9a0edd20-6cc2-4b98-bd61-842ab560f5b2@9a0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Gracjana Noga
+DTEND:20241030T171500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241030T154500Z
+SUMMARY:Analizy i gry strategiczne (wykład do wyboru)
+UID:2518587d-3e91-42a6-b394-79ae9e5f1b9c@2518.org
+END:VEVENT
+END:VCALENDAR

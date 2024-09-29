@@ -1,0 +1,98 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:31546355-bc5f-41b8-8bbf-e81e35549be8@3154.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Klich
+DTEND:20241127T190000Z
+LOCATION:link do zajęć
+DTSTART:20241127T173000Z
+SUMMARY:Seminarium indywidualne - 20h (seminarium)
+UID:6da7c3a7-5408-47dd-a178-082aa43875f2@6da7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:cc8a214d-e805-4b9a-8a82-db6f95067dde@cc8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Klich
+DTEND:20241030T190000Z
+LOCATION:link do zajęć
+DTSTART:20241030T173000Z
+SUMMARY:Seminarium indywidualne - 20h (seminarium)
+UID:edcfc54b-1f99-4ef9-801f-370ca214c5e9@edcf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Klich
+DTEND:20241204T190000Z
+LOCATION:link do zajęć
+DTSTART:20241204T173000Z
+SUMMARY:Seminarium indywidualne - 20h (seminarium)
+UID:1e4b1d0c-93c5-412a-8193-b39752489ed7@1e4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Klich
+DTEND:20241120T190000Z
+LOCATION:link do zajęć
+DTSTART:20241120T173000Z
+SUMMARY:Seminarium indywidualne - 20h (seminarium)
+UID:f0077c4a-ac96-4099-8b32-270eed8804a3@f007.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Klich
+DTEND:20241211T190000Z
+LOCATION:link do zajęć
+DTSTART:20241211T173000Z
+SUMMARY:Seminarium indywidualne - 20h (seminarium)
+UID:4ef13fec-0bc9-4f6d-b5da-99717e71e209@4ef1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Klich
+DTEND:20241113T190000Z
+LOCATION:link do zajęć
+DTSTART:20241113T173000Z
+SUMMARY:Seminarium indywidualne - 20h (seminarium)
+UID:f7ca6c9f-c6f0-441a-a4d8-bf0d42a9a4e7@f7ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Klich
+DTEND:20241009T180000Z
+LOCATION:link do zajęć
+DTSTART:20241009T163000Z
+SUMMARY:Seminarium indywidualne - 20h (seminarium)
+UID:663ced47-0de0-42a3-a23b-945efb9d7796@663c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Klich
+DTEND:20241106T190000Z
+LOCATION:link do zajęć
+DTSTART:20241106T173000Z
+SUMMARY:Seminarium indywidualne - 20h (seminarium)
+UID:465a1621-7b0c-4178-8124-edd9b73b2a78@465a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Klich
+DTEND:20241016T180000Z
+LOCATION:link do zajęć
+DTSTART:20241016T163000Z
+SUMMARY:Seminarium indywidualne - 20h (seminarium)
+UID:b6f23c5a-d0a0-4dd4-b1d6-83c303094151@b6f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Klich
+DTEND:20241023T180000Z
+LOCATION:link do zajęć
+DTSTART:20241023T163000Z
+SUMMARY:Seminarium indywidualne - 20h (seminarium)
+UID:880b38a3-1981-4b1d-ab4b-df89f5042cb8@880b.org
+END:VEVENT
+END:VCALENDAR

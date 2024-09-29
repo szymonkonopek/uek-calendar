@@ -1,0 +1,1122 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241107T101500Z
+LOCATION:Paw.B 251
+DTSTART:20241107T084500Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:b1d5eb03-181c-4f5f-aa59-e43838db4207@b1d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241121T101500Z
+LOCATION:Paw.B 251
+DTSTART:20241121T084500Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:ecd4d6f2-c717-41d9-8ab3-9ba57c20ce66@ecd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20250109T153000Z
+LOCATION:Paw.C sala A
+DTSTART:20250109T140000Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:df8aa4c9-17dc-40ca-8633-fecd58d8a5ff@df8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241211T101500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241211T084500Z
+SUMMARY:Prognozowanie i symulacje (ćwiczenia)
+UID:d84f3a22-5d4c-4ae2-a6ed-885246514daa@d84f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241115T101500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241115T084500Z
+SUMMARY:Prognozowanie i symulacje (ćwiczenia)
+UID:73d3ba33-d4d7-4a99-b5b2-c481d198ba7f@73d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20250122T101500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250122T084500Z
+SUMMARY:Prognozowanie i symulacje (ćwiczenia)
+UID:182e169f-c017-4276-aad4-838ba133a5b0@182e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241023T091500Z
+LOCATION:Platforma Moodle
+DTSTART:20241023T074500Z
+SUMMARY:Prognozowanie i symulacje (Ćwiczenia e-learningowe)
+UID:bdfc111f-c81b-4f4e-90ec-850a8747e4ba@bdfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241129T083000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241129T070000Z
+SUMMARY:Wprowadzenie do uczenia maszynowego (wykład do wyboru)
+UID:b27c43e6-d0e9-4320-9437-29f15fa6abd3@b27c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241009T091500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241009T074500Z
+SUMMARY:Prognozowanie i symulacje (ćwiczenia)
+UID:c3e72447-4992-4b58-bc26-ab5aa3ff4643@c3e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20250113T101500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250113T084500Z
+SUMMARY:Analiza zmiennych jakościowych (laboratorium)
+UID:bc65bc32-b816-450e-81f4-286e4043929c@bc65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241004T073000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241004T060000Z
+SUMMARY:Wprowadzenie do uczenia maszynowego (wykład do wyboru)
+UID:cfb256d4-8bfb-45de-9a89-c4dd7ed0ab02@cfb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241003T091500Z
+LOCATION:Paw.B 251
+DTSTART:20241003T074500Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:a933eb43-5a4b-4926-9ccc-a6414ecbb4d5@a933.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241011T073000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241011T060000Z
+SUMMARY:Wprowadzenie do uczenia maszynowego (wykład do wyboru)
+UID:263898b3-495c-4ee8-a6ce-52abb05719ba@2638.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20241021T124500Z
+LOCATION:Paw.C sala A
+DTSTART:20241021T111500Z
+SUMMARY:Metoda reprezentacyjna (wykład do wyboru)
+UID:7fa80096-e06a-4107-b81c-a76a64f3fe56@7fa8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20250108T101500Z
+LOCATION:Platforma Moodle
+DTSTART:20250108T084500Z
+SUMMARY:Prognozowanie i symulacje (Ćwiczenia e-learningowe)
+UID:fb9fe4a8-f8d5-4680-bafa-1c440f2aed93@fb9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20241202T101500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241202T084500Z
+SUMMARY:Analiza zmiennych jakościowych (laboratorium)
+UID:ea55ef66-e5f2-466a-945e-8ff64201bcf2@ea55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20250110T083000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20250110T070000Z
+SUMMARY:Wprowadzenie do uczenia maszynowego (wykład do wyboru)
+UID:9ab19393-02f6-442e-b05c-4023dd2aa884@9ab1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241120T101500Z
+LOCATION:Platforma Moodle
+DTSTART:20241120T084500Z
+SUMMARY:Prognozowanie i symulacje (Ćwiczenia e-learningowe)
+UID:74bd09ec-bea8-48dc-8591-d62e901b8c80@74bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20250115T101500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250115T084500Z
+SUMMARY:Prognozowanie i symulacje (ćwiczenia)
+UID:2bdd4b87-a179-412d-a124-752cffefe1dd@2bdd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20241021T073000Z
+LOCATION:Paw.C sala A
+DTSTART:20241021T060000Z
+SUMMARY:Analiza zmiennych jakościowych (wykład)
+UID:9025b450-0eed-4bb7-b513-1cbd7f1c89c9@9025.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241001T073000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241001T060000Z
+SUMMARY:Podstawy uczenia maszynowego w języku Python (wykład do wyboru)
+UID:4aed75ef-4480-4ee6-a536-7a228fe4ab7a@4aed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241219T101500Z
+LOCATION:Paw.B 251
+DTSTART:20241219T084500Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:21144df8-9563-4110-9757-e802c36a857e@2114.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20250114T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250114T070000Z
+SUMMARY:Podstawy uczenia maszynowego w języku Python (wykład do wyboru)
+UID:08ba01f0-1709-4105-acf4-1a183e40c009@08ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20241205T153000Z
+LOCATION:Paw.C sala A
+DTSTART:20241205T140000Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:c6e9ac2c-0d11-4331-836d-bdf99414ba84@c6e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20241128T134500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241128T121500Z
+SUMMARY:Analiza finansowych szeregów czasowych (laboratorium)
+UID:67fd7526-66b4-48b4-84c7-81bfed477ceb@67fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241213T083000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241213T070000Z
+SUMMARY:Wprowadzenie do uczenia maszynowego (wykład do wyboru)
+UID:bda67862-d7f8-448f-bae3-9a6cb575b98e@bda6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20250123T153000Z
+LOCATION:Paw.C sala A
+DTSTART:20250123T140000Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:9f36d981-0902-488f-985c-64ff39481fa1@9f36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20241007T073000Z
+LOCATION:Paw.C sala A
+DTSTART:20241007T060000Z
+SUMMARY:Analiza zmiennych jakościowych (wykład)
+UID:e061c9a1-0b2e-4fc1-82bc-b98e84c0256f@e061.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20250124T083000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20250124T070000Z
+SUMMARY:Wprowadzenie do uczenia maszynowego (wykład do wyboru)
+UID:f05e96a3-16ef-4d7f-8e36-d5d2520bb3e8@f05e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241029T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241029T070000Z
+SUMMARY:Podstawy uczenia maszynowego w języku Python (wykład do wyboru)
+UID:948afb7b-52e2-4b02-b68c-243aa43928c6@948a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20241010T143000Z
+LOCATION:Paw.C sala A
+DTSTART:20241010T130000Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:c145cc1f-3bb0-4029-9713-35877deb544b@c145.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241206T083000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241206T070000Z
+SUMMARY:Wprowadzenie do uczenia maszynowego (wykład do wyboru)
+UID:b4db78e8-e923-499a-88e6-8e1939ba5eb8@b4db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241120T083000Z
+LOCATION:Paw.C sala A
+DTSTART:20241120T070000Z
+SUMMARY:Badania operacyjne (wykład)
+UID:e31502c2-9ee8-4f86-af93-5bd230014cf7@e315.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20250116T101500Z
+LOCATION:Paw.B 251
+DTSTART:20250116T084500Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:4c7f9fcc-5e4a-487a-8bf4-6b7c306ed759@4c7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241030T101500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241030T084500Z
+SUMMARY:Prognozowanie i symulacje (ćwiczenia)
+UID:7f44b3fb-73da-44a2-9065-64282c0588d2@7f44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20250123T134500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250123T121500Z
+SUMMARY:Analiza finansowych szeregów czasowych (laboratorium)
+UID:e70b4e98-b974-4212-abaf-041cd4e380d4@e70b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241212T083000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241212T070000Z
+SUMMARY:Prognozowanie i symulacje (wykład)
+UID:278a9276-b011-470e-ad0d-6f25ed86d652@278a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:c3dcfd85-a03f-4613-af16-15bc2d3d2c56@c3dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20241007T124500Z
+LOCATION:Paw.C sala A
+DTSTART:20241007T111500Z
+SUMMARY:Metoda reprezentacyjna (wykład do wyboru)
+UID:b4f8d441-a371-4c99-b81e-658f8887c7a7@b4f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241126T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241126T070000Z
+SUMMARY:Podstawy uczenia maszynowego w języku Python (wykład do wyboru)
+UID:6ee1af2d-a82c-416b-a507-0614f4469b97@6ee1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241203T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241203T070000Z
+SUMMARY:Podstawy uczenia maszynowego w języku Python (wykład do wyboru)
+UID:af53cc72-e936-44df-940a-f8bbeed1da3d@af53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20241017T124500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241017T111500Z
+SUMMARY:Analiza finansowych szeregów czasowych (laboratorium)
+UID:56f7743c-77ef-4997-971d-c2253fbc303d@56f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241210T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241210T070000Z
+SUMMARY:Podstawy uczenia maszynowego w języku Python (wykład do wyboru)
+UID:199e1655-6772-4f5b-afda-304725c86d87@199e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20241202T083000Z
+LOCATION:Paw.C sala A
+DTSTART:20241202T070000Z
+SUMMARY:Analiza zmiennych jakościowych (wykład)
+UID:7fd84d8b-2825-4464-ba7a-2a54e6e56284@7fd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20250120T111500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250120T103000Z
+SUMMARY:Analiza zmiennych jakościowych (laboratorium)
+UID:f738d00e-406d-4bb3-b6e0-e7d86b42cbb5@f738.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241114T083000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241114T070000Z
+SUMMARY:Prognozowanie i symulacje (wykład)
+UID:01eeb4b7-d388-475c-8a63-b48f692c1649@01ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20241107T153000Z
+LOCATION:Paw.C sala A
+DTSTART:20241107T140000Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:0999711a-b44a-4139-ad76-ef9ad473e8f2@0999.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241204T083000Z
+LOCATION:Paw.C sala A
+DTSTART:20241204T070000Z
+SUMMARY:Badania operacyjne (wykład)
+UID:32996f2e-7f5c-4a8b-9c69-d6a8cb2262b4@3299.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20241121T134500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241121T121500Z
+SUMMARY:Analiza finansowych szeregów czasowych (laboratorium)
+UID:d74f3454-c905-4dba-87d8-5ccea989e758@d74f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20241104T101500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241104T084500Z
+SUMMARY:Analiza zmiennych jakościowych (laboratorium)
+UID:71ad5aeb-63fa-487e-9f1d-ebfe3ee6e587@71ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20241114T134500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241114T121500Z
+SUMMARY:Analiza finansowych szeregów czasowych (laboratorium)
+UID:d4817b38-0f63-44d4-bb4b-7d6c8b4dc90b@d481.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20241212T153000Z
+LOCATION:Paw.C sala A
+DTSTART:20241212T140000Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:cdbd4431-cc52-4e3b-be4e-7032d0161782@cdbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20241217T190000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241217T173000Z
+SUMMARY:Analiza finansowych szeregów czasowych (laboratorium)
+UID:9ea97468-96cf-4ec1-bbbd-9e5a7d7881a2@9ea9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20241216T134500Z
+LOCATION:Paw.C sala A
+DTSTART:20241216T121500Z
+SUMMARY:Metoda reprezentacyjna (wykład do wyboru)
+UID:679b7958-3233-4cfa-9a22-84a6ea548590@679b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241218T083000Z
+LOCATION:Paw.C sala A
+DTSTART:20241218T070000Z
+SUMMARY:Badania operacyjne (wykład)
+UID:680fdda9-bed3-4386-85f2-bd9871339c2a@680f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20241007T110000Z
+LOCATION:Paw.C sala A
+DTSTART:20241007T093000Z
+SUMMARY:Metoda reprezentacyjna (ćwiczenia do wyboru)
+UID:eca118fe-8510-4565-98ed-4135d667cdf8@eca1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20241010T073000Z
+LOCATION:Paw.B 151
+DTSTART:20241010T060000Z
+SUMMARY:Metoda reprezentacyjna (wykład do wyboru)
+UID:78e4115d-9a02-4347-96de-5f35daaab2a3@78e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20241104T083000Z
+LOCATION:Paw.C sala A
+DTSTART:20241104T070000Z
+SUMMARY:Analiza zmiennych jakościowych (wykład)
+UID:9ee5e01a-b84d-437a-b1f4-0f60ed19b378@9ee5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20250109T101500Z
+LOCATION:Paw.B 251
+DTSTART:20250109T084500Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:ad764f67-f0cb-478a-8352-ba62ffc63f96@ad76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20250117T083000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20250117T070000Z
+SUMMARY:Wprowadzenie do uczenia maszynowego (wykład do wyboru)
+UID:f40c8739-c25c-4ef4-88ee-1a8ac18f5e86@f40c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20250113T083000Z
+LOCATION:Paw.C sala A
+DTSTART:20250113T070000Z
+SUMMARY:Analiza zmiennych jakościowych (wykład)
+UID:c620583f-a839-4752-a97f-b60ef1c0228b@c620.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241017T073000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241017T060000Z
+SUMMARY:Prognozowanie i symulacje (wykład)
+UID:8e2eaf80-e60a-46a0-bf1b-1a0b2b0b9b2b@8e2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241113T101500Z
+LOCATION:Platforma Moodle
+DTSTART:20241113T084500Z
+SUMMARY:Prognozowanie i symulacje (Ćwiczenia e-learningowe)
+UID:48df8f26-ae4b-4213-b3f2-7584fe8014a7@48df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241218T101500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241218T084500Z
+SUMMARY:Prognozowanie i symulacje (ćwiczenia)
+UID:ae9f68e7-6393-40ef-9cc9-9ea6fe4a653a@ae9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20250107T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250107T070000Z
+SUMMARY:Podstawy uczenia maszynowego w języku Python (wykład do wyboru)
+UID:aaf80ff8-9d60-4275-b1c6-1353fa8e2f5b@aaf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20241003T124500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241003T111500Z
+SUMMARY:Analiza finansowych szeregów czasowych (laboratorium)
+UID:9493eb61-357b-44d6-ad6e-fe0b1b7692d3@9493.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241017T091500Z
+LOCATION:Paw.B 251
+DTSTART:20241017T074500Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:e9932565-5100-4bb9-b38b-ac86b6fa3579@e993.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20250115T083000Z
+LOCATION:Paw.C sala A
+DTSTART:20250115T074500Z
+SUMMARY:Badania operacyjne (wykład)
+UID:a4a49ac0-9c60-4e9c-9452-8dfb9e87e7e7@a4a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20241118T083000Z
+LOCATION:Paw.C sala A
+DTSTART:20241118T070000Z
+SUMMARY:Analiza zmiennych jakościowych (wykład)
+UID:e07808fb-15f5-409b-a2ba-2bc8c6bd713b@e078.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20241202T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20241202T103000Z
+SUMMARY:Metoda reprezentacyjna (ćwiczenia do wyboru)
+UID:7f5f6836-c58d-458e-81cf-dcb339ecd2dc@7f5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241220T083000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241220T070000Z
+SUMMARY:Wprowadzenie do uczenia maszynowego (wykład do wyboru)
+UID:02cd628e-6ba1-4400-bc32-e2972ff54460@02cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20241104T134500Z
+LOCATION:Paw.C sala A
+DTSTART:20241104T121500Z
+SUMMARY:Metoda reprezentacyjna (wykład do wyboru)
+UID:0df90698-3325-4361-a220-e0facff4ec78@0df9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241119T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241119T070000Z
+SUMMARY:Podstawy uczenia maszynowego w języku Python (wykład do wyboru)
+UID:c34a761d-4f80-4b28-b843-361dfd35f302@c34a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241122T083000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241122T070000Z
+SUMMARY:Wprowadzenie do uczenia maszynowego (wykład do wyboru)
+UID:a4ce32c1-e87c-40c4-9f68-ead984008560@a4ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241128T083000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241128T070000Z
+SUMMARY:Prognozowanie i symulacje (wykład)
+UID:2f0eaa48-fecf-4283-88f2-a6134a654730@2f0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20241003T143000Z
+LOCATION:Paw.C sala A
+DTSTART:20241003T130000Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:11841e33-67f5-4972-9a08-efb8d79253b7@1184.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241016T091500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241016T074500Z
+SUMMARY:Prognozowanie i symulacje (ćwiczenia)
+UID:d67da94d-2653-4b79-8b95-63ed56a485d4@d67d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20250109T083000Z
+LOCATION:Paw.S sala 8
+DTSTART:20250109T074500Z
+SUMMARY:Prognozowanie i symulacje (wykład)
+UID:9771aa97-ec4d-4210-92b4-6de9549ba76e@9771.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20241216T083000Z
+LOCATION:Paw.C sala A
+DTSTART:20241216T070000Z
+SUMMARY:Analiza zmiennych jakościowych (wykład)
+UID:ff586f47-ad6f-40aa-9989-5f52ca0bf408@ff58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20241007T091500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241007T074500Z
+SUMMARY:Analiza zmiennych jakościowych (laboratorium)
+UID:2172f97c-a0c1-412c-a1dd-c229595d7373@2172.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20241121T153000Z
+LOCATION:Paw.C sala A
+DTSTART:20241121T140000Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:3c574bd8-1db2-483d-901e-d43ae9733ff0@3c57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241108T083000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241108T070000Z
+SUMMARY:Wprowadzenie do uczenia maszynowego (wykład do wyboru)
+UID:b2078b93-b0de-4009-b7db-7dea8e5a3393@b207.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20241202T134500Z
+LOCATION:Paw.C sala A
+DTSTART:20241202T121500Z
+SUMMARY:Metoda reprezentacyjna (wykład do wyboru)
+UID:1b49dd96-caa9-438d-a79c-3c0e95d56c73@1b49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241114T101500Z
+LOCATION:Paw.B 251
+DTSTART:20241114T084500Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:40bb5066-71c6-4748-afee-01f4d03108c5@40bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20250116T153000Z
+LOCATION:Paw.C sala A
+DTSTART:20250116T140000Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:e412a4f0-e04e-4f82-bd10-9a56185534e0@e412.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241024T091500Z
+LOCATION:Paw.B 251
+DTSTART:20241024T074500Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:72df4d9a-33c1-4f2a-8aef-c92c8500f5f5@72df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20241031T153000Z
+LOCATION:Paw.C sala A
+DTSTART:20241031T140000Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:626e6e48-6a3a-459e-aab0-1ee32982d931@626e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20241128T153000Z
+LOCATION:Paw.C sala A
+DTSTART:20241128T140000Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:c58c4522-b8db-4605-a3a1-e4aec3dc5bf7@c58c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20241021T110000Z
+LOCATION:Paw.C sala A
+DTSTART:20241021T093000Z
+SUMMARY:Metoda reprezentacyjna (ćwiczenia do wyboru)
+UID:44cb69ed-ad8d-43e2-89af-9f8e756bd3e8@44cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20241017T143000Z
+LOCATION:Paw.C sala A
+DTSTART:20241017T130000Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:b2966dda-e179-48c2-b693-df98398a88a1@b296.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241204T101500Z
+LOCATION:Platforma Moodle
+DTSTART:20241204T084500Z
+SUMMARY:Prognozowanie i symulacje (Ćwiczenia e-learningowe)
+UID:35efc3ef-0566-42b8-a9e9-38b2b21cc546@35ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20241219T153000Z
+LOCATION:Paw.C sala A
+DTSTART:20241219T140000Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:6de7bab2-2dd9-43ce-b309-039844af938c@6de7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20241114T153000Z
+LOCATION:Paw.C sala A
+DTSTART:20241114T140000Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:359db152-3e77-4071-aa93-70c84c88ad0c@359d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241008T161500Z
+LOCATION:Paw.C sala C
+DTSTART:20241008T144500Z
+SUMMARY:Prognozowanie i symulacje (wykład)
+UID:f0752248-0ea7-443c-92f8-065a6eb4c32d@f075.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241018T073000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241018T060000Z
+SUMMARY:Wprowadzenie do uczenia maszynowego (wykład do wyboru)
+UID:9ec979f7-29d8-4cb4-93ea-93c558b63f9d@9ec9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20250121T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250121T070000Z
+SUMMARY:Podstawy uczenia maszynowego w języku Python (wykład do wyboru)
+UID:25f36ec8-ac4c-465d-8c6a-c3310b3f2a4d@25f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20241118T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20241118T103000Z
+SUMMARY:Metoda reprezentacyjna (ćwiczenia do wyboru)
+UID:48aa24d6-ed29-40e8-955a-4ed98a2e1804@48aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20241216T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20241216T103000Z
+SUMMARY:Metoda reprezentacyjna (ćwiczenia do wyboru)
+UID:2efd82ca-16c8-4fe9-8885-548e6ea3318d@2efd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241128T101500Z
+LOCATION:Paw.B 251
+DTSTART:20241128T084500Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:9c2014e1-956d-4066-8b7b-627f35ddf832@9c20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241031T101500Z
+LOCATION:Paw.B 251
+DTSTART:20241031T084500Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:150a3541-66bc-443b-abd2-ff489e17064a@150a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241106T083000Z
+LOCATION:Paw.C sala A
+DTSTART:20241106T070000Z
+SUMMARY:Badania operacyjne (wykład)
+UID:c7947a0f-767b-4ff2-b61e-38b421a94009@c794.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20241118T134500Z
+LOCATION:Paw.C sala A
+DTSTART:20241118T121500Z
+SUMMARY:Metoda reprezentacyjna (wykład do wyboru)
+UID:e73d2e28-fbd3-4974-92aa-a08849eb3af3@e73d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20241024T124500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241024T111500Z
+SUMMARY:Analiza finansowych szeregów czasowych (laboratorium)
+UID:13f4c871-adb7-440c-881d-99ff171fbb32@13f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241009T073000Z
+LOCATION:Paw.C sala A
+DTSTART:20241009T060000Z
+SUMMARY:Badania operacyjne (wykład)
+UID:ad261591-2e24-4661-9d99-53f49ad3347b@ad26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241115T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241115T121500Z
+SUMMARY:Prognozowanie i symulacje (wykład)
+UID:86912dda-1055-49e4-a05a-3ce77b8cdf04@8691.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20250120T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20250120T093000Z
+SUMMARY:Analiza zmiennych jakościowych (wykład)
+UID:dc833495-38e3-4e92-b63b-8d0f1494318c@dc83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241008T073000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241008T060000Z
+SUMMARY:Podstawy uczenia maszynowego w języku Python (wykład do wyboru)
+UID:4fca70eb-4437-4291-984e-597868d9eff3@4fca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20250120T134500Z
+LOCATION:Paw.C sala A
+DTSTART:20250120T130000Z
+SUMMARY:Metoda reprezentacyjna (ćwiczenia do wyboru)
+UID:2ec3ddc1-92b3-4a96-9df8-ccf6e46b5855@2ec3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20241010T180000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241010T163000Z
+SUMMARY:Analiza finansowych szeregów czasowych (laboratorium)
+UID:a4552479-e59e-42a6-bd8d-a0f8b1339e07@a455.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20250116T134500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250116T121500Z
+SUMMARY:Analiza finansowych szeregów czasowych (laboratorium)
+UID:f66929dd-4183-43b7-b591-57583555438c@f669.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20241216T101500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241216T084500Z
+SUMMARY:Analiza zmiennych jakościowych (laboratorium)
+UID:79f52bbe-9016-40d8-841e-8dfc58ee4265@79f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20250120T153000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250120T140000Z
+SUMMARY:Prognozowanie i symulacje (ćwiczenia)
+UID:e72b406d-4900-460a-9673-096735b00e72@e72b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241010T091500Z
+LOCATION:Paw.B 251
+DTSTART:20241010T074500Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:cb6512a0-63ca-4c1c-9300-175f89860bcd@cb65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241023T073000Z
+LOCATION:Paw.C sala A
+DTSTART:20241023T060000Z
+SUMMARY:Badania operacyjne (wykład)
+UID:a7565fe8-d8f0-4df6-a85b-51d51a71e22c@a756.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241217T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241217T070000Z
+SUMMARY:Podstawy uczenia maszynowego w języku Python (wykład do wyboru)
+UID:825eb9de-c131-41d6-8fec-96e30d267069@825e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241015T073000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241015T060000Z
+SUMMARY:Podstawy uczenia maszynowego w języku Python (wykład do wyboru)
+UID:b9d5ea43-32a7-4b14-a188-4a07b5140d6b@b9d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241205T101500Z
+LOCATION:Paw.B 251
+DTSTART:20241205T084500Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:c4a80bb7-87f5-4b49-a4e4-360398d392a3@c4a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20241031T134500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241031T121500Z
+SUMMARY:Analiza finansowych szeregów czasowych (laboratorium)
+UID:1bfd479a-a9d2-406a-9ba6-4b6ca6599b40@1bfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20250123T101500Z
+LOCATION:Paw.B 251
+DTSTART:20250123T084500Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:60bab226-f404-4bd7-92e1-d07f88767f3b@60ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241112T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241112T070000Z
+SUMMARY:Podstawy uczenia maszynowego w języku Python (wykład do wyboru)
+UID:a4c4712b-617b-4ad0-b9e9-891dea0b0178@a4c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241025T073000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241025T060000Z
+SUMMARY:Wprowadzenie do uczenia maszynowego (wykład do wyboru)
+UID:eb0e4ba4-8bc9-4294-8d3b-1633356b8d80@eb0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20241212T134500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241212T121500Z
+SUMMARY:Analiza finansowych szeregów czasowych (laboratorium)
+UID:44f1848d-591d-405c-8b91-267c0976b1c8@44f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20241205T134500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241205T121500Z
+SUMMARY:Analiza finansowych szeregów czasowych (laboratorium)
+UID:44444d84-9cd3-4af7-a0f8-b3f80041856c@4444.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20241104T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20241104T103000Z
+SUMMARY:Metoda reprezentacyjna (ćwiczenia do wyboru)
+UID:1ee6ab16-043a-4e8e-9d07-34e83ab3d585@1ee6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20250113T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20250113T103000Z
+SUMMARY:Metoda reprezentacyjna (ćwiczenia do wyboru)
+UID:aef5fa56-1ed6-47b4-aa82-e658157c460e@aef5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241022T073000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241022T060000Z
+SUMMARY:Podstawy uczenia maszynowego w języku Python (wykład do wyboru)
+UID:5099d2a5-5ab5-4c9e-aa5d-f6489d2611a6@5099.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20241024T143000Z
+LOCATION:Paw.C sala A
+DTSTART:20241024T130000Z
+SUMMARY:Analiza finansowych szeregów czasowych (wykład)
+UID:63517bf5-befe-4a43-b62d-ffb1abfef18f@6351.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241031T083000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241031T070000Z
+SUMMARY:Prognozowanie i symulacje (wykład)
+UID:3a37ef1a-44ac-4d4b-b865-1d8a061ec9ae@3a37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20241118T101500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241118T084500Z
+SUMMARY:Analiza zmiennych jakościowych (laboratorium)
+UID:a7e4c2c8-4e5f-49d6-8ad9-286616e58e0c@a7e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20241107T134500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241107T121500Z
+SUMMARY:Analiza finansowych szeregów czasowych (laboratorium)
+UID:4b33dd6e-9e61-4389-922b-a468fd6d4bb7@4b33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20250124T153000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20250124T140000Z
+SUMMARY:Wprowadzenie do uczenia maszynowego (wykład do wyboru)
+UID:80b00ca2-2e33-4d64-a531-5fb04c1c5489@80b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20241021T091500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241021T074500Z
+SUMMARY:Analiza zmiennych jakościowych (laboratorium)
+UID:f533c0cd-7c74-4dde-bd07-95313d4ec8a9@f533.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241105T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241105T070000Z
+SUMMARY:Podstawy uczenia maszynowego w języku Python (wykład do wyboru)
+UID:b65e7c24-2633-4338-9ef9-3296e5f20111@b65e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Łukasz Kwiatkowski
+DTEND:20250109T134500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250109T121500Z
+SUMMARY:Analiza finansowych szeregów czasowych (laboratorium)
+UID:ed91bb80-a6f4-42fe-aa42-24663b06a182@ed91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241004T091500Z
+LOCATION:Paw.C sala A
+DTSTART:20241004T074500Z
+SUMMARY:Badania operacyjne (wykład)
+UID:10ca3e84-24db-4de2-8bd3-6f77ba3c19de@10ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:df6318b9-cd1c-4dff-9db2-ce05d4a5c934@df63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Janusz Niezgoda
+DTEND:20250113T130000Z
+LOCATION:Paw.C sala A
+DTSTART:20250113T121500Z
+SUMMARY:Metoda reprezentacyjna (wykład do wyboru)
+UID:d3dc9fc6-7c7c-4856-817a-ab567840823d@d3dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241127T101500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241127T084500Z
+SUMMARY:Prognozowanie i symulacje (ćwiczenia)
+UID:b0a949e3-da2d-478b-80ca-eba9a8481eb1@b0a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241212T101500Z
+LOCATION:Paw.B 251
+DTSTART:20241212T084500Z
+SUMMARY:Badania operacyjne (ćwiczenia)
+UID:53dfbc2c-f9a5-412a-a1d4-f8a50ac6d43e@53df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241115T083000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241115T070000Z
+SUMMARY:Wprowadzenie do uczenia maszynowego (wykład do wyboru)
+UID:591f0b8f-71d9-41ea-bac9-2446732af65c@591f.org
+END:VEVENT
+END:VCALENDAR

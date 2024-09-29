@@ -1,0 +1,930 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20241001T180000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241001T163000Z
+SUMMARY:Wprowadzenie do metod analiz logistycznych (konwersatorium)
+UID:d801a615-0ebc-4500-aeff-6a2bfccc4836@d801.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Światowiec-Szczepańska
+DTEND:20241203T190000Z
+LOCATION:Paw.S sala 1
+DTSTART:20241203T173000Z
+SUMMARY:Globalizacja procesów logistycznych (wykład)
+UID:dac028be-1d47-4bc1-a7f4-3edc67bf0a44@dac0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Światowiec-Szczepańska
+DTEND:20241114T134500Z
+LOCATION:Paw.C sala D
+DTSTART:20241114T121500Z
+SUMMARY:Globalizacja procesów logistycznych (wykład)
+UID:18cf9571-de08-47e3-9935-94bc6fd14223@18cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Orzeł
+DTEND:20241112T134500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241112T121500Z
+SUMMARY:Transport Wewnętrzny (konwersatorium)
+UID:450f733c-4690-4d0c-a036-39bb8ad15e7d@450f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Niedzielski
+DTEND:20250117T134500Z
+LOCATION:Paw.F 516
+DTSTART:20250117T121500Z
+SUMMARY:Zarządzanie rozwojem przedsiębiorstwa logistycznego (konwersatorium)
+UID:582b3c7f-4449-46dc-a660-b2ca8e98ef7c@582b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Orzeł
+DTEND:20250107T134500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20250107T121500Z
+SUMMARY:Transport Wewnętrzny (konwersatorium)
+UID:054d5ef6-3d11-49bc-9e7c-d78d13ad8edd@054d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Orzeł
+DTEND:20241126T134500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241126T121500Z
+SUMMARY:Transport Wewnętrzny (konwersatorium)
+UID:2a17c259-0005-4bbc-9dec-0935f9903733@2a17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Światowiec-Szczepańska
+DTEND:20241119T083000Z
+LOCATION:Paw.C sala D
+DTSTART:20241119T070000Z
+SUMMARY:Globalizacja procesów logistycznych (wykład)
+UID:5a5e31ea-6f6c-4599-9066-3f95c56ab32b@5a5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20241126T153000Z
+LOCATION:Bud.gł. 9
+DTSTART:20241126T140000Z
+SUMMARY:Międzynarodowe Instytucje Logistyczne (konwersatorium)
+UID:92c4f5f6-173b-4182-aa48-a2c9cecc698c@92c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Hamerska
+DTEND:20241206T120000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241206T103000Z
+SUMMARY:Uczenie maszynowe w logistyce (laboratorium do wyboru)
+UID:d291f609-2166-4d5f-ae51-e178fed486e8@d291.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Światowiec-Szczepańska
+DTEND:20250123T134500Z
+LOCATION:Paw.C sala D
+DTSTART:20250123T121500Z
+SUMMARY:Globalizacja procesów logistycznych (wykład)
+UID:a3b1d030-a359-4ed5-84ec-4cee2bd97441@a3b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20241206T101500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241206T084500Z
+SUMMARY:Wprowadzenie do metod analiz logistycznych (konwersatorium)
+UID:2c54a83d-eef5-4977-8eea-4d9b9b69e201@2c54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Hamerska
+DTEND:20241108T120000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241108T103000Z
+SUMMARY:Uczenie maszynowe w logistyce (laboratorium do wyboru)
+UID:d468178a-e8a3-43f5-8943-5b907661bfd7@d468.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Niedzielski
+DTEND:20241025T124500Z
+LOCATION:Paw.F 516
+DTSTART:20241025T111500Z
+SUMMARY:Zarządzanie rozwojem przedsiębiorstwa logistycznego (konwersatorium)
+UID:cac099b3-efe9-4a79-ae61-5cd5e6a4d9a0@cac0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20241217T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241217T084500Z
+SUMMARY:Zarządzanie środowiskowe (wykład)
+UID:99ed09f6-b45d-425a-b1a1-0704c361f212@99ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20241203T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241203T084500Z
+SUMMARY:Zarządzanie środowiskowe (wykład)
+UID:b7057535-e65f-4b64-838f-100b4d50ca94@b705.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Światowiec-Szczepańska
+DTEND:20241205T134500Z
+LOCATION:Paw.C sala D
+DTSTART:20241205T121500Z
+SUMMARY:Globalizacja procesów logistycznych (wykład)
+UID:f91ba008-4dd0-4910-a30e-dd87d4376af9@f91b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20241004T091500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241004T074500Z
+SUMMARY:Wprowadzenie do metod analiz logistycznych (konwersatorium)
+UID:80abe6de-94bc-44c1-b932-435cc53cc704@80ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Hamerska
+DTEND:20241213T120000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241213T103000Z
+SUMMARY:Uczenie maszynowe w logistyce (laboratorium do wyboru)
+UID:05433b46-c969-481b-8dd8-3dc6a45fc33f@0543.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20241122T083000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241122T070000Z
+SUMMARY:Logistyczny projekt badawczy (konwersatorium)
+UID:ac4a9091-0211-4a88-a2e3-e98bde5ff6f9@ac4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20241001T143000Z
+LOCATION:Bud.gł. 9
+DTSTART:20241001T130000Z
+SUMMARY:Międzynarodowe Instytucje Logistyczne (konwersatorium)
+UID:8cfce701-9e96-402a-b4f6-277c6c9e5801@8cfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20241015T091500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241015T074500Z
+SUMMARY:Zarządzanie środowiskowe (wykład)
+UID:58b231b5-b39e-444d-8ae5-13a43aabc836@58b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20250117T101500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250117T084500Z
+SUMMARY:Wprowadzenie do metod analiz logistycznych (konwersatorium)
+UID:328c7fc6-9d70-4786-a0e3-3cfb7bde6f50@328c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Hamerska
+DTEND:20241115T120000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241115T103000Z
+SUMMARY:Uczenie maszynowe w logistyce (laboratorium do wyboru)
+UID:59f2e84c-f328-4d53-961c-12c9b3956fcb@59f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Niedzielski
+DTEND:20241008T143000Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20241008T130000Z
+SUMMARY:Zarządzanie rozwojem przedsiębiorstwa logistycznego (konwersatorium)
+UID:691a9e9b-4681-4a42-a050-635d9fa27b8b@691a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20241029T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241029T084500Z
+SUMMARY:Zarządzanie środowiskowe (wykład)
+UID:0df99fd5-e58a-4013-acfd-516fba89127b@0df9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20241220T083000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241220T070000Z
+SUMMARY:Logistyczny projekt badawczy (konwersatorium)
+UID:276f6b38-53d6-48d6-83f4-0120828a44e4@276f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Niedzielski
+DTEND:20241018T124500Z
+LOCATION:Paw.F 516
+DTSTART:20241018T111500Z
+SUMMARY:Zarządzanie rozwojem przedsiębiorstwa logistycznego (konwersatorium)
+UID:5e24d3c8-3c6a-4d07-91fb-f89ba35b5427@5e24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Niedzielski
+DTEND:20241213T134500Z
+LOCATION:Paw.F 516
+DTSTART:20241213T121500Z
+SUMMARY:Zarządzanie rozwojem przedsiębiorstwa logistycznego (konwersatorium)
+UID:53515836-cc34-4416-bdb1-06111f261703@5351.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20241115T083000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241115T070000Z
+SUMMARY:Logistyczny projekt badawczy (konwersatorium)
+UID:0a7e35eb-a8f1-4dca-95f5-71bcf597b3ed@0a7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Hamerska
+DTEND:20241122T120000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241122T103000Z
+SUMMARY:Uczenie maszynowe w logistyce (laboratorium do wyboru)
+UID:1282de69-726a-44ad-87a5-7f2e20e61441@1282.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20241029T153000Z
+LOCATION:Bud.gł. 9
+DTSTART:20241029T140000Z
+SUMMARY:Międzynarodowe Instytucje Logistyczne (konwersatorium)
+UID:4042b54a-6d61-4a5f-800c-27a6ccb88ef0@4042.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20241126T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241126T084500Z
+SUMMARY:Zarządzanie środowiskowe (wykład)
+UID:481af714-af35-412f-8907-a7483ca989c9@481a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20250107T153000Z
+LOCATION:Bud.gł. 9
+DTSTART:20250107T140000Z
+SUMMARY:Międzynarodowe Instytucje Logistyczne (konwersatorium)
+UID:8183c7c2-0386-4f1e-bf52-9e29767c34d3@8183.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20250124T101500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250124T084500Z
+SUMMARY:Wprowadzenie do metod analiz logistycznych (konwersatorium)
+UID:b726a60a-f189-4e4c-9fdc-ca0922f81f64@b726.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Szymańska
+DTEND:20241001T161500Z
+LOCATION:L Paw.A 401
+DTSTART:20241001T144500Z
+SUMMARY:Logistyczne aspekty koncepcji Smart City (konwersatorium)
+UID:ea8226d8-50d6-4442-aee9-a641d0282a10@ea82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20241007T124500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241007T111500Z
+SUMMARY:Wprowadzenie do metod analiz logistycznych (konwersatorium)
+UID:53142874-a2c6-46b4-aa9e-92880aabe1ca@5314.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Hamerska
+DTEND:20241011T110000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241011T093000Z
+SUMMARY:Uczenie maszynowe w logistyce (laboratorium do wyboru)
+UID:4d288680-a032-428d-a4c3-0d7c34ad739d@4d28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Światowiec-Szczepańska
+DTEND:20241031T134500Z
+LOCATION:Paw.C sala D
+DTSTART:20241031T121500Z
+SUMMARY:Globalizacja procesów logistycznych (wykład)
+UID:7c048c60-9435-4198-8332-722e8124e98a@7c04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Hamerska
+DTEND:20241220T120000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241220T103000Z
+SUMMARY:Uczenie maszynowe w logistyce (laboratorium do wyboru)
+UID:031abffd-4a9e-4ebc-9084-3a0e22b76f4f@031a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Światowiec-Szczepańska
+DTEND:20241024T124500Z
+LOCATION:Paw.C sala D
+DTSTART:20241024T111500Z
+SUMMARY:Globalizacja procesów logistycznych (wykład)
+UID:bcb2f900-f1bc-4bd0-9206-767d3a4b06a3@bcb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Szymańska
+DTEND:20241029T171500Z
+LOCATION:L Paw.A 401
+DTSTART:20241029T154500Z
+SUMMARY:Logistyczne aspekty koncepcji Smart City (konwersatorium)
+UID:57348e6c-38e8-434f-896d-5d867eb8ee4f@5734.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20241129T083000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241129T070000Z
+SUMMARY:Logistyczny projekt badawczy (konwersatorium)
+UID:c25b94b3-b12b-441d-9f36-7ec7f1219473@c25b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Orzeł
+DTEND:20241001T124500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241001T120000Z
+SUMMARY:Transport Wewnętrzny (konwersatorium)
+UID:17e4d172-0983-4439-bf77-d10e21ce897e@17e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20241112T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241112T084500Z
+SUMMARY:Zarządzanie środowiskowe (wykład)
+UID:811f3953-11cb-4a80-9f64-40dbd9e70d9e@811f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Orzeł
+DTEND:20241210T134500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241210T121500Z
+SUMMARY:Transport Wewnętrzny (konwersatorium)
+UID:868acb05-ec9c-4f10-a37e-1f19ce0fd96a@868a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20241015T143000Z
+LOCATION:Bud.gł. 9
+DTSTART:20241015T130000Z
+SUMMARY:Międzynarodowe Instytucje Logistyczne (konwersatorium)
+UID:ec5f3251-0af7-43ff-b5e6-89e9167833fb@ec5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Światowiec-Szczepańska
+DTEND:20241003T124500Z
+LOCATION:Paw.C sala D
+DTSTART:20241003T111500Z
+SUMMARY:Globalizacja procesów logistycznych (wykład)
+UID:9a3f69bc-1b8a-4f2f-a228-407c6d6e16f9@9a3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Światowiec-Szczepańska
+DTEND:20241121T134500Z
+LOCATION:Paw.C sala D
+DTSTART:20241121T121500Z
+SUMMARY:Globalizacja procesów logistycznych (wykład)
+UID:84933c83-191a-476a-a5f6-0f60baae51bd@8493.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Hamerska
+DTEND:20250117T120000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20250117T103000Z
+SUMMARY:Uczenie maszynowe w logistyce (laboratorium do wyboru)
+UID:aaca4409-83ae-4a3a-822f-c1e8683cdad2@aaca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Szymańska
+DTEND:20241015T161500Z
+LOCATION:L Paw.A 401
+DTSTART:20241015T144500Z
+SUMMARY:Logistyczne aspekty koncepcji Smart City (konwersatorium)
+UID:0ea29d25-5431-44a1-b10c-4e4179ce4de5@0ea2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20250124T083000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250124T070000Z
+SUMMARY:Logistyczny projekt badawczy (konwersatorium)
+UID:6c996292-6f7c-46df-8a2a-89d9fba1dee0@6c99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Orzeł
+DTEND:20241029T134500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241029T121500Z
+SUMMARY:Transport Wewnętrzny (konwersatorium)
+UID:24c2d97a-2014-4511-8524-7bbd462807fd@24c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Szymańska
+DTEND:20250107T171500Z
+LOCATION:L Paw.A 401
+DTSTART:20250107T154500Z
+SUMMARY:Logistyczne aspekty koncepcji Smart City (konwersatorium)
+UID:cf9d79e2-43e1-46f2-bd75-97ee8875dd34@cf9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Światowiec-Szczepańska
+DTEND:20241128T134500Z
+LOCATION:Paw.C sala D
+DTSTART:20241128T121500Z
+SUMMARY:Globalizacja procesów logistycznych (wykład)
+UID:e66d70bf-b604-4a47-b08c-bf50de08e461@e66d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20241011T073000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241011T060000Z
+SUMMARY:Logistyczny projekt badawczy (konwersatorium)
+UID:54f542a0-cba1-4758-bdb8-25e763bef160@54f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20250117T083000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250117T070000Z
+SUMMARY:Logistyczny projekt badawczy (konwersatorium)
+UID:b32962f0-4a5f-4903-8e1a-c31f649fd5f7@b329.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20250114T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250114T084500Z
+SUMMARY:Zarządzanie środowiskowe (wykład)
+UID:59d13eb3-40d1-4787-aa02-738034f070d6@59d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Światowiec-Szczepańska
+DTEND:20241212T134500Z
+LOCATION:Paw.C sala D
+DTSTART:20241212T121500Z
+SUMMARY:Globalizacja procesów logistycznych (wykład)
+UID:3400fb60-821d-49c7-a109-21dca4fdbd83@3400.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Niedzielski
+DTEND:20241129T134500Z
+LOCATION:Paw.F 516
+DTSTART:20241129T121500Z
+SUMMARY:Zarządzanie rozwojem przedsiębiorstwa logistycznego (konwersatorium)
+UID:96bc9690-5743-4a52-aec4-14410800a8cb@96bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Niedzielski
+DTEND:20241220T134500Z
+LOCATION:Paw.F 516
+DTSTART:20241220T121500Z
+SUMMARY:Zarządzanie rozwojem przedsiębiorstwa logistycznego (konwersatorium)
+UID:f786043b-652d-456c-9519-9cff75530609@f786.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20241011T091500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241011T074500Z
+SUMMARY:Wprowadzenie do metod analiz logistycznych (konwersatorium)
+UID:dbbedddd-c413-4765-b2e2-2b4c5b0345e3@dbbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Niedzielski
+DTEND:20241115T134500Z
+LOCATION:Paw.F 516
+DTSTART:20241115T121500Z
+SUMMARY:Zarządzanie rozwojem przedsiębiorstwa logistycznego (konwersatorium)
+UID:588aafe2-7d0e-4feb-bdbb-9f7ef0e48a89@588a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20241025T091500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241025T074500Z
+SUMMARY:Wprowadzenie do metod analiz logistycznych (konwersatorium)
+UID:e4a85f31-e419-4fc9-8c6c-b9b9448fb3bc@e4a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20241112T153000Z
+LOCATION:Bud.gł. 9
+DTSTART:20241112T140000Z
+SUMMARY:Międzynarodowe Instytucje Logistyczne (konwersatorium)
+UID:d279ed75-6d74-4482-8d3d-6402a9c05556@d279.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20241129T101500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241129T084500Z
+SUMMARY:Wprowadzenie do metod analiz logistycznych (konwersatorium)
+UID:76caad3c-308c-4940-a5ae-49e4e9a2d030@76ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20241122T101500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241122T084500Z
+SUMMARY:Wprowadzenie do metod analiz logistycznych (konwersatorium)
+UID:8aa21ab8-ff67-47af-ba66-3e8c43c07350@8aa2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20241108T083000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241108T070000Z
+SUMMARY:Logistyczny projekt badawczy (konwersatorium)
+UID:78722219-e365-445e-83f3-0fff2c351509@7872.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20241213T083000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241213T070000Z
+SUMMARY:Logistyczny projekt badawczy (konwersatorium)
+UID:38e49d95-07ab-4af6-a2ab-db44525c0efa@38e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Hamerska
+DTEND:20241018T110000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241018T093000Z
+SUMMARY:Uczenie maszynowe w logistyce (laboratorium do wyboru)
+UID:c650c894-4640-4f62-94da-079c78697880@c650.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20241119T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241119T084500Z
+SUMMARY:Zarządzanie środowiskowe (wykład)
+UID:221b14b4-7497-45c6-bdb5-8aef34afe10a@221b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20241021T161500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241021T144500Z
+SUMMARY:Wprowadzenie do metod analiz logistycznych (konwersatorium)
+UID:2e388134-6111-4789-ab14-cb733a4f30dd@2e38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Hamerska
+DTEND:20241129T120000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241129T103000Z
+SUMMARY:Uczenie maszynowe w logistyce (laboratorium do wyboru)
+UID:713ef006-9916-454c-83b3-6b366610fb9d@713e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Orzeł
+DTEND:20241015T124500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241015T111500Z
+SUMMARY:Transport Wewnętrzny (konwersatorium)
+UID:6b8e418b-f4e9-4545-8d58-f77d9993bd33@6b8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Hamerska
+DTEND:20241004T110000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241004T093000Z
+SUMMARY:Uczenie maszynowe w logistyce (laboratorium do wyboru)
+UID:2ef65383-75c4-4ba5-b5a3-65e85da22a4d@2ef6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Hamerska
+DTEND:20250110T120000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20250110T103000Z
+SUMMARY:Uczenie maszynowe w logistyce (laboratorium do wyboru)
+UID:e75405e3-494f-468b-ad13-aee561a5ad5e@e754.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20241008T110000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241008T093000Z
+SUMMARY:Logistyczny projekt badawczy (konwersatorium)
+UID:5f779af4-a16e-442e-8a6c-5c476e50a2a2@5f77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Hamerska
+DTEND:20250120T101500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250120T084500Z
+SUMMARY:Uczenie maszynowe w logistyce (laboratorium do wyboru)
+UID:a1fc56b3-ea83-496c-ab1d-81b9b6f47a05@a1fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20241022T091500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241022T074500Z
+SUMMARY:Zarządzanie środowiskowe (wykład)
+UID:10579999-96d5-4d22-9d63-75e2af2b12ee@1057.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20250110T101500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250110T084500Z
+SUMMARY:Wprowadzenie do metod analiz logistycznych (konwersatorium)
+UID:176fccef-f885-47a4-8a5f-9aa41900bd2e@176f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20250121T153000Z
+LOCATION:Bud.gł. 9
+DTSTART:20250121T144500Z
+SUMMARY:Międzynarodowe Instytucje Logistyczne (konwersatorium)
+UID:85a87f01-19d3-4f20-a9b2-ac93445a7898@85a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Światowiec-Szczepańska
+DTEND:20250116T134500Z
+LOCATION:Paw.C sala D
+DTSTART:20250116T121500Z
+SUMMARY:Globalizacja procesów logistycznych (wykład)
+UID:57946b2e-856c-4e35-a7dd-e7d1ae539c66@5794.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Niedzielski
+DTEND:20241122T134500Z
+LOCATION:Paw.F 516
+DTSTART:20241122T121500Z
+SUMMARY:Zarządzanie rozwojem przedsiębiorstwa logistycznego (konwersatorium)
+UID:6842f920-f87f-4bbf-9860-44bc83f3eb80@6842.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Szymańska
+DTEND:20250121T163000Z
+LOCATION:L Paw.A 401
+DTSTART:20250121T154500Z
+SUMMARY:Logistyczne aspekty koncepcji Smart City (konwersatorium)
+UID:0c23c762-8bf1-4a06-b57f-ec8cf2d8e32b@0c23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Hamerska
+DTEND:20241025T110000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241025T093000Z
+SUMMARY:Uczenie maszynowe w logistyce (laboratorium do wyboru)
+UID:47586c78-7077-416b-be4a-c5f20ba7b33d@4758.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20241213T101500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241213T084500Z
+SUMMARY:Wprowadzenie do metod analiz logistycznych (konwersatorium)
+UID:b181e250-fbd4-40ab-b627-cb09893998a2@b181.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20241105T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241105T084500Z
+SUMMARY:Zarządzanie środowiskowe (wykład)
+UID:cc1286bd-7e0a-4c29-a558-0ab3411cfd6a@cc12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Światowiec-Szczepańska
+DTEND:20250109T134500Z
+LOCATION:Paw.C sala D
+DTSTART:20250109T121500Z
+SUMMARY:Globalizacja procesów logistycznych (wykład)
+UID:1b7e43fa-a751-4a54-85b0-3705da50fd85@1b7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20241206T083000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241206T070000Z
+SUMMARY:Logistyczny projekt badawczy (konwersatorium)
+UID:8f80a2dc-e265-4835-b547-f53baa8cebc0@8f80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20241018T091500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241018T074500Z
+SUMMARY:Wprowadzenie do metod analiz logistycznych (konwersatorium)
+UID:1afafe83-452e-4054-ae23-788a53da56f1@1afa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Światowiec-Szczepańska
+DTEND:20241017T124500Z
+LOCATION:Paw.C sala D
+DTSTART:20241017T111500Z
+SUMMARY:Globalizacja procesów logistycznych (wykład)
+UID:fb6193b1-480c-4b9a-a43d-b2c740c57c29@fb61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20250121T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250121T084500Z
+SUMMARY:Zarządzanie środowiskowe (wykład)
+UID:838d38bb-bc9b-4d94-9278-e7076d2cac79@838d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Brańka
+DTEND:20241126T171500Z
+LOCATION:L Paw.A 401
+DTSTART:20241126T154500Z
+SUMMARY:Logistyczne aspekty koncepcji Smart City (konwersatorium)
+UID:84703df9-61e2-4f73-abb3-4cd724e0061d@8470.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Brańka
+DTEND:20241112T171500Z
+LOCATION:L Paw.A 401
+DTSTART:20241112T154500Z
+SUMMARY:Logistyczne aspekty koncepcji Smart City (konwersatorium)
+UID:3075b900-c74c-4828-a1c6-6713a8665b0b@3075.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20241004T073000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241004T060000Z
+SUMMARY:Logistyczny projekt badawczy (konwersatorium)
+UID:a5a05c27-baca-4274-b8f1-f8e6050367c6@a5a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Niedzielski
+DTEND:20241108T134500Z
+LOCATION:Paw.F 516
+DTSTART:20241108T121500Z
+SUMMARY:Zarządzanie rozwojem przedsiębiorstwa logistycznego (konwersatorium)
+UID:a6150f2b-3378-40c3-aa3b-8f574bcde075@a615.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Niedzielski
+DTEND:20241206T134500Z
+LOCATION:Paw.F 516
+DTSTART:20241206T121500Z
+SUMMARY:Zarządzanie rozwojem przedsiębiorstwa logistycznego (konwersatorium)
+UID:4fb492cf-6f7f-4027-b495-611c944cb171@4fb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20250115T134500Z
+LOCATION:Paw.C sala C
+DTSTART:20250115T121500Z
+SUMMARY:Zarządzanie środowiskowe (wykład)
+UID:eb5e8f7e-8d09-4ff2-b904-4ccad06a5ce4@eb5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20241209T190000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241209T173000Z
+SUMMARY:Wprowadzenie do metod analiz logistycznych (konwersatorium)
+UID:000faba6-9a36-4e31-ab57-1f77404a1a89@000f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:6b14b262-9d47-4b8c-9608-642f15d04334@6b14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:22f1a26b-7797-40ff-967d-05664c4d0d98@22f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Hamerska
+DTEND:20250124T120000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20250124T103000Z
+SUMMARY:Uczenie maszynowe w logistyce (laboratorium do wyboru)
+UID:7a26c365-f2ae-403a-9ed3-bd0d45bb8167@7a26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Światowiec-Szczepańska
+DTEND:20241107T134500Z
+LOCATION:Paw.C sala D
+DTSTART:20241107T121500Z
+SUMMARY:Globalizacja procesów logistycznych (wykład)
+UID:576c157e-68a1-4b98-a691-f9ddb504d10b@576c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karolina Orzeł
+DTEND:20250121T134500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20250121T121500Z
+SUMMARY:Transport Wewnętrzny (konwersatorium)
+UID:14781da2-307d-4aa0-9489-eff2465985c8@1478.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Niedzielski
+DTEND:20250110T134500Z
+LOCATION:Paw.F 516
+DTSTART:20250110T121500Z
+SUMMARY:Zarządzanie rozwojem przedsiębiorstwa logistycznego (konwersatorium)
+UID:6c93e656-c6b2-4f93-9790-d3c4d0046832@6c93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20250110T083000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250110T070000Z
+SUMMARY:Logistyczny projekt badawczy (konwersatorium)
+UID:8a336ba0-d6eb-4384-9241-a3bde4e92fd4@8a33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Niedzielski
+DTEND:20241011T124500Z
+LOCATION:Paw.F 516
+DTSTART:20241011T111500Z
+SUMMARY:Zarządzanie rozwojem przedsiębiorstwa logistycznego (konwersatorium)
+UID:4c9886e4-8215-4d39-997e-0f9ca04fc1ae@4c98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Brańka
+DTEND:20241210T171500Z
+LOCATION:L Paw.A 401
+DTSTART:20241210T154500Z
+SUMMARY:Logistyczne aspekty koncepcji Smart City (konwersatorium)
+UID:973b4e50-d63b-4864-abd4-e2e2c0c262ba@973b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20241025T073000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241025T060000Z
+SUMMARY:Logistyczny projekt badawczy (konwersatorium)
+UID:cad86512-f22d-49ca-a9bf-6675e491d7ba@cad8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20241210T153000Z
+LOCATION:Bud.gł. 9
+DTSTART:20241210T140000Z
+SUMMARY:Międzynarodowe Instytucje Logistyczne (konwersatorium)
+UID:781c4a24-f6f7-4ffb-bbe6-db64bd666a80@781c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20241008T091500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241008T074500Z
+SUMMARY:Zarządzanie środowiskowe (wykład)
+UID:740599bc-a206-4c0f-a093-d452228ce817@7405.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Niedzielski
+DTEND:20241004T124500Z
+LOCATION:Paw.F 516
+DTSTART:20241004T111500Z
+SUMMARY:Zarządzanie rozwojem przedsiębiorstwa logistycznego (konwersatorium)
+UID:3a44683c-dae5-4643-90ef-c48c1ac47ffe@3a44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20241018T073000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241018T060000Z
+SUMMARY:Logistyczny projekt badawczy (konwersatorium)
+UID:d1967e63-6ca7-491b-af5c-51b775ad88c3@d196.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Niedzielski
+DTEND:20250124T134500Z
+LOCATION:Paw.F 516
+DTSTART:20250124T121500Z
+SUMMARY:Zarządzanie rozwojem przedsiębiorstwa logistycznego (konwersatorium)
+UID:f5fdfce2-14a4-4fce-88da-a30383c1805f@f5fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20241210T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241210T084500Z
+SUMMARY:Zarządzanie środowiskowe (wykład)
+UID:9474831d-e189-491a-ae24-0c0a98cccf17@9474.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20250107T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250107T084500Z
+SUMMARY:Zarządzanie środowiskowe (wykład)
+UID:2905e797-db37-4699-af2f-368cc07f5b23@2905.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,388 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Satora
+DTEND:20241221T143000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241221T121500Z
+SUMMARY:Infrastruktura logistyczna w transporcie (konwersatorium)
+UID:028cb804-9ab1-4f05-8f02-712d7137501f@028c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Satora
+DTEND:20250124T170000Z
+LOCATION:Paw.F 104
+DTSTART:20250124T144500Z
+SUMMARY:Infrastruktura logistyczna w transporcie (konwersatorium)
+UID:f3e26cba-b264-4809-b31f-40dd28fbacea@f3e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Łukasz Gola
+DTEND:20241221T091500Z
+LOCATION:Bibl. 443
+DTSTART:20241221T070000Z
+SUMMARY:Systemy montażowe i transportu bliskiego (ćwiczenia)
+UID:5ec41481-9961-4b74-bab4-49a64663aa0e@5ec4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Satora
+DTEND:20241130T114500Z
+LOCATION:Paw.U sala M
+DTSTART:20241130T093000Z
+SUMMARY:Infrastruktura logistyczna w transporcie (konwersatorium)
+UID:9ac44408-9f94-4671-a1fe-218cd9fbfaa5@9ac4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Artur Budzyński
+DTEND:20241117T143000Z
+LOCATION:Paw.F 614
+DTSTART:20241117T121500Z
+SUMMARY:Technika i technologia przewozów (konwersatorium)
+UID:1b487566-3b6c-4b04-88b2-0c35ad6a2780@1b48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Łukasz Gola
+DTEND:20250111T091500Z
+LOCATION:Paw.U sala O
+DTSTART:20250111T070000Z
+SUMMARY:Systemy montażowe i transportu bliskiego (ćwiczenia)
+UID:7cf154f0-2ece-447e-8f1e-57ca210e43e6@7cf1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20250118T164500Z
+LOCATION:Sienk. 5 pr. spoż. 2
+DTSTART:20250118T121500Z
+SUMMARY:Towaroznawstwo żywności (laboratorium)
+UID:6b1b6e32-a60e-4d38-a4c1-697bd6fdbf00@6b1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Łukasz Gola
+DTEND:20241123T143000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241123T121500Z
+SUMMARY:Techniczne środki transportu (konwersatorium)
+UID:5c0ba9f4-2691-4c16-987e-eaccbc295bd4@5c0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Łukasz Gola
+DTEND:20241026T104500Z
+LOCATION:link do zajęć
+DTSTART:20241026T083000Z
+SUMMARY:Systemy montażowe i transportu bliskiego (wykład)
+UID:87da0dd7-9966-4c7d-96df-ff9b08b8e895@87da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241115T194500Z
+LOCATION:link do zajęć
+DTSTART:20241115T173000Z
+SUMMARY:Towaroznawstwo żywności (wykład)
+UID:a6f5a4c6-2012-4f06-8c0d-963b98ee8d42@a6f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241129T170000Z
+LOCATION:link do zajęć
+DTSTART:20241129T144500Z
+SUMMARY:Towaroznawstwo żywności (wykład)
+UID:e0b5e22b-f69c-4bce-8830-c80ff6141e0c@e0b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20250125T184500Z
+LOCATION:Sienk. 5 pr. spoż. 2
+DTSTART:20250125T154500Z
+SUMMARY:Towaroznawstwo żywności (laboratorium)
+UID:8c96444a-12b1-4b67-bd45-f7e1db97ddd2@8c96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20241124T091500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241124T070000Z
+SUMMARY:Podstawy konstrukcji maszyn (ćwiczenia)
+UID:e852e965-30db-4366-bfe8-e6cd846a2c8f@e852.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20241025T184500Z
+LOCATION:link do zajęć
+DTSTART:20241025T163000Z
+SUMMARY:Podstawy konstrukcji maszyn (wykład)
+UID:583d4dc0-e2d8-4924-938c-8d65b81dab07@583d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Satora
+DTEND:20241207T143000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241207T121500Z
+SUMMARY:Infrastruktura logistyczna w transporcie (konwersatorium)
+UID:5345f853-f268-4122-9078-157e7318dcd6@5345.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Artur Budzyński
+DTEND:20241214T114500Z
+LOCATION:Bud.gł. 8
+DTSTART:20241214T093000Z
+SUMMARY:Technika i technologia przewozów (konwersatorium)
+UID:6074b1e8-77dc-4cd8-b50b-fcd8c1ea4b88@6074.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20250119T113000Z
+LOCATION:Sienk. 5 pr. spoż. 2
+DTSTART:20250119T070000Z
+SUMMARY:Towaroznawstwo żywności (laboratorium)
+UID:7177017f-19e4-47b4-aa37-70447fd36908@7177.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Łukasz Gola
+DTEND:20241207T091500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241207T070000Z
+SUMMARY:Systemy montażowe i transportu bliskiego (ćwiczenia)
+UID:910abed7-9f7b-4152-98e8-a04465d59ee6@910a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Łukasz Gola
+DTEND:20241012T104500Z
+LOCATION:link do zajęć
+DTSTART:20241012T083000Z
+SUMMARY:Systemy montażowe i transportu bliskiego (wykład)
+UID:42ef78b6-7a96-4254-a60e-7ad8a0c9ff4a@42ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Łukasz Gola
+DTEND:20241116T114500Z
+LOCATION:Paw.F 717
+DTSTART:20241116T093000Z
+SUMMARY:Techniczne środki transportu (konwersatorium)
+UID:87895dec-0036-423d-9ed0-24847546adc7@8789.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241026T174500Z
+LOCATION:Sienk. 5 pr. spoż. 2
+DTSTART:20241026T144500Z
+SUMMARY:Towaroznawstwo żywności (laboratorium)
+UID:274df537-5188-4a59-b2d6-9ad5d617e323@274d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Łukasz Gola
+DTEND:20250125T091500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250125T070000Z
+SUMMARY:Systemy montażowe i transportu bliskiego (ćwiczenia)
+UID:2cdd9d73-f46c-4334-a09d-695047f1d283@2cdd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20241220T170000Z
+LOCATION:Paw.F 515
+DTSTART:20241220T144500Z
+SUMMARY:Podstawy konstrukcji maszyn (ćwiczenia)
+UID:05946b83-7852-4323-9310-0a4f437f89e7@0594.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20250112T143000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250112T121500Z
+SUMMARY:Podstawy konstrukcji maszyn (ćwiczenia)
+UID:244b8278-9f04-4ef9-b03a-92bde98b9f15@244b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Łukasz Gola
+DTEND:20250111T143000Z
+LOCATION:Paw.S sala 3
+DTSTART:20250111T121500Z
+SUMMARY:Techniczne środki transportu (konwersatorium)
+UID:44de1487-a297-4f40-9ff3-fb35f60350d9@44de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Łukasz Gola
+DTEND:20241116T091500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241116T070000Z
+SUMMARY:Systemy montażowe i transportu bliskiego (ćwiczenia)
+UID:dd33ed92-25c7-4fba-82ed-8d080bcb8ec1@dd33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Łukasz Gola
+DTEND:20241221T114500Z
+LOCATION:L Paw.A 401
+DTSTART:20241221T093000Z
+SUMMARY:Techniczne środki transportu (konwersatorium)
+UID:5e8f37fa-27b6-4c68-ace7-eefe28cedb66@5e8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Artur Budzyński
+DTEND:20241130T091500Z
+LOCATION:Paw.F 416
+DTSTART:20241130T070000Z
+SUMMARY:Technika i technologia przewozów (konwersatorium)
+UID:0a1bf9fa-b19f-4746-940d-774da392b5df@0a1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Artur Budzyński
+DTEND:20241208T143000Z
+LOCATION:Paw.F 616
+DTSTART:20241208T121500Z
+SUMMARY:Technika i technologia przewozów (konwersatorium)
+UID:f4ac6d0f-4068-4a07-9149-9915bfb09fe8@f4ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241013T133000Z
+LOCATION:Sienk. 5 pr. spoż. 2
+DTSTART:20241013T111500Z
+SUMMARY:Towaroznawstwo żywności (laboratorium)
+UID:01b4e839-dc5b-4261-8472-53dd8754f23d@01b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Łukasz Gola
+DTEND:20241025T160000Z
+LOCATION:link do zajęć
+DTSTART:20241025T134500Z
+SUMMARY:Systemy montażowe i transportu bliskiego (wykład)
+UID:be2e5eea-b491-4fd1-97eb-9838f5bca619@be2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20241115T170000Z
+LOCATION:link do zajęć
+DTSTART:20241115T144500Z
+SUMMARY:Podstawy konstrukcji maszyn (wykład)
+UID:c0c18282-1d5a-468b-b477-1fbc367d93cc@c0c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Łukasz Gola
+DTEND:20241207T114500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241207T093000Z
+SUMMARY:Techniczne środki transportu (konwersatorium)
+UID:b83b7582-9ccb-40ce-8ce3-c2a17da3a5a0@b83b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Łukasz Gola
+DTEND:20250125T114500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250125T093000Z
+SUMMARY:Techniczne środki transportu (konwersatorium)
+UID:883b4952-a725-48a2-b077-e6735a55e2fc@883b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20241206T170000Z
+LOCATION:Paw.F 416
+DTSTART:20241206T144500Z
+SUMMARY:Podstawy konstrukcji maszyn (ćwiczenia)
+UID:741765fa-17ab-4a2f-820c-267eeb043948@7417.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Artur Budzyński
+DTEND:20250126T143000Z
+LOCATION:Paw.F 416
+DTSTART:20250126T121500Z
+SUMMARY:Technika i technologia przewozów (konwersatorium)
+UID:ecf1d257-e4c3-4061-86c9-0fbe092962f9@ecf1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Łukasz Gola
+DTEND:20241123T114500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241123T093000Z
+SUMMARY:Systemy montażowe i transportu bliskiego (ćwiczenia)
+UID:158ba7ad-5270-4a8e-ae00-e3a01acf2c51@158b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241026T081500Z
+LOCATION:link do zajęć
+DTSTART:20241026T060000Z
+SUMMARY:Towaroznawstwo żywności (wykład)
+UID:0656363d-a6cd-49f7-9f31-a0be93968770@0656.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241214T184500Z
+LOCATION:Sienk. 5 pr. spoż. 2
+DTSTART:20241214T154500Z
+SUMMARY:Towaroznawstwo żywności (laboratorium)
+UID:fe4b0f0f-4225-47f4-ac25-5684a2517916@fe4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Artur Budzyński
+DTEND:20241123T091500Z
+LOCATION:Paw.F 614
+DTSTART:20241123T070000Z
+SUMMARY:Technika i technologia przewozów (konwersatorium)
+UID:0b463e91-ac41-4234-baea-f9575d0bb24c@0b46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20241201T143000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241201T121500Z
+SUMMARY:Podstawy konstrukcji maszyn (ćwiczenia)
+UID:02e70b74-5ecd-4d25-83e4-23a4aff5351b@02e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Satora
+DTEND:20241214T091500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241214T070000Z
+SUMMARY:Infrastruktura logistyczna w transporcie (konwersatorium)
+UID:d4beeb03-4063-4bba-9da4-76818ca47cc6@d4be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Artur Budzyński
+DTEND:20241222T143000Z
+LOCATION:Paw.F 415
+DTSTART:20241222T121500Z
+SUMMARY:Technika i technologia przewozów (konwersatorium)
+UID:ed3f0d2d-b3bf-4d9f-b5b4-868a00f46237@ed3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20241215T143000Z
+LOCATION:Paw.F 104
+DTSTART:20241215T121500Z
+SUMMARY:Podstawy konstrukcji maszyn (ćwiczenia)
+UID:46548473-93a6-4989-be76-2c8c4f6ef07a@4654.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Artur Budzyński
+DTEND:20250111T114500Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20250111T093000Z
+SUMMARY:Technika i technologia przewozów (konwersatorium)
+UID:5921d76e-5916-4515-8400-792514e925a9@5921.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Satora
+DTEND:20250126T091500Z
+LOCATION:Paw.F 107
+DTSTART:20250126T070000Z
+SUMMARY:Infrastruktura logistyczna w transporcie (konwersatorium)
+UID:60baa04c-08b4-465d-9b0e-d556e336a273@60ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Artur Budzyński
+DTEND:20241027T143000Z
+LOCATION:Paw.F 415
+DTSTART:20241027T121500Z
+SUMMARY:Technika i technologia przewozów (konwersatorium)
+UID:8a9f0b2f-fb0e-43af-8dfe-a8e0e9dddc08@8a9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20241011T184500Z
+LOCATION:link do zajęć
+DTSTART:20241011T163000Z
+SUMMARY:Podstawy konstrukcji maszyn (wykład)
+UID:3c9d3f08-0cbb-4b55-803f-a52e711b0192@3c9d.org
+END:VEVENT
+END:VCALENDAR

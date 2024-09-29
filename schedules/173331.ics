@@ -1,0 +1,786 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20241007T090000Z
+LOCATION:link do zajęć
+DTSTART:20241007T064500Z
+SUMMARY:Odnawialne źródła energii  w planowaniu przestrzennym (wykład do wyboru)
+UID:7d578e42-fb72-481b-8708-ac732c30207c@7d57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20250123T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20250123T093000Z
+SUMMARY:Polityka regionalna (ćwiczenia)
+UID:a0798252-ecb9-4291-8a18-99afe0226aab@a079.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20241021T090000Z
+LOCATION:link do zajęć
+DTSTART:20241021T064500Z
+SUMMARY:Odnawialne źródła energii  w planowaniu przestrzennym (wykład do wyboru)
+UID:567a9f6d-e827-461d-b609-7393f372482c@567a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241219T171500Z
+LOCATION:link do zajęć
+DTSTART:20241219T154500Z
+SUMMARY:Urban public space (wykład do wyboru)
+UID:284649df-5f71-4763-975f-efe69b274424@2846.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241031T171500Z
+LOCATION:link do zajęć
+DTSTART:20241031T154500Z
+SUMMARY:Urban public space (wykład do wyboru)
+UID:cf1a517f-b9fd-4b33-96a4-964650a6bc0b@cf1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Ilba
+DTEND:20241010T073000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241010T060000Z
+SUMMARY:Analiza danych przestrzennych (Projekt)
+UID:43d874fb-0166-420f-bc70-4100eb993438@43d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Agnieszka Włoch-Szymla
+DTEND:20241113T100000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241113T070000Z
+SUMMARY:Urban public space (Projekt)
+UID:6dbf761d-fdc0-44f5-8a48-774e2d2902e0@6dbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241219T101500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241219T084500Z
+SUMMARY:Urban public space (konwersatorium do wyboru)
+UID:38ede203-28b5-406e-bd13-9e22f639992a@38ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241003T180000Z
+LOCATION:link do zajęć
+DTSTART:20241003T163000Z
+SUMMARY:Polityka regionalna (wykład)
+UID:2633c436-cef3-40cb-b0eb-62c87e1d5d53@2633.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20241031T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20241031T103000Z
+SUMMARY:Marketing terytorialny (ćwiczenia)
+UID:bc614e44-4e2b-4afb-9a93-290e27b23bde@bc61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20250123T190000Z
+LOCATION:link do zajęć
+DTSTART:20250123T173000Z
+SUMMARY:Polityka regionalna (wykład)
+UID:4092be1e-dfb7-4ac9-8c24-f1a674517c47@4092.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20241028T100000Z
+LOCATION:link do zajęć
+DTSTART:20241028T074500Z
+SUMMARY:Odnawialne źródła energii  w planowaniu przestrzennym (wykład do wyboru)
+UID:29e303ff-8f3a-410a-b59e-22da77e0d646@29e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241024T091500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241024T074500Z
+SUMMARY:Urban public space (konwersatorium do wyboru)
+UID:35324296-29f0-43fd-a6e0-9b9254f6cc2b@3532.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Ilba
+DTEND:20241121T083000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241121T070000Z
+SUMMARY:Analiza danych przestrzennych (Projekt)
+UID:50fc53e7-fc50-45f6-88f9-b4b1600f9917@50fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241121T171500Z
+LOCATION:link do zajęć
+DTSTART:20241121T154500Z
+SUMMARY:Urban public space (wykład do wyboru)
+UID:23717daf-3bd6-4d58-8b80-833a312265f2@2371.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20250109T074500Z
+LOCATION:Paw.B 151
+DTSTART:20250109T070000Z
+SUMMARY:Marketing terytorialny (ćwiczenia)
+UID:7f6797bb-4fff-43d8-af3a-8a862a062f98@7f67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20250109T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20250109T103000Z
+SUMMARY:Marketing terytorialny (ćwiczenia)
+UID:298803c3-38f7-40cf-8b12-fd61ce2df3ca@2988.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241017T180000Z
+LOCATION:link do zajęć
+DTSTART:20241017T163000Z
+SUMMARY:Polityka regionalna (wykład)
+UID:b6496f8e-1f39-4505-bb77-77c4f8680f17@b649.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241114T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241114T084500Z
+SUMMARY:Polityka regionalna (ćwiczenia)
+UID:904e2eb9-6a65-4a32-92a8-b83f1152029c@904e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20250109T171500Z
+LOCATION:link do zajęć
+DTSTART:20250109T154500Z
+SUMMARY:Urban public space (wykład do wyboru)
+UID:27cbbd12-9c6f-4e64-b855-df03d1ca1d18@27cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241031T190000Z
+LOCATION:link do zajęć
+DTSTART:20241031T173000Z
+SUMMARY:Polityka regionalna (wykład)
+UID:8ae06bb2-2d04-47c5-b624-1c94554b50d1@8ae0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:c286dfd4-d2a8-45e8-8835-a276b59f5601@c286.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20250116T101500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20250116T084500Z
+SUMMARY:Urban public space (konwersatorium do wyboru)
+UID:e7f58337-42b1-43ab-8b04-d38da062c2d3@e7f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20241202T100000Z
+LOCATION:link do zajęć
+DTSTART:20241202T074500Z
+SUMMARY:Odnawialne źródła energii  w planowaniu przestrzennym (wykład do wyboru)
+UID:6e548da7-cdad-4fc9-a7cc-204fa6597462@6e54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Ilba
+DTEND:20241219T083000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241219T070000Z
+SUMMARY:Analiza danych przestrzennych (Projekt)
+UID:2b695668-d42e-4aa1-95dc-45df28321677@2b69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241107T101500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241107T084500Z
+SUMMARY:Urban public space (konwersatorium do wyboru)
+UID:e800a0e2-c8e3-4daf-a632-18e949623dc2@e800.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241017T091500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241017T074500Z
+SUMMARY:Polityka regionalna (ćwiczenia)
+UID:e0d1a683-03ef-418f-9171-5200442c1cd5@e0d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241017T161500Z
+LOCATION:link do zajęć
+DTSTART:20241017T144500Z
+SUMMARY:Urban public space (wykład do wyboru)
+UID:9b972cbc-65e8-4dd8-9beb-b2ae588a4342@9b97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20241104T100000Z
+LOCATION:link do zajęć
+DTSTART:20241104T074500Z
+SUMMARY:Odnawialne źródła energii  w planowaniu przestrzennym (wykład do wyboru)
+UID:51e19150-c905-426f-987a-334f758d45e7@51e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241128T190000Z
+LOCATION:link do zajęć
+DTSTART:20241128T173000Z
+SUMMARY:Polityka regionalna (wykład)
+UID:371c62b6-c3e2-400c-952d-d3f68f5cf022@371c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20241014T090000Z
+LOCATION:link do zajęć
+DTSTART:20241014T064500Z
+SUMMARY:Odnawialne źródła energii  w planowaniu przestrzennym (wykład do wyboru)
+UID:bdf922ab-370d-46d8-9488-b8948e73d077@bdf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241205T101500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241205T084500Z
+SUMMARY:Urban public space (konwersatorium do wyboru)
+UID:8258a312-010e-47f4-b9ab-22527ce95112@8258.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241114T171500Z
+LOCATION:link do zajęć
+DTSTART:20241114T154500Z
+SUMMARY:Urban public space (wykład do wyboru)
+UID:634f82b5-af5a-452d-8fae-5ed72fbf89ac@634f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241212T190000Z
+LOCATION:link do zajęć
+DTSTART:20241212T173000Z
+SUMMARY:Polityka regionalna (wykład)
+UID:b5048022-2b09-4afb-8b58-01a8970f840a@b504.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Agnieszka Włoch-Szymla
+DTEND:20241120T100000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241120T070000Z
+SUMMARY:Urban public space (Projekt)
+UID:2b3ae20b-8383-4319-8ac2-51d7fbe913db@2b3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Ilba
+DTEND:20250109T083000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20250109T074500Z
+SUMMARY:Analiza danych przestrzennych (Projekt)
+UID:c6cae606-b080-4543-ba54-2e710101a25e@c6ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241205T190000Z
+LOCATION:link do zajęć
+DTSTART:20241205T173000Z
+SUMMARY:Polityka regionalna (wykład)
+UID:8354c5ab-6ac0-4fec-91c0-6ba5d774110a@8354.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241003T161500Z
+LOCATION:link do zajęć
+DTSTART:20241003T144500Z
+SUMMARY:Urban public space (wykład do wyboru)
+UID:af9f16ba-f8cb-45bc-bab7-ac5669d12677@af9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20250123T171500Z
+LOCATION:link do zajęć
+DTSTART:20250123T154500Z
+SUMMARY:Urban public space (wykład do wyboru)
+UID:719a4918-23ff-48a5-82b2-6fb1d8c18e42@719a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20241021T110000Z
+LOCATION:link do zajęć
+DTSTART:20241021T093000Z
+SUMMARY:Marketing terytorialny (wykład)
+UID:9410adad-e94e-4fca-9a73-42f07f11ee43@9410.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241128T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241128T084500Z
+SUMMARY:Polityka regionalna (ćwiczenia)
+UID:e9f3efe6-3816-41c0-821c-e107b8b5a9b8@e9f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241114T190000Z
+LOCATION:link do zajęć
+DTSTART:20241114T173000Z
+SUMMARY:Polityka regionalna (wykład)
+UID:1005f5c7-19ec-4ce9-af6f-09efd9e5147e@1005.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20241209T100000Z
+LOCATION:link do zajęć
+DTSTART:20241209T074500Z
+SUMMARY:Odnawialne źródła energii  w planowaniu przestrzennym (wykład do wyboru)
+UID:ea5da226-cfe8-4219-8146-7ce0363a13c0@ea5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20250114T113000Z
+LOCATION:.
+DTSTART:20250114T074500Z
+SUMMARY:Marketing terytorialny (Zajęcia terenowe)
+UID:cd8e49b1-2a94-46ac-831e-a9dff6abe3f7@cd8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20241017T110000Z
+LOCATION:Bud.gł. 7
+DTSTART:20241017T093000Z
+SUMMARY:Marketing terytorialny (ćwiczenia)
+UID:bba60ba2-b63a-4482-8fef-7e5f68054680@bba6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Agnieszka Włoch-Szymla
+DTEND:20241023T090000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241023T060000Z
+SUMMARY:Urban public space (Projekt)
+UID:ae1a4393-8109-4768-81ea-0579c4a271f2@ae1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241010T161500Z
+LOCATION:link do zajęć
+DTSTART:20241010T144500Z
+SUMMARY:Urban public space (wykład do wyboru)
+UID:d3a0c7d6-6706-4abe-8c32-f2aac50b6791@d3a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241003T091500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241003T074500Z
+SUMMARY:Polityka regionalna (ćwiczenia)
+UID:c64f8b8f-a585-412b-8892-7d4c9ac3d755@c64f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Agnieszka Włoch-Szymla
+DTEND:20241204T100000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241204T070000Z
+SUMMARY:Urban public space (Projekt)
+UID:5111955e-9a46-4cdd-95db-24b32f054b6e@5111.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20250109T190000Z
+LOCATION:link do zajęć
+DTSTART:20250109T173000Z
+SUMMARY:Polityka regionalna (wykład)
+UID:31ff26a7-8f68-44e3-a9de-d104e3f254f5@31ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241031T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241031T084500Z
+SUMMARY:Polityka regionalna (ćwiczenia)
+UID:c8eb7f57-5d1a-44e0-ae69-7523c61a5dea@c8eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20250116T190000Z
+LOCATION:link do zajęć
+DTSTART:20250116T173000Z
+SUMMARY:Polityka regionalna (wykład)
+UID:0e983964-f91e-4c67-8c9b-62d90e617eab@0e98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20241104T120000Z
+LOCATION:link do zajęć
+DTSTART:20241104T103000Z
+SUMMARY:Marketing terytorialny (wykład)
+UID:e4c7a9ee-9efe-4f59-b41f-f6292240a465@e4c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20250109T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20250109T084500Z
+SUMMARY:Polityka regionalna (ćwiczenia)
+UID:b78e595a-70c3-4a4a-9545-c3fa80cb7c57@b78e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Ilba
+DTEND:20241114T083000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241114T070000Z
+SUMMARY:Analiza danych przestrzennych (Projekt)
+UID:df48f023-e82e-4bb4-8b1f-f55a53ff3eac@df48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Ilba
+DTEND:20241017T073000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241017T060000Z
+SUMMARY:Analiza danych przestrzennych (Projekt)
+UID:07895fa9-9728-4108-9149-961872f6a9db@0789.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241010T091500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241010T074500Z
+SUMMARY:Urban public space (konwersatorium do wyboru)
+UID:b99d781d-d767-4e54-91ee-4943e6f5c03c@b99d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Ilba
+DTEND:20241107T083000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241107T070000Z
+SUMMARY:Analiza danych przestrzennych (Projekt)
+UID:a01ce12b-5ba8-4844-9110-f90293ad3359@a01c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20250123T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20250123T103000Z
+SUMMARY:Marketing terytorialny (ćwiczenia)
+UID:0d105052-0a5e-4367-9e1f-eba87e81b6ed@0d10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20250123T093000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20250123T084500Z
+SUMMARY:Urban public space (konwersatorium do wyboru)
+UID:85dfc63d-ac69-4ed8-97ba-eb5796fe85a6@85df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Agnieszka Włoch-Szymla
+DTEND:20241009T091500Z
+LOCATION:Paw.C sala F
+DTSTART:20241009T074500Z
+SUMMARY:Urban public space (Projekt)
+UID:7ee8186a-ad5f-430b-ad0e-8cb02b1adfdc@7ee8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241128T171500Z
+LOCATION:link do zajęć
+DTSTART:20241128T154500Z
+SUMMARY:Urban public space (wykład do wyboru)
+UID:3a97b3c2-d366-4ba3-8524-e0a1e4a7cd1c@3a97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Agnieszka Włoch-Szymla
+DTEND:20241127T100000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241127T070000Z
+SUMMARY:Urban public space (Projekt)
+UID:9129cd5c-2935-428a-8a26-b41d9e6d8516@9129.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241212T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241212T084500Z
+SUMMARY:Polityka regionalna (ćwiczenia)
+UID:5ea2e34e-eec6-4c6c-840a-0534a362f024@5ea2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20241128T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20241128T103000Z
+SUMMARY:Marketing terytorialny (ćwiczenia)
+UID:fa0b9c72-37a1-4bf4-8c6d-2cbabd6f7fa4@fa0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20250113T120000Z
+LOCATION:link do zajęć
+DTSTART:20250113T103000Z
+SUMMARY:Marketing terytorialny (wykład)
+UID:276ad82c-9106-4c99-bbee-ff6f31bbbdc0@276a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20250116T171500Z
+LOCATION:link do zajęć
+DTSTART:20250116T154500Z
+SUMMARY:Urban public space (wykład do wyboru)
+UID:d65536e4-e148-456a-a7c7-1758b34708e0@d655.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241024T161500Z
+LOCATION:link do zajęć
+DTSTART:20241024T144500Z
+SUMMARY:Urban public space (wykład do wyboru)
+UID:40db7cf4-53e7-4db0-affe-a74faf5c1176@40db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20241118T120000Z
+LOCATION:link do zajęć
+DTSTART:20241118T103000Z
+SUMMARY:Marketing terytorialny (wykład)
+UID:fe9ac48f-94c4-4c66-84e8-f591baca8ce3@fe9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Ilba
+DTEND:20241212T083000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241212T070000Z
+SUMMARY:Analiza danych przestrzennych (Projekt)
+UID:37d70d6d-dedc-4749-a49a-1d95b899178b@37d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Ilba
+DTEND:20241031T083000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241031T070000Z
+SUMMARY:Analiza danych przestrzennych (Projekt)
+UID:5e1020b6-7081-4cac-83c7-9781d6f4ebcd@5e10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Agnieszka Włoch-Szymla
+DTEND:20241030T100000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241030T070000Z
+SUMMARY:Urban public space (Projekt)
+UID:44fa8bae-3595-451b-9118-5b9687727c98@44fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20241212T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20241212T103000Z
+SUMMARY:Marketing terytorialny (ćwiczenia)
+UID:dc5bfe48-6a48-4658-8117-4f1b4854a859@dc5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20241118T100000Z
+LOCATION:link do zajęć
+DTSTART:20241118T074500Z
+SUMMARY:Odnawialne źródła energii  w planowaniu przestrzennym (wykład do wyboru)
+UID:7343c403-3ed6-49b0-9712-b78b65117dea@7343.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20241114T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20241114T103000Z
+SUMMARY:Marketing terytorialny (ćwiczenia)
+UID:6de4aed0-3a4b-4235-9f5e-8f8f96a46a32@6de4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241107T171500Z
+LOCATION:link do zajęć
+DTSTART:20241107T154500Z
+SUMMARY:Urban public space (wykład do wyboru)
+UID:4b99aa11-1b4d-404f-8325-b2c0c5b8df55@4b99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:c93a1e6e-252e-4a0f-a104-a0ef459fd6f8@c93a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241219T190000Z
+LOCATION:link do zajęć
+DTSTART:20241219T173000Z
+SUMMARY:Polityka regionalna (wykład)
+UID:1047aca8-7c5b-4887-b6a8-637d09a8e868@1047.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20241216T100000Z
+LOCATION:link do zajęć
+DTSTART:20241216T074500Z
+SUMMARY:Odnawialne źródła energii  w planowaniu przestrzennym (wykład do wyboru)
+UID:8dc21802-c62b-4421-9563-6310af130a6b@8dc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Ilba
+DTEND:20241024T073000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241024T060000Z
+SUMMARY:Analiza danych przestrzennych (Projekt)
+UID:f8c9fbef-918c-4940-a491-73bf2d6d5939@f8c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Agnieszka Włoch-Szymla
+DTEND:20241119T141500Z
+LOCATION:.
+DTSTART:20241119T103000Z
+SUMMARY:Urban public space (Zajęcia terenowe)
+UID:ff1bd825-2be5-48f0-9066-c739077433b2@ff1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Ilba
+DTEND:20241128T083000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241128T070000Z
+SUMMARY:Analiza danych przestrzennych (Projekt)
+UID:f716c648-7e3c-44e5-aa13-7c279680abbb@f716.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20241202T120000Z
+LOCATION:link do zajęć
+DTSTART:20241202T103000Z
+SUMMARY:Marketing terytorialny (wykład)
+UID:9197266f-da70-4686-b08e-845df2c5ace9@9197.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Agnieszka Włoch-Szymla
+DTEND:20241105T141500Z
+LOCATION:.
+DTSTART:20241105T103000Z
+SUMMARY:Urban public space (Zajęcia terenowe)
+UID:fb3f4e4f-56b9-43bd-a471-cba54cf41d6c@fb3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241121T190000Z
+LOCATION:link do zajęć
+DTSTART:20241121T173000Z
+SUMMARY:Polityka regionalna (wykład)
+UID:f02ca061-4ab4-47b3-bc60-a8ae43fb0a67@f02c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20241216T120000Z
+LOCATION:link do zajęć
+DTSTART:20241216T103000Z
+SUMMARY:Marketing terytorialny (wykład)
+UID:33fe0194-b2dd-4596-8c7f-cdf24ce93117@33fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241024T180000Z
+LOCATION:link do zajęć
+DTSTART:20241024T163000Z
+SUMMARY:Polityka regionalna (wykład)
+UID:bca30ee7-16af-4c82-ad79-a8d82b93f54c@bca3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241212T171500Z
+LOCATION:link do zajęć
+DTSTART:20241212T154500Z
+SUMMARY:Urban public space (wykład do wyboru)
+UID:7cd0a0d3-5d82-4c7c-b6b3-d1e22243c422@7cd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Ilba
+DTEND:20241003T073000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241003T060000Z
+SUMMARY:Analiza danych przestrzennych (Projekt)
+UID:c665a27a-4182-4706-bbf5-b75141c5e62c@c665.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241205T171500Z
+LOCATION:link do zajęć
+DTSTART:20241205T154500Z
+SUMMARY:Urban public space (wykład do wyboru)
+UID:969b4ec0-51ac-428f-a6d7-e088b10696ae@969b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20241007T114500Z
+LOCATION:link do zajęć
+DTSTART:20241007T093000Z
+SUMMARY:Marketing terytorialny (wykład)
+UID:e7b785e4-562b-488c-b1a2-8c6182c9b49c@e7b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20241125T100000Z
+LOCATION:link do zajęć
+DTSTART:20241125T074500Z
+SUMMARY:Odnawialne źródła energii  w planowaniu przestrzennym (wykład do wyboru)
+UID:f379de49-d38f-4017-962c-edcb40b5e0e3@f379.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Ilba
+DTEND:20241205T083000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241205T070000Z
+SUMMARY:Analiza danych przestrzennych (Projekt)
+UID:d350b00e-c814-4564-8fee-bc5f7f6a4117@d350.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241107T190000Z
+LOCATION:link do zajęć
+DTSTART:20241107T173000Z
+SUMMARY:Polityka regionalna (wykład)
+UID:671bdfa3-050b-47b1-ba06-e807c8ed4c77@671b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Agnieszka Włoch-Szymla
+DTEND:20241106T100000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241106T070000Z
+SUMMARY:Urban public space (Projekt)
+UID:4ba2e481-75fe-42d2-841f-34ee8dc6e3ca@4ba2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241121T101500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241121T084500Z
+SUMMARY:Urban public space (konwersatorium do wyboru)
+UID:c324226e-af9c-4168-adc8-de8cd780b8dd@c324.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Agnieszka Włoch-Szymla
+DTEND:20241022T131500Z
+LOCATION:.
+DTSTART:20241022T093000Z
+SUMMARY:Urban public space (Zajęcia terenowe)
+UID:9e5419ab-d4df-4f1d-9da0-60554bdf754d@9e54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241010T180000Z
+LOCATION:link do zajęć
+DTSTART:20241010T163000Z
+SUMMARY:Polityka regionalna (wykład)
+UID:b148458d-cb22-4fcf-9af5-ac1ac805d1cb@b148.org
+END:VEVENT
+END:VCALENDAR

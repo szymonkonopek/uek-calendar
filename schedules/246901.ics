@@ -1,0 +1,292 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20241020T081500Z
+LOCATION:link do zajęć
+DTSTART:20241020T060000Z
+SUMMARY:Doradztwo finansowe (wykład)
+UID:08bb1087-573e-4223-840b-b43914f7a831@08bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241115T194500Z
+LOCATION:link do zajęć
+DTSTART:20241115T173000Z
+SUMMARY:Audyt organizacyjny (wykład)
+UID:cf1e07c2-94d6-4c3f-938b-382cc72346c0@cf1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20250118T170000Z
+LOCATION:Bud.gł. 8
+DTSTART:20250118T144500Z
+SUMMARY:Doradztwo finansowe (ćwiczenia)
+UID:2be33ea3-5d47-4924-a62b-1afc005a4c63@2be3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Kowalski
+DTEND:20241220T194500Z
+LOCATION:link do zajęć
+DTSTART:20241220T173000Z
+SUMMARY:Ekonomia menedżerska (wykład)
+UID:546644c9-18f4-46e1-bd59-8826147eb4db@5466.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20241208T091500Z
+LOCATION:Bud.gł. 8
+DTSTART:20241208T070000Z
+SUMMARY:Finansowanie rozwoju przedsiębiorstw (ćwiczenia)
+UID:7bb9d5f0-8bfb-47c3-92ff-cf7dcfb09856@7bb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agnieszka Słomba
+DTEND:20250118T091500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250118T070000Z
+SUMMARY:Outsourcing i międzynarodowe projekty gospodarcze (ćwiczenia)
+UID:d2a05137-0a17-4ae7-8782-481cee2a548f@d2a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
+DTEND:20241220T170000Z
+LOCATION:link do zajęć
+DTSTART:20241220T144500Z
+SUMMARY:Outsourcing i międzynarodowe projekty gospodarcze (wykład)
+UID:d4e2e200-6a4e-477c-a549-444fc03a3cac@d4e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Kowalski
+DTEND:20241025T184500Z
+LOCATION:link do zajęć
+DTSTART:20241025T163000Z
+SUMMARY:Ekonomia menedżerska (wykład)
+UID:724611ad-1670-437a-8668-dea752329fd4@7246.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Kowalski
+DTEND:20250112T091500Z
+LOCATION:Bud.gł. 5
+DTSTART:20250112T070000Z
+SUMMARY:Ekonomia menedżerska (ćwiczenia)
+UID:1d589d50-73c6-47a9-a3ae-794deaef8fe6@1d58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241130T091500Z
+LOCATION:link do zajęć
+DTSTART:20241130T070000Z
+SUMMARY:Strategiczne kompetencje przedsiębiorstw (wykład)
+UID:275b3060-de99-44f3-8e77-5c5d24b41195@275b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agnieszka Słomba
+DTEND:20250118T114500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20250118T093000Z
+SUMMARY:Strategiczne kompetencje przedsiębiorstw (ćwiczenia)
+UID:3a46ef9b-cc8c-4286-a7e6-afb4512b731e@3a46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20241214T114500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241214T093000Z
+SUMMARY:Doradztwo finansowe (ćwiczenia)
+UID:bab0f749-1d39-4c2b-8c88-3a83ceaf89b9@bab0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agnieszka Słomba
+DTEND:20241201T091500Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241201T070000Z
+SUMMARY:Strategiczne kompetencje przedsiębiorstw (ćwiczenia)
+UID:180b8d48-ec6d-4df4-bd8a-49e798eac1d3@180b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wakat Kro Wakat Kro
+DTEND:20241027T114500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241027T093000Z
+SUMMARY:Audyt organizacyjny (ćwiczenia)
+UID:b6df8fc7-d4c0-41b9-9d4b-8c8db18b2aff@b6df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
+DTEND:20241025T160000Z
+LOCATION:link do zajęć
+DTSTART:20241025T134500Z
+SUMMARY:Outsourcing i międzynarodowe projekty gospodarcze (wykład)
+UID:0e287930-7d38-4e56-a8e3-c20babc233ee@0e28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241026T081500Z
+LOCATION:link do zajęć
+DTSTART:20241026T060000Z
+SUMMARY:Strategiczne kompetencje przedsiębiorstw (wykład)
+UID:3536c76d-d2a7-4b1d-8f24-928388fd26f8@3536.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20241221T143000Z
+LOCATION:link do zajęć
+DTSTART:20241221T121500Z
+SUMMARY:Finansowanie rozwoju przedsiębiorstw (wykład)
+UID:aeb4943c-cf4f-43ce-8d66-ac89548ebe59@aeb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20241130T143000Z
+LOCATION:link do zajęć
+DTSTART:20241130T121500Z
+SUMMARY:Finansowanie rozwoju przedsiębiorstw (wykład)
+UID:ad5cd9d9-ac2d-4d8f-b275-d204fa501fe4@ad5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20241116T114500Z
+LOCATION:Bud.gł. 5
+DTSTART:20241116T093000Z
+SUMMARY:Finansowanie rozwoju przedsiębiorstw (ćwiczenia)
+UID:b724fefa-70b8-4e34-9a50-8c99d9dc80c5@b724.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agnieszka Słomba
+DTEND:20241116T170000Z
+LOCATION:Paw.E sala J
+DTSTART:20241116T144500Z
+SUMMARY:Strategiczne kompetencje przedsiębiorstw (ćwiczenia)
+UID:3f723b54-dd76-42a9-8166-4f7d9d019c23@3f72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20241115T170000Z
+LOCATION:link do zajęć
+DTSTART:20241115T144500Z
+SUMMARY:Doradztwo finansowe (wykład)
+UID:8a8fe9ef-c91f-408a-b5e3-c4dbd13fd70a@8a8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20241027T091500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241027T070000Z
+SUMMARY:Finansowanie rozwoju przedsiębiorstw (ćwiczenia)
+UID:cf697fec-2c98-4e8a-908f-0906afd23fd6@cf69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241221T091500Z
+LOCATION:link do zajęć
+DTSTART:20241221T070000Z
+SUMMARY:Strategiczne kompetencje przedsiębiorstw (wykład)
+UID:25b98f26-1e64-4575-8a4a-7feb313f3348@25b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Kowalski
+DTEND:20250118T143000Z
+LOCATION:Paw.C sala F
+DTSTART:20250118T121500Z
+SUMMARY:Ekonomia menedżerska (ćwiczenia)
+UID:c490b59a-50cb-43a6-a550-b3bd229a9b59@c490.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Kowalski
+DTEND:20241129T194500Z
+LOCATION:link do zajęć
+DTSTART:20241129T173000Z
+SUMMARY:Ekonomia menedżerska (wykład)
+UID:ddda31cf-192c-4970-b5d0-c19d11f03999@ddda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wakat Kro Wakat Kro
+DTEND:20241116T143000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241116T121500Z
+SUMMARY:Audyt organizacyjny (ćwiczenia)
+UID:7c66113f-21f4-4e31-8aa9-3e4dc99b6b35@7c66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241026T104500Z
+LOCATION:link do zajęć
+DTSTART:20241026T083000Z
+SUMMARY:Audyt organizacyjny (wykład)
+UID:380ffccc-07cf-4bc8-8143-e7b5049cb444@380f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241130T114500Z
+LOCATION:link do zajęć
+DTSTART:20241130T093000Z
+SUMMARY:Audyt organizacyjny (wykład)
+UID:978c1c72-2595-427e-b3d0-7c47ab8ec92e@978c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agnieszka Słomba
+DTEND:20241201T114500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241201T093000Z
+SUMMARY:Outsourcing i międzynarodowe projekty gospodarcze (ćwiczenia)
+UID:27f67d7a-a3d1-4643-b7e1-285283cbde7d@27f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20250112T114500Z
+LOCATION:Paw.F 717
+DTSTART:20250112T093000Z
+SUMMARY:Doradztwo finansowe (ćwiczenia)
+UID:95c943fc-b98a-4ca0-b7b5-65f8dda1a64b@95c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agnieszka Słomba
+DTEND:20241116T091500Z
+LOCATION:Paw.F 516
+DTSTART:20241116T070000Z
+SUMMARY:Outsourcing i międzynarodowe projekty gospodarcze (ćwiczenia)
+UID:a70f4419-4d6a-4791-b0aa-86495ec34978@a70f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20241026T133000Z
+LOCATION:link do zajęć
+DTSTART:20241026T111500Z
+SUMMARY:Finansowanie rozwoju przedsiębiorstw (wykład)
+UID:4f18334d-4924-4fc0-a74d-2adcbbc3f29d@4f18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
+DTEND:20241129T170000Z
+LOCATION:link do zajęć
+DTSTART:20241129T144500Z
+SUMMARY:Outsourcing i międzynarodowe projekty gospodarcze (wykład)
+UID:2719fd4b-e1f9-4718-bcfb-defe0023394f@2719.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Kowalski
+DTEND:20241222T091500Z
+LOCATION:Paw.F 413
+DTSTART:20241222T070000Z
+SUMMARY:Ekonomia menedżerska (ćwiczenia)
+UID:e36ceda5-681e-43e0-8914-ad46127879b3@e36c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wakat Kro Wakat Kro
+DTEND:20241214T091500Z
+LOCATION:Bibl. 440
+DTSTART:20241214T070000Z
+SUMMARY:Audyt organizacyjny (ćwiczenia)
+UID:3fab292f-d845-42b4-b4ac-ca2c5d3a2d09@3fab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20241026T160000Z
+LOCATION:link do zajęć
+DTSTART:20241026T134500Z
+SUMMARY:Doradztwo finansowe (wykład)
+UID:b4bd771a-b7d4-4928-88c5-43f09f6e3d7d@b4bd.org
+END:VEVENT
+END:VCALENDAR

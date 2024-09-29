@@ -1,0 +1,1026 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Telega
+DTEND:20241119T083000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241119T070000Z
+SUMMARY:Projekty inwestycyjne w budownictwie (ćwiczenia)
+UID:26276f15-b4ea-4b42-9b91-ea2b0d9a2269@2627.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20241217T101500Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241217T084500Z
+SUMMARY:Wprowadzenie do Ubezpieczeń (ćwiczenia do wyboru)
+UID:778702e6-02f7-4e6c-a06b-c08955f00985@7787.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Klaudia Tomasik
+DTEND:20241127T101500Z
+LOCATION:Bibl.425
+DTSTART:20241127T084500Z
+SUMMARY:Eksploatacja nieruchomości budowlanych (ćwiczenia)
+UID:2159d820-a88d-454f-8192-cc78387390cf@2159.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20250122T130000Z
+LOCATION:Paw.F 106
+DTSTART:20250122T121500Z
+SUMMARY:Wprowadzenie do Ubezpieczeń (wykład do wyboru)
+UID:cef6dce5-afae-477a-a18c-161528f51ef2@cef6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Łach
+DTEND:20241022T110000Z
+LOCATION:Paw.F CJ 302
+DTSTART:20241022T093000Z
+SUMMARY:Wycena wartości przedsiębiorstwa (ćwiczenia do wyboru)
+UID:355abf70-9775-4e40-ae1e-b0bb6b76c595@355a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20241025T091500Z
+LOCATION:Paw.C sala D
+DTSTART:20241025T074500Z
+SUMMARY:Kosztorysowanie robót budowlanych I (wykład)
+UID:848681e9-8e55-4941-a26d-c5617470443f@8486.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20241105T101500Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241105T084500Z
+SUMMARY:Wprowadzenie do Ubezpieczeń (ćwiczenia do wyboru)
+UID:19154532-0b81-48fd-be06-3ab13a074fbe@1915.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241115T083000Z
+LOCATION:Paw.C sala D
+DTSTART:20241115T070000Z
+SUMMARY:Podstawy planowania przestrzennego (wykład)
+UID:03d28d8a-2d49-48ba-a02c-4b0696be3c4c@03d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241213T083000Z
+LOCATION:Paw.C sala D
+DTSTART:20241213T070000Z
+SUMMARY:Podstawy planowania przestrzennego (wykład)
+UID:73602bf8-82f2-4d82-b953-b3c5c898ca17@7360.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Klaudia Tomasik
+DTEND:20241211T101500Z
+LOCATION:Bibl.425
+DTSTART:20241211T084500Z
+SUMMARY:Eksploatacja nieruchomości budowlanych (ćwiczenia)
+UID:852702a4-febf-4969-9e39-f25dac6fff06@8527.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20241203T101500Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241203T084500Z
+SUMMARY:Wprowadzenie do Ubezpieczeń (ćwiczenia do wyboru)
+UID:a36e2afb-50e3-4898-928c-3d120fcbb044@a36e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Łach
+DTEND:20241001T143000Z
+LOCATION:Paw.C sala B
+DTSTART:20241001T130000Z
+SUMMARY:Wycena wartości przedsiębiorstwa (wykład do wyboru)
+UID:f8abf9e6-16d5-4d9b-8354-960dee75c196@f8ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20250124T120000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20250124T103000Z
+SUMMARY:Projekty inwestycyjne w budownictwie (wykład)
+UID:bda33e81-fefb-4814-a755-0d87d7a38c50@bda3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Telega
+DTEND:20241029T083000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241029T070000Z
+SUMMARY:Projekty inwestycyjne w budownictwie (ćwiczenia)
+UID:1067d847-bf74-4387-b961-b6b1df78ff55@1067.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241010T091500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241010T074500Z
+SUMMARY:Podstawy planowania przestrzennego (ćwiczenia)
+UID:fb3c1e45-8051-461a-baac-4c4f23f01f48@fb3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Brzezicka
+DTEND:20241122T120000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241122T103000Z
+SUMMARY:Projekty inwestycyjne w budownictwie (wykład)
+UID:d3757876-c4c5-47d3-bd76-d07af0574911@d375.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20241220T101500Z
+LOCATION:Paw.C sala D
+DTSTART:20241220T084500Z
+SUMMARY:Kosztorysowanie robót budowlanych I (wykład)
+UID:747318ac-1167-4972-aa4c-47105cb9bac7@7473.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Brzezicka
+DTEND:20250110T101500Z
+LOCATION:Paw.C sala D
+DTSTART:20250110T084500Z
+SUMMARY:Eksploatacja nieruchomości budowlanych (wykład)
+UID:edf85d31-567c-4477-bf0f-9c4e477a2a7b@edf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20241004T091500Z
+LOCATION:Paw.G 12
+DTSTART:20241004T083000Z
+SUMMARY:Kosztorysowanie robót budowlanych I (wykład)
+UID:b14de32e-e329-43e9-b7ef-ee69cbac7593@b14d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Brzezicka
+DTEND:20241115T120000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241115T103000Z
+SUMMARY:Projekty inwestycyjne w budownictwie (wykład)
+UID:daf24bf0-8bce-4fd0-8e44-98413628c8c5@daf2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20241122T101500Z
+LOCATION:Paw.C sala D
+DTSTART:20241122T084500Z
+SUMMARY:Kosztorysowanie robót budowlanych I (wykład)
+UID:6fddea27-96b2-4dd2-9023-2877236ea7fa@6fdd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Brzezicka
+DTEND:20241213T101500Z
+LOCATION:Paw.C sala D
+DTSTART:20241213T084500Z
+SUMMARY:Eksploatacja nieruchomości budowlanych (wykład)
+UID:09b389dd-a522-488e-a973-e4dda8a05a01@09b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Klaudia Tomasik
+DTEND:20250108T101500Z
+LOCATION:Bibl.425
+DTSTART:20250108T084500Z
+SUMMARY:Eksploatacja nieruchomości budowlanych (ćwiczenia)
+UID:58400ed4-2e7c-49b2-82cb-3a7b48bd86ac@5840.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20250108T153000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20250108T140000Z
+SUMMARY:Ubezpieczenia majątkowe (wykład do wyboru)
+UID:c03e9c5d-5f4d-404a-899b-5056918414f4@c03e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20250116T134500Z
+LOCATION:Bud.gł. 7
+DTSTART:20250116T121500Z
+SUMMARY:Ubezpieczenia majątkowe (ćwiczenia do wyboru)
+UID:75581426-ccb2-4b3c-b57f-0d77a14b1d87@7558.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Łach
+DTEND:20241015T143000Z
+LOCATION:Paw.C sala B
+DTSTART:20241015T130000Z
+SUMMARY:Wycena wartości przedsiębiorstwa (wykład do wyboru)
+UID:f75fb599-eaeb-4d3d-9feb-c65fedc078e4@f75f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241011T073000Z
+LOCATION:Paw.C sala D
+DTSTART:20241011T060000Z
+SUMMARY:Podstawy planowania przestrzennego (wykład)
+UID:e547c752-1a07-4080-ade5-2ad90c69ede0@e547.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Telega
+DTEND:20241008T073000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241008T060000Z
+SUMMARY:Projekty inwestycyjne w budownictwie (ćwiczenia)
+UID:c23bb4d2-15d2-46ee-94d0-3e97bc7ee9f9@c23b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20250123T144500Z
+LOCATION:Paw.F CJ 210
+DTSTART:20250123T140000Z
+SUMMARY:Podstawy planowania przestrzennego (ćwiczenia)
+UID:0b317ca3-c5d9-4d3f-b0c0-8d1787ff5b7e@0b31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Brzezicka
+DTEND:20241129T101500Z
+LOCATION:Paw.C sala D
+DTSTART:20241129T084500Z
+SUMMARY:Eksploatacja nieruchomości budowlanych (wykład)
+UID:e5e8ec0e-52c1-4cbc-91c6-ef0018d286dd@e5e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Klaudia Tomasik
+DTEND:20241016T091500Z
+LOCATION:Bibl.425
+DTSTART:20241016T074500Z
+SUMMARY:Eksploatacja nieruchomości budowlanych (ćwiczenia)
+UID:d15b0838-879f-460b-b9e4-c8ae66d2e138@d15b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Łach
+DTEND:20250107T153000Z
+LOCATION:Paw.C sala B
+DTSTART:20250107T140000Z
+SUMMARY:Wycena wartości przedsiębiorstwa (wykład do wyboru)
+UID:47d5b139-0f06-499d-9d3c-c3f96e0497f3@47d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20241030T134500Z
+LOCATION:Paw.F 106
+DTSTART:20241030T121500Z
+SUMMARY:Wprowadzenie do Ubezpieczeń (wykład do wyboru)
+UID:7222e414-178c-48a1-9ee9-ed8e927848f6@7222.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20250122T153000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20250122T140000Z
+SUMMARY:Ubezpieczenia majątkowe (wykład do wyboru)
+UID:65091693-64b9-4884-8965-151717bb5f21@6509.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20250117T120000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20250117T103000Z
+SUMMARY:Projekty inwestycyjne w budownictwie (wykład)
+UID:0707e835-83df-4d4f-92d6-3e3deda0c2a7@0707.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Klaudia Tomasik
+DTEND:20241030T101500Z
+LOCATION:Bibl.425
+DTSTART:20241030T084500Z
+SUMMARY:Eksploatacja nieruchomości budowlanych (ćwiczenia)
+UID:433e1ffb-b112-4e5f-9b84-3e9d34bfb7f9@433e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Brzezicka
+DTEND:20241108T120000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241108T103000Z
+SUMMARY:Projekty inwestycyjne w budownictwie (wykład)
+UID:f3a974d1-6a9f-49be-8626-fe262872216a@f3a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Telega
+DTEND:20241203T083000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241203T070000Z
+SUMMARY:Projekty inwestycyjne w budownictwie (ćwiczenia)
+UID:cdb699d1-49c6-4faa-bfc9-56ecf1bc386e@cdb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241113T153000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241113T140000Z
+SUMMARY:Ubezpieczenia majątkowe (wykład do wyboru)
+UID:38c5b73e-c93d-4648-b242-cb8d6d38ecb2@38c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20250110T083000Z
+LOCATION:Paw.C sala D
+DTSTART:20250110T070000Z
+SUMMARY:Podstawy planowania przestrzennego (wykład)
+UID:ab276b08-18a4-4abb-8c5b-5ea9391784c5@ab27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20241010T180000Z
+LOCATION:Paw.F 416
+DTSTART:20241010T163000Z
+SUMMARY:Ubezpieczenia majątkowe (ćwiczenia do wyboru)
+UID:17fa1a98-557b-4ef9-a31a-b16105fea074@17fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:c8123b0e-2e5d-4d9f-b360-96b75f1576a4@c812.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Telega
+DTEND:20241105T083000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241105T070000Z
+SUMMARY:Projekty inwestycyjne w budownictwie (ćwiczenia)
+UID:948b6c47-631f-4dc5-8a55-be79c6417fab@948b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Łach
+DTEND:20241119T120000Z
+LOCATION:Paw.F CJ 302
+DTSTART:20241119T103000Z
+SUMMARY:Wycena wartości przedsiębiorstwa (ćwiczenia do wyboru)
+UID:f8dcbc6a-36d0-457b-9f5d-5195142ac445@f8dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241205T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241205T084500Z
+SUMMARY:Podstawy planowania przestrzennego (ćwiczenia)
+UID:1082e44a-cb27-46d3-adef-124ad5b39309@1082.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Brzezicka
+DTEND:20241213T120000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241213T103000Z
+SUMMARY:Projekty inwestycyjne w budownictwie (wykład)
+UID:ff64a895-4fbe-4402-8f8e-165e165ffa1e@ff64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Łach
+DTEND:20241126T153000Z
+LOCATION:Paw.C sala B
+DTSTART:20241126T140000Z
+SUMMARY:Wycena wartości przedsiębiorstwa (wykład do wyboru)
+UID:ed25d008-13e2-4cce-8d28-008c5f7ac40b@ed25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20241024T124500Z
+LOCATION:Bud.gł. 7
+DTSTART:20241024T111500Z
+SUMMARY:Ubezpieczenia majątkowe (ćwiczenia do wyboru)
+UID:6a2efdb8-4067-4232-902e-5511a0d24f04@6a2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20241121T134500Z
+LOCATION:Bud.gł. 7
+DTSTART:20241121T121500Z
+SUMMARY:Ubezpieczenia majątkowe (ćwiczenia do wyboru)
+UID:1748814d-505d-462d-a52c-58b38c90f34f@1748.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Brzezicka
+DTEND:20241004T110000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241004T093000Z
+SUMMARY:Projekty inwestycyjne w budownictwie (wykład)
+UID:f550c743-0791-4283-ac01-4bb343f2b1a5@f550.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Brzezicka
+DTEND:20241206T120000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241206T103000Z
+SUMMARY:Projekty inwestycyjne w budownictwie (wykład)
+UID:fdf2c635-7b65-4f08-81a6-948673eb8ef5@fdf2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20241016T124500Z
+LOCATION:Paw.F 106
+DTSTART:20241016T111500Z
+SUMMARY:Wprowadzenie do Ubezpieczeń (wykład do wyboru)
+UID:074d9c90-8901-4a35-84ff-b24f6a327891@074d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Brzezicka
+DTEND:20250124T093000Z
+LOCATION:Paw.C sala D
+DTSTART:20250124T084500Z
+SUMMARY:Eksploatacja nieruchomości budowlanych (wykład)
+UID:e73518c5-96a3-4bdb-a941-35f94a92a340@e735.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:db2ae53b-63a3-4a13-8358-b6f8986ed8fa@db2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20250122T120000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20250122T103000Z
+SUMMARY:Kosztorysowanie robót budowlanych I (ćwiczenia)
+UID:af6042a2-76fa-4328-96e2-cf1f9bc5421a@af60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Brzezicka
+DTEND:20241018T091500Z
+LOCATION:Paw.C sala D
+DTSTART:20241018T074500Z
+SUMMARY:Eksploatacja nieruchomości budowlanych (wykład)
+UID:2603d59e-a8f6-43ef-b2ba-06f87472211b@2603.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Łach
+DTEND:20250114T120000Z
+LOCATION:Paw.F CJ 302
+DTSTART:20250114T103000Z
+SUMMARY:Wycena wartości przedsiębiorstwa (ćwiczenia do wyboru)
+UID:e4f70f02-1c10-446b-8a16-b01c67e1c5e3@e4f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Telega
+DTEND:20241015T073000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241015T060000Z
+SUMMARY:Projekty inwestycyjne w budownictwie (ćwiczenia)
+UID:7da2fa5c-830e-4466-95f8-c2aff78e8ac2@7da2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Brzezicka
+DTEND:20241115T101500Z
+LOCATION:Paw.C sala D
+DTSTART:20241115T084500Z
+SUMMARY:Eksploatacja nieruchomości budowlanych (wykład)
+UID:65473d95-c616-4185-834c-48eaeb326a46@6547.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Brzezicka
+DTEND:20241011T124500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241011T111500Z
+SUMMARY:Eksploatacja nieruchomości budowlanych (wykład)
+UID:8f2f44be-4e83-40d9-8910-d6bc0d8bbf33@8f2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20241219T190000Z
+LOCATION:Paw.F 416
+DTSTART:20241219T173000Z
+SUMMARY:Ubezpieczenia majątkowe (ćwiczenia do wyboru)
+UID:1ba60760-549f-410f-9c49-7dc7135bfc90@1ba6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20250117T101500Z
+LOCATION:Paw.C sala D
+DTSTART:20250117T084500Z
+SUMMARY:Kosztorysowanie robót budowlanych I (wykład)
+UID:4ea9ef86-95ed-4465-9ece-3ae3e0cf5bed@4ea9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20241030T120000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241030T103000Z
+SUMMARY:Kosztorysowanie robót budowlanych I (ćwiczenia)
+UID:e3181371-d2d6-4bc2-8e64-0f276e8daaef@e318.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20241211T134500Z
+LOCATION:Paw.F 106
+DTSTART:20241211T121500Z
+SUMMARY:Wprowadzenie do Ubezpieczeń (wykład do wyboru)
+UID:1f416739-4c23-4148-a0cd-d1d907cd5c65@1f41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20250121T083000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250121T070000Z
+SUMMARY:Projekty inwestycyjne w budownictwie (ćwiczenia)
+UID:081e163d-010a-409e-8501-db1e4034238d@081e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20241108T101500Z
+LOCATION:Paw.C sala D
+DTSTART:20241108T084500Z
+SUMMARY:Kosztorysowanie robót budowlanych I (wykład)
+UID:305d010e-fa28-4036-8ddb-c26d6a4f728a@305d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20250114T083000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250114T070000Z
+SUMMARY:Projekty inwestycyjne w budownictwie (ćwiczenia)
+UID:9dc4c473-ff2a-4005-977d-00b73cb697f5@9dc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Klaudia Tomasik
+DTEND:20250123T134500Z
+LOCATION:Paw.F 102
+DTSTART:20250123T130000Z
+SUMMARY:Eksploatacja nieruchomości budowlanych (ćwiczenia)
+UID:214bf197-c90c-46c5-b16b-8fe7583db340@214b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Telega
+DTEND:20241112T083000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241112T070000Z
+SUMMARY:Projekty inwestycyjne w budownictwie (ćwiczenia)
+UID:4292e12c-5db5-47eb-b364-bf871e38282c@4292.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241030T153000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241030T140000Z
+SUMMARY:Ubezpieczenia majątkowe (wykład do wyboru)
+UID:ee23b5fc-ff1e-4589-8a2f-4f7b61d1e4f4@ee23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241219T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241219T084500Z
+SUMMARY:Podstawy planowania przestrzennego (ćwiczenia)
+UID:9082f9fb-6e42-4c92-999e-25d712a4c54d@9082.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Łach
+DTEND:20241203T120000Z
+LOCATION:Paw.F CJ 302
+DTSTART:20241203T103000Z
+SUMMARY:Wycena wartości przedsiębiorstwa (ćwiczenia do wyboru)
+UID:6de18708-f89a-4c97-8320-7c0920fb9456@6de1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20250123T153000Z
+LOCATION:Bud.gł. 6
+DTSTART:20250123T144500Z
+SUMMARY:Ubezpieczenia majątkowe (ćwiczenia do wyboru)
+UID:3bbbd564-2884-4374-ae82-8c7775214d7a@3bbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20241127T120000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241127T103000Z
+SUMMARY:Kosztorysowanie robót budowlanych I (ćwiczenia)
+UID:0bb5522a-c47d-41f0-a51e-14b0f426fe9e@0bb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20250108T134500Z
+LOCATION:Paw.F 106
+DTSTART:20250108T121500Z
+SUMMARY:Wprowadzenie do Ubezpieczeń (wykład do wyboru)
+UID:09435ec3-0410-45cd-ac41-69a0347cad77@0943.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20250124T083000Z
+LOCATION:Paw.C sala D
+DTSTART:20250124T074500Z
+SUMMARY:Podstawy planowania przestrzennego (wykład)
+UID:465f2b0f-bae4-4eaf-845d-bd885cf99b00@465f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20241107T134500Z
+LOCATION:Bud.gł. 7
+DTSTART:20241107T121500Z
+SUMMARY:Ubezpieczenia majątkowe (ćwiczenia do wyboru)
+UID:7f96f26b-6025-42bd-9ada-f7cbc371b784@7f96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20241220T120000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241220T103000Z
+SUMMARY:Projekty inwestycyjne w budownictwie (wykład)
+UID:386f9748-287b-4641-858b-c8d998812a44@386f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241121T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241121T084500Z
+SUMMARY:Podstawy planowania przestrzennego (ćwiczenia)
+UID:b5872613-3be5-4db8-bb65-2775756a1b35@b587.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Łach
+DTEND:20250121T153000Z
+LOCATION:Bibl. 441
+DTSTART:20250121T144500Z
+SUMMARY:Wycena wartości przedsiębiorstwa (ćwiczenia do wyboru)
+UID:952d574b-2d64-414b-ace3-0fabcbea89e7@952d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20241009T124500Z
+LOCATION:Paw.G 11
+DTSTART:20241009T111500Z
+SUMMARY:Wprowadzenie do Ubezpieczeń (wykład do wyboru)
+UID:96de8305-ab19-4874-9c44-167fcd8e73cf@96de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20241217T083000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241217T070000Z
+SUMMARY:Projekty inwestycyjne w budownictwie (ćwiczenia)
+UID:5aac037a-0f34-42c0-a6a7-480e2493ec39@5aac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Klaudia Tomasik
+DTEND:20241113T101500Z
+LOCATION:Bibl.425
+DTSTART:20241113T084500Z
+SUMMARY:Eksploatacja nieruchomości budowlanych (ćwiczenia)
+UID:1a261217-30a0-479a-9282-6d86e10c39e7@1a26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20250110T134500Z
+LOCATION:Paw.S sala 4
+DTSTART:20250110T121500Z
+SUMMARY:Projekty inwestycyjne w budownictwie (wykład)
+UID:15dbc511-bbaa-4a52-93b3-4e92b7e8d7bb@15db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Telega
+DTEND:20241126T083000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241126T070000Z
+SUMMARY:Projekty inwestycyjne w budownictwie (ćwiczenia)
+UID:db0ea3c8-5dd9-4da3-9598-938e06d64760@db0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20241016T110000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241016T093000Z
+SUMMARY:Kosztorysowanie robót budowlanych I (ćwiczenia)
+UID:34468df6-ff72-4d4f-8766-a50da50ed21c@3446.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Klaudia Tomasik
+DTEND:20250122T101500Z
+LOCATION:Bibl.425
+DTSTART:20250122T084500Z
+SUMMARY:Eksploatacja nieruchomości budowlanych (ćwiczenia)
+UID:0ed25acb-5c92-40ac-acb6-e84e4bb30da7@0ed2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241024T091500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241024T074500Z
+SUMMARY:Podstawy planowania przestrzennego (ćwiczenia)
+UID:567df411-3ac9-4e68-88c5-035c7956cf52@567d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Telega
+DTEND:20241022T073000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241022T060000Z
+SUMMARY:Projekty inwestycyjne w budownictwie (ćwiczenia)
+UID:fa284d8b-718b-4914-a8bc-d66d722563e7@fa28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20250107T083000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250107T070000Z
+SUMMARY:Projekty inwestycyjne w budownictwie (ćwiczenia)
+UID:e0651c8e-c008-4b1d-aff0-c3e863677514@e065.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Łach
+DTEND:20241112T153000Z
+LOCATION:Paw.C sala B
+DTSTART:20241112T140000Z
+SUMMARY:Wycena wartości przedsiębiorstwa (wykład do wyboru)
+UID:ab1ae657-7946-440a-97d5-7b89751a415c@ab1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Łach
+DTEND:20241008T110000Z
+LOCATION:Paw.F CJ 302
+DTSTART:20241008T093000Z
+SUMMARY:Wycena wartości przedsiębiorstwa (ćwiczenia do wyboru)
+UID:19d270ae-1b87-4d9b-ab6b-98cb203c095e@19d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241127T153000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241127T140000Z
+SUMMARY:Ubezpieczenia majątkowe (wykład do wyboru)
+UID:f56da609-b7b1-4792-8bdb-9c982f7716db@f56d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241004T073000Z
+LOCATION:Paw.C sala D
+DTSTART:20241004T060000Z
+SUMMARY:Podstawy planowania przestrzennego (wykład)
+UID:323fe8a1-0e8f-4d0d-ad55-d310e98a4be9@323f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20241211T120000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241211T103000Z
+SUMMARY:Kosztorysowanie robót budowlanych I (ćwiczenia)
+UID:52193271-b584-427c-950f-f2b4cc1e33de@5219.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Łach
+DTEND:20250121T144500Z
+LOCATION:Paw.C sala B
+DTSTART:20250121T140000Z
+SUMMARY:Wycena wartości przedsiębiorstwa (wykład do wyboru)
+UID:4b1ff46c-c688-41c9-90f8-aef57f0822e4@4b1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20250124T130000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250124T121500Z
+SUMMARY:Kosztorysowanie robót budowlanych I (ćwiczenia)
+UID:4e61b0a6-ce9d-44ad-a4b7-5cf89b9d879d@4e61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Telega
+DTEND:20241001T073000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241001T060000Z
+SUMMARY:Projekty inwestycyjne w budownictwie (ćwiczenia)
+UID:05c26692-daac-49fd-b3be-bbb0ea097951@05c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20250114T101500Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20250114T084500Z
+SUMMARY:Wprowadzenie do Ubezpieczeń (ćwiczenia do wyboru)
+UID:cb39c64e-96d0-4055-bad3-a59dd21a6e8b@cb39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20241011T091500Z
+LOCATION:Paw.C sala D
+DTSTART:20241011T074500Z
+SUMMARY:Kosztorysowanie robót budowlanych I (wykład)
+UID:21d70baa-3b58-43a7-92cc-710ff0100283@21d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20241127T134500Z
+LOCATION:Paw.F 106
+DTSTART:20241127T121500Z
+SUMMARY:Wprowadzenie do Ubezpieczeń (wykład do wyboru)
+UID:ebaab004-3ab0-4812-801e-53cbfac632cb@ebaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Brzezicka
+DTEND:20241025T110000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241025T093000Z
+SUMMARY:Projekty inwestycyjne w budownictwie (wykład)
+UID:bc833451-e051-45d9-94b2-6cde20927e89@bc83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20250116T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250116T084500Z
+SUMMARY:Podstawy planowania przestrzennego (ćwiczenia)
+UID:f269637e-0f59-49aa-948d-7408380377a0@f269.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20241205T134500Z
+LOCATION:Bud.gł. 7
+DTSTART:20241205T121500Z
+SUMMARY:Ubezpieczenia majątkowe (ćwiczenia do wyboru)
+UID:c93d06bb-5c8a-4ebe-af84-3789ed2acfc8@c93d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Brzezicka
+DTEND:20241011T110000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241011T093000Z
+SUMMARY:Projekty inwestycyjne w budownictwie (wykład)
+UID:a6ed0745-c896-4a63-854e-b0226997bbbc@a6ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Łach
+DTEND:20241210T153000Z
+LOCATION:Paw.C sala B
+DTSTART:20241210T140000Z
+SUMMARY:Wycena wartości przedsiębiorstwa (wykład do wyboru)
+UID:ffb1d42c-a87d-4a51-babf-b3e434c0429b@ffb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Łach
+DTEND:20241217T120000Z
+LOCATION:Paw.F CJ 302
+DTSTART:20241217T103000Z
+SUMMARY:Wycena wartości przedsiębiorstwa (ćwiczenia do wyboru)
+UID:54f148c8-f3c3-4203-b8a3-d6ac860b52a9@54f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Brzezicka
+DTEND:20241018T110000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241018T093000Z
+SUMMARY:Projekty inwestycyjne w budownictwie (wykład)
+UID:188dd018-dab6-4c3d-84b3-0e74706236a2@188d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20241008T091500Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241008T074500Z
+SUMMARY:Wprowadzenie do Ubezpieczeń (ćwiczenia do wyboru)
+UID:05f2ee65-5bb1-4e0c-b8cc-4c107dfc09b8@05f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Brzezicka
+DTEND:20250117T134500Z
+LOCATION:Paw.C sala A
+DTSTART:20250117T121500Z
+SUMMARY:Eksploatacja nieruchomości budowlanych (wykład)
+UID:52530cfb-2a91-40c8-b179-d33446138ced@5253.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20250110T120000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20250110T103000Z
+SUMMARY:Projekty inwestycyjne w budownictwie (wykład)
+UID:c151c811-5b5b-4b72-b75a-56d23885e38b@c151.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Łach
+DTEND:20241105T120000Z
+LOCATION:Paw.F CJ 302
+DTSTART:20241105T103000Z
+SUMMARY:Wycena wartości przedsiębiorstwa (ćwiczenia do wyboru)
+UID:43af6ef5-ce94-4ec5-9f8c-4a4ceb83ec25@43af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241211T153000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241211T140000Z
+SUMMARY:Ubezpieczenia majątkowe (wykład do wyboru)
+UID:9181eb4d-36de-46c4-9490-f171bd5e335b@9181.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241016T143000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241016T130000Z
+SUMMARY:Ubezpieczenia majątkowe (wykład do wyboru)
+UID:f3280a66-d8c7-467d-add9-d9f746b89b18@f328.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241018T073000Z
+LOCATION:Paw.C sala D
+DTSTART:20241018T060000Z
+SUMMARY:Podstawy planowania przestrzennego (wykład)
+UID:a516e2d5-c02f-4600-b05e-7a8e71e1769a@a516.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Brzezicka
+DTEND:20241129T120000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241129T103000Z
+SUMMARY:Projekty inwestycyjne w budownictwie (wykład)
+UID:0bb5d28f-1756-4d3b-8785-1ae74b7a7ff8@0bb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20241113T120000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241113T103000Z
+SUMMARY:Kosztorysowanie robót budowlanych I (ćwiczenia)
+UID:e244c82d-2371-4aa1-9c92-f4727f775f55@e244.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20250124T153000Z
+LOCATION:Paw.F 008
+DTSTART:20250124T144500Z
+SUMMARY:Ubezpieczenia majątkowe (wykład do wyboru)
+UID:53302440-614c-4e49-bf57-5c1eb791dc75@5330.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20241022T091500Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241022T074500Z
+SUMMARY:Wprowadzenie do Ubezpieczeń (ćwiczenia do wyboru)
+UID:f80a3960-4dbd-41be-aebb-4b9e6936640e@f80a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20250124T134500Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20250124T130000Z
+SUMMARY:Wprowadzenie do Ubezpieczeń (ćwiczenia do wyboru)
+UID:3f1d4941-e651-4859-ab9d-e60c086758e4@3f1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20241206T101500Z
+LOCATION:Paw.C sala D
+DTSTART:20241206T084500Z
+SUMMARY:Kosztorysowanie robót budowlanych I (wykład)
+UID:b4cbb234-6eec-4faa-ad4b-15af4b016280@b4cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Łach
+DTEND:20241029T153000Z
+LOCATION:Paw.C sala B
+DTSTART:20241029T140000Z
+SUMMARY:Wycena wartości przedsiębiorstwa (wykład do wyboru)
+UID:3c394c33-e91f-4674-83e3-2460706c7d7b@3c39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241129T083000Z
+LOCATION:Paw.C sala D
+DTSTART:20241129T070000Z
+SUMMARY:Podstawy planowania przestrzennego (wykład)
+UID:66aceaa8-ed15-4414-83b3-484192534c7c@66ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20241119T101500Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241119T084500Z
+SUMMARY:Wprowadzenie do Ubezpieczeń (ćwiczenia do wyboru)
+UID:47fc9cc8-edf1-4d0e-ac36-6b33975a929a@47fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Cycoń
+DTEND:20241113T134500Z
+LOCATION:Paw.F 106
+DTSTART:20241113T121500Z
+SUMMARY:Wprowadzenie do Ubezpieczeń (wykład do wyboru)
+UID:8914e2e8-5c45-493d-aebe-7d56efb8e0bc@8914.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20250108T120000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20250108T103000Z
+SUMMARY:Kosztorysowanie robót budowlanych I (ćwiczenia)
+UID:260f7068-c69a-4cec-b1e8-7273b40b0dab@260f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20241210T083000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241210T070000Z
+SUMMARY:Projekty inwestycyjne w budownictwie (ćwiczenia)
+UID:b80a2da6-6dde-4646-a9ca-707194dcb797@b80a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241107T101500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241107T084500Z
+SUMMARY:Podstawy planowania przestrzennego (ćwiczenia)
+UID:83687881-385a-4526-9205-cc2bc0873cf8@8368.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,858 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241016T110000Z
+LOCATION:Paw.C sala A
+DTSTART:20241016T093000Z
+SUMMARY:Zachowania konsumenta (wykład)
+UID:db01975e-22fc-4515-99ea-15f3edb67a8a@db01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20241219T171500Z
+LOCATION:Paw.F 104
+DTSTART:20241219T154500Z
+SUMMARY:Przedsiębiorczość i innowacje (konwersatorium)
+UID:2b13968e-3652-4a10-8979-97f9df23de47@2b13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20241107T171500Z
+LOCATION:Paw.F 104
+DTSTART:20241107T154500Z
+SUMMARY:Przedsiębiorczość i innowacje (konwersatorium)
+UID:e6a68dfa-33e4-470e-ba6d-be97f49b4360@e6a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20250122T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20250122T103000Z
+SUMMARY:Zachowania konsumenta (wykład)
+UID:faed7f09-3001-4a0e-b9b2-10e56732d499@faed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20241216T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241216T121500Z
+SUMMARY:Cyfryzacja przetwarzania informacji (ćwiczenia)
+UID:90cdc743-9cfa-4672-89c5-8d9e6c2ff259@90cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241030T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20241030T103000Z
+SUMMARY:Zachowania konsumenta (wykład)
+UID:0ec6f833-0eb0-45af-9a1c-3a6c0118c241@0ec6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241122T100000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241122T070000Z
+SUMMARY:Warsztaty kreatywnego myślenia (ćwiczenia)
+UID:f00f64b6-1501-4423-a918-3433e7deaa67@f00f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241206T100000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241206T070000Z
+SUMMARY:Warsztaty kreatywnego myślenia (ćwiczenia)
+UID:a3ff3601-fba5-4e65-8d95-d5cb6c7af27d@a3ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20241028T101500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241028T084500Z
+SUMMARY:Cyfryzacja przetwarzania informacji (ćwiczenia)
+UID:5b662a5e-22ab-4199-8b74-80ac31776b44@5b66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241011T124500Z
+LOCATION:Paw.F 616
+DTSTART:20241011T111500Z
+SUMMARY:Podstawy ekonomii (konwersatorium)
+UID:9ad25ce5-6d3c-4cef-99e0-beffc03548af@9ad2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20241010T180000Z
+LOCATION:Paw.C sala A
+DTSTART:20241010T163000Z
+SUMMARY:Zachowania konsumenta (ćwiczenia)
+UID:113426bf-4cb0-487a-85a8-a40501afd292@1134.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20250124T120000Z
+LOCATION:Paw.G 10
+DTSTART:20250124T103000Z
+SUMMARY:Organizacja i zarządzanie (ćwiczenia)
+UID:d4ad9e08-4156-4bcc-ade0-6ccedac3432f@d4ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241126T110000Z
+LOCATION:Sienk. 4 pr. an .sens.
+DTSTART:20241126T084500Z
+SUMMARY:Metodyka badań sensorycznych (laboratorium)
+UID:d4ef5b48-64c5-4fbd-8537-f886c1dc0051@d4ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241105T110000Z
+LOCATION:Sienk. 4 pr. an .sens.
+DTSTART:20241105T084500Z
+SUMMARY:Metodyka badań sensorycznych (laboratorium)
+UID:f6fabbcd-a289-481c-ba23-3007c07f3797@f6fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20241018T110000Z
+LOCATION:Paw.G 10
+DTSTART:20241018T093000Z
+SUMMARY:Organizacja i zarządzanie (ćwiczenia)
+UID:0d262177-0ca9-4533-9c17-f93b9bca25ff@0d26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20250122T171500Z
+LOCATION:Paw.U sala M
+DTSTART:20250122T154500Z
+SUMMARY:Podstawy ekonomii (konwersatorium)
+UID:8c596513-6c23-4ab7-83a3-cb828fad57a7@8c59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241211T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20241211T103000Z
+SUMMARY:Zachowania konsumenta (wykład)
+UID:9de2f5d0-8d66-4d9e-96ab-b608260c07e4@9de2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241127T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20241127T103000Z
+SUMMARY:Zachowania konsumenta (wykład)
+UID:b95af171-98d3-49a7-9ec0-e71168f0fe56@b95a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241220T134500Z
+LOCATION:Paw.F 616
+DTSTART:20241220T121500Z
+SUMMARY:Podstawy ekonomii (konwersatorium)
+UID:a9443415-da1a-4255-8a2e-462369c808ad@a944.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241120T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20241120T084500Z
+SUMMARY:Organizacja i zarządzanie (wykład)
+UID:5b9d89ae-e684-48f5-87f2-d077d2f63742@5b9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20241125T161500Z
+LOCATION:Paw.F 111
+DTSTART:20241125T140000Z
+SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (wykład)
+UID:514dc877-f3de-4b3b-8a59-a5def8b61282@514d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20241010T161500Z
+LOCATION:Paw.F 104
+DTSTART:20241010T144500Z
+SUMMARY:Przedsiębiorczość i innowacje (konwersatorium)
+UID:67ffabdf-4222-4007-ba96-0dc75d3cf08f@67ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241106T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20241106T084500Z
+SUMMARY:Organizacja i zarządzanie (wykład)
+UID:18886bae-3410-45df-adff-521654b95120@1888.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20241112T151500Z
+LOCATION:Sienk. 4  sala 49
+DTSTART:20241112T121500Z
+SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (laboratorium)
+UID:8e208f05-c635-46ce-963a-6720237698c7@8e20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20250123T171500Z
+LOCATION:Paw.U sala K
+DTSTART:20250123T163000Z
+SUMMARY:Przedsiębiorczość i innowacje (konwersatorium)
+UID:1726bbca-eb71-40dc-95ea-bfedd6bb0429@1726.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20241021T143000Z
+LOCATION:Paw.F 104
+DTSTART:20241021T130000Z
+SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (wykład)
+UID:a7b14af0-b967-46b8-af66-e39b9ed91bb4@a7b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241029T110000Z
+LOCATION:Sienk. 4 pr. an .sens.
+DTSTART:20241029T084500Z
+SUMMARY:Metodyka badań sensorycznych (laboratorium)
+UID:d4f3b8fc-59e7-453e-aec9-1e7b43890422@d4f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20241104T101500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241104T084500Z
+SUMMARY:Cyfryzacja przetwarzania informacji (ćwiczenia)
+UID:7b5f72d3-fb42-4eac-b76a-f750a79b763b@7b5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20241014T143000Z
+LOCATION:Paw.F 111
+DTSTART:20241014T130000Z
+SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (wykład)
+UID:5c7243f5-22bf-460a-b072-086b38eec2f4@5c72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20241104T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241104T121500Z
+SUMMARY:Cyfryzacja przetwarzania informacji (ćwiczenia)
+UID:910923b3-413f-4bd3-abc5-be7d38f453b7@9109.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20241028T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241028T121500Z
+SUMMARY:Cyfryzacja przetwarzania informacji (ćwiczenia)
+UID:7d975b6d-a3f6-48ce-96f1-425430ece9e4@7d97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241014T091500Z
+LOCATION:Paw.C sala A
+DTSTART:20241014T074500Z
+SUMMARY:Organizacja i zarządzanie (wykład)
+UID:ed315e2a-4c53-4818-92e0-8a184dbb1c1a@ed31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20241104T153000Z
+LOCATION:Paw.F 104
+DTSTART:20241104T140000Z
+SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (wykład)
+UID:3bc0457d-0499-4932-93f9-61436c3382a0@3bc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241119T110000Z
+LOCATION:Sienk. 4 pr. an .sens.
+DTSTART:20241119T084500Z
+SUMMARY:Metodyka badań sensorycznych (laboratorium)
+UID:4046b640-14a5-4f6c-8d2a-bbb7138b13a6@4046.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241122T134500Z
+LOCATION:Paw.F 616
+DTSTART:20241122T121500Z
+SUMMARY:Podstawy ekonomii (konwersatorium)
+UID:43a0b168-6d74-4968-9a08-8922accf9085@43a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20241213T120000Z
+LOCATION:Paw.G 10
+DTSTART:20241213T103000Z
+SUMMARY:Organizacja i zarządzanie (ćwiczenia)
+UID:c0b41cc1-34bc-4d47-90d6-26f8e54557f1@c0b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241213T100000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241213T070000Z
+SUMMARY:Warsztaty kreatywnego myślenia (ćwiczenia)
+UID:a5018974-7f8d-4022-9169-7d2214fa169a@a501.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241210T110000Z
+LOCATION:Sienk. 4 pr. an .sens.
+DTSTART:20241210T084500Z
+SUMMARY:Metodyka badań sensorycznych (laboratorium)
+UID:588789a3-f48d-4318-96ed-2772ea85eee4@5887.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241004T124500Z
+LOCATION:Paw.F 616
+DTSTART:20241004T111500Z
+SUMMARY:Podstawy ekonomii (konwersatorium)
+UID:3d1349c0-9842-4bb8-9cc2-06cc3c567671@3d13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241008T100000Z
+LOCATION:Sienk. 4 pr. an .sens.
+DTSTART:20241008T074500Z
+SUMMARY:Metodyka badań sensorycznych (laboratorium)
+UID:c5376b4c-5109-4d6b-b8b2-e983ca36cc33@c537.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241112T110000Z
+LOCATION:Sienk. 4 pr. an .sens.
+DTSTART:20241112T084500Z
+SUMMARY:Metodyka badań sensorycznych (laboratorium)
+UID:758c9cb8-71e1-4a12-9c25-a5c1a48191d1@758c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241218T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20241218T084500Z
+SUMMARY:Organizacja i zarządzanie (wykład)
+UID:99fc0db9-0634-49c1-bea8-25f8acf1ff49@99fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20250110T134500Z
+LOCATION:Paw.F 616
+DTSTART:20250110T121500Z
+SUMMARY:Podstawy ekonomii (konwersatorium)
+UID:5d815e78-ad54-4f62-8f51-2ede1f607c79@5d81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20250108T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20250108T103000Z
+SUMMARY:Zachowania konsumenta (wykład)
+UID:62a18212-e285-4ffc-b002-b29136cd1e3c@62a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241023T091500Z
+LOCATION:Paw.C sala A
+DTSTART:20241023T074500Z
+SUMMARY:Organizacja i zarządzanie (wykład)
+UID:ffff2635-fe2d-4e9a-8b8a-365de5793c79@ffff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20241115T153000Z
+LOCATION:Paw.U sala K
+DTSTART:20241115T140000Z
+SUMMARY:Organizacja i zarządzanie (ćwiczenia)
+UID:ad487e14-a75f-4329-9244-13ea1dc27598@ad48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241009T091500Z
+LOCATION:Paw.C sala A
+DTSTART:20241009T074500Z
+SUMMARY:Organizacja i zarządzanie (wykład)
+UID:312ce55f-2311-4661-8e6e-7142da7675ad@312c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241203T110000Z
+LOCATION:Sienk. 4 pr. an .sens.
+DTSTART:20241203T084500Z
+SUMMARY:Metodyka badań sensorycznych (laboratorium)
+UID:ed0b21f4-8b20-4498-bc20-ec2fcfcbe535@ed0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:1ae24fd8-9b20-44fa-b2c4-42da504700a1@1ae2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20241015T141500Z
+LOCATION:Sienk. 4  sala 49
+DTSTART:20241015T111500Z
+SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (laboratorium)
+UID:79c6af69-ae3a-4f97-a629-2adfc4cb8851@79c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20241115T120000Z
+LOCATION:Paw.G 10
+DTSTART:20241115T103000Z
+SUMMARY:Organizacja i zarządzanie (ćwiczenia)
+UID:cbe79869-d97c-4acc-9b25-97762bb14ab9@cbe7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241115T134500Z
+LOCATION:Paw.F 616
+DTSTART:20241115T121500Z
+SUMMARY:Podstawy ekonomii (konwersatorium)
+UID:88d332fb-e692-4aca-923a-bc6b46c0b29e@88d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20250124T134500Z
+LOCATION:Paw.F 616
+DTSTART:20250124T121500Z
+SUMMARY:Podstawy ekonomii (konwersatorium)
+UID:1bc1093c-025a-4387-84a6-1ce0c0691653@1bc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20241121T190000Z
+LOCATION:Paw.C sala A
+DTSTART:20241121T173000Z
+SUMMARY:Zachowania konsumenta (ćwiczenia)
+UID:c6c112c7-e0dc-49af-b8b7-0ddf9cd687aa@c6c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241219T093000Z
+LOCATION:Paw.F 106
+DTSTART:20241219T084500Z
+SUMMARY:Organizacja i zarządzanie (wykład)
+UID:4a7bdbd8-390c-49aa-a8d7-74b058cb3da9@4a7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20241022T141500Z
+LOCATION:Sienk. 4  sala 49
+DTSTART:20241022T111500Z
+SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (laboratorium)
+UID:2b681e4e-cc81-425b-aa5a-4707bfb30e30@2b68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20250115T120000Z
+LOCATION:Paw.S sala 11
+DTSTART:20250115T103000Z
+SUMMARY:Cyfryzacja przetwarzania informacji (ćwiczenia)
+UID:cbbc01a0-ca35-4d83-887d-631d2dd65dd2@cbbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20241107T190000Z
+LOCATION:Paw.C sala A
+DTSTART:20241107T173000Z
+SUMMARY:Zachowania konsumenta (ćwiczenia)
+UID:921f5f5e-50b8-4f48-9a28-0b0dd8a51ada@921f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241206T134500Z
+LOCATION:Paw.F 616
+DTSTART:20241206T121500Z
+SUMMARY:Podstawy ekonomii (konwersatorium)
+UID:b1bbabe1-6ab1-4481-b0b4-1ac1eeb3ef58@b1bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241025T090000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241025T060000Z
+SUMMARY:Warsztaty kreatywnego myślenia (ćwiczenia)
+UID:0dc92b68-830e-45f0-9061-738cc34bb99f@0dc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20241007T143000Z
+LOCATION:Paw.F 104
+DTSTART:20241007T130000Z
+SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (wykład)
+UID:82c30469-fef3-4996-8530-6b88d9208ebb@82c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241022T100000Z
+LOCATION:Sienk. 4 pr. an .sens.
+DTSTART:20241022T074500Z
+SUMMARY:Metodyka badań sensorycznych (laboratorium)
+UID:cc2beb2c-5a28-4145-a882-c4fd662fd8a9@cc2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20250116T171500Z
+LOCATION:Paw.F 104
+DTSTART:20250116T154500Z
+SUMMARY:Przedsiębiorczość i innowacje (konwersatorium)
+UID:318df252-f2d7-4b61-b33e-6ce0ff194d83@318d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20241129T120000Z
+LOCATION:Paw.G 10
+DTSTART:20241129T103000Z
+SUMMARY:Organizacja i zarządzanie (ćwiczenia)
+UID:6734ceae-14e7-4a58-9174-ca1b3ad40796@6734.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241204T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20241204T084500Z
+SUMMARY:Organizacja i zarządzanie (wykład)
+UID:db2d1a20-5a61-4e95-818b-739eb94e779a@db2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241113T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20241113T103000Z
+SUMMARY:Zachowania konsumenta (wykład)
+UID:ab4db9cf-916a-43db-90e9-a599619ea3cd@ab4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:0400b7b2-d47f-432f-a2cb-9f5e2843662f@0400.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20250113T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20250113T121500Z
+SUMMARY:Cyfryzacja przetwarzania informacji (ćwiczenia)
+UID:511fb96e-009b-46b6-804f-9e919fc30f8d@511f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20250116T190000Z
+LOCATION:Paw.C sala A
+DTSTART:20250116T173000Z
+SUMMARY:Zachowania konsumenta (ćwiczenia)
+UID:3cb8a2f6-4b8f-4b1c-8423-5e0dbee14cfa@3cb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20250124T101500Z
+LOCATION:Paw.F 715
+DTSTART:20250124T093000Z
+SUMMARY:Organizacja i zarządzanie (ćwiczenia)
+UID:3cb5a48b-8f9f-441a-b950-9418a92ed02e@3cb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20250124T144500Z
+LOCATION:Paw.C sala A
+DTSTART:20250124T140000Z
+SUMMARY:Zachowania konsumenta (wykład)
+UID:f00a3f6c-af02-4311-b88b-8c4c818752a0@f00a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20241029T151500Z
+LOCATION:Sienk. 4  sala 49
+DTSTART:20241029T121500Z
+SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (laboratorium)
+UID:476f726c-f4ae-4dd7-b5d6-b0ee85e6481a@476f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241213T134500Z
+LOCATION:Paw.F 616
+DTSTART:20241213T121500Z
+SUMMARY:Podstawy ekonomii (konwersatorium)
+UID:097ab700-4868-44b7-a705-059f7d73f61b@097a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20250120T101500Z
+LOCATION:Paw.S sala 11
+DTSTART:20250120T084500Z
+SUMMARY:Cyfryzacja przetwarzania informacji (ćwiczenia)
+UID:4119c3f5-294a-452d-ae84-90021dff4170@4119.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241108T100000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241108T070000Z
+SUMMARY:Warsztaty kreatywnego myślenia (ćwiczenia)
+UID:de6a4a74-a9c9-4eb3-8336-84fae3ae2fbd@de6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20250117T134500Z
+LOCATION:Paw.F 616
+DTSTART:20250117T121500Z
+SUMMARY:Podstawy ekonomii (konwersatorium)
+UID:8e9afd13-1bcf-4071-9fe7-0b50c7db8955@8e9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20241024T161500Z
+LOCATION:Paw.F 104
+DTSTART:20241024T144500Z
+SUMMARY:Przedsiębiorczość i innowacje (konwersatorium)
+UID:7ce1ec5a-467c-4820-9a4d-8355906f263c@7ce1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241108T134500Z
+LOCATION:Paw.F 616
+DTSTART:20241108T121500Z
+SUMMARY:Podstawy ekonomii (konwersatorium)
+UID:b3f1d7c4-7ab0-48d7-91fa-b6ebe29c8743@b3f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20241105T151500Z
+LOCATION:Sienk. 4  sala 49
+DTSTART:20241105T121500Z
+SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (laboratorium)
+UID:c5aaf88d-9eaf-46f5-a8b0-2c865a5ed551@c5aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20241219T190000Z
+LOCATION:Paw.C sala A
+DTSTART:20241219T173000Z
+SUMMARY:Zachowania konsumenta (ćwiczenia)
+UID:a9c1ab89-605f-429d-838c-7616a32ac441@a9c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241018T124500Z
+LOCATION:Paw.F 616
+DTSTART:20241018T111500Z
+SUMMARY:Podstawy ekonomii (konwersatorium)
+UID:23e286ba-c98e-4717-b5bf-dea54f29c643@23e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241003T110000Z
+LOCATION:Paw.C sala D
+DTSTART:20241003T093000Z
+SUMMARY:Warsztaty kreatywnego myślenia (ćwiczenia)
+UID:01a38e80-82fe-432b-aa87-72e2e84c7adc@01a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20241209T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241209T121500Z
+SUMMARY:Cyfryzacja przetwarzania informacji (ćwiczenia)
+UID:8f247fa3-1c5c-434b-8ead-cb4f0e3f8e90@8f24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241011T073000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241011T060000Z
+SUMMARY:Warsztaty kreatywnego myślenia (ćwiczenia)
+UID:414d318d-ca37-4c7f-903d-41d909287289@414d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241015T100000Z
+LOCATION:Sienk. 4 pr. an .sens.
+DTSTART:20241015T074500Z
+SUMMARY:Metodyka badań sensorycznych (laboratorium)
+UID:a559e86c-028d-4fd8-bd51-ff1d66f5a6a4@a559.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20250110T120000Z
+LOCATION:Paw.G 10
+DTSTART:20250110T103000Z
+SUMMARY:Organizacja i zarządzanie (ćwiczenia)
+UID:4bf99c9e-180a-4531-aca9-f9831e192ca8@4bf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20241021T124500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241021T111500Z
+SUMMARY:Cyfryzacja przetwarzania informacji (ćwiczenia)
+UID:90a623bf-86ac-4c30-a248-4c06ce1a7530@90a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20241126T134500Z
+LOCATION:Sienk. 4  sala 49
+DTSTART:20241126T121500Z
+SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (laboratorium)
+UID:a40e71d5-25fd-41c8-9954-2c6404cd713b@a40e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241129T134500Z
+LOCATION:Paw.F 616
+DTSTART:20241129T121500Z
+SUMMARY:Podstawy ekonomii (konwersatorium)
+UID:fa06e976-2793-4418-b3dd-bd424431d7e4@fa06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20241205T171500Z
+LOCATION:Paw.F 104
+DTSTART:20241205T154500Z
+SUMMARY:Przedsiębiorczość i innowacje (konwersatorium)
+UID:9d3f098c-26ab-4008-ac43-928dc3d28aa2@9d3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20241119T151500Z
+LOCATION:Sienk. 4  sala 49
+DTSTART:20241119T121500Z
+SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (laboratorium)
+UID:4eb75d93-4752-4b6d-bb74-fe03b95ec3e6@4eb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20241118T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241118T121500Z
+SUMMARY:Cyfryzacja przetwarzania informacji (ćwiczenia)
+UID:96a91163-6eff-461a-9967-ba46ad494dcd@96a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20241125T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241125T121500Z
+SUMMARY:Cyfryzacja przetwarzania informacji (ćwiczenia)
+UID:0ab76b95-9752-4f7d-92e0-0b0bd76ff559@0ab7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20241118T153000Z
+LOCATION:Paw.F 104
+DTSTART:20241118T140000Z
+SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (wykład)
+UID:aeba0ebc-6503-4ad5-a457-263ce5999605@aeba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20241024T180000Z
+LOCATION:Paw.C sala A
+DTSTART:20241024T163000Z
+SUMMARY:Zachowania konsumenta (ćwiczenia)
+UID:e87dec88-aec8-4760-80a4-3013c487e1ce@e87d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20241121T171500Z
+LOCATION:Paw.F 104
+DTSTART:20241121T154500Z
+SUMMARY:Przedsiębiorczość i innowacje (konwersatorium)
+UID:a0db6cd8-e1cb-4d23-9da0-9338a53be84e@a0db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241129T100000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241129T070000Z
+SUMMARY:Warsztaty kreatywnego myślenia (ćwiczenia)
+UID:9f8f8b0b-339d-41e6-b902-e8c5203f2ff5@9f8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: Studencki Uek Parlament
+DTEND:20241016T161500Z
+LOCATION:Paw.C sala F
+DTSTART:20241016T144500Z
+SUMMARY:Prawa i obowiązki studenta (rezerwacja)
+UID:ee607517-e2a3-456e-8018-5d8894d6eaf6@ee60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20241028T153000Z
+LOCATION:Paw.F 111
+DTSTART:20241028T140000Z
+SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (wykład)
+UID:64942f8c-777c-4490-974d-b159a7a8a788@6494.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20250120T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20250120T121500Z
+SUMMARY:Cyfryzacja przetwarzania informacji (ćwiczenia)
+UID:a7210015-6d55-4445-bb39-3b1fb6404bd2@a721.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241011T091500Z
+LOCATION:Paw.F 415
+DTSTART:20241011T074500Z
+SUMMARY:Warsztaty kreatywnego myślenia (ćwiczenia)
+UID:84567cc3-4810-4c66-a8d4-3dd847edc299@8456.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241025T124500Z
+LOCATION:Paw.F 616
+DTSTART:20241025T111500Z
+SUMMARY:Podstawy ekonomii (konwersatorium)
+UID:30515b03-5f9e-48ef-8dbb-7cca68b57ed3@3051.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20250123T153000Z
+LOCATION:Paw.C sala E
+DTSTART:20250123T144500Z
+SUMMARY:Zachowania konsumenta (ćwiczenia)
+UID:cfb83237-5410-4800-a67a-58453a056a05@cfb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20241007T124500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241007T111500Z
+SUMMARY:Cyfryzacja przetwarzania informacji (ćwiczenia)
+UID:34bba478-5fb3-460a-808d-d9e2f252af81@34bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20241008T141500Z
+LOCATION:Sienk. 4  sala 49
+DTSTART:20241008T111500Z
+SUMMARY:Bezpieczeństwo mikrobiologiczne produktów (laboratorium)
+UID:61a1794f-07e4-47cf-aa03-908102b5ee78@61a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Weronika Wolak-Libuszowska
+DTEND:20241205T190000Z
+LOCATION:Paw.C sala A
+DTSTART:20241205T173000Z
+SUMMARY:Zachowania konsumenta (ćwiczenia)
+UID:ee462a90-9488-4dac-bcda-39ed23c41e37@ee46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20241202T134500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241202T121500Z
+SUMMARY:Cyfryzacja przetwarzania informacji (ćwiczenia)
+UID:bbd97e34-dab5-4fa3-aa94-401e05231089@bbd9.org
+END:VEVENT
+END:VCALENDAR

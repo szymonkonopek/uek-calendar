@@ -1,0 +1,794 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  dr Joanna Rutkowska
+DTEND:20241008T091500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21\, Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241008T074500Z
+SUMMARY:Analiza sprawozdań finansowych\, Analiza sprawozdań finansowych (ćwiczenia)
+UID:b6667e57-e572-49a9-bf29-1960635ead8f@b666.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20241104T190000Z
+LOCATION:link do zajęć
+DTSTART:20241104T173000Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (wykład)
+UID:659477e2-cfbf-4069-a36f-8cbdb6e84996@6594.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20241209T170000Z
+LOCATION:Paw.F 106
+DTSTART:20241209T144500Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (ćwiczenia)
+UID:bbe0a89d-9b1e-4a5e-860a-451af99030ab@bbe0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak
+DTEND:20250108T120000Z
+LOCATION:link do zajęć
+DTSTART:20250108T103000Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (wykład do wyboru)
+UID:afdb9008-ac9a-4cc7-9d66-bd2df5eb7170@afdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
+DTEND:20241010T143000Z
+LOCATION:link do zajęć
+DTSTART:20241010T130000Z
+SUMMARY:Rewizja finansowa (wykład)
+UID:7ed7548d-2cee-4ade-9cd4-ab15f68f003a@7ed7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  dr Joanna Rutkowska
+DTEND:20250114T101500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21\, Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250114T084500Z
+SUMMARY:Analiza sprawozdań finansowych\, Analiza sprawozdań finansowych (ćwiczenia)
+UID:cc688a0e-f344-4f85-b8c2-250515a70000@cc68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  dr Joanna Rutkowska
+DTEND:20241119T101500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21\, Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241119T084500Z
+SUMMARY:Analiza sprawozdań finansowych\, Analiza sprawozdań finansowych (ćwiczenia)
+UID:06fb84d0-47d8-4ffb-98f0-d27d2880dbf5@06fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartłomiej Wrona
+DTEND:20241216T194500Z
+LOCATION:link do zajęć
+DTSTART:20241216T173000Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (wykład)
+UID:7f77804e-7530-4d52-89ce-4e58d9ff6b53@7f77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  dr Joanna Rutkowska
+DTEND:20241022T091500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21\, Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241022T074500Z
+SUMMARY:Analiza sprawozdań finansowych\, Analiza sprawozdań finansowych (ćwiczenia)
+UID:a2493e79-c123-4a56-ba6f-fdf66926f761@a249.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20241014T110000Z
+LOCATION:link do zajęć
+DTSTART:20241014T093000Z
+SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
+UID:813a08cf-8b87-41b3-bedb-65642b66eb46@813a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  dr Joanna Rutkowska
+DTEND:20241105T101500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21\, Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241105T084500Z
+SUMMARY:Analiza sprawozdań finansowych\, Analiza sprawozdań finansowych (ćwiczenia)
+UID:aada462e-6f43-4990-8b41-fd75b2396721@aada.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20241104T120000Z
+LOCATION:link do zajęć
+DTSTART:20241104T103000Z
+SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
+UID:06882711-08f1-49f0-bf80-7b3405ef6e5c@0688.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zieniuk
+DTEND:20241028T101500Z
+LOCATION:link do zajęć
+DTSTART:20241028T084500Z
+SUMMARY:Rachunkowość organizacji pozarządowych (wykład do wyboru)
+UID:f57d0bc6-e646-4c99-8987-2c562a4e8555@f57d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20241021T110000Z
+LOCATION:link do zajęć
+DTSTART:20241021T093000Z
+SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
+UID:1b78c75e-277c-4686-ba66-5138b18b8fe5@1b78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  dr Joanna Rutkowska
+DTEND:20250114T101500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21\, Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250114T084500Z
+SUMMARY:Analiza sprawozdań finansowych\, Analiza sprawozdań finansowych (ćwiczenia)
+UID:cfa4c3cc-67f1-4c9c-af0a-cccf22d05636@cfa4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  dr Joanna Rutkowska
+DTEND:20241105T101500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21\, Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241105T084500Z
+SUMMARY:Analiza sprawozdań finansowych\, Analiza sprawozdań finansowych (ćwiczenia)
+UID:b6a7307c-e75d-442f-a250-715a0a6214bf@b6a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  dr Joanna Rutkowska
+DTEND:20241217T101500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21\, Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241217T084500Z
+SUMMARY:Analiza sprawozdań finansowych\, Analiza sprawozdań finansowych (ćwiczenia)
+UID:5a16b5a7-7a4f-4877-bf93-e1ec90c1f154@5a16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20241107T134500Z
+LOCATION:link do zajęć
+DTSTART:20241107T121500Z
+SUMMARY:Analiza sprawozdań finansowych (wykład)
+UID:ef549d49-d4c9-4971-a0f0-08f2593c9d6f@ef54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241003T161500Z
+LOCATION:link do zajęć
+DTSTART:20241003T144500Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (wykład do wyboru)
+UID:1f4b7bd0-f37d-43b1-911a-e1c8caa4ebb6@1f4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  dr Joanna Rutkowska
+DTEND:20241217T101500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21\, Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241217T084500Z
+SUMMARY:Analiza sprawozdań finansowych\, Analiza sprawozdań finansowych (ćwiczenia)
+UID:185addc3-ce9a-42e2-93e4-0e16a978b49b@185a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
+DTEND:20241121T153000Z
+LOCATION:link do zajęć
+DTSTART:20241121T144500Z
+SUMMARY:Rewizja finansowa (wykład)
+UID:dd8536d5-d45c-4a2c-9abc-413bb5ccd0df@dd85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  dr Joanna Rutkowska
+DTEND:20241203T101500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21\, Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241203T084500Z
+SUMMARY:Analiza sprawozdań finansowych\, Analiza sprawozdań finansowych (ćwiczenia)
+UID:b57ab187-ed68-46ef-bc79-dafcd93fff4b@b57a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  dr Joanna Rutkowska
+DTEND:20241105T101500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21\, Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241105T084500Z
+SUMMARY:Analiza sprawozdań finansowych\, Analiza sprawozdań finansowych (ćwiczenia)
+UID:6d022fd6-e35e-495b-a7b7-2c909ce25321@6d02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zieniuk
+DTEND:20241007T091500Z
+LOCATION:link do zajęć
+DTSTART:20241007T074500Z
+SUMMARY:Rachunkowość organizacji pozarządowych (wykład do wyboru)
+UID:1914825d-1f97-4583-8df1-26deadcf08fd@1914.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20250107T101500Z
+LOCATION:Paw.F 614
+DTSTART:20250107T084500Z
+SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
+UID:37ca26b0-223c-450a-b597-8fafef819a0c@37ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20241120T134500Z
+LOCATION:Paw.F 515
+DTSTART:20241120T121500Z
+SUMMARY:Rewizja finansowa (ćwiczenia)
+UID:cc841591-d8f2-48a6-922e-14d926b2d735@cc84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20241118T120000Z
+LOCATION:link do zajęć
+DTSTART:20241118T103000Z
+SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
+UID:f25e0e31-4af0-4e5f-b982-10da8382d3f8@f25e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
+DTEND:20241007T180000Z
+LOCATION:link do zajęć
+DTSTART:20241007T163000Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (wykład)
+UID:417ae8e4-c1cd-4e29-baab-9714fc454070@417a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20241029T101500Z
+LOCATION:Paw.F 614
+DTSTART:20241029T084500Z
+SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
+UID:6e13522c-e3ac-4a7f-a14e-2d41a2cb582a@6e13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  dr Joanna Rutkowska
+DTEND:20241008T091500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21\, Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241008T074500Z
+SUMMARY:Analiza sprawozdań finansowych\, Analiza sprawozdań finansowych (ćwiczenia)
+UID:a3e629ea-210f-41a1-b467-33a2883a33af@a3e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20250121T083000Z
+LOCATION:Paw.F 109
+DTSTART:20250121T074500Z
+SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
+UID:5acbc257-e00a-4ccf-827f-3e808bfa16f8@5acb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
+DTEND:20241114T153000Z
+LOCATION:link do zajęć
+DTSTART:20241114T140000Z
+SUMMARY:Rewizja finansowa (wykład)
+UID:c02b710d-d5d6-4539-b579-c613c426f0e4@c02b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak
+DTEND:20241127T120000Z
+LOCATION:link do zajęć
+DTSTART:20241127T103000Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (wykład do wyboru)
+UID:852a7e35-4a48-4f15-bf7b-c754e604ec83@852a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:1398d761-934a-4964-8cca-44e305f2f83e@1398.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  dr Joanna Rutkowska
+DTEND:20241008T091500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21\, Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241008T074500Z
+SUMMARY:Analiza sprawozdań finansowych\, Analiza sprawozdań finansowych (ćwiczenia)
+UID:2c010771-2f3b-41de-ae5e-c949fbf890e3@2c01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  dr Joanna Rutkowska
+DTEND:20241105T101500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21\, Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241105T084500Z
+SUMMARY:Analiza sprawozdań finansowych\, Analiza sprawozdań finansowych (ćwiczenia)
+UID:5f9b2928-951d-4adb-83e3-fe3f94d1b9d8@5f9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20241125T120000Z
+LOCATION:link do zajęć
+DTSTART:20241125T103000Z
+SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
+UID:9b42097f-ecd7-4b48-bb9a-78768a8f8c7c@9b42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zieniuk
+DTEND:20241202T101500Z
+LOCATION:link do zajęć
+DTSTART:20241202T093000Z
+SUMMARY:Rachunkowość organizacji pozarządowych (wykład do wyboru)
+UID:02d9c98b-121b-4afc-9e38-e6f83b0ba304@02d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20241024T124500Z
+LOCATION:link do zajęć
+DTSTART:20241024T111500Z
+SUMMARY:Analiza sprawozdań finansowych (wykład)
+UID:7299bcdf-cb47-4af9-98e1-8f56a90992e0@7299.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak
+DTEND:20241016T110000Z
+LOCATION:link do zajęć
+DTSTART:20241016T101500Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (wykład do wyboru)
+UID:f30be5d4-f780-4fbf-ac7b-c5b07434023d@f30b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  dr Joanna Rutkowska
+DTEND:20241008T091500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21\, Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241008T074500Z
+SUMMARY:Analiza sprawozdań finansowych\, Analiza sprawozdań finansowych (ćwiczenia)
+UID:2c12748b-e53a-4b74-bb4b-f7b5d8231578@2c12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  dr Joanna Rutkowska
+DTEND:20241119T101500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21\, Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241119T084500Z
+SUMMARY:Analiza sprawozdań finansowych\, Analiza sprawozdań finansowych (ćwiczenia)
+UID:d891e6c8-b0e2-4f1f-b9bc-8bb4db3823be@d891.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20241128T134500Z
+LOCATION:link do zajęć
+DTSTART:20241128T130000Z
+SUMMARY:Analiza sprawozdań finansowych (wykład)
+UID:1a577bc1-316a-4745-92a1-b53f3cabb9c1@1a57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20241009T124500Z
+LOCATION:Paw.F 515
+DTSTART:20241009T111500Z
+SUMMARY:Rewizja finansowa (ćwiczenia)
+UID:df568e97-8ff1-403a-b324-1747ab3859f9@df56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak
+DTEND:20241113T120000Z
+LOCATION:link do zajęć
+DTSTART:20241113T103000Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (wykład do wyboru)
+UID:b608c4b8-5098-4622-88cc-e286a55a5cef@b608.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20241218T134500Z
+LOCATION:Paw.F 515
+DTSTART:20241218T121500Z
+SUMMARY:Rewizja finansowa (ćwiczenia)
+UID:636fbb47-3b2c-4e27-9db9-dbb05678c81a@636f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zieniuk
+DTEND:20241021T091500Z
+LOCATION:link do zajęć
+DTSTART:20241021T074500Z
+SUMMARY:Rachunkowość organizacji pozarządowych (wykład do wyboru)
+UID:35448242-ef27-4264-b739-bf0e37e82864@3544.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  dr Joanna Rutkowska
+DTEND:20241203T101500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21\, Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241203T084500Z
+SUMMARY:Analiza sprawozdań finansowych\, Analiza sprawozdań finansowych (ćwiczenia)
+UID:8f1d839e-a686-438a-b6c4-3ed02ae4edec@8f1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  dr Joanna Rutkowska
+DTEND:20250114T101500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21\, Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250114T084500Z
+SUMMARY:Analiza sprawozdań finansowych\, Analiza sprawozdań finansowych (ćwiczenia)
+UID:e3705eda-0142-4f7e-ac60-80f30b92d7d7@e370.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20241114T134500Z
+LOCATION:link do zajęć
+DTSTART:20241114T121500Z
+SUMMARY:Analiza sprawozdań finansowych (wykład)
+UID:7816c9f8-9113-4971-87da-82992824b7b5@7816.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
+DTEND:20241031T153000Z
+LOCATION:link do zajęć
+DTSTART:20241031T140000Z
+SUMMARY:Rewizja finansowa (wykład)
+UID:c0e28027-eafb-49b2-b324-4adec9985432@c0e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  dr Joanna Rutkowska
+DTEND:20241119T101500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21\, Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241119T084500Z
+SUMMARY:Analiza sprawozdań finansowych\, Analiza sprawozdań finansowych (ćwiczenia)
+UID:dbc25461-9a64-4a45-ac78-42428953d425@dbc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak
+DTEND:20241030T120000Z
+LOCATION:link do zajęć
+DTSTART:20241030T103000Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (wykład do wyboru)
+UID:ccf27bf0-ad8f-4ac4-befa-4998d490e331@ccf2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  dr Joanna Rutkowska
+DTEND:20241203T101500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21\, Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241203T084500Z
+SUMMARY:Analiza sprawozdań finansowych\, Analiza sprawozdań finansowych (ćwiczenia)
+UID:a9c859da-0f1e-464e-b793-1fc9d88d0617@a9c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  dr Joanna Rutkowska
+DTEND:20241022T091500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21\, Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241022T074500Z
+SUMMARY:Analiza sprawozdań finansowych\, Analiza sprawozdań finansowych (ćwiczenia)
+UID:57c9f1c0-58a0-486c-9a74-752c6b50837b@57c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20241125T171500Z
+LOCATION:Paw.F 717
+DTSTART:20241125T154500Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (ćwiczenia)
+UID:faa27c44-917d-451a-af26-03a47dc12d1a@faa2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
+DTEND:20241107T153000Z
+LOCATION:link do zajęć
+DTSTART:20241107T140000Z
+SUMMARY:Rewizja finansowa (wykład)
+UID:ae448273-f9f3-4aab-bc0f-4f0fc1c1d23b@ae44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartłomiej Wrona
+DTEND:20250113T171500Z
+LOCATION:Paw.F 717
+DTSTART:20250113T154500Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (ćwiczenia)
+UID:e5502f21-cd8b-47fe-852f-3ce861f6b057@e550.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
+DTEND:20241017T143000Z
+LOCATION:link do zajęć
+DTSTART:20241017T130000Z
+SUMMARY:Rewizja finansowa (wykład)
+UID:97ef11ec-a2c4-4c47-8181-31cd520d1c52@97ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  dr Joanna Rutkowska
+DTEND:20241022T091500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21\, Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241022T074500Z
+SUMMARY:Analiza sprawozdań finansowych\, Analiza sprawozdań finansowych (ćwiczenia)
+UID:424ba08a-7dfa-492a-9cfc-5da41f460cd0@424b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  dr Joanna Rutkowska
+DTEND:20241022T091500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21\, Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241022T074500Z
+SUMMARY:Analiza sprawozdań finansowych\, Analiza sprawozdań finansowych (ćwiczenia)
+UID:11f19dd7-8b4f-4433-9de6-21b94c78b1e3@11f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartłomiej Wrona
+DTEND:20241202T190000Z
+LOCATION:link do zajęć
+DTSTART:20241202T173000Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (wykład)
+UID:fc1c332a-d0e0-423e-aeab-ceb0f67cd3ae@fc1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20241031T134500Z
+LOCATION:link do zajęć
+DTSTART:20241031T121500Z
+SUMMARY:Analiza sprawozdań finansowych (wykład)
+UID:9b2605f8-156b-4447-9e06-43f88d120a9c@9b26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zieniuk
+DTEND:20241014T091500Z
+LOCATION:link do zajęć
+DTSTART:20241014T074500Z
+SUMMARY:Rachunkowość organizacji pozarządowych (wykład do wyboru)
+UID:2b1fca07-7456-4013-b8f5-7a18ac8cc48e@2b1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20241106T134500Z
+LOCATION:Paw.F 515
+DTSTART:20241106T121500Z
+SUMMARY:Rewizja finansowa (ćwiczenia)
+UID:25b882b6-6c02-42f2-ad0b-8e502529a740@25b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20241017T124500Z
+LOCATION:link do zajęć
+DTSTART:20241017T111500Z
+SUMMARY:Analiza sprawozdań finansowych (wykład)
+UID:54b5d946-fe87-4a9d-b6d1-ee0d4769beee@54b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zieniuk
+DTEND:20241104T101500Z
+LOCATION:link do zajęć
+DTSTART:20241104T084500Z
+SUMMARY:Rachunkowość organizacji pozarządowych (wykład do wyboru)
+UID:4b6ce17a-5041-43a4-9dce-b0f7be81fb8d@4b6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20241015T091500Z
+LOCATION:Paw.F 614
+DTSTART:20241015T074500Z
+SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
+UID:ef0c4be4-9b69-49a0-930d-0c12a02b56d7@ef0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak
+DTEND:20250122T120000Z
+LOCATION:link do zajęć
+DTSTART:20250122T103000Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (wykład do wyboru)
+UID:c68fc1e4-bf03-4c70-aae1-8e4c55cea765@c68f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20241112T101500Z
+LOCATION:Paw.F 614
+DTSTART:20241112T084500Z
+SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
+UID:1fcc1a7e-1195-4256-8dae-7d0cb9910025@1fcc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20241007T110000Z
+LOCATION:link do zajęć
+DTSTART:20241007T093000Z
+SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
+UID:8125ed40-7899-4895-9290-53afd48c3e23@8125.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20241010T161500Z
+LOCATION:link do zajęć
+DTSTART:20241010T144500Z
+SUMMARY:Analiza sprawozdań finansowych (wykład)
+UID:1d63e14e-78e8-42a6-a4fc-0e509bc959ff@1d63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  dr Joanna Rutkowska
+DTEND:20241203T101500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21\, Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241203T084500Z
+SUMMARY:Analiza sprawozdań finansowych\, Analiza sprawozdań finansowych (ćwiczenia)
+UID:c7f0a02f-e775-40d9-9bda-b00505e12560@c7f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
+DTEND:20241003T143000Z
+LOCATION:link do zajęć
+DTSTART:20241003T130000Z
+SUMMARY:Rewizja finansowa (wykład)
+UID:58f4a4ac-98c9-4585-8769-565cc871c3c2@58f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20241028T120000Z
+LOCATION:link do zajęć
+DTSTART:20241028T103000Z
+SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
+UID:8a8f86f5-ad95-4440-96c4-942d03ea78c9@8a8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20241023T124500Z
+LOCATION:Paw.F 515
+DTSTART:20241023T111500Z
+SUMMARY:Rewizja finansowa (ćwiczenia)
+UID:b111a07e-5db7-45e4-955e-dcd6901ed86c@b111.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  dr Joanna Rutkowska
+DTEND:20241217T101500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21\, Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241217T084500Z
+SUMMARY:Analiza sprawozdań finansowych\, Analiza sprawozdań finansowych (ćwiczenia)
+UID:9f65f181-1480-4c78-b8f2-3a875c26b107@9f65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20250115T144500Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20250115T140000Z
+SUMMARY:Rewizja finansowa (ćwiczenia)
+UID:579ea98f-269a-4620-99df-ffa453c804dd@579e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20241126T101500Z
+LOCATION:Paw.F 614
+DTSTART:20241126T084500Z
+SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
+UID:39ed83e7-19d6-42f6-b5a6-e973734506bc@39ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
+DTEND:20241021T184500Z
+LOCATION:link do zajęć
+DTSTART:20241021T163000Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (wykład)
+UID:836453d7-c3b5-4d5d-a799-0bc739e01b3f@8364.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20250121T101500Z
+LOCATION:Paw.F 614
+DTSTART:20250121T084500Z
+SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
+UID:dff13d37-cff8-4134-829a-774dcfa65a13@dff1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20241204T134500Z
+LOCATION:Paw.F 515
+DTSTART:20241204T121500Z
+SUMMARY:Rewizja finansowa (ćwiczenia)
+UID:668723c7-2100-419b-a73d-cb4e7402f004@6687.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  dr Joanna Rutkowska
+DTEND:20250114T101500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21\, Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250114T084500Z
+SUMMARY:Analiza sprawozdań finansowych\, Analiza sprawozdań finansowych (ćwiczenia)
+UID:28486f9e-bcd6-409e-8c47-66aec5dd4955@2848.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:5da04103-c1ac-477a-a2cd-2417e01070ce@5da0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
+DTEND:20241014T161500Z
+LOCATION:Paw.F 717
+DTSTART:20241014T144500Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (ćwiczenia)
+UID:0f58f2b4-c8be-4d6b-8f67-cab65c94d23c@0f58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak
+DTEND:20241211T120000Z
+LOCATION:link do zajęć
+DTSTART:20241211T103000Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (wykład do wyboru)
+UID:f911a8c1-011a-4049-a13e-bf4cc97b7e64@f911.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zieniuk
+DTEND:20241118T101500Z
+LOCATION:link do zajęć
+DTSTART:20241118T084500Z
+SUMMARY:Rachunkowość organizacji pozarządowych (wykład do wyboru)
+UID:9bbe7754-166d-4883-8a7f-8ab0f5b998b0@9bbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20241118T194500Z
+LOCATION:link do zajęć
+DTSTART:20241118T173000Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (wykład)
+UID:26a160e9-78f0-47f9-aa2a-ab713919854f@26a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zieniuk
+DTEND:20241125T101500Z
+LOCATION:link do zajęć
+DTSTART:20241125T084500Z
+SUMMARY:Rachunkowość organizacji pozarządowych (wykład do wyboru)
+UID:7676d6c3-d718-424f-91cc-a76c3fb70a67@7676.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Andrzejewski
+DTEND:20241024T143000Z
+LOCATION:link do zajęć
+DTSTART:20241024T130000Z
+SUMMARY:Rewizja finansowa (wykład)
+UID:22f2ef3d-415c-4dde-82c6-878a243a1fbc@22f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20241202T111500Z
+LOCATION:link do zajęć
+DTSTART:20241202T103000Z
+SUMMARY:Konsolidacja sprawozdań finansowych (wykład)
+UID:7b568ab6-9b8d-417f-a578-85da6e42280e@7b56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20250121T134500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250121T130000Z
+SUMMARY:Analiza sprawozdań finansowych (ćwiczenia)
+UID:33e6e2ad-6b28-41df-9858-cdc8d029286d@33e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20250115T134500Z
+LOCATION:Paw.F 515
+DTSTART:20250115T121500Z
+SUMMARY:Rewizja finansowa (ćwiczenia)
+UID:8fa278b2-13b2-48b0-8ea7-4aa3e5f8bc9e@8fa2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartłomiej Wrona
+DTEND:20250120T170000Z
+LOCATION:Paw.F 106
+DTSTART:20250120T144500Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (ćwiczenia)
+UID:3d2caa6e-3387-405e-b8b0-b15181660a32@3d2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  dr Joanna Rutkowska
+DTEND:20241217T101500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21\, Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241217T084500Z
+SUMMARY:Analiza sprawozdań finansowych\, Analiza sprawozdań finansowych (ćwiczenia)
+UID:18f5bdc5-a5e8-4a5d-939f-f1cfc8ab0853@18f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
+DTEND:20241028T170000Z
+LOCATION:Paw.F 106
+DTSTART:20241028T144500Z
+SUMMARY:Sprawozdawczość finansowa jednostek gospodarczych (ćwiczenia)
+UID:a1c4bae2-92a9-4c69-af1e-35b037358211@a1c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Chłapek
+DTEND:20241210T101500Z
+LOCATION:Paw.F 614
+DTSTART:20241210T084500Z
+SUMMARY:Konsolidacja sprawozdań finansowych (ćwiczenia)
+UID:884b3dc1-6ec2-4d81-be78-c074216a9a21@884b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska
+DTEND:20241121T134500Z
+LOCATION:link do zajęć
+DTSTART:20241121T121500Z
+SUMMARY:Analiza sprawozdań finansowych (wykład)
+UID:d5d74180-6000-4835-91c0-1b50e1826993@d5d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Joanna Rutkowska  dr Joanna Rutkowska
+DTEND:20241119T101500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21\, Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241119T084500Z
+SUMMARY:Analiza sprawozdań finansowych\, Analiza sprawozdań finansowych (ćwiczenia)
+UID:d7a11bb0-ecbd-41ea-a19d-73ec070b2bbd@d7a1.org
+END:VEVENT
+END:VCALENDAR

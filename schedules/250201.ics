@@ -1,0 +1,1282 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Grabińska
+DTEND:20250115T153000Z
+LOCATION:Paw.F 104
+DTSTART:20250115T140000Z
+SUMMARY:Podstawy finansów (ćwiczenia)
+UID:95b1f6c5-5278-473c-b69d-685ad929fcb4@95b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241113T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241113T070000Z
+SUMMARY:Analiza danych ekonomicznych z wykorzystaniem Excela (wykład do wyboru)
+UID:b807a1fe-e313-447c-9fe7-8b232e9a5717@b807.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241128T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241128T121500Z
+SUMMARY:Teoria gier (wykład do wyboru)
+UID:be608cbf-076e-41d9-9e89-e33e95891983@be60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Kultys
+DTEND:20241128T171500Z
+LOCATION:Paw.B 251
+DTSTART:20241128T154500Z
+SUMMARY:Makroekonomia II (ćwiczenia)
+UID:71a5cf3f-cb7d-4843-9541-541ffb3162ff@71a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241106T171500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241106T154500Z
+SUMMARY:Ocena kondycji finansowej przedsiębiorstwa (wykład)
+UID:75b87b54-ff61-4e75-943c-28eceac348e6@75b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241218T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241218T070000Z
+SUMMARY:Analiza danych ekonomicznych z wykorzystaniem Excela (wykład do wyboru)
+UID:6bf803d7-7e02-4830-853e-8352b8a3842f@6bf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Grabińska
+DTEND:20241211T153000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241211T140000Z
+SUMMARY:Podstawy finansów (wykład)
+UID:0360835d-d4fc-4a6d-a73c-cb49b470174d@0360.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241120T120000Z
+LOCATION:Paw.A 301b
+DTSTART:20241120T103000Z
+SUMMARY:Ocena kondycji finansowej przedsiębiorstwa (ćwiczenia)
+UID:a4a5b21e-ba27-4e97-b0bb-f848bd78cc8a@a4a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Kornafel
+DTEND:20241220T083000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241220T070000Z
+SUMMARY:Wstęp do metod numerycznych (wykład do wyboru)
+UID:abcffb8e-1aa1-4233-b3f2-9e09bb3c45ce@abcf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Kornafel
+DTEND:20241129T083000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241129T070000Z
+SUMMARY:Wstęp do metod numerycznych (wykład do wyboru)
+UID:1f306d87-46ce-466d-863a-2c0f627cbec2@1f30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Kornafel
+DTEND:20241213T083000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241213T070000Z
+SUMMARY:Wstęp do metod numerycznych (wykład do wyboru)
+UID:ec082f71-932d-45aa-aeae-193946fcc88c@ec08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Józef Pociecha
+DTEND:20241204T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241204T121500Z
+SUMMARY:Statystyka matematyczna (wykład)
+UID:cd097140-f376-4f6d-8117-842bef43d4eb@cd09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20250115T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250115T070000Z
+SUMMARY:Analiza danych ekonomicznych z wykorzystaniem Excela (wykład do wyboru)
+UID:8804f629-7523-4894-a817-7dfa2966b468@8804.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Salamaga
+DTEND:20241126T134500Z
+LOCATION:Paw.F 516
+DTSTART:20241126T121500Z
+SUMMARY:Statystyka matematyczna (ćwiczenia)
+UID:cb5444a7-c2ff-4ce6-a4b5-f4f937ff08f0@cb54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241204T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241204T070000Z
+SUMMARY:Analiza danych ekonomicznych z wykorzystaniem Excela (wykład do wyboru)
+UID:cffaf214-9f3e-47e7-9867-95dd72aa8b09@cffa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241206T120000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241206T103000Z
+SUMMARY:Techniki uczenia się i zarządzania czasem (wykład do wyboru)
+UID:86722a8d-6e94-42df-bc76-304d9921f118@8672.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamil Fijorek
+DTEND:20250120T190000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250120T173000Z
+SUMMARY:Statystyka z pakietem R (ćwiczenia do wyboru)
+UID:bb9e1bfd-76b5-416d-932e-270d41d03c5b@bb9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamil Fijorek
+DTEND:20241118T171500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241118T154500Z
+SUMMARY:Statystyka z pakietem R (ćwiczenia do wyboru)
+UID:9d0e5b64-475c-4b06-a816-e4df3db1e81a@9d0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Kultys
+DTEND:20241107T171500Z
+LOCATION:Paw.B 251
+DTSTART:20241107T154500Z
+SUMMARY:Makroekonomia II (ćwiczenia)
+UID:2ccedea4-0144-4a8f-aae6-2e4aeebb8b6f@2cce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Kultys
+DTEND:20241031T171500Z
+LOCATION:Paw.B 251
+DTSTART:20241031T154500Z
+SUMMARY:Makroekonomia II (ćwiczenia)
+UID:02ddf114-9af2-4e9c-9583-f88f0662d797@02dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Kornafel
+DTEND:20250117T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20250117T121500Z
+SUMMARY:Wstęp do metod numerycznych (wykład do wyboru)
+UID:6c0b895f-ccc5-49c9-bdf5-ed6af8319498@6c0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Salamaga
+DTEND:20241112T134500Z
+LOCATION:Paw.F 516
+DTSTART:20241112T121500Z
+SUMMARY:Statystyka matematyczna (ćwiczenia)
+UID:1aa0a9a0-28f5-4879-b91a-6f723e904ea4@1aa0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Salamaga
+DTEND:20241029T134500Z
+LOCATION:Paw.F 516
+DTSTART:20241029T121500Z
+SUMMARY:Statystyka matematyczna (ćwiczenia)
+UID:46e6dc97-5eee-4fc9-8efd-a20811a900eb@46e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Kultys
+DTEND:20241114T171500Z
+LOCATION:Paw.B 251
+DTSTART:20241114T154500Z
+SUMMARY:Makroekonomia II (ćwiczenia)
+UID:f8763db7-0b79-4706-85dc-c6978cf74c3b@f876.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Kornafel
+DTEND:20241206T083000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241206T070000Z
+SUMMARY:Wstęp do metod numerycznych (wykład do wyboru)
+UID:ed42a387-e386-4bdd-ad61-0881dfb665b3@ed42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20250109T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250109T121500Z
+SUMMARY:Teoria gier (wykład do wyboru)
+UID:2b9da4d4-3756-4e5c-9be2-11096c72634e@2b9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241016T073000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241016T060000Z
+SUMMARY:Analiza danych ekonomicznych z wykorzystaniem Excela (wykład do wyboru)
+UID:275a190c-2420-485a-892d-c8cd6943f004@275a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241008T143000Z
+LOCATION:Paw.F 104
+DTSTART:20241008T130000Z
+SUMMARY:Teoria gier (ćwiczenia do wyboru)
+UID:c72a67e3-7780-4b38-a5ea-15c140e9196d@c72a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Kultys
+DTEND:20250123T171500Z
+LOCATION:Paw.B 251
+DTSTART:20250123T154500Z
+SUMMARY:Makroekonomia II (ćwiczenia)
+UID:d3a2b37d-1243-439c-abc3-a2f31adb86c4@d3a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241218T120000Z
+LOCATION:Paw.A 301b
+DTSTART:20241218T103000Z
+SUMMARY:Ocena kondycji finansowej przedsiębiorstwa (ćwiczenia)
+UID:f83af221-e711-4af8-b52c-10e9e192ed38@f83a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Salamaga
+DTEND:20250121T134500Z
+LOCATION:Paw.F 516
+DTSTART:20250121T121500Z
+SUMMARY:Statystyka matematyczna (ćwiczenia)
+UID:53b37e4d-6fee-45e7-b763-974a595d96a2@53b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Grabińska
+DTEND:20241009T143000Z
+LOCATION:Paw.F 104
+DTSTART:20241009T130000Z
+SUMMARY:Podstawy finansów (ćwiczenia)
+UID:9920e2ca-64cd-4a5a-9bcf-e717ed249c73@9920.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241030T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241030T070000Z
+SUMMARY:Analiza danych ekonomicznych z wykorzystaniem Excela (wykład do wyboru)
+UID:2d9c891e-907a-4503-989e-026a817d67b3@2d9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Kultys
+DTEND:20241121T171500Z
+LOCATION:Paw.B 251
+DTSTART:20241121T154500Z
+SUMMARY:Makroekonomia II (ćwiczenia)
+UID:58a70ebf-f5b0-45ce-b849-c433d17c2b3d@58a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Grabińska
+DTEND:20241023T143000Z
+LOCATION:Paw.F 104
+DTSTART:20241023T130000Z
+SUMMARY:Podstawy finansów (ćwiczenia)
+UID:d1108d75-115f-4c83-bc8d-daf1f642690a@d110.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Kultys
+DTEND:20241205T171500Z
+LOCATION:Paw.B 251
+DTSTART:20241205T154500Z
+SUMMARY:Makroekonomia II (ćwiczenia)
+UID:cdf06d49-0e9f-4b9d-a025-6119b70f5f4d@cdf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Józef Pociecha
+DTEND:20250108T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250108T121500Z
+SUMMARY:Statystyka matematyczna (wykład)
+UID:e05363d3-5340-4ee4-8f26-450b108a1f50@e053.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241119T153000Z
+LOCATION:Paw.F 104
+DTSTART:20241119T140000Z
+SUMMARY:Teoria gier (ćwiczenia do wyboru)
+UID:3afe83c7-e4c6-4aa9-8be8-e26f0f6fe339@3afe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamil Fijorek
+DTEND:20241007T161500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241007T144500Z
+SUMMARY:Statystyka z pakietem R (ćwiczenia do wyboru)
+UID:f8eafb7b-317f-4e9c-9fd9-65b56da40e21@f8ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Józef Pociecha
+DTEND:20241023T124500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241023T111500Z
+SUMMARY:Statystyka matematyczna (wykład)
+UID:7a53426a-c1d2-4cc4-acf8-b332a756d7da@7a53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamil Fijorek
+DTEND:20241104T171500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241104T154500Z
+SUMMARY:Statystyka z pakietem R (ćwiczenia do wyboru)
+UID:9bb2c5f5-f92e-4a21-b2b9-0b87f10f79bc@9bb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241105T153000Z
+LOCATION:Paw.F 104
+DTSTART:20241105T140000Z
+SUMMARY:Teoria gier (ćwiczenia do wyboru)
+UID:9c276740-3637-4f12-a899-a5588a76a12a@9c27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241120T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241120T070000Z
+SUMMARY:Analiza danych ekonomicznych z wykorzystaniem Excela (wykład do wyboru)
+UID:ceb5e9cc-a2bf-46ab-aea5-ec062cae27ee@ceb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Józef Pociecha
+DTEND:20241211T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241211T121500Z
+SUMMARY:Statystyka matematyczna (wykład)
+UID:c3655eb6-4edf-4526-bf70-c806869ddae6@c365.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Salamaga
+DTEND:20241105T134500Z
+LOCATION:Paw.F 516
+DTSTART:20241105T121500Z
+SUMMARY:Statystyka matematyczna (ćwiczenia)
+UID:a3dcbfa3-9498-4dfd-a480-c8f05a394735@a3dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Kultys
+DTEND:20241219T171500Z
+LOCATION:Paw.B 251
+DTSTART:20241219T154500Z
+SUMMARY:Makroekonomia II (ćwiczenia)
+UID:a4a439f0-2030-4910-84e8-914b5fc6fcb5@a4a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Kultys
+DTEND:20250116T171500Z
+LOCATION:Paw.B 251
+DTSTART:20250116T154500Z
+SUMMARY:Makroekonomia II (ćwiczenia)
+UID:94dadcb3-6b5f-4dfa-afe5-1f82733d2959@94da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:13b8e328-f692-418d-9e5f-81954215ed72@13b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Józef Pociecha
+DTEND:20241106T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241106T121500Z
+SUMMARY:Statystyka matematyczna (wykład)
+UID:7b035947-9403-4b6f-b059-5874565f9ac5@7b03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241023T073000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241023T060000Z
+SUMMARY:Analiza danych ekonomicznych z wykorzystaniem Excela (wykład do wyboru)
+UID:9a649623-6cae-4c1c-88e9-24c3d2533b9c@9a64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamil Fijorek
+DTEND:20241127T190000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241127T173000Z
+SUMMARY:Statystyka z pakietem R (ćwiczenia do wyboru)
+UID:5e854836-3874-468a-932d-05d9fbd4ca97@5e85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Józef Pociecha
+DTEND:20241218T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241218T121500Z
+SUMMARY:Statystyka matematyczna (wykład)
+UID:99ace9c1-9c44-4686-a389-ccb435812d5a@99ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241120T171500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241120T154500Z
+SUMMARY:Ocena kondycji finansowej przedsiębiorstwa (wykład)
+UID:c518d347-77b6-42c7-a563-a02d7a7902b3@c518.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20250122T111500Z
+LOCATION:Paw.F 109
+DTSTART:20250122T103000Z
+SUMMARY:Ocena kondycji finansowej przedsiębiorstwa (wykład)
+UID:2231322c-ae04-4fba-8fc0-cc53baf95da8@2231.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Salamaga
+DTEND:20241001T124500Z
+LOCATION:Paw.F 516
+DTSTART:20241001T111500Z
+SUMMARY:Statystyka matematyczna (ćwiczenia)
+UID:66349434-c7ee-4e02-843b-bbb9b8ddd4c2@6634.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Józef Pociecha
+DTEND:20241127T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241127T121500Z
+SUMMARY:Statystyka matematyczna (wykład)
+UID:aea7cf44-91fd-4534-965f-f35d4b3ec058@aea7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20250124T120000Z
+LOCATION:Paw.S sala 3
+DTSTART:20250124T103000Z
+SUMMARY:Techniki uczenia się i zarządzania czasem (wykład do wyboru)
+UID:8cf6e22e-a9c6-497d-afd1-e33bce8ade8b@8cf6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20250110T120000Z
+LOCATION:Paw.S sala 3
+DTSTART:20250110T103000Z
+SUMMARY:Techniki uczenia się i zarządzania czasem (wykład do wyboru)
+UID:37d973b4-34ed-4d18-bb9b-4c0bcefee675@37d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Józef Pociecha
+DTEND:20250108T153000Z
+LOCATION:Paw.S sala 8
+DTSTART:20250108T140000Z
+SUMMARY:Statystyka matematyczna (wykład)
+UID:40231ab1-f1ac-4878-9b06-4b669ea85156@4023.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Kornafel
+DTEND:20250124T083000Z
+LOCATION:Paw.S sala 8
+DTSTART:20250124T070000Z
+SUMMARY:Wstęp do metod numerycznych (wykład do wyboru)
+UID:cb624745-c373-4080-b1ed-3fb88928018f@cb62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamil Fijorek
+DTEND:20241014T161500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241014T144500Z
+SUMMARY:Statystyka z pakietem R (ćwiczenia do wyboru)
+UID:7084edd4-cabe-4088-bc4a-979ddabc6596@7084.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241212T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241212T121500Z
+SUMMARY:Teoria gier (wykład do wyboru)
+UID:e14c7106-5d15-4eac-a6c3-cfe021f7d7e1@e14c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Salamaga
+DTEND:20250114T134500Z
+LOCATION:Paw.F 516
+DTSTART:20250114T121500Z
+SUMMARY:Statystyka matematyczna (ćwiczenia)
+UID:68adc270-076c-4f1c-a2da-e86827e86211@68ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20250124T134500Z
+LOCATION:Paw.S sala 4
+DTSTART:20250124T121500Z
+SUMMARY:Techniki uczenia się i zarządzania czasem (wykład do wyboru)
+UID:2f8788ab-76fa-4c0c-b8bd-9319d1c4999d@2f87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Kultys
+DTEND:20250109T171500Z
+LOCATION:Paw.B 251
+DTSTART:20250109T154500Z
+SUMMARY:Makroekonomia II (ćwiczenia)
+UID:714b4cd4-0137-4d37-848f-e96ba9b9c755@714b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamil Fijorek
+DTEND:20250120T171500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250120T154500Z
+SUMMARY:Statystyka z pakietem R (ćwiczenia do wyboru)
+UID:cbb6207f-1d2b-4ef7-90b5-8c0f24634b9c@cbb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Salamaga
+DTEND:20241015T124500Z
+LOCATION:Paw.F 516
+DTSTART:20241015T111500Z
+SUMMARY:Statystyka matematyczna (ćwiczenia)
+UID:53e4e20c-4647-46a6-99f2-119dc7c73c1b@53e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Kultys
+DTEND:20241121T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241121T121500Z
+SUMMARY:Makroekonomia II (wykład)
+UID:ff408ff8-222a-4881-beb5-e912f84248e3@ff40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Józef Pociecha
+DTEND:20250122T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250122T121500Z
+SUMMARY:Statystyka matematyczna (wykład)
+UID:ecae7d27-7237-4dcf-9aa9-8bcba9e5ac93@ecae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241003T124500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241003T111500Z
+SUMMARY:Teoria gier (wykład do wyboru)
+UID:6c94ed3f-6f0e-47cf-aeec-0c9e23127a38@6c94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Grabińska
+DTEND:20241218T153000Z
+LOCATION:Paw.F 104
+DTSTART:20241218T140000Z
+SUMMARY:Podstawy finansów (ćwiczenia)
+UID:5ee58dd9-cdae-4b2b-b1cb-f525948a46c5@5ee5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241213T120000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241213T103000Z
+SUMMARY:Techniki uczenia się i zarządzania czasem (wykład do wyboru)
+UID:d55fdd99-56b5-4f88-b7d3-2921e440cde7@d55f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20250121T144500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20250121T140000Z
+SUMMARY:Teoria gier (ćwiczenia do wyboru)
+UID:da54ed07-400b-4e52-b63d-d213430b6bd8@da54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Grabińska
+DTEND:20241030T153000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241030T140000Z
+SUMMARY:Podstawy finansów (wykład)
+UID:5c0b0715-e7f8-49e7-bab1-25093df2cd1c@5c0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Kultys
+DTEND:20241017T161500Z
+LOCATION:Paw.B 251
+DTSTART:20241017T144500Z
+SUMMARY:Makroekonomia II (ćwiczenia)
+UID:dcde2cc1-de2c-420e-99fb-8384016b8414@dcde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Józef Pociecha
+DTEND:20241120T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241120T121500Z
+SUMMARY:Statystyka matematyczna (wykład)
+UID:096bde82-69f7-41a4-b16d-60f878f5da43@096b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241004T110000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241004T093000Z
+SUMMARY:Techniki uczenia się i zarządzania czasem (wykład do wyboru)
+UID:ada9f65e-b79b-40f1-ad35-3119db78f474@ada9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Salamaga
+DTEND:20250107T134500Z
+LOCATION:Paw.F 516
+DTSTART:20250107T121500Z
+SUMMARY:Statystyka matematyczna (ćwiczenia)
+UID:388569ae-9c53-4415-b157-3d1c4acabdf1@3885.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Józef Pociecha
+DTEND:20250115T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250115T121500Z
+SUMMARY:Statystyka matematyczna (wykład)
+UID:65c89905-6d50-47be-a00f-83b1231436e9@65c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Kultys
+DTEND:20241024T161500Z
+LOCATION:Paw.B 251
+DTSTART:20241024T144500Z
+SUMMARY:Makroekonomia II (ćwiczenia)
+UID:41fcb9a1-5090-4fb3-9875-ea16762c21ff@41fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamil Fijorek
+DTEND:20250113T171500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250113T154500Z
+SUMMARY:Statystyka z pakietem R (ćwiczenia do wyboru)
+UID:ea43d4c2-d771-4859-b18f-cd5e87c19cc3@ea43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20250114T153000Z
+LOCATION:Paw.F 104
+DTSTART:20250114T140000Z
+SUMMARY:Teoria gier (ćwiczenia do wyboru)
+UID:d82969ac-58dd-4082-98ff-37d2273fa416@d829.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Grabińska
+DTEND:20241016T143000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241016T130000Z
+SUMMARY:Podstawy finansów (wykład)
+UID:837ec45c-e82b-46e3-b2bf-a86927b364c1@837e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Kultys
+DTEND:20250123T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250123T130000Z
+SUMMARY:Makroekonomia II (wykład)
+UID:57912d4f-88ec-4945-a7d1-822e9e24e322@5791.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241009T073000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241009T060000Z
+SUMMARY:Analiza danych ekonomicznych z wykorzystaniem Excela (wykład do wyboru)
+UID:6a079fdd-abeb-42b3-b7a5-4761b71527db@6a07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Salamaga
+DTEND:20241203T134500Z
+LOCATION:Paw.F 516
+DTSTART:20241203T121500Z
+SUMMARY:Statystyka matematyczna (ćwiczenia)
+UID:cc477744-f58a-49b3-a6e7-7a36594a7469@cc47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241220T120000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241220T103000Z
+SUMMARY:Techniki uczenia się i zarządzania czasem (wykład do wyboru)
+UID:67a8203c-db5f-4471-9742-bc87d0e242f7@67a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Kultys
+DTEND:20241010T180000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241010T163000Z
+SUMMARY:Makroekonomia II (wykład)
+UID:3f27b2de-8786-45e2-aa72-d8b6d0bd09c3@3f27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Kultys
+DTEND:20241107T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241107T121500Z
+SUMMARY:Makroekonomia II (wykład)
+UID:8062f119-671b-4cd7-a3e4-a0a6c32f7c07@8062.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Kornafel
+DTEND:20241115T083000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241115T070000Z
+SUMMARY:Wstęp do metod numerycznych (wykład do wyboru)
+UID:18c6156f-4df9-4e40-926d-78d3e9c10d78@18c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Józef Pociecha
+DTEND:20241113T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241113T121500Z
+SUMMARY:Statystyka matematyczna (wykład)
+UID:773baf1e-2920-45b1-845c-40af5f302e27@773b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241018T110000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241018T093000Z
+SUMMARY:Techniki uczenia się i zarządzania czasem (wykład do wyboru)
+UID:240a49eb-c712-4a84-af21-0e907be93dac@240a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20250122T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250122T070000Z
+SUMMARY:Analiza danych ekonomicznych z wykorzystaniem Excela (wykład do wyboru)
+UID:c1f64fa4-68b3-47d4-8109-927168d56a25@c1f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Józef Pociecha
+DTEND:20241016T124500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241016T111500Z
+SUMMARY:Statystyka matematyczna (wykład)
+UID:fa8bc230-114f-4b69-8c00-83ffe7d2b61f@fa8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamil Fijorek
+DTEND:20241021T161500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241021T144500Z
+SUMMARY:Statystyka z pakietem R (ćwiczenia do wyboru)
+UID:a21dfd8f-1fef-4f13-9f12-c86d988ddf9f@a21d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Grabińska
+DTEND:20250122T144500Z
+LOCATION:Paw.S sala 7
+DTSTART:20250122T140000Z
+SUMMARY:Podstawy finansów (ćwiczenia)
+UID:ea23713b-26be-4eff-9d55-2e6457eae23c@ea23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamil Fijorek
+DTEND:20241028T171500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241028T154500Z
+SUMMARY:Statystyka z pakietem R (ćwiczenia do wyboru)
+UID:44e3fe24-3e78-44f7-9cdb-33ef618a8a3d@44e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241025T110000Z
+LOCATION:Paw.F 715
+DTSTART:20241025T093000Z
+SUMMARY:Techniki uczenia się i zarządzania czasem (wykład do wyboru)
+UID:c8e3a699-df0b-4538-b024-d179ea1cebd8@c8e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Kornafel
+DTEND:20241011T073000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241011T060000Z
+SUMMARY:Wstęp do metod numerycznych (wykład do wyboru)
+UID:5ff28f00-aa58-493a-8acf-e5a496b45daa@5ff2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Salamaga
+DTEND:20241022T124500Z
+LOCATION:Paw.F 516
+DTSTART:20241022T111500Z
+SUMMARY:Statystyka matematyczna (ćwiczenia)
+UID:3b5664ae-87de-442b-9d6a-390ba8dec85e@3b56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241122T120000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241122T103000Z
+SUMMARY:Techniki uczenia się i zarządzania czasem (wykład do wyboru)
+UID:54dbdc19-d4c6-4bb2-ac10-d02f621cba47@54db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Kornafel
+DTEND:20241025T073000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241025T060000Z
+SUMMARY:Wstęp do metod numerycznych (wykład do wyboru)
+UID:4a7d6e55-7cd7-4e31-bca7-2230a5be649b@4a7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamil Fijorek
+DTEND:20241125T171500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241125T154500Z
+SUMMARY:Statystyka z pakietem R (ćwiczenia do wyboru)
+UID:819fa95f-dfac-4200-a60a-3424583f0007@819f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamil Fijorek
+DTEND:20241211T190000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241211T173000Z
+SUMMARY:Statystyka z pakietem R (ćwiczenia do wyboru)
+UID:d49be04f-d618-4d46-b4f4-a7d5db0adb09@d49b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241024T180000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241024T163000Z
+SUMMARY:Teoria gier (wykład do wyboru)
+UID:f34b0517-c209-46f7-86e0-33fefeac3615@f34b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241108T120000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241108T103000Z
+SUMMARY:Techniki uczenia się i zarządzania czasem (wykład do wyboru)
+UID:2389f827-b927-45f7-bad2-d6d7e57435aa@2389.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Salamaga
+DTEND:20241210T134500Z
+LOCATION:Paw.F 516
+DTSTART:20241210T121500Z
+SUMMARY:Statystyka matematyczna (ćwiczenia)
+UID:7d21b26e-bad0-427a-82ab-5adb3049d304@7d21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20250117T120000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20250117T103000Z
+SUMMARY:Techniki uczenia się i zarządzania czasem (wykład do wyboru)
+UID:0eb4c8f8-9a66-4308-bbcd-8709d215bad3@0eb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241022T143000Z
+LOCATION:Paw.F 104
+DTSTART:20241022T130000Z
+SUMMARY:Teoria gier (ćwiczenia do wyboru)
+UID:15328349-c494-40d8-9a71-d04fbe52d058@1532.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241204T120000Z
+LOCATION:Paw.A 301b
+DTSTART:20241204T103000Z
+SUMMARY:Ocena kondycji finansowej przedsiębiorstwa (ćwiczenia)
+UID:33379efb-a519-4244-90b2-505682b6f22d@3337.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Grabińska
+DTEND:20241127T153000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241127T140000Z
+SUMMARY:Podstawy finansów (wykład)
+UID:090eef7b-ec70-4cfe-98c7-1dada74e81b6@090e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:07e17e2e-3d43-4d64-a196-d3c2dd8d803d@07e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20250120T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250120T070000Z
+SUMMARY:Analiza danych ekonomicznych z wykorzystaniem Excela (wykład do wyboru)
+UID:53ec7aa4-8330-4dc4-816b-ba843b70ffdd@53ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Józef Pociecha
+DTEND:20241030T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241030T121500Z
+SUMMARY:Statystyka matematyczna (wykład)
+UID:dc82f5ec-deb9-4f0f-b906-3df09bac1e47@dc82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241106T120000Z
+LOCATION:Paw.A 301b
+DTSTART:20241106T103000Z
+SUMMARY:Ocena kondycji finansowej przedsiębiorstwa (ćwiczenia)
+UID:a06387bd-9207-4d6b-a624-61730a7d35fa@a063.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241011T110000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241011T093000Z
+SUMMARY:Techniki uczenia się i zarządzania czasem (wykład do wyboru)
+UID:91420cc8-8a84-45fb-8ab8-4d9768a6ec40@9142.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241217T153000Z
+LOCATION:Paw.F 104
+DTSTART:20241217T140000Z
+SUMMARY:Teoria gier (ćwiczenia do wyboru)
+UID:1f5b1e3c-7e9d-4740-acad-c1d2354a0cf0@1f5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Kultys
+DTEND:20241212T171500Z
+LOCATION:Paw.B 251
+DTSTART:20241212T154500Z
+SUMMARY:Makroekonomia II (ćwiczenia)
+UID:0460a947-90bd-42ff-bae8-1e539bb3bb02@0460.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Grabińska
+DTEND:20241204T153000Z
+LOCATION:Paw.F 104
+DTSTART:20241204T140000Z
+SUMMARY:Podstawy finansów (ćwiczenia)
+UID:8e37164f-0357-44d7-8aae-0c68b4161ff6@8e37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamil Fijorek
+DTEND:20241202T171500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241202T154500Z
+SUMMARY:Statystyka z pakietem R (ćwiczenia do wyboru)
+UID:0a9bfe1b-811f-40dc-b545-ab4419ea4468@0a9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Kornafel
+DTEND:20241122T083000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241122T070000Z
+SUMMARY:Wstęp do metod numerycznych (wykład do wyboru)
+UID:e4b5b12b-e266-49be-9367-d196f374ccb6@e4b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20250117T153000Z
+LOCATION:Paw.S sala 8
+DTSTART:20250117T144500Z
+SUMMARY:Teoria gier (wykład do wyboru)
+UID:3668985c-d96b-4561-8086-c6d1f08c82a3@3668.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Józef Pociecha
+DTEND:20241009T124500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241009T111500Z
+SUMMARY:Statystyka matematyczna (wykład)
+UID:c365f34b-c19f-4d62-9345-cedf656c5388@c365.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamil Fijorek
+DTEND:20241216T171500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241216T154500Z
+SUMMARY:Statystyka z pakietem R (ćwiczenia do wyboru)
+UID:cbc5f717-abfb-41e1-b0e7-cd9904dfa328@cbc5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Salamaga
+DTEND:20241217T134500Z
+LOCATION:Paw.F 516
+DTSTART:20241217T121500Z
+SUMMARY:Statystyka matematyczna (ćwiczenia)
+UID:2d13fb4e-965e-4c95-8ebd-01d66490fcc0@2d13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241218T171500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241218T154500Z
+SUMMARY:Ocena kondycji finansowej przedsiębiorstwa (wykład)
+UID:7bf43104-830a-47ee-96af-f9fc891bb068@7bf4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241023T110000Z
+LOCATION:Paw.A 301b
+DTSTART:20241023T093000Z
+SUMMARY:Ocena kondycji finansowej przedsiębiorstwa (ćwiczenia)
+UID:3dd6c4aa-2609-48e3-ac95-9ad54bb4f432@3dd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Grabińska
+DTEND:20241106T153000Z
+LOCATION:Paw.F 104
+DTSTART:20241106T140000Z
+SUMMARY:Podstawy finansów (ćwiczenia)
+UID:27d2dcb2-2f70-4f96-ae87-a19476c4e548@27d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Kornafel
+DTEND:20241018T073000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241018T060000Z
+SUMMARY:Wstęp do metod numerycznych (wykład do wyboru)
+UID:3cf83953-8969-414f-ad8e-b79bfa93c9f2@3cf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241114T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241114T121500Z
+SUMMARY:Teoria gier (wykład do wyboru)
+UID:cf904f9f-b0e8-4946-bedd-64b13df009a5@cf90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Grabińska
+DTEND:20241120T153000Z
+LOCATION:Paw.F 104
+DTSTART:20241120T140000Z
+SUMMARY:Podstawy finansów (ćwiczenia)
+UID:c70ea169-4a3b-4cd7-899b-57dbae284cab@c70e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Kultys
+DTEND:20241003T161500Z
+LOCATION:Paw.B 251
+DTSTART:20241003T144500Z
+SUMMARY:Makroekonomia II (ćwiczenia)
+UID:d802f9f3-cefa-435a-b438-959be74f1bb7@d802.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Kultys
+DTEND:20241010T161500Z
+LOCATION:Paw.B 251
+DTSTART:20241010T144500Z
+SUMMARY:Makroekonomia II (ćwiczenia)
+UID:57752a81-31fb-4f10-aec1-ea2a0d267f6f@5775.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Kornafel
+DTEND:20241004T073000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241004T060000Z
+SUMMARY:Wstęp do metod numerycznych (wykład do wyboru)
+UID:d8162681-6be9-41f2-ab64-1fa0adad01eb@d816.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Kultys
+DTEND:20241205T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241205T121500Z
+SUMMARY:Makroekonomia II (wykład)
+UID:1d6e759a-b43d-457e-bd86-9b1293e108a9@1d6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241115T120000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241115T103000Z
+SUMMARY:Techniki uczenia się i zarządzania czasem (wykład do wyboru)
+UID:5282e448-c2dc-46db-993f-4032d0cc19d5@5282.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241129T120000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241129T103000Z
+SUMMARY:Techniki uczenia się i zarządzania czasem (wykład do wyboru)
+UID:a2e2c583-86bb-41f3-aba6-048d9f65775e@a2e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241127T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241127T070000Z
+SUMMARY:Analiza danych ekonomicznych z wykorzystaniem Excela (wykład do wyboru)
+UID:4fbc8739-a51b-4db6-847a-f667860be7c1@4fbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241211T120000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241211T111500Z
+SUMMARY:Ocena kondycji finansowej przedsiębiorstwa (ćwiczenia)
+UID:d310e133-1dfd-43cd-bd20-f394ff4d7ac0@d310.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20250115T120000Z
+LOCATION:Paw.A 301b
+DTSTART:20250115T103000Z
+SUMMARY:Ocena kondycji finansowej przedsiębiorstwa (ćwiczenia)
+UID:c5dc2d5a-cd0d-4557-a3eb-a201b858731c@c5dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241204T171500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241204T154500Z
+SUMMARY:Ocena kondycji finansowej przedsiębiorstwa (wykład)
+UID:ddf73875-213c-401c-ad94-074fdc699eaa@ddf7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20241211T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241211T070000Z
+SUMMARY:Analiza danych ekonomicznych z wykorzystaniem Excela (wykład do wyboru)
+UID:f8543fb7-c5e4-42fa-a197-4ef04cc1f920@f854.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamil Fijorek
+DTEND:20241209T171500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241209T154500Z
+SUMMARY:Statystyka z pakietem R (ćwiczenia do wyboru)
+UID:86622055-8c60-4576-9876-e0b9a1853a04@8662.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20250115T171500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250115T154500Z
+SUMMARY:Ocena kondycji finansowej przedsiębiorstwa (wykład)
+UID:c3eaee73-8cb2-427d-b406-0ab7359d4936@c3ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Grabińska
+DTEND:20241113T153000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241113T140000Z
+SUMMARY:Podstawy finansów (wykład)
+UID:5907b98d-8342-4332-abad-d8b31a46d296@5907.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Kultys
+DTEND:20241024T124500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241024T111500Z
+SUMMARY:Makroekonomia II (wykład)
+UID:0772dc6e-16f9-4129-a73e-aa5f60f76e8d@0772.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Kornafel
+DTEND:20241108T083000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241108T070000Z
+SUMMARY:Wstęp do metod numerycznych (wykład do wyboru)
+UID:8a8c19ae-b7e8-480e-972f-e23bd7b65545@8a8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Kornafel
+DTEND:20250117T083000Z
+LOCATION:Paw.S sala 8
+DTSTART:20250117T070000Z
+SUMMARY:Wstęp do metod numerycznych (wykład do wyboru)
+UID:0974bf27-3017-4093-8bd9-a6ce6e70b2dd@0974.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Kultys
+DTEND:20241003T110000Z
+LOCATION:Paw.S sala 6
+DTSTART:20241003T093000Z
+SUMMARY:Makroekonomia II (wykład)
+UID:53606883-5996-41a4-a5db-cbd00cc2610c@5360.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Kornafel
+DTEND:20250110T083000Z
+LOCATION:Paw.S sala 8
+DTSTART:20250110T070000Z
+SUMMARY:Wstęp do metod numerycznych (wykład do wyboru)
+UID:0da0892a-3b72-4f34-bc5e-836acf69e41f@0da0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Salamaga
+DTEND:20241119T134500Z
+LOCATION:Paw.F 516
+DTSTART:20241119T121500Z
+SUMMARY:Statystyka matematyczna (ćwiczenia)
+UID:78d96211-c53e-48ad-bca8-abad094150e9@78d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Salamaga
+DTEND:20241008T124500Z
+LOCATION:Paw.F 516
+DTSTART:20241008T111500Z
+SUMMARY:Statystyka matematyczna (ćwiczenia)
+UID:2b65ca2d-01c2-413e-a907-9c16a6543efa@2b65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241023T161500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241023T144500Z
+SUMMARY:Ocena kondycji finansowej przedsiębiorstwa (wykład)
+UID:a1a64636-9acd-40cc-8bee-46024e2d7a69@a1a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241031T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241031T121500Z
+SUMMARY:Teoria gier (wykład do wyboru)
+UID:d8e512cc-fc34-4250-94f1-c4934ec54117@d8e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Kultys
+DTEND:20250116T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250116T121500Z
+SUMMARY:Makroekonomia II (wykład)
+UID:bca19a3f-9f89-4e94-8509-ac546656df39@bca1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241009T161500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241009T144500Z
+SUMMARY:Ocena kondycji finansowej przedsiębiorstwa (wykład)
+UID:94c283bc-be5f-4fb9-844b-2a1a932fa1f9@94c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241009T110000Z
+LOCATION:Paw.A 301b
+DTSTART:20241009T093000Z
+SUMMARY:Ocena kondycji finansowej przedsiębiorstwa (ćwiczenia)
+UID:97459294-052c-40ae-939e-168fd3cfb601@9745.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20250108T083000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250108T070000Z
+SUMMARY:Analiza danych ekonomicznych z wykorzystaniem Excela (wykład do wyboru)
+UID:6d42db85-7d4d-44a4-90e3-aa2c54dfa5b3@6d42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241203T153000Z
+LOCATION:Paw.F 104
+DTSTART:20241203T140000Z
+SUMMARY:Teoria gier (ćwiczenia do wyboru)
+UID:388d11f3-2a1f-4e62-984c-392e54b09c48@388d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Frodyma
+DTEND:20250123T083000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250123T070000Z
+SUMMARY:Analiza danych ekonomicznych z wykorzystaniem Excela (wykład do wyboru)
+UID:c1031e6e-7991-4bd6-8496-c4e1b2c097c0@c103.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1066 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Stal
+DTEND:20241029T110000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241029T084500Z
+SUMMARY:Podstawy programowania (ćwiczenia)
+UID:159c29a6-6a69-4413-847a-33964109cf7f@159c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20241206T134500Z
+LOCATION:Paw.C sala A
+DTSTART:20241206T121500Z
+SUMMARY:Analiza matematyczna i algebra liniowa (wykład)
+UID:390bd0e5-bb5f-43e5-a45f-3dac0cb47ce6@390b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20250117T134500Z
+LOCATION:Paw.F 008
+DTSTART:20250117T121500Z
+SUMMARY:Analiza matematyczna i algebra liniowa (ćwiczenia)
+UID:9528b9a8-3347-4c03-8042-75a15eacbad0@9528.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Stal
+DTEND:20241119T110000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241119T084500Z
+SUMMARY:Podstawy programowania (ćwiczenia)
+UID:859d419a-b67a-4d30-8b91-256b51dba106@859d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Tyrańska
+DTEND:20241113T101500Z
+LOCATION:Paw.B 251
+DTSTART:20241113T084500Z
+SUMMARY:Organizacja i zarządzanie (wykład)
+UID:c9db286e-28bd-4d87-ad13-bc9753109b64@c9db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Madej
+DTEND:20241003T124500Z
+LOCATION:Paw.C sala A
+DTSTART:20241003T111500Z
+SUMMARY:Architektura systemów komputerowych (wykład)
+UID:1ffa5381-7855-4e6f-9709-2d2774d71064@1ffa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Wójcik
+DTEND:20250123T101500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250123T084500Z
+SUMMARY:Teoretyczne podstawy informatyki (ćwiczenia)
+UID:cf053d53-9492-4fb1-ab47-6f3e6c0b786f@cf05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Madej
+DTEND:20241106T101500Z
+LOCATION:Paw.B 251
+DTSTART:20241106T084500Z
+SUMMARY:Architektura systemów komputerowych (wykład)
+UID:7f96b183-1c2c-458d-b359-4d06490af3ad@7f96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Wójcik
+DTEND:20241211T153000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241211T140000Z
+SUMMARY:Arkusz kalkulacyjny w zarządzaniu (ćwiczenia)
+UID:8e8a8d14-1dc6-426c-9eab-36bd642e8f97@8e8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Stal
+DTEND:20241015T100000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241015T074500Z
+SUMMARY:Podstawy programowania (ćwiczenia)
+UID:8117a49e-0280-45e7-8c74-993bc113a35c@8117.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Tyrańska
+DTEND:20241030T101500Z
+LOCATION:Paw.B 251
+DTSTART:20241030T084500Z
+SUMMARY:Organizacja i zarządzanie (wykład)
+UID:d1d5a464-54c8-45b2-8a9e-bbf6bf6dea5a@d1d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20241220T101500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241220T084500Z
+SUMMARY:Analiza matematyczna i algebra liniowa (wykład)
+UID:39abf957-ea97-4260-a7e8-c8cb79cc7cfb@39ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: Studencki Uek Parlament
+DTEND:20241016T161500Z
+LOCATION:Paw.C sala F
+DTSTART:20241016T144500Z
+SUMMARY:Prawa i obowiązki studenta (rezerwacja)
+UID:e823982f-7c1c-41b4-8893-8a3148fd5d59@e823.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Tyrańska
+DTEND:20241016T091500Z
+LOCATION:Paw.B 251
+DTSTART:20241016T074500Z
+SUMMARY:Organizacja i zarządzanie (wykład)
+UID:1b11c2fa-e505-4700-a73d-321a25f38848@1b11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Wójcik
+DTEND:20241016T143000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241016T130000Z
+SUMMARY:Arkusz kalkulacyjny w zarządzaniu (ćwiczenia)
+UID:24934775-e2df-4ab2-968e-dc5d9946aee5@2493.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Stal
+DTEND:20241202T120000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241202T103000Z
+SUMMARY:Cyfrowe formaty danych (ćwiczenia)
+UID:62c4f4bb-4787-4013-b70d-02d45ce829f4@62c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Stal
+DTEND:20241210T110000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241210T084500Z
+SUMMARY:Podstawy programowania (ćwiczenia)
+UID:e25b89d9-21db-481d-af19-83bf76fc8af2@e25b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20241218T120000Z
+LOCATION:Paw.F 614
+DTSTART:20241218T103000Z
+SUMMARY:Analiza matematyczna i algebra liniowa (ćwiczenia)
+UID:63b5ab24-c5a0-4246-aa17-3684ed68b7fe@63b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20250123T120000Z
+LOCATION:Paw.G 10
+DTSTART:20250123T103000Z
+SUMMARY:Organizacja i zarządzanie (ćwiczenia)
+UID:8e1da033-edc0-4043-8208-d2467abf746f@8e1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20241014T124500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241014T111500Z
+SUMMARY:Analiza matematyczna i algebra liniowa (wykład)
+UID:4d2a0949-4646-40ff-b485-e713ddb90db9@4d2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Stal
+DTEND:20241112T110000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241112T084500Z
+SUMMARY:Podstawy programowania (ćwiczenia)
+UID:3e2b35a1-8d41-42bb-a3ac-d134dfc8bb92@3e2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Stal
+DTEND:20241028T120000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241028T103000Z
+SUMMARY:Cyfrowe formaty danych (ćwiczenia)
+UID:3e699355-dc4e-472f-ad1c-abe859af5d71@3e69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20241211T120000Z
+LOCATION:Paw.F 614
+DTSTART:20241211T103000Z
+SUMMARY:Analiza matematyczna i algebra liniowa (ćwiczenia)
+UID:ae8bcf57-4a01-46dc-b538-35ff01031844@ae8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Madej
+DTEND:20241212T153000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241212T140000Z
+SUMMARY:Architektura systemów komputerowych (ćwiczenia)
+UID:dc734023-9281-4cb6-90da-d4d27a62e7f0@dc73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20241206T101500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241206T084500Z
+SUMMARY:Analiza matematyczna i algebra liniowa (wykład)
+UID:ac93a5f9-8b41-4fe2-ab45-209a722271c1@ac93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20250124T101500Z
+LOCATION:Paw.S sala 7
+DTSTART:20250124T084500Z
+SUMMARY:Analiza matematyczna i algebra liniowa (wykład)
+UID:22e02da7-c3f4-4245-8024-352f9597b6d0@22e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Stal
+DTEND:20241022T100000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241022T074500Z
+SUMMARY:Podstawy programowania (ćwiczenia)
+UID:30893823-af1a-4860-be3b-e3a9f2ac2c5f@3089.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Stal
+DTEND:20241014T110000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241014T093000Z
+SUMMARY:Cyfrowe formaty danych (ćwiczenia)
+UID:f4f9a14f-9cec-4fc7-a9e0-fe39704bf8b2@f4f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20241205T120000Z
+LOCATION:Paw.G 10
+DTSTART:20241205T103000Z
+SUMMARY:Organizacja i zarządzanie (ćwiczenia)
+UID:4ef659ad-929b-47c7-bf53-14c0617968c3@4ef6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Wójcik
+DTEND:20241017T091500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241017T074500Z
+SUMMARY:Teoretyczne podstawy informatyki (ćwiczenia)
+UID:3f49eaad-c208-463d-ae0f-4d39ff51edac@3f49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Tyrańska
+DTEND:20250122T101500Z
+LOCATION:Paw.B 251
+DTSTART:20250122T084500Z
+SUMMARY:Organizacja i zarządzanie (wykład)
+UID:7f235b7b-5998-4f0d-9912-1e3e43de2ff0@7f23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20241115T101500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241115T084500Z
+SUMMARY:Analiza matematyczna i algebra liniowa (wykład)
+UID:3210bc50-6b72-43fe-952a-349979ad067a@3210.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Janusz Morajda
+DTEND:20241202T134500Z
+LOCATION:Paw.B 251
+DTSTART:20241202T121500Z
+SUMMARY:Teoretyczne podstawy informatyki (wykład)
+UID:c5f1b489-525d-4da6-9fbd-9a2309ab4d8e@c5f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20241128T120000Z
+LOCATION:Paw.G 10
+DTSTART:20241128T103000Z
+SUMMARY:Organizacja i zarządzanie (ćwiczenia)
+UID:95d4510e-782b-42c1-ab27-04e12218df4f@95d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20241107T120000Z
+LOCATION:Paw.G 10
+DTSTART:20241107T103000Z
+SUMMARY:Organizacja i zarządzanie (ćwiczenia)
+UID:6a3f4da3-ac98-4ef2-b985-dc5e330a8c13@6a3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Wójcik
+DTEND:20241121T101500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241121T084500Z
+SUMMARY:Teoretyczne podstawy informatyki (ćwiczenia)
+UID:20ccde4f-f71b-493b-ba60-58d1d4e91345@20cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20241015T143000Z
+LOCATION:Bud.gł. 7
+DTSTART:20241015T130000Z
+SUMMARY:Analiza matematyczna i algebra liniowa (ćwiczenia)
+UID:d21ac0eb-3f97-4e44-b35f-275f99d3224a@d21a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:d3c3fb2d-dd22-455f-bf38-a586875bccf9@d3c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20250110T101500Z
+LOCATION:Paw.S sala 7
+DTSTART:20250110T084500Z
+SUMMARY:Analiza matematyczna i algebra liniowa (wykład)
+UID:dbeeb1e3-ad6a-4b55-a8d0-3488f2d9d464@dbee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Wójcik
+DTEND:20241205T101500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241205T084500Z
+SUMMARY:Teoretyczne podstawy informatyki (ćwiczenia)
+UID:8e1d9ef3-a695-4a03-9658-0513c0b8fbac@8e1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20241120T120000Z
+LOCATION:Paw.F 614
+DTSTART:20241120T103000Z
+SUMMARY:Analiza matematyczna i algebra liniowa (ćwiczenia)
+UID:f5b9ed02-43ce-406d-8a43-5e10f4d56f45@f5b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20241113T120000Z
+LOCATION:Paw.F 614
+DTSTART:20241113T103000Z
+SUMMARY:Analiza matematyczna i algebra liniowa (ćwiczenia)
+UID:a59e8e85-ff66-4cc8-9f11-83ee61761ddc@a59e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20241121T120000Z
+LOCATION:Paw.G 10
+DTSTART:20241121T103000Z
+SUMMARY:Organizacja i zarządzanie (ćwiczenia)
+UID:47965514-9f23-4f48-960a-c85b477495f7@4796.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20241009T110000Z
+LOCATION:Paw.F 614
+DTSTART:20241009T093000Z
+SUMMARY:Analiza matematyczna i algebra liniowa (ćwiczenia)
+UID:ce3e541a-d7da-48ea-9b19-5006d6029811@ce3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Janusz Morajda
+DTEND:20241104T134500Z
+LOCATION:Paw.B 251
+DTSTART:20241104T121500Z
+SUMMARY:Teoretyczne podstawy informatyki (wykład)
+UID:caedf639-306e-4637-b049-7da828dbe046@caed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Madej
+DTEND:20250115T093000Z
+LOCATION:Paw.B 251
+DTSTART:20250115T084500Z
+SUMMARY:Architektura systemów komputerowych (wykład)
+UID:f143dfc5-ed0e-4823-95ba-89db0e574d19@f143.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Madej
+DTEND:20250109T153000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250109T140000Z
+SUMMARY:Architektura systemów komputerowych (ćwiczenia)
+UID:566caf70-ef77-42f4-9c48-5f341a5ee8de@566c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Wójcik
+DTEND:20241009T143000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241009T130000Z
+SUMMARY:Arkusz kalkulacyjny w zarządzaniu (ćwiczenia)
+UID:109c37c5-79dd-46f1-8fd5-613fab38955f@109c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:c99d9e9a-adab-4fe8-83dd-f5a06da63f7c@c99d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Tyrańska
+DTEND:20250108T101500Z
+LOCATION:Paw.B 251
+DTSTART:20250108T084500Z
+SUMMARY:Organizacja i zarządzanie (wykład)
+UID:950ccecb-95d8-4e14-9efc-8d0bb3bb867c@950c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Wójcik
+DTEND:20241219T101500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241219T084500Z
+SUMMARY:Teoretyczne podstawy informatyki (ćwiczenia)
+UID:8d82de28-2117-4699-ba04-134eb0270367@8d82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Tyrańska
+DTEND:20241127T101500Z
+LOCATION:Paw.B 251
+DTSTART:20241127T084500Z
+SUMMARY:Organizacja i zarządzanie (wykład)
+UID:e8176040-d3eb-4441-b33c-1eb54e8c90d9@e817.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20241108T101500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241108T084500Z
+SUMMARY:Analiza matematyczna i algebra liniowa (wykład)
+UID:ab8eeed5-d9d4-466d-9e70-c5bd11b0577e@ab8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20241106T120000Z
+LOCATION:Paw.F 614
+DTSTART:20241106T103000Z
+SUMMARY:Analiza matematyczna i algebra liniowa (ćwiczenia)
+UID:d633b195-4cfb-49d3-a6bf-7e61621ca79c@d633.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20241129T101500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241129T084500Z
+SUMMARY:Analiza matematyczna i algebra liniowa (wykład)
+UID:59c9897e-2033-4bc5-9cd4-15bd5393790a@59c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20250108T120000Z
+LOCATION:Paw.F 614
+DTSTART:20250108T103000Z
+SUMMARY:Analiza matematyczna i algebra liniowa (ćwiczenia)
+UID:2d284107-4627-467f-b22c-dff7475d40ed@2d28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Madej
+DTEND:20241031T153000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241031T140000Z
+SUMMARY:Architektura systemów komputerowych (ćwiczenia)
+UID:95048cd9-0e47-44b0-a2bc-c747b9ab23ef@9504.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Wójcik
+DTEND:20241113T153000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241113T140000Z
+SUMMARY:Arkusz kalkulacyjny w zarządzaniu (ćwiczenia)
+UID:35c4d98f-c928-42bd-8456-4082aa257154@35c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Wójcik
+DTEND:20241107T101500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241107T084500Z
+SUMMARY:Teoretyczne podstawy informatyki (ćwiczenia)
+UID:5e63be90-9c62-4dcb-938c-596c7b6c76fa@5e63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20241212T120000Z
+LOCATION:Paw.G 10
+DTSTART:20241212T103000Z
+SUMMARY:Organizacja i zarządzanie (ćwiczenia)
+UID:e1465208-cf5e-4c15-a7d2-7bc59138a640@e146.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20241011T091500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241011T074500Z
+SUMMARY:Analiza matematyczna i algebra liniowa (wykład)
+UID:860cbfc7-7483-4258-9c5c-01b346bffa9e@860c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Wójcik
+DTEND:20241204T153000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241204T140000Z
+SUMMARY:Arkusz kalkulacyjny w zarządzaniu (ćwiczenia)
+UID:91e182e3-290c-440f-a646-3c8a77a7764f@91e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Stal
+DTEND:20250121T110000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250121T084500Z
+SUMMARY:Podstawy programowania (ćwiczenia)
+UID:6f57a370-2665-4ca5-8b59-a2deaf864030@6f57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Stal
+DTEND:20241217T110000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241217T084500Z
+SUMMARY:Podstawy programowania (ćwiczenia)
+UID:e2ed0cd9-0238-448a-ac5c-969efa10dab8@e2ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20241031T120000Z
+LOCATION:Paw.G 10
+DTSTART:20241031T103000Z
+SUMMARY:Organizacja i zarządzanie (ćwiczenia)
+UID:cd821c05-46ef-45a7-9d9c-240717bcb9b5@cd82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20241010T180000Z
+LOCATION:Paw.C sala C
+DTSTART:20241010T163000Z
+SUMMARY:Organizacja i zarządzanie (ćwiczenia)
+UID:54f21f67-2c84-4cad-a7a5-6165d567d11e@54f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Wójcik
+DTEND:20241003T091500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241003T074500Z
+SUMMARY:Teoretyczne podstawy informatyki (ćwiczenia)
+UID:73b94c16-3367-4237-be56-cbf6e1196215@73b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20241025T091500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241025T074500Z
+SUMMARY:Analiza matematyczna i algebra liniowa (wykład)
+UID:a6f50516-b7ec-44f0-981e-ffd15963893e@a6f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Stal
+DTEND:20241007T110000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241007T093000Z
+SUMMARY:Cyfrowe formaty danych (ćwiczenia)
+UID:9bb5de1a-ff69-44a3-81e7-0ea742164360@9bb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Wójcik
+DTEND:20241106T153000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241106T140000Z
+SUMMARY:Arkusz kalkulacyjny w zarządzaniu (ćwiczenia)
+UID:5375bd05-3ea2-493c-a607-cb914c01adde@5375.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20241023T110000Z
+LOCATION:Paw.F 614
+DTSTART:20241023T093000Z
+SUMMARY:Analiza matematyczna i algebra liniowa (ćwiczenia)
+UID:d6725e0e-0aee-458f-bb4f-942e6aecb550@d672.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20241219T120000Z
+LOCATION:Paw.G 10
+DTSTART:20241219T103000Z
+SUMMARY:Organizacja i zarządzanie (ćwiczenia)
+UID:79918cd2-5361-4a75-8e8f-05bc0c545f84@7991.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Wójcik
+DTEND:20241114T101500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241114T084500Z
+SUMMARY:Teoretyczne podstawy informatyki (ćwiczenia)
+UID:64497497-3a52-43f6-b1a6-48d1d57fe935@6449.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20241004T091500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241004T074500Z
+SUMMARY:Analiza matematyczna i algebra liniowa (wykład)
+UID:4b8efddb-bf5b-494f-8e12-0a3c9bf4a495@4b8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Stal
+DTEND:20241118T120000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241118T103000Z
+SUMMARY:Cyfrowe formaty danych (ćwiczenia)
+UID:4491700c-47f5-4320-bb17-f5b7cf59a122@4491.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Stal
+DTEND:20241126T110000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241126T084500Z
+SUMMARY:Podstawy programowania (ćwiczenia)
+UID:fc7fcb81-a729-48d0-ba18-bfbc01fd5be2@fc7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Stal
+DTEND:20241125T120000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241125T103000Z
+SUMMARY:Cyfrowe formaty danych (ćwiczenia)
+UID:8da2a4bf-c48f-4a63-a84a-b1b1a9834493@8da2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20241017T110000Z
+LOCATION:Paw.G 10
+DTSTART:20241017T093000Z
+SUMMARY:Organizacja i zarządzanie (ćwiczenia)
+UID:9f364728-4743-4d9c-a623-d6f4dab78da2@9f36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Stal
+DTEND:20241203T110000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241203T084500Z
+SUMMARY:Podstawy programowania (ćwiczenia)
+UID:800adcc0-973d-4626-bad3-c9d23e1b62bc@800a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Stal
+DTEND:20241104T120000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241104T103000Z
+SUMMARY:Cyfrowe formaty danych (ćwiczenia)
+UID:c5e086e6-5c60-44e8-baa1-7426cdbbfdbb@c5e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Wójcik
+DTEND:20241024T091500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241024T074500Z
+SUMMARY:Teoretyczne podstawy informatyki (ćwiczenia)
+UID:02320ff7-183e-4f02-b9da-3464913089aa@0232.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20250116T120000Z
+LOCATION:Paw.G 10
+DTSTART:20250116T103000Z
+SUMMARY:Organizacja i zarządzanie (ćwiczenia)
+UID:bca610de-150b-43b1-ac9b-f724cb627fcf@bca6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Stal
+DTEND:20241001T100000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241001T074500Z
+SUMMARY:Podstawy programowania (ćwiczenia)
+UID:c196a448-98ad-4685-8a49-fd342bc0c110@c196.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Wójcik
+DTEND:20241127T153000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241127T140000Z
+SUMMARY:Arkusz kalkulacyjny w zarządzaniu (ćwiczenia)
+UID:34c7f1d5-bf34-4f1b-bda5-827cabd11b06@34c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Wójcik
+DTEND:20241128T101500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241128T084500Z
+SUMMARY:Teoretyczne podstawy informatyki (ćwiczenia)
+UID:b63f5309-aa30-4ecc-97db-04f5f275d42e@b63f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Wójcik
+DTEND:20241030T153000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241030T140000Z
+SUMMARY:Arkusz kalkulacyjny w zarządzaniu (ćwiczenia)
+UID:d46de4df-d0df-49c6-9a4e-a363cc9085f0@d46d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Stal
+DTEND:20250114T110000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250114T084500Z
+SUMMARY:Podstawy programowania (ćwiczenia)
+UID:e4980519-29cf-4fab-8a6e-da4632aaba66@e498.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Madej
+DTEND:20241218T101500Z
+LOCATION:Paw.B 251
+DTSTART:20241218T084500Z
+SUMMARY:Architektura systemów komputerowych (wykład)
+UID:28da899e-1d10-4172-a823-92a5f53b5516@28da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Janusz Morajda
+DTEND:20250113T134500Z
+LOCATION:Paw.B 251
+DTSTART:20250113T121500Z
+SUMMARY:Teoretyczne podstawy informatyki (wykład)
+UID:63e948d1-ed51-4383-a0f1-3c307badebef@63e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20250122T120000Z
+LOCATION:Paw.F 614
+DTSTART:20250122T103000Z
+SUMMARY:Analiza matematyczna i algebra liniowa (ćwiczenia)
+UID:5def373a-8bf6-4df2-af13-c56b4519d5c4@5def.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Madej
+DTEND:20241023T091500Z
+LOCATION:Paw.B 251
+DTSTART:20241023T074500Z
+SUMMARY:Architektura systemów komputerowych (wykład)
+UID:8dd6d53c-8724-40e8-8b2a-89b1956cdb99@8dd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20241030T120000Z
+LOCATION:Paw.F 614
+DTSTART:20241030T103000Z
+SUMMARY:Analiza matematyczna i algebra liniowa (ćwiczenia)
+UID:3fff6f10-526d-4228-8df4-94b301094f46@3fff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20250115T120000Z
+LOCATION:Paw.F 614
+DTSTART:20250115T103000Z
+SUMMARY:Analiza matematyczna i algebra liniowa (ćwiczenia)
+UID:e6c702bf-d294-462b-a0f6-c53b2b5cd51c@e6c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Tyrańska
+DTEND:20250120T111500Z
+LOCATION:Paw.B 251
+DTSTART:20250120T103000Z
+SUMMARY:Organizacja i zarządzanie (wykład)
+UID:3ecbc768-aa0b-4aef-ac55-bcee97adc09a@3ecb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Janusz Morajda
+DTEND:20241216T134500Z
+LOCATION:Paw.B 251
+DTSTART:20241216T121500Z
+SUMMARY:Teoretyczne podstawy informatyki (wykład)
+UID:ad9505eb-020c-41b7-a3ae-810ef72823da@ad95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Madej
+DTEND:20241120T101500Z
+LOCATION:Paw.B 251
+DTSTART:20241120T084500Z
+SUMMARY:Architektura systemów komputerowych (wykład)
+UID:2ef2185e-a290-48fe-a0d5-10fb23331518@2ef2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20241213T101500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241213T084500Z
+SUMMARY:Analiza matematyczna i algebra liniowa (wykład)
+UID:cc999b5b-658a-4f50-983e-4c93603a59d1@cc99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Wójcik
+DTEND:20250116T101500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250116T084500Z
+SUMMARY:Teoretyczne podstawy informatyki (ćwiczenia)
+UID:847aac6d-de9b-4325-ba30-b154e180fb30@847a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20250109T120000Z
+LOCATION:Paw.G 10
+DTSTART:20250109T103000Z
+SUMMARY:Organizacja i zarządzanie (ćwiczenia)
+UID:60809aa6-03b3-4c08-b85e-5b90663c54f9@6080.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Janusz Morajda
+DTEND:20241118T134500Z
+LOCATION:Paw.B 251
+DTSTART:20241118T121500Z
+SUMMARY:Teoretyczne podstawy informatyki (wykład)
+UID:95544f35-3911-4bc6-860d-c897123dc701@9554.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Janusz Morajda
+DTEND:20250120T130000Z
+LOCATION:Paw.B 251
+DTSTART:20250120T121500Z
+SUMMARY:Teoretyczne podstawy informatyki (wykład)
+UID:a74b8580-7a71-4682-a03b-8b09275dea08@a74b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Madej
+DTEND:20241114T153000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241114T140000Z
+SUMMARY:Architektura systemów komputerowych (ćwiczenia)
+UID:cac3ac63-061e-4b04-944a-a3369c9df3cd@cac3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Wójcik
+DTEND:20250115T144500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250115T140000Z
+SUMMARY:Arkusz kalkulacyjny w zarządzaniu (ćwiczenia)
+UID:e3262ee2-b21c-4aa5-bcb4-95288d51ebf1@e326.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Madej
+DTEND:20241128T153000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241128T140000Z
+SUMMARY:Architektura systemów komputerowych (ćwiczenia)
+UID:e9031112-4d42-4891-8e4d-cfc3964d44fd@e903.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Stal
+DTEND:20241021T110000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241021T093000Z
+SUMMARY:Cyfrowe formaty danych (ćwiczenia)
+UID:482d10ee-1c0a-401b-b3d5-f27db7a1bcd8@482d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20241127T120000Z
+LOCATION:Paw.F 614
+DTSTART:20241127T103000Z
+SUMMARY:Analiza matematyczna i algebra liniowa (ćwiczenia)
+UID:d6d9e748-2310-4eb7-a398-6bae7e5fdf1e@d6d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Janusz Morajda
+DTEND:20241021T124500Z
+LOCATION:Paw.B 251
+DTSTART:20241021T111500Z
+SUMMARY:Teoretyczne podstawy informatyki (wykład)
+UID:0bb63d63-9ded-4354-ba4b-1f466ed20965@0bb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Janusz Morajda
+DTEND:20241007T124500Z
+LOCATION:Paw.B 251
+DTSTART:20241007T111500Z
+SUMMARY:Teoretyczne podstawy informatyki (wykład)
+UID:f8fa021f-e47c-4532-8ce0-7bab882706ac@f8fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20241204T120000Z
+LOCATION:Paw.F 614
+DTSTART:20241204T103000Z
+SUMMARY:Analiza matematyczna i algebra liniowa (ćwiczenia)
+UID:7fe2c1ff-b2ba-4313-add0-6b286ae15197@7fe2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Wójcik
+DTEND:20241120T153000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241120T140000Z
+SUMMARY:Arkusz kalkulacyjny w zarządzaniu (ćwiczenia)
+UID:e61a50f2-da69-4bc8-89e7-69ce84f67bf6@e61a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20241024T110000Z
+LOCATION:Paw.G 10
+DTSTART:20241024T093000Z
+SUMMARY:Organizacja i zarządzanie (ćwiczenia)
+UID:6239b83b-d119-46c5-86b2-bc84fd1bf85b@6239.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Stal
+DTEND:20241209T120000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241209T103000Z
+SUMMARY:Cyfrowe formaty danych (ćwiczenia)
+UID:1273868a-d4ad-44c3-9407-c0ba7b470854@1273.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20241114T120000Z
+LOCATION:Paw.G 10
+DTSTART:20241114T103000Z
+SUMMARY:Organizacja i zarządzanie (ćwiczenia)
+UID:2b63bafd-99af-4855-b120-dfff635ad4bd@2b63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Tyrańska
+DTEND:20241211T101500Z
+LOCATION:Paw.B 251
+DTSTART:20241211T084500Z
+SUMMARY:Organizacja i zarządzanie (wykład)
+UID:13af95a1-565b-4d58-afc5-73df8b113802@13af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Stal
+DTEND:20241008T100000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241008T074500Z
+SUMMARY:Podstawy programowania (ćwiczenia)
+UID:1fa59397-36ab-4bee-94ad-7a19665e12d1@1fa5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Stal
+DTEND:20241216T120000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241216T103000Z
+SUMMARY:Cyfrowe formaty danych (ćwiczenia)
+UID:f8fd882a-103a-4186-842c-b1dd759fb2ac@f8fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20241122T101500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241122T084500Z
+SUMMARY:Analiza matematyczna i algebra liniowa (wykład)
+UID:69473626-d90a-4c90-9394-f97a5a50484d@6947.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Wójcik
+DTEND:20241031T101500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241031T084500Z
+SUMMARY:Teoretyczne podstawy informatyki (ćwiczenia)
+UID:1e41b934-ee77-4703-88fd-0f0dd537eca1@1e41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Madej
+DTEND:20241003T134500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241003T130000Z
+SUMMARY:Architektura systemów komputerowych (ćwiczenia)
+UID:58b11eb6-a6c3-4b02-ac6e-62ce6f290992@58b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Wójcik
+DTEND:20241010T091500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241010T074500Z
+SUMMARY:Teoretyczne podstawy informatyki (ćwiczenia)
+UID:fced0f39-f0a9-464a-b160-45d64270319b@fced.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Stal
+DTEND:20241105T110000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241105T084500Z
+SUMMARY:Podstawy programowania (ćwiczenia)
+UID:4ebcf59e-5735-459c-b285-ab87f665bc94@4ebc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bielawski
+DTEND:20250117T101500Z
+LOCATION:Paw.S sala 7
+DTSTART:20250117T084500Z
+SUMMARY:Analiza matematyczna i algebra liniowa (wykład)
+UID:7ea65e57-32bc-4fdc-a8a8-a685d3d3fdbb@7ea6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Madej
+DTEND:20241204T101500Z
+LOCATION:Paw.B 251
+DTSTART:20241204T084500Z
+SUMMARY:Architektura systemów komputerowych (wykład)
+UID:586d752f-46ed-4352-9348-07477029654b@586d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Madej
+DTEND:20241009T091500Z
+LOCATION:Paw.B 251
+DTSTART:20241009T074500Z
+SUMMARY:Architektura systemów komputerowych (wykład)
+UID:185fb280-5239-4f4d-9ebc-5ecccd97b96a@185f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Wójcik
+DTEND:20241218T153000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241218T140000Z
+SUMMARY:Arkusz kalkulacyjny w zarządzaniu (ćwiczenia)
+UID:0a9c9f72-93ef-4cc3-b462-481edb6e35a1@0a9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Wójcik
+DTEND:20250108T153000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250108T140000Z
+SUMMARY:Arkusz kalkulacyjny w zarządzaniu (ćwiczenia)
+UID:9e040f93-dc49-4cf3-8143-67572c0e76a0@9e04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Madej
+DTEND:20250123T153000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250123T140000Z
+SUMMARY:Architektura systemów komputerowych (ćwiczenia)
+UID:96475d92-175d-44bc-bccc-6bac1cb40aaf@9647.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Wójcik
+DTEND:20250109T101500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250109T084500Z
+SUMMARY:Teoretyczne podstawy informatyki (ćwiczenia)
+UID:4a1f051e-792a-417a-9819-15f594f8122b@4a1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Wójcik
+DTEND:20241023T143000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241023T130000Z
+SUMMARY:Arkusz kalkulacyjny w zarządzaniu (ćwiczenia)
+UID:384ae77a-4305-4fac-bd48-56a8cc4df375@384a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Wójcik
+DTEND:20241212T101500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241212T084500Z
+SUMMARY:Teoretyczne podstawy informatyki (ćwiczenia)
+UID:bcc5638f-65d3-4b0b-9fe8-d10f2e8906dd@bcc5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Stal
+DTEND:20250107T110000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250107T084500Z
+SUMMARY:Podstawy programowania (ćwiczenia)
+UID:d9b645ab-bbfe-46da-9803-6c6dc6c63945@d9b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20250120T101500Z
+LOCATION:Paw.G 10
+DTSTART:20250120T084500Z
+SUMMARY:Organizacja i zarządzanie (ćwiczenia)
+UID:d4aeab32-f764-44af-988e-f90043002e1d@d4ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jan Madej
+DTEND:20241017T143000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241017T130000Z
+SUMMARY:Architektura systemów komputerowych (ćwiczenia)
+UID:d1340281-1ee1-4b9d-8f60-0fc625a6f33b@d134.org
+END:VEVENT
+END:VCALENDAR

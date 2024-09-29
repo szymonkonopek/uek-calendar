@@ -1,0 +1,970 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20241014T143000Z
+LOCATION:Paw.G 12
+DTSTART:20241014T130000Z
+SUMMARY:Przedsiębiorczość korporacyjna (ćwiczenia)
+UID:9e87e92a-2e38-412b-8708-6981cf6d0766@9e87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20250117T101500Z
+LOCATION:Bibl. 441
+DTSTART:20250117T084500Z
+SUMMARY:Wirtualizacja współpracy - freelancerzy i telepraca (wykład)
+UID:f2c1f36c-5175-42a3-9b3e-927ab528c3a6@f2c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20250120T171500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20250120T154500Z
+SUMMARY:Przywództwo i samoorganizacja w zarządzaniu (ćwiczenia)
+UID:e3360b00-8008-4b92-9af0-3cbb57260625@e336.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241213T134500Z
+LOCATION:Bibl. 441
+DTSTART:20241213T121500Z
+SUMMARY:Wirtualizacja współpracy - freelancerzy i telepraca (ćwiczenia)
+UID:3a807c50-6758-42b5-b7e1-cccd0d5da55d@3a80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20241106T171500Z
+LOCATION:Paw.F 614
+DTSTART:20241106T154500Z
+SUMMARY:Przedsiębiorczość korporacyjna (ćwiczenia)
+UID:ff548e66-8be7-4ea2-9f11-a6a560ea4f62@ff54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20241028T153000Z
+LOCATION:Paw.G 12
+DTSTART:20241028T140000Z
+SUMMARY:Przedsiębiorczość korporacyjna (ćwiczenia)
+UID:b2a19cc8-eb89-4a1f-8cdc-5bdbc22325ee@b2a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20241205T153000Z
+LOCATION:Paw.F CJ 012
+DTSTART:20241205T140000Z
+SUMMARY:Organizacyjne formy wspierania innowacyjności (ćwiczenia)
+UID:2928f413-c188-4f7d-9cf1-1f44c2a7942a@2928.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20250110T083000Z
+LOCATION:Paw.G 12
+DTSTART:20250110T070000Z
+SUMMARY:Przedsiębiorczość korporacyjna (wykład)
+UID:6dcc79eb-2059-4069-921d-fed0d55c24e1@6dcc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241202T120000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241202T103000Z
+SUMMARY:Przywództwo i samoorganizacja w zarządzaniu (wykład)
+UID:47ca45d8-c6ef-4aed-8508-560ab0d436c1@47ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Niklewicz
+DTEND:20241024T161500Z
+LOCATION:Paw.F 109
+DTSTART:20241024T144500Z
+SUMMARY:Zarządzanie zasobami informacyjnymi organizacji (wykład)
+UID:f7bed426-fbac-4cb2-92c9-fb766222002c@f7be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20241007T091500Z
+LOCATION:Paw.F 107
+DTSTART:20241007T074500Z
+SUMMARY:Organizacyjne formy wspierania innowacyjności (wykład)
+UID:131a5885-e946-4487-b858-804f8ab4096d@131a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20241004T151500Z
+LOCATION:Paw.S sala 4
+DTSTART:20241004T130000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:923ad824-acee-4ac1-8db1-a604b50331f9@923a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20250124T083000Z
+LOCATION:Paw.G 12
+DTSTART:20250124T070000Z
+SUMMARY:Przedsiębiorczość korporacyjna (wykład)
+UID:1a89bdfe-60aa-45ad-bdfd-c6c396d7c9ac@1a89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241220T101500Z
+LOCATION:Bibl. 441
+DTSTART:20241220T084500Z
+SUMMARY:Wirtualizacja współpracy - freelancerzy i telepraca (wykład)
+UID:b76db2e3-886c-4327-8279-4366096c5556@b76d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20250113T171500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20250113T154500Z
+SUMMARY:Przywództwo i samoorganizacja w zarządzaniu (ćwiczenia)
+UID:b36f816a-f33c-4a7f-b08c-61a5af9d03ca@b36f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241014T091500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241014T074500Z
+SUMMARY:Przywództwo i samoorganizacja w zarządzaniu (wykład)
+UID:189e73e1-4c43-4099-9f8b-18012159bc2d@189e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241025T124500Z
+LOCATION:Bibl. 441
+DTSTART:20241025T111500Z
+SUMMARY:Wirtualizacja współpracy - freelancerzy i telepraca (ćwiczenia)
+UID:98780cf6-5ebf-461f-b764-e0ef82b410e5@9878.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241021T110000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241021T093000Z
+SUMMARY:Przywództwo i samoorganizacja w zarządzaniu (wykład)
+UID:23a73cb1-57fa-4f8f-9c29-03cc01cede5f@23a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20241007T143000Z
+LOCATION:Paw.G 12
+DTSTART:20241007T130000Z
+SUMMARY:Przedsiębiorczość korporacyjna (ćwiczenia)
+UID:d06123ed-cdda-4233-8413-663c6fb68940@d061.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20241016T143000Z
+LOCATION:Paw.G 10
+DTSTART:20241016T130000Z
+SUMMARY:Przedsiębiorczość korporacyjna (ćwiczenia)
+UID:a2914284-0913-49c6-a598-98be567a2f1e@a291.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20241216T101500Z
+LOCATION:Paw.F 107
+DTSTART:20241216T084500Z
+SUMMARY:Organizacyjne formy wspierania innowacyjności (wykład)
+UID:84677d50-afc9-476e-bf1f-0003302e169a@8467.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241129T101500Z
+LOCATION:Bibl. 441
+DTSTART:20241129T084500Z
+SUMMARY:Wirtualizacja współpracy - freelancerzy i telepraca (wykład)
+UID:e5348e2a-d49a-4c11-aac3-0018de5f8385@e534.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:c320c26a-4161-436e-8396-9a133b2742af@c320.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20241104T153000Z
+LOCATION:Paw.G 12
+DTSTART:20241104T140000Z
+SUMMARY:Przedsiębiorczość korporacyjna (ćwiczenia)
+UID:27f20e7f-e4b1-49d4-b982-728e95bc7264@27f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241213T101500Z
+LOCATION:Bibl. 441
+DTSTART:20241213T084500Z
+SUMMARY:Wirtualizacja współpracy - freelancerzy i telepraca (wykład)
+UID:1a67ede2-c8f4-44b3-806a-1bcf9bbf7b80@1a67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20241121T153000Z
+LOCATION:Paw.F CJ 012
+DTSTART:20241121T140000Z
+SUMMARY:Organizacyjne formy wspierania innowacyjności (ćwiczenia)
+UID:497d5bdf-5cc8-4cd2-943e-f07ba0885a57@497d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Dąbrowska
+DTEND:20241121T101500Z
+LOCATION:Paw.C sala D
+DTSTART:20241121T084500Z
+SUMMARY:Innowacje w handlu i usługach (wykład)
+UID:1bd85fac-d08a-47ea-9932-eb8ea0d1aaf6@1bd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20250124T134500Z
+LOCATION:Bibl. 441
+DTSTART:20250124T121500Z
+SUMMARY:Wirtualizacja współpracy - freelancerzy i telepraca (ćwiczenia)
+UID:0208cb53-3a00-41a8-98db-1fb4695fcd8f@0208.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241206T134500Z
+LOCATION:Bibl. 441
+DTSTART:20241206T121500Z
+SUMMARY:Wirtualizacja współpracy - freelancerzy i telepraca (ćwiczenia)
+UID:85109d83-6eeb-4898-a2ea-88bd507e27b4@8510.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241129T134500Z
+LOCATION:Bibl. 441
+DTSTART:20241129T121500Z
+SUMMARY:Wirtualizacja współpracy - freelancerzy i telepraca (ćwiczenia)
+UID:4c61146d-d056-4d03-a4e9-39762ea374f1@4c61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20241118T101500Z
+LOCATION:Paw.F 107
+DTSTART:20241118T084500Z
+SUMMARY:Organizacyjne formy wspierania innowacyjności (wykład)
+UID:3f864567-de7e-4dd0-b50f-0b399ac9ae9c@3f86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241011T091500Z
+LOCATION:Bibl. 441
+DTSTART:20241011T074500Z
+SUMMARY:Wirtualizacja współpracy - freelancerzy i telepraca (wykład)
+UID:19e37fde-34ff-498f-ad3b-31bc5df83ef4@19e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20241104T101500Z
+LOCATION:Paw.F 107
+DTSTART:20241104T084500Z
+SUMMARY:Organizacyjne formy wspierania innowacyjności (wykład)
+UID:375d2174-3ffe-41d6-aea5-8f947b235dde@375d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20241219T153000Z
+LOCATION:Paw.F CJ 012
+DTSTART:20241219T140000Z
+SUMMARY:Organizacyjne formy wspierania innowacyjności (ćwiczenia)
+UID:99b551f0-0f44-45e4-b09d-c64972b05fef@99b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241014T110000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241014T093000Z
+SUMMARY:Przywództwo i samoorganizacja w zarządzaniu (wykład)
+UID:4bef6ad8-7367-4dc0-b407-1b19400b2acb@4bef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241209T120000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241209T103000Z
+SUMMARY:Przywództwo i samoorganizacja w zarządzaniu (wykład)
+UID:63646b56-dc26-4529-9d3b-443543ab04ce@6364.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241018T091500Z
+LOCATION:Bibl. 441
+DTSTART:20241018T074500Z
+SUMMARY:Wirtualizacja współpracy - freelancerzy i telepraca (wykład)
+UID:25ec6c16-16c0-4f59-813d-48e36a72f24e@25ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20241202T153000Z
+LOCATION:Paw.G 12
+DTSTART:20241202T140000Z
+SUMMARY:Przedsiębiorczość korporacyjna (ćwiczenia)
+UID:38a3a343-479d-4a03-a9d9-603678410ada@38a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20241213T161500Z
+LOCATION:Paw.S sala 4
+DTSTART:20241213T140000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:b2363a8d-abe7-4740-87d8-edab09c73bdb@b236.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Niklewicz
+DTEND:20241205T171500Z
+LOCATION:Paw.F 109
+DTSTART:20241205T154500Z
+SUMMARY:Zarządzanie zasobami informacyjnymi organizacji (wykład)
+UID:4cb43d7b-1db7-404b-abe1-aab88924988e@4cb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20250116T153000Z
+LOCATION:Paw.F CJ 012
+DTSTART:20250116T140000Z
+SUMMARY:Organizacyjne formy wspierania innowacyjności (ćwiczenia)
+UID:f17c7b63-49c8-4f27-8d63-b3f6ad21b121@f17c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241004T091500Z
+LOCATION:Bibl. 441
+DTSTART:20241004T074500Z
+SUMMARY:Wirtualizacja współpracy - freelancerzy i telepraca (wykład)
+UID:5287f7b7-045b-4fca-b462-d1f5b1284143@5287.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241025T091500Z
+LOCATION:Bibl. 441
+DTSTART:20241025T074500Z
+SUMMARY:Wirtualizacja współpracy - freelancerzy i telepraca (wykład)
+UID:42a7f601-424a-4850-97ca-45436fe094b8@42a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20250120T120000Z
+LOCATION:Paw.S sala 3
+DTSTART:20250120T103000Z
+SUMMARY:Przywództwo i samoorganizacja w zarządzaniu (wykład)
+UID:3fbff556-b1e9-4f09-9cca-0081bab03667@3fbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241011T110000Z
+LOCATION:Paw.F CJ 302
+DTSTART:20241011T093000Z
+SUMMARY:Przywództwo i samoorganizacja w zarządzaniu (ćwiczenia)
+UID:311dbdce-9840-42d6-b0c4-5617a3e190b2@311d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241018T124500Z
+LOCATION:Bibl. 441
+DTSTART:20241018T111500Z
+SUMMARY:Wirtualizacja współpracy - freelancerzy i telepraca (ćwiczenia)
+UID:b46f57c4-376d-4b14-a20b-5939d6f5efae@b46f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241028T171500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20241028T154500Z
+SUMMARY:Przywództwo i samoorganizacja w zarządzaniu (ćwiczenia)
+UID:d37e97dc-da9b-4168-99c7-a75d42c3060d@d37e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20241218T171500Z
+LOCATION:Paw.U sala K
+DTSTART:20241218T154500Z
+SUMMARY:Przedsiębiorczość korporacyjna (ćwiczenia)
+UID:d9b09ee7-cff1-4782-905c-7ab85cadb554@d9b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241115T101500Z
+LOCATION:Bibl. 441
+DTSTART:20241115T084500Z
+SUMMARY:Wirtualizacja współpracy - freelancerzy i telepraca (wykład)
+UID:585b1cdb-c885-4553-b2b5-a972c7a64222@585b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241213T083000Z
+LOCATION:Paw.G 12
+DTSTART:20241213T070000Z
+SUMMARY:Przedsiębiorczość korporacyjna (wykład)
+UID:adc03d63-893b-44aa-8773-668d9e9bdf6d@adc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241011T124500Z
+LOCATION:Bibl. 441
+DTSTART:20241011T111500Z
+SUMMARY:Wirtualizacja współpracy - freelancerzy i telepraca (ćwiczenia)
+UID:b0c2989a-91f8-4883-92f0-a086fcc354c2@b0c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241104T120000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241104T103000Z
+SUMMARY:Przywództwo i samoorganizacja w zarządzaniu (wykład)
+UID:fef59070-91c3-458c-81af-882c0a0e9e7d@fef5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20250117T134500Z
+LOCATION:Bibl. 441
+DTSTART:20250117T121500Z
+SUMMARY:Wirtualizacja współpracy - freelancerzy i telepraca (ćwiczenia)
+UID:1b7a37b2-19e4-4aa4-8e1f-248d689a1e32@1b7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241004T073000Z
+LOCATION:Paw.G 12
+DTSTART:20241004T060000Z
+SUMMARY:Przedsiębiorczość korporacyjna (wykład)
+UID:3a430e7a-beea-400a-8b1b-84ca5bb54485@3a43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20241024T143000Z
+LOCATION:Paw.F CJ 012
+DTSTART:20241024T130000Z
+SUMMARY:Organizacyjne formy wspierania innowacyjności (ćwiczenia)
+UID:be860c4b-0ade-484e-9795-c1fb4f345cd5@be86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:913f8fb8-5899-44ad-86d2-b7ba5809afc2@913f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241028T101500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241028T084500Z
+SUMMARY:Przywództwo i samoorganizacja w zarządzaniu (wykład)
+UID:704623b9-a931-41ed-be2a-f74f965e3b64@7046.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241118T120000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241118T103000Z
+SUMMARY:Przywództwo i samoorganizacja w zarządzaniu (wykład)
+UID:352f7bf3-687e-48b3-b4e2-273d8c9bfb05@352f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20241202T101500Z
+LOCATION:Paw.F 107
+DTSTART:20241202T084500Z
+SUMMARY:Organizacyjne formy wspierania innowacyjności (wykład)
+UID:57874ca7-14e0-4449-8fdf-37a6c4e7878e@5787.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241016T161500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241016T144500Z
+SUMMARY:Wirtualizacja współpracy - freelancerzy i telepraca (ćwiczenia)
+UID:f04a78fa-3245-4a1e-81ee-d8917ecca0cc@f04a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241104T171500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20241104T154500Z
+SUMMARY:Przywództwo i samoorganizacja w zarządzaniu (ćwiczenia)
+UID:f35e0d57-6660-41af-832a-cf0e02af81c7@f35e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241004T124500Z
+LOCATION:Bibl. 441
+DTSTART:20241004T111500Z
+SUMMARY:Wirtualizacja współpracy - freelancerzy i telepraca (ćwiczenia)
+UID:d749f6e6-563a-48f4-93b3-25915a9fec14@d749.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20241216T153000Z
+LOCATION:Paw.G 12
+DTSTART:20241216T140000Z
+SUMMARY:Przedsiębiorczość korporacyjna (ćwiczenia)
+UID:cf8e0943-5e6d-41f1-a437-b596f8f6fb56@cf8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Dąbrowska
+DTEND:20241003T073000Z
+LOCATION:Paw.F 106
+DTSTART:20241003T064500Z
+SUMMARY:Innowacje w handlu i usługach (wykład)
+UID:1df8222b-2513-4669-86c2-66684f421425@1df8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20241021T091500Z
+LOCATION:Paw.F 107
+DTSTART:20241021T074500Z
+SUMMARY:Organizacyjne formy wspierania innowacyjności (wykład)
+UID:a309f9aa-4a7d-4dd8-b1d9-9548df3e34de@a309.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20250110T101500Z
+LOCATION:Bibl. 441
+DTSTART:20250110T084500Z
+SUMMARY:Wirtualizacja współpracy - freelancerzy i telepraca (wykład)
+UID:20f8fe5b-7952-467d-9d5a-4d93ed41b308@20f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20250124T101500Z
+LOCATION:Bibl. 441
+DTSTART:20250124T084500Z
+SUMMARY:Wirtualizacja współpracy - freelancerzy i telepraca (wykład)
+UID:805e3c85-edd2-437a-8935-1da3071c70fa@805e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241007T161500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20241007T144500Z
+SUMMARY:Przywództwo i samoorganizacja w zarządzaniu (ćwiczenia)
+UID:1127f38d-3abc-4630-b894-ef9918de8fe2@1127.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241007T110000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241007T093000Z
+SUMMARY:Przywództwo i samoorganizacja w zarządzaniu (wykład)
+UID:60f8e04a-9f9e-47f8-84b7-eea19aa4a418@60f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Dąbrowska
+DTEND:20241107T101500Z
+LOCATION:Paw.C sala D
+DTSTART:20241107T084500Z
+SUMMARY:Innowacje w handlu i usługach (wykład)
+UID:12d21095-6aa0-42e2-acac-cd3d60fe2858@12d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Niklewicz
+DTEND:20241219T171500Z
+LOCATION:Paw.F 109
+DTSTART:20241219T154500Z
+SUMMARY:Zarządzanie zasobami informacyjnymi organizacji (wykład)
+UID:7a53342f-b576-4521-bf75-e6827174b2d5@7a53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20250113T153000Z
+LOCATION:Paw.G 12
+DTSTART:20250113T140000Z
+SUMMARY:Przedsiębiorczość korporacyjna (ćwiczenia)
+UID:506b5714-4342-4091-8fbb-9fb39d8c35de@506b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241129T083000Z
+LOCATION:Paw.G 12
+DTSTART:20241129T070000Z
+SUMMARY:Przedsiębiorczość korporacyjna (wykład)
+UID:d7a94f74-48eb-4c96-8168-eddd08972182@d7a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20250113T120000Z
+LOCATION:Paw.S sala 3
+DTSTART:20250113T103000Z
+SUMMARY:Przywództwo i samoorganizacja w zarządzaniu (wykład)
+UID:399ff1a9-a681-435e-832d-9f30c2ee435f@399f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20241021T143000Z
+LOCATION:Paw.G 12
+DTSTART:20241021T130000Z
+SUMMARY:Przedsiębiorczość korporacyjna (ćwiczenia)
+UID:b70a26b6-2970-47f9-b781-cae1f3c364f2@b70a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241014T161500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20241014T144500Z
+SUMMARY:Przywództwo i samoorganizacja w zarządzaniu (ćwiczenia)
+UID:98516915-1fe2-4c18-887f-0ce07e64cdfc@9851.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241108T134500Z
+LOCATION:Bibl. 441
+DTSTART:20241108T121500Z
+SUMMARY:Wirtualizacja współpracy - freelancerzy i telepraca (ćwiczenia)
+UID:46403575-6336-49c4-90ab-fe0a4ae09eaa@4640.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241025T110000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241025T093000Z
+SUMMARY:Przywództwo i samoorganizacja w zarządzaniu (ćwiczenia)
+UID:c86025b2-2742-4c74-9505-63460056868b@c860.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241115T120000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241115T103000Z
+SUMMARY:Przywództwo i samoorganizacja w zarządzaniu (ćwiczenia)
+UID:af0c2464-bf50-45a5-95ae-5af58170a54b@af0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241028T120000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241028T103000Z
+SUMMARY:Przywództwo i samoorganizacja w zarządzaniu (wykład)
+UID:f026860c-c06c-4495-b444-d0571e8d014d@f026.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20241017T124500Z
+LOCATION:Paw.F 416
+DTSTART:20241017T111500Z
+SUMMARY:Organizacyjne formy wspierania innowacyjności (ćwiczenia)
+UID:c1df9b77-273e-4d35-85f3-e765e1976b5a@c1df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Niklewicz
+DTEND:20241121T171500Z
+LOCATION:Paw.F 109
+DTSTART:20241121T154500Z
+SUMMARY:Zarządzanie zasobami informacyjnymi organizacji (wykład)
+UID:db1a19dc-b0c9-48b0-905a-c04615b5223a@db1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Niklewicz
+DTEND:20241010T170000Z
+LOCATION:Paw.F 109
+DTSTART:20241010T144500Z
+SUMMARY:Zarządzanie zasobami informacyjnymi organizacji (wykład)
+UID:396d4a57-810c-48ae-8e4e-e11b2b17a673@396d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20250110T134500Z
+LOCATION:Bibl. 441
+DTSTART:20250110T121500Z
+SUMMARY:Wirtualizacja współpracy - freelancerzy i telepraca (ćwiczenia)
+UID:e74a5980-8804-4bed-91fc-f4f027b2584a@e74a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241202T171500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20241202T154500Z
+SUMMARY:Przywództwo i samoorganizacja w zarządzaniu (ćwiczenia)
+UID:5add6c52-0950-4210-843b-6a95e7b51571@5add.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241122T101500Z
+LOCATION:Bibl. 441
+DTSTART:20241122T084500Z
+SUMMARY:Wirtualizacja współpracy - freelancerzy i telepraca (wykład)
+UID:6c45a75d-9880-469f-97a3-4c034ce469e8@6c45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241125T101500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241125T084500Z
+SUMMARY:Przywództwo i samoorganizacja w zarządzaniu (wykład)
+UID:5fb2273f-fe6c-41ad-98e8-73f587bb852c@5fb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241115T083000Z
+LOCATION:Paw.G 12
+DTSTART:20241115T070000Z
+SUMMARY:Przedsiębiorczość korporacyjna (wykład)
+UID:77feaef1-face-41f7-9f8a-af802970c18b@77fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Niklewicz
+DTEND:20241107T171500Z
+LOCATION:Paw.F 109
+DTSTART:20241107T154500Z
+SUMMARY:Zarządzanie zasobami informacyjnymi organizacji (wykład)
+UID:a7fa1e61-71e0-4a9b-b489-27cec7d554b4@a7fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Dąbrowska
+DTEND:20241024T091500Z
+LOCATION:Paw.C sala D
+DTSTART:20241024T074500Z
+SUMMARY:Innowacje w handlu i usługach (wykład)
+UID:3b536996-dffc-469d-a839-9e114ef0f992@3b53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20250116T120000Z
+LOCATION:Paw.F 111
+DTSTART:20250116T111500Z
+SUMMARY:Organizacyjne formy wspierania innowacyjności (wykład)
+UID:639514cd-8780-4c83-9830-18e2eded5612@6395.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20241118T153000Z
+LOCATION:Paw.G 12
+DTSTART:20241118T140000Z
+SUMMARY:Przedsiębiorczość korporacyjna (ćwiczenia)
+UID:56ae65eb-e363-4ae1-abce-ba6b9c77b7b8@56ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241209T171500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20241209T154500Z
+SUMMARY:Przywództwo i samoorganizacja w zarządzaniu (ćwiczenia)
+UID:2433550f-debd-450a-b68f-7862e1451e5f@2433.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Dąbrowska
+DTEND:20241219T101500Z
+LOCATION:Paw.C sala D
+DTSTART:20241219T084500Z
+SUMMARY:Innowacje w handlu i usługach (wykład)
+UID:3b442ea5-d2ea-4505-b8c1-79c2dc2e22b1@3b44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241206T101500Z
+LOCATION:Bibl. 441
+DTSTART:20241206T084500Z
+SUMMARY:Wirtualizacja współpracy - freelancerzy i telepraca (wykład)
+UID:e4823b84-82cb-4ca1-b476-4c0188f189fd@e482.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Dąbrowska
+DTEND:20241205T101500Z
+LOCATION:Paw.C sala D
+DTSTART:20241205T084500Z
+SUMMARY:Innowacje w handlu i usługach (wykład)
+UID:5b0de60c-a408-407e-8604-aea4a4990a11@5b0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20241018T151500Z
+LOCATION:Paw.S sala 4
+DTSTART:20241018T130000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:fc01a073-27fa-4a08-9d7e-6808657d4fb1@fc01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241216T171500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20241216T154500Z
+SUMMARY:Przywództwo i samoorganizacja w zarządzaniu (ćwiczenia)
+UID:f116ff22-0153-4b19-a3b6-10f4470de009@f116.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241003T091500Z
+LOCATION:Paw.F 107
+DTSTART:20241003T074500Z
+SUMMARY:Wirtualizacja współpracy - freelancerzy i telepraca (wykład)
+UID:6e23c22e-47d7-4ee0-9acc-1902253cc186@6e23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20241108T161500Z
+LOCATION:Paw.S sala 4
+DTSTART:20241108T140000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:2f9724d1-6a18-4883-824a-bb26fe7205ad@2f97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20250120T153000Z
+LOCATION:Paw.G 12
+DTSTART:20250120T140000Z
+SUMMARY:Przedsiębiorczość korporacyjna (ćwiczenia)
+UID:51ad641a-812a-4b6c-b10b-f652e5399fa1@51ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241216T120000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241216T103000Z
+SUMMARY:Przywództwo i samoorganizacja w zarządzaniu (wykład)
+UID:35872dc3-4129-4bc9-8560-14611f218eaa@3587.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241021T161500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20241021T144500Z
+SUMMARY:Przywództwo i samoorganizacja w zarządzaniu (ćwiczenia)
+UID:0a1e81ad-d7b6-4325-96cd-9d9177fe2689@0a1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241108T101500Z
+LOCATION:Bibl. 441
+DTSTART:20241108T084500Z
+SUMMARY:Wirtualizacja współpracy - freelancerzy i telepraca (wykład)
+UID:4e3bdd67-65b8-436c-93ed-5dee49398b58@4e3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Dąbrowska
+DTEND:20250116T101500Z
+LOCATION:Paw.C sala D
+DTSTART:20250116T084500Z
+SUMMARY:Innowacje w handlu i usługach (wykład)
+UID:0cf942b9-0f56-4b4b-8bf8-1660b425b94e@0cf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20241209T153000Z
+LOCATION:Paw.G 12
+DTSTART:20241209T140000Z
+SUMMARY:Przedsiębiorczość korporacyjna (ćwiczenia)
+UID:f3b1a7b3-5d24-483b-bc62-fefd5ec5ebd2@f3b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241115T134500Z
+LOCATION:Bibl. 441
+DTSTART:20241115T121500Z
+SUMMARY:Wirtualizacja współpracy - freelancerzy i telepraca (ćwiczenia)
+UID:4ec72af9-2a0d-4941-8fd9-09d4b3fb2b53@4ec7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Dąbrowska
+DTEND:20241010T091500Z
+LOCATION:Paw.C sala D
+DTSTART:20241010T074500Z
+SUMMARY:Innowacje w handlu i usługach (wykład)
+UID:17c574ef-b769-42c8-995c-b0c4fe429519@17c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20241121T120000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241121T111500Z
+SUMMARY:Organizacyjne formy wspierania innowacyjności (ćwiczenia)
+UID:6e54217b-e25c-4a5d-a9ad-e4ba6f6e6122@6e54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241220T134500Z
+LOCATION:Bibl. 441
+DTSTART:20241220T121500Z
+SUMMARY:Wirtualizacja współpracy - freelancerzy i telepraca (ćwiczenia)
+UID:a03b79c5-472e-42b6-83fd-37d07b1ce66a@a03b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20250113T101500Z
+LOCATION:Paw.F 107
+DTSTART:20250113T084500Z
+SUMMARY:Organizacyjne formy wspierania innowacyjności (wykład)
+UID:3662c770-e2c2-4e6a-871d-87f97e652e1d@3662.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Niklewicz
+DTEND:20250116T171500Z
+LOCATION:Paw.F 109
+DTSTART:20250116T154500Z
+SUMMARY:Zarządzanie zasobami informacyjnymi organizacji (wykład)
+UID:f9aa6a46-cd29-4adb-b78a-dac77c8e8511@f9aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20241125T153000Z
+LOCATION:Paw.G 12
+DTSTART:20241125T140000Z
+SUMMARY:Przedsiębiorczość korporacyjna (ćwiczenia)
+UID:ac57fd92-a705-4337-a7b6-56df4faa5ecc@ac57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241118T171500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20241118T154500Z
+SUMMARY:Przywództwo i samoorganizacja w zarządzaniu (ćwiczenia)
+UID:31e93605-18c6-4372-b0d9-5c4d173fda90@31e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241122T134500Z
+LOCATION:Bibl. 441
+DTSTART:20241122T121500Z
+SUMMARY:Wirtualizacja współpracy - freelancerzy i telepraca (ćwiczenia)
+UID:d2d88bd9-9bb1-4d10-879d-5ca91e8b713d@d2d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20241107T153000Z
+LOCATION:Paw.F CJ 012
+DTSTART:20241107T140000Z
+SUMMARY:Organizacyjne formy wspierania innowacyjności (ćwiczenia)
+UID:c745f489-3ffd-433f-b417-973f37c43514@c745.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241125T171500Z
+LOCATION:Paw.F CJ 303
+DTSTART:20241125T154500Z
+SUMMARY:Przywództwo i samoorganizacja w zarządzaniu (ćwiczenia)
+UID:6e4cbab2-6602-4c1f-8091-0cc5b61c3ade@6e4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241018T073000Z
+LOCATION:Paw.G 12
+DTSTART:20241018T060000Z
+SUMMARY:Przedsiębiorczość korporacyjna (wykład)
+UID:172f18a3-ad99-4c24-ad9e-6a21448b7878@172f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241125T120000Z
+LOCATION:Paw.S sala 3
+DTSTART:20241125T103000Z
+SUMMARY:Przywództwo i samoorganizacja w zarządzaniu (wykład)
+UID:c98f4bb3-692d-49f3-8e18-e5a043c9abc2@c98f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zbigniew Borek
+DTEND:20241129T161500Z
+LOCATION:Paw.S sala 4
+DTSTART:20241129T140000Z
+SUMMARY:Zarządzanie zdrowym stylem życia (wykład do wyboru)
+UID:976aa782-1426-476b-a52e-7c6e21ca7405@976a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20250120T101500Z
+LOCATION:Paw.G 12
+DTSTART:20250120T093000Z
+SUMMARY:Przedsiębiorczość korporacyjna (wykład)
+UID:4e298212-f6c4-4379-9177-017820a4e5b4@4e29.org
+END:VEVENT
+END:VCALENDAR

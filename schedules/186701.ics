@@ -1,0 +1,244 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
+DTEND:20250112T100000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250112T074500Z
+SUMMARY:Budowanie marki osobistej na Linkedl (konwersatorium do wyboru)
+UID:8570b3ee-cdc9-46f0-afdb-a427dabe05c6@8570.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20241013T081500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241013T060000Z
+SUMMARY:Metody pomiaru satysfakcji klientów w łańcuchu dostaw (konwersatorium)
+UID:c01b791c-21f3-4232-b52f-c04e5576f20e@c01b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20241027T114500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241027T093000Z
+SUMMARY:Metody pomiaru satysfakcji klientów w łańcuchu dostaw (konwersatorium)
+UID:0e5d386a-9c26-4011-85fa-4479ddccb14f@0e5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20241124T091500Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241124T070000Z
+SUMMARY:Elektromobilność w logistyce (konwersatorium do wyboru)
+UID:fdbc9642-1cca-450a-87ac-519fc5ba3e37@fdbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Hamerska
+DTEND:20241124T143000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241124T121500Z
+SUMMARY:Optymalizacja decyzji logistycznych (konwersatorium)
+UID:23e1b789-0e0b-4079-b7b2-ea1dce6d2c1f@23e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
+DTEND:20241215T114500Z
+LOCATION:Paw.F 104
+DTSTART:20241215T093000Z
+SUMMARY:Budowanie marki osobistej na Linkedl (konwersatorium do wyboru)
+UID:cf1ae910-1822-467e-bb7f-8ef3ad2c92c4@cf1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Łyszczarz
+DTEND:20241117T114500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241117T093000Z
+SUMMARY:Strategiczne zarządzanie logistyczne (ćwiczenia)
+UID:832777aa-8f5c-4782-831b-d0c7d79eb5bc@8327.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20250119T114500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250119T093000Z
+SUMMARY:Elektromobilność w logistyce (konwersatorium do wyboru)
+UID:44af169e-92d9-44ca-8dad-08d09e99cf57@44af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartosz Rozmund
+DTEND:20241117T091500Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241117T070000Z
+SUMMARY:Logistyka 4.0 (konwersatorium)
+UID:51dd138f-5382-4354-9dd2-e655679fbf16@51dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartosz Rozmund
+DTEND:20241129T170000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241129T144500Z
+SUMMARY:Logistyka 4.0 (konwersatorium)
+UID:078814b9-1a23-4efd-a993-84a301878d69@0788.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Łyszczarz
+DTEND:20241025T184500Z
+LOCATION:link do zajęć
+DTSTART:20241025T163000Z
+SUMMARY:Strategiczne zarządzanie logistyczne (wykład)
+UID:47e71447-83e3-41fd-a9e9-96ad37d8500a@47e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Łyszczarz
+DTEND:20241116T100000Z
+LOCATION:link do zajęć
+DTSTART:20241116T074500Z
+SUMMARY:Strategiczne zarządzanie logistyczne (wykład)
+UID:43bf92f3-0bec-40db-90e6-ce3f187a6e51@43bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Hamerska
+DTEND:20241214T170000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241214T144500Z
+SUMMARY:Optymalizacja decyzji logistycznych (konwersatorium)
+UID:749b2447-ada4-4b30-9b46-c05225042c59@749b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Jarosław Pawlik
+DTEND:20241201T114500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241201T093000Z
+SUMMARY:Budowanie marki osobistej na Linkedl (konwersatorium do wyboru)
+UID:f3df3fd9-156b-480f-98d3-725984fb15d9@f3df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20241214T143000Z
+LOCATION:Paw.F 616
+DTSTART:20241214T121500Z
+SUMMARY:Analiza ekonomiczna procesów logistycznych (ćwiczenia)
+UID:4b3d4a0a-d869-49cc-8de4-6c8d3ae36689@4b3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20241124T114500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241124T093000Z
+SUMMARY:Metody pomiaru satysfakcji klientów w łańcuchu dostaw (konwersatorium)
+UID:52e0eae6-7ce0-4fa9-9222-5682e9f4218b@52e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Hamerska
+DTEND:20241026T151500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241026T130000Z
+SUMMARY:Optymalizacja decyzji logistycznych (konwersatorium)
+UID:ae4636e2-9e1c-498c-9da3-da5bf64cadd2@ae46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Łyszczarz
+DTEND:20241012T114500Z
+LOCATION:link do zajęć
+DTSTART:20241012T093000Z
+SUMMARY:Strategiczne zarządzanie logistyczne (wykład)
+UID:1cad5c5f-9f74-461a-9f64-81dfede8323f@1cad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Ziółko
+DTEND:20241215T180000Z
+LOCATION:Bibl. 440
+DTSTART:20241215T154500Z
+SUMMARY:Elektromobilność w logistyce (konwersatorium do wyboru)
+UID:69d08f27-12aa-4d04-a0ca-dbb99c659a96@69d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Łyszczarz
+DTEND:20241201T091500Z
+LOCATION:Paw.B 351
+DTSTART:20241201T070000Z
+SUMMARY:Strategiczne zarządzanie logistyczne (ćwiczenia)
+UID:4dfddf13-93e9-45d7-91c8-239be90a1bcb@4dfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20241130T124500Z
+LOCATION:link do zajęć
+DTSTART:20241130T103000Z
+SUMMARY:Analiza ekonomiczna procesów logistycznych (wykład)
+UID:fff1e88e-2dde-4135-8f5a-c53b1499ab15@fff1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartosz Rozmund
+DTEND:20241026T123000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241026T101500Z
+SUMMARY:Logistyka 4.0 (konwersatorium)
+UID:a1e3a05e-a01d-42ad-8629-00917b462b9b@a1e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20250111T161500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20250111T140000Z
+SUMMARY:Analiza ekonomiczna procesów logistycznych (ćwiczenia)
+UID:5344a065-32c3-479f-9bd9-aeb49732e0c5@5344.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Hamerska
+DTEND:20241013T104500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241013T083000Z
+SUMMARY:Optymalizacja decyzji logistycznych (konwersatorium)
+UID:3bb5ff24-5f59-4f3c-b93c-8c6ff4d27648@3bb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20241012T090000Z
+LOCATION:link do zajęć
+DTSTART:20241012T064500Z
+SUMMARY:Analiza ekonomiczna procesów logistycznych (wykład)
+UID:6b14f61d-1bd3-4760-90df-d9676caa9bea@6b14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20241213T194500Z
+LOCATION:link do zajęć
+DTSTART:20241213T173000Z
+SUMMARY:Analiza ekonomiczna procesów logistycznych (wykład)
+UID:d01eddee-7acc-490a-a943-da139ab2b147@d01e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Dziedzic
+DTEND:20250118T143000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250118T121500Z
+SUMMARY:Analiza ekonomiczna procesów logistycznych (ćwiczenia)
+UID:31290c24-fa08-4b8e-93d5-63678f827532@3129.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Łyszczarz
+DTEND:20250111T184500Z
+LOCATION:Paw.B 351
+DTSTART:20250111T163000Z
+SUMMARY:Strategiczne zarządzanie logistyczne (ćwiczenia)
+UID:aaf96923-aa5e-4cec-a903-ebd1d84a6f6e@aaf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Hamerska
+DTEND:20250118T114500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250118T093000Z
+SUMMARY:Optymalizacja decyzji logistycznych (konwersatorium)
+UID:c7906286-2a98-45bb-96cd-70f6809de65c@c790.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Hamerska
+DTEND:20250125T124500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20250125T103000Z
+SUMMARY:Optymalizacja decyzji logistycznych (konwersatorium)
+UID:c97af6fc-3657-42e7-9aac-df46e64fdd86@c97a.org
+END:VEVENT
+END:VCALENDAR

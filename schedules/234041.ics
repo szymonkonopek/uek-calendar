@@ -1,0 +1,1066 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241219T101500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241219T084500Z
+SUMMARY:Analiza społeczna przestrzeni - projekt analityczny (konwersatorium)
+UID:1142edaa-aa7a-4d45-b31f-6961e14c9852@1142.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241016T110000Z
+LOCATION:Bud.gł. 7
+DTSTART:20241016T093000Z
+SUMMARY:Metody analizy przestrzennej (laboratorium)
+UID:032f2eba-8435-4776-86c1-147bd608b3b7@032f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20250117T134500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250117T121500Z
+SUMMARY:Koputerowe projektowanie przestrzeni (laboratorium)
+UID:9267a904-017f-4a70-9705-9991d271c750@9267.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241113T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20241113T103000Z
+SUMMARY:Metody analizy przestrzennej (laboratorium)
+UID:4e541bd1-d40a-45b5-955e-008b9e3cb4be@4e54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241030T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241030T084500Z
+SUMMARY:Metody analizy przestrzennej (wykład)
+UID:1a9e65c2-a4e2-443c-9c0b-bbd0f36dad48@1a9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241204T134500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241204T121500Z
+SUMMARY:Systemy informacji przestrzennej (GIS) (wykład)
+UID:daae4673-a2fb-462c-9497-336bea1de98c@daae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241108T134500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241108T121500Z
+SUMMARY:Koputerowe projektowanie przestrzeni (laboratorium)
+UID:04c668b8-33d1-473d-b4ac-e3b7d7b23fed@04c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Górka
+DTEND:20241209T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241209T084500Z
+SUMMARY:Regulacje i rozwiązywanie konfliktów (wykład)
+UID:5dc47b2b-b877-4e85-b212-9d4c78db5daa@5dc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241114T101500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241114T084500Z
+SUMMARY:Analiza społeczna przestrzeni - projekt analityczny (konwersatorium)
+UID:6895967f-18cd-45ca-a74d-bc4ad13043e7@6895.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241118T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241118T084500Z
+SUMMARY:Ruchy miejskie i społeczeństwo obywatelskie (wykład)
+UID:387a3846-7841-4078-840a-2e23f19a42dd@387a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241030T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20241030T103000Z
+SUMMARY:Metody analizy przestrzennej (laboratorium)
+UID:215c84b2-e520-48bc-b4f2-2d5462cd64d7@215c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20250108T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20250108T103000Z
+SUMMARY:Metody analizy przestrzennej (laboratorium)
+UID:c5790d78-f994-45bd-95d3-9b97df377fa0@c579.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20250123T101500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20250123T084500Z
+SUMMARY:Analiza społeczna przestrzeni - projekt analityczny (konwersatorium)
+UID:54e0e370-f3c3-4d46-ae62-0facf0c8288c@54e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241001T120000Z
+LOCATION:Paw.G  8
+DTSTART:20241001T111500Z
+SUMMARY:Turystyka miejska (wykład)
+UID:b7ddc587-0ba7-43c9-baf1-4ae9a95041d0@b7dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241024T091500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241024T074500Z
+SUMMARY:Analiza społeczna przestrzeni - projekt analityczny (konwersatorium)
+UID:da6122ab-d279-4b4c-97ed-108ad290e7bc@da61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241115T101500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241115T084500Z
+SUMMARY:Turystyka miejska (wykład)
+UID:6adf7fad-b8a7-452b-90ca-3987ca678b34@6adf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241009T091500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241009T074500Z
+SUMMARY:Metody analizy przestrzennej (wykład)
+UID:b67a7132-8c71-43bd-9c58-ee1bfc0a0ade@b67a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241127T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20241127T103000Z
+SUMMARY:Metody analizy przestrzennej (laboratorium)
+UID:5f6022c6-fb82-43e9-bca9-52bf4913844f@5f60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20250110T101500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20250110T084500Z
+SUMMARY:Turystyka miejska (wykład)
+UID:be96404e-76f6-4ffd-bded-74c88d400687@be96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20250115T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20250115T103000Z
+SUMMARY:Metody analizy przestrzennej (laboratorium)
+UID:3d609b18-b2ef-4cfe-8cc5-31149daadc1e@3d60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20250124T101500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20250124T084500Z
+SUMMARY:Turystyka miejska (wykład)
+UID:3412397b-72c1-4135-90e2-2fafb15e9f03@3412.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20250110T120000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20250110T103000Z
+SUMMARY:Ruchy miejskie i społeczeństwo obywatelskie (ćwiczenia)
+UID:37dcbbf4-105c-487a-b879-94aaa177c8ed@37dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241211T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241211T084500Z
+SUMMARY:Metody analizy przestrzennej (wykład)
+UID:d99199c8-2661-4dda-902d-c52d24424a84@d991.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20241023T073000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241023T060000Z
+SUMMARY:Systemy informacji przestrzennej (GIS) (laboratorium)
+UID:1fa11810-430f-4a60-82f0-c23c7934d255@1fa1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Przemysław Kisiel
+DTEND:20241216T133000Z
+LOCATION:Paw.F CJ  301
+DTSTART:20241216T103000Z
+SUMMARY:Realizacja projektów badawczych (ćwiczenia)
+UID:e9fa001e-42a0-4a45-82b0-15d265b902a4@e9fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Przemysław Kisiel
+DTEND:20241007T123000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241007T093000Z
+SUMMARY:Realizacja projektów badawczych (ćwiczenia)
+UID:6546c75c-d53a-4a0d-8d5c-eb5d37ca7c37@6546.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241023T124500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241023T111500Z
+SUMMARY:Systemy informacji przestrzennej (GIS) (wykład)
+UID:6618a6f2-98d6-4089-9516-360fb2bc3738@6618.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241010T091500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241010T074500Z
+SUMMARY:Analiza społeczna przestrzeni - projekt analityczny (konwersatorium)
+UID:20c08037-e64a-4033-b07d-563af5fd7550@20c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20250122T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20250122T103000Z
+SUMMARY:Metody analizy przestrzennej (laboratorium)
+UID:01356f96-e196-463d-adf7-4515f414b239@0135.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Górka
+DTEND:20241025T104500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241025T074500Z
+SUMMARY:Regulacje i rozwiązywanie konfliktów (ćwiczenia)
+UID:fb722cdb-568d-431f-b933-4260991fdf45@fb72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241009T110000Z
+LOCATION:Bud.gł. 7
+DTSTART:20241009T093000Z
+SUMMARY:Metody analizy przestrzennej (laboratorium)
+UID:9f9ce3da-784f-4c3a-a85e-bb3bc55f395a@9f9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20241120T083000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241120T070000Z
+SUMMARY:Systemy informacji przestrzennej (GIS) (laboratorium)
+UID:5fe9815c-5656-4351-9d31-d4c887f7d2e7@5fe9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241213T101500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241213T084500Z
+SUMMARY:Turystyka miejska (wykład)
+UID:b6104fde-aa03-41d6-be3d-2d82a65e14e7@b610.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241106T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20241106T103000Z
+SUMMARY:Metody analizy przestrzennej (laboratorium)
+UID:33a620c8-2d96-4351-a2a0-809dc11f806c@33a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241003T091500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241003T074500Z
+SUMMARY:Analiza społeczna przestrzeni - projekt analityczny (konwersatorium)
+UID:eca7367b-d204-4597-b4ec-d2fcfffe21c5@eca7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241206T134500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241206T121500Z
+SUMMARY:Koputerowe projektowanie przestrzeni (laboratorium)
+UID:7857e326-d724-4ae3-abc3-70fea70cb571@7857.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241204T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241204T084500Z
+SUMMARY:Metody analizy przestrzennej (wykład)
+UID:3fa105d4-fb3a-4d19-9e65-d6fc4941fb0e@3fa1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Górka
+DTEND:20241014T091500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241014T074500Z
+SUMMARY:Regulacje i rozwiązywanie konfliktów (wykład)
+UID:2ca83b98-a3f8-4cfd-af1d-9f6a4f0676c6@2ca8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Górka
+DTEND:20241004T143000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241004T130000Z
+SUMMARY:Regulacje i rozwiązywanie konfliktów (ćwiczenia)
+UID:d71a9f14-d2ae-4bb3-a97b-638be7590e0e@d71a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241115T120000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241115T103000Z
+SUMMARY:Ruchy miejskie i społeczeństwo obywatelskie (ćwiczenia)
+UID:c2d18be4-34bf-44c1-93eb-0e1645b6d0df@c2d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241018T091500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241018T074500Z
+SUMMARY:Turystyka miejska (wykład)
+UID:2381ba55-6472-4d4f-8108-3b37a25c22dc@2381.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241004T124500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241004T111500Z
+SUMMARY:Koputerowe projektowanie przestrzeni (laboratorium)
+UID:1cd4478f-83b5-419b-98f7-fd51b2997ca7@1cd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Przemysław Kisiel
+DTEND:20250116T133000Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20250116T103000Z
+SUMMARY:Realizacja projektów badawczych (ćwiczenia)
+UID:5ac7a34e-bdb8-4e2f-bbbc-dcefc7f2971f@5ac7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241115T134500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241115T121500Z
+SUMMARY:Koputerowe projektowanie przestrzeni (laboratorium)
+UID:c93ef804-c865-483b-a459-ebe781bf35fb@c93e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20241218T083000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241218T070000Z
+SUMMARY:Systemy informacji przestrzennej (GIS) (laboratorium)
+UID:b198fa82-760c-4617-af90-33ccad192c97@b198.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241125T153000Z
+LOCATION:Paw.F 416
+DTSTART:20241125T140000Z
+SUMMARY:Ruchy miejskie i społeczeństwo obywatelskie (ćwiczenia)
+UID:b68de7b1-abdb-4041-879f-953a01e5f2af@b68d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:14dfcfc4-f0ed-4949-bf27-b4e55f82e5d1@14df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241104T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241104T084500Z
+SUMMARY:Ruchy miejskie i społeczeństwo obywatelskie (wykład)
+UID:b6566694-768b-410d-baf9-54e16a850a12@b656.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Górka
+DTEND:20241220T114500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241220T084500Z
+SUMMARY:Regulacje i rozwiązywanie konfliktów (ćwiczenia)
+UID:938e72a1-324a-4d82-9827-303d2185b7f0@938e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241018T110000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241018T093000Z
+SUMMARY:Ruchy miejskie i społeczeństwo obywatelskie (ćwiczenia)
+UID:c8bb0439-ea9b-43fd-9879-7fcddb1534b0@c8bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241213T120000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241213T103000Z
+SUMMARY:Ruchy miejskie i społeczeństwo obywatelskie (ćwiczenia)
+UID:06fb062c-4ba9-495a-ae67-47445261fe0c@06fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241121T083000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241121T070000Z
+SUMMARY:Koputerowe projektowanie przestrzeni (laboratorium)
+UID:4ebf01e8-3656-4a4d-b561-d5a0c2681428@4ebf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20241204T083000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241204T070000Z
+SUMMARY:Systemy informacji przestrzennej (GIS) (laboratorium)
+UID:51009795-3e69-439b-93b2-17bbd815b484@5100.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241001T124500Z
+LOCATION:Paw.G  8
+DTSTART:20241001T120000Z
+SUMMARY:Ruchy miejskie i społeczeństwo obywatelskie (ćwiczenia)
+UID:8c8505a6-470f-418a-9f2a-57821a2576d3@8c85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Górka
+DTEND:20241206T114500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241206T084500Z
+SUMMARY:Regulacje i rozwiązywanie konfliktów (ćwiczenia)
+UID:4d20ca80-34ad-4313-97dc-838d59a422f5@4d20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241213T134500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241213T121500Z
+SUMMARY:Koputerowe projektowanie przestrzeni (laboratorium)
+UID:2403f875-6b6a-4094-931f-ae15f1cab4b8@2403.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241031T101500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241031T084500Z
+SUMMARY:Analiza społeczna przestrzeni - projekt analityczny (konwersatorium)
+UID:13901888-01f6-45c3-b090-1f318ac011fd@1390.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241018T073000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241018T060000Z
+SUMMARY:Metody analizy przestrzennej (wykład)
+UID:166ef210-a4bc-4b20-bb38-e466a5cda520@166e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241122T134500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241122T121500Z
+SUMMARY:Koputerowe projektowanie przestrzeni (laboratorium)
+UID:080f6cb7-0116-434b-ac06-70c1e7f8d638@080f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241120T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20241120T103000Z
+SUMMARY:Metody analizy przestrzennej (laboratorium)
+UID:19d515c2-5efd-41a1-b19f-9ea1aba07783@19d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Przemysław Kisiel
+DTEND:20241014T123000Z
+LOCATION:Paw.G  8
+DTSTART:20241014T093000Z
+SUMMARY:Realizacja projektów badawczych (ćwiczenia)
+UID:54dc136e-4bb5-4a09-9a6a-070e62b4d07c@54dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Górka
+DTEND:20241125T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241125T084500Z
+SUMMARY:Regulacje i rozwiązywanie konfliktów (wykład)
+UID:e2bec297-4fd1-44a7-b99c-e912e07ef1d5@e2be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20250110T134500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250110T121500Z
+SUMMARY:Koputerowe projektowanie przestrzeni (laboratorium)
+UID:a772b44b-20d0-4cb4-adb5-da4233926745@a772.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241023T110000Z
+LOCATION:Bud.gł. 7
+DTSTART:20241023T093000Z
+SUMMARY:Metody analizy przestrzennej (laboratorium)
+UID:b047ca78-4624-4274-9d18-c709ce7aa2e8@b047.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241128T101500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241128T084500Z
+SUMMARY:Analiza społeczna przestrzeni - projekt analityczny (konwersatorium)
+UID:50332d2c-f63a-4139-a8f9-7d07b54fe75a@5033.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241218T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241218T084500Z
+SUMMARY:Metody analizy przestrzennej (wykład)
+UID:1cf13ef8-0017-4e32-9888-97d55f12e83a@1cf1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20250115T083000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250115T070000Z
+SUMMARY:Systemy informacji przestrzennej (GIS) (laboratorium)
+UID:fda2da87-550b-46b0-aa0c-1d07fee16697@fda2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241004T091500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241004T074500Z
+SUMMARY:Turystyka miejska (wykład)
+UID:1c6e3332-595d-446f-bf90-c735b532bbb2@1c6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241001T110000Z
+LOCATION:Paw.U sala K
+DTSTART:20241001T101500Z
+SUMMARY:Ruchy miejskie i społeczeństwo obywatelskie (wykład)
+UID:4df0fc2f-f028-4db3-a7ee-f4a45b7036bd@4df0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241205T101500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241205T084500Z
+SUMMARY:Analiza społeczna przestrzeni - projekt analityczny (konwersatorium)
+UID:7fb9a5af-8c3e-4209-9791-4f17087ef58b@7fb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241125T134500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241125T121500Z
+SUMMARY:Turystyka miejska (wykład)
+UID:70c67187-10e1-4bbd-849c-6e11ab5ea229@70c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20250124T120000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20250124T103000Z
+SUMMARY:Ruchy miejskie i społeczeństwo obywatelskie (ćwiczenia)
+UID:554ffac5-d1ac-43be-9215-d7d3c47cfdf4@554f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20241030T083000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241030T070000Z
+SUMMARY:Systemy informacji przestrzennej (GIS) (laboratorium)
+UID:ae9a374d-7210-4ce0-8fdb-126a71ebef66@ae9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Przemysław Kisiel
+DTEND:20241209T133000Z
+LOCATION:Paw.G  9
+DTSTART:20241209T103000Z
+SUMMARY:Realizacja projektów badawczych (ćwiczenia)
+UID:aae14fd8-dd50-46fb-8fb7-a69473735632@aae1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Przemysław Kisiel
+DTEND:20241021T123000Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20241021T093000Z
+SUMMARY:Realizacja projektów badawczych (ćwiczenia)
+UID:37d57540-0726-4d78-a974-6c8a1c855d61@37d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20250124T134500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250124T121500Z
+SUMMARY:Koputerowe projektowanie przestrzeni (laboratorium)
+UID:3c64b2b6-cb1c-40f8-8d1a-4099eef4d5ea@3c64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241120T134500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241120T121500Z
+SUMMARY:Systemy informacji przestrzennej (GIS) (wykład)
+UID:1b5c246b-2517-46cc-970b-b06516798f56@1b5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241120T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241120T084500Z
+SUMMARY:Metody analizy przestrzennej (wykład)
+UID:d167b6f4-404d-4f89-8c26-0a974f66e35c@d167.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241129T134500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241129T121500Z
+SUMMARY:Koputerowe projektowanie przestrzeni (laboratorium)
+UID:76d6e5e2-63a2-403d-82ab-65763173d358@76d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241216T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241216T084500Z
+SUMMARY:Ruchy miejskie i społeczeństwo obywatelskie (wykład)
+UID:c9a5d82b-8769-4bf6-a6ca-ce6dd6da5f71@c9a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241004T110000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241004T093000Z
+SUMMARY:Ruchy miejskie i społeczeństwo obywatelskie (ćwiczenia)
+UID:adb166e6-ade5-471f-a2e6-aefb6524904b@adb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Przemysław Kisiel
+DTEND:20250113T133000Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20250113T103000Z
+SUMMARY:Realizacja projektów badawczych (ćwiczenia)
+UID:6d1507d0-d423-43a5-a8bf-732162e047b1@6d15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241022T171500Z
+LOCATION:link do zajęć
+DTSTART:20241022T060000Z
+SUMMARY:Turystyka miejska (Zajęcia terenowe)
+UID:7a4c7bc5-cb9c-4bd0-bcf3-b8629a0ba615@7a4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20250113T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20250113T084500Z
+SUMMARY:Ruchy miejskie i społeczeństwo obywatelskie (wykład)
+UID:1b6055ce-3e22-4f7b-8123-068c639c0c18@1b60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Górka
+DTEND:20241028T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241028T084500Z
+SUMMARY:Regulacje i rozwiązywanie konfliktów (wykład)
+UID:cee963ee-c40c-4961-beee-da3911f5743f@cee9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241121T101500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241121T084500Z
+SUMMARY:Analiza społeczna przestrzeni - projekt analityczny (konwersatorium)
+UID:5957a355-21c6-45a8-a4d4-1ef1c439806a@5957.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241127T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241127T084500Z
+SUMMARY:Metody analizy przestrzennej (wykład)
+UID:48b8ac1e-b620-433c-ac1d-ce3d9e96ea75@48b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20250115T134500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20250115T121500Z
+SUMMARY:Systemy informacji przestrzennej (GIS) (wykład)
+UID:d803ba2e-4bc5-4362-ac51-ae109d2414be@d803.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Górka
+DTEND:20241122T114500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241122T084500Z
+SUMMARY:Regulacje i rozwiązywanie konfliktów (ćwiczenia)
+UID:dbbac173-fd2e-4544-9423-d5621bf02caa@dbba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241202T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241202T084500Z
+SUMMARY:Ruchy miejskie i społeczeństwo obywatelskie (wykład)
+UID:940c5aab-8224-4646-a5b3-200ca35a91c7@940c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241204T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20241204T103000Z
+SUMMARY:Metody analizy przestrzennej (laboratorium)
+UID:467b2e8e-bab4-4010-a2dc-a295031c5f6b@467b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241113T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241113T084500Z
+SUMMARY:Metody analizy przestrzennej (wykład)
+UID:a866d61f-039b-435d-bea6-e944232e350e@a866.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Przemysław Kisiel
+DTEND:20241003T123000Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241003T093000Z
+SUMMARY:Realizacja projektów badawczych (ćwiczenia)
+UID:670d8341-59f5-461f-a1bd-7d003df16035@670d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Przemysław Kisiel
+DTEND:20250120T133000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20250120T103000Z
+SUMMARY:Realizacja projektów badawczych (ćwiczenia)
+UID:19d66b05-8523-4bc8-acd9-9bcd5d59a68d@19d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241106T134500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241106T121500Z
+SUMMARY:Systemy informacji przestrzennej (GIS) (wykład)
+UID:1336879d-41e3-4786-89e8-dc82c483d60c@1336.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241212T101500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241212T084500Z
+SUMMARY:Analiza społeczna przestrzeni - projekt analityczny (konwersatorium)
+UID:d845b899-30f2-4cb6-a44e-e25d3267789b@d845.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241017T091500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241017T074500Z
+SUMMARY:Analiza społeczna przestrzeni - projekt analityczny (konwersatorium)
+UID:ac343098-1711-4ed1-80f4-2e37928243ed@ac34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Przemysław Kisiel
+DTEND:20241028T133000Z
+LOCATION:Paw.G  8
+DTSTART:20241028T103000Z
+SUMMARY:Realizacja projektów badawczych (ćwiczenia)
+UID:38cc5550-876b-4da4-84c0-2c90415edb60@38cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20250122T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20250122T084500Z
+SUMMARY:Metody analizy przestrzennej (wykład)
+UID:200a621c-9f78-4240-90c7-02c739f0788a@200a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20241106T083000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241106T070000Z
+SUMMARY:Systemy informacji przestrzennej (GIS) (laboratorium)
+UID:893091ed-e81e-44bd-af30-01581fc71f4f@8930.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:c737bdca-2836-4753-b25d-c327986be8be@c737.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20241127T083000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241127T070000Z
+SUMMARY:Systemy informacji przestrzennej (GIS) (laboratorium)
+UID:94064e81-526f-4946-8757-b1e76a1d183e@9406.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241007T091500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241007T074500Z
+SUMMARY:Ruchy miejskie i społeczeństwo obywatelskie (wykład)
+UID:e0844214-d792-47e2-914d-2a713d49ac0f@e084.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241025T124500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241025T111500Z
+SUMMARY:Koputerowe projektowanie przestrzeni (laboratorium)
+UID:6ec379e3-947e-4890-9451-0e8b2cd1a9bd@6ec3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Górka
+DTEND:20250120T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20250120T084500Z
+SUMMARY:Regulacje i rozwiązywanie konfliktów (wykład)
+UID:35ec7ae0-1941-4f07-b0db-5a718ca3ef6f@35ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241016T091500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241016T074500Z
+SUMMARY:Metody analizy przestrzennej (wykład)
+UID:94cecf56-0f7a-4ac2-9e02-dbc8544e76a5@94ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20250109T101500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20250109T084500Z
+SUMMARY:Analiza społeczna przestrzeni - projekt analityczny (konwersatorium)
+UID:0f18accc-5fe8-48a4-b1c7-5079068845c1@0f18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241024T110000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241024T093000Z
+SUMMARY:Metody analizy przestrzennej (laboratorium)
+UID:1c5f1504-4514-41ca-9b0e-4ace9333dd0d@1c5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241009T124500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241009T111500Z
+SUMMARY:Systemy informacji przestrzennej (GIS) (wykład)
+UID:0b3ceca0-5b6e-4a09-95e5-014dcca3f7b8@0b3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20241003T073000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241003T060000Z
+SUMMARY:Systemy informacji przestrzennej (GIS) (laboratorium)
+UID:b2934fee-2747-4cec-81b8-499811326c7d@b293.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241107T101500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241107T084500Z
+SUMMARY:Analiza społeczna przestrzeni - projekt analityczny (konwersatorium)
+UID:9c35639f-ec61-4e97-981d-e103e337b1b7@9c35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20250115T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20250115T084500Z
+SUMMARY:Metody analizy przestrzennej (wykład)
+UID:90712d35-e865-4a89-8d53-a6b12a5ce521@9071.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20250108T083000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250108T070000Z
+SUMMARY:Systemy informacji przestrzennej (GIS) (laboratorium)
+UID:fe8857de-d496-4d45-974a-482653098de1@fe88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241218T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20241218T103000Z
+SUMMARY:Metody analizy przestrzennej (laboratorium)
+UID:13cbbb48-1485-4d70-9a62-748d58c645d0@13cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241220T134500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241220T121500Z
+SUMMARY:Koputerowe projektowanie przestrzeni (laboratorium)
+UID:74e23ae3-e92f-444f-ad2a-c3331f71471c@74e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241106T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241106T084500Z
+SUMMARY:Metody analizy przestrzennej (wykład)
+UID:7c64ff4e-1603-49fe-ae61-0845ae7bc2a2@7c64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20250122T083000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250122T070000Z
+SUMMARY:Systemy informacji przestrzennej (GIS) (laboratorium)
+UID:55f3c39d-04ec-4b4d-9bb7-411a43b9730b@55f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241018T124500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241018T111500Z
+SUMMARY:Koputerowe projektowanie przestrzeni (laboratorium)
+UID:5c9d566a-5781-47c8-b90d-4166675e8c43@5c9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241021T091500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241021T074500Z
+SUMMARY:Ruchy miejskie i społeczeństwo obywatelskie (wykład)
+UID:3e0b85ca-3bb0-4011-8978-a3f9cdfbf2c6@3e0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241218T134500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241218T121500Z
+SUMMARY:Systemy informacji przestrzennej (GIS) (wykład)
+UID:db62dbb4-1fac-44d6-918e-181bb38e91c1@db62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Górka
+DTEND:20241108T114500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241108T084500Z
+SUMMARY:Regulacje i rozwiązywanie konfliktów (ćwiczenia)
+UID:389a6e87-b646-4408-9eca-bb8d9e1a2e6d@389a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241211T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20241211T103000Z
+SUMMARY:Metody analizy przestrzennej (laboratorium)
+UID:ccc64b9d-c183-411f-802d-0bd3425b840d@ccc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20241211T083000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241211T070000Z
+SUMMARY:Systemy informacji przestrzennej (GIS) (laboratorium)
+UID:fce5a0a0-bbe8-435b-815a-39d207b15abc@fce5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20250108T101500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20250108T084500Z
+SUMMARY:Metody analizy przestrzennej (wykład)
+UID:3e4f6d56-56f1-476e-b076-5a4e27f29118@3e4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20241009T073000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241009T060000Z
+SUMMARY:Systemy informacji przestrzennej (GIS) (laboratorium)
+UID:a726ddaa-0b62-473a-9651-2c9b16afa2fb@a726.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Górka
+DTEND:20250117T114500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20250117T084500Z
+SUMMARY:Regulacje i rozwiązywanie konfliktów (ćwiczenia)
+UID:da40cdc0-8b3f-484a-b2ca-0bd0f436882b@da40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241220T083000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241220T074500Z
+SUMMARY:Systemy informacji przestrzennej (GIS) (wykład)
+UID:e0481ae0-9433-4080-ab5f-a90fbfbb9f35@e048.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20241016T073000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241016T060000Z
+SUMMARY:Systemy informacji przestrzennej (GIS) (laboratorium)
+UID:afd0a394-95c5-4d5a-a61d-6358b2478306@afd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241011T124500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241011T111500Z
+SUMMARY:Koputerowe projektowanie przestrzeni (laboratorium)
+UID:59ccbe40-bb88-4d3b-8260-891878345b52@59cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20250116T101500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20250116T084500Z
+SUMMARY:Analiza społeczna przestrzeni - projekt analityczny (konwersatorium)
+UID:726304e9-650e-4437-b23f-20880f60908a@7263.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241023T091500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241023T074500Z
+SUMMARY:Metody analizy przestrzennej (wykład)
+UID:2dd6f765-350f-4c57-aeaf-ea2e09521575@2dd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Górka
+DTEND:20241011T104500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241011T074500Z
+SUMMARY:Regulacje i rozwiązywanie konfliktów (ćwiczenia)
+UID:2a19bcdb-b1f1-4673-82d2-2c7876eacb46@2a19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20241113T083000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241113T070000Z
+SUMMARY:Systemy informacji przestrzennej (GIS) (laboratorium)
+UID:5cf8688f-2bcf-4db7-8f28-b9cf138f8831@5cf8.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1010 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Budny
+DTEND:20241104T101500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241104T084500Z
+SUMMARY:Matematyka (wykład)
+UID:5fe93487-af60-4afd-8652-644a6a6a9fc3@5fe9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Magdalena Zdun
+DTEND:20241106T110000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241106T084500Z
+SUMMARY:Technologie informacyjne w planowaniu przestrzennym (Projekt)
+UID:c3f82db3-1eb8-476e-9954-7399693dbdce@c3f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Budny
+DTEND:20241118T101500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241118T084500Z
+SUMMARY:Matematyka (wykład)
+UID:a6df1994-d500-4c15-8eaf-fda0237b1341@a6df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Wiśniewski
+DTEND:20241202T120000Z
+LOCATION:Paw.F 109
+DTSTART:20241202T103000Z
+SUMMARY:Historia urbanistyki (wykład)
+UID:7f8ab29a-7b08-45bd-b163-c68d1266376d@7f8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Wiśniewski
+DTEND:20250123T093000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20250123T084500Z
+SUMMARY:Historia urbanistyki (ćwiczenia)
+UID:a7b0f4ac-0aa9-42e2-a530-ac52dbef9f2b@a7b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Budny
+DTEND:20241217T120000Z
+LOCATION:Paw.F 613
+DTSTART:20241217T103000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:8b500d90-e2d0-433f-8026-9b7b59ce72e3@8b50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Pollok
+DTEND:20241106T153000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241106T140000Z
+SUMMARY:Mikroekonomia (wykład)
+UID:1f3b7be4-3427-4826-bfbd-e7f678ca145a@1f3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241108T120000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241108T103000Z
+SUMMARY:Podstawy komputerowego modelowania i wizualizacji terenu (Projekt)
+UID:ac953e8f-b4cf-429c-9a7b-b7f258bb20f3@ac95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20250107T134500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250107T121500Z
+SUMMARY:Podstawy komputerowego modelowania i wizualizacji terenu (Projekt)
+UID:cd598576-84c3-43ff-9ecc-4300738ecad8@cd59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Magdalena Zdun
+DTEND:20241113T110000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241113T084500Z
+SUMMARY:Technologie informacyjne w planowaniu przestrzennym (Projekt)
+UID:3eb1084b-fa12-489d-831a-0f00e2fae9cf@3eb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241107T120000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241107T103000Z
+SUMMARY:Systemy Informacji Geograficznej GIS I - podstawy (Projekt)
+UID:755651a9-c21a-4655-8eb9-74582f8c6582@7556.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Pollok
+DTEND:20241204T171500Z
+LOCATION:Paw.F 415
+DTSTART:20241204T154500Z
+SUMMARY:Mikroekonomia (ćwiczenia)
+UID:de177b57-284e-4fc8-8599-458eef6316a6@de17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Magdalena Zdun
+DTEND:20241120T110000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241120T084500Z
+SUMMARY:Technologie informacyjne w planowaniu przestrzennym (Projekt)
+UID:c9b8567d-d78e-483b-86dd-2a68146f2650@c9b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20250116T120000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250116T103000Z
+SUMMARY:Systemy Informacji Geograficznej GIS I - podstawy (Projekt)
+UID:216fdb1f-a5f6-44e3-ac1d-4390f59246b5@216f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241125T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241125T121500Z
+SUMMARY:Systemy Informacji Geograficznej GIS I - podstawy (wykład)
+UID:e9bc4fc9-8562-4fb4-8ccc-537c817fc108@e9bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Pollok
+DTEND:20250115T171500Z
+LOCATION:Paw.F 415
+DTSTART:20250115T154500Z
+SUMMARY:Mikroekonomia (ćwiczenia)
+UID:02d6d8fe-ded1-4108-a7d2-0e389d420350@02d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Pollok
+DTEND:20250113T153000Z
+LOCATION:Paw.G  9
+DTSTART:20250113T140000Z
+SUMMARY:Mikroekonomia (ćwiczenia)
+UID:9defe6b9-3da2-4000-8322-434673097ed0@9def.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241203T134500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241203T121500Z
+SUMMARY:Podstawy komputerowego modelowania i wizualizacji terenu (Projekt)
+UID:33c31ad3-ad1d-4200-ad7c-8668a8db452a@33c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Pollok
+DTEND:20250115T153000Z
+LOCATION:Paw.S sala 9
+DTSTART:20250115T140000Z
+SUMMARY:Mikroekonomia (wykład)
+UID:f3fba07b-c7ac-493d-aa31-a911df2e6722@f3fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:46d7aeba-aab5-4581-9af2-00563c25ddf2@46d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241121T120000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241121T103000Z
+SUMMARY:Systemy Informacji Geograficznej GIS I - podstawy (Projekt)
+UID:a7ee3010-a137-4c9a-801e-c8af5864796f@a7ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241011T110000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241011T093000Z
+SUMMARY:Podstawy komputerowego modelowania i wizualizacji terenu (Projekt)
+UID:a7a4a969-904f-4acf-a0bc-da1b4d6d3e94@a7a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241017T110000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241017T093000Z
+SUMMARY:Systemy Informacji Geograficznej GIS I - podstawy (Projekt)
+UID:6bb08a0f-57d6-4c11-9e57-22b47ea0de67@6bb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241126T134500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241126T121500Z
+SUMMARY:Podstawy komputerowego modelowania i wizualizacji terenu (Projekt)
+UID:73ada65d-8ec8-4d44-9694-80956a1433ce@73ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Budny
+DTEND:20241210T120000Z
+LOCATION:Paw.F 613
+DTSTART:20241210T103000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:56a24ca5-bcc6-4f57-a6dd-68facfc7eb7b@56a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Budny
+DTEND:20241119T120000Z
+LOCATION:Paw.F 613
+DTSTART:20241119T103000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:185b75da-08d9-49d5-bc28-76c95e36bca7@185b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Pollok
+DTEND:20250120T144500Z
+LOCATION:Paw.C sala D
+DTSTART:20250120T140000Z
+SUMMARY:Mikroekonomia (wykład)
+UID:21e03d23-0dba-4673-80b4-e2ac2c434320@21e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Pollok
+DTEND:20250113T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250113T121500Z
+SUMMARY:Mikroekonomia (wykład)
+UID:fba9a4d3-0a24-4c15-ba10-17011b67a749@fba9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: Studencki Uek Parlament
+DTEND:20241007T161500Z
+LOCATION:Paw.S sala 9
+DTSTART:20241007T144500Z
+SUMMARY:Prawa i obowiązki studenta (rezerwacja)
+UID:a815ac9f-bc7e-4cb5-a5e2-211a821026e9@a815.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241217T134500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241217T121500Z
+SUMMARY:Podstawy komputerowego modelowania i wizualizacji terenu (Projekt)
+UID:9d541a02-a5f3-4919-9918-d03005aef0ba@9d54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241112T134500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241112T121500Z
+SUMMARY:Podstawy komputerowego modelowania i wizualizacji terenu (Projekt)
+UID:3755d3d8-b0ae-45a8-b8b2-00741ff36318@3755.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Pollok
+DTEND:20241218T153000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241218T140000Z
+SUMMARY:Mikroekonomia (wykład)
+UID:89d21853-1ed8-40c8-a97d-c45070811ca6@89d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Wiśniewski
+DTEND:20241114T101500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241114T084500Z
+SUMMARY:Historia urbanistyki (ćwiczenia)
+UID:2b1dbade-7876-4aba-a166-5b3bbedabda2@2b1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Budny
+DTEND:20241112T120000Z
+LOCATION:Paw.F 613
+DTSTART:20241112T103000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:5cff4b1d-7fd6-40ff-b32c-242aad03b3f4@5cff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241015T124500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241015T111500Z
+SUMMARY:Podstawy komputerowego modelowania i wizualizacji terenu (Projekt)
+UID:7a9fb4d9-2cba-454c-aced-a37af4a8a133@7a9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241028T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241028T121500Z
+SUMMARY:Systemy Informacji Geograficznej GIS I - podstawy (wykład)
+UID:ebe04d48-67bc-4ccd-aff6-40909a49bce0@ebe0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Budny
+DTEND:20241008T110000Z
+LOCATION:Paw.F 613
+DTSTART:20241008T093000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:f2a13152-d9cd-41cb-b288-315fdb567f8b@f2a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. inż. Aleksander Noworól
+DTEND:20241008T091500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241008T074500Z
+SUMMARY:Podstawy gospodarki przestrzennej (wykład)
+UID:12548ef4-ff75-46c0-adc9-6c93fecf8004@1254.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241025T110000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241025T093000Z
+SUMMARY:Podstawy komputerowego modelowania i wizualizacji terenu (Projekt)
+UID:5a77ad09-3695-4c66-a59b-0205e3dddce2@5a77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Wiśniewski
+DTEND:20241031T101500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241031T084500Z
+SUMMARY:Historia urbanistyki (ćwiczenia)
+UID:f7b353af-cb71-43c0-9f60-755a5a3e46bd@f7b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Budny
+DTEND:20241126T120000Z
+LOCATION:Paw.F 613
+DTSTART:20241126T103000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:78d5d669-09b2-499a-bdf1-7974d30e838e@78d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241014T124500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241014T111500Z
+SUMMARY:Systemy Informacji Geograficznej GIS I - podstawy (wykład)
+UID:a79d1758-0d25-43e3-98b4-fd0d25ac84b1@a79d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241024T110000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241024T093000Z
+SUMMARY:Systemy Informacji Geograficznej GIS I - podstawy (Projekt)
+UID:cbb0f4e3-1831-4119-af8e-4caa4d1b93cf@cbb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. inż. Aleksander Noworól
+DTEND:20241029T101500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241029T084500Z
+SUMMARY:Podstawy gospodarki przestrzennej (wykład)
+UID:8cebd4cc-44b7-4a73-a5ec-03a818da2570@8ceb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241119T134500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241119T121500Z
+SUMMARY:Podstawy komputerowego modelowania i wizualizacji terenu (Projekt)
+UID:a19e854e-e907-4102-8a8b-2709516b1a2e@a19e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Wiśniewski
+DTEND:20241007T110000Z
+LOCATION:Paw.F 109
+DTSTART:20241007T093000Z
+SUMMARY:Historia urbanistyki (wykład)
+UID:37faeaf1-00cf-42a7-8323-92f3b575e1cd@37fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Pollok
+DTEND:20241218T171500Z
+LOCATION:Paw.F 415
+DTSTART:20241218T154500Z
+SUMMARY:Mikroekonomia (ćwiczenia)
+UID:aa54f7ba-1b94-4d19-b020-68421ca51cf3@aa54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241210T134500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241210T121500Z
+SUMMARY:Podstawy komputerowego modelowania i wizualizacji terenu (Projekt)
+UID:87ef5d0e-2cc0-43a8-96f5-d7b17a8b628c@87ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. inż. Aleksander Noworól
+DTEND:20241112T101500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241112T084500Z
+SUMMARY:Podstawy gospodarki przestrzennej (wykład)
+UID:60102421-513f-40fc-a0af-c1996c667035@6010.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Budny
+DTEND:20241202T101500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241202T084500Z
+SUMMARY:Matematyka (wykład)
+UID:58ddf09c-49a6-4d04-ad23-1affce5657ca@58dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Budny
+DTEND:20250107T120000Z
+LOCATION:Paw.F 613
+DTSTART:20250107T103000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:1562b9f8-5818-4d5e-8036-095f63be8cf5@1562.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Magdalena Zdun
+DTEND:20241211T110000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241211T084500Z
+SUMMARY:Technologie informacyjne w planowaniu przestrzennym (Projekt)
+UID:483cc287-2156-4dd4-89cf-e920f1392ba2@483c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Budny
+DTEND:20250114T120000Z
+LOCATION:Paw.F 613
+DTSTART:20250114T103000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:7ff2d990-083e-46f8-a958-bf18767f5feb@7ff2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Wiśniewski
+DTEND:20250113T120000Z
+LOCATION:Paw.F 109
+DTSTART:20250113T103000Z
+SUMMARY:Historia urbanistyki (wykład)
+UID:28322412-f606-4fba-bd48-2ca38e51daeb@2832.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Magdalena Zdun
+DTEND:20241204T110000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241204T084500Z
+SUMMARY:Technologie informacyjne w planowaniu przestrzennym (Projekt)
+UID:b71020e3-ccca-4c29-8653-912a9e801b6f@b710.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Pollok
+DTEND:20241204T153000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241204T140000Z
+SUMMARY:Mikroekonomia (wykład)
+UID:00c943ea-3944-4864-a9ae-dd9262e480d3@00c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Wiśniewski
+DTEND:20241021T110000Z
+LOCATION:Paw.F 109
+DTSTART:20241021T093000Z
+SUMMARY:Historia urbanistyki (wykład)
+UID:651ac929-eeab-4771-8263-7037a3f178a5@651a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Budny
+DTEND:20241216T101500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241216T084500Z
+SUMMARY:Matematyka (wykład)
+UID:3354e4e8-92ff-4b0d-ba5e-c958597f4880@3354.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241008T124500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241008T111500Z
+SUMMARY:Podstawy komputerowego modelowania i wizualizacji terenu (Projekt)
+UID:f5acb8fe-8425-4467-8d60-bea1b6f898f4@f5ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. inż. Aleksander Noworól
+DTEND:20241105T101500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241105T084500Z
+SUMMARY:Podstawy gospodarki przestrzennej (wykład)
+UID:0d3792af-889c-428b-ac52-afa5ecb89a4d@0d37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Budny
+DTEND:20241004T120000Z
+LOCATION:Paw.F 104
+DTSTART:20241004T111500Z
+SUMMARY:Matematyka (wykład)
+UID:2586b893-223f-4b4d-8ea5-68df81c2fce0@2586.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. inż. Aleksander Noworól
+DTEND:20241217T101500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241217T084500Z
+SUMMARY:Podstawy gospodarki przestrzennej (wykład)
+UID:68137d2a-c226-4b55-881b-7d3523b2252a@6813.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Pollok
+DTEND:20241023T143000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241023T130000Z
+SUMMARY:Mikroekonomia (wykład)
+UID:124c04af-d1ec-4e19-9ff5-3dd83334cf1e@124c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Pollok
+DTEND:20241106T171500Z
+LOCATION:Paw.F 415
+DTSTART:20241106T154500Z
+SUMMARY:Mikroekonomia (ćwiczenia)
+UID:8686da96-17d3-4e8b-86fe-b0f3c300ef14@8686.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Pollok
+DTEND:20241120T171500Z
+LOCATION:Paw.F 415
+DTSTART:20241120T154500Z
+SUMMARY:Mikroekonomia (ćwiczenia)
+UID:f20640a0-80ac-4e09-98db-6961c05b366d@f206.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. inż. Aleksander Noworól
+DTEND:20241001T091500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241001T074500Z
+SUMMARY:Podstawy gospodarki przestrzennej (wykład)
+UID:14509a9b-72f5-45b6-8f00-6cf70f31ffd2@1450.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Magdalena Zdun
+DTEND:20241009T100000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241009T074500Z
+SUMMARY:Technologie informacyjne w planowaniu przestrzennym (Projekt)
+UID:ff9a5926-cffa-4712-8d6c-c1ae017ef51c@ff9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Budny
+DTEND:20241024T091500Z
+LOCATION:Paw.B 351
+DTSTART:20241024T074500Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:876397f5-08c0-49b0-988e-88ec009a0a32@8763.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Magdalena Zdun
+DTEND:20250108T110000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250108T084500Z
+SUMMARY:Technologie informacyjne w planowaniu przestrzennym (Projekt)
+UID:485027b3-05f1-4f6b-b27f-94dda626d77f@4850.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Wiśniewski
+DTEND:20241003T091500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241003T074500Z
+SUMMARY:Historia urbanistyki (ćwiczenia)
+UID:e073d381-d7ef-45f9-859f-2bfdfc57e4f3@e073.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Magdalena Zdun
+DTEND:20250110T110000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250110T084500Z
+SUMMARY:Technologie informacyjne w planowaniu przestrzennym (Projekt)
+UID:894ccb4b-8e53-4448-9d7f-542cb0629b7f@894c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Pollok
+DTEND:20250120T153000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250120T144500Z
+SUMMARY:Mikroekonomia (ćwiczenia)
+UID:ef65a1fe-b2ce-4b87-b2aa-59c3f8e562b1@ef65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Magdalena Zdun
+DTEND:20250115T110000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250115T084500Z
+SUMMARY:Technologie informacyjne w planowaniu przestrzennym (Projekt)
+UID:ad21c5c8-b7e5-4c1b-9e2c-fe7f6cdae745@ad21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241206T120000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241206T103000Z
+SUMMARY:Podstawy komputerowego modelowania i wizualizacji terenu (Projekt)
+UID:869bcbcc-a7d3-4194-903b-cbde579d888a@869b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Magdalena Zdun
+DTEND:20250122T110000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250122T084500Z
+SUMMARY:Technologie informacyjne w planowaniu przestrzennym (Projekt)
+UID:6b7f5b8b-164f-4425-9c79-fb0c1804b1da@6b7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241209T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241209T121500Z
+SUMMARY:Systemy Informacji Geograficznej GIS I - podstawy (wykład)
+UID:6d763793-431d-4901-995d-5fa4c9ae4e09@6d76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. inż. Aleksander Noworól
+DTEND:20241119T101500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241119T084500Z
+SUMMARY:Podstawy gospodarki przestrzennej (wykład)
+UID:b30df659-101c-4dfb-9b50-528fca990808@b30d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Pollok
+DTEND:20241023T161500Z
+LOCATION:Paw.F 415
+DTSTART:20241023T144500Z
+SUMMARY:Mikroekonomia (ćwiczenia)
+UID:bbf558fa-ce40-42cd-a45f-1303e450b6f9@bbf5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241105T134500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241105T121500Z
+SUMMARY:Podstawy komputerowego modelowania i wizualizacji terenu (Projekt)
+UID:657f5432-b52a-415e-859f-b2cf824d639e@657f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Magdalena Zdun
+DTEND:20241127T110000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241127T084500Z
+SUMMARY:Technologie informacyjne w planowaniu przestrzennym (Projekt)
+UID:61d7a0f0-fe08-4697-96ef-386be2dd752f@61d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Wiśniewski
+DTEND:20241128T101500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241128T084500Z
+SUMMARY:Historia urbanistyki (ćwiczenia)
+UID:6afb023e-6c6a-4b5d-a529-c82b282da20d@6afb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Magdalena Zdun
+DTEND:20241023T100000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241023T074500Z
+SUMMARY:Technologie informacyjne w planowaniu przestrzennym (Projekt)
+UID:a6ddbcbf-aeea-4270-a949-7ff40b84f418@a6dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241128T120000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241128T103000Z
+SUMMARY:Systemy Informacji Geograficznej GIS I - podstawy (Projekt)
+UID:2e6b29a7-d841-434f-a9f7-b2120f20daa6@2e6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. inż. Aleksander Noworól
+DTEND:20241015T091500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241015T074500Z
+SUMMARY:Podstawy gospodarki przestrzennej (wykład)
+UID:73067b86-a4f1-4c85-8e44-cd7c2b860f16@7306.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Wiśniewski
+DTEND:20241216T120000Z
+LOCATION:Paw.F 109
+DTSTART:20241216T103000Z
+SUMMARY:Historia urbanistyki (wykład)
+UID:9f0bdd04-1358-4c51-89a4-12ce42a1f37a@9f0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241001T124500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241001T111500Z
+SUMMARY:Podstawy komputerowego modelowania i wizualizacji terenu (Projekt)
+UID:c1e900d3-e800-4e28-b300-d34d176f25da@c1e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241122T120000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241122T103000Z
+SUMMARY:Podstawy komputerowego modelowania i wizualizacji terenu (Projekt)
+UID:79564a12-b563-4339-a0b5-87e3dbf8aa9f@7956.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Budny
+DTEND:20250113T101500Z
+LOCATION:Paw.S sala 6
+DTSTART:20250113T084500Z
+SUMMARY:Matematyka (wykład)
+UID:5c226944-f97b-4d53-806e-b26b94f051f0@5c22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. inż. Aleksander Noworól
+DTEND:20241203T101500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241203T084500Z
+SUMMARY:Podstawy gospodarki przestrzennej (wykład)
+UID:4ffdb613-a016-4cc3-a57e-1bf04ed8b83f@4ffd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241205T120000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241205T103000Z
+SUMMARY:Systemy Informacji Geograficznej GIS I - podstawy (Projekt)
+UID:466eaea9-f5ff-4bf7-a11a-a22f4fce2259@466e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Budny
+DTEND:20250121T120000Z
+LOCATION:Paw.F 613
+DTSTART:20250121T103000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:aa28d9b5-0cdd-45ff-8fff-05d48c48a15b@aa28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20250123T120000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250123T103000Z
+SUMMARY:Systemy Informacji Geograficznej GIS I - podstawy (Projekt)
+UID:77e0fe83-5fdd-4bf5-9a19-414acb596326@77e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Magdalena Zdun
+DTEND:20241030T110000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241030T084500Z
+SUMMARY:Technologie informacyjne w planowaniu przestrzennym (Projekt)
+UID:5853cf92-e281-4214-889d-ef8311182297@5853.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Artur Pollok
+DTEND:20241120T153000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241120T140000Z
+SUMMARY:Mikroekonomia (wykład)
+UID:f1600509-0c3c-4780-8f7b-5e3bd88331f4@f160.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Budny
+DTEND:20241007T091500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241007T074500Z
+SUMMARY:Matematyka (wykład)
+UID:8ef097f1-fe89-49d7-bcba-9670801d023e@8ef0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Budny
+DTEND:20241029T120000Z
+LOCATION:Paw.F 613
+DTSTART:20241029T103000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:84bc3af6-d2f9-44c8-937c-dd4a1632591c@84bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Wiśniewski
+DTEND:20241028T120000Z
+LOCATION:Paw.F 109
+DTSTART:20241028T111500Z
+SUMMARY:Historia urbanistyki (wykład)
+UID:0f1c71ff-53b0-4cd4-9de9-3882adde21b1@0f1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241003T110000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241003T093000Z
+SUMMARY:Systemy Informacji Geograficznej GIS I - podstawy (Projekt)
+UID:043dbbcb-045a-44f8-8229-a5e967b721c3@043d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. inż. Aleksander Noworól
+DTEND:20250114T101500Z
+LOCATION:Paw.S sala 6
+DTSTART:20250114T093000Z
+SUMMARY:Podstawy gospodarki przestrzennej (wykład)
+UID:261e3137-85bf-44d3-9787-c41c4396c2ca@261e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Budny
+DTEND:20241203T120000Z
+LOCATION:Paw.F 613
+DTSTART:20241203T103000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:e51296a6-6d18-48c0-a52d-e6d20850c0ca@e512.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Wiśniewski
+DTEND:20250109T101500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20250109T084500Z
+SUMMARY:Historia urbanistyki (ćwiczenia)
+UID:f71e448d-0462-4fa9-b66d-1da0546d889f@f71e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241029T134500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241029T121500Z
+SUMMARY:Podstawy komputerowego modelowania i wizualizacji terenu (Projekt)
+UID:9d9c6e15-39da-41eb-9904-ecbfe471ba9c@9d9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Magdalena Zdun
+DTEND:20241218T110000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241218T084500Z
+SUMMARY:Technologie informacyjne w planowaniu przestrzennym (Projekt)
+UID:4e754f2b-9c0e-476b-98b0-475b2bb612ca@4e75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Wiśniewski
+DTEND:20241118T120000Z
+LOCATION:Paw.F 109
+DTSTART:20241118T103000Z
+SUMMARY:Historia urbanistyki (wykład)
+UID:2e263f52-00d1-4cef-88ea-8854be7cc94f@2e26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Budny
+DTEND:20241022T110000Z
+LOCATION:Paw.F 613
+DTSTART:20241022T093000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:15f63110-9d95-4e0a-8662-a0482eaae0b1@15f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20250114T134500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250114T121500Z
+SUMMARY:Podstawy komputerowego modelowania i wizualizacji terenu (Projekt)
+UID:4061d202-256e-4573-a9fa-81a376764c51@4061.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20250109T120000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250109T103000Z
+SUMMARY:Systemy Informacji Geograficznej GIS I - podstawy (Projekt)
+UID:86709b14-179b-459f-83c6-b72b0d37edd6@8670.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241108T101500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241108T084500Z
+SUMMARY:Systemy Informacji Geograficznej GIS I - podstawy (Projekt)
+UID:b5d2d2c9-4a98-4959-ad58-88b24fd21541@b5d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20250121T134500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250121T121500Z
+SUMMARY:Podstawy komputerowego modelowania i wizualizacji terenu (Projekt)
+UID:9a3a0e65-72e2-4c0e-a79c-2c5b7bdd1eb2@9a3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241031T120000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241031T103000Z
+SUMMARY:Systemy Informacji Geograficznej GIS I - podstawy (Projekt)
+UID:5d698eb8-cea3-47a5-b3bd-ff830e463c9e@5d69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Budny
+DTEND:20241105T120000Z
+LOCATION:Paw.F 613
+DTSTART:20241105T103000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:d2264c90-6f2f-4467-bf25-9b4a164a98be@d226.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Wiśniewski
+DTEND:20241104T120000Z
+LOCATION:Paw.F 109
+DTSTART:20241104T103000Z
+SUMMARY:Historia urbanistyki (wykład)
+UID:f65fa5ff-8e73-4276-8627-5162f70db82b@f65f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Magdalena Zdun
+DTEND:20241016T100000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241016T074500Z
+SUMMARY:Technologie informacyjne w planowaniu przestrzennym (Projekt)
+UID:f5850e3b-d8f5-45df-a5c3-71080c3f0f3f@f585.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. inż. Aleksander Noworól
+DTEND:20250107T101500Z
+LOCATION:Paw.S sala 6
+DTSTART:20250107T084500Z
+SUMMARY:Podstawy gospodarki przestrzennej (wykład)
+UID:c01794ec-1727-464e-a381-b56d95e6df82@c017.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Wiśniewski
+DTEND:20241212T101500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241212T084500Z
+SUMMARY:Historia urbanistyki (ćwiczenia)
+UID:af38cc41-c74d-46c7-a825-ca5738ee0d29@af38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20250120T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250120T121500Z
+SUMMARY:Systemy Informacji Geograficznej GIS I - podstawy (wykład)
+UID:8e454fbe-1c0b-4656-9fbf-793b7f81acbb@8e45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241212T120000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241212T103000Z
+SUMMARY:Systemy Informacji Geograficznej GIS I - podstawy (Projekt)
+UID:1cf5da34-19a1-4bd5-b2e0-aca1e944d683@1cf5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241219T120000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241219T103000Z
+SUMMARY:Systemy Informacji Geograficznej GIS I - podstawy (Projekt)
+UID:20fad108-eba0-4513-80be-db4d502a6cee@20fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:0bbe0761-0baf-459d-8093-c420bac24622@0bbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Budny
+DTEND:20241021T091500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241021T074500Z
+SUMMARY:Matematyka (wykład)
+UID:f8c66b16-b6eb-46aa-a899-29cc23e1242f@f8c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. inż. Aleksander Noworól
+DTEND:20241126T101500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241126T084500Z
+SUMMARY:Podstawy gospodarki przestrzennej (wykład)
+UID:23b26c2f-6b6f-4756-b4f4-a6b40ef6a79d@23b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Wiśniewski
+DTEND:20241017T091500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241017T074500Z
+SUMMARY:Historia urbanistyki (ćwiczenia)
+UID:17a075de-900a-4349-9351-33ed3f7e08cb@17a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241114T120000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241114T103000Z
+SUMMARY:Systemy Informacji Geograficznej GIS I - podstawy (Projekt)
+UID:3b7d6e81-b147-4da8-a59a-c19babeb7a3a@3b7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Budny
+DTEND:20241015T110000Z
+LOCATION:Paw.F 613
+DTSTART:20241015T093000Z
+SUMMARY:Matematyka (ćwiczenia)
+UID:2b96e4c4-f6d3-408d-b9ab-68843382caa7@2b96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Hołuj
+DTEND:20241022T124500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241022T111500Z
+SUMMARY:Podstawy komputerowego modelowania i wizualizacji terenu (Projekt)
+UID:a7df4596-c992-4ca4-96ae-a31869006292@a7df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. inż. Aleksander Noworól
+DTEND:20241210T101500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241210T084500Z
+SUMMARY:Podstawy gospodarki przestrzennej (wykład)
+UID:8e1884dc-4cc3-4b0e-8176-030d1f5c8ea3@8e18.org
+END:VEVENT
+END:VCALENDAR

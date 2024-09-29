@@ -1,0 +1,946 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20241122T083000Z
+LOCATION:Paw.C sala F
+DTSTART:20241122T070000Z
+SUMMARY:Polityka gospodarcza dla praktyków (wykład)
+UID:ab33f91f-03bc-42a7-ad1b-d64fe533dd9e@ab33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241127T120000Z
+LOCATION:Paw.C sala B
+DTSTART:20241127T103000Z
+SUMMARY:Ekonometria (wykład)
+UID:24c6a535-856f-4618-a8b3-1db5b46f75db@24c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Kwaśny
+DTEND:20241125T124500Z
+LOCATION:Paw.G 11
+DTSTART:20241125T103000Z
+SUMMARY:Międzynarodowe stosunki gospodarcze� (wykład)
+UID:d38eebef-15ee-4ac3-ac70-705ccf778188@d38e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20241203T134500Z
+LOCATION:Bibl. 443
+DTSTART:20241203T121500Z
+SUMMARY:Międzynarodowe stosunki gospodarcze� (ćwiczenia)
+UID:56192f37-04e0-45d0-b745-e1da7d48f1bc@5619.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20241120T134500Z
+LOCATION:Paw.U sala O
+DTSTART:20241120T121500Z
+SUMMARY:Analiza rynku nieruchomości (wykład)
+UID:c148de44-8a48-4ce9-9d3e-719f5fb6a88f@c148.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
+DTEND:20241129T124500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241129T103000Z
+SUMMARY:Narzędzia informatyczne w analizie danych i doradztwie gospodarczym (ćwiczenia)
+UID:c386b056-c4eb-412d-b83a-51a597fcd40f@c386.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
+DTEND:20241108T124500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241108T103000Z
+SUMMARY:Narzędzia informatyczne w analizie danych i doradztwie gospodarczym (ćwiczenia)
+UID:9d5eca41-7e94-4b59-bc26-e1e89137b3da@9d5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20241218T134500Z
+LOCATION:Paw.U sala O
+DTSTART:20241218T121500Z
+SUMMARY:Analiza rynku nieruchomości (wykład)
+UID:0c65df7d-2d82-4d2c-814d-11300ece5087@0c65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20241211T134500Z
+LOCATION:Paw.U sala O
+DTSTART:20241211T121500Z
+SUMMARY:Analiza rynku nieruchomości (wykład)
+UID:de3a6f2a-8cd1-4045-83f4-5403f082675e@de3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Witold Furman
+DTEND:20241114T120000Z
+LOCATION:Paw.B 351
+DTSTART:20241114T103000Z
+SUMMARY:Analiza sprawozdań finansowych (wykład)
+UID:6b319ade-adcf-44e0-927c-0c3c11f2d56f@6b31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20241204T134500Z
+LOCATION:Paw.U sala O
+DTSTART:20241204T121500Z
+SUMMARY:Analiza rynku nieruchomości (wykład)
+UID:eacc2d50-5aee-471e-8910-ec8fd7de4011@eacc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20241106T134500Z
+LOCATION:Paw.U sala O
+DTSTART:20241106T121500Z
+SUMMARY:Analiza rynku nieruchomości (wykład)
+UID:bd240b13-748b-43b5-9417-4f6767b639e5@bd24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20250108T144500Z
+LOCATION:Bibl. 443
+DTSTART:20250108T140000Z
+SUMMARY:Analiza wartości pieniądza w czasie (wykład)
+UID:991fa204-20a3-4a7e-b231-a117481b89a5@991f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Stanienda
+DTEND:20241104T171500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241104T154500Z
+SUMMARY:Analiza sprawozdań finansowych (ćwiczenia)
+UID:4f851db8-5440-4df1-a9a0-8ee75f3516f7@4f85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241113T120000Z
+LOCATION:Paw.C sala B
+DTSTART:20241113T103000Z
+SUMMARY:Ekonometria (wykład)
+UID:67b82021-a5da-4b8b-9522-fad2e62e2c7e@67b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241120T171500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241120T154500Z
+SUMMARY:Inwestowanie w przedsiębiorstwach użyteczności publicznej (wykład do wyboru)
+UID:9407778a-4e8b-4cf9-a0db-00a290a6da99@9407.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Artur Jasielski
+DTEND:20241104T153000Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241104T140000Z
+SUMMARY:Ekonometria (ćwiczenia)
+UID:defc05c8-e98b-450b-ac51-eb43361fb30e@defc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Kwaśny
+DTEND:20241104T124500Z
+LOCATION:Paw.G 11
+DTSTART:20241104T103000Z
+SUMMARY:Międzynarodowe stosunki gospodarcze� (wykład)
+UID:46fb1790-2817-4637-81fa-72df3ad5eaa9@46fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20241220T083000Z
+LOCATION:Paw.C sala F
+DTSTART:20241220T070000Z
+SUMMARY:Polityka gospodarcza dla praktyków (wykład)
+UID:e1b4b1e7-3319-4f12-9bbd-0a8bd6647355@e1b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20250108T163000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20250108T154500Z
+SUMMARY:Inwestowanie w przedsiębiorstwach użyteczności publicznej (wykład do wyboru)
+UID:485fbf52-6734-4c84-9c2d-5d73f43622c5@485f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Witold Furman
+DTEND:20241205T120000Z
+LOCATION:Paw.B 351
+DTSTART:20241205T103000Z
+SUMMARY:Analiza sprawozdań finansowych (wykład)
+UID:4aaf1b94-8193-485a-a2f9-96ee8bfd743d@4aaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Kawa
+DTEND:20241125T190000Z
+LOCATION:Bud.gł. 3
+DTSTART:20241125T173000Z
+SUMMARY:Pozyskiwanie funduszy i zarządzanie projektami unijnymi (ćwiczenia do wyboru)
+UID:d3c2b295-6d23-48ef-a917-5f31fbe296a6@d3c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20250107T130000Z
+LOCATION:Bibl. 443
+DTSTART:20250107T121500Z
+SUMMARY:Międzynarodowe stosunki gospodarcze� (ćwiczenia)
+UID:e137049a-2cc4-4e50-a8e9-312bd55a60e1@e137.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241218T171500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241218T154500Z
+SUMMARY:Inwestowanie w przedsiębiorstwach użyteczności publicznej (wykład do wyboru)
+UID:99085342-8f44-4ab8-a9ce-f4ee452cea18@9908.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241106T171500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241106T154500Z
+SUMMARY:Inwestowanie w przedsiębiorstwach użyteczności publicznej (wykład do wyboru)
+UID:57fc33b5-99b5-40d0-8927-d3a5a83d9cfe@57fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241113T171500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241113T154500Z
+SUMMARY:Inwestowanie w przedsiębiorstwach użyteczności publicznej (wykład do wyboru)
+UID:270225f2-d13c-483f-8704-0bcb358f471b@2702.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20241122T153000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241122T140000Z
+SUMMARY:Analiza wartości pieniądza w czasie (ćwiczenia)
+UID:01f13b1d-1ff6-4b34-937c-fcec5b875755@01f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Kawa
+DTEND:20241216T190000Z
+LOCATION:Bud.gł. 3
+DTSTART:20241216T173000Z
+SUMMARY:Pozyskiwanie funduszy i zarządzanie projektami unijnymi (ćwiczenia do wyboru)
+UID:8ad636e7-2b2d-4a0a-99c6-afd9b18e47af@8ad6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
+DTEND:20250124T124500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250124T103000Z
+SUMMARY:Narzędzia informatyczne w analizie danych i doradztwie gospodarczym (ćwiczenia)
+UID:eb2c42a1-6e5e-4e63-8eb2-7abdc1260686@eb2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Kwaśny
+DTEND:20241209T124500Z
+LOCATION:Paw.G 11
+DTSTART:20241209T103000Z
+SUMMARY:Międzynarodowe stosunki gospodarcze� (wykład)
+UID:c2cae0e0-975c-4de8-939a-509293196cd3@c2ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Kawa
+DTEND:20241209T190000Z
+LOCATION:Bud.gł. 3
+DTSTART:20241209T173000Z
+SUMMARY:Pozyskiwanie funduszy i zarządzanie projektami unijnymi (ćwiczenia do wyboru)
+UID:28c2a64e-4994-4d46-8a9b-1734a91721b2@28c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Stanienda
+DTEND:20241216T171500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241216T154500Z
+SUMMARY:Analiza sprawozdań finansowych (ćwiczenia)
+UID:c3764527-235f-4912-a885-69d5c6893e48@c376.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20241210T153000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241210T140000Z
+SUMMARY:Analiza rynku nieruchomości (ćwiczenia)
+UID:cccd7afa-255f-41b8-8759-c2631804ab13@cccd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Stanienda
+DTEND:20241118T171500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241118T154500Z
+SUMMARY:Analiza sprawozdań finansowych (ćwiczenia)
+UID:2528de17-2f34-4bca-9b05-af1a1ef7b4db@2528.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:95b88299-7c68-4426-ae54-739a08fe7ac3@95b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20241126T153000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241126T140000Z
+SUMMARY:Analiza rynku nieruchomości (ćwiczenia)
+UID:d051ebff-f406-4d87-81b6-8ec80719eef3@d051.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20241212T170000Z
+LOCATION:Bud.gł. 4
+DTSTART:20241212T144500Z
+SUMMARY:Polityka gospodarcza dla praktyków (ćwiczenia)
+UID:1f8bba57-1677-4839-be24-8df468ec1fc4@1f8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Stanienda
+DTEND:20250113T171500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250113T154500Z
+SUMMARY:Analiza sprawozdań finansowych (ćwiczenia)
+UID:8a388f41-3b74-446a-8258-b685fd0c540f@8a38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20241112T153000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241112T140000Z
+SUMMARY:Analiza rynku nieruchomości (ćwiczenia)
+UID:ed4b6a0e-d937-451a-a213-d1ac9cc5ff44@ed4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
+DTEND:20241220T124500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241220T103000Z
+SUMMARY:Narzędzia informatyczne w analizie danych i doradztwie gospodarczym (ćwiczenia)
+UID:33126a52-0785-4f03-9955-2cd303ec9bb0@3312.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20241119T153000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241119T140000Z
+SUMMARY:Analiza rynku nieruchomości (ćwiczenia)
+UID:cb4d935c-15fd-4483-b7ed-426985317884@cb4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
+DTEND:20241206T124500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241206T103000Z
+SUMMARY:Narzędzia informatyczne w analizie danych i doradztwie gospodarczym (ćwiczenia)
+UID:d9bf6ee6-0d35-43c1-8ab0-d64cb0a6280d@d9bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241127T171500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241127T154500Z
+SUMMARY:Inwestowanie w przedsiębiorstwach użyteczności publicznej (wykład do wyboru)
+UID:0c029510-8679-47e0-b1c6-84eba30962d9@0c02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20241114T170000Z
+LOCATION:Bud.gł. 4
+DTSTART:20241114T144500Z
+SUMMARY:Polityka gospodarcza dla praktyków (ćwiczenia)
+UID:3c8e4910-fb0a-4502-bf4a-1922a277965b@3c8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20241220T153000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241220T140000Z
+SUMMARY:Analiza wartości pieniądza w czasie (ćwiczenia)
+UID:c76876e6-2183-4167-8137-c509d4c0a44b@c768.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
+DTEND:20250110T124500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250110T103000Z
+SUMMARY:Narzędzia informatyczne w analizie danych i doradztwie gospodarczym (ćwiczenia)
+UID:8d231066-c53d-4716-b967-a4df01b2a164@8d23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20241203T153000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241203T140000Z
+SUMMARY:Analiza rynku nieruchomości (ćwiczenia)
+UID:d9ae45c6-2b81-4d67-baf4-cdd7001c6476@d9ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20241113T153000Z
+LOCATION:Bibl. 443
+DTSTART:20241113T140000Z
+SUMMARY:Analiza wartości pieniądza w czasie (wykład)
+UID:e1ef4b53-d1f1-41de-8931-a037114b7895@e1ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Witold Furman
+DTEND:20241107T120000Z
+LOCATION:Paw.B 351
+DTSTART:20241107T103000Z
+SUMMARY:Analiza sprawozdań finansowych (wykład)
+UID:d78e13eb-e506-4027-a39d-c034390b2947@d78e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Artur Jasielski
+DTEND:20250113T153000Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20250113T140000Z
+SUMMARY:Ekonometria (ćwiczenia)
+UID:eea6225e-c9c9-48ee-8f2b-c0fcde4c53c4@eea6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Kwaśny
+DTEND:20241202T124500Z
+LOCATION:Paw.G 11
+DTSTART:20241202T103000Z
+SUMMARY:Międzynarodowe stosunki gospodarcze� (wykład)
+UID:a7331b00-92ab-4c9d-9bd0-9cf2a8f1e057@a733.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Artur Jasielski
+DTEND:20241125T153000Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241125T140000Z
+SUMMARY:Ekonometria (ćwiczenia)
+UID:144cc617-0fae-4f89-a479-2789069ecd08@144c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20241126T134500Z
+LOCATION:Bibl. 443
+DTSTART:20241126T121500Z
+SUMMARY:Międzynarodowe stosunki gospodarcze� (ćwiczenia)
+UID:19cfc395-6f4a-4aad-abf7-601cb9f269d6@19cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20250108T111500Z
+LOCATION:Paw.C sala B
+DTSTART:20250108T103000Z
+SUMMARY:Ekonometria (wykład)
+UID:8571b276-6b47-444c-b85c-16e02347efdf@8571.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Kwaśny
+DTEND:20241118T124500Z
+LOCATION:Paw.G 11
+DTSTART:20241118T103000Z
+SUMMARY:Międzynarodowe stosunki gospodarcze� (wykład)
+UID:96526627-5922-4895-a4d9-400557377751@9652.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20241204T153000Z
+LOCATION:Bibl. 443
+DTSTART:20241204T140000Z
+SUMMARY:Analiza wartości pieniądza w czasie (wykład)
+UID:e0b9d332-52ef-4900-95de-d5fd45b0eb56@e0b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20241206T083000Z
+LOCATION:Paw.C sala F
+DTSTART:20241206T070000Z
+SUMMARY:Polityka gospodarcza dla praktyków (wykład)
+UID:7dd0cc70-bb71-4c02-a781-f6cb87b8bf64@7dd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Stanienda
+DTEND:20241125T171500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241125T154500Z
+SUMMARY:Analiza sprawozdań finansowych (ćwiczenia)
+UID:a8832bde-7d3d-43a3-bd35-3f303c8de340@a883.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
+DTEND:20241115T124500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241115T103000Z
+SUMMARY:Narzędzia informatyczne w analizie danych i doradztwie gospodarczym (ćwiczenia)
+UID:b2cf7640-630d-4153-9d92-dff018f0f33e@b2cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Artur Jasielski
+DTEND:20241209T153000Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241209T140000Z
+SUMMARY:Ekonometria (ćwiczenia)
+UID:e1aa2077-e71b-4075-8485-5f02eb243c9a@e1aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:c071de8c-9821-4439-87a1-7bf6633694df@c071.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20241108T083000Z
+LOCATION:Paw.C sala F
+DTSTART:20241108T070000Z
+SUMMARY:Polityka gospodarcza dla praktyków (wykład)
+UID:dfcc820f-bb65-4c69-a6ab-8c02c6a42849@dfcc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Witold Furman
+DTEND:20241128T120000Z
+LOCATION:Paw.B 351
+DTSTART:20241128T103000Z
+SUMMARY:Analiza sprawozdań finansowych (wykład)
+UID:0c17ff1a-bf26-49d3-a315-4246e665b1d8@0c17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20241217T134500Z
+LOCATION:Bibl. 443
+DTSTART:20241217T121500Z
+SUMMARY:Międzynarodowe stosunki gospodarcze� (ćwiczenia)
+UID:4be51ec5-54e4-433c-a881-a158dda78cd7@4be5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Stanienda
+DTEND:20241209T171500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241209T154500Z
+SUMMARY:Analiza sprawozdań finansowych (ćwiczenia)
+UID:ce16613e-404f-4104-bdc7-77b742f7fba2@ce16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20241120T153000Z
+LOCATION:Bibl. 443
+DTSTART:20241120T140000Z
+SUMMARY:Analiza wartości pieniądza w czasie (wykład)
+UID:c5f8c535-cea7-4d32-a950-10b9a4a06a1b@c5f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241211T171500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241211T154500Z
+SUMMARY:Inwestowanie w przedsiębiorstwach użyteczności publicznej (wykład do wyboru)
+UID:7cb84948-06f1-4f21-933f-b73f1feea4d0@7cb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Artur Jasielski
+DTEND:20241216T153000Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241216T140000Z
+SUMMARY:Ekonometria (ćwiczenia)
+UID:7a08c662-3e7f-42aa-82b0-093e5ecbcd96@7a08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20250108T130000Z
+LOCATION:Paw.U sala O
+DTSTART:20250108T121500Z
+SUMMARY:Analiza rynku nieruchomości (wykład)
+UID:4920503b-052a-4536-8f93-ca4bd0be23a0@4920.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20250123T170000Z
+LOCATION:Bud.gł. 4
+DTSTART:20250123T144500Z
+SUMMARY:Polityka gospodarcza dla praktyków (ćwiczenia)
+UID:161fb356-adf6-4a9f-bfad-c6ae3276420e@161f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Stanienda
+DTEND:20250120T163000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250120T154500Z
+SUMMARY:Analiza sprawozdań finansowych (ćwiczenia)
+UID:3088ac16-77bb-47fc-9bf9-152d3c705479@3088.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Kawa
+DTEND:20241104T190000Z
+LOCATION:Bud.gł. 3
+DTSTART:20241104T173000Z
+SUMMARY:Pozyskiwanie funduszy i zarządzanie projektami unijnymi (ćwiczenia do wyboru)
+UID:2333b4f0-dafc-43ad-b6af-6c83455f6c25@2333.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20241211T153000Z
+LOCATION:Bibl. 443
+DTSTART:20241211T140000Z
+SUMMARY:Analiza wartości pieniądza w czasie (wykład)
+UID:7f9f291f-7707-4601-b77f-a53ca1851b90@7f9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
+DTEND:20241213T124500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241213T103000Z
+SUMMARY:Narzędzia informatyczne w analizie danych i doradztwie gospodarczym (ćwiczenia)
+UID:69b89ca3-e459-43ba-9142-ad41d5ef30b0@69b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20241113T134500Z
+LOCATION:Paw.U sala O
+DTSTART:20241113T121500Z
+SUMMARY:Analiza rynku nieruchomości (wykład)
+UID:89e08c27-f5db-4c04-9e28-648759e9f8bc@89e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20241129T153000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241129T140000Z
+SUMMARY:Analiza wartości pieniądza w czasie (ćwiczenia)
+UID:92995071-42b2-43ed-b801-00527177bebc@9299.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Witold Furman
+DTEND:20241212T120000Z
+LOCATION:Paw.B 351
+DTSTART:20241212T103000Z
+SUMMARY:Analiza sprawozdań finansowych (wykład)
+UID:cbd78f55-edac-4bfb-a170-1cde3cbbcb74@cbd7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20241213T153000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241213T140000Z
+SUMMARY:Analiza wartości pieniądza w czasie (ćwiczenia)
+UID:b59ae8d7-31a5-4f2b-8190-29103ed45dbb@b59a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20241127T134500Z
+LOCATION:Paw.U sala O
+DTSTART:20241127T121500Z
+SUMMARY:Analiza rynku nieruchomości (wykład)
+UID:75ddaec9-4192-4a15-8d4a-a22955d24df9@75dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20241105T134500Z
+LOCATION:Bibl. 443
+DTSTART:20241105T121500Z
+SUMMARY:Międzynarodowe stosunki gospodarcze� (ćwiczenia)
+UID:b15efad8-a573-4961-ab81-2bf0311326e0@b15e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Artur Jasielski
+DTEND:20241118T153000Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241118T140000Z
+SUMMARY:Ekonometria (ćwiczenia)
+UID:7dd44741-40c0-463f-b861-145afe0030ea@7dd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20241213T083000Z
+LOCATION:Paw.C sala F
+DTSTART:20241213T070000Z
+SUMMARY:Polityka gospodarcza dla praktyków (wykład)
+UID:8eea0406-978b-48b6-beb7-15c200456080@8eea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20241112T134500Z
+LOCATION:Bibl. 443
+DTSTART:20241112T121500Z
+SUMMARY:Międzynarodowe stosunki gospodarcze� (ćwiczenia)
+UID:79b0b6b6-22e7-4545-a3fc-e6b2b4a6e61e@79b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20241218T153000Z
+LOCATION:Bibl. 443
+DTSTART:20241218T140000Z
+SUMMARY:Analiza wartości pieniądza w czasie (wykład)
+UID:d5f454a1-ec2c-4899-a3f2-e9b23a4e997a@d5f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20250107T144500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20250107T140000Z
+SUMMARY:Analiza rynku nieruchomości (ćwiczenia)
+UID:5d294eff-0d8f-45e8-aa60-79b76d295472@5d29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20241115T153000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241115T140000Z
+SUMMARY:Analiza wartości pieniądza w czasie (ćwiczenia)
+UID:b3adc838-0e82-4fb2-b900-5c96ef549889@b3ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20241128T170000Z
+LOCATION:Bud.gł. 4
+DTSTART:20241128T144500Z
+SUMMARY:Polityka gospodarcza dla praktyków (ćwiczenia)
+UID:9ac72d3e-f33f-4e9b-a9e2-c6b823b04ae6@9ac7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20241119T134500Z
+LOCATION:Bibl. 443
+DTSTART:20241119T121500Z
+SUMMARY:Międzynarodowe stosunki gospodarcze� (ćwiczenia)
+UID:6cac928d-2ee0-409c-acf5-44f1945200a5@6cac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Stanienda
+DTEND:20241202T171500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241202T154500Z
+SUMMARY:Analiza sprawozdań finansowych (ćwiczenia)
+UID:56254137-4679-493c-bf48-7b6e0de88653@5625.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Kawa
+DTEND:20241202T190000Z
+LOCATION:Bud.gł. 3
+DTSTART:20241202T173000Z
+SUMMARY:Pozyskiwanie funduszy i zarządzanie projektami unijnymi (ćwiczenia do wyboru)
+UID:379c7b71-e473-4a84-82ac-bcc46cf111a7@379c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Artur Jasielski
+DTEND:20250120T144500Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20250120T140000Z
+SUMMARY:Ekonometria (ćwiczenia)
+UID:b43a367c-fd9c-4d0c-8164-20624c187814@b43a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20241108T153000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241108T140000Z
+SUMMARY:Analiza wartości pieniądza w czasie (ćwiczenia)
+UID:86b0fd10-458a-49fa-a3bd-02bb9445a47d@86b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241120T120000Z
+LOCATION:Paw.C sala B
+DTSTART:20241120T103000Z
+SUMMARY:Ekonometria (wykład)
+UID:dcc303cf-7954-463a-a8cf-78ca25d184d8@dcc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
+DTEND:20241122T124500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241122T103000Z
+SUMMARY:Narzędzia informatyczne w analizie danych i doradztwie gospodarczym (ćwiczenia)
+UID:6e58a719-b657-4f8a-9655-5550c2118dff@6e58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241106T120000Z
+LOCATION:Paw.C sala B
+DTSTART:20241106T103000Z
+SUMMARY:Ekonometria (wykład)
+UID:641737ee-5df5-4788-9692-e0dafa8b169d@6417.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20241105T153000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241105T140000Z
+SUMMARY:Analiza rynku nieruchomości (ćwiczenia)
+UID:932b45de-1a05-4585-81e2-a3876ef29321@932b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Kawa
+DTEND:20241118T190000Z
+LOCATION:Bud.gł. 3
+DTSTART:20241118T173000Z
+SUMMARY:Pozyskiwanie funduszy i zarządzanie projektami unijnymi (ćwiczenia do wyboru)
+UID:431c311f-89cc-4f63-9d02-1cd740b3f656@431c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Witold Furman
+DTEND:20241121T120000Z
+LOCATION:Paw.B 351
+DTSTART:20241121T103000Z
+SUMMARY:Analiza sprawozdań finansowych (wykład)
+UID:18caea13-afc2-45a7-9f87-0f12f50b54ea@18ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Artur Jasielski
+DTEND:20241202T153000Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241202T140000Z
+SUMMARY:Ekonometria (ćwiczenia)
+UID:39b68307-8970-48bb-a2b8-b0f096bcf5f5@39b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241204T120000Z
+LOCATION:Paw.C sala B
+DTSTART:20241204T103000Z
+SUMMARY:Ekonometria (wykład)
+UID:40d31c50-919b-47a9-be19-eedc2f2d0ad1@40d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241218T120000Z
+LOCATION:Paw.C sala B
+DTSTART:20241218T103000Z
+SUMMARY:Ekonometria (wykład)
+UID:68677926-2ae2-4f5d-ba5f-2dc0d31a975e@6867.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jowita Świerczyńska
+DTEND:20241210T134500Z
+LOCATION:Bibl. 443
+DTSTART:20241210T121500Z
+SUMMARY:Międzynarodowe stosunki gospodarcze� (ćwiczenia)
+UID:27ba2d04-8c0f-4dec-b8f1-b8d0b8f576bb@27ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20241115T083000Z
+LOCATION:Paw.C sala F
+DTSTART:20241115T070000Z
+SUMMARY:Polityka gospodarcza dla praktyków (wykład)
+UID:a618f97d-bc93-45aa-890d-f3209787774e@a618.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20250110T083000Z
+LOCATION:Paw.C sala F
+DTSTART:20250110T074500Z
+SUMMARY:Polityka gospodarcza dla praktyków (wykład)
+UID:f00c2e5c-9870-4ee9-9cbd-5db9bbc361b8@f00c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20250109T170000Z
+LOCATION:Bud.gł. 4
+DTSTART:20250109T144500Z
+SUMMARY:Polityka gospodarcza dla praktyków (ćwiczenia)
+UID:e0482977-8b4e-4420-af0b-597de9e445ef@e048.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20241129T083000Z
+LOCATION:Paw.C sala F
+DTSTART:20241129T070000Z
+SUMMARY:Polityka gospodarcza dla praktyków (wykład)
+UID:df7791fe-a3f2-4061-b7bf-faa9bacab877@df77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Witold Furman
+DTEND:20241219T120000Z
+LOCATION:Paw.B 351
+DTSTART:20241219T103000Z
+SUMMARY:Analiza sprawozdań finansowych (wykład)
+UID:bdf92288-72ca-461c-9313-abe98a5c369e@bdf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Witold Furman
+DTEND:20250109T111500Z
+LOCATION:Paw.B 351
+DTSTART:20250109T103000Z
+SUMMARY:Analiza sprawozdań finansowych (wykład)
+UID:26b45956-45e1-48cd-8f74-ea212bd7e1b4@26b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241204T171500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241204T154500Z
+SUMMARY:Inwestowanie w przedsiębiorstwach użyteczności publicznej (wykład do wyboru)
+UID:3791cb87-4ec5-40ae-8176-282e9c6c8739@3791.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20250110T144500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250110T140000Z
+SUMMARY:Analiza wartości pieniądza w czasie (ćwiczenia)
+UID:3d109d9d-a47d-4a8b-8ecc-daf77fbf1b21@3d10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Kawa
+DTEND:20250113T190000Z
+LOCATION:Bud.gł. 3
+DTSTART:20250113T173000Z
+SUMMARY:Pozyskiwanie funduszy i zarządzanie projektami unijnymi (ćwiczenia do wyboru)
+UID:9efe8612-87a3-46be-a2c0-ef0fd6357b2e@9efe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20241106T153000Z
+LOCATION:Bibl. 443
+DTSTART:20241106T140000Z
+SUMMARY:Analiza wartości pieniądza w czasie (wykład)
+UID:ff463c7b-3e04-49eb-b00c-5169bc2049c3@ff46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20241206T153000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241206T140000Z
+SUMMARY:Analiza wartości pieniądza w czasie (ćwiczenia)
+UID:aa256989-807a-4680-b9af-9a2343ca2929@aa25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241211T120000Z
+LOCATION:Paw.C sala B
+DTSTART:20241211T103000Z
+SUMMARY:Ekonometria (wykład)
+UID:17d5e733-1515-4135-a3a1-5cd5fe1229f5@17d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Kawa
+DTEND:20250120T181500Z
+LOCATION:Bud.gł. 3
+DTSTART:20250120T173000Z
+SUMMARY:Pozyskiwanie funduszy i zarządzanie projektami unijnymi (ćwiczenia do wyboru)
+UID:69adeeb9-03af-4671-9b3b-a7669e60ff59@69ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20241127T153000Z
+LOCATION:Bibl. 443
+DTSTART:20241127T140000Z
+SUMMARY:Analiza wartości pieniądza w czasie (wykład)
+UID:b60c4355-f1d9-49c5-afdc-9f4ee695d105@b60c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grażyna Paliwoda-Pękosz
+DTEND:20250117T124500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250117T103000Z
+SUMMARY:Narzędzia informatyczne w analizie danych i doradztwie gospodarczym (ćwiczenia)
+UID:cbc82349-69e1-4209-9ba8-e0e4acbdf2af@cbc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20241217T153000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241217T140000Z
+SUMMARY:Analiza rynku nieruchomości (ćwiczenia)
+UID:bc198e59-c6c4-4cc3-a7ce-2a6a9a03adf0@bc19.org
+END:VEVENT
+END:VCALENDAR

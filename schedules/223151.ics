@@ -1,0 +1,986 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241014T151500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241014T130000Z
+SUMMARY:Ocena efektywności inwestycji (ćwiczenia)
+UID:380592d0-dc6f-4874-a0f3-36185af4834e@3805.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241106T100000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241106T070000Z
+SUMMARY:Analiza fundamentalna (ćwiczenia)
+UID:a3b3ba64-4977-4be3-85b6-ebd4f0057f5c@a3b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Janus
+DTEND:20241129T093000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241129T084500Z
+SUMMARY:Modelowanie makroekonomiczne (ćwiczenia)
+UID:5410b679-9d41-4b67-8382-a4d570e8c0ea@5410.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241021T110000Z
+LOCATION:Bud.gł. 9
+DTSTART:20241021T093000Z
+SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
+UID:9290b40a-5882-4f65-9994-f14d493a583e@9290.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20241031T101500Z
+LOCATION:Bibl. 443
+DTSTART:20241031T084500Z
+SUMMARY:Portfel inwestycyjny (wykład)
+UID:4ab1f33e-3baa-4c2a-858d-26879526af76@4ab1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241118T161500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241118T140000Z
+SUMMARY:Ocena efektywności inwestycji (ćwiczenia)
+UID:4565e8d0-6884-41f4-afb2-70da51b944b3@4565.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241104T161500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241104T140000Z
+SUMMARY:Ocena efektywności inwestycji (ćwiczenia)
+UID:c435775c-ba5c-4ec7-8dae-d33c22133069@c435.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Witoń
+DTEND:20241017T073000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241017T060000Z
+SUMMARY:Międzynarodowe rynki finansowe (wykład)
+UID:5d8c823a-9e9e-4b3f-a03a-bda4c1df05de@5d8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Surówka
+DTEND:20241121T163000Z
+LOCATION:Bibl. 443
+DTSTART:20241121T154500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstw (ćwiczenia)
+UID:196d24cc-8b5e-434f-8341-4b32abe8769b@196d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Witoń
+DTEND:20241011T124500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241011T111500Z
+SUMMARY:Międzynarodowe rynki finansowe (ćwiczenia)
+UID:31a95257-3405-419b-9023-afb76a013eaf@31a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241209T161500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241209T140000Z
+SUMMARY:Ocena efektywności inwestycji (ćwiczenia)
+UID:2c45bd9a-4892-4ab9-8f8e-cc487d57aafd@2c45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20241204T100000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241204T070000Z
+SUMMARY:Analiza fundamentalna (ćwiczenia)
+UID:2745be6e-7505-48a9-94f4-a850b8b29929@2745.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Witoń
+DTEND:20241004T124500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241004T111500Z
+SUMMARY:Międzynarodowe rynki finansowe (ćwiczenia)
+UID:8aca3972-e667-409d-97eb-998ae1740415@8aca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241028T161500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241028T140000Z
+SUMMARY:Ocena efektywności inwestycji (ćwiczenia)
+UID:cf637bd0-aba8-4381-8193-cac70c3b80a2@cf63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241125T120000Z
+LOCATION:Bud.gł. 9
+DTSTART:20241125T103000Z
+SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
+UID:516a7d43-5372-4cbc-9c1f-acabe8d58895@516a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Dąbrowski
+DTEND:20241018T110000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241018T093000Z
+SUMMARY:Modelowanie makroekonomiczne (wykład)
+UID:cb4b452a-d543-4ba0-b16f-26f9325a0912@cb4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241202T130000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241202T121500Z
+SUMMARY:Kryptowaluty i technologia blockchain (ćwiczenia do wyboru)
+UID:910f9f58-6d80-4ca4-bd1b-ae36dcdbcc94@910f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20241128T171500Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241128T154500Z
+SUMMARY:Portfel inwestycyjny (ćwiczenia)
+UID:9b32467f-1afd-4e6a-a78b-55a847c58fc5@9b32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241125T161500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241125T140000Z
+SUMMARY:Ocena efektywności inwestycji (ćwiczenia)
+UID:71553966-d3d4-4281-9985-e01edc4ee2f1@7155.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Surówka
+DTEND:20241024T161500Z
+LOCATION:Bibl. 443
+DTSTART:20241024T144500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstw (ćwiczenia)
+UID:03a797f7-5863-4eee-86f9-137511612d06@03a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Witoń
+DTEND:20241018T124500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241018T111500Z
+SUMMARY:Międzynarodowe rynki finansowe (ćwiczenia)
+UID:8f0acad5-0d43-47f6-b9a0-d996e18ffa88@8f0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241030T100000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241030T070000Z
+SUMMARY:Analiza fundamentalna (ćwiczenia)
+UID:6e8e78af-5e75-49d8-b85d-33434672a6a5@6e8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20241121T120000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241121T103000Z
+SUMMARY:Portfel inwestycyjny (ćwiczenia)
+UID:1cbb556e-1cb6-4700-a140-aa6f5b37d907@1cbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Janus
+DTEND:20241018T091500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241018T074500Z
+SUMMARY:Modelowanie makroekonomiczne (ćwiczenia)
+UID:de8460e5-3c21-4a3a-9c00-e70c798948d8@de84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241028T120000Z
+LOCATION:Bud.gł. 9
+DTSTART:20241028T103000Z
+SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
+UID:5e01311f-34aa-4e02-8732-a07017cd96a5@5e01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241118T171500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241118T163000Z
+SUMMARY:Ocena efektywności inwestycji (ćwiczenia)
+UID:368fc9b5-5673-4b16-9fe3-82ab172be5d7@368f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20241023T143000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241023T130000Z
+SUMMARY:Polityka społeczno-ekonomiczna (wykład do wyboru)
+UID:df3beb5d-9263-4471-aa23-a0195d9bee3b@df3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241029T083000Z
+LOCATION:Paw.C sala F
+DTSTART:20241029T070000Z
+SUMMARY:Analiza fundamentalna (ćwiczenia)
+UID:4b10c020-7d69-4a8a-930f-18280a2b3791@4b10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241125T134500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241125T121500Z
+SUMMARY:Kryptowaluty i technologia blockchain (ćwiczenia do wyboru)
+UID:7d899739-2b2e-4ae7-ac3c-0f0197d8198a@7d89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Justyna Tomala
+DTEND:20241004T073000Z
+LOCATION:Bibl. 443
+DTSTART:20241004T060000Z
+SUMMARY:Commodity market (ćwiczenia)
+UID:f4e473fa-36a6-449c-a513-ea9080d0df71@f4e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Surówka
+DTEND:20241114T171500Z
+LOCATION:Bibl. 443
+DTSTART:20241114T154500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstw (ćwiczenia)
+UID:2fb01b62-18ad-470a-b930-e3062fdcbb39@2fb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241023T090000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241023T060000Z
+SUMMARY:Analiza fundamentalna (ćwiczenia)
+UID:c54035e0-f1dc-4903-b810-df88ce60df2e@c540.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Witoń
+DTEND:20241115T134500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241115T121500Z
+SUMMARY:Międzynarodowe rynki finansowe (ćwiczenia)
+UID:ae74948c-5def-4944-b510-1b59303b6129@ae74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241009T090000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241009T060000Z
+SUMMARY:Analiza fundamentalna (ćwiczenia)
+UID:5f08684e-6155-40ab-8cb2-e501e902d685@5f08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20241017T091500Z
+LOCATION:Bibl. 443
+DTSTART:20241017T074500Z
+SUMMARY:Portfel inwestycyjny (wykład)
+UID:72846a6d-3466-4a08-b6e5-2d3f9d1fa11a@7284.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Justyna Tomala
+DTEND:20241025T073000Z
+LOCATION:Bibl. 443
+DTSTART:20241025T060000Z
+SUMMARY:Commodity market (ćwiczenia)
+UID:fe1a6ae0-4376-4a38-8396-d2af9b7bcfbc@fe1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Janus
+DTEND:20241025T091500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241025T074500Z
+SUMMARY:Modelowanie makroekonomiczne (ćwiczenia)
+UID:49710873-eec5-491a-9413-182464602cf1@4971.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Witoń
+DTEND:20241107T083000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241107T070000Z
+SUMMARY:Międzynarodowe rynki finansowe (wykład)
+UID:11b4d49e-8d53-4779-a131-d6a150155e5a@11b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20241024T110000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241024T093000Z
+SUMMARY:Portfel inwestycyjny (ćwiczenia)
+UID:f4d36318-14d3-49f9-8cfc-e39538a7ca59@f4d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241016T090000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241016T060000Z
+SUMMARY:Analiza fundamentalna (ćwiczenia)
+UID:0f100789-5280-4c0a-a9df-358179005097@0f10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Surówka
+DTEND:20241017T161500Z
+LOCATION:Bibl. 443
+DTSTART:20241017T144500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstw (ćwiczenia)
+UID:33196000-2a28-4ebf-b110-722c95c47078@3319.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20241114T101500Z
+LOCATION:Bibl. 443
+DTSTART:20241114T084500Z
+SUMMARY:Portfel inwestycyjny (wykład)
+UID:3677e756-7e91-4a03-8e5c-2b6dfc0b8ca4@3677.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Janus
+DTEND:20241122T101500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241122T084500Z
+SUMMARY:Modelowanie makroekonomiczne (ćwiczenia)
+UID:66a52ad0-a668-4dd3-a5f7-f12c8abea521@66a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Witoń
+DTEND:20241129T130000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241129T121500Z
+SUMMARY:Międzynarodowe rynki finansowe (ćwiczenia)
+UID:058c672c-06f7-4e28-9418-07ce6eb91c64@058c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Surówka
+DTEND:20241107T171500Z
+LOCATION:Bibl. 443
+DTSTART:20241107T154500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstw (ćwiczenia)
+UID:36bd6b8a-6b54-4221-8ec3-f717d766abba@36bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:94a7d223-311c-40a7-ad2a-44c28e6f1440@94a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:6d681703-9b64-44ac-8aeb-ace79d5e52a1@6d68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zamora
+DTEND:20241120T120000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241120T103000Z
+SUMMARY:Polityka społeczno-ekonomiczna (wykład do wyboru)
+UID:90cfbbef-730f-4ab9-ad12-f1d713e51bc6@90cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241105T083000Z
+LOCATION:Paw.C sala F
+DTSTART:20241105T070000Z
+SUMMARY:Analiza fundamentalna (ćwiczenia)
+UID:cc053cc9-7bd8-43bc-8456-7ba0efd18d9c@cc05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Witoń
+DTEND:20241031T083000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241031T070000Z
+SUMMARY:Międzynarodowe rynki finansowe (wykład)
+UID:c87dbab2-4057-4b0b-9465-870b143b8a57@c87d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Justyna Tomala
+DTEND:20241122T083000Z
+LOCATION:Bibl. 443
+DTSTART:20241122T070000Z
+SUMMARY:Commodity market (ćwiczenia)
+UID:902a5d79-179a-47be-be6f-635392f0c0bb@902a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20241204T120000Z
+LOCATION:Paw.G - 2
+DTSTART:20241204T111500Z
+SUMMARY:Portfel inwestycyjny (ćwiczenia)
+UID:cc777109-c4e3-4784-9bbc-84c412322664@cc77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241021T151500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241021T130000Z
+SUMMARY:Ocena efektywności inwestycji (ćwiczenia)
+UID:9695a455-e4a0-43c9-ae45-6877027c10dc@9695.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20241204T111500Z
+LOCATION:Paw.G - 2
+DTSTART:20241204T103000Z
+SUMMARY:Portfel inwestycyjny (wykład)
+UID:b7e56988-a820-4c04-9e50-4dba8e1130cc@b7e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Surówka
+DTEND:20241010T161500Z
+LOCATION:Bibl. 443
+DTSTART:20241010T144500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstw (ćwiczenia)
+UID:52458aec-8d9a-41e7-b72c-40c047f2e9e1@5245.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241028T134500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241028T121500Z
+SUMMARY:Kryptowaluty i technologia blockchain (ćwiczenia do wyboru)
+UID:de3d8f61-9293-47a0-9acb-1b7134b1d137@de3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241106T134500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241106T121500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstw (wykład)
+UID:2a28c63e-5bba-4d91-9baa-b69e7714f467@2a28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Justyna Tomala
+DTEND:20241115T083000Z
+LOCATION:Bibl. 443
+DTSTART:20241115T070000Z
+SUMMARY:Commodity market (ćwiczenia)
+UID:2c46640a-0155-4b89-9b0b-dc37bc2003d6@2c46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20241016T110000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241016T093000Z
+SUMMARY:Polityka społeczno-ekonomiczna (wykład do wyboru)
+UID:0931e085-0177-4e9c-b512-3c33f661502e@0931.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20241017T110000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241017T093000Z
+SUMMARY:Portfel inwestycyjny (ćwiczenia)
+UID:a406027c-13c9-455f-a61c-6ab134b69282@a406.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20241114T120000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241114T103000Z
+SUMMARY:Portfel inwestycyjny (ćwiczenia)
+UID:13737d73-5882-4ce2-8bf5-d2f2914144ed@1373.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241104T171500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241104T163000Z
+SUMMARY:Ocena efektywności inwestycji (ćwiczenia)
+UID:4cda5db1-9b0a-419c-ae70-549751c5e3b9@4cda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241021T124500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241021T111500Z
+SUMMARY:Kryptowaluty i technologia blockchain (ćwiczenia do wyboru)
+UID:404f781e-0cb4-4f04-8d63-5529a9655f0c@404f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241120T134500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241120T121500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstw (wykład)
+UID:5d5761b3-1eb5-495b-a0fa-3ad72a5333e1@5d57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20241128T153000Z
+LOCATION:Paw.C sala E
+DTSTART:20241128T140000Z
+SUMMARY:Portfel inwestycyjny (wykład)
+UID:7f951b0a-6180-4432-845b-fd0d968f39c0@7f95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20241009T143000Z
+LOCATION:Bud.gł. 2
+DTSTART:20241009T130000Z
+SUMMARY:Polityka społeczno-ekonomiczna (wykład do wyboru)
+UID:39c5fb03-5bd5-4771-8895-878991b0b444@39c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241104T134500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241104T121500Z
+SUMMARY:Kryptowaluty i technologia blockchain (ćwiczenia do wyboru)
+UID:a5eaf248-2e7e-4a09-9c98-2d5b3c8e3399@a5ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Dąbrowski
+DTEND:20241025T110000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241025T093000Z
+SUMMARY:Modelowanie makroekonomiczne (wykład)
+UID:b2d0a474-6393-40d2-8833-0861cb6baf78@b2d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Janus
+DTEND:20241115T101500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241115T084500Z
+SUMMARY:Modelowanie makroekonomiczne (ćwiczenia)
+UID:b480cc31-ada4-4fa1-8351-952c574166b2@b480.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241118T120000Z
+LOCATION:Bud.gł. 9
+DTSTART:20241118T103000Z
+SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
+UID:17cddbeb-3e85-4da9-9b95-773a2da4e356@17cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Witoń
+DTEND:20241024T073000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241024T060000Z
+SUMMARY:Międzynarodowe rynki finansowe (wykład)
+UID:bb50e083-7410-4b38-87b0-41644b620536@bb50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241009T124500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241009T111500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstw (wykład)
+UID:33e78da8-fd44-471d-a126-dbf2b187ce39@33e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Witoń
+DTEND:20241003T073000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241003T060000Z
+SUMMARY:Międzynarodowe rynki finansowe (wykład)
+UID:95cc274f-bb2b-4e0a-9362-befb401f3083@95cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Dąbrowski
+DTEND:20241004T110000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241004T093000Z
+SUMMARY:Modelowanie makroekonomiczne (wykład)
+UID:d41c0e94-c2e8-4f3c-9fd3-3e6c028bf1c9@d41c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241014T110000Z
+LOCATION:Bud.gł. 9
+DTSTART:20241014T093000Z
+SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
+UID:10cb5276-9210-49d4-aedf-a0171f71d490@10cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241014T124500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241014T111500Z
+SUMMARY:Kryptowaluty i technologia blockchain (ćwiczenia do wyboru)
+UID:3e2a7274-aaba-407b-8e3f-659b75c93395@3e2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Surówka
+DTEND:20241031T171500Z
+LOCATION:Bibl. 443
+DTSTART:20241031T154500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstw (ćwiczenia)
+UID:f0bb83e3-0b2b-4510-be9e-53cf681ee409@f0bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241202T161500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241202T140000Z
+SUMMARY:Ocena efektywności inwestycji (ćwiczenia)
+UID:c6920881-f352-4d6d-8342-f0cccf4040f6@c692.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241125T171500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241125T163000Z
+SUMMARY:Ocena efektywności inwestycji (ćwiczenia)
+UID:2149f945-6b38-4783-8462-574f1b59eb58@2149.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241016T124500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241016T111500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstw (wykład)
+UID:cfe80bcf-f8c5-4fa7-a171-7916561f196a@cfe8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20241107T120000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241107T103000Z
+SUMMARY:Portfel inwestycyjny (ćwiczenia)
+UID:a90ec720-8059-477c-a66f-811824d69619@a90e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Dąbrowski
+DTEND:20241108T120000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241108T103000Z
+SUMMARY:Modelowanie makroekonomiczne (wykład)
+UID:173b472b-736c-4858-b6c6-f02cb3664ca5@173b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20241120T100000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241120T070000Z
+SUMMARY:Analiza fundamentalna (ćwiczenia)
+UID:a01b3784-b0aa-4a35-8fa1-8cac972f7919@a01b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241007T110000Z
+LOCATION:Bud.gł. 9
+DTSTART:20241007T093000Z
+SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
+UID:b9a8bfd2-a2a8-4e82-b260-32d25a7e7936@b9a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241007T124500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241007T111500Z
+SUMMARY:Kryptowaluty i technologia blockchain (ćwiczenia do wyboru)
+UID:62fd2eb7-5be4-4006-9609-47fc634867c2@62fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241118T134500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241118T121500Z
+SUMMARY:Kryptowaluty i technologia blockchain (ćwiczenia do wyboru)
+UID:56f14acc-7e19-497a-8891-a5d1311e0dcb@56f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241007T151500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241007T130000Z
+SUMMARY:Ocena efektywności inwestycji (ćwiczenia)
+UID:43e754fa-fe1e-436c-b9f6-59c6b04e0958@43e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Justyna Tomala
+DTEND:20241108T083000Z
+LOCATION:Bibl. 443
+DTSTART:20241108T070000Z
+SUMMARY:Commodity market (ćwiczenia)
+UID:8ccdf3f6-f092-40fe-b07c-91d9bb3406a5@8ccd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zamora
+DTEND:20241127T111500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241127T103000Z
+SUMMARY:Polityka społeczno-ekonomiczna (wykład do wyboru)
+UID:d14134d5-9dc5-4995-a062-84939127bbb5@d141.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20241211T100000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241211T074500Z
+SUMMARY:Analiza fundamentalna (ćwiczenia)
+UID:f65738c7-beab-4ca6-97de-4d99d2efb03d@f657.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241023T124500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241023T111500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstw (wykład)
+UID:780c1ff5-3202-495b-a65a-78552c028898@780c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Justyna Tomala
+DTEND:20241106T153000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241106T140000Z
+SUMMARY:Commodity market (ćwiczenia)
+UID:0240bb59-2d4c-4955-929a-07bf8b40e69f@0240.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Justyna Tomala
+DTEND:20241018T073000Z
+LOCATION:Bibl. 443
+DTSTART:20241018T060000Z
+SUMMARY:Commodity market (ćwiczenia)
+UID:c6f08171-28bc-48c9-8bd4-cdeaa285e43e@c6f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Witoń
+DTEND:20241010T073000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241010T060000Z
+SUMMARY:Międzynarodowe rynki finansowe (wykład)
+UID:46d48503-48f2-41f3-84a9-b7a927147735@46d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241112T083000Z
+LOCATION:Paw.C sala F
+DTSTART:20241112T070000Z
+SUMMARY:Analiza fundamentalna (ćwiczenia)
+UID:32c1afe2-1640-433b-b797-07bf073aa0b5@32c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Dąbrowski
+DTEND:20241122T120000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241122T103000Z
+SUMMARY:Modelowanie makroekonomiczne (wykład)
+UID:12346c79-c5d9-49ab-9646-7eae6c01b432@1234.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Witoń
+DTEND:20241114T083000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241114T070000Z
+SUMMARY:Międzynarodowe rynki finansowe (wykład)
+UID:a915dd51-7da7-4326-81f4-6aef38292534@a915.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zamora
+DTEND:20241113T120000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241113T103000Z
+SUMMARY:Polityka społeczno-ekonomiczna (wykład do wyboru)
+UID:8f9fbe7e-0da1-440e-8727-fae0bca7f38e@8f9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Janus
+DTEND:20241011T091500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241011T074500Z
+SUMMARY:Modelowanie makroekonomiczne (ćwiczenia)
+UID:4e5f91c6-e7b3-4f6b-97f8-37a19f9065f8@4e5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20241121T101500Z
+LOCATION:Bibl. 443
+DTSTART:20241121T084500Z
+SUMMARY:Portfel inwestycyjny (wykład)
+UID:74e24b7d-ce80-4abe-b7af-72cd30a63cdc@74e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Witoń
+DTEND:20241025T124500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241025T111500Z
+SUMMARY:Międzynarodowe rynki finansowe (ćwiczenia)
+UID:3429f6a7-e3e7-4cbd-89d7-29d88bdb1316@3429.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Justyna Tomala
+DTEND:20241129T083000Z
+LOCATION:Bibl. 443
+DTSTART:20241129T074500Z
+SUMMARY:Commodity market (ćwiczenia)
+UID:3eb43e9d-e762-46d1-af43-0a777a065067@3eb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20241031T120000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241031T103000Z
+SUMMARY:Portfel inwestycyjny (ćwiczenia)
+UID:7ea600fd-907d-4c82-8fa0-cce076a1154d@7ea6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Witoń
+DTEND:20241108T134500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241108T121500Z
+SUMMARY:Międzynarodowe rynki finansowe (ćwiczenia)
+UID:da2a1c1a-9a72-4171-a45b-cc81e1291624@da2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Witoń
+DTEND:20241122T134500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241122T121500Z
+SUMMARY:Międzynarodowe rynki finansowe (ćwiczenia)
+UID:396c319a-8514-4f5f-bab6-c773f90821ae@396c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20241024T091500Z
+LOCATION:Bibl. 443
+DTSTART:20241024T074500Z
+SUMMARY:Portfel inwestycyjny (wykład)
+UID:49df4eb1-680b-44d7-8813-66af1d5accde@49df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Witoń
+DTEND:20241121T083000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241121T074500Z
+SUMMARY:Międzynarodowe rynki finansowe (wykład)
+UID:732b1221-b09e-42bb-a037-ffab17c97190@732b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20241127T100000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241127T070000Z
+SUMMARY:Analiza fundamentalna (ćwiczenia)
+UID:619089e0-1ee4-4c18-8d7e-8356b7424903@6190.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241202T111500Z
+LOCATION:Bud.gł. 9
+DTSTART:20241202T103000Z
+SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
+UID:15ba7a30-9422-45a7-8eb2-c9bf03bf77df@15ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241113T134500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241113T121500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstw (wykład)
+UID:c4638b0a-b25a-4366-90f8-c0342434b33e@c463.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Surówka
+DTEND:20241003T161500Z
+LOCATION:Bibl. 443
+DTSTART:20241003T144500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstw (ćwiczenia)
+UID:61218948-1abc-4ae2-8699-7f6eace0d40c@6121.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Dąbrowski
+DTEND:20241115T120000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241115T103000Z
+SUMMARY:Modelowanie makroekonomiczne (wykład)
+UID:347b7deb-22b8-451c-ba66-08a8cac019bc@347b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Janus
+DTEND:20241108T101500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241108T084500Z
+SUMMARY:Modelowanie makroekonomiczne (ćwiczenia)
+UID:520179d1-2740-4a54-a8e4-01c279f9ced5@5201.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Janus
+DTEND:20241004T091500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241004T074500Z
+SUMMARY:Modelowanie makroekonomiczne (ćwiczenia)
+UID:cef54644-60a9-4a36-8d84-df52911c02b3@cef5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Włodarczyk
+DTEND:20241104T120000Z
+LOCATION:Bud.gł. 9
+DTSTART:20241104T103000Z
+SUMMARY:Kryptowaluty i technologia blockchain (wykład do wyboru)
+UID:6e1298c3-f55a-429d-ac70-947e99d188fe@6e12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241113T100000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20241113T070000Z
+SUMMARY:Analiza fundamentalna (ćwiczenia)
+UID:f52ae3f5-5aa1-4cc6-bfe4-e5833ea29dd6@f52a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241030T134500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241030T121500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstw (wykład)
+UID:a86134c0-55f0-4c6c-b45b-ff2de1e01a4f@a861.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Dąbrowski
+DTEND:20241129T111500Z
+LOCATION:Paw.S sala 4
+DTSTART:20241129T103000Z
+SUMMARY:Modelowanie makroekonomiczne (wykład)
+UID:52312ac5-b508-40d9-bd13-165b05fb78c2@5231.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Zyguła
+DTEND:20241127T130000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241127T121500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstw (wykład)
+UID:9715203b-0f7e-4d36-a27a-64c46f781b26@9715.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20241030T120000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241030T103000Z
+SUMMARY:Polityka społeczno-ekonomiczna (wykład do wyboru)
+UID:0e3fa6e2-7c11-4b2f-acba-cffb8c431955@0e3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Morawczyński
+DTEND:20241107T101500Z
+LOCATION:Bibl. 443
+DTSTART:20241107T084500Z
+SUMMARY:Portfel inwestycyjny (wykład)
+UID:6e21bc69-b7b5-490f-8200-33706daa3310@6e21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Dąbrowski
+DTEND:20241011T110000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241011T093000Z
+SUMMARY:Modelowanie makroekonomiczne (wykład)
+UID:585bf1d3-0c49-4f47-beff-b53f36972028@585b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zamora
+DTEND:20241106T120000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241106T103000Z
+SUMMARY:Polityka społeczno-ekonomiczna (wykład do wyboru)
+UID:c6f982f0-2af6-4a23-b27c-3131d5d806fe@c6f9.org
+END:VEVENT
+END:VCALENDAR

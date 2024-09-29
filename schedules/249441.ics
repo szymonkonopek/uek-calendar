@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Polan
+DTEND:20241201T091500Z
+LOCATION:Paw.B 251
+DTSTART:20241201T070000Z
+SUMMARY:Geopolitics and International Conflicts (konwersatorium)
+UID:794268f1-6425-4606-bb51-4810218f9959@7942.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20241208T091500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241208T070000Z
+SUMMARY:Text Mining and Social Media Analysis (konwersatorium do wyboru)
+UID:84aa58ac-04da-4224-b3fb-6bf769df6d4c@84aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20241208T114500Z
+LOCATION:Bibl. 441
+DTSTART:20241208T093000Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:ea354371-e1b3-4547-99ac-1fe2c752b829@ea35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Polan
+DTEND:20241130T114500Z
+LOCATION:Bud.gł. 9
+DTSTART:20241130T093000Z
+SUMMARY:Geopolitics and International Conflicts (konwersatorium)
+UID:e071ee14-3db1-4418-8fa4-eb7ea81dc216@e071.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20241116T091500Z
+LOCATION:Bibl. 440
+DTSTART:20241116T070000Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:c877a89c-d48a-4d82-9fbc-6c0abee1bbd7@c877.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20241222T114500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241222T093000Z
+SUMMARY:Text Mining and Social Media Analysis (konwersatorium do wyboru)
+UID:c4df57a5-a866-416c-8788-60dec7190815@c4df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20241207T143000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241207T121500Z
+SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
+UID:fe9bb571-a12a-4502-a513-376b1d199ccb@fe9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20241027T091500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241027T070000Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:9acbccff-b8f0-4a95-a1cb-720f84cc7ae2@9acb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Polan
+DTEND:20241221T143000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241221T121500Z
+SUMMARY:Geopolitics and International Conflicts (konwersatorium)
+UID:57c523cb-a983-4a4f-af38-be495f7501e1@57c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20241221T114500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241221T093000Z
+SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
+UID:8521d99d-f107-45e4-af15-f16972d60c8b@8521.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20241130T143000Z
+LOCATION:Paw.S sala 6
+DTSTART:20241130T121500Z
+SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
+UID:6ed4bed9-1979-4886-aab2-28d03ac411da@6ed4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20241117T091500Z
+LOCATION:Paw.F 106
+DTSTART:20241117T070000Z
+SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
+UID:2d5fef2d-e76d-4325-8667-5fc9f8f2584d@2d5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20241201T114500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241201T093000Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:bb7e6238-5cb6-4836-a03c-3bd83280ac8a@bb7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20241201T143000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241201T121500Z
+SUMMARY:Text Mining and Social Media Analysis (konwersatorium do wyboru)
+UID:a3176f89-bc89-4190-b814-62b55dced90b@a317.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20241026T104500Z
+LOCATION:Paw.C sala C
+DTSTART:20241026T083000Z
+SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
+UID:2209f507-7b19-43be-8e30-735f53ea8267@2209.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20250119T091500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250119T070000Z
+SUMMARY:Text Mining and Social Media Analysis (konwersatorium do wyboru)
+UID:01b153b4-6674-40b3-9909-24e3a0ce15c6@01b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20241117T143000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241117T121500Z
+SUMMARY:Text Mining and Social Media Analysis (konwersatorium do wyboru)
+UID:1a42356d-e9cf-4cf8-984a-d906879106ec@1a42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20241222T091500Z
+LOCATION:Paw.C sala A
+DTSTART:20241222T070000Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:4f41dab2-e843-4cfe-8f23-491f1549d9be@4f41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20250118T091500Z
+LOCATION:Paw.C sala C
+DTSTART:20250118T070000Z
+SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
+UID:1228895f-1692-4bfd-a723-17ac72205416@1228.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Polan
+DTEND:20250118T114500Z
+LOCATION:Paw.F 614
+DTSTART:20250118T093000Z
+SUMMARY:Geopolitics and International Conflicts (konwersatorium)
+UID:a234f950-13eb-4149-a47f-4ce968b2319b@a234.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20241027T114500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241027T093000Z
+SUMMARY:Text Mining and Social Media Analysis (konwersatorium do wyboru)
+UID:1cae0a68-4213-4fda-8db5-9f8b96e280df@1cae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Polan
+DTEND:20241117T114500Z
+LOCATION:Paw.F 416
+DTSTART:20241117T093000Z
+SUMMARY:Geopolitics and International Conflicts (konwersatorium)
+UID:f7bb659a-b69e-4a66-988c-dea4a8c10b2b@f7bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20250119T114500Z
+LOCATION:Paw.B 151
+DTSTART:20250119T093000Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:6ea025f5-d5cf-40ff-834e-6bcf880c3abc@6ea0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Polan
+DTEND:20241207T170000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241207T144500Z
+SUMMARY:Geopolitics and International Conflicts (konwersatorium)
+UID:d9b0dcab-07c3-40df-be1f-eb581ef48362@d9b0.org
+END:VEVENT
+END:VCALENDAR

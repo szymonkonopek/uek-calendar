@@ -1,0 +1,922 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Konrad Kolegowicz
+DTEND:20241129T083000Z
+LOCATION:Paw.B 451
+DTSTART:20241129T070000Z
+SUMMARY:Controlling produkcji (ćwiczenia)
+UID:61fe2a11-a764-4d7e-9026-e583866c0944@61fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Jadwiga Adamczyk
+DTEND:20241128T120000Z
+LOCATION:Paw.B 151
+DTSTART:20241128T103000Z
+SUMMARY:Controlling strategiczny (ćwiczenia)
+UID:26f03284-8e7e-4d1e-8460-4ec4c9504378@26f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241009T143000Z
+LOCATION:Paw.C sala F
+DTSTART:20241009T130000Z
+SUMMARY:Oszustwa księgowe a rachunkowość kreatywna (wykład do wyboru)
+UID:5c4f983d-a480-4165-8c32-7e8ec622c110@5c4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20241031T153000Z
+LOCATION:Paw.C sala F
+DTSTART:20241031T140000Z
+SUMMARY:Rachunkowość zarządcza (Co) (wykład)
+UID:3dfe41c8-de68-42e8-99e8-6f4ee47bbbce@3dfe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Jadwiga Adamczyk
+DTEND:20250109T120000Z
+LOCATION:Paw.B 151
+DTSTART:20250109T103000Z
+SUMMARY:Controlling strategiczny (ćwiczenia)
+UID:85d4b15d-d283-44a8-96d7-5182de53f66f@85d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Konrad Kolegowicz
+DTEND:20241220T134500Z
+LOCATION:Paw.C sala A
+DTSTART:20241220T121500Z
+SUMMARY:Controlling produkcji (ćwiczenia)
+UID:26f5e4f2-9953-4a9c-9b0d-289b2191dbbf@26f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20241211T181500Z
+LOCATION:Bibl. 440
+DTSTART:20241211T173000Z
+SUMMARY:Zarządzanie kapitałami przedsiębiorstwa (ćwiczenia)
+UID:e5cdde69-3bc6-4544-9f6d-3589629bb7c3@e5cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20241218T171500Z
+LOCATION:Paw.B 151
+DTSTART:20241218T154500Z
+SUMMARY:Zarządzanie kapitałami przedsiębiorstwa (wykład)
+UID:98d75c71-ad10-49ba-8e16-03f4f6079374@98d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Jadwiga Adamczyk
+DTEND:20250115T134500Z
+LOCATION:Paw.C sala F
+DTSTART:20250115T121500Z
+SUMMARY:Controlling strategiczny (wykład)
+UID:109fb6b0-28c5-4f70-9789-4c03ebfebe89@109f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Konrad Kolegowicz
+DTEND:20241108T083000Z
+LOCATION:Paw.B 451
+DTSTART:20241108T070000Z
+SUMMARY:Controlling produkcji (ćwiczenia)
+UID:c57904b2-d4b6-488f-8b3c-20ee3b888485@c579.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20241204T171500Z
+LOCATION:Paw.B 151
+DTSTART:20241204T154500Z
+SUMMARY:Zarządzanie kapitałami przedsiębiorstwa (wykład)
+UID:372b8f34-37c9-41b4-9dd6-1e7cbe158764@372b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20250122T153000Z
+LOCATION:Paw.C sala F
+DTSTART:20250122T140000Z
+SUMMARY:Oszustwa księgowe a rachunkowość kreatywna (wykład do wyboru)
+UID:f722dca0-3a78-43f6-920e-444ee8eee5d9@f722.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Jadwiga Adamczyk
+DTEND:20241107T120000Z
+LOCATION:Paw.B 151
+DTSTART:20241107T103000Z
+SUMMARY:Controlling strategiczny (ćwiczenia)
+UID:cb403f42-06a3-44d9-ad96-e5122837d754@cb40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241016T143000Z
+LOCATION:Paw.C sala F
+DTSTART:20241016T130000Z
+SUMMARY:Oszustwa księgowe a rachunkowość kreatywna (wykład do wyboru)
+UID:f5eea4a3-7b01-4b06-8cf1-33ced054f147@f5ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Konrad Kolegowicz
+DTEND:20241004T073000Z
+LOCATION:Paw.B 451
+DTSTART:20241004T060000Z
+SUMMARY:Controlling produkcji (ćwiczenia)
+UID:dbd1b71d-1c7f-4ce3-9daf-95768c840f32@dbd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Jadwiga Adamczyk
+DTEND:20241003T110000Z
+LOCATION:Paw.B 151
+DTSTART:20241003T093000Z
+SUMMARY:Controlling strategiczny (ćwiczenia)
+UID:db5f6cf7-fa80-4223-bd4a-6ad9ead1a6c7@db5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20250115T153000Z
+LOCATION:Paw.C sala F
+DTSTART:20250115T140000Z
+SUMMARY:Oszustwa księgowe a rachunkowość kreatywna (wykład do wyboru)
+UID:d16846ae-6e47-4d8e-9d4f-35fd95d19dfc@d168.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20241113T171500Z
+LOCATION:Paw.B 151
+DTSTART:20241113T154500Z
+SUMMARY:Zarządzanie kapitałami przedsiębiorstwa (ćwiczenia)
+UID:aafd6867-b80b-4d78-8f45-6b27e9547682@aafd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Konrad Kolegowicz
+DTEND:20241108T101500Z
+LOCATION:Paw.C sala F
+DTSTART:20241108T084500Z
+SUMMARY:Controlling produkcji (wykład)
+UID:bc3b826b-f350-4252-b0ef-1702528293c0@bc3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20250108T153000Z
+LOCATION:Paw.C sala F
+DTSTART:20250108T140000Z
+SUMMARY:Oszustwa księgowe a rachunkowość kreatywna (wykład do wyboru)
+UID:0d2f37c8-fa50-4ae2-95cb-304ea0251cff@0d2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Małgorzata Zakrzewska
+DTEND:20241107T153000Z
+LOCATION:Paw.G  9
+DTSTART:20241107T140000Z
+SUMMARY:Zarządzanie projektami ekonomicznymi i organizacyjnymi (ćwiczenia)
+UID:f60c4862-7be8-400b-9659-fe1ec4483d76@f60c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Konrad Kolegowicz
+DTEND:20241011T091500Z
+LOCATION:Paw.C sala F
+DTSTART:20241011T074500Z
+SUMMARY:Controlling produkcji (wykład)
+UID:86b523c0-b9d9-4938-b27a-e8115cfc51db@86b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20241128T153000Z
+LOCATION:Paw.C sala F
+DTSTART:20241128T140000Z
+SUMMARY:Rachunkowość zarządcza (Co) (wykład)
+UID:fd621c93-e448-4818-aa1d-cb84b076d74a@fd62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Konrad Kolegowicz
+DTEND:20241212T134500Z
+LOCATION:Paw.F 415
+DTSTART:20241212T121500Z
+SUMMARY:Controlling produkcji (ćwiczenia)
+UID:9310b827-8d1d-4371-a86c-6242b9ff660a@9310.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Konrad Kolegowicz
+DTEND:20241122T101500Z
+LOCATION:Paw.C sala F
+DTSTART:20241122T084500Z
+SUMMARY:Controlling produkcji (wykład)
+UID:5dd97748-c457-40f9-afec-79b2ca05a8b5@5dd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jurij Renkas
+DTEND:20241001T161500Z
+LOCATION:Paw.U sala K
+DTSTART:20241001T144500Z
+SUMMARY:Rachunkowość zarządcza (Co) (ćwiczenia)
+UID:9069c8cb-9bc3-45f0-a0a5-00eadd7dc753@9069.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20241009T161500Z
+LOCATION:Paw.B 151
+DTSTART:20241009T144500Z
+SUMMARY:Zarządzanie kapitałami przedsiębiorstwa (wykład)
+UID:ba610510-9f3c-4225-9dde-37c9e72408c4@ba61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Konrad Kolegowicz
+DTEND:20241220T101500Z
+LOCATION:Paw.C sala F
+DTSTART:20241220T084500Z
+SUMMARY:Controlling produkcji (wykład)
+UID:408168cf-633e-4430-9bee-ab562fb5cb1c@4081.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jurij Renkas
+DTEND:20241203T171500Z
+LOCATION:Paw.U sala K
+DTSTART:20241203T154500Z
+SUMMARY:Rachunkowość zarządcza (Co) (ćwiczenia)
+UID:0c19bd2c-4435-4aaa-9c48-bf3e49f25312@0c19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Konrad Kolegowicz
+DTEND:20241115T083000Z
+LOCATION:Paw.B 451
+DTSTART:20241115T070000Z
+SUMMARY:Controlling produkcji (ćwiczenia)
+UID:748b8f1a-0156-49eb-9685-c6e00023af21@748b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:6901dac6-3183-4149-abc6-efedd8e63647@6901.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20241003T124500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241003T111500Z
+SUMMARY:Rachunkowość zarządcza (Co) (wykład)
+UID:0116c7d8-96a8-4483-b892-07f56ae12cc0@0116.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:b0a5b5d1-70db-44a2-b31f-7a244b127dfb@b0a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Małgorzata Zakrzewska
+DTEND:20241024T143000Z
+LOCATION:Paw.G  9
+DTSTART:20241024T130000Z
+SUMMARY:Zarządzanie projektami ekonomicznymi i organizacyjnymi (ćwiczenia)
+UID:d2900b52-ba6b-4391-9da1-0d8cce8a4dcf@d290.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Jadwiga Adamczyk
+DTEND:20241114T120000Z
+LOCATION:Paw.B 151
+DTSTART:20241114T103000Z
+SUMMARY:Controlling strategiczny (ćwiczenia)
+UID:8854ed10-0b51-46d0-b533-dd0d5c885ae1@8854.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Jadwiga Adamczyk
+DTEND:20250116T120000Z
+LOCATION:Paw.B 151
+DTSTART:20250116T103000Z
+SUMMARY:Controlling strategiczny (ćwiczenia)
+UID:4d88f2f4-dd96-45dc-9d90-09533df5cfb7@4d88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Konrad Kolegowicz
+DTEND:20241121T171500Z
+LOCATION:Bud.gł. 5
+DTSTART:20241121T154500Z
+SUMMARY:Controlling produkcji (ćwiczenia)
+UID:806ac135-0965-4376-a156-28f942df6ccf@806a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241211T153000Z
+LOCATION:Paw.C sala F
+DTSTART:20241211T140000Z
+SUMMARY:Oszustwa księgowe a rachunkowość kreatywna (wykład do wyboru)
+UID:48181709-3ab8-4bf3-afcb-bbf3cb917663@4818.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20241114T153000Z
+LOCATION:Paw.C sala F
+DTSTART:20241114T140000Z
+SUMMARY:Rachunkowość zarządcza (Co) (wykład)
+UID:f3af8266-058f-4b6a-9694-e42ce9624426@f3af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20250122T171500Z
+LOCATION:Paw.B 151
+DTSTART:20250122T154500Z
+SUMMARY:Zarządzanie kapitałami przedsiębiorstwa (ćwiczenia)
+UID:bd51f1c5-ac26-400b-b4b0-bccc1c6b199b@bd51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20241023T161500Z
+LOCATION:Paw.B 151
+DTSTART:20241023T144500Z
+SUMMARY:Zarządzanie kapitałami przedsiębiorstwa (wykład)
+UID:cbd68a6c-f9e0-4513-a145-c238de345e6c@cbd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Jadwiga Adamczyk
+DTEND:20241017T110000Z
+LOCATION:Paw.B 151
+DTSTART:20241017T093000Z
+SUMMARY:Controlling strategiczny (ćwiczenia)
+UID:80d49f1f-d58e-492f-92c9-220778320dd6@80d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Woźniak
+DTEND:20241212T083000Z
+LOCATION:Paw.C sala F
+DTSTART:20241212T070000Z
+SUMMARY:Zarządzanie projektami ekonomicznymi i organizacyjnymi (wykład)
+UID:4faa6922-48b0-405c-b7df-6a9c983eb581@4faa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jurij Renkas
+DTEND:20241022T161500Z
+LOCATION:Paw.U sala K
+DTSTART:20241022T144500Z
+SUMMARY:Rachunkowość zarządcza (Co) (ćwiczenia)
+UID:2b2b2e89-1e2c-4204-a53e-13fb199da64f@2b2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jurij Renkas
+DTEND:20241008T161500Z
+LOCATION:Paw.U sala K
+DTSTART:20241008T144500Z
+SUMMARY:Rachunkowość zarządcza (Co) (ćwiczenia)
+UID:fa756000-5e17-4cdb-b414-c4f11744c60a@fa75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Konrad Kolegowicz
+DTEND:20241128T180000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241128T154500Z
+SUMMARY:Controlling produkcji (wykład)
+UID:26af970c-721e-4c2e-909e-e529bb24bf47@26af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Konrad Kolegowicz
+DTEND:20241220T083000Z
+LOCATION:Paw.B 451
+DTSTART:20241220T070000Z
+SUMMARY:Controlling produkcji (ćwiczenia)
+UID:886e703c-7f5e-4a21-9f5a-559b1b4e5c56@886e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Konrad Kolegowicz
+DTEND:20250117T083000Z
+LOCATION:Paw.B 451
+DTSTART:20250117T070000Z
+SUMMARY:Controlling produkcji (ćwiczenia)
+UID:e6dbb935-01f3-4ada-bece-ee36396f0b97@e6db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20250108T171500Z
+LOCATION:Paw.B 151
+DTSTART:20250108T154500Z
+SUMMARY:Zarządzanie kapitałami przedsiębiorstwa (ćwiczenia)
+UID:cd96d7c0-53d3-449a-819b-ab61e94d0efb@cd96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Woźniak
+DTEND:20241003T073000Z
+LOCATION:Paw.C sala F
+DTSTART:20241003T060000Z
+SUMMARY:Zarządzanie projektami ekonomicznymi i organizacyjnymi (wykład)
+UID:69eeb604-20d4-4a58-b0de-33550c1ecc2f@69ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Małgorzata Zakrzewska
+DTEND:20250116T153000Z
+LOCATION:Paw.G  9
+DTSTART:20250116T140000Z
+SUMMARY:Zarządzanie projektami ekonomicznymi i organizacyjnymi (ćwiczenia)
+UID:bcf94460-ffef-4b17-b81f-3e8ff348de50@bcf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Woźniak
+DTEND:20241128T083000Z
+LOCATION:Paw.C sala F
+DTSTART:20241128T070000Z
+SUMMARY:Zarządzanie projektami ekonomicznymi i organizacyjnymi (wykład)
+UID:a4d26fbe-c401-463a-a442-826f5972c295@a4d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241106T153000Z
+LOCATION:Paw.C sala F
+DTSTART:20241106T140000Z
+SUMMARY:Oszustwa księgowe a rachunkowość kreatywna (wykład do wyboru)
+UID:f75b7edd-8d9e-4ef1-a6bb-b078f1163ce4@f75b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20241219T163000Z
+LOCATION:Paw.C sala D
+DTSTART:20241219T154500Z
+SUMMARY:Rachunkowość zarządcza (Co) (wykład)
+UID:cc3cbb75-5398-4ea0-ba40-43ae3218ed9c@cc3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Małgorzata Zakrzewska
+DTEND:20241205T153000Z
+LOCATION:Paw.G  9
+DTSTART:20241205T140000Z
+SUMMARY:Zarządzanie projektami ekonomicznymi i organizacyjnymi (ćwiczenia)
+UID:21a5788d-5a67-4c37-b755-18d1d32da203@21a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jurij Renkas
+DTEND:20241217T171500Z
+LOCATION:Paw.U sala K
+DTSTART:20241217T154500Z
+SUMMARY:Rachunkowość zarządcza (Co) (ćwiczenia)
+UID:e33889f4-5ee1-4f5a-b618-92641f01797f@e338.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241204T153000Z
+LOCATION:Paw.C sala F
+DTSTART:20241204T140000Z
+SUMMARY:Oszustwa księgowe a rachunkowość kreatywna (wykład do wyboru)
+UID:70ae3d75-aae7-4d40-ab50-5e281de88f62@70ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jurij Renkas
+DTEND:20241210T171500Z
+LOCATION:Paw.U sala K
+DTSTART:20241210T154500Z
+SUMMARY:Rachunkowość zarządcza (Co) (ćwiczenia)
+UID:ca7eebdb-1f21-4f7c-b8a2-1b9f8d0feaba@ca7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241023T143000Z
+LOCATION:Paw.C sala F
+DTSTART:20241023T130000Z
+SUMMARY:Oszustwa księgowe a rachunkowość kreatywna (wykład do wyboru)
+UID:75fbd768-e838-4dc5-8642-9fc6305ba1f3@75fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20241030T171500Z
+LOCATION:Paw.B 151
+DTSTART:20241030T154500Z
+SUMMARY:Zarządzanie kapitałami przedsiębiorstwa (ćwiczenia)
+UID:132a100e-5db3-43e7-a211-15f539a1539d@132a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Małgorzata Zakrzewska
+DTEND:20241010T143000Z
+LOCATION:Paw.G  9
+DTSTART:20241010T130000Z
+SUMMARY:Zarządzanie projektami ekonomicznymi i organizacyjnymi (ćwiczenia)
+UID:fa633010-3fe2-44b7-b957-611588c6484e@fa63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Konrad Kolegowicz
+DTEND:20241122T083000Z
+LOCATION:Paw.B 451
+DTSTART:20241122T070000Z
+SUMMARY:Controlling produkcji (ćwiczenia)
+UID:38e8742a-90de-469a-9bcf-6cc2dbe8718e@38e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20250115T171500Z
+LOCATION:Paw.B 151
+DTSTART:20250115T154500Z
+SUMMARY:Zarządzanie kapitałami przedsiębiorstwa (wykład)
+UID:ffd5516f-a311-4161-8776-6b69b66026f1@ffd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241120T153000Z
+LOCATION:Paw.C sala F
+DTSTART:20241120T140000Z
+SUMMARY:Oszustwa księgowe a rachunkowość kreatywna (wykład do wyboru)
+UID:ac325cb4-b771-49e7-8dd5-026451007f1f@ac32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jurij Renkas
+DTEND:20241112T171500Z
+LOCATION:Paw.U sala K
+DTSTART:20241112T154500Z
+SUMMARY:Rachunkowość zarządcza (Co) (ćwiczenia)
+UID:2c9e282a-70d6-4aa2-acf6-6a21ae80103c@2c9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Jadwiga Adamczyk
+DTEND:20241218T134500Z
+LOCATION:Paw.C sala F
+DTSTART:20241218T121500Z
+SUMMARY:Controlling strategiczny (wykład)
+UID:e5e44c55-8e64-41e5-8c0a-d7c43cbc81eb@e5e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Konrad Kolegowicz
+DTEND:20250117T101500Z
+LOCATION:Paw.C sala F
+DTSTART:20250117T084500Z
+SUMMARY:Controlling produkcji (wykład)
+UID:e98e73b1-f2c5-4efb-82ff-7a54d19f7768@e98e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20241127T171500Z
+LOCATION:Paw.B 151
+DTSTART:20241127T154500Z
+SUMMARY:Zarządzanie kapitałami przedsiębiorstwa (ćwiczenia)
+UID:481b02f7-7c04-4719-bdca-7b2345d6e2d9@481b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Małgorzata Zakrzewska
+DTEND:20241213T134500Z
+LOCATION:Paw.C sala A
+DTSTART:20241213T121500Z
+SUMMARY:Zarządzanie projektami ekonomicznymi i organizacyjnymi (ćwiczenia)
+UID:7e3e22de-324c-41aa-b955-75a95920f09c@7e3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Jadwiga Adamczyk
+DTEND:20241219T083000Z
+LOCATION:Paw.C sala E
+DTSTART:20241219T074500Z
+SUMMARY:Controlling strategiczny (wykład)
+UID:39c8e339-1e60-4da4-8eeb-abefc0a5436b@39c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jurij Renkas
+DTEND:20250114T171500Z
+LOCATION:Paw.U sala K
+DTSTART:20250114T154500Z
+SUMMARY:Rachunkowość zarządcza (Co) (ćwiczenia)
+UID:23d67a17-33a6-413e-b4be-b5bd88411fb1@23d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Małgorzata Zakrzewska
+DTEND:20241115T134500Z
+LOCATION:Paw.C sala A
+DTSTART:20241115T121500Z
+SUMMARY:Zarządzanie projektami ekonomicznymi i organizacyjnymi (ćwiczenia)
+UID:193e416e-1daf-457b-9742-2a7525f3a8ed@193e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Jadwiga Adamczyk
+DTEND:20241009T124500Z
+LOCATION:Paw.C sala F
+DTSTART:20241009T111500Z
+SUMMARY:Controlling strategiczny (wykład)
+UID:20ad0c72-e3a3-4e00-9fba-c0b4c06faf2c@20ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Konrad Kolegowicz
+DTEND:20241213T083000Z
+LOCATION:Paw.B 451
+DTSTART:20241213T070000Z
+SUMMARY:Controlling produkcji (ćwiczenia)
+UID:78e1766e-ef81-4cb4-a0e5-e01bca390058@78e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20241106T171500Z
+LOCATION:Paw.B 151
+DTSTART:20241106T154500Z
+SUMMARY:Zarządzanie kapitałami przedsiębiorstwa (wykład)
+UID:e00e4ca8-fc80-402d-bd71-f272a4aa7d9a@e00e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20241212T153000Z
+LOCATION:Paw.C sala F
+DTSTART:20241212T140000Z
+SUMMARY:Rachunkowość zarządcza (Co) (wykład)
+UID:ff42f3f0-7173-4e03-b842-eb4ee7248baf@ff42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Woźniak
+DTEND:20241114T083000Z
+LOCATION:Paw.C sala F
+DTSTART:20241114T070000Z
+SUMMARY:Zarządzanie projektami ekonomicznymi i organizacyjnymi (wykład)
+UID:f8170c80-730e-4055-8663-3669cf38d6a8@f817.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Konrad Kolegowicz
+DTEND:20250124T083000Z
+LOCATION:Paw.B 451
+DTSTART:20250124T070000Z
+SUMMARY:Controlling produkcji (ćwiczenia)
+UID:727d7d6c-3a77-4f6f-a409-210fd33ba032@727d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jurij Renkas
+DTEND:20250107T171500Z
+LOCATION:Paw.U sala K
+DTSTART:20250107T154500Z
+SUMMARY:Rachunkowość zarządcza (Co) (ćwiczenia)
+UID:a05e7634-9560-4f8a-97c5-44cc9fcfce66@a05e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Jadwiga Adamczyk
+DTEND:20241219T120000Z
+LOCATION:Paw.B 151
+DTSTART:20241219T103000Z
+SUMMARY:Controlling strategiczny (ćwiczenia)
+UID:d4692cb5-8890-45e7-9762-37834a1c19ff@d469.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jurij Renkas
+DTEND:20241029T171500Z
+LOCATION:Paw.U sala K
+DTSTART:20241029T154500Z
+SUMMARY:Rachunkowość zarządcza (Co) (ćwiczenia)
+UID:791bfb98-0eaf-4c99-831b-54e4cc2d171d@791b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Jadwiga Adamczyk
+DTEND:20241121T120000Z
+LOCATION:Paw.B 151
+DTSTART:20241121T103000Z
+SUMMARY:Controlling strategiczny (ćwiczenia)
+UID:24b2de30-3ef3-4ac1-b568-1d116fdf69c4@24b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Jadwiga Adamczyk
+DTEND:20241212T120000Z
+LOCATION:Paw.B 151
+DTSTART:20241212T103000Z
+SUMMARY:Controlling strategiczny (ćwiczenia)
+UID:2f1a11c0-a574-4fc4-9b2c-4649cdd9ba0c@2f1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Małgorzata Zakrzewska
+DTEND:20241219T153000Z
+LOCATION:Paw.G  9
+DTSTART:20241219T140000Z
+SUMMARY:Zarządzanie projektami ekonomicznymi i organizacyjnymi (ćwiczenia)
+UID:35964190-e279-4ba2-a984-125afebe4034@3596.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241030T153000Z
+LOCATION:Paw.C sala F
+DTSTART:20241030T140000Z
+SUMMARY:Oszustwa księgowe a rachunkowość kreatywna (wykład do wyboru)
+UID:9e9003c6-66d6-42cd-b968-dea40d33c437@9e90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Jadwiga Adamczyk
+DTEND:20241204T134500Z
+LOCATION:Paw.C sala F
+DTSTART:20241204T121500Z
+SUMMARY:Controlling strategiczny (wykład)
+UID:98d11c39-f575-449f-8f5f-7bdd10639357@98d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Jadwiga Adamczyk
+DTEND:20241106T134500Z
+LOCATION:Paw.C sala F
+DTSTART:20241106T121500Z
+SUMMARY:Controlling strategiczny (wykład)
+UID:e37e4db7-2dcb-469e-874c-d396afb92cbb@e37e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jurij Renkas
+DTEND:20241119T171500Z
+LOCATION:Paw.U sala K
+DTSTART:20241119T154500Z
+SUMMARY:Rachunkowość zarządcza (Co) (ćwiczenia)
+UID:3aa76aba-7a47-44c1-96fa-dc2da8bbe905@3aa7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20241017T143000Z
+LOCATION:Paw.C sala F
+DTSTART:20241017T130000Z
+SUMMARY:Rachunkowość zarządcza (Co) (wykład)
+UID:57b332bb-3588-4fbd-ae75-b9bcd8ab4426@57b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jurij Renkas
+DTEND:20241126T171500Z
+LOCATION:Paw.U sala K
+DTSTART:20241126T154500Z
+SUMMARY:Rachunkowość zarządcza (Co) (ćwiczenia)
+UID:b72aa13c-be66-4474-b83e-fb9d4e6f2905@b72a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Woźniak
+DTEND:20241017T073000Z
+LOCATION:Paw.C sala F
+DTSTART:20241017T060000Z
+SUMMARY:Zarządzanie projektami ekonomicznymi i organizacyjnymi (wykład)
+UID:66c55994-bdf5-448e-b88e-79426f06ef99@66c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Jadwiga Adamczyk
+DTEND:20241205T120000Z
+LOCATION:Paw.B 151
+DTSTART:20241205T103000Z
+SUMMARY:Controlling strategiczny (ćwiczenia)
+UID:7e37ac47-61d5-4c2d-979a-3977b05f2426@7e37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20241211T171500Z
+LOCATION:Paw.B 151
+DTSTART:20241211T154500Z
+SUMMARY:Zarządzanie kapitałami przedsiębiorstwa (ćwiczenia)
+UID:bebeec42-9936-40b7-8d19-1fa727afe0f1@bebe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Konrad Kolegowicz
+DTEND:20241011T073000Z
+LOCATION:Paw.B 451
+DTSTART:20241011T060000Z
+SUMMARY:Controlling produkcji (ćwiczenia)
+UID:d905b68e-2516-4fc6-8bd3-c0d7c4ac1e5d@d905.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241127T153000Z
+LOCATION:Paw.C sala F
+DTSTART:20241127T140000Z
+SUMMARY:Oszustwa księgowe a rachunkowość kreatywna (wykład do wyboru)
+UID:3c5b2862-492e-4a2b-aac7-17b6dc1b5c6d@3c5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241113T153000Z
+LOCATION:Paw.C sala F
+DTSTART:20241113T140000Z
+SUMMARY:Oszustwa księgowe a rachunkowość kreatywna (wykład do wyboru)
+UID:4c68b271-9dce-415d-8ddb-283c6e9bff6e@4c68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Jadwiga Adamczyk
+DTEND:20241120T134500Z
+LOCATION:Paw.C sala F
+DTSTART:20241120T121500Z
+SUMMARY:Controlling strategiczny (wykład)
+UID:dc06462d-d43d-4f48-a4db-e96db1e0f7df@dc06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Wójcik-Jurkiewicz
+DTEND:20250109T153000Z
+LOCATION:Paw.C sala F
+DTSTART:20250109T140000Z
+SUMMARY:Rachunkowość zarządcza (Co) (wykład)
+UID:bc9fd065-a2bf-49be-9577-7a7a3958eae5@bc9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20241016T161500Z
+LOCATION:Paw.B 151
+DTSTART:20241016T144500Z
+SUMMARY:Zarządzanie kapitałami przedsiębiorstwa (ćwiczenia)
+UID:bdde4f4a-6870-4cdf-8106-d6ed049b12ba@bdde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Jadwiga Adamczyk
+DTEND:20250123T120000Z
+LOCATION:Paw.B 151
+DTSTART:20250123T103000Z
+SUMMARY:Controlling strategiczny (ćwiczenia)
+UID:1bf45f59-8764-4256-8391-a28bcd415963@1bf4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Jadwiga Adamczyk
+DTEND:20241024T110000Z
+LOCATION:Paw.B 151
+DTSTART:20241024T093000Z
+SUMMARY:Controlling strategiczny (ćwiczenia)
+UID:c4d158f6-08c7-4bba-97b8-c9961e82501a@c4d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Jadwiga Adamczyk
+DTEND:20241023T124500Z
+LOCATION:Paw.C sala F
+DTSTART:20241023T111500Z
+SUMMARY:Controlling strategiczny (wykład)
+UID:6810047e-17f8-4873-8008-97c224f48e09@6810.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20241120T171500Z
+LOCATION:Paw.B 151
+DTSTART:20241120T154500Z
+SUMMARY:Zarządzanie kapitałami przedsiębiorstwa (wykład)
+UID:fcd9d50e-dcf0-4cdf-be16-d18b0566648b@fcd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Konrad Kolegowicz
+DTEND:20241206T083000Z
+LOCATION:Paw.B 451
+DTSTART:20241206T070000Z
+SUMMARY:Controlling produkcji (ćwiczenia)
+UID:0ff5b608-d998-4817-9d79-13442cca99d7@0ff5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Konrad Kolegowicz
+DTEND:20250110T083000Z
+LOCATION:Paw.B 451
+DTSTART:20250110T070000Z
+SUMMARY:Controlling produkcji (ćwiczenia)
+UID:5ec0481a-f85f-4d14-b38b-dc6e0944a83b@5ec0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20241127T134500Z
+LOCATION:Paw.F 516
+DTSTART:20241127T130000Z
+SUMMARY:Zarządzanie kapitałami przedsiębiorstwa (wykład)
+UID:9ab9f736-e584-413a-a666-0c4843297118@9ab9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jurij Renkas
+DTEND:20241015T161500Z
+LOCATION:Paw.U sala K
+DTSTART:20241015T144500Z
+SUMMARY:Rachunkowość zarządcza (Co) (ćwiczenia)
+UID:bdbb27b7-ed16-4c99-9127-50fbb10b657e@bdbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Małgorzata Zakrzewska
+DTEND:20241121T153000Z
+LOCATION:Paw.G  9
+DTSTART:20241121T140000Z
+SUMMARY:Zarządzanie projektami ekonomicznymi i organizacyjnymi (ćwiczenia)
+UID:44d30ded-1abb-4ef2-8990-50b884a16b98@44d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Woźniak
+DTEND:20241031T083000Z
+LOCATION:Paw.C sala F
+DTSTART:20241031T070000Z
+SUMMARY:Zarządzanie projektami ekonomicznymi i organizacyjnymi (wykład)
+UID:ffc31ee2-4d53-474d-990b-b290fd584384@ffc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Jadwiga Adamczyk
+DTEND:20241031T120000Z
+LOCATION:Paw.B 151
+DTSTART:20241031T103000Z
+SUMMARY:Controlling strategiczny (ćwiczenia)
+UID:53efd12d-7099-421e-8ce1-14a4e919b86f@53ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241218T153000Z
+LOCATION:Paw.C sala F
+DTSTART:20241218T140000Z
+SUMMARY:Oszustwa księgowe a rachunkowość kreatywna (wykład do wyboru)
+UID:190cb86b-6867-44fe-a2ba-7361c690e86b@190c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jurij Renkas
+DTEND:20241105T171500Z
+LOCATION:Paw.U sala K
+DTSTART:20241105T154500Z
+SUMMARY:Rachunkowość zarządcza (Co) (ćwiczenia)
+UID:01e6eeba-9ffc-4585-8192-2066d10a5711@01e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Konrad Kolegowicz
+DTEND:20241206T101500Z
+LOCATION:Paw.C sala F
+DTSTART:20241206T084500Z
+SUMMARY:Controlling produkcji (wykład)
+UID:58c904aa-0340-41ca-8852-ab75dc8f08cb@58c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Jadwiga Adamczyk
+DTEND:20241129T101500Z
+LOCATION:Paw.E sala J
+DTSTART:20241129T084500Z
+SUMMARY:Controlling strategiczny (ćwiczenia)
+UID:8d80afa4-2d73-4a37-9b06-6c172a4c7604@8d80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jurij Renkas
+DTEND:20250121T171500Z
+LOCATION:Paw.U sala K
+DTSTART:20250121T154500Z
+SUMMARY:Rachunkowość zarządcza (Co) (ćwiczenia)
+UID:a60e19f1-13b9-4cce-95b9-d259d90a125f@a60e.org
+END:VEVENT
+END:VCALENDAR

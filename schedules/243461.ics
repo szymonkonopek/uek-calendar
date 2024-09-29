@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Beata Barczak
+DTEND:20241116T123000Z
+LOCATION:link do zajęć
+DTSTART:20241116T093000Z
+SUMMARY:Zarządzanie strategiczne (wykład)
+UID:e3c9ccf9-d874-4235-869e-7c6dd8084867@e3c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sylwia Wiśniewska
+DTEND:20241129T170000Z
+LOCATION:Paw.C sala E
+DTSTART:20241129T144500Z
+SUMMARY:Kształtowanie zatrudnialności (ćwiczenia)
+UID:de9b34f4-8869-490e-b117-cfb89aa138e7@de9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Żmija
+DTEND:20241116T091500Z
+LOCATION:link do zajęć
+DTSTART:20241116T070000Z
+SUMMARY:Controlling w przedsiębiorstwie (wykład)
+UID:1f67d4b0-ffba-40ac-b751-31e07620d60b@1f67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20250118T143000Z
+LOCATION:Paw.S sala 1
+DTSTART:20250118T121500Z
+SUMMARY:Zarządzanie strategiczne (ćwiczenia)
+UID:71edc83c-b352-43de-848e-e9b5ad5e4ffd@71ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Beata Barczak
+DTEND:20241026T104500Z
+LOCATION:link do zajęć
+DTSTART:20241026T083000Z
+SUMMARY:Zarządzanie strategiczne (wykład)
+UID:c240e899-0489-448f-86ba-9bc4ff30b557@c240.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Beata Barczak
+DTEND:20241012T104500Z
+LOCATION:link do zajęć
+DTSTART:20241012T083000Z
+SUMMARY:Zarządzanie strategiczne (wykład)
+UID:28b9ded9-b083-4193-96b9-3c9cd7417678@28b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20241213T170000Z
+LOCATION:Paw.C sala E
+DTSTART:20241213T144500Z
+SUMMARY:Zarządzanie strategiczne (ćwiczenia)
+UID:8bbd8c88-e41d-47af-ad5f-ca882588646d@8bbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Żmija
+DTEND:20241012T081500Z
+LOCATION:link do zajęć
+DTSTART:20241012T064500Z
+SUMMARY:Controlling w przedsiębiorstwie (wykład)
+UID:2fa1428d-39cb-40d5-bae9-df16934a7670@2fa1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Żmija
+DTEND:20250118T114500Z
+LOCATION:Paw.C sala E
+DTSTART:20250118T093000Z
+SUMMARY:Controlling w przedsiębiorstwie (ćwiczenia)
+UID:41fa37ea-74ab-4864-a7da-6d09da12f807@41fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20241214T180000Z
+LOCATION:Bibl. 440
+DTSTART:20241214T154500Z
+SUMMARY:Psychologiczne aspekty gier w zarządzaniu przedsiębiorstwem (konwersatorium)
+UID:bbdf468f-7306-4802-8570-9078f6ffb852@bbdf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Żmija
+DTEND:20241213T190000Z
+LOCATION:Paw.C sala D
+DTSTART:20241213T173000Z
+SUMMARY:Controlling w przedsiębiorstwie (ćwiczenia)
+UID:de8e1247-842d-41bc-bfb6-ea4d576baef1@de8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20241117T143000Z
+LOCATION:link do zajęć
+DTSTART:20241117T121500Z
+SUMMARY:Podstawy psychometrii i pomiar psychologiczny (wykład)
+UID:eec35529-b183-4591-8f4f-62570d6b4d61@eec3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Beata Barczak
+DTEND:20241027T114500Z
+LOCATION:link do zajęć
+DTSTART:20241027T093000Z
+SUMMARY:Zarządzanie strategiczne (wykład)
+UID:af04fd8f-1240-4db0-9217-3b1fb2e6dcdb@af04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20241201T124500Z
+LOCATION:Paw.B 351
+DTSTART:20241201T103000Z
+SUMMARY:Psychologiczne aspekty gier w zarządzaniu przedsiębiorstwem (konwersatorium)
+UID:1a1d1638-3d2c-41ec-a733-dd9b3db616c6@1a1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Maria Foryś
+DTEND:20250118T091500Z
+LOCATION:Bud.gł. 4
+DTSTART:20250118T074500Z
+SUMMARY:Podstawy psychometrii i pomiar psychologiczny (ćwiczenia)
+UID:9a2b52c8-7bf3-4b95-9bbf-c8d1ad359939@9a2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Żmija
+DTEND:20241214T114500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241214T093000Z
+SUMMARY:Controlling w przedsiębiorstwie (ćwiczenia)
+UID:71075e50-4669-4db5-ac03-7ef6645b3b1f@7107.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Maria Foryś
+DTEND:20241215T114500Z
+LOCATION:Paw.A 301b
+DTSTART:20241215T093000Z
+SUMMARY:Podstawy psychometrii i pomiar psychologiczny (ćwiczenia)
+UID:4e1db630-4c7b-4169-b1cc-d0b337e81b5b@4e1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20250117T170000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250117T144500Z
+SUMMARY:Psychologiczne aspekty pracy zdalnej (ćwiczenia)
+UID:c97d56a7-802b-4ebc-ae11-b0448e830746@c97d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20241025T160000Z
+LOCATION:Paw.C sala D
+DTSTART:20241025T134500Z
+SUMMARY:Zarządzanie strategiczne (ćwiczenia)
+UID:c22fd8f2-4bbf-4912-83eb-7bdc04c81eeb@c22f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sylwia Wiśniewska
+DTEND:20250117T194500Z
+LOCATION:Paw.E sala J
+DTSTART:20250117T173000Z
+SUMMARY:Kształtowanie zatrudnialności (ćwiczenia)
+UID:6f9978e0-8bd5-43e7-927b-28438faa87f5@6f99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Maria Foryś
+DTEND:20241130T151500Z
+LOCATION:Bud.gł. 4
+DTSTART:20241130T130000Z
+SUMMARY:Podstawy psychometrii i pomiar psychologiczny (ćwiczenia)
+UID:ea922edc-85e9-4264-a834-54b718165cee@ea92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sylwia Wiśniewska
+DTEND:20241011T160000Z
+LOCATION:link do zajęć
+DTSTART:20241011T134500Z
+SUMMARY:Kształtowanie zatrudnialności (wykład)
+UID:047e63e8-6b2b-4c8a-ae10-8f657702a8bb@047e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20241011T184500Z
+LOCATION:link do zajęć
+DTSTART:20241011T163000Z
+SUMMARY:Podstawy psychometrii i pomiar psychologiczny (wykład)
+UID:d86acd19-b739-49f1-abe1-2502a57fa158@d86a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sylwia Wiśniewska
+DTEND:20241026T081500Z
+LOCATION:link do zajęć
+DTSTART:20241026T060000Z
+SUMMARY:Kształtowanie zatrudnialności (wykład)
+UID:217ad256-a116-4f85-bb89-18bb1712961a@217a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20241130T091500Z
+LOCATION:Bibl. 441
+DTSTART:20241130T070000Z
+SUMMARY:Zarządzanie strategiczne (ćwiczenia)
+UID:d00e9ab4-c39c-4438-baab-026e2a6f1897@d00e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Żmija
+DTEND:20241027T091500Z
+LOCATION:link do zajęć
+DTSTART:20241027T070000Z
+SUMMARY:Controlling w przedsiębiorstwie (wykład)
+UID:873e814f-54cc-4b16-ac8a-894aae4667da@873e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Żmija
+DTEND:20241115T194500Z
+LOCATION:Paw.B 251
+DTSTART:20241115T173000Z
+SUMMARY:Controlling w przedsiębiorstwie (ćwiczenia)
+UID:aae0100b-77d9-4fd1-9883-e13ec508b304@aae0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Pawlak
+DTEND:20241215T091500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241215T070000Z
+SUMMARY:Psychologiczne aspekty pracy zdalnej (ćwiczenia)
+UID:24153b9d-817b-4f2d-969e-f8b70fda3712@2415.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sylwia Wiśniewska
+DTEND:20241115T171500Z
+LOCATION:Paw.C sala F
+DTSTART:20241115T154500Z
+SUMMARY:Kształtowanie zatrudnialności (ćwiczenia)
+UID:c0434b6d-9296-41f9-a9b5-588fc1111f81@c043.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernard Bińczycki
+DTEND:20241214T151500Z
+LOCATION:Paw.C sala E
+DTSTART:20241214T121500Z
+SUMMARY:Zarządzanie strategiczne (ćwiczenia)
+UID:6513991e-092a-4d67-bc56-24e11593ba4e@6513.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Żmija
+DTEND:20241129T194500Z
+LOCATION:Paw.F 516
+DTSTART:20241129T173000Z
+SUMMARY:Controlling w przedsiębiorstwie (ćwiczenia)
+UID:7126091d-485b-498b-89ba-beac35153a0a@7126.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Beata Barczak
+DTEND:20241117T114500Z
+LOCATION:link do zajęć
+DTSTART:20241117T093000Z
+SUMMARY:Zarządzanie strategiczne (wykład)
+UID:035191f4-2f3f-40d6-93cc-5d0ad07f8c7a@0351.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Żmija
+DTEND:20241130T120000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241130T103000Z
+SUMMARY:Controlling w przedsiębiorstwie (ćwiczenia)
+UID:731a28d9-26b0-4d33-abf2-20c94f2d72bf@731a.org
+END:VEVENT
+END:VCALENDAR

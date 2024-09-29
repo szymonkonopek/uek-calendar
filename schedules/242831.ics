@@ -1,0 +1,1242 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241029T190000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241029T173000Z
+SUMMARY:Zasady projektowania inżynierskiego (Projekt)
+UID:9cc5f2b4-86f7-485e-81a1-df3d77c78ff1@9cc5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Patrycja Brańka
+DTEND:20241029T083000Z
+LOCATION:Paw.F 415
+DTSTART:20241029T070000Z
+SUMMARY:Strategie rozwoju regionalnego (Projekt)
+UID:49b380a0-650f-4196-9de7-d446c35ce3b3@49b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Patrycja Brańka
+DTEND:20241217T083000Z
+LOCATION:Paw.F 415
+DTSTART:20241217T070000Z
+SUMMARY:Strategie rozwoju regionalnego (Projekt)
+UID:83638521-2efa-48e7-b072-262beda82437@8363.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241204T134500Z
+LOCATION:Paw.F 109
+DTSTART:20241204T121500Z
+SUMMARY:Budownictwo (wykład)
+UID:997e0e23-003b-45aa-8eda-12190146d769@997e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241104T134500Z
+LOCATION:Paw.F 109
+DTSTART:20241104T121500Z
+SUMMARY:Systemy Informacji Geograficznej GIS I (wykład)
+UID:d04ffafc-c4ac-4c19-b6b1-a911e96a0504@d04f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20250113T101500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20250113T084500Z
+SUMMARY:Zasady projektowania inżynierskiego (Projekt)
+UID:58bd651d-841c-4ac4-ac95-74c97877efc0@58bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20250124T101500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250124T084500Z
+SUMMARY:Systemy Informacji Geograficznej GIS I (Projekt)
+UID:7592d089-7343-4df4-950d-9b4edb8dcfea@7592.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241018T110000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241018T093000Z
+SUMMARY:Projektowanie urbanistyczne I (Projekt)
+UID:2926e1c1-8fe4-4999-89fb-2f07fbe63bbc@2926.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241216T134500Z
+LOCATION:Paw.F 109
+DTSTART:20241216T121500Z
+SUMMARY:Systemy Informacji Geograficznej GIS I (wykład)
+UID:29a82cf0-55ff-41a1-9422-76c88502447b@29a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241030T134500Z
+LOCATION:Paw.F 109
+DTSTART:20241030T121500Z
+SUMMARY:Projektowanie urbanistyczne I (wykład)
+UID:6cd8d948-897d-4266-83e0-95e3d2100ee0@6cd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241029T101500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241029T084500Z
+SUMMARY:Projektowanie urbanistyczne I (Projekt)
+UID:a2868353-2b45-46d2-81fc-9a050a19d785@a286.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20250120T101500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20250120T084500Z
+SUMMARY:Zasady projektowania inżynierskiego (Projekt)
+UID:787e88fd-41ed-4199-b798-4b6988bffffb@787e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241119T101500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241119T084500Z
+SUMMARY:Projektowanie urbanistyczne I (Projekt)
+UID:a3d6a8b9-34b3-4ae8-a9af-4b428910675b@a3d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241211T083000Z
+LOCATION:Paw.F 109
+DTSTART:20241211T070000Z
+SUMMARY:Strategie rozwoju regionalnego (wykład)
+UID:32b933c5-b133-4614-8874-3baee3663ef5@32b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241025T094500Z
+LOCATION:.
+DTSTART:20241025T060000Z
+SUMMARY:Projektowanie urbanistyczne I (Zajęcia terenowe)
+UID:7ad042ae-0466-4186-8d6c-8936a42b6572@7ad0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Małkowska
+DTEND:20241029T153000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241029T140000Z
+SUMMARY:Podstawy wyceny i gospodarki nieruchomościami (ćwiczenia do wyboru)
+UID:4d3e233f-bf23-4683-b2ec-d8dd1fa2d516@4d3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Patrycja Brańka
+DTEND:20241126T083000Z
+LOCATION:Paw.F 415
+DTSTART:20241126T070000Z
+SUMMARY:Strategie rozwoju regionalnego (Projekt)
+UID:888d5dee-c52d-4e80-b116-b9dbfb8c7e89@888d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20241217T190000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241217T173000Z
+SUMMARY:Projektowanie systemów transportowych (Projekt)
+UID:54941609-ccb9-4d7e-91e4-fc03c728d7fe@5494.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20241008T180000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241008T163000Z
+SUMMARY:Projektowanie systemów transportowych (Projekt)
+UID:a473a1bf-e262-4890-995f-62af162e54d6@a473.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241202T083000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241202T070000Z
+SUMMARY:Systemy Informacji Geograficznej GIS I (Projekt)
+UID:699bc402-e33b-4f95-b6e1-c1ef00fb9628@699b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241106T083000Z
+LOCATION:Paw.F 109
+DTSTART:20241106T070000Z
+SUMMARY:Strategie rozwoju regionalnego (wykład)
+UID:1d575e13-dec1-46ae-b804-a34bb245ae0b@1d57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Patrycja Brańka
+DTEND:20241203T083000Z
+LOCATION:Paw.F 415
+DTSTART:20241203T070000Z
+SUMMARY:Strategie rozwoju regionalnego (Projekt)
+UID:487484c8-cfbb-4da0-a578-d2906bd903cd@4874.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Małkowska
+DTEND:20241022T143000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241022T130000Z
+SUMMARY:Podstawy wyceny i gospodarki nieruchomościami (ćwiczenia do wyboru)
+UID:d35dea2f-3b54-4ae8-8a7a-93c3a91620f9@d35d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241021T124500Z
+LOCATION:Paw.F 109
+DTSTART:20241021T111500Z
+SUMMARY:Systemy Informacji Geograficznej GIS I (wykład)
+UID:86797b0f-110b-454b-bfb3-b37ffba7c899@8679.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241106T134500Z
+LOCATION:Paw.F 109
+DTSTART:20241106T121500Z
+SUMMARY:Budownictwo (wykład)
+UID:81081761-ec2b-4dff-9327-4373b9db5260@8108.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241015T180000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241015T163000Z
+SUMMARY:Zasady projektowania inżynierskiego (Projekt)
+UID:ae350368-722d-4b70-8f33-0d5c67d44734@ae35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20241203T190000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241203T173000Z
+SUMMARY:Projektowanie systemów transportowych (Projekt)
+UID:01e6ecf6-00c9-4be3-ac3b-7f24273be54c@01e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Patrycja Brańka
+DTEND:20241001T073000Z
+LOCATION:Paw.F 415
+DTSTART:20241001T060000Z
+SUMMARY:Strategie rozwoju regionalnego (Projekt)
+UID:ebaaad8f-0701-4c49-ad53-7cf486f08718@ebaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241211T134500Z
+LOCATION:Paw.F 109
+DTSTART:20241211T121500Z
+SUMMARY:Projektowanie urbanistyczne I (wykład)
+UID:e0690fd9-0e5d-4fb6-9ddb-fd3164e53c25@e069.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20241008T124500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241008T111500Z
+SUMMARY:Projektowanie systemów transportowych (wykład do wyboru)
+UID:a2ba8ff3-443b-4b5f-91f1-a012b5de29ab@a2ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241217T101500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241217T084500Z
+SUMMARY:Projektowanie urbanistyczne I (Projekt)
+UID:d9848463-ba41-4910-ac41-46dfca726969@d984.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20250115T171500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250115T154500Z
+SUMMARY:Budownictwo (Projekt)
+UID:bfeb1c03-58e6-4de4-9081-6e894393ef18@bfeb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241204T171500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241204T154500Z
+SUMMARY:Budownictwo (Projekt)
+UID:d52a6379-61fb-4720-b01c-610a1cb55bbe@d52a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241127T083000Z
+LOCATION:Paw.F 109
+DTSTART:20241127T070000Z
+SUMMARY:Strategie rozwoju regionalnego (wykład)
+UID:69a1e46f-9cc2-4dc1-b036-21da5665fb00@69a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241008T091500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241008T074500Z
+SUMMARY:Projektowanie urbanistyczne I (Projekt)
+UID:e1c4a92b-809f-4e66-9bfe-44c5473551bd@e1c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241113T083000Z
+LOCATION:Paw.F 109
+DTSTART:20241113T070000Z
+SUMMARY:Strategie rozwoju regionalnego (wykład)
+UID:2f72aaac-ab1e-495d-a062-a5e31a8b98d8@2f72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241218T101500Z
+LOCATION:Paw.S sala 4
+DTSTART:20241218T093000Z
+SUMMARY:Systemy Informacji Geograficznej GIS I (wykład)
+UID:f335b19c-0049-4bc7-b0db-ce8e4bae2058@f335.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241120T171500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241120T154500Z
+SUMMARY:Budownictwo (Projekt)
+UID:7117a4a9-1d33-4675-9c71-92ea65020593@7117.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20250114T101500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250114T084500Z
+SUMMARY:Projektowanie urbanistyczne I (Projekt)
+UID:2a8a6422-7687-44bf-b721-96f925d74eb6@2a8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241001T091500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241001T074500Z
+SUMMARY:Projektowanie urbanistyczne I (Projekt)
+UID:2b1e9ace-7f8a-4804-9f94-7543b63a69d9@2b1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20250113T083000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250113T070000Z
+SUMMARY:Systemy Informacji Geograficznej GIS I (Projekt)
+UID:364f0203-75b3-4fc3-ace7-05bb1aeae13f@364f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20250114T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250114T121500Z
+SUMMARY:Projektowanie systemów transportowych (wykład do wyboru)
+UID:e0784fc3-922e-4053-878c-ecac55a058d9@e078.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Patrycja Brańka
+DTEND:20241015T073000Z
+LOCATION:Paw.F 415
+DTSTART:20241015T060000Z
+SUMMARY:Strategie rozwoju regionalnego (Projekt)
+UID:9e50d027-e9fc-4a78-a11b-109d59fe8fb3@9e50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Małkowska
+DTEND:20241105T153000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241105T140000Z
+SUMMARY:Podstawy wyceny i gospodarki nieruchomościami (ćwiczenia do wyboru)
+UID:7ddef94e-5815-4301-bca1-e767c357ff2d@7dde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Małkowska
+DTEND:20241210T153000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241210T140000Z
+SUMMARY:Podstawy wyceny i gospodarki nieruchomościami (ćwiczenia do wyboru)
+UID:c71ea888-9627-4785-aa55-dbefb9b5399d@c71e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20241105T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241105T121500Z
+SUMMARY:Projektowanie systemów transportowych (wykład do wyboru)
+UID:5984f745-6538-42ba-bbde-e097216d1363@5984.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20241105T190000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241105T173000Z
+SUMMARY:Projektowanie systemów transportowych (Projekt)
+UID:b18b6ee5-0f1c-426e-97d1-51031f77eca6@b18b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241210T190000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241210T173000Z
+SUMMARY:Zasady projektowania inżynierskiego (Projekt)
+UID:bb91b59c-53fe-4edc-aefb-8849a1c77eb0@bb91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241218T083000Z
+LOCATION:Paw.F 109
+DTSTART:20241218T070000Z
+SUMMARY:Strategie rozwoju regionalnego (wykład)
+UID:f7fec251-7fdf-42ce-8b05-47599e181267@f7fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20250124T083000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250124T074500Z
+SUMMARY:Projektowanie systemów transportowych (Projekt)
+UID:3ccf1acd-823c-4001-9277-ef01210baba9@3ccf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20241022T124500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241022T111500Z
+SUMMARY:Projektowanie systemów transportowych (wykład do wyboru)
+UID:2a395df4-514f-475e-a231-54d0b3bb37cc@2a39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241126T190000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241126T173000Z
+SUMMARY:Zasady projektowania inżynierskiego (Projekt)
+UID:b3563f46-3fbd-4e75-acde-8aa192d493a6@b356.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241106T171500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241106T154500Z
+SUMMARY:Budownictwo (Projekt)
+UID:6f5823e9-11c7-4926-b443-47da4d65f0e9@6f58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241120T134500Z
+LOCATION:Paw.F 109
+DTSTART:20241120T121500Z
+SUMMARY:Budownictwo (wykład)
+UID:13046889-cf20-42c1-9dde-eeeb534be89f@1304.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241030T171500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241030T154500Z
+SUMMARY:Budownictwo (Projekt)
+UID:96f2c20e-66b9-41ea-b498-0c3aa7e5d0cf@96f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241203T101500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241203T084500Z
+SUMMARY:Projektowanie urbanistyczne I (Projekt)
+UID:10de0ebc-14d7-440d-8106-b067f7e81bc7@10de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241007T091500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241007T074500Z
+SUMMARY:Zasady projektowania inżynierskiego (Projekt)
+UID:7995ad18-86db-4825-9de2-f2855ffb5f47@7995.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20241119T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241119T121500Z
+SUMMARY:Projektowanie systemów transportowych (wykład do wyboru)
+UID:8ae4f462-a31b-4f7f-b28c-ee5d10708ea2@8ae4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Patrycja Brańka
+DTEND:20250121T083000Z
+LOCATION:Paw.F 415
+DTSTART:20250121T070000Z
+SUMMARY:Strategie rozwoju regionalnego (Projekt)
+UID:1601daba-30be-4f1d-9d0a-17577ca12c0b@1601.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Małkowska
+DTEND:20241119T153000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241119T140000Z
+SUMMARY:Podstawy wyceny i gospodarki nieruchomościami (ćwiczenia do wyboru)
+UID:83494e2e-196e-4f3b-b5e2-b3c894a38fba@8349.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241022T091500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241022T074500Z
+SUMMARY:Projektowanie urbanistyczne I (Projekt)
+UID:5d33796b-2b58-4331-87f9-2569d82210ac@5d33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Małkowska
+DTEND:20241126T153000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241126T140000Z
+SUMMARY:Podstawy wyceny i gospodarki nieruchomościami (ćwiczenia do wyboru)
+UID:dc98b976-f323-46f4-a7c5-ce1f63d7cd83@dc98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241216T083000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241216T070000Z
+SUMMARY:Systemy Informacji Geograficznej GIS I (Projekt)
+UID:21fb7ae7-703c-4d8d-a1cb-870ab4bd7cd5@21fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241106T190000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241106T173000Z
+SUMMARY:Budownictwo (Projekt)
+UID:64af4d60-a6a6-4478-99ce-6a5c0a3683bc@64af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241030T083000Z
+LOCATION:Paw.F 109
+DTSTART:20241030T070000Z
+SUMMARY:Strategie rozwoju regionalnego (wykład)
+UID:e900d3fc-b022-48a8-a4f0-c144e363f112@e900.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Małkowska
+DTEND:20250114T153000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20250114T140000Z
+SUMMARY:Podstawy wyceny i gospodarki nieruchomościami (ćwiczenia do wyboru)
+UID:ad8dead1-0da5-40bd-90da-c5ce56d20767@ad8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241004T143000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241004T130000Z
+SUMMARY:Budownictwo (Projekt)
+UID:6ab0046d-8a2d-4ff7-99d7-af8d6b4f339c@6ab0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Patrycja Brańka
+DTEND:20241105T083000Z
+LOCATION:Paw.F 415
+DTSTART:20241105T070000Z
+SUMMARY:Strategie rozwoju regionalnego (Projekt)
+UID:128dba33-8ff1-467d-8049-8d0c37452c48@128d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20241106T153000Z
+LOCATION:Paw.S sala 6
+DTSTART:20241106T140000Z
+SUMMARY:Podstawy wyceny i gospodarki nieruchomościami (wykład do wyboru)
+UID:fa278a08-30b3-4524-a7b8-f9e8f1675341@fa27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20250107T101500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250107T084500Z
+SUMMARY:Projektowanie urbanistyczne I (Projekt)
+UID:6c86144e-7504-4a99-82ef-f5c46cfee330@6c86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241007T073000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241007T060000Z
+SUMMARY:Systemy Informacji Geograficznej GIS I (Projekt)
+UID:224c7f6d-3862-4564-8a33-7cf04163e113@224c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241009T124500Z
+LOCATION:Paw.F 109
+DTSTART:20241009T111500Z
+SUMMARY:Budownictwo (wykład)
+UID:5bf22c6c-20d8-4752-bace-06fef7e7e9fc@5bf2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Patrycja Brańka
+DTEND:20250114T083000Z
+LOCATION:Paw.F 415
+DTSTART:20250114T070000Z
+SUMMARY:Strategie rozwoju regionalnego (Projekt)
+UID:57b6b8da-a543-4a63-9d66-386174d7dff6@57b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241209T101500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241209T084500Z
+SUMMARY:Zasady projektowania inżynierskiego (Projekt)
+UID:b6507abe-45ff-4a97-b1aa-15d7b83cf217@b650.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20250115T083000Z
+LOCATION:Paw.F 109
+DTSTART:20250115T074500Z
+SUMMARY:Strategie rozwoju regionalnego (wykład)
+UID:d087ea6f-9daa-4ffa-926e-84dfcb7e4cc2@d087.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20250108T171500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250108T154500Z
+SUMMARY:Budownictwo (Projekt)
+UID:ca2bea12-4091-49b4-91c4-3ca201496257@ca2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241120T083000Z
+LOCATION:Paw.F 109
+DTSTART:20241120T070000Z
+SUMMARY:Strategie rozwoju regionalnego (wykład)
+UID:30f740aa-3e9d-4d93-ab07-6a9d0874a232@30f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20250121T190000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20250121T173000Z
+SUMMARY:Zasady projektowania inżynierskiego (Projekt)
+UID:073c3d63-a23a-482a-92a5-0e8e2a7532df@073c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241112T190000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241112T173000Z
+SUMMARY:Zasady projektowania inżynierskiego (Projekt)
+UID:1af2f6e4-1cd6-4358-93b0-23234f8ae548@1af2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241125T101500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241125T084500Z
+SUMMARY:Zasady projektowania inżynierskiego (Projekt)
+UID:ec418ab8-6aaa-4461-911c-3278fddfdb04@ec41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241014T091500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241014T074500Z
+SUMMARY:Zasady projektowania inżynierskiego (Projekt)
+UID:c86c0b19-4072-4480-bfb9-1a51f7e7eabd@c86c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20250107T190000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20250107T173000Z
+SUMMARY:Zasady projektowania inżynierskiego (Projekt)
+UID:b7375004-ef72-4b2c-a66d-693d489190db@b737.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241127T171500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241127T154500Z
+SUMMARY:Budownictwo (Projekt)
+UID:9cd30bb0-b774-4aca-a97d-dfae9e359200@9cd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241202T101500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241202T084500Z
+SUMMARY:Zasady projektowania inżynierskiego (Projekt)
+UID:52496ef2-b2f3-4f8d-a3d0-8687dccf727c@5249.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241014T073000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241014T060000Z
+SUMMARY:Systemy Informacji Geograficznej GIS I (Projekt)
+UID:6b0d5990-23b0-423c-bfe1-2de154e12f96@6b0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20250122T134500Z
+LOCATION:Paw.F 109
+DTSTART:20250122T121500Z
+SUMMARY:Projektowanie urbanistyczne I (wykład)
+UID:2f83f714-0958-46bc-9c0a-287c9f9bb704@2f83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Patrycja Brańka
+DTEND:20241210T083000Z
+LOCATION:Paw.F 415
+DTSTART:20241210T070000Z
+SUMMARY:Strategie rozwoju regionalnego (Projekt)
+UID:953a0cb7-01b1-48d7-8901-9fcbd3d27ded@953a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20241218T153000Z
+LOCATION:Paw.S sala 6
+DTSTART:20241218T140000Z
+SUMMARY:Podstawy wyceny i gospodarki nieruchomościami (wykład do wyboru)
+UID:2aaa550c-e176-4657-81c4-e869afea88ee@2aaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241007T124500Z
+LOCATION:Paw.F 109
+DTSTART:20241007T111500Z
+SUMMARY:Systemy Informacji Geograficznej GIS I (wykład)
+UID:1d0cdb6e-de81-479e-8e5b-3e3c5572b8df@1d0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Małkowska
+DTEND:20241008T143000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241008T130000Z
+SUMMARY:Podstawy wyceny i gospodarki nieruchomościami (ćwiczenia do wyboru)
+UID:269501d3-e297-4c00-900b-a5ef15042553@2695.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241125T083000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241125T070000Z
+SUMMARY:Systemy Informacji Geograficznej GIS I (Projekt)
+UID:79f70aa6-b695-42c6-9402-b956aff63d2b@79f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20241023T143000Z
+LOCATION:Paw.S sala 6
+DTSTART:20241023T130000Z
+SUMMARY:Podstawy wyceny i gospodarki nieruchomościami (wykład do wyboru)
+UID:c59afc54-644a-497e-811b-7cabf0ae5654@c59a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241118T134500Z
+LOCATION:Paw.F 109
+DTSTART:20241118T121500Z
+SUMMARY:Systemy Informacji Geograficznej GIS I (wykład)
+UID:7529c15d-80fd-4c5a-90ea-fbaf0f607a4a@7529.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20241120T153000Z
+LOCATION:Paw.S sala 6
+DTSTART:20241120T140000Z
+SUMMARY:Podstawy wyceny i gospodarki nieruchomościami (wykład do wyboru)
+UID:449230c2-f863-45b8-a894-c2fd024519a1@4492.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20250114T190000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20250114T173000Z
+SUMMARY:Projektowanie systemów transportowych (Projekt)
+UID:e5bf5b8d-56fe-4347-ba76-871f6f59c7f9@e5bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241118T083000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241118T070000Z
+SUMMARY:Systemy Informacji Geograficznej GIS I (Projekt)
+UID:58a5f82c-6b00-4e47-9e9f-26b89a3b5f11@58a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20250122T171500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250122T154500Z
+SUMMARY:Budownictwo (Projekt)
+UID:734b8951-29f6-47ea-a3ee-1fd2856cc63d@734b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20241204T153000Z
+LOCATION:Paw.S sala 6
+DTSTART:20241204T140000Z
+SUMMARY:Podstawy wyceny i gospodarki nieruchomościami (wykład do wyboru)
+UID:a0bafc21-c266-487a-99cd-9c24af2e39ae@a0ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241202T134500Z
+LOCATION:Paw.F 109
+DTSTART:20241202T121500Z
+SUMMARY:Systemy Informacji Geograficznej GIS I (wykład)
+UID:07b1919d-90eb-4904-be0d-a086229f11cd@07b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Małkowska
+DTEND:20241015T143000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241015T130000Z
+SUMMARY:Podstawy wyceny i gospodarki nieruchomościami (ćwiczenia do wyboru)
+UID:cdabe87e-416b-4476-9f85-6aaf030d3146@cdab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20250121T101500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250121T084500Z
+SUMMARY:Projektowanie urbanistyczne I (Projekt)
+UID:0bf42b48-8381-4a7c-8e70-d42aa29fdf39@0bf4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:52c9a6f2-45c3-4812-ae05-5fed8032473e@52c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241001T180000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241001T163000Z
+SUMMARY:Zasady projektowania inżynierskiego (Projekt)
+UID:9b0f59ca-c4c3-4b26-b415-baac0f70a1eb@9b0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Patrycja Brańka
+DTEND:20241008T073000Z
+LOCATION:Paw.F 415
+DTSTART:20241008T060000Z
+SUMMARY:Strategie rozwoju regionalnego (Projekt)
+UID:c44ad0d2-19b2-45a1-aadc-6929b70f03f9@c44a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241018T091500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241018T074500Z
+SUMMARY:Projektowanie urbanistyczne I (wykład)
+UID:069089c3-b998-4823-840d-1e6a6a21a9d0@0690.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20250113T134500Z
+LOCATION:Paw.F 109
+DTSTART:20250113T121500Z
+SUMMARY:Systemy Informacji Geograficznej GIS I (wykład)
+UID:530c9eea-6252-412a-977f-c00f6ebebdbb@530c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241105T101500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241105T084500Z
+SUMMARY:Projektowanie urbanistyczne I (Projekt)
+UID:3acc248d-3e62-4656-aa70-1692762fc8f3@3acc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Małkowska
+DTEND:20241112T153000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241112T140000Z
+SUMMARY:Podstawy wyceny i gospodarki nieruchomościami (ćwiczenia do wyboru)
+UID:7bcf8319-bbfd-487c-a06b-4ec55ad324b6@7bcf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241028T101500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241028T084500Z
+SUMMARY:Zasady projektowania inżynierskiego (Projekt)
+UID:8cb9966f-6b70-489d-88bd-0669045e2439@8cb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241127T134500Z
+LOCATION:Paw.F 109
+DTSTART:20241127T121500Z
+SUMMARY:Projektowanie urbanistyczne I (wykład)
+UID:3bd49b1c-be54-4322-a224-31f7b1b1120a@3bd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241216T101500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241216T084500Z
+SUMMARY:Zasady projektowania inżynierskiego (Projekt)
+UID:9f930913-b35a-4daa-a3fc-27c0d120d50b@9f93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241023T073000Z
+LOCATION:Paw.F 109
+DTSTART:20241023T060000Z
+SUMMARY:Strategie rozwoju regionalnego (wykład)
+UID:cb4d10fd-8906-4dcf-9d3c-696960a43f41@cb4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241004T124500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241004T111500Z
+SUMMARY:Systemy Informacji Geograficznej GIS I (Projekt)
+UID:85d0557e-61d7-4834-819b-dcec2f493658@85d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241209T083000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241209T070000Z
+SUMMARY:Systemy Informacji Geograficznej GIS I (Projekt)
+UID:0eef286b-7be7-4d46-bb37-4e2691478bef@0eef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20250120T083000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250120T070000Z
+SUMMARY:Systemy Informacji Geograficznej GIS I (Projekt)
+UID:7c1647d8-1dfb-453d-93ad-e759a8bf5086@7c16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241028T083000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241028T070000Z
+SUMMARY:Systemy Informacji Geograficznej GIS I (Projekt)
+UID:b405b5bc-e26c-4480-9ed8-da52cccc8f7d@b405.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241011T110000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241011T093000Z
+SUMMARY:Systemy Informacji Geograficznej GIS I (Projekt)
+UID:e96a7122-cacd-4b99-845c-3b268d827187@e96a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241016T073000Z
+LOCATION:Paw.F 109
+DTSTART:20241016T060000Z
+SUMMARY:Strategie rozwoju regionalnego (wykład)
+UID:ea858ba8-b419-4ad5-8236-a8ce6da0a7f7@ea85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241118T101500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241118T084500Z
+SUMMARY:Zasady projektowania inżynierskiego (Projekt)
+UID:560f9877-47ae-4cb9-b433-0d25205ce34b@560f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241104T101500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241104T084500Z
+SUMMARY:Zasady projektowania inżynierskiego (Projekt)
+UID:482066f7-5737-4088-98b9-cc8f1c9d7773@4820.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241004T091500Z
+LOCATION:Paw.F 715
+DTSTART:20241004T083000Z
+SUMMARY:Projektowanie urbanistyczne I (wykład)
+UID:c5939d59-0ec8-4e78-a28a-534b3c48f810@c593.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20250108T134500Z
+LOCATION:Paw.F 109
+DTSTART:20250108T121500Z
+SUMMARY:Projektowanie urbanistyczne I (wykład)
+UID:94eefeaf-4d9e-4d73-a785-1012fef9b76a@94ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241211T171500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241211T154500Z
+SUMMARY:Budownictwo (Projekt)
+UID:a71d3973-17c3-4f15-8a8b-3712c3592f37@a71d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241015T091500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241015T074500Z
+SUMMARY:Projektowanie urbanistyczne I (Projekt)
+UID:a8565854-e469-473e-9375-00a6c3c5bba0@a856.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241104T083000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241104T070000Z
+SUMMARY:Systemy Informacji Geograficznej GIS I (Projekt)
+UID:5058296b-807a-4194-adde-3f4f9860c6c9@5058.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Patrycja Brańka
+DTEND:20241022T073000Z
+LOCATION:Paw.F 415
+DTSTART:20241022T060000Z
+SUMMARY:Strategie rozwoju regionalnego (Projekt)
+UID:7633b183-9373-4709-a3d4-b4555e1a6a5e@7633.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241204T083000Z
+LOCATION:Paw.F 109
+DTSTART:20241204T070000Z
+SUMMARY:Strategie rozwoju regionalnego (wykład)
+UID:00b2f86f-c510-4606-a261-32434f211fd1@00b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20241009T143000Z
+LOCATION:Paw.S sala 6
+DTSTART:20241009T130000Z
+SUMMARY:Podstawy wyceny i gospodarki nieruchomościami (wykład do wyboru)
+UID:1490e277-4758-4fb2-aad3-0dfdc0fe3507@1490.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:d12c1bf1-3d1d-4914-b11e-2a0914ed4ee5@d12c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241210T101500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241210T084500Z
+SUMMARY:Projektowanie urbanistyczne I (Projekt)
+UID:71ffbcc8-331f-4bf1-835d-7795fed44003@71ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20250124T074500Z
+LOCATION:Paw.F 106
+DTSTART:20250124T070000Z
+SUMMARY:Projektowanie systemów transportowych (wykład do wyboru)
+UID:fd18da5c-c63a-4e55-9012-75c8d8cf4e5a@fd18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241023T124500Z
+LOCATION:Paw.F 109
+DTSTART:20241023T111500Z
+SUMMARY:Budownictwo (wykład)
+UID:a4161388-6517-48b8-a749-ce99e251e79f@a416.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20241217T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241217T121500Z
+SUMMARY:Projektowanie systemów transportowych (wykład do wyboru)
+UID:7af16909-113b-4f3f-bd0f-b12bf041022b@7af1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241023T161500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241023T144500Z
+SUMMARY:Budownictwo (Projekt)
+UID:a47aee99-ff59-495d-9cae-057abd20e87f@a47a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Małkowska
+DTEND:20241217T153000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241217T140000Z
+SUMMARY:Podstawy wyceny i gospodarki nieruchomościami (ćwiczenia do wyboru)
+UID:9d247d1a-eb6b-46d1-8ea4-69adabbe41fb@9d24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Serafin
+DTEND:20241021T073000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241021T060000Z
+SUMMARY:Systemy Informacji Geograficznej GIS I (Projekt)
+UID:11f5209c-8858-4375-9ce9-7163f5d50370@11f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Patrycja Brańka
+DTEND:20241112T083000Z
+LOCATION:Paw.F 415
+DTSTART:20241112T070000Z
+SUMMARY:Strategie rozwoju regionalnego (Projekt)
+UID:25888eca-765e-4d59-b141-c4fe64319a56@2588.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Patrycja Brańka
+DTEND:20250107T083000Z
+LOCATION:Paw.F 415
+DTSTART:20250107T070000Z
+SUMMARY:Strategie rozwoju regionalnego (Projekt)
+UID:6223b842-715a-4651-902d-c9d970fc16fd@6223.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241016T124500Z
+LOCATION:Paw.F 109
+DTSTART:20241016T111500Z
+SUMMARY:Projektowanie urbanistyczne I (wykład)
+UID:df752f32-be05-494a-84b8-3858eedbf17d@df75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20241022T180000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241022T163000Z
+SUMMARY:Projektowanie systemów transportowych (Projekt)
+UID:837a37b9-7fc5-46a8-8f14-fca9bc78cb17@837a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Patrycja Brańka
+DTEND:20241119T083000Z
+LOCATION:Paw.F 415
+DTSTART:20241119T070000Z
+SUMMARY:Strategie rozwoju regionalnego (Projekt)
+UID:78b1c0bb-9182-4789-abdd-d7aa6367d7c4@78b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20241203T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241203T121500Z
+SUMMARY:Projektowanie systemów transportowych (wykład do wyboru)
+UID:9905f05c-72e5-446d-9256-3a9610fb2b42@9905.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241016T161500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241016T144500Z
+SUMMARY:Budownictwo (Projekt)
+UID:be532a7f-b77e-4d06-9e93-d2526fa8d57f@be53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Małkowska
+DTEND:20241203T153000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241203T140000Z
+SUMMARY:Podstawy wyceny i gospodarki nieruchomościami (ćwiczenia do wyboru)
+UID:1c31499d-cff4-4098-8cf8-2edb76670965@1c31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241009T161500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241009T144500Z
+SUMMARY:Budownictwo (Projekt)
+UID:3a3e3e5e-ebff-4e04-bc8d-fcb9844d06bb@3a3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241016T110000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241016T093000Z
+SUMMARY:Budownictwo (Projekt)
+UID:5f410657-6918-4d8b-ab68-796edf86c197@5f41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20241015T124500Z
+LOCATION:Paw.F 104
+DTSTART:20241015T120000Z
+SUMMARY:Podstawy wyceny i gospodarki nieruchomościami (wykład do wyboru)
+UID:5f155332-5140-491b-8c66-11791b7100fd@5f15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20241126T101500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241126T084500Z
+SUMMARY:Projektowanie urbanistyczne I (Projekt)
+UID:99d56284-8b71-4c67-866d-de0dfc47e561@99d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20250115T153000Z
+LOCATION:Paw.S sala 6
+DTSTART:20250115T140000Z
+SUMMARY:Podstawy wyceny i gospodarki nieruchomościami (wykład do wyboru)
+UID:47ae1b1f-91ed-4a0a-bcad-9b25f4e27425@47ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20241009T073000Z
+LOCATION:Paw.F 109
+DTSTART:20241009T060000Z
+SUMMARY:Strategie rozwoju regionalnego (wykład)
+UID:aea6960c-0294-402e-a20d-e9d537e6a3e1@aea6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Musiał-Malago
+DTEND:20250108T083000Z
+LOCATION:Paw.F 109
+DTSTART:20250108T070000Z
+SUMMARY:Strategie rozwoju regionalnego (wykład)
+UID:0d5f8321-f65b-40a0-9891-4796431d0f39@0d5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241021T091500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241021T074500Z
+SUMMARY:Zasady projektowania inżynierskiego (Projekt)
+UID:7e8e4114-c408-4dbf-a16e-b64f2a37cdcd@7e8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Małkowska
+DTEND:20250121T153000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20250121T140000Z
+SUMMARY:Podstawy wyceny i gospodarki nieruchomościami (ćwiczenia do wyboru)
+UID:e0ef73d2-844f-4207-a0d0-0066265c64cb@e0ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Węgrzynowicz
+DTEND:20241119T190000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241119T173000Z
+SUMMARY:Projektowanie systemów transportowych (Projekt)
+UID:d242d069-47f9-4fb9-bc40-80b8ac62129c@d242.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Małkowska
+DTEND:20250107T153000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20250107T140000Z
+SUMMARY:Podstawy wyceny i gospodarki nieruchomościami (ćwiczenia do wyboru)
+UID:bb068d66-6b81-46b5-ac5e-685e23afe2a0@bb06.org
+END:VEVENT
+END:VCALENDAR

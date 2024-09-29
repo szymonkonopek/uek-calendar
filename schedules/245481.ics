@@ -1,0 +1,626 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20241210T083000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241210T070000Z
+SUMMARY:Analiza danych biznesowych w MS Excel i Power BI (konwersatorium)
+UID:09e1519b-ea2b-4825-af98-3760fbdb1c34@09e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Niedzielski
+DTEND:20241118T153000Z
+LOCATION:Paw.F 415
+DTSTART:20241118T140000Z
+SUMMARY:Globalne centra biznesu (konwersatorium)
+UID:b3434bae-e892-460c-a20d-210fa8290edb@b343.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Machaczka
+DTEND:20241119T101500Z
+LOCATION:Paw.C sala D
+DTSTART:20241119T084500Z
+SUMMARY:Analiza rozwoju organizacji międzynarodowych (konwersatorium)
+UID:e35a1731-9b0e-46a4-8e07-e3cbbd39a0f5@e35a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Niedzielski
+DTEND:20241021T143000Z
+LOCATION:Paw.F 415
+DTSTART:20241021T130000Z
+SUMMARY:Globalne centra biznesu (konwersatorium)
+UID:a26a992e-7ab8-4eff-b32a-d15527f2541d@a26a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20241216T101500Z
+LOCATION:Paw.F 613
+DTSTART:20241216T084500Z
+SUMMARY:Wpływ zmian klimatu na gospodarkę globalną (konwersatorium)
+UID:02da8d75-a35d-4ff8-b1d6-5564a4fa9c2c@02da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20241203T083000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241203T070000Z
+SUMMARY:Analiza danych biznesowych w MS Excel i Power BI (konwersatorium)
+UID:e7670dd8-9a82-48a3-ba3b-2c4e71863f37@e767.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20241112T083000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241112T070000Z
+SUMMARY:Analiza danych biznesowych w MS Excel i Power BI (konwersatorium)
+UID:c7035084-0222-472a-9823-ba43ead89f08@c703.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Niedzielski
+DTEND:20250121T101500Z
+LOCATION:Paw.A 301b
+DTSTART:20250121T084500Z
+SUMMARY:Globalne centra biznesu (konwersatorium)
+UID:a7c42c3d-a440-4e19-a660-fa03485c876a@a7c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Machaczka
+DTEND:20241203T101500Z
+LOCATION:Paw.C sala D
+DTSTART:20241203T084500Z
+SUMMARY:Analiza rozwoju organizacji międzynarodowych (konwersatorium)
+UID:18261f06-7a20-4fa1-b995-c6504c1c4402@1826.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
+DTEND:20241129T100000Z
+LOCATION:link do zajęć
+DTSTART:20241129T074500Z
+SUMMARY:Design thinking w rozwoju międzynarodowego biznesu (wykład do wyboru)
+UID:120268b7-d8a0-48a5-97dd-4bcca2a32c13@1202.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Niedzielski
+DTEND:20241014T143000Z
+LOCATION:Paw.F 415
+DTSTART:20241014T130000Z
+SUMMARY:Globalne centra biznesu (konwersatorium)
+UID:c0c94846-89ff-4003-beb4-f5a49a050668@c0c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Machaczka
+DTEND:20241126T101500Z
+LOCATION:Paw.C sala D
+DTSTART:20241126T084500Z
+SUMMARY:Analiza rozwoju organizacji międzynarodowych (konwersatorium)
+UID:9f7cb98d-1c09-406d-9c2f-4c4e2f748709@9f7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20241021T091500Z
+LOCATION:Paw.F 613
+DTSTART:20241021T074500Z
+SUMMARY:Wpływ zmian klimatu na gospodarkę globalną (konwersatorium)
+UID:0c10dee2-acdf-4e37-b02f-559c6b8c9e1b@0c10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20241001T110000Z
+LOCATION:Paw.F 516
+DTSTART:20241001T101500Z
+SUMMARY:Wpływ zmian klimatu na gospodarkę globalną (konwersatorium)
+UID:81200b9e-4da4-4bae-8088-aac5efbd45f9@8120.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Markiewicz
+DTEND:20241104T134500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241104T121500Z
+SUMMARY:Fuzje i przejęcia (konwersatorium)
+UID:a0920762-ba88-4bde-920f-504437ed7436@a092.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20250107T083000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250107T070000Z
+SUMMARY:Analiza danych biznesowych w MS Excel i Power BI (konwersatorium)
+UID:344c2b15-dbfe-437a-8711-ded2a9c00b4f@344c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
+DTEND:20241213T100000Z
+LOCATION:link do zajęć
+DTSTART:20241213T074500Z
+SUMMARY:Design thinking w rozwoju międzynarodowego biznesu (wykład do wyboru)
+UID:218ab910-30b1-4b67-90bf-82898771cc48@218a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Markiewicz
+DTEND:20250113T134500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250113T121500Z
+SUMMARY:Fuzje i przejęcia (konwersatorium)
+UID:701b6a75-9966-4529-b159-98678fa708ef@701b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20250113T101500Z
+LOCATION:Paw.F 613
+DTSTART:20250113T084500Z
+SUMMARY:Wpływ zmian klimatu na gospodarkę globalną (konwersatorium)
+UID:2b987698-e4f6-4806-8464-cb6713ac3ae7@2b98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Markiewicz
+DTEND:20250120T134500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250120T121500Z
+SUMMARY:Fuzje i przejęcia (konwersatorium)
+UID:6457c2dd-ee2b-440d-94d4-821ec1711964@6457.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20241202T101500Z
+LOCATION:Paw.F 613
+DTSTART:20241202T084500Z
+SUMMARY:Wpływ zmian klimatu na gospodarkę globalną (konwersatorium)
+UID:b6f1503d-a84c-415e-9cb2-7a71f80c80ea@b6f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20241119T083000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241119T070000Z
+SUMMARY:Analiza danych biznesowych w MS Excel i Power BI (konwersatorium)
+UID:deb1675c-2964-420a-b88e-e0bede4c61b8@deb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Markiewicz
+DTEND:20241202T134500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241202T121500Z
+SUMMARY:Fuzje i przejęcia (konwersatorium)
+UID:0be3feae-1975-4f07-8c1f-bdfe3a8f4b75@0be3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20241105T083000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241105T070000Z
+SUMMARY:Analiza danych biznesowych w MS Excel i Power BI (konwersatorium)
+UID:1b80c5e2-0374-44bd-83c4-c8f97f01fdc6@1b80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20241104T101500Z
+LOCATION:Paw.F 613
+DTSTART:20241104T084500Z
+SUMMARY:Wpływ zmian klimatu na gospodarkę globalną (konwersatorium)
+UID:339cd4aa-4417-47dd-8001-550d529b5d33@339c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Machaczka
+DTEND:20241015T091500Z
+LOCATION:Paw.C sala D
+DTSTART:20241015T074500Z
+SUMMARY:Analiza rozwoju organizacji międzynarodowych (konwersatorium)
+UID:5f12e10f-64ed-4eb8-9e6b-4d5fde459668@5f12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Markiewicz
+DTEND:20241211T153000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241211T140000Z
+SUMMARY:Fuzje i przejęcia (konwersatorium)
+UID:68734669-a7b2-433d-af5b-a0a4fe800526@6873.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Niedzielski
+DTEND:20250107T120000Z
+LOCATION:L 525 Ustr.
+DTSTART:20250107T103000Z
+SUMMARY:Globalne centra biznesu (konwersatorium)
+UID:5e335b2e-3baf-4166-aa87-086bbcaba98c@5e33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20241007T091500Z
+LOCATION:Paw.F 613
+DTSTART:20241007T074500Z
+SUMMARY:Wpływ zmian klimatu na gospodarkę globalną (konwersatorium)
+UID:d5262ef9-1977-456c-9e38-4710505600d2@d526.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Markiewicz
+DTEND:20241014T124500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241014T111500Z
+SUMMARY:Fuzje i przejęcia (konwersatorium)
+UID:72f60536-2482-4915-b165-c9416eb94e88@72f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Niedzielski
+DTEND:20241028T153000Z
+LOCATION:Paw.F 415
+DTSTART:20241028T140000Z
+SUMMARY:Globalne centra biznesu (konwersatorium)
+UID:5b3e8d2b-a170-4360-8909-be676f797afa@5b3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Machaczka
+DTEND:20241001T091500Z
+LOCATION:Paw.C sala D
+DTSTART:20241001T074500Z
+SUMMARY:Analiza rozwoju organizacji międzynarodowych (konwersatorium)
+UID:003fd045-2014-426c-84bb-a9bd2679a419@003f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Niedzielski
+DTEND:20241125T153000Z
+LOCATION:Paw.F 415
+DTSTART:20241125T140000Z
+SUMMARY:Globalne centra biznesu (konwersatorium)
+UID:a808c03f-0c04-4d04-9303-7fc1d6069179@a808.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20241217T083000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241217T070000Z
+SUMMARY:Analiza danych biznesowych w MS Excel i Power BI (konwersatorium)
+UID:659c4128-ce15-41a7-ba84-d4e75e063a61@659c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Machaczka
+DTEND:20241105T101500Z
+LOCATION:Paw.C sala D
+DTSTART:20241105T084500Z
+SUMMARY:Analiza rozwoju organizacji międzynarodowych (konwersatorium)
+UID:52589cb9-c1bb-4ca0-b79b-c23048ff41d5@5258.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
+DTEND:20241004T090000Z
+LOCATION:link do zajęć
+DTSTART:20241004T064500Z
+SUMMARY:Design thinking w rozwoju międzynarodowego biznesu (wykład do wyboru)
+UID:793584a1-7033-4c6a-9b93-86c3032bf533@7935.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: _1 Wakat Zarz. Międzynarod
+DTEND:20250113T120000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20250113T103000Z
+SUMMARY:International seminar (konwersatorium)
+UID:d68f4edb-bf33-475d-97c3-b717f0df6c7c@d68f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Markiewicz
+DTEND:20241007T124500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241007T111500Z
+SUMMARY:Fuzje i przejęcia (konwersatorium)
+UID:6eb41804-4d67-4f61-94db-3963471683e3@6eb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Niedzielski
+DTEND:20241209T153000Z
+LOCATION:Paw.F 415
+DTSTART:20241209T140000Z
+SUMMARY:Globalne centra biznesu (konwersatorium)
+UID:7ecdefa8-d938-4641-bc7b-3e7a1ce0fc5b@7ecd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20241126T083000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241126T070000Z
+SUMMARY:Analiza danych biznesowych w MS Excel i Power BI (konwersatorium)
+UID:6190ce5f-4d3f-49aa-a04e-2b71abdbfcfc@6190.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Machaczka
+DTEND:20241112T101500Z
+LOCATION:Paw.C sala D
+DTSTART:20241112T084500Z
+SUMMARY:Analiza rozwoju organizacji międzynarodowych (konwersatorium)
+UID:149b1455-e286-4a2f-ac28-578e563f09b9@149b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
+DTEND:20241018T090000Z
+LOCATION:link do zajęć
+DTSTART:20241018T064500Z
+SUMMARY:Design thinking w rozwoju międzynarodowego biznesu (wykład do wyboru)
+UID:30ac594d-96e0-4259-b535-6cdc5d8785eb@30ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: _1 Wakat Zarz. Międzynarod
+DTEND:20241216T120000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241216T103000Z
+SUMMARY:International seminar (konwersatorium)
+UID:cc8131e4-cca5-4208-86b3-6950a55582d8@cc81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20241001T073000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241001T060000Z
+SUMMARY:Analiza danych biznesowych w MS Excel i Power BI (konwersatorium)
+UID:61b352cc-3c24-4974-94b9-d291d651c1d3@61b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Machaczka
+DTEND:20241022T091500Z
+LOCATION:Paw.C sala D
+DTSTART:20241022T074500Z
+SUMMARY:Analiza rozwoju organizacji międzynarodowych (konwersatorium)
+UID:b0573320-8200-4353-becd-c8ffcb026ad1@b057.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Niedzielski
+DTEND:20250120T153000Z
+LOCATION:Paw.F 415
+DTSTART:20250120T140000Z
+SUMMARY:Globalne centra biznesu (konwersatorium)
+UID:82136d57-09e8-4a50-a65c-4dfe7b1e11a1@8213.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Niedzielski
+DTEND:20250113T153000Z
+LOCATION:Paw.F 415
+DTSTART:20250113T140000Z
+SUMMARY:Globalne centra biznesu (konwersatorium)
+UID:439c7852-bdb3-499c-986f-cb952a76d891@439c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Markiewicz
+DTEND:20241021T124500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241021T111500Z
+SUMMARY:Fuzje i przejęcia (konwersatorium)
+UID:8747a18d-89f7-43f2-9658-fa168714c727@8747.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20241029T083000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241029T070000Z
+SUMMARY:Analiza danych biznesowych w MS Excel i Power BI (konwersatorium)
+UID:9b7ea5f3-1a4d-4981-aa95-b8a6f7825b82@9b7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Niedzielski
+DTEND:20241202T153000Z
+LOCATION:Paw.F 415
+DTSTART:20241202T140000Z
+SUMMARY:Globalne centra biznesu (konwersatorium)
+UID:c70ab44c-83f6-4a74-9832-f1015f684b14@c70a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20250121T083000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250121T070000Z
+SUMMARY:Analiza danych biznesowych w MS Excel i Power BI (konwersatorium)
+UID:61949a71-66db-4bcf-ba47-b6eec64ae5e3@6194.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: _1 Wakat Zarz. Międzynarod
+DTEND:20241007T110000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241007T093000Z
+SUMMARY:International seminar (konwersatorium)
+UID:fc44ec26-7c2d-41a8-88be-ebc082ec0614@fc44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Markiewicz
+DTEND:20241216T134500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241216T121500Z
+SUMMARY:Fuzje i przejęcia (konwersatorium)
+UID:2c80b59b-fa9e-4460-97fc-e2acc6555d9a@2c80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Niedzielski
+DTEND:20241216T153000Z
+LOCATION:Paw.F 415
+DTSTART:20241216T140000Z
+SUMMARY:Globalne centra biznesu (konwersatorium)
+UID:fa19938f-4f33-4edc-bd16-cf45e2a406f6@fa19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20241008T073000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241008T060000Z
+SUMMARY:Analiza danych biznesowych w MS Excel i Power BI (konwersatorium)
+UID:e7f5808e-1deb-4a90-b6ce-85ef44782aa2@e7f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20241022T073000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241022T060000Z
+SUMMARY:Analiza danych biznesowych w MS Excel i Power BI (konwersatorium)
+UID:c602a5f4-982b-420c-8a32-ddbb91da5eb3@c602.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: _1 Wakat Zarz. Międzynarod
+DTEND:20241202T120000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241202T103000Z
+SUMMARY:International seminar (konwersatorium)
+UID:df062b12-ffb5-4b57-b6bb-6c518cdb7d18@df06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: _1 Wakat Zarz. Międzynarod
+DTEND:20241021T110000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241021T093000Z
+SUMMARY:International seminar (konwersatorium)
+UID:b2eb4fc1-c97f-4ae5-b380-63d4e069abe8@b2eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:ba9ea956-491a-4486-b175-fa6c8ab7e8b5@ba9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20250114T083000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250114T070000Z
+SUMMARY:Analiza danych biznesowych w MS Excel i Power BI (konwersatorium)
+UID:2363f4c5-8a4c-4153-b926-d1cfd46d81c4@2363.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Markiewicz
+DTEND:20241028T134500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241028T121500Z
+SUMMARY:Fuzje i przejęcia (konwersatorium)
+UID:b8aae5c3-d797-4da3-8eb9-a114df5adb6b@b8aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Markiewicz
+DTEND:20241118T134500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241118T121500Z
+SUMMARY:Fuzje i przejęcia (konwersatorium)
+UID:b92d5b6b-f34f-42d7-bb20-301f5adc3e72@b92d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:3abdbcad-9a9c-4156-9591-931583b629b1@3abd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: _1 Wakat Zarz. Międzynarod
+DTEND:20241104T120000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241104T103000Z
+SUMMARY:International seminar (konwersatorium)
+UID:b037f716-0b45-4e22-8c91-2870f834b382@b037.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Markiewicz
+DTEND:20250123T190000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20250123T173000Z
+SUMMARY:Fuzje i przejęcia (konwersatorium)
+UID:551f0081-2932-4c5c-b48c-eec6931af451@551f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: _1 Wakat Zarz. Międzynarod
+DTEND:20250120T120000Z
+LOCATION:Paw.G  9
+DTSTART:20250120T111500Z
+SUMMARY:International seminar (konwersatorium)
+UID:050230bc-a988-4fe5-bdea-0240d7ec19a2@0502.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
+DTEND:20241115T100000Z
+LOCATION:link do zajęć
+DTSTART:20241115T074500Z
+SUMMARY:Design thinking w rozwoju międzynarodowego biznesu (wykład do wyboru)
+UID:6fe7a668-d87b-493f-83f6-cab38bf17f86@6fe7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Markiewicz
+DTEND:20241209T134500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241209T121500Z
+SUMMARY:Fuzje i przejęcia (konwersatorium)
+UID:28e48033-0a01-467e-a855-eea01611f5fa@28e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Niedzielski
+DTEND:20241210T120000Z
+LOCATION:L 525 Ustr.
+DTSTART:20241210T103000Z
+SUMMARY:Globalne centra biznesu (konwersatorium)
+UID:a85475b0-d5c7-4d29-8447-c09a5176fbf8@a854.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Markiewicz
+DTEND:20241125T134500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241125T121500Z
+SUMMARY:Fuzje i przejęcia (konwersatorium)
+UID:6517bf15-b34c-4d6f-b422-c7a6921b4e67@6517.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Patryk Stawiarski
+DTEND:20241015T073000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241015T060000Z
+SUMMARY:Analiza danych biznesowych w MS Excel i Power BI (konwersatorium)
+UID:bebf9093-cc53-49e5-bee5-4ac34970acbf@bebf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: _1 Wakat Zarz. Międzynarod
+DTEND:20241118T120000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241118T103000Z
+SUMMARY:International seminar (konwersatorium)
+UID:ebf74b43-36f7-4384-a626-2aeae4069f35@ebf7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Niedzielski
+DTEND:20241007T143000Z
+LOCATION:Paw.F 415
+DTSTART:20241007T130000Z
+SUMMARY:Globalne centra biznesu (konwersatorium)
+UID:ef0e4b5b-f9bb-42e1-a842-cb386ebf0d25@ef0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Machaczka
+DTEND:20241008T091500Z
+LOCATION:Paw.C sala D
+DTSTART:20241008T074500Z
+SUMMARY:Analiza rozwoju organizacji międzynarodowych (konwersatorium)
+UID:11a44689-c7e7-4842-8ba5-75e788dc7ae9@11a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Machaczka
+DTEND:20241029T101500Z
+LOCATION:Paw.C sala D
+DTSTART:20241029T084500Z
+SUMMARY:Analiza rozwoju organizacji międzynarodowych (konwersatorium)
+UID:57fdfb15-ac64-43ae-bbdb-919931d4a746@57fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bartosz Niedzielski
+DTEND:20241104T153000Z
+LOCATION:Paw.F 415
+DTSTART:20241104T140000Z
+SUMMARY:Globalne centra biznesu (konwersatorium)
+UID:54406098-8c80-4b1f-89f1-0d5cb9b41477@5440.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Markiewicz
+DTEND:20250116T171500Z
+LOCATION:Paw.U sala K
+DTSTART:20250116T154500Z
+SUMMARY:Fuzje i przejęcia (konwersatorium)
+UID:12de9dbb-82a2-4c78-ab62-121e743f5650@12de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ksymena Rosiek
+DTEND:20241118T101500Z
+LOCATION:Paw.F 613
+DTSTART:20241118T084500Z
+SUMMARY:Wpływ zmian klimatu na gospodarkę globalną (konwersatorium)
+UID:bec0fa20-99e0-4437-845d-a4502c28b627@bec0.org
+END:VEVENT
+END:VCALENDAR

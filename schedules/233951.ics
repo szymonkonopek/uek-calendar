@@ -1,0 +1,938 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Szymańska
+DTEND:20241202T120000Z
+LOCATION:Paw.G - 1
+DTSTART:20241202T103000Z
+SUMMARY:Instytucje rynkowe (ćwiczenia)
+UID:1e2a3a4c-75aa-424d-b3b7-ee3254488b32@1e2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20241217T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241217T140000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:3f603103-c258-4e1c-b5c0-f63e6826fa3c@3f60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
+DTEND:20241024T124500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241024T111500Z
+SUMMARY:Behawioralne aspekty decyzji finansowych (wykład do wyboru)
+UID:b9e68ae3-d3f6-4564-a50e-5583dc250f04@b9e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20250115T134500Z
+LOCATION:Paw.S sala 3
+DTSTART:20250115T121500Z
+SUMMARY:Etykieta menedżera (wykład do wyboru)
+UID:72dbe58c-0219-4680-b969-318e9888d284@72db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
+DTEND:20241017T124500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241017T111500Z
+SUMMARY:Behawioralne aspekty decyzji finansowych (wykład do wyboru)
+UID:200b2239-098f-4bfd-bbcd-f694e94716f2@200b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241211T083000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241211T070000Z
+SUMMARY:Zarządzanie środowiskowe w organizacjach (wykład do wyboru)
+UID:76156e17-b47d-4b7b-bb60-d5dfc6199821@7615.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Bartusik
+DTEND:20241106T120000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241106T103000Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:2b498cba-0538-48f9-b529-9cdb42c02796@2b49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Bartusik
+DTEND:20250108T120000Z
+LOCATION:Paw.S sala 7
+DTSTART:20250108T103000Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:c8cbbe4c-c113-4811-a922-5f5e2a4755a5@c8cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241030T134500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241030T121500Z
+SUMMARY:Etykieta menedżera (wykład do wyboru)
+UID:e2ce2a80-d90c-4292-b164-9d4e128ffe53@e2ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
+DTEND:20241212T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241212T121500Z
+SUMMARY:Behawioralne aspekty decyzji finansowych (wykład do wyboru)
+UID:b7a6076c-2aa1-4c43-b0fc-de00583b3331@b7a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20241112T120000Z
+LOCATION:Paw.F 008
+DTSTART:20241112T103000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:93f02bbd-51a9-4f83-9ed1-b60abeda1dc7@93f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
+DTEND:20241031T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241031T121500Z
+SUMMARY:Behawioralne aspekty decyzji finansowych (wykład do wyboru)
+UID:7ff2159e-9494-42f7-ac0b-ec0fcf6f45d7@7ff2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241113T083000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241113T070000Z
+SUMMARY:Zarządzanie środowiskowe w organizacjach (wykład do wyboru)
+UID:20b26040-7626-44e1-8909-a3e7076d1d1a@20b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Szymańska
+DTEND:20241104T120000Z
+LOCATION:Paw.G - 1
+DTSTART:20241104T103000Z
+SUMMARY:Instytucje rynkowe (ćwiczenia)
+UID:4730c002-2d20-4d94-afc3-d640817bbff5@4730.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20241113T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241113T140000Z
+SUMMARY:Zarządzanie projektem finansowanym społecznościowo (wykład do wyboru)
+UID:ef4894a5-8de1-4563-85db-6e0a6462b323@ef48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Bartusik
+DTEND:20241127T120000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241127T103000Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:5b776fe4-eb6a-4aad-9deb-4217bf032312@5b77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
+DTEND:20241121T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241121T121500Z
+SUMMARY:Behawioralne aspekty decyzji finansowych (wykład do wyboru)
+UID:b78f20b1-301e-4112-8a58-b0b4372e0ad6@b78f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
+DTEND:20241118T171500Z
+LOCATION:Paw.S sala 5
+DTSTART:20241118T154500Z
+SUMMARY:Behawioralne aspekty decyzji finansowych (wykład do wyboru)
+UID:0b1975a7-caef-45ce-9981-d59585dbb212@0b19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20241106T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241106T140000Z
+SUMMARY:Zarządzanie projektem finansowanym społecznościowo (wykład do wyboru)
+UID:3dccf0b8-7a62-4c6c-8bf1-f4291959d914@3dcc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20250121T171500Z
+LOCATION:Paw.C sala F
+DTSTART:20250121T163000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:d4b6d6b1-5957-4c8b-9a02-fe240b2bd487@d4b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
+DTEND:20241107T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241107T121500Z
+SUMMARY:Behawioralne aspekty decyzji finansowych (wykład do wyboru)
+UID:ac5f4996-cbea-42b5-9c64-790cf8e581af@ac5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20241009T143000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241009T130000Z
+SUMMARY:Zarządzanie projektem finansowanym społecznościowo (wykład do wyboru)
+UID:9d4a0dfe-2144-4bfb-a265-6689ca8248d7@9d4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20250116T171500Z
+LOCATION:Paw.S sala 3
+DTSTART:20250116T154500Z
+SUMMARY:Zarządzanie środowiskowe w organizacjach (wykład do wyboru)
+UID:775f39bd-ebed-497c-b844-c92e144bedb3@775f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
+DTEND:20241205T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241205T121500Z
+SUMMARY:Behawioralne aspekty decyzji finansowych (wykład do wyboru)
+UID:0ce9081d-f697-46f4-97cc-6656a016b204@0ce9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241218T083000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241218T070000Z
+SUMMARY:Zarządzanie środowiskowe w organizacjach (wykład do wyboru)
+UID:c91f47f3-2433-46de-887c-c21680ab4da4@c91f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20250107T120000Z
+LOCATION:Paw.F 008
+DTSTART:20250107T103000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:748ef2fd-b197-401b-b265-59a621efae62@748e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20241016T143000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241016T130000Z
+SUMMARY:Zarządzanie projektem finansowanym społecznościowo (wykład do wyboru)
+UID:5e28f2bd-86d6-42a4-b0d9-9a57fecacc86@5e28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
+DTEND:20250109T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20250109T121500Z
+SUMMARY:Behawioralne aspekty decyzji finansowych (wykład do wyboru)
+UID:e5a7db75-5620-41d3-9d2d-e21491dd801f@e5a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Szymańska
+DTEND:20241021T110000Z
+LOCATION:Paw.G - 1
+DTSTART:20241021T093000Z
+SUMMARY:Instytucje rynkowe (ćwiczenia)
+UID:2d46d3d0-9655-4d94-8d53-7ebe35fb0eaf@2d46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20250121T111500Z
+LOCATION:Paw.F 008
+DTSTART:20250121T103000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:b1aa7cb3-6d4c-4714-aacc-04a44b55b0d6@b1aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241023T073000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241023T060000Z
+SUMMARY:Zarządzanie środowiskowe w organizacjach (wykład do wyboru)
+UID:5997e1fc-89d7-4e0e-9fea-8b455cae8bb3@5997.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Bartusik
+DTEND:20241218T120000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241218T103000Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:a1c138bc-1dec-4cfe-8bf5-d47d16886249@a1c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20241203T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241203T140000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:a258ffb1-ad83-4408-a8a0-f7626505d680@a258.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20241126T120000Z
+LOCATION:Paw.F 008
+DTSTART:20241126T103000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:949abb43-d4d0-4d1e-bb45-0ed58daad6ed@949a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
+DTEND:20241003T124500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241003T111500Z
+SUMMARY:Behawioralne aspekty decyzji finansowych (wykład do wyboru)
+UID:59365053-0daf-4055-b9d6-dca0b0a437f5@5936.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20241001T110000Z
+LOCATION:Paw.F 008
+DTSTART:20241001T093000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:3a12e995-81bd-40e0-b230-61f419f466e9@3a12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20241008T143000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241008T130000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:7cd2a8df-abb9-4fa5-8a78-70fb35d1a276@7cd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241023T124500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241023T111500Z
+SUMMARY:Etykieta menedżera (wykład do wyboru)
+UID:2da412e9-fbf2-4348-8478-38a7d479d3e2@2da4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Bartusik
+DTEND:20250115T120000Z
+LOCATION:Paw.S sala 7
+DTSTART:20250115T103000Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:b899b3b8-ba00-441f-ae8f-db9309c9555d@b899.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20241211T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241211T140000Z
+SUMMARY:Zarządzanie projektem finansowanym społecznościowo (wykład do wyboru)
+UID:0a9bba41-78a8-497e-9e6c-d7177bdc0ae8@0a9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:6ff0f808-e579-4aad-960e-0fb1cbce238f@6ff0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241016T073000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241016T060000Z
+SUMMARY:Zarządzanie środowiskowe w organizacjach (wykład do wyboru)
+UID:25915456-dee5-44b1-818c-e72710a550df@2591.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20250115T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20250115T140000Z
+SUMMARY:Zarządzanie projektem finansowanym społecznościowo (wykład do wyboru)
+UID:49dcb2dc-ab60-4fc3-8b3b-5a325de002eb@49dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20250120T171500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250120T154500Z
+SUMMARY:Zarządzanie projektem finansowanym społecznościowo (wykład do wyboru)
+UID:4fb65cc3-52e5-44b3-8b1c-d04f5ee20fb1@4fb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
+DTEND:20250116T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20250116T121500Z
+SUMMARY:Behawioralne aspekty decyzji finansowych (wykład do wyboru)
+UID:776c8f1e-80c4-4532-a29b-c028238da60c@776c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241009T124500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241009T111500Z
+SUMMARY:Etykieta menedżera (wykład do wyboru)
+UID:e66ab169-2535-4e18-863a-a21f7b2df116@e66a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Bartusik
+DTEND:20241204T120000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241204T103000Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:c15a81df-5be5-451e-91aa-4c4b7861adbd@c15a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20250115T083000Z
+LOCATION:Paw.S sala 4
+DTSTART:20250115T070000Z
+SUMMARY:Zarządzanie środowiskowe w organizacjach (wykład do wyboru)
+UID:6d4f4abe-9c68-4468-9a10-bca97165d43b@6d4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Bartusik
+DTEND:20241023T110000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241023T093000Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:5924b8e7-ee22-4e04-a353-fe83ecf5d45f@5924.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20241015T110000Z
+LOCATION:Paw.F 008
+DTSTART:20241015T093000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:9d031018-1102-4e3f-9a5e-8dfb924fae52@9d03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241211T134500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241211T121500Z
+SUMMARY:Etykieta menedżera (wykład do wyboru)
+UID:37e52ca4-aa0f-4865-8e1b-d176e5481348@37e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Szymańska
+DTEND:20250113T120000Z
+LOCATION:Paw.G - 1
+DTSTART:20250113T103000Z
+SUMMARY:Instytucje rynkowe (ćwiczenia)
+UID:98cd554e-98b4-4d6e-b1e6-add46310149e@98cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Czesław Mesjasz
+DTEND:20241126T134500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241126T121500Z
+SUMMARY:Negocjacje projektowe (wykład)
+UID:26843f00-5fab-4412-b2fc-c6cd27d85d6e@2684.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Plichta
+DTEND:20241112T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241112T140000Z
+SUMMARY:Instytucje rynkowe (wykład)
+UID:5010a7b9-e06b-4661-acef-4342bc66f7b7@5010.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241120T083000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241120T070000Z
+SUMMARY:Zarządzanie środowiskowe w organizacjach (wykład do wyboru)
+UID:e1b40b50-a5ae-40e3-ad5f-6fe45b013d53@e1b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241120T134500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241120T121500Z
+SUMMARY:Etykieta menedżera (wykład do wyboru)
+UID:9163b9cd-1430-4601-a85d-6bb5dbea26c9@9163.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Szymańska
+DTEND:20241118T120000Z
+LOCATION:Paw.G - 1
+DTSTART:20241118T103000Z
+SUMMARY:Instytucje rynkowe (ćwiczenia)
+UID:f444afbe-75b4-40da-80db-72a227928b5b@f444.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Bartusik
+DTEND:20250109T171500Z
+LOCATION:Paw.S sala 5
+DTSTART:20250109T154500Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:68340de6-e31e-4e58-8a6c-c0f2583959ed@6834.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
+DTEND:20241114T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241114T121500Z
+SUMMARY:Behawioralne aspekty decyzji finansowych (wykład do wyboru)
+UID:fd4db2fd-3800-466d-b0c1-bd18a5c4ab73@fd4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Bartusik
+DTEND:20241030T120000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241030T103000Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:0b436d75-2b89-482a-a221-d3ba7225d857@0b43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241127T083000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241127T070000Z
+SUMMARY:Zarządzanie środowiskowe w organizacjach (wykład do wyboru)
+UID:f7eaf9f2-faa8-42a1-bd53-fd2d1d9b94c1@f7ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
+DTEND:20241209T153000Z
+LOCATION:Paw.C sala D
+DTSTART:20241209T140000Z
+SUMMARY:Behawioralne aspekty decyzji finansowych (wykład do wyboru)
+UID:3b19af58-5bb1-4be5-99f5-b5db2afd9b79@3b19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20241218T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241218T140000Z
+SUMMARY:Zarządzanie projektem finansowanym społecznościowo (wykład do wyboru)
+UID:d6c75159-cf4b-4cd5-a871-e394cbc8d312@d6c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241106T134500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241106T121500Z
+SUMMARY:Etykieta menedżera (wykład do wyboru)
+UID:2fb43311-1bce-41d5-b31f-c21bbb5e2a40@2fb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Czesław Mesjasz
+DTEND:20250121T130000Z
+LOCATION:Paw.S sala 3
+DTSTART:20250121T121500Z
+SUMMARY:Negocjacje projektowe (wykład)
+UID:ae2f044d-aac6-4bfe-88f8-afd9512a3fe4@ae2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Czesław Mesjasz
+DTEND:20241001T124500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241001T111500Z
+SUMMARY:Negocjacje projektowe (wykład)
+UID:d0379f93-0c7c-4bdd-8a29-5b828d38bd2a@d037.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20241119T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241119T140000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:0e4e59f2-bac4-4a55-b832-bae486efbc1a@0e4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20250122T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20250122T140000Z
+SUMMARY:Zarządzanie projektem finansowanym społecznościowo (wykład do wyboru)
+UID:b52498a7-904b-4d8a-a1ab-5ad3e15e38ef@b524.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:cdd37568-7335-4fcb-9e69-76de71762063@cdd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Czesław Mesjasz
+DTEND:20241112T134500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241112T121500Z
+SUMMARY:Negocjacje projektowe (wykład)
+UID:5c80533d-c140-4027-9501-a0e819b117d0@5c80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Plichta
+DTEND:20241015T143000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241015T130000Z
+SUMMARY:Instytucje rynkowe (wykład)
+UID:5a51d05c-bacc-4dcd-adb5-9d3cc10b1b3d@5a51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241218T134500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241218T121500Z
+SUMMARY:Etykieta menedżera (wykład do wyboru)
+UID:807de7ab-3170-4bc9-82e2-ccb86f3b4b8c@807d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Czesław Mesjasz
+DTEND:20241210T134500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241210T121500Z
+SUMMARY:Negocjacje projektowe (wykład)
+UID:abe1127e-1b08-4f10-a46c-34e84db724b1@abe1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20250114T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20250114T140000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:dcd5c04f-258c-4c51-8b45-ee53b9ea3dbb@dcd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
+DTEND:20250123T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20250123T121500Z
+SUMMARY:Behawioralne aspekty decyzji finansowych (wykład do wyboru)
+UID:876c54e1-076f-4cfe-a0d3-a0153891fbae@876c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241113T134500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241113T121500Z
+SUMMARY:Etykieta menedżera (wykład do wyboru)
+UID:b71b7ed3-23cf-4b26-9725-c96748a81319@b71b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Bartusik
+DTEND:20250122T120000Z
+LOCATION:Paw.S sala 7
+DTSTART:20250122T103000Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:e142b3d9-1c8a-4d9f-bb30-0bf226d43772@e142.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20241029T120000Z
+LOCATION:Paw.F 008
+DTSTART:20241029T103000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:3e7dfe2b-fb3a-4108-ae2c-43d280cb9fae@3e7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241030T083000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241030T070000Z
+SUMMARY:Zarządzanie środowiskowe w organizacjach (wykład do wyboru)
+UID:ad83e061-37d0-4613-9c66-dddc9ec28d5c@ad83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241204T083000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241204T070000Z
+SUMMARY:Zarządzanie środowiskowe w organizacjach (wykład do wyboru)
+UID:5909dff4-d8c0-410e-8e4d-d07da5c6e575@5909.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241106T083000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241106T070000Z
+SUMMARY:Zarządzanie środowiskowe w organizacjach (wykład do wyboru)
+UID:b7825fa5-e20a-438f-a914-89a8ac45d0ea@b782.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Plichta
+DTEND:20241210T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241210T140000Z
+SUMMARY:Instytucje rynkowe (wykład)
+UID:754275b0-eb65-4a1a-ae44-91eb95c16a81@7542.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20241105T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241105T140000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:f1c1bb46-1295-43fd-be10-112b02b92f78@f1c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Plichta
+DTEND:20241126T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241126T140000Z
+SUMMARY:Instytucje rynkowe (wykład)
+UID:70e245d9-4eb7-4668-94ed-f571bd9447d3@70e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20241127T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241127T140000Z
+SUMMARY:Zarządzanie projektem finansowanym społecznościowo (wykład do wyboru)
+UID:3a22d463-d783-4461-8601-d52d85451ce1@3a22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Bartusik
+DTEND:20241016T110000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241016T093000Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:67de40e3-1a6c-4498-a5f4-29f395e2a2f5@67de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241016T124500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241016T111500Z
+SUMMARY:Etykieta menedżera (wykład do wyboru)
+UID:33b3ad87-826b-47af-a18c-f9228573a676@33b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Bartusik
+DTEND:20241113T120000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241113T103000Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:6de30474-4fb7-435b-9051-742298a4020a@6de3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Szymańska
+DTEND:20241216T120000Z
+LOCATION:Paw.G - 1
+DTSTART:20241216T103000Z
+SUMMARY:Instytucje rynkowe (ćwiczenia)
+UID:493e22fb-5c5f-4d69-94f5-fc7d86dcbc22@493e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20241023T143000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241023T130000Z
+SUMMARY:Zarządzanie projektem finansowanym społecznościowo (wykład do wyboru)
+UID:18fb6b41-4ed1-47dd-860b-d9e27d0e4142@18fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20241030T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241030T140000Z
+SUMMARY:Zarządzanie projektem finansowanym społecznościowo (wykład do wyboru)
+UID:adb3cccd-6a8a-4472-b624-0629ea888b27@adb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20250122T134500Z
+LOCATION:Paw.S sala 3
+DTSTART:20250122T121500Z
+SUMMARY:Etykieta menedżera (wykład do wyboru)
+UID:4cb40c75-38e7-441c-9b5a-746d13dfea56@4cb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20250108T083000Z
+LOCATION:Paw.S sala 4
+DTSTART:20250108T070000Z
+SUMMARY:Zarządzanie środowiskowe w organizacjach (wykład do wyboru)
+UID:38f00b4c-8b5a-4e08-89e5-a636948f28cc@38f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241127T134500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241127T121500Z
+SUMMARY:Etykieta menedżera (wykład do wyboru)
+UID:a8ce9c78-baa1-4dbf-8cad-324598ac766a@a8ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Adamczyk-Kowalczuk
+DTEND:20241128T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241128T121500Z
+SUMMARY:Behawioralne aspekty decyzji finansowych (wykład do wyboru)
+UID:c07bd822-eefa-4347-b86c-9069da51a444@c07b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Czesław Mesjasz
+DTEND:20241015T124500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241015T111500Z
+SUMMARY:Negocjacje projektowe (wykład)
+UID:8e4f85f2-c021-4e2c-8387-d3e45b0ad72c@8e4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Bartusik
+DTEND:20241211T120000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241211T103000Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:2d790310-1494-48db-959e-b4d155f9fcb2@2d79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Czesław Mesjasz
+DTEND:20241029T134500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241029T121500Z
+SUMMARY:Negocjacje projektowe (wykład)
+UID:b5bbf5f5-dd00-4196-85fd-2788af4c7856@b5bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Plichta
+DTEND:20250107T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20250107T140000Z
+SUMMARY:Instytucje rynkowe (wykład)
+UID:95682fac-e500-4782-b1d5-eb0c42062345@9568.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Bartusik
+DTEND:20241009T110000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241009T093000Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:1dfc3fb9-048a-4976-ab72-3e956fc61032@1dfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Plichta
+DTEND:20241029T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241029T140000Z
+SUMMARY:Instytucje rynkowe (wykład)
+UID:df0c63b3-c6ff-4550-ab85-b8e160a3b752@df0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241009T073000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241009T060000Z
+SUMMARY:Zarządzanie środowiskowe w organizacjach (wykład do wyboru)
+UID:12f7c434-9cc7-4fa9-a943-dae272f0d257@12f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Plichta
+DTEND:20250121T144500Z
+LOCATION:Paw.S sala 2
+DTSTART:20250121T140000Z
+SUMMARY:Instytucje rynkowe (wykład)
+UID:3a416e29-e6d5-408f-96fe-0457aa57a9dc@3a41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20250108T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20250108T140000Z
+SUMMARY:Zarządzanie projektem finansowanym społecznościowo (wykład do wyboru)
+UID:80e35404-59ec-4c70-8a1d-d06f1e2d3c38@80e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Szymańska
+DTEND:20241007T110000Z
+LOCATION:Paw.G - 1
+DTSTART:20241007T093000Z
+SUMMARY:Instytucje rynkowe (ćwiczenia)
+UID:3e493041-2766-4b22-90d1-c7e6c6068e5f@3e49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241219T120000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241219T103000Z
+SUMMARY:Etykieta menedżera (wykład do wyboru)
+UID:4b54b998-44b4-49c6-97d1-3ddf74d52071@4b54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Plichta
+DTEND:20241001T143000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241001T130000Z
+SUMMARY:Instytucje rynkowe (wykład)
+UID:6bf3c0ca-23d0-4ee0-b5b2-b2f7fc932ee7@6bf3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20241210T120000Z
+LOCATION:Paw.F 008
+DTSTART:20241210T103000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:7bf16ed8-4a45-4b82-bf3c-504b8015b80e@7bf1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Szymańska
+DTEND:20250120T153000Z
+LOCATION:Bud.gł. 6
+DTSTART:20250120T144500Z
+SUMMARY:Instytucje rynkowe (ćwiczenia)
+UID:4e16df60-8b28-406a-8e8f-362d97d76b44@4e16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Czesław Mesjasz
+DTEND:20250107T134500Z
+LOCATION:Paw.S sala 3
+DTSTART:20250107T121500Z
+SUMMARY:Negocjacje projektowe (wykład)
+UID:236d574e-30bd-48db-85ea-093ff45f4779@236d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Bartusik
+DTEND:20241120T120000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241120T103000Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:8b11ca4d-22c6-459d-bd43-74be76206ad0@8b11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241204T134500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241204T121500Z
+SUMMARY:Etykieta menedżera (wykład do wyboru)
+UID:97d55ee3-6dbf-4960-b27c-c62d7166d52e@97d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20250122T083000Z
+LOCATION:Paw.S sala 4
+DTSTART:20250122T070000Z
+SUMMARY:Zarządzanie środowiskowe w organizacjach (wykład do wyboru)
+UID:d6e4b97e-fa0a-4a56-accc-cc23f6822c3a@d6e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20241022T143000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241022T130000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:6f47adb2-fef8-45dc-8a06-9b94768e24e5@6f47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20250108T134500Z
+LOCATION:Paw.S sala 3
+DTSTART:20250108T121500Z
+SUMMARY:Etykieta menedżera (wykład do wyboru)
+UID:f41eab73-7241-4326-b508-834a47350de9@f41e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20241204T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241204T140000Z
+SUMMARY:Zarządzanie projektem finansowanym społecznościowo (wykład do wyboru)
+UID:a6fc1c15-8d04-450c-bdcc-0e4d68bc66af@a6fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20241120T153000Z
+LOCATION:Paw.S sala 2
+DTSTART:20241120T140000Z
+SUMMARY:Zarządzanie projektem finansowanym społecznościowo (wykład do wyboru)
+UID:c9af1065-e5b0-4ac9-b73f-4cba6ec62e2c@c9af.org
+END:VEVENT
+END:VCALENDAR

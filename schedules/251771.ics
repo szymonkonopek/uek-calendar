@@ -1,0 +1,1554 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20241113T101500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241113T084500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:29e89965-4583-467b-a3ae-8fcecf255912@29e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
+DTEND:20241126T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241126T121500Z
+SUMMARY:Analiza i planowanie biznesowe (wykład)
+UID:bb715746-2780-4e16-98c8-ea59782c46e7@bb71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241125T083000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241125T070000Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:7e253f8d-2c8f-4427-b811-5a4a4013fa11@7e25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
+DTEND:20250121T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20250121T130000Z
+SUMMARY:Analiza i planowanie biznesowe (wykład)
+UID:a4d51151-bbca-41d0-bcc9-beab6c6429b6@a4d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20241004T124500Z
+LOCATION:Paw.F CJ 314
+DTSTART:20241004T111500Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (ćwiczenia)
+UID:f708309c-6379-44d7-bce1-fbf31f4b4bcd@f708.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Włodarczyk
+DTEND:20241217T171500Z
+LOCATION:Paw.F 616
+DTSTART:20241217T154500Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (ćwiczenia)
+UID:0faf3d66-efa7-4a91-afeb-05479b4bf706@0faf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20241028T153000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241028T140000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:71246640-091a-4df2-9e62-05f7db3c1f38@7124.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241114T134500Z
+LOCATION:Paw.F 102
+DTSTART:20241114T121500Z
+SUMMARY:Metody oceny projektów gospodarczych (wykład do wyboru)
+UID:8c974c94-f6fe-4725-b923-5d653249ece9@8c97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Jurkowska
+DTEND:20241125T194500Z
+LOCATION:Paw.S sala 9
+DTSTART:20241125T173000Z
+SUMMARY:Międzynarodowe rynki finansowe: aspekty ekonomiczne i regulacyjne (wykład)
+UID:d55b92c5-da2a-4404-8ef3-c1f1afaf5297@d55b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20241129T130000Z
+LOCATION:Paw.F CJ 314
+DTSTART:20241129T121500Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (ćwiczenia)
+UID:b9680dbb-b404-40f2-b09a-23864296f30e@b968.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20250123T190000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250123T173000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:575c3af4-0560-4a10-a19c-4658f7720a92@575c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20241129T083000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241129T070000Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (wykład)
+UID:a5a08c14-b90b-48a5-9cb2-d7b3c66f43f3@a5a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20250108T134500Z
+LOCATION:Paw.F 615
+DTSTART:20250108T121500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:d7cf1696-6cbb-419d-a648-3468aa4a50b6@d7cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20250120T171500Z
+LOCATION:Paw.C sala D
+DTSTART:20250120T154500Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:a9e2e50d-2dff-48bb-8403-7255fb759af6@a9e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241017T124500Z
+LOCATION:Paw.F 102
+DTSTART:20241017T111500Z
+SUMMARY:Metody oceny projektów gospodarczych (wykład do wyboru)
+UID:01c162f1-6ee9-4aad-a23d-a8cce10102f0@01c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
+DTEND:20241210T153000Z
+LOCATION:Paw.S sala 5
+DTSTART:20241210T140000Z
+SUMMARY:Analiza i planowanie biznesowe (ćwiczenia)
+UID:303db0bc-3ead-47d2-aa9f-60c9f2dda015@303d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20250124T083000Z
+LOCATION:Paw.S sala 7
+DTSTART:20250124T070000Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (wykład)
+UID:85f2f7d1-112e-46c1-ac0f-143f62167e75@85f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241218T134500Z
+LOCATION:Paw.F 615
+DTSTART:20241218T121500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:8d3e55f5-99d3-4944-af4a-ca9c69aa5ee9@8d3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
+DTEND:20250107T153000Z
+LOCATION:Paw.S sala 5
+DTSTART:20250107T140000Z
+SUMMARY:Analiza i planowanie biznesowe (ćwiczenia)
+UID:ca8fbb16-0ffb-45ed-8d09-1868a109a25f@ca8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20241023T091500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241023T074500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:e1207cee-3f12-4dca-87e7-6fa1b3e35bdc@e120.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20241025T124500Z
+LOCATION:Paw.F CJ 314
+DTSTART:20241025T111500Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (ćwiczenia)
+UID:2bb2e2cf-1d93-4db0-8e3e-40fb36f0dd07@2bb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20241018T073000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241018T060000Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (wykład)
+UID:c9f361d2-a934-4daf-a781-fb429859e5d9@c9f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20241018T124500Z
+LOCATION:Paw.F CJ 314
+DTSTART:20241018T111500Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (ćwiczenia)
+UID:e89f08c3-035c-481e-b89b-e5c0aff56fff@e89f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241021T161500Z
+LOCATION:Paw.C sala D
+DTSTART:20241021T144500Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:523c9e85-6230-4ec1-8335-cd56bc5026cf@523c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
+DTEND:20241029T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241029T121500Z
+SUMMARY:Analiza i planowanie biznesowe (wykład)
+UID:1be32ece-e93c-405c-a6e3-2de14a517d07@1be3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20250109T190000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250109T173000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:44d7983a-83f5-4696-a17d-3e148a9b41f5@44d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20241108T134500Z
+LOCATION:Paw.F CJ 314
+DTSTART:20241108T121500Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (ćwiczenia)
+UID:70d10b70-b2dd-4a8e-8fb0-3412b9e0243b@70d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241106T120000Z
+LOCATION:Paw.F 717
+DTSTART:20241106T103000Z
+SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
+UID:9694fb44-1e88-4af0-9a26-97a725ac1b75@9694.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Włodarczyk
+DTEND:20241126T171500Z
+LOCATION:Paw.F 616
+DTSTART:20241126T154500Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (ćwiczenia)
+UID:5a3f6eed-7b4d-42e6-97ff-d149240525eb@5a3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20241204T101500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241204T084500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:fb93f0fe-e08e-4a9f-aef3-875fa17d1670@fb93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Włodarczyk
+DTEND:20250114T171500Z
+LOCATION:Paw.F 616
+DTSTART:20250114T154500Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (ćwiczenia)
+UID:a5baeeea-efd4-462b-855e-6b33967887bc@a5ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20241030T190000Z
+LOCATION:Paw.C sala E
+DTSTART:20241030T173000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:40a64393-f8f3-4a02-bebd-ee53142072a5@40a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241219T190000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241219T173000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:15df0ab8-7a6d-4dd6-92e4-95fa592dcc8c@15df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20241204T190000Z
+LOCATION:Paw.C sala E
+DTSTART:20241204T173000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:69d92d4a-43bd-41b3-bc10-94359d70103a@69d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241121T190000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241121T173000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:e4f165d0-bae9-426f-8822-ec9071b67b53@e4f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20241030T101500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241030T084500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:54356a30-c664-4fce-b715-2fd570d95292@5435.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241024T161500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241024T144500Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (wykład)
+UID:a446f51b-26ec-4202-a2bf-9ec49ca5b2f5@a446.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20241216T153000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241216T140000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:d1480fcb-06e0-492c-8acf-206847d8a497@d148.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241205T190000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241205T173000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:7eb3a408-7cfc-4af1-87b2-0c2be12641b7@7eb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241205T171500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241205T154500Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (wykład)
+UID:f765e112-4e55-4c0c-8a6f-bf6ab3cf4fad@f765.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20241216T190000Z
+LOCATION:Paw.C sala D
+DTSTART:20241216T173000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:b3884b17-84cf-4502-a94d-66f7c4fd1fdc@b388.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Jarosz
+DTEND:20241017T143000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241017T130000Z
+SUMMARY:Międzynarodowe rynki finansowe: aspekty ekonomiczne i regulacyjne (ćwiczenia)
+UID:468f9718-ef56-4521-833d-4cb3783ed352@468f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241113T134500Z
+LOCATION:Paw.F 615
+DTSTART:20241113T121500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:86101f80-3196-4bfe-b66c-db307fbbbff6@8610.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241209T083000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241209T070000Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:3a73c6a0-9135-4b36-94a0-af7aaf734a21@3a73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Włodarczyk
+DTEND:20250121T163000Z
+LOCATION:Paw.F 616
+DTSTART:20250121T154500Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (ćwiczenia)
+UID:77b687d4-09c3-4eba-b227-fa59bf0d9d45@77b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Jarosz
+DTEND:20250123T144500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250123T140000Z
+SUMMARY:Międzynarodowe rynki finansowe: aspekty ekonomiczne i regulacyjne (ćwiczenia)
+UID:99f6a193-7e0a-4256-89a4-86600c675a46@99f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241107T171500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241107T154500Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (wykład)
+UID:48c07510-ab0a-4af7-ae7f-cb27f96d54dc@48c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
+DTEND:20241112T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241112T121500Z
+SUMMARY:Analiza i planowanie biznesowe (wykład)
+UID:acc22392-5b3c-4036-b182-46c9776d665c@acc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241007T161500Z
+LOCATION:Paw.C sala D
+DTSTART:20241007T144500Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:310648bd-5ba6-4ce3-9ea9-b443b5fbdff4@3106.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Włodarczyk
+DTEND:20241119T171500Z
+LOCATION:Paw.F 616
+DTSTART:20241119T154500Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (ćwiczenia)
+UID:8a7dffa4-0971-4d62-b7d6-b6979d49a188@8a7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20250115T134500Z
+LOCATION:Paw.F 615
+DTSTART:20250115T121500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:f541488a-6f63-4d58-bbfa-b22cc7e6854c@f541.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20250115T190000Z
+LOCATION:Paw.C sala E
+DTSTART:20250115T173000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:7fd74960-7f98-49ed-b0ad-ab434ebb3318@7fd7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241021T073000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241021T060000Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:cdffdedd-c2a9-486a-9154-d8ad169411ec@cdff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241023T161500Z
+LOCATION:Paw.S sala 9
+DTSTART:20241023T144500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:d50c7105-1f5c-4f92-902f-f1e9197d4c64@d50c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241003T120000Z
+LOCATION:Paw.S sala 5
+DTSTART:20241003T111500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:21d30180-7f8b-49bf-9026-5dd5f9b07f13@21d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Jarosz
+DTEND:20241128T153000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241128T140000Z
+SUMMARY:Międzynarodowe rynki finansowe: aspekty ekonomiczne i regulacyjne (ćwiczenia)
+UID:c7eacc17-bc91-4436-8514-344a2975d2e2@c7ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20250122T101500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250122T084500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:6d680068-472b-4d56-b3a5-2ed9cdd88ebb@6d68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241028T083000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241028T070000Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:d2e45ced-fe1f-4157-ac44-ec8caabe11a9@d2e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
+DTEND:20250107T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20250107T121500Z
+SUMMARY:Analiza i planowanie biznesowe (wykład)
+UID:a2e49d99-94e9-4126-ad31-f497657bd0df@a2e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20250110T083000Z
+LOCATION:Paw.S sala 7
+DTSTART:20250110T070000Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (wykład)
+UID:d467388c-8966-4bf7-ae9c-2c8c9eb7202a@d467.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20250120T153000Z
+LOCATION:Paw.S sala 9
+DTSTART:20250120T140000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:d30637e1-6ab1-4c28-8e01-e7c973b61d0d@d306.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241017T180000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241017T163000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:294a57f6-e10c-4649-a813-fcfab0980130@294a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20241209T153000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241209T140000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:f95dbc19-4a4f-4782-842b-fab13fce722b@f95d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20241113T190000Z
+LOCATION:Paw.C sala E
+DTSTART:20241113T173000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:48e5b0e4-8d42-4725-b4d6-997c1007abbf@48e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20250122T190000Z
+LOCATION:Paw.C sala E
+DTSTART:20250122T173000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:d8ea90bf-61de-4dae-a376-2ff39cfcabe9@d8ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241104T190000Z
+LOCATION:Paw.C sala F
+DTSTART:20241104T173000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:f3430274-a34a-4d99-adf3-b71c2a148f3a@f343.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241128T134500Z
+LOCATION:Paw.S sala 5
+DTSTART:20241128T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:7ab3ab73-5c43-4225-8538-000b8fbc7c33@7ab3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20250116T171500Z
+LOCATION:Paw.S sala 7
+DTSTART:20250116T154500Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (wykład)
+UID:f17e46ba-9cf7-400b-8c04-7327df42ec3c@f17e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241028T171500Z
+LOCATION:Paw.C sala D
+DTSTART:20241028T154500Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:4d078464-e039-4cb7-a4df-211788ea8fd4@4d07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241118T171500Z
+LOCATION:Paw.C sala D
+DTSTART:20241118T154500Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:37876b3d-0aab-4d8e-bc80-67a805bd03e4@3787.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241030T134500Z
+LOCATION:Paw.F 615
+DTSTART:20241030T121500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:780b2738-f814-4e6a-86ba-f66cbc6ed66a@780b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20241011T124500Z
+LOCATION:Paw.F CJ 314
+DTSTART:20241011T111500Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (ćwiczenia)
+UID:6c36df75-1f6d-4476-807f-b440a16e7e1e@6c36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Jurkowska
+DTEND:20241028T194500Z
+LOCATION:Paw.S sala 9
+DTSTART:20241028T173000Z
+SUMMARY:Międzynarodowe rynki finansowe: aspekty ekonomiczne i regulacyjne (wykład)
+UID:b5031ea6-573a-413e-9835-6b6a483e6efd@b503.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20241023T180000Z
+LOCATION:Paw.C sala E
+DTSTART:20241023T163000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:857b0adc-6a8e-4e1f-8a7c-a20590fd3ff6@857b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Włodarczyk
+DTEND:20241210T171500Z
+LOCATION:Paw.F 616
+DTSTART:20241210T154500Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (ćwiczenia)
+UID:5df6889c-08e8-4908-b200-099400cdff56@5df6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241023T124500Z
+LOCATION:Paw.F 615
+DTSTART:20241023T111500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:dc63c3ac-92fc-44df-8baf-34b0b4f72242@dc63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20241127T190000Z
+LOCATION:Paw.C sala E
+DTSTART:20241127T173000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:7470111b-acfc-4656-b8f2-ec39b4d55a1e@7470.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241014T091500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241014T074500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:1308c57d-0c09-48bf-b3f6-176691d731cb@1308.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
+DTEND:20241210T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241210T121500Z
+SUMMARY:Analiza i planowanie biznesowe (wykład)
+UID:b022a5ea-34a7-4348-a088-0fb1b36cfc14@b022.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241125T171500Z
+LOCATION:Paw.C sala D
+DTSTART:20241125T154500Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:0bad4100-0253-47a3-a8ef-32fbc45c1993@0bad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20250108T190000Z
+LOCATION:Paw.C sala E
+DTSTART:20250108T173000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:7bf129d8-65f9-4290-be91-7c63f7c26250@7bf1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:64679d01-298a-4c81-9bd5-1fb427ebfcf4@6467.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20250124T171500Z
+LOCATION:Paw.S sala 7
+DTSTART:20250124T163000Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (wykład)
+UID:e0269d08-7173-4fb0-b57d-d8e66fc4539d@e026.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241010T161500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241010T144500Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (wykład)
+UID:57820f27-4b11-4895-bb29-9abc8fbb51b0@5782.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20241021T143000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241021T130000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:87db9160-22cd-4fa6-aabe-300a537dc572@87db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Jurkowska
+DTEND:20241014T184500Z
+LOCATION:Paw.S sala 9
+DTSTART:20241014T163000Z
+SUMMARY:Międzynarodowe rynki finansowe: aspekty ekonomiczne i regulacyjne (wykład)
+UID:47287334-334d-4322-8b61-9908583f1bd7@4728.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241118T190000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241118T173000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:71151a54-0137-4444-87ae-02ac9d503a1e@7115.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241216T171500Z
+LOCATION:Paw.C sala D
+DTSTART:20241216T154500Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:70012d8d-d768-4439-b82a-88cdf24be129@7001.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241031T134500Z
+LOCATION:Paw.S sala 5
+DTSTART:20241031T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:76b40efb-603e-49fe-99c6-ad6b12e5a11c@76b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241204T134500Z
+LOCATION:Paw.F 615
+DTSTART:20241204T121500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:52de0e0a-fad5-4002-8560-88f3935fd6f9@52de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20241007T143000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241007T130000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:e6aaefd8-1895-47d3-bbdc-5109cccb7106@e6aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20250108T101500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250108T084500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:2f9a72c3-c3a7-459a-9a7e-6fde220a271a@2f9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20250124T163000Z
+LOCATION:Paw.S sala 7
+DTSTART:20250124T154500Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (wykład)
+UID:84979586-29e6-4861-ab9b-d079468ad2a3@8497.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
+DTEND:20250121T144500Z
+LOCATION:Paw.S sala 5
+DTSTART:20250121T140000Z
+SUMMARY:Analiza i planowanie biznesowe (ćwiczenia)
+UID:f71542a5-01aa-42e6-9788-7091e8b71ca0@f715.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20241016T180000Z
+LOCATION:Paw.C sala E
+DTSTART:20241016T163000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:a3bdf41e-7882-4286-b651-d3ac1e05de02@a3bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20250109T134500Z
+LOCATION:Paw.S sala 5
+DTSTART:20250109T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:59d68beb-1e47-4cb9-bc13-87c129c7fbdd@59d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241007T073000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241007T060000Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:e6a8c9aa-70d7-4db3-b8ce-07af5c647303@e6a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241031T190000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241031T173000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:312c2a46-a989-4391-8b88-362e0322bcc3@312c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20250109T134500Z
+LOCATION:Paw.F 102
+DTSTART:20250109T121500Z
+SUMMARY:Metody oceny projektów gospodarczych (wykład do wyboru)
+UID:8426fc74-6bf6-4161-a026-3f25a1bd8410@8426.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20250122T200000Z
+LOCATION:Paw.C sala E
+DTSTART:20250122T191500Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:15e3eb47-822c-4976-ad07-bfb0d9238456@15e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241024T180000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241024T163000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:1e1897ac-18d0-4896-b935-2a4e5bc2821f@1e18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
+DTEND:20241001T124500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241001T111500Z
+SUMMARY:Analiza i planowanie biznesowe (wykład)
+UID:4c1b1261-2fe7-4c4e-8f82-14d00aff4e66@4c1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241114T134500Z
+LOCATION:Paw.S sala 5
+DTSTART:20241114T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:a99616ff-aaad-4e43-bd30-1ee5bfc1c676@a996.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20241120T190000Z
+LOCATION:Paw.C sala E
+DTSTART:20241120T173000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:e6a1bb98-1e2e-48ee-a907-b4224b81870d@e6a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Jarosz
+DTEND:20241003T143000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241003T130000Z
+SUMMARY:Międzynarodowe rynki finansowe: aspekty ekonomiczne i regulacyjne (ćwiczenia)
+UID:1beb6318-ca08-45ef-bed3-316ce0c268d0@1beb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241212T134500Z
+LOCATION:Paw.F 102
+DTSTART:20241212T121500Z
+SUMMARY:Metody oceny projektów gospodarczych (wykład do wyboru)
+UID:9116d708-1a90-4e4b-9af7-b7e017a107b0@9116.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20250123T130000Z
+LOCATION:Paw.S sala 5
+DTSTART:20250123T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:1b62b618-93d1-4353-ab5e-03ac1e25a50b@1b62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Jarosz
+DTEND:20241212T153000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241212T140000Z
+SUMMARY:Międzynarodowe rynki finansowe: aspekty ekonomiczne i regulacyjne (ćwiczenia)
+UID:94b4f51d-4381-4fd4-8652-80f4b7a8a957@94b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241127T134500Z
+LOCATION:Paw.F 615
+DTSTART:20241127T121500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:d7121941-e11d-492f-ba16-adb9ebce8a5b@d712.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241003T124500Z
+LOCATION:Paw.F 102
+DTSTART:20241003T111500Z
+SUMMARY:Metody oceny projektów gospodarczych (wykład do wyboru)
+UID:b7bbbb50-5692-4e3e-8ec0-8a45f864c9cd@b7bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241120T134500Z
+LOCATION:Paw.F 615
+DTSTART:20241120T121500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:9c94c101-5be0-408d-a22c-eedb6b319e8f@9c94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241107T190000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241107T173000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:c94f93ce-1f5f-4d63-b685-2148d703e164@c94f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20241014T143000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241014T130000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:ff79e702-c576-4efc-8d7f-8fa09bca168e@ff79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20241211T101500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241211T084500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:3a44f1a2-b812-464c-b231-a56c160845b9@3a44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20250113T153000Z
+LOCATION:Paw.S sala 9
+DTSTART:20250113T140000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:88415f65-41a0-4c9c-9a90-7b64e8c7a19e@8841.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241212T134500Z
+LOCATION:Paw.S sala 5
+DTSTART:20241212T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:c250f194-c11e-4e98-b035-c3ccdd5ca938@c250.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241023T110000Z
+LOCATION:Paw.F 717
+DTSTART:20241023T093000Z
+SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
+UID:ed88a900-bf33-4de3-a174-b8d58cd892f8@ed88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20250115T083000Z
+LOCATION:Paw.F 715
+DTSTART:20250115T074500Z
+SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
+UID:4911c52c-fd74-49e8-8878-d40147f3359f@4911.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20250115T120000Z
+LOCATION:Paw.F 717
+DTSTART:20250115T103000Z
+SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
+UID:d78afc3f-23e8-4a6d-b82a-c97bed3e5e86@d78a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20241115T083000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241115T070000Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (wykład)
+UID:b6b79696-8e90-4e13-ad97-1d8588dd26d5@b6b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
+DTEND:20241015T124500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241015T111500Z
+SUMMARY:Analiza i planowanie biznesowe (wykład)
+UID:fbc16cbd-14bc-490d-982d-67e9b9fec3c5@fbc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241114T190000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241114T173000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:65563986-d74e-4453-851b-1164f3487e1d@6556.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Jarosz
+DTEND:20250109T153000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250109T140000Z
+SUMMARY:Międzynarodowe rynki finansowe: aspekty ekonomiczne i regulacyjne (ćwiczenia)
+UID:873a95c5-bd25-4fd6-8854-21a72491c7ca@873a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241028T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241028T084500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:33e24b13-e3bb-493e-b042-d01d31f94418@33e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20241118T153000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241118T140000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:8b0f8003-8876-4124-8abf-183e1c9eada3@8b0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Jarosz
+DTEND:20241031T153000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241031T140000Z
+SUMMARY:Międzynarodowe rynki finansowe: aspekty ekonomiczne i regulacyjne (ćwiczenia)
+UID:d4e1ab37-94dd-444a-a64a-e4ab556bd9db@d4e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20250123T130000Z
+LOCATION:Paw.F 102
+DTSTART:20250123T121500Z
+SUMMARY:Metody oceny projektów gospodarczych (wykład do wyboru)
+UID:a2e1a64e-e4e6-4590-978d-89c09cb5508e@a2e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241209T171500Z
+LOCATION:Paw.C sala D
+DTSTART:20241209T154500Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:9372f9bc-a50a-4801-821b-7806dbf6f3fc@9372.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241009T161500Z
+LOCATION:Paw.S sala 9
+DTSTART:20241009T144500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:dc9d933f-6363-4fad-a5d6-b17b3456584e@dc9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241216T083000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241216T070000Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:a4758f4e-004b-439c-92ed-a8dfd0f9ad08@a475.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20241115T134500Z
+LOCATION:Paw.F CJ 314
+DTSTART:20241115T121500Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (ćwiczenia)
+UID:09592d3e-6318-4db8-877d-0f424dfe4f8c@0959.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20241106T101500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241106T084500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:78740ce8-0871-4127-a371-10283239d6e9@7874.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241218T120000Z
+LOCATION:Paw.F 717
+DTSTART:20241218T103000Z
+SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
+UID:3e65fde2-bfbb-49bc-84e3-a556da0faceb@3e65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241120T120000Z
+LOCATION:Paw.F 717
+DTSTART:20241120T103000Z
+SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
+UID:29de7eee-2d29-494d-bc93-fe0edfa3226b@29de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20241127T101500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241127T084500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:684686ee-3702-4715-bfc0-ed70db9f7321@6846.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241010T180000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241010T163000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:60b92af1-2d35-4804-b844-818cb7eeba3e@60b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20250122T120000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250122T103000Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:c255d464-6954-43e8-9f72-8bebb08ecdf3@c255.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241128T134500Z
+LOCATION:Paw.F 102
+DTSTART:20241128T121500Z
+SUMMARY:Metody oceny projektów gospodarczych (wykład do wyboru)
+UID:d071575b-6eeb-44e3-b110-77a2821c0678@d071.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Włodarczyk
+DTEND:20250107T171500Z
+LOCATION:Paw.F 616
+DTSTART:20250107T154500Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (ćwiczenia)
+UID:7de0bf6b-6098-4275-a2f8-67de498fd201@7de0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20250116T190000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250116T173000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:4f477ca3-c51e-49b3-a5a8-536239ed49b7@4f47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:ab802b5c-12cf-4567-bf35-7adce6400c11@ab80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20250123T134500Z
+LOCATION:Paw.S sala 2
+DTSTART:20250123T130000Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:df10568d-7c9d-415b-b444-050798d835a4@df10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20241009T180000Z
+LOCATION:Paw.C sala E
+DTSTART:20241009T163000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:3d0f5650-688c-4a4a-b6b3-6f47089cec4d@3d0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20241009T091500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241009T074500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:14f2d291-6788-465b-8b65-b31db32057a9@14f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20241125T153000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241125T140000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:266378d4-8df3-4aa1-bbb5-d77a1e2340a0@2663.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Jurkowska
+DTEND:20241209T194500Z
+LOCATION:Paw.S sala 9
+DTSTART:20241209T173000Z
+SUMMARY:Międzynarodowe rynki finansowe: aspekty ekonomiczne i regulacyjne (wykład)
+UID:6ebae6ad-f46f-4244-9998-93423f044d41@6eba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20250108T083000Z
+LOCATION:Paw.F 615
+DTSTART:20250108T070000Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:8770e55c-2aaa-4f43-a37b-dd0b6789f6c8@8770.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
+DTEND:20241029T153000Z
+LOCATION:Paw.S sala 5
+DTSTART:20241029T140000Z
+SUMMARY:Analiza i planowanie biznesowe (ćwiczenia)
+UID:a77773d7-10b2-4340-a8ce-d6b4aa5c3322@a777.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20241218T101500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241218T084500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:d98805d7-2614-46ca-9fb3-0fdd9e22b145@d988.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241009T124500Z
+LOCATION:Paw.F 615
+DTSTART:20241009T111500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:360cd8b9-ae3e-415e-abd6-c1957be4ffa7@360c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241202T083000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241202T070000Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:9bd553c3-f686-4aab-9eb6-ec8ca317fd42@9bd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241106T134500Z
+LOCATION:Paw.F 615
+DTSTART:20241106T121500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:b96630dd-43ba-457f-a68b-c77ec4400191@b966.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20250115T101500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250115T084500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:da9afb26-70eb-4756-88aa-7d883a4dafbd@da9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20241120T101500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241120T084500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:52566ec9-6c8e-4b7d-b81d-21aaf6763241@5256.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20241211T190000Z
+LOCATION:Paw.C sala E
+DTSTART:20241211T173000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:c3e6e1bd-77cb-47f4-a757-e99c3478971a@c3e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241104T171500Z
+LOCATION:Paw.C sala D
+DTSTART:20241104T154500Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:ca98f3d5-4497-4ae7-a9c9-3390fc2d2782@ca98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20241202T153000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241202T140000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:217752a4-1f06-45e8-91ea-8cacab041e33@2177.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20241104T153000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241104T140000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:7dc77bc5-3956-40d4-aa44-4239a95db2d0@7dc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241121T171500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241121T154500Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (wykład)
+UID:22f97d5d-63b6-4f09-9615-d8e09a4d56f3@22f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241021T180000Z
+LOCATION:Paw.C sala F
+DTSTART:20241021T163000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:c37a3cc0-1ad8-4269-8d15-5dc7c597cc15@c37a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241128T190000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241128T173000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:9254d0b2-2afa-43a9-91ca-14c239ec32a9@9254.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Jarosz
+DTEND:20241114T153000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241114T140000Z
+SUMMARY:Międzynarodowe rynki finansowe: aspekty ekonomiczne i regulacyjne (ćwiczenia)
+UID:b2e160f4-277b-4589-a07b-983d96fddc7d@b2e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241211T134500Z
+LOCATION:Paw.F 615
+DTSTART:20241211T121500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:1ae03750-b733-4ba4-9018-7ac054a8da18@1ae0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
+DTEND:20241126T153000Z
+LOCATION:Paw.S sala 5
+DTSTART:20241126T140000Z
+SUMMARY:Analiza i planowanie biznesowe (ćwiczenia)
+UID:158c0351-9a8c-44a5-9128-59d524b830be@158c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
+DTEND:20241112T153000Z
+LOCATION:Paw.S sala 5
+DTSTART:20241112T140000Z
+SUMMARY:Analiza i planowanie biznesowe (ćwiczenia)
+UID:1424aafc-462e-469b-b153-d1c6d008c255@1424.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241014T161500Z
+LOCATION:Paw.C sala D
+DTSTART:20241014T144500Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:d6ed37f6-b676-4d0a-b6e5-059d381e2b99@d6ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20241213T083000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241213T070000Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (wykład)
+UID:2a0b95af-81b1-4cbc-ae15-b039045e6d3d@2a0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20241122T134500Z
+LOCATION:Paw.F CJ 314
+DTSTART:20241122T121500Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (ćwiczenia)
+UID:fb530225-e508-4d85-9d44-9ff662655b58@fb53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241118T083000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241118T070000Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:bb8f1a3f-1be5-47bd-b3dc-5e3ae2b701b3@bb8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20250122T134500Z
+LOCATION:Paw.F 615
+DTSTART:20250122T121500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:3f8490d6-3c2b-4d7c-8c80-bf6c56fa7170@3f84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241003T180000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241003T163000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:8a9e286a-340c-4ca6-b916-ed8e466abffd@8a9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241016T124500Z
+LOCATION:Paw.F 615
+DTSTART:20241016T111500Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:32c21f82-3ae0-4fbe-8460-63c263779b53@32c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241204T120000Z
+LOCATION:Paw.F 717
+DTSTART:20241204T103000Z
+SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
+UID:08a8426e-d3bc-415e-978d-7e644f5121c7@08a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Jurkowska
+DTEND:20250120T194500Z
+LOCATION:Paw.S sala 9
+DTSTART:20250120T173000Z
+SUMMARY:Międzynarodowe rynki finansowe: aspekty ekonomiczne i regulacyjne (wykład)
+UID:45eaa77f-a187-4aac-a3d2-7fb6e9c804d4@45ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Walitza
+DTEND:20241004T073000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241004T060000Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (wykład)
+UID:e1f68137-05c7-4663-9f4f-f9897442292e@e1f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20241106T190000Z
+LOCATION:Paw.C sala E
+DTSTART:20241106T173000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:7134ad0e-489d-431b-b636-07bca8c90850@7134.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20250108T200000Z
+LOCATION:Paw.C sala E
+DTSTART:20250108T191500Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:c8498ac8-498e-4ff1-8dcc-7e30850dd355@c849.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20241202T190000Z
+LOCATION:Paw.C sala D
+DTSTART:20241202T173000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:1cd8d532-524a-41b7-83c2-79357c44a798@1cd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20241016T091500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241016T074500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:d5da4b79-1db9-4916-bc0b-daf7d9f9fc0f@d5da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241009T110000Z
+LOCATION:Paw.F 717
+DTSTART:20241009T093000Z
+SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
+UID:a48da2b4-4cb6-411e-94ba-9a0fee344149@a48d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Michał Włodarczyk
+DTEND:20241203T171500Z
+LOCATION:Paw.F 616
+DTSTART:20241203T154500Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (ćwiczenia)
+UID:37bb74a2-8d72-4868-a6d6-0d98de16e19e@37bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20241218T190000Z
+LOCATION:Paw.C sala E
+DTSTART:20241218T173000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:79008385-92bf-4b3c-a1bc-b2c4ce0d1363@7900.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
+DTEND:20241001T143000Z
+LOCATION:Paw.S sala 5
+DTSTART:20241001T130000Z
+SUMMARY:Analiza i planowanie biznesowe (ćwiczenia)
+UID:420ddb78-77f9-417d-84ef-b74964eb6fa8@420d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241202T171500Z
+LOCATION:Paw.C sala D
+DTSTART:20241202T154500Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:8ce29b07-2d40-41e6-aa06-fb72a1a125ec@8ce2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241017T124500Z
+LOCATION:Paw.S sala 5
+DTSTART:20241017T111500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:f4f07894-5fe5-4d50-a507-703c0878b2e9@f4f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20250113T190000Z
+LOCATION:Paw.C sala D
+DTSTART:20250113T173000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:601cfd63-ad9b-4acd-817a-1aec24850ed7@601c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241104T083000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241104T070000Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:5de2cb2f-f6c9-4024-8d6f-eaf39d5eb445@5de2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241219T171500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241219T154500Z
+SUMMARY:FinTech\, nowe technologie bankowe i bezpieczeństwo cyfrowe (wykład)
+UID:e6107421-8b8f-45fb-bdad-36def57011b8@e610.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241016T161500Z
+LOCATION:Paw.S sala 9
+DTSTART:20241016T144500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:2e9f74cb-79c0-4877-b696-dc5b386b5e22@2e9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241212T190000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241212T173000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:4412cede-94bd-43a9-94b6-4dd57b932dab@4412.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20250113T171500Z
+LOCATION:Paw.C sala D
+DTSTART:20250113T154500Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:c4ecf8dd-680d-4c98-81ea-8b24723ce4f2@c4ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241031T134500Z
+LOCATION:Paw.F 102
+DTSTART:20241031T121500Z
+SUMMARY:Metody oceny projektów gospodarczych (wykład do wyboru)
+UID:ff2b5005-db9b-4f99-8e08-dde9c6707bbc@ff2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Płonka
+DTEND:20241015T143000Z
+LOCATION:Paw.S sala 5
+DTSTART:20241015T130000Z
+SUMMARY:Analiza i planowanie biznesowe (ćwiczenia)
+UID:4710f649-7481-4453-a390-9354d73b0204@4710.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241014T073000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241014T060000Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:8ff6d7f9-4eef-495b-9b36-d57db8485794@8ff6.org
+END:VEVENT
+END:VCALENDAR

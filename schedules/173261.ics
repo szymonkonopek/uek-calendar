@@ -1,0 +1,476 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kania
+DTEND:20241214T091500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241214T070000Z
+SUMMARY:Nieruchomości i inwestycje (ćwiczenia do wyboru)
+UID:e489038b-2bd6-4c34-9cb1-3e8a54c87367@e489.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Justyna Tomala
+DTEND:20250112T170000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250112T144500Z
+SUMMARY:Polityka społeczna (ćwiczenia)
+UID:456c882c-da1c-4359-abef-d3b6f99dfa15@456c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20241122T170000Z
+LOCATION:link do zajęć
+DTSTART:20241122T144500Z
+SUMMARY:Nieruchomości i inwestycje (wykład do wyboru)
+UID:506bcddd-ee5f-4584-a2fd-4a929efcf687@506b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tomal
+DTEND:20241012T114500Z
+LOCATION:link do zajęć
+DTSTART:20241012T093000Z
+SUMMARY:Analiza ekonomiczna (wykład)
+UID:29644ef1-c748-4cbe-b336-3ae439212a59@2964.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Adam Firlej
+DTEND:20241214T114500Z
+LOCATION:Paw.F 107
+DTSTART:20241214T093000Z
+SUMMARY:Podstawy ekonomii menedżerskiej (ćwiczenia do wyboru)
+UID:b917c8c7-718a-4673-9498-ed7c9dc5345b@b917.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Justyna Tomala
+DTEND:20241214T170000Z
+LOCATION:Bud.gł. 4
+DTSTART:20241214T144500Z
+SUMMARY:Polityka społeczna (ćwiczenia)
+UID:ec98c885-8921-48dd-83bf-2f5d96b98c0d@ec98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tomal
+DTEND:20241220T194500Z
+LOCATION:link do zajęć
+DTSTART:20241220T173000Z
+SUMMARY:Analiza ekonomiczna (wykład)
+UID:07f30862-b3b8-4ca8-b3c5-5812141b40c3@07f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Pera
+DTEND:20241123T180000Z
+LOCATION:link do zajęć
+DTSTART:20241123T154500Z
+SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
+UID:432d3b26-6a24-41a4-9696-dc84507aff83@432d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Pera
+DTEND:20250124T194500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20250124T173000Z
+SUMMARY:Międzynarodowe stosunki gospodarcze (ćwiczenia)
+UID:17cf4399-6dc4-44ba-90c6-a1472a897fc8@17cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20241116T151500Z
+LOCATION:link do zajęć
+DTSTART:20241116T130000Z
+SUMMARY:Podstawy analityki makroekonomiczno-finansowej (wykład do wyboru)
+UID:089270b1-ded4-4996-a9c2-e993b896414c@0892.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20250111T151500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20250111T121500Z
+SUMMARY:Podstawy analityki makroekonomiczno-finansowej (ćwiczenia do wyboru)
+UID:293cbcc7-5674-4c53-aa29-b2d220cfa731@293c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
+DTEND:20241208T091500Z
+LOCATION:Bibl. 443
+DTSTART:20241208T070000Z
+SUMMARY:Analiza ekonomiczna (ćwiczenia)
+UID:aa8cd666-b54a-42bf-a847-8fc89b7ffdee@aa8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Adam Firlej
+DTEND:20250126T143000Z
+LOCATION:Paw.F 107
+DTSTART:20250126T121500Z
+SUMMARY:Podstawy ekonomii menedżerskiej (ćwiczenia do wyboru)
+UID:1523cf5f-4a93-4469-81ab-83831c228ca1@1523.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogusława Puzio-Wacławik
+DTEND:20241206T170000Z
+LOCATION:link do zajęć
+DTSTART:20241206T144500Z
+SUMMARY:Podstawy ekonomii menedżerskiej (wykład do wyboru)
+UID:bd0b1939-ee3d-4ad9-a64f-be11d06c153d@bd0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
+DTEND:20250124T170000Z
+LOCATION:Paw.F 106
+DTSTART:20250124T144500Z
+SUMMARY:Analiza ekonomiczna (ćwiczenia)
+UID:6bb2486a-2caa-462c-a08d-28946302166a@6bb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20241206T194500Z
+LOCATION:link do zajęć
+DTSTART:20241206T173000Z
+SUMMARY:Podstawy analityki makroekonomiczno-finansowej (wykład do wyboru)
+UID:eeb65fff-a369-487f-8c8a-2856cdd79564@eeb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20241220T170000Z
+LOCATION:link do zajęć
+DTSTART:20241220T144500Z
+SUMMARY:Nieruchomości i inwestycje (wykład do wyboru)
+UID:57706acc-a7a8-429b-9a4e-914fb37bb026@5770.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Pera
+DTEND:20241025T184500Z
+LOCATION:link do zajęć
+DTSTART:20241025T163000Z
+SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
+UID:68ce91d3-9cf1-4cc3-b5da-212fe751a7a4@68ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Urbaniec
+DTEND:20241026T114500Z
+LOCATION:link do zajęć
+DTSTART:20241026T093000Z
+SUMMARY:Polityka społeczna (wykład)
+UID:56de9af6-9ec0-4c7d-be3f-7959349d1468@56de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20241115T170000Z
+LOCATION:link do zajęć
+DTSTART:20241115T144500Z
+SUMMARY:Polityka gospodarcza (wykład)
+UID:ae6464d4-49fb-49d9-b95e-482209a45633@ae64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Pera
+DTEND:20241214T143000Z
+LOCATION:Paw.C sala B
+DTSTART:20241214T121500Z
+SUMMARY:Międzynarodowe stosunki gospodarcze (ćwiczenia)
+UID:d27b88c0-b39a-4f99-a60c-595589cdded1@d27b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
+DTEND:20241117T143000Z
+LOCATION:Paw.F 102
+DTSTART:20241117T121500Z
+SUMMARY:Analiza ekonomiczna (ćwiczenia)
+UID:959924e8-6e10-4d3f-9e23-c1d33e7b9a24@9599.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Justyna Tomala
+DTEND:20241208T143000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241208T121500Z
+SUMMARY:Polityka społeczna (ćwiczenia)
+UID:ae6a2e62-1570-4373-915d-60dad1c0d37e@ae6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Pisulewski
+DTEND:20241213T194500Z
+LOCATION:link do zajęć
+DTSTART:20241213T173000Z
+SUMMARY:Ekonometria (wykład)
+UID:7834b27a-75a3-4dec-984c-b9cd094c8345@7834.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Pisulewski
+DTEND:20241207T124500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241207T103000Z
+SUMMARY:Ekonometria (ćwiczenia)
+UID:db6a920b-9227-4075-9a05-d99e34d8b338@db6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Pisulewski
+DTEND:20241026T170000Z
+LOCATION:link do zajęć
+DTSTART:20241026T144500Z
+SUMMARY:Ekonometria (wykład)
+UID:8d6a3771-4626-41bf-addf-40b02bd1e1a8@8d6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tomal
+DTEND:20241221T091500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241221T070000Z
+SUMMARY:Nieruchomości i inwestycje (ćwiczenia do wyboru)
+UID:3c42627a-8b60-44c0-9c04-41e4fa4cbd12@3c42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
+DTEND:20241201T143000Z
+LOCATION:Paw.F 102
+DTSTART:20241201T121500Z
+SUMMARY:Analiza ekonomiczna (ćwiczenia)
+UID:08281d92-4c6b-4f5e-af2f-68f38e245ddc@0828.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20241207T100000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241207T070000Z
+SUMMARY:Podstawy analityki makroekonomiczno-finansowej (ćwiczenia do wyboru)
+UID:5990a1ef-bab5-4a2e-bf04-f308255d7992@5990.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Adam Firlej
+DTEND:20241124T170000Z
+LOCATION:Paw.F 106
+DTSTART:20241124T144500Z
+SUMMARY:Podstawy ekonomii menedżerskiej (ćwiczenia do wyboru)
+UID:f8e3c2b8-ebe9-4470-9983-aaa7d97d0907@f8e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Pisulewski
+DTEND:20241130T114500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241130T093000Z
+SUMMARY:Ekonometria (ćwiczenia)
+UID:e2b3b464-1864-4dac-9906-b82f71a4ee3a@e2b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20241221T151500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241221T121500Z
+SUMMARY:Podstawy analityki makroekonomiczno-finansowej (ćwiczenia do wyboru)
+UID:7695e740-e8b9-4966-a747-139e581abcc9@7695.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Adam Firlej
+DTEND:20241130T143000Z
+LOCATION:Paw.F 107
+DTSTART:20241130T121500Z
+SUMMARY:Podstawy ekonomii menedżerskiej (ćwiczenia do wyboru)
+UID:911a8075-40fa-435b-98c6-0c2724e4a411@911a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
+DTEND:20250111T091500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250111T070000Z
+SUMMARY:Nieruchomości i inwestycje (ćwiczenia do wyboru)
+UID:d0503bc0-61d2-48bc-a5c3-f5b2042b1735@d050.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Pera
+DTEND:20241115T194500Z
+LOCATION:link do zajęć
+DTSTART:20241115T173000Z
+SUMMARY:Międzynarodowe stosunki gospodarcze (wykład)
+UID:9c7ed6d5-082f-4b02-a1b0-561137fcbec3@9c7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogusława Puzio-Wacławik
+DTEND:20241122T194500Z
+LOCATION:link do zajęć
+DTSTART:20241122T173000Z
+SUMMARY:Podstawy ekonomii menedżerskiej (wykład do wyboru)
+UID:2b9df413-f9bb-4cf0-a544-b71f30915d7c@2b9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20241123T151500Z
+LOCATION:link do zajęć
+DTSTART:20241123T130000Z
+SUMMARY:Podstawy analityki makroekonomiczno-finansowej (wykład do wyboru)
+UID:a2d27215-aad4-45a6-82c8-88e085a30815@a2d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Małkowska
+DTEND:20241130T091500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241130T070000Z
+SUMMARY:Nieruchomości i inwestycje (ćwiczenia do wyboru)
+UID:58bec866-32b9-4e81-bc6e-2c7610c6d048@58be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20241025T160000Z
+LOCATION:link do zajęć
+DTSTART:20241025T134500Z
+SUMMARY:Polityka gospodarcza (wykład)
+UID:17cce873-9d2d-4050-af72-1cbcd7811b43@17cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
+DTEND:20250126T170000Z
+LOCATION:Paw.F 107
+DTSTART:20250126T144500Z
+SUMMARY:Polityka gospodarcza (ćwiczenia)
+UID:792c2031-d6c1-46b1-b126-c5b0dc196653@792c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Gorlecka-Łabiak
+DTEND:20241215T170000Z
+LOCATION:Paw.F 102
+DTSTART:20241215T144500Z
+SUMMARY:Analiza ekonomiczna (ćwiczenia)
+UID:2b34ad4b-1219-461a-9c0d-6cb115c56b70@2b34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogusława Puzio-Wacławik
+DTEND:20241026T141500Z
+LOCATION:link do zajęć
+DTSTART:20241026T120000Z
+SUMMARY:Podstawy ekonomii menedżerskiej (wykład do wyboru)
+UID:7ab5fd61-d786-451b-bfc6-8801bfb935fc@7ab5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Justyna Tomala
+DTEND:20241027T170000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241027T144500Z
+SUMMARY:Polityka społeczna (ćwiczenia)
+UID:afa783cc-21e7-4a64-a87e-22044acce6c5@afa7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Pisulewski
+DTEND:20241123T124500Z
+LOCATION:link do zajęć
+DTSTART:20241123T103000Z
+SUMMARY:Ekonometria (wykład)
+UID:702d8fd6-0a0b-4d39-9d8d-f34ef05bd6fd@702d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
+DTEND:20241215T143000Z
+LOCATION:Paw.F 107
+DTSTART:20241215T121500Z
+SUMMARY:Polityka gospodarcza (ćwiczenia)
+UID:16d10d37-7e98-45bd-aac2-22de5acc5c4a@16d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kuder
+DTEND:20241124T143000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241124T121500Z
+SUMMARY:Podstawy analityki makroekonomiczno-finansowej (ćwiczenia do wyboru)
+UID:e8796d2b-5524-4dea-900c-2f64b3693a7f@e879.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Justyna Tomala
+DTEND:20241222T143000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241222T121500Z
+SUMMARY:Polityka społeczna (ćwiczenia)
+UID:6cc73a13-d947-4cbf-8774-90765c9e4a51@6cc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kania
+DTEND:20241213T170000Z
+LOCATION:link do zajęć
+DTSTART:20241213T144500Z
+SUMMARY:Nieruchomości i inwestycje (wykład do wyboru)
+UID:b50d9264-053f-4cc3-9553-5f841d9d6173@b50d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacek Pera
+DTEND:20241117T170000Z
+LOCATION:Bibl. 443
+DTSTART:20241117T144500Z
+SUMMARY:Międzynarodowe stosunki gospodarcze (ćwiczenia)
+UID:db86befd-82b1-421a-bdba-49b41b4adbed@db86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Wałachowski
+DTEND:20241012T141500Z
+LOCATION:link do zajęć
+DTSTART:20241012T120000Z
+SUMMARY:Polityka gospodarcza (wykład)
+UID:057edb70-9d3a-4b3a-906c-f7add1498105@057e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tomal
+DTEND:20241116T100000Z
+LOCATION:link do zajęć
+DTSTART:20241116T074500Z
+SUMMARY:Analiza ekonomiczna (wykład)
+UID:9d35d8e8-eaca-4418-90ce-edcece2047f4@9d35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Urbaniec
+DTEND:20241116T124500Z
+LOCATION:link do zajęć
+DTSTART:20241116T103000Z
+SUMMARY:Polityka społeczna (wykład)
+UID:12f5851d-722a-4c53-b3bd-95cbe057c498@12f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
+DTEND:20241207T151500Z
+LOCATION:Paw.F 107
+DTSTART:20241207T130000Z
+SUMMARY:Polityka gospodarcza (ćwiczenia)
+UID:a04c1db0-2aa5-4cf5-b655-342d99e3d239@a04c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Andrzej Pisulewski
+DTEND:20241221T114500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241221T093000Z
+SUMMARY:Ekonometria (ćwiczenia)
+UID:726d2ef0-8f63-4de2-a98d-1bb4feab0d00@726d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Adam Firlej
+DTEND:20250111T114500Z
+LOCATION:Paw.F 107
+DTSTART:20250111T093000Z
+SUMMARY:Podstawy ekonomii menedżerskiej (ćwiczenia do wyboru)
+UID:ba7d0cab-a0eb-4e38-95fe-28bd70be2d34@ba7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
+DTEND:20250112T143000Z
+LOCATION:Paw.F 107
+DTSTART:20250112T121500Z
+SUMMARY:Polityka gospodarcza (ćwiczenia)
+UID:a47a2061-085c-4fd5-bd4b-30aec7c3a43d@a47a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20250125T091500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250125T070000Z
+SUMMARY:Nieruchomości i inwestycje (ćwiczenia do wyboru)
+UID:4b738115-ee5e-4d7e-9e32-e3ac473720b1@4b73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Bednarz
+DTEND:20241222T170000Z
+LOCATION:Paw.F 107
+DTSTART:20241222T144500Z
+SUMMARY:Polityka gospodarcza (ćwiczenia)
+UID:dc22d252-88a9-4792-87ce-6ade01f056b8@dc22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maria Urbaniec
+DTEND:20241012T170000Z
+LOCATION:link do zajęć
+DTSTART:20241012T144500Z
+SUMMARY:Polityka społeczna (wykład)
+UID:ac5bbb2e-1f87-4468-bab0-2f23194eb0c7@ac5b.org
+END:VEVENT
+END:VCALENDAR

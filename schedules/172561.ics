@@ -1,0 +1,244 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20241214T143000Z
+LOCATION:Paw.F 515
+DTSTART:20241214T121500Z
+SUMMARY:Zarządzanie marką (ćwiczenia)
+UID:2c2fbb90-099e-4d3c-9fc4-44c0427e79c2@2c2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
+DTEND:20241018T160000Z
+LOCATION:link do zajęć
+DTSTART:20241018T134500Z
+SUMMARY:Marketing społeczny (wykład)
+UID:ea1f7b5f-7bac-4ab0-a775-4cb07cda99c5@ea1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241115T170000Z
+LOCATION:link do zajęć
+DTSTART:20241115T144500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:9e373358-83ed-401f-bd49-0002b49df62a@9e37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20241129T194500Z
+LOCATION:link do zajęć
+DTSTART:20241129T173000Z
+SUMMARY:Strategie produktu (wykład)
+UID:3583de2a-9e8a-4183-9e95-f63877319d02@3583.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241019T133000Z
+LOCATION:link do zajęć
+DTSTART:20241019T111500Z
+SUMMARY:Zapobieganie kradzieży danych z przedsiębiorstwa (wykład do wyboru)
+UID:ef955816-da9c-4cc2-be27-6f2ee7b8623f@ef95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20241201T091500Z
+LOCATION:Bibl. 441
+DTSTART:20241201T070000Z
+SUMMARY:Strategie produktu (ćwiczenia)
+UID:9910b493-8a04-48fb-b698-30051a0032d9@9910.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20241011T160000Z
+LOCATION:link do zajęć
+DTSTART:20241011T134500Z
+SUMMARY:Strategie produktu (wykład)
+UID:f20ba019-149d-4dcc-acaa-b5b996434246@f20b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20250110T194500Z
+LOCATION:Paw.C sala D
+DTSTART:20250110T173000Z
+SUMMARY:Strategie produktu (ćwiczenia)
+UID:b8b3eb3a-d8ce-4bfa-bbe3-b39cff2f161c@b8b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241115T194500Z
+LOCATION:link do zajęć
+DTSTART:20241115T173000Z
+SUMMARY:Zapobieganie kradzieży danych z przedsiębiorstwa (wykład do wyboru)
+UID:9c431e7a-0564-4ef2-9839-27597967ae6e@9c43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20241208T114500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241208T093000Z
+SUMMARY:Strategie produktu (ćwiczenia)
+UID:18cea4d5-0680-4440-a021-2fd434dffa7e@18ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241019T104500Z
+LOCATION:link do zajęć
+DTSTART:20241019T083000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:29ffdd99-6921-4c13-aa9b-8d6cde2ff461@29ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20241129T170000Z
+LOCATION:link do zajęć
+DTSTART:20241129T144500Z
+SUMMARY:Zarządzanie marką (wykład)
+UID:a867e73d-3bbb-45d3-9c9c-4e5cdc7b2bca@a867.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Maria Bajak
+DTEND:20241116T124500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241116T103000Z
+SUMMARY:Marketing społeczny (ćwiczenia)
+UID:c5486823-4ff2-4f17-935a-1a03abc9f944@c548.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
+DTEND:20241013T081500Z
+LOCATION:link do zajęć
+DTSTART:20241013T060000Z
+SUMMARY:Marketing społeczny (wykład)
+UID:2d05aaba-c863-4bd1-bd66-87241b60ae41@2d05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241012T081500Z
+LOCATION:link do zajęć
+DTSTART:20241012T060000Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:776832d9-ea94-49f2-9293-e54b7d1ecdc9@7768.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20241215T114500Z
+LOCATION:Paw.C sala B
+DTSTART:20241215T093000Z
+SUMMARY:Strategie produktu (ćwiczenia)
+UID:d4984293-bc9a-476c-8b88-e4b5a20543dc@d498.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241011T184500Z
+LOCATION:link do zajęć
+DTSTART:20241011T163000Z
+SUMMARY:Zapobieganie kradzieży danych z przedsiębiorstwa (wykład do wyboru)
+UID:488c4100-a1bd-4d0e-83e4-ec00a1a8aca9@488c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
+DTEND:20241020T133000Z
+LOCATION:link do zajęć
+DTSTART:20241020T111500Z
+SUMMARY:Marketing społeczny (wykład)
+UID:515b9c69-3b00-4289-8532-b39825f6abda@515b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20241117T143000Z
+LOCATION:Paw.C sala F
+DTSTART:20241117T121500Z
+SUMMARY:Zarządzanie marką (ćwiczenia)
+UID:bc7d8910-beab-434e-95f0-3d51dd4230e7@bc7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20241117T114500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241117T093000Z
+SUMMARY:Strategie produktu (ćwiczenia)
+UID:65116cca-d58e-4db1-bca1-c98b0f2ec2f1@6511.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20241213T194500Z
+LOCATION:Paw.F 516
+DTSTART:20241213T173000Z
+SUMMARY:Zarządzanie marką (ćwiczenia)
+UID:002226cb-7526-4dfb-bf5d-5a1743f8b23f@0022.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20241207T180000Z
+LOCATION:Paw.B 251
+DTSTART:20241207T154500Z
+SUMMARY:Strategie produktu (ćwiczenia)
+UID:2796d49b-cafb-4b84-aae6-f97ba5ee9281@2796.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Maria Bajak
+DTEND:20250112T091500Z
+LOCATION:Paw.C sala F
+DTSTART:20250112T070000Z
+SUMMARY:Marketing społeczny (ćwiczenia)
+UID:6ef36aa5-3abe-4186-8971-3e939611c4af@6ef3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20241018T184500Z
+LOCATION:link do zajęć
+DTSTART:20241018T163000Z
+SUMMARY:Strategie produktu (wykład)
+UID:cb23c993-1b0f-40b0-95aa-98651ba69a2f@cb23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20241130T091500Z
+LOCATION:Paw.E sala J
+DTSTART:20241130T070000Z
+SUMMARY:Zarządzanie marką (ćwiczenia)
+UID:cf6cba87-02a1-4959-9658-f4eb67063deb@cf6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20250112T114500Z
+LOCATION:Paw.C sala F
+DTSTART:20250112T093000Z
+SUMMARY:Zarządzanie marką (ćwiczenia)
+UID:a1f35417-eb7c-422b-a9c2-cead9b916cad@a1f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20241020T104500Z
+LOCATION:link do zajęć
+DTSTART:20241020T083000Z
+SUMMARY:Zarządzanie marką (wykład)
+UID:1d7e7801-4631-4845-94eb-e1397bce044a@1d7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Maria Bajak
+DTEND:20241214T114500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241214T093000Z
+SUMMARY:Marketing społeczny (ćwiczenia)
+UID:55ef03a5-68e4-47c3-911c-a3da06c02954@55ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20241206T170000Z
+LOCATION:Paw.C sala C
+DTSTART:20241206T144500Z
+SUMMARY:Zarządzanie marką (ćwiczenia)
+UID:11a023e5-459c-423f-84f9-807b36da9183@11a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20241012T104500Z
+LOCATION:link do zajęć
+DTSTART:20241012T083000Z
+SUMMARY:Zarządzanie marką (wykład)
+UID:06ef86a2-8d26-4924-a6a6-3bb0c737e997@06ef.org
+END:VEVENT
+END:VCALENDAR

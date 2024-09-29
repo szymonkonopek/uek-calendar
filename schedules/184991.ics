@@ -1,0 +1,1258 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Stanuch
+DTEND:20250110T101500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250110T084500Z
+SUMMARY:Badanie strategii inwestycyjnych (konwersatorium do wyboru)
+UID:5928a12f-e077-4585-a3e7-185d96603c41@5928.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20250116T134500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250116T121500Z
+SUMMARY:Społeczna odpowiedzialność biznesu (wykład)
+UID:ce4269ae-1ec1-4dc0-9e89-2a6a872f5342@ce42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20250116T083000Z
+LOCATION:Paw.C sala D
+DTSTART:20250116T070000Z
+SUMMARY:Metody zarządzania (wykład)
+UID:4f4dcaa6-80f2-4085-845b-b0c94683acd3@4f4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241024T143000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241024T130000Z
+SUMMARY:Proces zarządzania (ćwiczenia)
+UID:3d731a9d-9de5-4a1b-bcda-fb671889b5bc@3d73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241204T171500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241204T154500Z
+SUMMARY:Cyberbezpieczeństwo (konwersatorium do wyboru)
+UID:853bc1ac-df60-42d6-9ccd-9e2ae5f41f4c@853b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241010T161500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241010T144500Z
+SUMMARY:Społeczna odpowiedzialność biznesu (ćwiczenia)
+UID:656df473-b6b2-445f-b5c6-87965ee382ca@656d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Stanuch
+DTEND:20241209T171500Z
+LOCATION:Paw.U sala M
+DTSTART:20241209T154500Z
+SUMMARY:Podstawy zarządzania projektami (ćwiczenia)
+UID:8139e49e-00e6-4285-9663-5a0c412e65f1@8139.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20241113T083000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241113T070000Z
+SUMMARY:Globalizacja (konwersatorium do wyboru)
+UID:37efe238-f25a-46cd-a60b-ab271356e19d@37ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20241017T091500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241017T074500Z
+SUMMARY:Restrukturyzacja przedsiębiorstw (wykład)
+UID:deced3f6-989a-495b-a907-630730bc5d0d@dece.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241003T124500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241003T111500Z
+SUMMARY:Proces zarządzania (wykład)
+UID:ddafb0db-a27f-42ef-9b6c-86f4d3247ac7@ddaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241114T153000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241114T140000Z
+SUMMARY:Proces zarządzania (ćwiczenia)
+UID:fa6c5fc8-878f-473d-910f-c8bb2e9ab9e1@fa6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20250120T171500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20250120T163000Z
+SUMMARY:Społeczna odpowiedzialność biznesu (ćwiczenia)
+UID:b34628ab-196d-4a46-a474-3591846fd3e4@b346.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
+DTEND:20241219T101500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241219T084500Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:54f16ee8-217b-420e-b6bf-c1760b36781e@54f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20241204T083000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241204T070000Z
+SUMMARY:Globalizacja (konwersatorium do wyboru)
+UID:5518b7aa-1ca1-4f79-9ae6-6f6faec42495@5518.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20241121T083000Z
+LOCATION:Paw.C sala D
+DTSTART:20241121T070000Z
+SUMMARY:Metody zarządzania (wykład)
+UID:373e2cfb-5fd6-4683-a32d-ccd57430c95b@373e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20241129T120000Z
+LOCATION:Paw.F CJ 208
+DTSTART:20241129T103000Z
+SUMMARY:Metody zarządzania (ćwiczenia)
+UID:7d14ea03-3f68-4979-879e-e145f2dcceb4@7d14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Stanuch
+DTEND:20241202T190000Z
+LOCATION:Paw.U sala O
+DTSTART:20241202T173000Z
+SUMMARY:Podstawy zarządzania projektami (ćwiczenia)
+UID:64a7c2c1-7023-40d1-b37d-c246b17d9fcd@64a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Gurbisz
+DTEND:20241206T120000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241206T103000Z
+SUMMARY:Organizacje pozarządowe (ćwiczenia)
+UID:a559d206-3103-4b48-bbc4-dbe7e54ded4e@a559.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20250123T130000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250123T121500Z
+SUMMARY:Proces zarządzania (wykład)
+UID:12ef2a04-51d9-48a7-8023-88ee63ebd564@12ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Stanuch
+DTEND:20241104T190000Z
+LOCATION:Paw.U sala O
+DTSTART:20241104T173000Z
+SUMMARY:Podstawy zarządzania projektami (ćwiczenia)
+UID:97efa8b4-f870-4851-98c8-f166dc1683f7@97ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20241219T083000Z
+LOCATION:Paw.C sala D
+DTSTART:20241219T070000Z
+SUMMARY:Metody zarządzania (wykład)
+UID:f759019a-2a3a-40c5-b608-a9e43b1b0462@f759.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241219T171500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241219T154500Z
+SUMMARY:Społeczna odpowiedzialność biznesu (ćwiczenia)
+UID:6cd36074-49db-4283-9b83-13e0eddca834@6cd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
+DTEND:20241107T101500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241107T084500Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:5c7216b9-7861-4953-bd85-8b026b6fe9e5@5c72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Gurbisz
+DTEND:20241025T110000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241025T093000Z
+SUMMARY:Organizacje pozarządowe (ćwiczenia)
+UID:b3b6aae0-a558-49c6-b80f-953764bfc87c@b3b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241010T180000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241010T163000Z
+SUMMARY:Społeczna odpowiedzialność biznesu (wykład)
+UID:f6d23f84-8c31-4623-b8cd-fce7ed28a022@f6d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20241031T083000Z
+LOCATION:Paw.U sala O
+DTSTART:20241031T070000Z
+SUMMARY:Organizacje pozarządowe (wykład)
+UID:1c22d753-20f0-4e59-bc26-190a47049afd@1c22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20241213T120000Z
+LOCATION:Paw.F CJ 208
+DTSTART:20241213T103000Z
+SUMMARY:Metody zarządzania (ćwiczenia)
+UID:7fb913c9-b9cd-4d8e-b1db-4c90927ef0a5@7fb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20241016T073000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241016T060000Z
+SUMMARY:Globalizacja (konwersatorium do wyboru)
+UID:0182701d-269c-4b28-a90e-88ce275da559@0182.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Stanuch
+DTEND:20241125T190000Z
+LOCATION:Paw.U sala O
+DTSTART:20241125T173000Z
+SUMMARY:Podstawy zarządzania projektami (ćwiczenia)
+UID:0af8c130-af2a-48d5-b2fc-0fcedd5f85fe@0af8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20241204T120000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241204T103000Z
+SUMMARY:Restrukturyzacja przedsiębiorstw (ćwiczenia)
+UID:a6249dea-a3ef-4713-8365-efdb5a997c12@a624.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Stanuch
+DTEND:20241216T190000Z
+LOCATION:Paw.U sala O
+DTSTART:20241216T173000Z
+SUMMARY:Podstawy zarządzania projektami (ćwiczenia)
+UID:232a12f9-f7af-45fe-85a4-f1a764456d53@232a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241107T134500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241107T121500Z
+SUMMARY:Społeczna odpowiedzialność biznesu (wykład)
+UID:37b678f7-d26b-490b-b788-e08244f4dedc@37b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20250115T083000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250115T070000Z
+SUMMARY:Globalizacja (konwersatorium do wyboru)
+UID:dc757920-c103-4c66-90da-59b65d084e5a@dc75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20250123T083000Z
+LOCATION:Paw.U sala O
+DTSTART:20250123T074500Z
+SUMMARY:Organizacje pozarządowe (wykład)
+UID:829683be-a0c3-44f4-a59b-1fc5e12e454f@8296.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
+DTEND:20241121T101500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241121T084500Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:c392dedc-c5de-45fe-b549-bd6e78458157@c392.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Stanuch
+DTEND:20241007T180000Z
+LOCATION:Paw.U sala O
+DTSTART:20241007T163000Z
+SUMMARY:Podstawy zarządzania projektami (ćwiczenia)
+UID:e5c14d87-157c-4f0f-809f-f484c5966de5@e5c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20241023T110000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241023T093000Z
+SUMMARY:Restrukturyzacja przedsiębiorstw (ćwiczenia)
+UID:14db4bb5-a35d-4482-888a-f4a318334a3a@14db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20241009T110000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241009T093000Z
+SUMMARY:Restrukturyzacja przedsiębiorstw (ćwiczenia)
+UID:607d1cc0-4d63-435c-93e6-921d37cd5a5e@607d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Stanuch
+DTEND:20241004T091500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241004T074500Z
+SUMMARY:Badanie strategii inwestycyjnych (konwersatorium do wyboru)
+UID:4637b24b-96a9-4dce-a480-96f2ef4b9f1e@4637.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Stanuch
+DTEND:20241122T101500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241122T084500Z
+SUMMARY:Badanie strategii inwestycyjnych (konwersatorium do wyboru)
+UID:6137613e-e9f5-4254-8fc3-a9490e1f62bd@6137.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20241031T101500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241031T084500Z
+SUMMARY:Restrukturyzacja przedsiębiorstw (wykład)
+UID:28ac98cd-db2b-4928-8780-31d477e09e70@28ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241031T153000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241031T140000Z
+SUMMARY:Proces zarządzania (ćwiczenia)
+UID:5a0db94f-c1ca-4755-a3b0-b2524c8fb65d@5a0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Stanuch
+DTEND:20241209T190000Z
+LOCATION:Paw.U sala O
+DTSTART:20241209T173000Z
+SUMMARY:Podstawy zarządzania projektami (ćwiczenia)
+UID:e3104ad7-ef9e-4e19-8c30-32937bdec463@e310.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20241009T073000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241009T060000Z
+SUMMARY:Globalizacja (konwersatorium do wyboru)
+UID:f8a637dc-ac55-406d-ba0c-fd22bb2fc81a@f8a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20250120T163000Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20250120T154500Z
+SUMMARY:Społeczna odpowiedzialność biznesu (wykład)
+UID:b5bdd851-89bf-411b-a7b6-a5cd14db6834@b5bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241205T134500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241205T121500Z
+SUMMARY:Społeczna odpowiedzialność biznesu (wykład)
+UID:92bb989a-2593-4a71-8ed6-0799bc46e6a2@92bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241219T190000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241219T173000Z
+SUMMARY:Społeczna odpowiedzialność biznesu (wykład)
+UID:a44ed5a3-f258-4f7b-afd0-0260e83f742b@a44e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Stanuch
+DTEND:20241216T171500Z
+LOCATION:Paw.U sala M
+DTSTART:20241216T154500Z
+SUMMARY:Podstawy zarządzania projektami (ćwiczenia)
+UID:2e6c9850-4dd0-45bf-a481-d35b2c2f2ada@2e6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Gurbisz
+DTEND:20241011T110000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241011T093000Z
+SUMMARY:Organizacje pozarządowe (ćwiczenia)
+UID:5fc8aaf3-bfa4-4079-a1c2-84ba8bbdb822@5fc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Stanuch
+DTEND:20241021T180000Z
+LOCATION:Paw.U sala O
+DTSTART:20241021T163000Z
+SUMMARY:Podstawy zarządzania projektami (ćwiczenia)
+UID:23074e07-96fc-413e-9660-306fe810bf19@2307.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241114T134500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241114T121500Z
+SUMMARY:Proces zarządzania (wykład)
+UID:fe4b790b-4a5b-4cfd-9b5f-192faeca0a62@fe4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20241127T083000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241127T070000Z
+SUMMARY:Globalizacja (konwersatorium do wyboru)
+UID:2a5f4fd3-3b6b-44c1-82e5-d936c5aaecbb@2a5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241017T143000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241017T130000Z
+SUMMARY:Proces zarządzania (ćwiczenia)
+UID:3696728d-6235-4f8d-bc4d-50fa7b0fb2b8@3696.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241106T171500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241106T154500Z
+SUMMARY:Cyberbezpieczeństwo (konwersatorium do wyboru)
+UID:78cd0d9b-d5f4-4691-9c19-5f1d57da0610@78cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
+DTEND:20241024T091500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241024T074500Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:1e7964ed-bf8f-48b3-9d4e-9f253c4a57c0@1e79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Stanuch
+DTEND:20241028T190000Z
+LOCATION:Paw.U sala O
+DTSTART:20241028T173000Z
+SUMMARY:Podstawy zarządzania projektami (ćwiczenia)
+UID:79428436-4eec-4d53-a3a2-60d2572c1483@7942.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20250123T153000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250123T140000Z
+SUMMARY:Proces zarządzania (ćwiczenia)
+UID:a6a36d96-7c92-4da9-a412-5fcf0d2fd3e2@a6a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Stanuch
+DTEND:20241118T190000Z
+LOCATION:Paw.U sala O
+DTSTART:20241118T173000Z
+SUMMARY:Podstawy zarządzania projektami (ćwiczenia)
+UID:ec1b5cb3-a876-4c7f-b202-82f152e89120@ec1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Stanuch
+DTEND:20241108T101500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241108T084500Z
+SUMMARY:Badanie strategii inwestycyjnych (konwersatorium do wyboru)
+UID:ae62a345-0219-493c-ab13-c61967dd2788@ae62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20250115T171500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20250115T154500Z
+SUMMARY:Cyberbezpieczeństwo (konwersatorium do wyboru)
+UID:91b09982-6932-410e-9cb6-cd0fa075d3a7@91b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20250123T093000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250123T084500Z
+SUMMARY:Restrukturyzacja przedsiębiorstw (wykład)
+UID:cbe0dce5-fc38-4e61-b947-890d82d19798@cbe0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20241017T073000Z
+LOCATION:Paw.U sala O
+DTSTART:20241017T060000Z
+SUMMARY:Organizacje pozarządowe (wykład)
+UID:73ef0fe4-1369-4665-b17b-0f0ab6f84533@73ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241024T161500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241024T144500Z
+SUMMARY:Społeczna odpowiedzialność biznesu (ćwiczenia)
+UID:b1bbc80a-5ff7-48ac-8b03-be456192636c@b1bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Stanuch
+DTEND:20250117T101500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250117T084500Z
+SUMMARY:Badanie strategii inwestycyjnych (konwersatorium do wyboru)
+UID:12f839f5-2eb9-46d5-b072-b7d6b24c7b91@12f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241024T124500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241024T111500Z
+SUMMARY:Społeczna odpowiedzialność biznesu (wykład)
+UID:2b4e445c-d1ac-40c3-8885-2da2e72428b6@2b4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20250120T134500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250120T130000Z
+SUMMARY:Restrukturyzacja przedsiębiorstw (ćwiczenia)
+UID:68d4051a-ad37-4619-a89f-111f9afef203@68d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20241218T083000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241218T070000Z
+SUMMARY:Globalizacja (konwersatorium do wyboru)
+UID:05e20b48-a64e-4d45-a8d9-139181dd63cf@05e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Stanuch
+DTEND:20241213T101500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241213T084500Z
+SUMMARY:Badanie strategii inwestycyjnych (konwersatorium do wyboru)
+UID:77e8695b-7f31-4710-b30b-30e2f5724f40@77e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20250124T083000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250124T074500Z
+SUMMARY:Metody zarządzania (ćwiczenia)
+UID:c2d47832-8bc2-4a51-8b50-ade8df043ef6@c2d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
+DTEND:20241010T091500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241010T074500Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:77b49533-9c78-45b1-be3d-d0825f8c2109@77b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20241003T073000Z
+LOCATION:Paw.U sala O
+DTSTART:20241003T060000Z
+SUMMARY:Organizacje pozarządowe (wykład)
+UID:1882b345-9948-40b8-9405-83a19c7e1ba6@1882.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241010T143000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241010T130000Z
+SUMMARY:Proces zarządzania (ćwiczenia)
+UID:47f6734a-77f4-4bc8-bc6f-da66c71f853c@47f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241127T171500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241127T154500Z
+SUMMARY:Cyberbezpieczeństwo (konwersatorium do wyboru)
+UID:412805a8-7457-43b5-8fa1-70cfc910feeb@4128.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241211T171500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241211T154500Z
+SUMMARY:Cyberbezpieczeństwo (konwersatorium do wyboru)
+UID:6bc610dd-c879-4df6-8bb3-109cb12fb6ae@6bc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20241106T120000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241106T103000Z
+SUMMARY:Restrukturyzacja przedsiębiorstw (ćwiczenia)
+UID:1bfa6af5-1f03-49e2-87cf-53daa86fa19e@1bfa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20241107T083000Z
+LOCATION:Paw.C sala D
+DTSTART:20241107T070000Z
+SUMMARY:Metody zarządzania (wykład)
+UID:1464f5c5-3c46-4aea-b8fc-2d2b944c92a7@1464.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241113T171500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241113T154500Z
+SUMMARY:Cyberbezpieczeństwo (konwersatorium do wyboru)
+UID:a1698623-2119-4f6e-83d8-ea78a36b6a54@a169.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20241128T101500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241128T084500Z
+SUMMARY:Restrukturyzacja przedsiębiorstw (wykład)
+UID:89349fc7-2126-405a-bab3-9967d75fa5c4@8934.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241107T171500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241107T154500Z
+SUMMARY:Społeczna odpowiedzialność biznesu (ćwiczenia)
+UID:13f9fdac-e0f1-4d77-9a29-cc71b6460454@13f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20241218T120000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241218T103000Z
+SUMMARY:Restrukturyzacja przedsiębiorstw (ćwiczenia)
+UID:bd260f18-89e4-4341-9e59-4713fbf59f39@bd26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Stanuch
+DTEND:20241115T101500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241115T084500Z
+SUMMARY:Badanie strategii inwestycyjnych (konwersatorium do wyboru)
+UID:a570c751-cac2-4be2-8086-06401b20a385@a570.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20241023T073000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241023T060000Z
+SUMMARY:Globalizacja (konwersatorium do wyboru)
+UID:358ca5a0-ad74-437f-9836-4ab9e5574693@358c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Gurbisz
+DTEND:20250123T171500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20250123T163000Z
+SUMMARY:Organizacje pozarządowe (ćwiczenia)
+UID:2d41ff9b-577e-40c4-a8b3-f2bdbc88edf5@2d41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20241120T120000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241120T103000Z
+SUMMARY:Restrukturyzacja przedsiębiorstw (ćwiczenia)
+UID:bb908250-dbc0-4692-adf4-288406974503@bb90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241219T153000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241219T140000Z
+SUMMARY:Proces zarządzania (ćwiczenia)
+UID:d662d03e-4983-4c9a-b053-7b4a9340d917@d662.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241030T171500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241030T154500Z
+SUMMARY:Cyberbezpieczeństwo (konwersatorium do wyboru)
+UID:7d5726ed-f64e-4133-98db-19902176f845@7d57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20241205T083000Z
+LOCATION:Paw.C sala D
+DTSTART:20241205T070000Z
+SUMMARY:Metody zarządzania (wykład)
+UID:c85493de-d26c-42b6-9f5a-7468c3010363@c854.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20250109T083000Z
+LOCATION:Paw.U sala O
+DTSTART:20250109T070000Z
+SUMMARY:Organizacje pozarządowe (wykład)
+UID:35ad81a7-4253-466b-92f5-0db444df88fb@35ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20250124T074500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250124T070000Z
+SUMMARY:Metody zarządzania (wykład)
+UID:fd93fca1-8b85-47b9-a861-6c4ff7815d61@fd93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20250108T083000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250108T070000Z
+SUMMARY:Globalizacja (konwersatorium do wyboru)
+UID:c06a83f8-8f01-4630-a6fa-efa5541cc4f7@c06a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20250117T083000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250117T070000Z
+SUMMARY:Metody zarządzania (ćwiczenia)
+UID:0bc89716-41ef-43b4-b4d1-941ff4ee7faf@0bc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Stanuch
+DTEND:20241018T091500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241018T074500Z
+SUMMARY:Badanie strategii inwestycyjnych (konwersatorium do wyboru)
+UID:e2123bdb-3836-4f36-b23a-29af540bd9ef@e212.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
+DTEND:20250116T101500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250116T084500Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:0c2946cb-2ea8-4cb0-8e94-0f1c21580142@0c29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Stanuch
+DTEND:20250124T101500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250124T084500Z
+SUMMARY:Badanie strategii inwestycyjnych (konwersatorium do wyboru)
+UID:2dd167f9-16a5-4f12-84ff-4aae5a8ae603@2dd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241009T161500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241009T144500Z
+SUMMARY:Cyberbezpieczeństwo (konwersatorium do wyboru)
+UID:e49a6697-8e5e-4281-a423-bbbd8f8e90ae@e49a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241212T153000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241212T140000Z
+SUMMARY:Proces zarządzania (ćwiczenia)
+UID:4cc08744-b40b-498b-8efc-f58a11e6c7d4@4cc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20241106T083000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241106T070000Z
+SUMMARY:Globalizacja (konwersatorium do wyboru)
+UID:d1841efd-aa49-4768-906e-8eb717df8a0c@d184.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241120T171500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241120T154500Z
+SUMMARY:Cyberbezpieczeństwo (konwersatorium do wyboru)
+UID:34af1cb4-91c4-4323-a79b-d7c9871fef1e@34af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20241030T083000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241030T070000Z
+SUMMARY:Globalizacja (konwersatorium do wyboru)
+UID:1b2a31c3-841b-4686-b3cc-68ed0f0d15b6@1b2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20241115T120000Z
+LOCATION:Paw.F CJ 208
+DTSTART:20241115T103000Z
+SUMMARY:Metody zarządzania (ćwiczenia)
+UID:f53b0b96-7909-446f-a65f-8b4af2e3c266@f53b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20241128T083000Z
+LOCATION:Paw.U sala O
+DTSTART:20241128T070000Z
+SUMMARY:Organizacje pozarządowe (wykład)
+UID:a85438d1-b204-400a-9250-4b56f9228c72@a854.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20250122T083000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250122T070000Z
+SUMMARY:Globalizacja (konwersatorium do wyboru)
+UID:e1a50b9d-2920-44a9-8a0d-b789453a9619@e1a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20250110T120000Z
+LOCATION:Paw.F CJ 208
+DTSTART:20250110T103000Z
+SUMMARY:Metody zarządzania (ćwiczenia)
+UID:95e3452a-1202-43e3-953e-ab83c1d0c7b4@95e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241212T134500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241212T121500Z
+SUMMARY:Proces zarządzania (wykład)
+UID:364198a4-416d-456f-a71b-17bdeef1278d@3641.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241121T134500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241121T121500Z
+SUMMARY:Społeczna odpowiedzialność biznesu (wykład)
+UID:4de545fc-6b30-48b0-bf4e-d7c2bd9d83ce@4de5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Gurbisz
+DTEND:20241220T120000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241220T103000Z
+SUMMARY:Organizacje pozarządowe (ćwiczenia)
+UID:af54d1c9-e5c9-41f4-a2d1-e84f6dfaa9c1@af54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20250115T120000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250115T103000Z
+SUMMARY:Restrukturyzacja przedsiębiorstw (ćwiczenia)
+UID:f537ff04-8037-43f2-8069-b8306b3c9062@f537.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241107T153000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241107T140000Z
+SUMMARY:Proces zarządzania (ćwiczenia)
+UID:2796094f-c8d0-4578-ae5c-0afe4eab66eb@2796.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20250124T134500Z
+LOCATION:Paw.F 008
+DTSTART:20250124T121500Z
+SUMMARY:Cyberbezpieczeństwo (konwersatorium do wyboru)
+UID:f0d82272-256b-438f-a90b-83a81bc96e4a@f0d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Stanuch
+DTEND:20241011T091500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241011T074500Z
+SUMMARY:Badanie strategii inwestycyjnych (konwersatorium do wyboru)
+UID:d8c07ba7-82be-4dee-a05e-529e9760d7d0@d8c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241017T124500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241017T111500Z
+SUMMARY:Proces zarządzania (wykład)
+UID:0893b5c4-3026-4291-955f-69c4253cd8db@0893.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20241003T091500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241003T074500Z
+SUMMARY:Restrukturyzacja przedsiębiorstw (wykład)
+UID:3ef7a572-6511-491d-b2c9-d3442806abd1@3ef7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Stanuch
+DTEND:20241129T101500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241129T084500Z
+SUMMARY:Badanie strategii inwestycyjnych (konwersatorium do wyboru)
+UID:e0d7f22a-e306-4541-a051-7969bbbf122b@e0d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20250109T153000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250109T140000Z
+SUMMARY:Proces zarządzania (ćwiczenia)
+UID:2df240c3-0545-43fa-bd7c-196f691a9ded@2df2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20250124T120000Z
+LOCATION:Paw.G  7
+DTSTART:20250124T103000Z
+SUMMARY:Globalizacja (konwersatorium do wyboru)
+UID:fb7193fd-0fe0-4b4b-9c92-6be32faefa39@fb71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Stanuch
+DTEND:20241220T101500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241220T084500Z
+SUMMARY:Badanie strategii inwestycyjnych (konwersatorium do wyboru)
+UID:7939da0d-ed5c-47f8-a61b-f35e66f773b7@7939.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Stanuch
+DTEND:20241206T101500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241206T084500Z
+SUMMARY:Badanie strategii inwestycyjnych (konwersatorium do wyboru)
+UID:f95844f2-81a3-49e8-9df9-1bad269b7f45@f958.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20241211T083000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241211T070000Z
+SUMMARY:Globalizacja (konwersatorium do wyboru)
+UID:7d6e5fc1-1b1d-41d0-9031-cfa489c7c525@7d6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
+DTEND:20241205T101500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241205T084500Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:2a75c3a0-7ea5-435e-a664-fb8e0be7812b@2a75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Stanuch
+DTEND:20250120T153000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250120T140000Z
+SUMMARY:Badanie strategii inwestycyjnych (konwersatorium do wyboru)
+UID:90424351-43dc-4cc9-a486-bc3c82ec4b5d@9042.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Gurbisz
+DTEND:20241122T120000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241122T103000Z
+SUMMARY:Organizacje pozarządowe (ćwiczenia)
+UID:1c0e7f68-5e8f-4d22-8fcc-b08b009d92ba@1c0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241128T153000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241128T140000Z
+SUMMARY:Proces zarządzania (ćwiczenia)
+UID:ee1e3770-a5c9-44a5-9a81-53078198bf9b@ee1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20241114T083000Z
+LOCATION:Paw.U sala O
+DTSTART:20241114T070000Z
+SUMMARY:Organizacje pozarządowe (wykład)
+UID:53640cfa-7d79-4a34-ac6c-7329f13ff041@5364.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Mierzejewski
+DTEND:20241120T083000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241120T070000Z
+SUMMARY:Globalizacja (konwersatorium do wyboru)
+UID:f1e01ab5-67f3-4904-b033-7ea1f837a997@f1e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20241010T073000Z
+LOCATION:Paw.C sala D
+DTSTART:20241010T060000Z
+SUMMARY:Metody zarządzania (wykład)
+UID:33bc66c2-d5bd-48c2-a771-7df15d8ee0dc@33bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241205T153000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241205T140000Z
+SUMMARY:Proces zarządzania (ćwiczenia)
+UID:0826d97d-0e00-492d-a97d-45e039051f5d@0826.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241128T134500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241128T121500Z
+SUMMARY:Proces zarządzania (wykład)
+UID:815c8f85-aa8b-4e36-a127-6cd0bbce74c5@815c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20250116T171500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250116T154500Z
+SUMMARY:Społeczna odpowiedzialność biznesu (ćwiczenia)
+UID:33252437-aaf5-4f3c-8cdf-95a9fd2f075d@3325.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Gurbisz
+DTEND:20250117T120000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20250117T103000Z
+SUMMARY:Organizacje pozarządowe (ćwiczenia)
+UID:a636b0ca-ddcf-4b3f-96e4-5539a40ce3cc@a636.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
+DTEND:20250123T111500Z
+LOCATION:Paw.S sala 9
+DTSTART:20250123T103000Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:51c10dcc-3a37-4b4f-bad7-57cc97dfef9b@51c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241003T143000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241003T130000Z
+SUMMARY:Proces zarządzania (ćwiczenia)
+UID:493ad50a-126b-487b-a6ed-c6fedf4b01e5@493a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20241024T073000Z
+LOCATION:Paw.C sala D
+DTSTART:20241024T060000Z
+SUMMARY:Metody zarządzania (wykład)
+UID:bb641a5d-502d-4025-87dd-e070eeed3d76@bb64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241016T161500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241016T144500Z
+SUMMARY:Cyberbezpieczeństwo (konwersatorium do wyboru)
+UID:a650bd45-70e1-4b33-b821-7725171e0399@a650.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20241114T101500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241114T084500Z
+SUMMARY:Restrukturyzacja przedsiębiorstw (wykład)
+UID:eb4a965b-7a25-4948-9a4d-ac88f0acabe5@eb4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Stanuch
+DTEND:20250113T171500Z
+LOCATION:Paw.U sala M
+DTSTART:20250113T154500Z
+SUMMARY:Podstawy zarządzania projektami (ćwiczenia)
+UID:a42810c9-f86c-4864-8a38-d4dbe1d9cc46@a428.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Stanuch
+DTEND:20241014T180000Z
+LOCATION:Paw.U sala O
+DTSTART:20241014T163000Z
+SUMMARY:Podstawy zarządzania projektami (ćwiczenia)
+UID:f372dd6d-8dc7-4b23-9e3d-bfb9b01e3cb1@f372.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20250108T171500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20250108T154500Z
+SUMMARY:Cyberbezpieczeństwo (konwersatorium do wyboru)
+UID:58c85421-dfbe-4ca7-9e2f-ba560690a18e@58c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20241004T110000Z
+LOCATION:Paw.F CJ 208
+DTSTART:20241004T093000Z
+SUMMARY:Metody zarządzania (ćwiczenia)
+UID:c8490778-ca0f-4f9d-aa27-e417ebd1a4f0@c849.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20250122T171500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20250122T154500Z
+SUMMARY:Cyberbezpieczeństwo (konwersatorium do wyboru)
+UID:abf247c3-eb49-4cf3-8b95-510d85c5c053@abf2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Stanuch
+DTEND:20241025T091500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241025T074500Z
+SUMMARY:Badanie strategii inwestycyjnych (konwersatorium do wyboru)
+UID:d9d61f75-c040-49ae-b6a5-ed7d7265aeab@d9d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241121T171500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241121T154500Z
+SUMMARY:Społeczna odpowiedzialność biznesu (ćwiczenia)
+UID:6f277af7-a0b2-4c0d-823e-e1329be8f2a3@6f27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Stanuch
+DTEND:20250113T190000Z
+LOCATION:Paw.U sala O
+DTSTART:20250113T173000Z
+SUMMARY:Podstawy zarządzania projektami (ćwiczenia)
+UID:1d4a5f51-0a0e-4aba-b0d6-7d7c1eb6b1a2@1d4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241023T161500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241023T144500Z
+SUMMARY:Cyberbezpieczeństwo (konwersatorium do wyboru)
+UID:e4af5519-51a0-49f1-9294-1354d85e3d7e@e4af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20241212T083000Z
+LOCATION:Paw.U sala O
+DTSTART:20241212T070000Z
+SUMMARY:Organizacje pozarządowe (wykład)
+UID:4cee670f-e9e0-4e48-a08f-469f5e2ae4ff@4cee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241031T134500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241031T121500Z
+SUMMARY:Proces zarządzania (wykład)
+UID:becb5313-2e1a-4062-adfc-d7aa4398d9ff@becb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20250109T101500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250109T084500Z
+SUMMARY:Restrukturyzacja przedsiębiorstw (wykład)
+UID:1f893604-6af0-46aa-b57c-727ea92ea744@1f89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241218T171500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241218T154500Z
+SUMMARY:Cyberbezpieczeństwo (konwersatorium do wyboru)
+UID:550b7e77-b762-4311-95b7-14a4fccc4ae4@550b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241205T171500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241205T154500Z
+SUMMARY:Społeczna odpowiedzialność biznesu (ćwiczenia)
+UID:19b6d8aa-7703-48a2-8b8c-846b95df370b@19b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20250109T134500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250109T121500Z
+SUMMARY:Proces zarządzania (wykład)
+UID:507aae78-986e-4358-b36a-10259ab97633@507a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20241018T110000Z
+LOCATION:Paw.F CJ 208
+DTSTART:20241018T093000Z
+SUMMARY:Metody zarządzania (ćwiczenia)
+UID:dcbabb1c-1847-4e0c-8632-00da4b33eebb@dcba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Gurbisz
+DTEND:20241108T120000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241108T103000Z
+SUMMARY:Organizacje pozarządowe (ćwiczenia)
+UID:c713bb5c-b750-4cd3-b536-6851ea687be4@c713.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20250116T153000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250116T140000Z
+SUMMARY:Proces zarządzania (ćwiczenia)
+UID:cb8ef054-9f3b-491e-9bca-024b2f7fd28e@cb8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:6c5c21a1-c63c-44aa-8ddb-cc67636063c3@6c5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Smutek
+DTEND:20241121T153000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241121T140000Z
+SUMMARY:Proces zarządzania (ćwiczenia)
+UID:d62f3493-2a7b-4d1e-a158-2642685ee314@d62f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:0df28b59-c69b-428f-b461-2074d608314d@0df2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Misiołek
+DTEND:20241212T101500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241212T084500Z
+SUMMARY:Restrukturyzacja przedsiębiorstw (wykład)
+UID:95e600ee-32ac-4ae4-aff5-38e2157b78d8@95e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marcin Stanuch
+DTEND:20250120T190000Z
+LOCATION:Paw.U sala O
+DTSTART:20250120T173000Z
+SUMMARY:Podstawy zarządzania projektami (ćwiczenia)
+UID:0465dba8-ed18-40dd-aa65-d0f6e51dfaeb@0465.org
+END:VEVENT
+END:VCALENDAR

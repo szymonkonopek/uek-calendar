@@ -1,0 +1,1266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20241009T101500Z
+LOCATION:Paw.C sala B
+DTSTART:20241009T093000Z
+SUMMARY:Analiza rynków zagranicznych (wykład)
+UID:13d842db-4145-4eae-9c5a-d73182b53315@13d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20241001T091500Z
+LOCATION:Paw.B 251
+DTSTART:20241001T074500Z
+SUMMARY:Gospodarka oparta na wiedzy (wykład do wyboru)
+UID:3de20187-192a-40a7-8253-34ed142485c6@3de2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Joanna Purgał-Popiela
+DTEND:20250115T153000Z
+LOCATION:Paw.S sala 4
+DTSTART:20250115T140000Z
+SUMMARY:Międzynarodowe zarządzanie zasobami ludzkimi (wykład do wyboru)
+UID:0b44dcf9-186d-4681-9910-f63e002d533e@0b44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20241001T073000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241001T060000Z
+SUMMARY:Zarządzanie innowacjami w biznesie międzynarodowym (wykład do wyboru)
+UID:b5c46839-015b-4818-bcda-2eab5493792b@b5c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20250115T101500Z
+LOCATION:Paw.B 351
+DTSTART:20250115T084500Z
+SUMMARY:Analiza rynków zagranicznych (wykład)
+UID:da4bfe00-8342-4f28-b1e9-e11fa836133e@da4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
+DTEND:20241007T124500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241007T111500Z
+SUMMARY:Międzynarodowy transport i spedycja (wykład)
+UID:8ff74f41-4e87-479c-b5ab-7a45cea6f89c@8ff7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Stanisława Klima
+DTEND:20241008T161500Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20241008T144500Z
+SUMMARY:Zrównoważony rozwój w biznesie międzynarodowym (ćwiczenia)
+UID:18659978-69c4-4d1d-b085-c79f8d8963bf@1865.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
+DTEND:20241202T120000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241202T103000Z
+SUMMARY:Eurobiznes (wykład)
+UID:cc3405d3-80c2-4e9a-b4fe-58a807eeadcd@cc34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241205T153000Z
+LOCATION:Paw.C sala C
+DTSTART:20241205T140000Z
+SUMMARY:Polityka przemysłowa wobec globalnej konkurencji (ćwiczenia)
+UID:941c5f53-1244-414e-b244-3df1dd032163@941c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20241015T091500Z
+LOCATION:Paw.B 251
+DTSTART:20241015T074500Z
+SUMMARY:Gospodarka oparta na wiedzy (wykład do wyboru)
+UID:44aba6a5-1213-484f-ac92-63f279ff49bf@44ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
+DTEND:20241017T161500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241017T144500Z
+SUMMARY:Międzynarodowy transport i spedycja (ćwiczenia)
+UID:db4c7556-2c87-4843-8014-80d80338fdb1@db4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20250124T111500Z
+LOCATION:Paw.G 12
+DTSTART:20250124T103000Z
+SUMMARY:Polityka przemysłowa wobec globalnej konkurencji (wykład)
+UID:18819841-1332-483e-85d1-7555a231a501@1881.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Stanisława Klima
+DTEND:20241104T101500Z
+LOCATION:Paw.C sala B
+DTSTART:20241104T084500Z
+SUMMARY:Zrównoważony rozwój w biznesie międzynarodowym (wykład)
+UID:e3f959cd-de58-4416-a3c4-5a970d441f2a@e3f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:09285c19-b099-4eac-a699-7e754e4bd32c@0928.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20250107T101500Z
+LOCATION:Paw.B 251
+DTSTART:20250107T084500Z
+SUMMARY:Gospodarka oparta na wiedzy (wykład do wyboru)
+UID:2157e0d9-be38-456e-9f15-7104fab24dba@2157.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241128T120000Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241128T103000Z
+SUMMARY:Polityka przemysłowa wobec globalnej konkurencji (wykład)
+UID:1b53130a-63b3-4da0-95cb-d68955b8fffd@1b53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Joanna Purgał-Popiela
+DTEND:20241127T153000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241127T140000Z
+SUMMARY:Międzynarodowe zarządzanie zasobami ludzkimi (wykład do wyboru)
+UID:8a72e3df-051e-4be8-b4a0-45d4433ebfe5@8a72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Garlińska-Bielawska
+DTEND:20241127T134500Z
+LOCATION:Paw.S sala 4
+DTSTART:20241127T121500Z
+SUMMARY:Procesy integracyjne w gospodarce światowej (wykład)
+UID:46490ae0-b5ce-4b27-bbb1-9190c037e76f@4649.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20250107T083000Z
+LOCATION:Paw.S sala 4
+DTSTART:20250107T070000Z
+SUMMARY:Zarządzanie innowacjami w biznesie międzynarodowym (wykład do wyboru)
+UID:e2104590-0f70-47e9-beb6-abed64066446@e210.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20241105T101500Z
+LOCATION:Paw.C sala E
+DTSTART:20241105T084500Z
+SUMMARY:Gospodarka oparta na wiedzy (wykład do wyboru)
+UID:be6c8a3a-989b-4136-8a91-9feecd4f377b@be6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Joanna Purgał-Popiela
+DTEND:20250108T171500Z
+LOCATION:Paw.S sala 9
+DTSTART:20250108T154500Z
+SUMMARY:Międzynarodowe zarządzanie zasobami ludzkimi (wykład do wyboru)
+UID:2c37bad5-b2b2-4ac3-8740-9ca41762fcac@2c37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20241029T101500Z
+LOCATION:Paw.B 251
+DTSTART:20241029T084500Z
+SUMMARY:Gospodarka oparta na wiedzy (wykład do wyboru)
+UID:d563da55-cb81-4d3a-9d91-4b336fd3200f@d563.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Garlińska-Bielawska
+DTEND:20241204T134500Z
+LOCATION:Paw.S sala 4
+DTSTART:20241204T121500Z
+SUMMARY:Procesy integracyjne w gospodarce światowej (wykład)
+UID:9f9c2f6f-2a53-486f-9c63-ed7fcecd2fc8@9f9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
+DTEND:20241014T124500Z
+LOCATION:Paw.C sala B
+DTSTART:20241014T111500Z
+SUMMARY:Międzynarodowy transport i spedycja (wykład)
+UID:ab8e13a2-0dfb-4708-bd1b-c31b4cf0f9a7@ab8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20241205T171500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241205T154500Z
+SUMMARY:Analiza rynków zagranicznych (ćwiczenia)
+UID:494c9bab-f41f-4b9e-8f0f-82dad3728699@494c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Joanna Purgał-Popiela
+DTEND:20241211T153000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241211T140000Z
+SUMMARY:Międzynarodowe zarządzanie zasobami ludzkimi (wykład do wyboru)
+UID:bc934f4d-609e-47f8-92b9-459fd263abf0@bc93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20241008T091500Z
+LOCATION:Paw.C sala E
+DTSTART:20241008T074500Z
+SUMMARY:Gospodarka oparta na wiedzy (wykład do wyboru)
+UID:632cee72-1c31-42b5-909d-2663039b0cba@632c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241024T143000Z
+LOCATION:Paw.C sala C
+DTSTART:20241024T130000Z
+SUMMARY:Polityka przemysłowa wobec globalnej konkurencji (ćwiczenia)
+UID:95a28be4-212f-486e-a586-134f8a6dbde0@95a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Stanisława Klima
+DTEND:20241216T101500Z
+LOCATION:Paw.C sala B
+DTSTART:20241216T084500Z
+SUMMARY:Zrównoważony rozwój w biznesie międzynarodowym (wykład)
+UID:b90bed58-d988-497a-b259-f7dd63c9591b@b90b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Joanna Purgał-Popiela
+DTEND:20241016T143000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241016T130000Z
+SUMMARY:Międzynarodowe zarządzanie zasobami ludzkimi (wykład do wyboru)
+UID:e9ccb474-6c9d-4a23-83ec-d5e1118e2242@e9cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Magdalena Gołębiowska
+DTEND:20241003T143000Z
+LOCATION:Bud.gł. 3
+DTSTART:20241003T130000Z
+SUMMARY:Eurobiznes (ćwiczenia)
+UID:a1de7bee-3da3-479d-b3a8-822cc9b3251e@a1de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
+DTEND:20241104T134500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241104T121500Z
+SUMMARY:Międzynarodowy transport i spedycja (wykład)
+UID:da0c3793-c854-47bf-950e-a9bceea28e7c@da0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20241126T083000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241126T070000Z
+SUMMARY:Zarządzanie innowacjami w biznesie międzynarodowym (wykład do wyboru)
+UID:e425a863-d774-4605-9dbe-e3791f571907@e425.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20241126T101500Z
+LOCATION:Paw.B 251
+DTSTART:20241126T084500Z
+SUMMARY:Gospodarka oparta na wiedzy (wykład do wyboru)
+UID:2085d882-641c-4d7c-9c2b-941e4ad892e3@2085.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Stanisława Klima
+DTEND:20241203T171500Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20241203T154500Z
+SUMMARY:Zrównoważony rozwój w biznesie międzynarodowym (ćwiczenia)
+UID:2573b376-fbe2-45ef-8086-142c90c15ec0@2573.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bożena Pera
+DTEND:20241105T153000Z
+LOCATION:Paw.U sala O
+DTSTART:20241105T140000Z
+SUMMARY:Dokumentacja w handlu zagranicznym (ćwiczenia)
+UID:e15c8fad-71a9-43d0-9ab7-cb93f61700d8@e15c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bożena Pera
+DTEND:20241120T171500Z
+LOCATION:Paw.C sala B
+DTSTART:20241120T154500Z
+SUMMARY:Dokumentacja w handlu zagranicznym (wykład)
+UID:716af6be-6005-4260-b60c-8f0f1671f10f@716a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20241008T073000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241008T060000Z
+SUMMARY:Zarządzanie innowacjami w biznesie międzynarodowym (wykład do wyboru)
+UID:3cf865c8-a7ec-4538-8790-b8d716040c4c@3cf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20250116T153000Z
+LOCATION:Paw.C sala C
+DTSTART:20250116T140000Z
+SUMMARY:Polityka przemysłowa wobec globalnej konkurencji (ćwiczenia)
+UID:22420c42-7fb6-4e22-a86e-a0f1938e1239@2242.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20250123T171500Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20250123T163000Z
+SUMMARY:Analiza rynków zagranicznych (ćwiczenia)
+UID:a8655554-0a20-45d6-b36a-e0f2da602fe1@a865.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241017T110000Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241017T093000Z
+SUMMARY:Polityka przemysłowa wobec globalnej konkurencji (wykład)
+UID:56109af2-fd28-4118-b190-d276a70fbaf0@5610.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241031T120000Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241031T103000Z
+SUMMARY:Polityka przemysłowa wobec globalnej konkurencji (wykład)
+UID:906227c5-6552-40a3-9b1e-6803878a2fa0@9062.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20241205T120000Z
+LOCATION:Paw.F 111
+DTSTART:20241205T103000Z
+SUMMARY:Zarządzanie innowacjami w biznesie międzynarodowym (wykład do wyboru)
+UID:910c1c6d-973c-45b4-b186-2b15be1ffe5c@910c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241121T153000Z
+LOCATION:Paw.C sala C
+DTSTART:20241121T140000Z
+SUMMARY:Polityka przemysłowa wobec globalnej konkurencji (ćwiczenia)
+UID:a6c03826-8e4f-4b5b-ad62-f6f9202b3a60@a6c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
+DTEND:20241014T110000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241014T093000Z
+SUMMARY:Eurobiznes (wykład)
+UID:cb6d4977-81d1-4c79-b89e-c259da15378d@cb6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Joanna Purgał-Popiela
+DTEND:20250108T153000Z
+LOCATION:Paw.S sala 4
+DTSTART:20250108T140000Z
+SUMMARY:Międzynarodowe zarządzanie zasobami ludzkimi (wykład do wyboru)
+UID:787d7511-bc3d-4908-9514-0a6e5e764c48@787d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Magdalena Gołębiowska
+DTEND:20250123T144500Z
+LOCATION:Bud.gł. 3
+DTSTART:20250123T140000Z
+SUMMARY:Eurobiznes (ćwiczenia)
+UID:21cb5b2c-f103-4ff6-bc4d-0272302793cf@21cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241010T143000Z
+LOCATION:Paw.C sala C
+DTSTART:20241010T130000Z
+SUMMARY:Polityka przemysłowa wobec globalnej konkurencji (ćwiczenia)
+UID:7ff06007-202c-4cba-9fd9-dd46a021c729@7ff0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
+DTEND:20241219T190000Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20241219T173000Z
+SUMMARY:Międzynarodowy transport i spedycja (ćwiczenia)
+UID:95f78c0d-7916-4e6a-8c26-926e28c6775a@95f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
+DTEND:20241118T120000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241118T103000Z
+SUMMARY:Eurobiznes (wykład)
+UID:5e9cfeca-d8ea-44be-a73a-2c8177c4d685@5e9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Stanisława Klima
+DTEND:20241118T101500Z
+LOCATION:Paw.C sala B
+DTSTART:20241118T084500Z
+SUMMARY:Zrównoważony rozwój w biznesie międzynarodowym (wykład)
+UID:d4947532-1f62-4ec6-86a7-690c94545fdc@d494.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Garlińska-Bielawska
+DTEND:20250108T134500Z
+LOCATION:Paw.S sala 4
+DTSTART:20250108T121500Z
+SUMMARY:Procesy integracyjne w gospodarce światowej (wykład)
+UID:fb6d0c54-db02-423e-8a61-00412f711df7@fb6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Stanisława Klima
+DTEND:20241119T171500Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20241119T154500Z
+SUMMARY:Zrównoważony rozwój w biznesie międzynarodowym (ćwiczenia)
+UID:172c2266-dabb-4b81-b24d-ebd3769d91ec@172c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Garlińska-Bielawska
+DTEND:20241016T124500Z
+LOCATION:Paw.S sala 4
+DTSTART:20241016T111500Z
+SUMMARY:Procesy integracyjne w gospodarce światowej (wykład)
+UID:91ae81ba-75a5-423b-861d-24852e25f48f@91ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20241024T110000Z
+LOCATION:Paw.S sala 6
+DTSTART:20241024T093000Z
+SUMMARY:Zarządzanie innowacjami w biznesie międzynarodowym (wykład do wyboru)
+UID:ebbfc62b-3619-4590-914d-c8fe6163eb27@ebbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:0f32e486-0acb-449c-b120-333a53a78c1b@0f32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Joanna Purgał-Popiela
+DTEND:20241030T153000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241030T140000Z
+SUMMARY:Międzynarodowe zarządzanie zasobami ludzkimi (wykład do wyboru)
+UID:d6507db2-4270-476e-aaf9-6ae87fcccf2a@d650.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241212T120000Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241212T103000Z
+SUMMARY:Polityka przemysłowa wobec globalnej konkurencji (wykład)
+UID:cf3bb73f-a3a8-43db-8818-cb02b486e911@cf3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
+DTEND:20250113T120000Z
+LOCATION:Paw.S sala 4
+DTSTART:20250113T103000Z
+SUMMARY:Eurobiznes (wykład)
+UID:a2fabbec-b2ca-42d0-9b7b-16cff1a85915@a2fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Garlińska-Bielawska
+DTEND:20241023T124500Z
+LOCATION:Paw.S sala 4
+DTSTART:20241023T111500Z
+SUMMARY:Procesy integracyjne w gospodarce światowej (wykład)
+UID:40ac060b-78f9-4745-9605-8b71507ca18f@40ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20241112T101500Z
+LOCATION:Paw.B 251
+DTSTART:20241112T084500Z
+SUMMARY:Gospodarka oparta na wiedzy (wykład do wyboru)
+UID:d72473a4-4191-486d-9b38-001f7ce9304d@d724.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
+DTEND:20241205T134500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20241205T121500Z
+SUMMARY:Międzynarodowy transport i spedycja (ćwiczenia)
+UID:06c78257-b3c5-4725-b4db-1761bf02bc2e@06c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bożena Pera
+DTEND:20241009T161500Z
+LOCATION:Paw.C sala B
+DTSTART:20241009T144500Z
+SUMMARY:Dokumentacja w handlu zagranicznym (wykład)
+UID:117278d9-06c4-468b-8dc1-d532b64554a1@1172.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bożena Pera
+DTEND:20241023T161500Z
+LOCATION:Paw.C sala B
+DTSTART:20241023T144500Z
+SUMMARY:Dokumentacja w handlu zagranicznym (wykład)
+UID:b539f801-bf81-45dd-baa2-1e61e7110bb7@b539.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Stanisława Klima
+DTEND:20250114T171500Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20250114T154500Z
+SUMMARY:Zrównoważony rozwój w biznesie międzynarodowym (ćwiczenia)
+UID:4f5c3842-aafc-48e3-82e9-d8232db2e602@4f5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20250116T171500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250116T154500Z
+SUMMARY:Analiza rynków zagranicznych (ćwiczenia)
+UID:38f45089-2774-47aa-a200-5bc84579120e@38f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bożena Pera
+DTEND:20241119T153000Z
+LOCATION:Paw.U sala O
+DTSTART:20241119T140000Z
+SUMMARY:Dokumentacja w handlu zagranicznym (ćwiczenia)
+UID:471ba33a-b040-479d-9eea-8390e0a34c83@471b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Joanna Purgał-Popiela
+DTEND:20241009T143000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241009T130000Z
+SUMMARY:Międzynarodowe zarządzanie zasobami ludzkimi (wykład do wyboru)
+UID:b0c4e9d1-66c9-41ab-86dd-4ad033ecec22@b0c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20241010T161500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241010T144500Z
+SUMMARY:Analiza rynków zagranicznych (ćwiczenia)
+UID:11b2f939-5db2-48d9-95d1-146057dafcc6@11b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Garlińska-Bielawska
+DTEND:20241009T124500Z
+LOCATION:Paw.S sala 4
+DTSTART:20241009T111500Z
+SUMMARY:Procesy integracyjne w gospodarce światowej (wykład)
+UID:e53714be-5b08-4f19-9e7e-eea769b1f749@e537.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20241203T083000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241203T070000Z
+SUMMARY:Zarządzanie innowacjami w biznesie międzynarodowym (wykład do wyboru)
+UID:28a2dbd0-2948-4cdb-817e-ed4895f6321c@28a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20241024T161500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241024T144500Z
+SUMMARY:Analiza rynków zagranicznych (ćwiczenia)
+UID:7f23ca95-5004-4194-9987-84c13769d572@7f23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20241210T083000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241210T070000Z
+SUMMARY:Zarządzanie innowacjami w biznesie międzynarodowym (wykład do wyboru)
+UID:fe5766fc-3dda-439f-bc5a-53b2a15e386b@fe57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20241029T083000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241029T070000Z
+SUMMARY:Zarządzanie innowacjami w biznesie międzynarodowym (wykład do wyboru)
+UID:37017693-fb2d-4946-a5f2-10caf9cc5124@3701.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bożena Pera
+DTEND:20250114T153000Z
+LOCATION:Paw.U sala O
+DTSTART:20250114T140000Z
+SUMMARY:Dokumentacja w handlu zagranicznym (ćwiczenia)
+UID:79aa4e50-565a-4f0d-a010-7a694dfc8665@79aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20241022T073000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241022T060000Z
+SUMMARY:Zarządzanie innowacjami w biznesie międzynarodowym (wykład do wyboru)
+UID:da4c9c42-9425-42b4-b832-87eabd0f81ca@da4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20241106T101500Z
+LOCATION:Paw.B 351
+DTSTART:20241106T084500Z
+SUMMARY:Analiza rynków zagranicznych (wykład)
+UID:c8ef41e3-0389-48fd-95e9-446a49837cb1@c8ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Joanna Purgał-Popiela
+DTEND:20241106T153000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241106T140000Z
+SUMMARY:Międzynarodowe zarządzanie zasobami ludzkimi (wykład do wyboru)
+UID:0d93733f-0740-4bf8-b1e5-84692e97deee@0d93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20241203T101500Z
+LOCATION:Paw.C sala E
+DTSTART:20241203T084500Z
+SUMMARY:Gospodarka oparta na wiedzy (wykład do wyboru)
+UID:506fc96a-7323-4c98-bbe7-04efcbc04ccf@506f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20250121T101500Z
+LOCATION:Paw.B 251
+DTSTART:20250121T084500Z
+SUMMARY:Gospodarka oparta na wiedzy (wykład do wyboru)
+UID:e98b6f5d-a0e2-4e13-814d-a6e592f82e8e@e98b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bożena Pera
+DTEND:20241008T143000Z
+LOCATION:Paw.U sala O
+DTSTART:20241008T130000Z
+SUMMARY:Dokumentacja w handlu zagranicznym (ćwiczenia)
+UID:f470d470-3331-429e-a53a-8f91bc2ab975@f470.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
+DTEND:20241107T134500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20241107T121500Z
+SUMMARY:Międzynarodowy transport i spedycja (ćwiczenia)
+UID:2d4ec7f5-e334-40b5-a207-65ffa88571dd@2d4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20241210T101500Z
+LOCATION:Paw.B 251
+DTSTART:20241210T084500Z
+SUMMARY:Gospodarka oparta na wiedzy (wykład do wyboru)
+UID:2c7d94ef-591d-41ba-9265-2231a28c8b79@2c7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20250114T101500Z
+LOCATION:Paw.C sala E
+DTSTART:20250114T084500Z
+SUMMARY:Gospodarka oparta na wiedzy (wykład do wyboru)
+UID:e0d5a227-331d-4e18-bf50-b4774406a7b5@e0d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Joanna Purgał-Popiela
+DTEND:20241113T153000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241113T140000Z
+SUMMARY:Międzynarodowe zarządzanie zasobami ludzkimi (wykład do wyboru)
+UID:6f8405d3-a6d1-4211-bd9d-fb8daef64310@6f84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Garlińska-Bielawska
+DTEND:20241218T134500Z
+LOCATION:Paw.S sala 4
+DTSTART:20241218T121500Z
+SUMMARY:Procesy integracyjne w gospodarce światowej (wykład)
+UID:81c3e8bd-8383-426b-806a-edd9e28bdc46@81c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Stanisława Klima
+DTEND:20250120T111500Z
+LOCATION:Paw.C sala B
+DTSTART:20250120T103000Z
+SUMMARY:Zrównoważony rozwój w biznesie międzynarodowym (wykład)
+UID:b06b1495-7bd9-447e-bf84-2a2b50cdc3b4@b06b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Magdalena Gołębiowska
+DTEND:20250109T153000Z
+LOCATION:Bud.gł. 3
+DTSTART:20250109T140000Z
+SUMMARY:Eurobiznes (ćwiczenia)
+UID:b6378a8f-bea3-4f8f-a24a-c50065d9acc7@b637.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Garlińska-Bielawska
+DTEND:20241030T134500Z
+LOCATION:Paw.S sala 4
+DTSTART:20241030T121500Z
+SUMMARY:Procesy integracyjne w gospodarce światowej (wykład)
+UID:7311f614-9d80-4c2e-a0b3-3a39a9dbd797@7311.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20250109T120000Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20250109T103000Z
+SUMMARY:Polityka przemysłowa wobec globalnej konkurencji (wykład)
+UID:907233a1-ba4d-47df-a0aa-281e05a2bac0@9072.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Magdalena Gołębiowska
+DTEND:20241017T143000Z
+LOCATION:Bud.gł. 3
+DTSTART:20241017T130000Z
+SUMMARY:Eurobiznes (ćwiczenia)
+UID:0271ce40-d2d2-48f7-b4db-13ee7fb7db45@0271.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Magdalena Gołębiowska
+DTEND:20241212T153000Z
+LOCATION:Bud.gł. 3
+DTSTART:20241212T140000Z
+SUMMARY:Eurobiznes (ćwiczenia)
+UID:56652a75-96d9-4ffc-ba88-b456ba6bdd01@5665.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20241119T101500Z
+LOCATION:Paw.C sala E
+DTSTART:20241119T084500Z
+SUMMARY:Gospodarka oparta na wiedzy (wykład do wyboru)
+UID:93901f9b-9fc3-496d-b993-f8bcec519038@9390.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Stanisława Klima
+DTEND:20241022T161500Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20241022T144500Z
+SUMMARY:Zrównoważony rozwój w biznesie międzynarodowym (ćwiczenia)
+UID:adef6b5c-7fa1-44cf-9483-fdcfaad28d49@adef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Joanna Purgał-Popiela
+DTEND:20241120T153000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241120T140000Z
+SUMMARY:Międzynarodowe zarządzanie zasobami ludzkimi (wykład do wyboru)
+UID:708930e2-5d9a-4282-8c07-60921c37afb5@7089.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
+DTEND:20241121T190000Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20241121T173000Z
+SUMMARY:Międzynarodowy transport i spedycja (ćwiczenia)
+UID:f3ed6d2e-9283-4c00-9976-9cd7d65f5a51@f3ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Stanisława Klima
+DTEND:20241021T091500Z
+LOCATION:Paw.C sala B
+DTSTART:20241021T074500Z
+SUMMARY:Zrównoważony rozwój w biznesie międzynarodowym (wykład)
+UID:59467ac4-844c-40aa-be59-600d8fbe698c@5946.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20241219T171500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241219T154500Z
+SUMMARY:Analiza rynków zagranicznych (ćwiczenia)
+UID:d724a80a-3329-4437-a2ce-8255255b2db4@d724.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
+DTEND:20241216T134500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241216T121500Z
+SUMMARY:Międzynarodowy transport i spedycja (wykład)
+UID:a9670aab-1b70-43db-bf1d-3759e2b6b2a8@a967.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
+DTEND:20241007T110000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241007T093000Z
+SUMMARY:Eurobiznes (wykład)
+UID:0c26562a-0bc0-4253-9bc9-b962bc3fc371@0c26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20241009T091500Z
+LOCATION:Paw.B 351
+DTSTART:20241009T074500Z
+SUMMARY:Analiza rynków zagranicznych (wykład)
+UID:214a4a6a-a7fc-43f3-b80c-370f2594cd73@214a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20241217T101500Z
+LOCATION:Paw.C sala E
+DTSTART:20241217T084500Z
+SUMMARY:Gospodarka oparta na wiedzy (wykład do wyboru)
+UID:a90d2159-520e-436a-b6a3-47d029a8bd4a@a90d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
+DTEND:20241118T134500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241118T121500Z
+SUMMARY:Międzynarodowy transport i spedycja (wykład)
+UID:e32bb238-9c86-41bf-8dcb-d95a20d7eb30@e32b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Stanisława Klima
+DTEND:20241217T171500Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20241217T154500Z
+SUMMARY:Zrównoważony rozwój w biznesie międzynarodowym (ćwiczenia)
+UID:ed730d63-26d6-43c6-b981-bd5d4360714f@ed73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20241218T101500Z
+LOCATION:Paw.B 351
+DTSTART:20241218T084500Z
+SUMMARY:Analiza rynków zagranicznych (wykład)
+UID:39f29e2f-5831-4607-953d-20c36e9ce6e4@39f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20250114T083000Z
+LOCATION:Paw.S sala 4
+DTSTART:20250114T070000Z
+SUMMARY:Zarządzanie innowacjami w biznesie międzynarodowym (wykład do wyboru)
+UID:4a433b98-bfee-4ffb-89ba-6f85066c21a1@4a43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bożena Pera
+DTEND:20241204T171500Z
+LOCATION:Paw.C sala B
+DTSTART:20241204T154500Z
+SUMMARY:Dokumentacja w handlu zagranicznym (wykład)
+UID:7905f14f-4bfe-4ea0-bc94-9ab15c7813d9@7905.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Magdalena Gołębiowska
+DTEND:20241128T153000Z
+LOCATION:Bud.gł. 3
+DTSTART:20241128T140000Z
+SUMMARY:Eurobiznes (ćwiczenia)
+UID:529f55b5-1a69-477e-a153-ecff7e3ff54a@529f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
+DTEND:20241216T120000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241216T103000Z
+SUMMARY:Eurobiznes (wykład)
+UID:fb2af351-5d18-421c-b7f1-cec0876f7212@fb2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bożena Pera
+DTEND:20241203T153000Z
+LOCATION:Paw.U sala O
+DTSTART:20241203T140000Z
+SUMMARY:Dokumentacja w handlu zagranicznym (ćwiczenia)
+UID:44fd927a-e67b-486e-a234-8d731b23b011@44fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Stanisława Klima
+DTEND:20250113T101500Z
+LOCATION:Paw.C sala B
+DTSTART:20250113T084500Z
+SUMMARY:Zrównoważony rozwój w biznesie międzynarodowym (wykład)
+UID:e8710bc2-9e98-4001-8d7b-b120e2a4b27f@e871.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bożena Pera
+DTEND:20250115T163000Z
+LOCATION:Paw.C sala B
+DTSTART:20250115T154500Z
+SUMMARY:Dokumentacja w handlu zagranicznym (wykład)
+UID:8d7c1117-c18a-46fd-8533-b79c370c4c3f@8d7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bożena Pera
+DTEND:20241022T143000Z
+LOCATION:Paw.U sala O
+DTSTART:20241022T130000Z
+SUMMARY:Dokumentacja w handlu zagranicznym (ćwiczenia)
+UID:d83814a8-0fb4-4b27-aa83-f5ba8824eb41@d838.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Joanna Purgał-Popiela
+DTEND:20241204T153000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241204T140000Z
+SUMMARY:Międzynarodowe zarządzanie zasobami ludzkimi (wykład do wyboru)
+UID:8f13ae80-55b4-4484-a5c2-a5969ea48106@8f13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bożena Pera
+DTEND:20250114T190000Z
+LOCATION:Paw.C sala B
+DTSTART:20250114T173000Z
+SUMMARY:Dokumentacja w handlu zagranicznym (wykład)
+UID:7f162a11-fe09-4828-af64-b70a17134b69@7f16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20241010T180000Z
+LOCATION:Paw.B 351
+DTSTART:20241010T163000Z
+SUMMARY:Zarządzanie innowacjami w biznesie międzynarodowym (wykład do wyboru)
+UID:74ad34d4-10fc-49c3-8a3e-34f98f8840f9@74ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
+DTEND:20241202T134500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241202T121500Z
+SUMMARY:Międzynarodowy transport i spedycja (wykład)
+UID:2314f11b-287c-43f4-bdbe-bcf3754773d5@2314.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
+DTEND:20241104T120000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241104T103000Z
+SUMMARY:Eurobiznes (wykład)
+UID:d39baff5-3dbe-4000-9354-298cf6084b57@d39b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
+DTEND:20250113T134500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20250113T121500Z
+SUMMARY:Międzynarodowy transport i spedycja (wykład)
+UID:3e70e841-0a62-4840-8140-8a39a2b841b2@3e70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Garlińska-Bielawska
+DTEND:20241007T161500Z
+LOCATION:Paw.B 251
+DTSTART:20241007T144500Z
+SUMMARY:Procesy integracyjne w gospodarce światowej (wykład)
+UID:c215f819-7ca4-4c52-8e36-bdd9dbd2eace@c215.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bożena Pera
+DTEND:20250121T163000Z
+LOCATION:Paw.G  9
+DTSTART:20250121T154500Z
+SUMMARY:Dokumentacja w handlu zagranicznym (ćwiczenia)
+UID:4c85b28f-200a-4c32-b2bc-905272624d1f@4c85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
+DTEND:20241024T124500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20241024T111500Z
+SUMMARY:Międzynarodowy transport i spedycja (ćwiczenia)
+UID:dbb88fa7-96c7-4a9a-b959-3f23bd12d55d@dbb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
+DTEND:20250120T130000Z
+LOCATION:Paw.S sala 2
+DTSTART:20250120T121500Z
+SUMMARY:Eurobiznes (wykład)
+UID:4fcda50a-949f-4cb3-8476-df583d5ae98d@4fcd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20241204T101500Z
+LOCATION:Paw.B 351
+DTSTART:20241204T084500Z
+SUMMARY:Analiza rynków zagranicznych (wykład)
+UID:b06f43a5-9d6d-4a1a-879f-0b1124de49bc@b06f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Garlińska-Bielawska
+DTEND:20250122T134500Z
+LOCATION:Paw.S sala 4
+DTSTART:20250122T121500Z
+SUMMARY:Procesy integracyjne w gospodarce światowej (wykład)
+UID:304eec57-83b1-48ae-b02a-a65534fe3706@304e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Magdalena Gołębiowska
+DTEND:20241031T153000Z
+LOCATION:Bud.gł. 3
+DTSTART:20241031T140000Z
+SUMMARY:Eurobiznes (ćwiczenia)
+UID:ca58ca79-08da-4594-8c44-0e3e6660237d@ca58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20241217T083000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241217T070000Z
+SUMMARY:Zarządzanie innowacjami w biznesie międzynarodowym (wykład do wyboru)
+UID:f3ac03b2-46ae-4597-b3be-234d002398e2@f3ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Joanna Purgał-Popiela
+DTEND:20241023T143000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241023T130000Z
+SUMMARY:Międzynarodowe zarządzanie zasobami ludzkimi (wykład do wyboru)
+UID:b6fafa44-61ba-4121-bce8-61a901931e59@b6fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Joanna Purgał-Popiela
+DTEND:20250122T153000Z
+LOCATION:Paw.S sala 4
+DTSTART:20250122T140000Z
+SUMMARY:Międzynarodowe zarządzanie zasobami ludzkimi (wykład do wyboru)
+UID:40256676-9ca4-4c1b-b171-a90fb18b5b8d@4025.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Garlińska-Bielawska
+DTEND:20241211T134500Z
+LOCATION:Paw.S sala 4
+DTSTART:20241211T121500Z
+SUMMARY:Procesy integracyjne w gospodarce światowej (wykład)
+UID:b4beb8f2-69fe-4111-980f-fef130656564@b4be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bożena Pera
+DTEND:20241218T171500Z
+LOCATION:Paw.C sala B
+DTSTART:20241218T154500Z
+SUMMARY:Dokumentacja w handlu zagranicznym (wykład)
+UID:3344c23e-de96-45c6-83ef-a290b5f30f06@3344.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Magdalena Gołębiowska
+DTEND:20241114T153000Z
+LOCATION:Bud.gł. 3
+DTSTART:20241114T140000Z
+SUMMARY:Eurobiznes (ćwiczenia)
+UID:36480241-046f-44ce-991c-1fafe9e31bff@3648.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Garlińska-Bielawska
+DTEND:20241106T134500Z
+LOCATION:Paw.S sala 4
+DTSTART:20241106T121500Z
+SUMMARY:Procesy integracyjne w gospodarce światowej (wykład)
+UID:78dff279-4623-4717-af5e-aeb81b753ba6@78df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bożena Pera
+DTEND:20241106T171500Z
+LOCATION:Paw.C sala B
+DTSTART:20241106T154500Z
+SUMMARY:Dokumentacja w handlu zagranicznym (wykład)
+UID:97e07177-85ed-48c7-8bfa-4a94c9baefde@97e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Garlińska-Bielawska
+DTEND:20241120T134500Z
+LOCATION:Paw.S sala 4
+DTSTART:20241120T121500Z
+SUMMARY:Procesy integracyjne w gospodarce światowej (wykład)
+UID:33fa287e-60cb-4958-9e26-fff3de196899@33fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bożena Pera
+DTEND:20241217T153000Z
+LOCATION:Paw.U sala O
+DTSTART:20241217T140000Z
+SUMMARY:Dokumentacja w handlu zagranicznym (ćwiczenia)
+UID:14dbdc39-5f92-488b-8a35-ff4242b142f2@14db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20241023T091500Z
+LOCATION:Paw.B 351
+DTSTART:20241023T074500Z
+SUMMARY:Analiza rynków zagranicznych (wykład)
+UID:d172f9fe-be8d-44c3-9d1f-cfb9abf95bdf@d172.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
+DTEND:20241121T134500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20241121T121500Z
+SUMMARY:Międzynarodowy transport i spedycja (ćwiczenia)
+UID:29c0a559-e236-458a-8ef1-754297e90461@29c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
+DTEND:20250116T130000Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20250116T121500Z
+SUMMARY:Międzynarodowy transport i spedycja (ćwiczenia)
+UID:6dc14814-97ef-4baf-a42a-17550f014d0b@6dc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20241120T101500Z
+LOCATION:Paw.B 351
+DTSTART:20241120T084500Z
+SUMMARY:Analiza rynków zagranicznych (wykład)
+UID:d9485b26-ccde-4d7a-8b91-49704986b800@d948.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20241015T073000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241015T060000Z
+SUMMARY:Zarządzanie innowacjami w biznesie międzynarodowym (wykład do wyboru)
+UID:02627fe7-bad0-4245-9374-43def316c2ab@0262.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Stanisława Klima
+DTEND:20241007T091500Z
+LOCATION:Paw.C sala B
+DTSTART:20241007T074500Z
+SUMMARY:Zrównoważony rozwój w biznesie międzynarodowym (wykład)
+UID:59a947d6-52b9-4948-a5a7-661ccd06e649@59a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Garlińska-Bielawska
+DTEND:20250115T134500Z
+LOCATION:Paw.S sala 4
+DTSTART:20250115T121500Z
+SUMMARY:Procesy integracyjne w gospodarce światowej (wykład)
+UID:a1e9ac22-18c2-4a4c-907e-618e7751c923@a1e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Stanisława Klima
+DTEND:20250121T153000Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20250121T144500Z
+SUMMARY:Zrównoważony rozwój w biznesie międzynarodowym (ćwiczenia)
+UID:ac9d2776-1fc5-45ac-baf1-6b8010181fa7@ac9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Garlińska-Bielawska
+DTEND:20241113T134500Z
+LOCATION:Paw.S sala 4
+DTSTART:20241113T121500Z
+SUMMARY:Procesy integracyjne w gospodarce światowej (wykład)
+UID:b04633a5-38ad-4859-9378-a84a3101adc8@b046.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241107T153000Z
+LOCATION:Paw.C sala C
+DTSTART:20241107T140000Z
+SUMMARY:Polityka przemysłowa wobec globalnej konkurencji (ćwiczenia)
+UID:f0e99b2f-560e-453a-b3fb-9d23af0689dc@f0e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20241121T171500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241121T154500Z
+SUMMARY:Analiza rynków zagranicznych (ćwiczenia)
+UID:ff772390-b947-4e43-ad67-9da53412ff49@ff77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Hajdukiewicz
+DTEND:20241107T171500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241107T154500Z
+SUMMARY:Analiza rynków zagranicznych (ćwiczenia)
+UID:17d040fe-c9e7-4d72-9f76-1452dd3f2211@17d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Kosała
+DTEND:20250121T083000Z
+LOCATION:Paw.S sala 4
+DTSTART:20250121T070000Z
+SUMMARY:Zarządzanie innowacjami w biznesie międzynarodowym (wykład do wyboru)
+UID:38529843-8073-41d1-a7cc-0bb224e3ac73@3852.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20250124T134500Z
+LOCATION:Paw.F 106
+DTSTART:20250124T130000Z
+SUMMARY:Polityka przemysłowa wobec globalnej konkurencji (ćwiczenia)
+UID:feae0875-2d16-4e8d-969c-51e8e2bed5ab@feae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Stanisława Klima
+DTEND:20241202T101500Z
+LOCATION:Paw.C sala B
+DTSTART:20241202T084500Z
+SUMMARY:Zrównoważony rozwój w biznesie międzynarodowym (wykład)
+UID:cf72c01f-351b-449e-a82f-a04253633655@cf72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241219T153000Z
+LOCATION:Paw.C sala C
+DTSTART:20241219T140000Z
+SUMMARY:Polityka przemysłowa wobec globalnej konkurencji (ćwiczenia)
+UID:6ccdef87-125f-4dde-8de5-785c2671b89e@6ccd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Stanisława Klima
+DTEND:20241105T171500Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20241105T154500Z
+SUMMARY:Zrównoważony rozwój w biznesie międzynarodowym (ćwiczenia)
+UID:a6cf21c7-522b-490c-ad30-f43b0a4a4e18@a6cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Joanna Purgał-Popiela
+DTEND:20241218T153000Z
+LOCATION:Paw.S sala 4
+DTSTART:20241218T140000Z
+SUMMARY:Międzynarodowe zarządzanie zasobami ludzkimi (wykład do wyboru)
+UID:f0043e23-5979-4bee-86b7-5ec7060df7d2@f004.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20241022T091500Z
+LOCATION:Paw.C sala E
+DTSTART:20241022T074500Z
+SUMMARY:Gospodarka oparta na wiedzy (wykład do wyboru)
+UID:2fd101ff-c58e-4411-b5cf-a0959821064f@2fd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20250123T120000Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20250123T103000Z
+SUMMARY:Polityka przemysłowa wobec globalnej konkurencji (wykład)
+UID:07242be9-d086-4c16-a371-673c953f1bb1@0724.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Rachwał
+DTEND:20250120T134500Z
+LOCATION:Paw.S sala 2
+DTSTART:20250120T130000Z
+SUMMARY:Międzynarodowy transport i spedycja (wykład)
+UID:59c14952-ec98-4ac6-b04a-64ef379c48c3@59c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241114T120000Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241114T103000Z
+SUMMARY:Polityka przemysłowa wobec globalnej konkurencji (wykład)
+UID:eebf2278-0a82-4314-b1d0-72eb1d06fb5a@eebf.org
+END:VEVENT
+END:VCALENDAR

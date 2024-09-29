@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241107T101500Z
+LOCATION:link do zajęć
+DTSTART:20241107T084500Z
+SUMMARY:Seminarium indywidualne - 30h (seminarium)
+UID:243ea3ea-1eb2-43c4-a149-a4730d2adbdf@243e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:7ec92f57-b783-4e72-bf33-b71592acc860@7ec9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241024T091500Z
+LOCATION:link do zajęć
+DTSTART:20241024T074500Z
+SUMMARY:Seminarium indywidualne - 30h (seminarium)
+UID:13d40986-8fae-4c37-b643-95bafb92d236@13d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241121T101500Z
+LOCATION:link do zajęć
+DTSTART:20241121T084500Z
+SUMMARY:Seminarium indywidualne - 30h (seminarium)
+UID:dc4b535d-421a-4d9c-b1c2-1f12b5336963@dc4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241128T101500Z
+LOCATION:link do zajęć
+DTSTART:20241128T084500Z
+SUMMARY:Seminarium indywidualne - 30h (seminarium)
+UID:5b379c37-b585-48df-a8a0-3b6245d8d350@5b37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241212T101500Z
+LOCATION:link do zajęć
+DTSTART:20241212T084500Z
+SUMMARY:Seminarium indywidualne - 30h (seminarium)
+UID:adcd893a-6b90-4600-be96-b8167037581b@adcd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241114T101500Z
+LOCATION:link do zajęć
+DTSTART:20241114T084500Z
+SUMMARY:Seminarium indywidualne - 30h (seminarium)
+UID:ffd11275-b133-4433-b652-b953f87d53b1@ffd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241205T101500Z
+LOCATION:link do zajęć
+DTSTART:20241205T084500Z
+SUMMARY:Seminarium indywidualne - 30h (seminarium)
+UID:bb21208d-abc5-4941-b897-dd0caf6ce199@bb21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241017T091500Z
+LOCATION:link do zajęć
+DTSTART:20241017T074500Z
+SUMMARY:Seminarium indywidualne - 30h (seminarium)
+UID:e8db189f-4a8c-4cee-b84f-d0a19328a444@e8db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241010T091500Z
+LOCATION:link do zajęć
+DTSTART:20241010T074500Z
+SUMMARY:Seminarium indywidualne - 30h (seminarium)
+UID:4183eaed-eca4-4c3f-a333-97694378aaf6@4183.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241031T101500Z
+LOCATION:link do zajęć
+DTSTART:20241031T084500Z
+SUMMARY:Seminarium indywidualne - 30h (seminarium)
+UID:8954dd4e-2163-4de4-bc5c-7486a17e6805@8954.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:d8a4be58-c0e5-44c6-9f37-7d67e4d75982@d8a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agnieszka Latosińska
+DTEND:20241219T093000Z
+LOCATION:link do zajęć
+DTSTART:20241219T084500Z
+SUMMARY:Seminarium indywidualne - 30h (seminarium)
+UID:d63d88b4-541f-4ce9-82eb-eea47129cfd0@d63d.org
+END:VEVENT
+END:VCALENDAR

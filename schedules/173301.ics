@@ -1,0 +1,818 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Baran
+DTEND:20250123T130000Z
+LOCATION:Paw.S sala 8
+DTSTART:20250123T121500Z
+SUMMARY:Ekonomiczna analiza funkcjonowania samorządów lokalnych w Polsce (ćwiczenia do wyboru)
+UID:0705678e-86c0-4f30-a1fd-fe9cd19a04a1@0705.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241011T073000Z
+LOCATION:Bibl. 440
+DTSTART:20241011T060000Z
+SUMMARY:Zarządzanie strategiczne w sektorze publicznym (konwersatorium)
+UID:ba302d71-c505-4e23-9514-f59bac01fdaf@ba30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241024T110000Z
+LOCATION:Bud.gł. 4
+DTSTART:20241024T093000Z
+SUMMARY:Zarządzanie strategiczne w sektorze publicznym (konwersatorium)
+UID:fb4a159b-6880-4f54-8220-ba31e3028c3c@fb4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
+DTEND:20241118T171500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241118T154500Z
+SUMMARY:Zarządzanie procesami organizacyjnymi w administracji publicznej (konwersatorium)
+UID:9020de8f-aac7-4b4c-af51-cc63112c3c21@9020.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20250121T111500Z
+LOCATION:link do zajęć
+DTSTART:20250121T103000Z
+SUMMARY:Współrządzenie miastem (wykład do wyboru)
+UID:034e18da-5286-45f2-8d22-f8d5e4454cbc@034e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241031T101500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241031T084500Z
+SUMMARY:Współczesne koncepcje rozwoju miast (konwersatorium do wyboru)
+UID:17cc225f-8be0-4a09-9bd5-5edcc6ea2c83@17cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241105T101500Z
+LOCATION:link do zajęć
+DTSTART:20241105T084500Z
+SUMMARY:Polityka rozwoju miast (wykład)
+UID:e756c280-eed3-4ebf-9b8f-0b5d1f97065f@e756.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241107T120000Z
+LOCATION:Bud.gł. 4
+DTSTART:20241107T103000Z
+SUMMARY:Zarządzanie strategiczne w sektorze publicznym (konwersatorium)
+UID:69012042-11eb-43ec-8fd6-360de99d8df9@6901.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241017T110000Z
+LOCATION:Bud.gł. 4
+DTSTART:20241017T093000Z
+SUMMARY:Zarządzanie strategiczne w sektorze publicznym (konwersatorium)
+UID:acba718c-9153-4703-a918-d32ab36ae55b@acba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20250107T120000Z
+LOCATION:link do zajęć
+DTSTART:20250107T103000Z
+SUMMARY:Współrządzenie miastem (wykład do wyboru)
+UID:82a7d7ff-3d9b-4df6-8f07-d1971bb195e5@82a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241114T083000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241114T070000Z
+SUMMARY:Polityka rozwoju miast (ćwiczenia)
+UID:cd65453a-060d-4121-88b4-386af667b776@cd65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20241204T171500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241204T154500Z
+SUMMARY:Współczesne wyzwania gospodarcze (konwersatorium)
+UID:53d71121-06b1-4b0b-bf00-010406a43f29@53d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Baran
+DTEND:20241219T083000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241219T070000Z
+SUMMARY:Ekonomiczna analiza funkcjonowania samorządów lokalnych w Polsce (ćwiczenia do wyboru)
+UID:afd1da28-be1e-4589-ba56-c2846ac4a3b4@afd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20250123T083000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20250123T074500Z
+SUMMARY:Polityka rozwoju miast (ćwiczenia)
+UID:2696ad8c-8cec-48ae-a091-6477f52e8d64@2696.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
+DTEND:20241030T134500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241030T121500Z
+SUMMARY:Zarządzanie procesami organizacyjnymi w administracji publicznej (konwersatorium)
+UID:ae330411-04ba-47fe-8d43-88020e151241@ae33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
+DTEND:20241104T184500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241104T154500Z
+SUMMARY:Zarządzanie procesami organizacyjnymi w administracji publicznej (konwersatorium)
+UID:1e72d662-7d81-47b9-97b0-3cb0956a8858@1e72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Baran
+DTEND:20241210T101500Z
+LOCATION:link do zajęć
+DTSTART:20241210T084500Z
+SUMMARY:Ekonomiczna analiza funkcjonowania samorządów lokalnych w Polsce (wykład do wyboru)
+UID:be396c58-5c94-479c-994c-f92abcc0d059@be39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241212T120000Z
+LOCATION:Bud.gł. 4
+DTSTART:20241212T103000Z
+SUMMARY:Zarządzanie strategiczne w sektorze publicznym (konwersatorium)
+UID:de5c1d76-3610-42e3-8dc9-811515609720@de5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Baran
+DTEND:20241024T073000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241024T060000Z
+SUMMARY:Ekonomiczna analiza funkcjonowania samorządów lokalnych w Polsce (ćwiczenia do wyboru)
+UID:7cc4a3f3-fe78-4b12-94d4-d787b28e8bab@7cc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241114T120000Z
+LOCATION:Bud.gł. 4
+DTSTART:20241114T103000Z
+SUMMARY:Zarządzanie strategiczne w sektorze publicznym (konwersatorium)
+UID:3c320223-2c4e-4dd7-bf0c-8083bb7264f7@3c32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241128T120000Z
+LOCATION:Bud.gł. 4
+DTSTART:20241128T103000Z
+SUMMARY:Zarządzanie strategiczne w sektorze publicznym (konwersatorium)
+UID:35c7f10e-02f2-456c-b383-a7914b8f9491@35c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20241211T171500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241211T154500Z
+SUMMARY:Współczesne wyzwania gospodarcze (konwersatorium)
+UID:74dec45d-d921-4ceb-b2e9-7e4e01fa10be@74de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241128T083000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241128T070000Z
+SUMMARY:Polityka rozwoju miast (ćwiczenia)
+UID:125fc911-de82-4024-a22f-35a49692b3e4@125f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241024T091500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241024T074500Z
+SUMMARY:Współrządzenie miastem (ćwiczenia do wyboru)
+UID:92b4150b-be0f-46d5-af16-69f507beab4f@92b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Baran
+DTEND:20241112T101500Z
+LOCATION:link do zajęć
+DTSTART:20241112T084500Z
+SUMMARY:Ekonomiczna analiza funkcjonowania samorządów lokalnych w Polsce (wykład do wyboru)
+UID:01ae1fa6-897b-4999-941c-2a396541c022@01ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241031T120000Z
+LOCATION:Bud.gł. 4
+DTSTART:20241031T103000Z
+SUMMARY:Zarządzanie strategiczne w sektorze publicznym (konwersatorium)
+UID:e8b00d28-eb90-42b7-938f-a515693a0457@e8b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Baran
+DTEND:20241001T091500Z
+LOCATION:link do zajęć
+DTSTART:20241001T074500Z
+SUMMARY:Ekonomiczna analiza funkcjonowania samorządów lokalnych w Polsce (wykład do wyboru)
+UID:fa37f382-29a5-4534-902d-d90c4456aaca@fa37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20241120T171500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241120T154500Z
+SUMMARY:Współczesne wyzwania gospodarcze (konwersatorium)
+UID:3e15d969-ef11-4136-a334-fb8d669d3eba@3e15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20250115T171500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20250115T154500Z
+SUMMARY:Współczesne wyzwania gospodarcze (konwersatorium)
+UID:bb54a344-3196-40a2-999d-506b8d46c0a1@bb54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20250122T171500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20250122T154500Z
+SUMMARY:Współczesne wyzwania gospodarcze (konwersatorium)
+UID:247eddd7-e118-4e76-ae61-04029b55a45d@247e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
+DTEND:20250115T134500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20250115T121500Z
+SUMMARY:Zarządzanie procesami organizacyjnymi w administracji publicznej (konwersatorium)
+UID:65c51753-04cd-47f0-91b2-09eb025a3360@65c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241219T101500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241219T084500Z
+SUMMARY:Współrządzenie miastem (ćwiczenia do wyboru)
+UID:0a2d964c-babd-4a89-b182-2b52e0343abb@0a2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241121T101500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241121T084500Z
+SUMMARY:Współrządzenie miastem (ćwiczenia do wyboru)
+UID:42de0c78-dff6-4c69-a26d-b1d265828f1a@42de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241001T110000Z
+LOCATION:link do zajęć
+DTSTART:20241001T093000Z
+SUMMARY:Współrządzenie miastem (wykład do wyboru)
+UID:f3d3d2fc-36a9-42b5-b985-0708279ad8e8@f3d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20241016T161500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241016T144500Z
+SUMMARY:Współczesne wyzwania gospodarcze (konwersatorium)
+UID:e5813af8-4ede-4dbe-a29b-8c0e47773a15@e581.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241119T101500Z
+LOCATION:link do zajęć
+DTSTART:20241119T084500Z
+SUMMARY:Polityka rozwoju miast (wykład)
+UID:a9f4284e-0573-459b-bcf8-30d02fcfa43a@a9f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
+DTEND:20241218T134500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241218T121500Z
+SUMMARY:Zarządzanie procesami organizacyjnymi w administracji publicznej (konwersatorium)
+UID:8f0dd955-0049-4088-9b00-fa5fd340c251@8f0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Baran
+DTEND:20241126T101500Z
+LOCATION:link do zajęć
+DTSTART:20241126T084500Z
+SUMMARY:Ekonomiczna analiza funkcjonowania samorządów lokalnych w Polsce (wykład do wyboru)
+UID:157f5985-9c9a-4a89-ac1d-24abd3b20138@157f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
+DTEND:20250122T134500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20250122T121500Z
+SUMMARY:Zarządzanie procesami organizacyjnymi w administracji publicznej (konwersatorium)
+UID:dea6564a-84d2-4a19-bdbf-99daf7f8f2e2@dea6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241219T120000Z
+LOCATION:Bud.gł. 4
+DTSTART:20241219T103000Z
+SUMMARY:Zarządzanie strategiczne w sektorze publicznym (konwersatorium)
+UID:5e263518-1353-4d7b-b2b0-55b06b48ba8c@5e26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241003T110000Z
+LOCATION:Bud.gł. 4
+DTSTART:20241003T093000Z
+SUMMARY:Zarządzanie strategiczne w sektorze publicznym (konwersatorium)
+UID:ef47a86c-a3b6-4b84-9e6c-49eb361db2fa@ef47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241205T120000Z
+LOCATION:Bud.gł. 4
+DTSTART:20241205T103000Z
+SUMMARY:Zarządzanie strategiczne w sektorze publicznym (konwersatorium)
+UID:7f8f8624-4872-4f26-b574-c564766fb184@7f8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20250116T101500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20250116T084500Z
+SUMMARY:Współrządzenie miastem (ćwiczenia do wyboru)
+UID:35e9f0da-2d6c-4c8c-b4cb-5935434d1b85@35e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Baran
+DTEND:20250121T093000Z
+LOCATION:link do zajęć
+DTSTART:20250121T084500Z
+SUMMARY:Ekonomiczna analiza funkcjonowania samorządów lokalnych w Polsce (wykład do wyboru)
+UID:46ff86f8-13cd-4560-9bb8-a29e7ea7ed88@46ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Baran
+DTEND:20250116T083000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20250116T070000Z
+SUMMARY:Ekonomiczna analiza funkcjonowania samorządów lokalnych w Polsce (ćwiczenia do wyboru)
+UID:dabaa961-82ca-4439-a67b-22d80ffa54f6@daba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20250109T083000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20250109T070000Z
+SUMMARY:Polityka rozwoju miast (ćwiczenia)
+UID:27b73d2d-5925-4816-9e58-d7f7183f2734@27b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Baran
+DTEND:20241107T083000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241107T070000Z
+SUMMARY:Ekonomiczna analiza funkcjonowania samorządów lokalnych w Polsce (ćwiczenia do wyboru)
+UID:f1fbd8b1-da40-41b0-a806-d27e2b8516b7@f1fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241015T073000Z
+LOCATION:link do zajęć
+DTSTART:20241015T064500Z
+SUMMARY:Polityka rozwoju miast (wykład)
+UID:29b3f4dd-7ca0-426b-ad5c-6fbec9631a3b@29b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20250116T171500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20250116T154500Z
+SUMMARY:Współczesne wyzwania gospodarcze (konwersatorium)
+UID:9ea9d6cb-d62f-43d5-a7ef-2b8a4b6c7c09@9ea9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
+DTEND:20241023T124500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241023T111500Z
+SUMMARY:Zarządzanie procesami organizacyjnymi w administracji publicznej (konwersatorium)
+UID:3ece1953-3146-4984-a762-d43c6674c71d@3ece.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20241127T171500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241127T154500Z
+SUMMARY:Współczesne wyzwania gospodarcze (konwersatorium)
+UID:74ffe8d6-6a10-486f-955e-d9150a757c12@74ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241121T120000Z
+LOCATION:Bud.gł. 4
+DTSTART:20241121T103000Z
+SUMMARY:Zarządzanie strategiczne w sektorze publicznym (konwersatorium)
+UID:6656c0c4-b5b1-4b85-8d16-c3ab9d211320@6656.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241022T091500Z
+LOCATION:link do zajęć
+DTSTART:20241022T074500Z
+SUMMARY:Polityka rozwoju miast (wykład)
+UID:c7f5f5f5-068e-49aa-80aa-0dd057bc8811@c7f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
+DTEND:20241009T124500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241009T111500Z
+SUMMARY:Zarządzanie procesami organizacyjnymi w administracji publicznej (konwersatorium)
+UID:fe7d73c6-6403-4e75-90e8-fe3fb369882d@fe7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
+DTEND:20241211T134500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241211T121500Z
+SUMMARY:Zarządzanie procesami organizacyjnymi w administracji publicznej (konwersatorium)
+UID:f233021e-ff46-4354-bc78-fdc6d5f36675@f233.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20241009T161500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241009T144500Z
+SUMMARY:Współczesne wyzwania gospodarcze (konwersatorium)
+UID:8c09e1ab-b13b-4081-87e8-978ad44946d5@8c09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241203T101500Z
+LOCATION:link do zajęć
+DTSTART:20241203T084500Z
+SUMMARY:Polityka rozwoju miast (wykład)
+UID:2cd1a19b-ad04-47fe-9424-3f00c4e8d20c@2cd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20250116T120000Z
+LOCATION:Bud.gł. 4
+DTSTART:20250116T103000Z
+SUMMARY:Zarządzanie strategiczne w sektorze publicznym (konwersatorium)
+UID:cc4d67f9-3bbb-4c20-8b58-791d78c9c146@cc4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241210T120000Z
+LOCATION:link do zajęć
+DTSTART:20241210T103000Z
+SUMMARY:Współrządzenie miastem (wykład do wyboru)
+UID:d1bbeaad-43e9-4f7b-8de4-a147852fc582@d1bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241107T101500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241107T084500Z
+SUMMARY:Współrządzenie miastem (ćwiczenia do wyboru)
+UID:aa21a9ad-4139-4581-8e32-f8be7a34f0bb@aa21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20250123T120000Z
+LOCATION:Bud.gł. 4
+DTSTART:20250123T103000Z
+SUMMARY:Zarządzanie strategiczne w sektorze publicznym (konwersatorium)
+UID:3abee1bf-fed6-4e94-9cb2-d98eba0c00d7@3abe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:6f02dc91-3b06-4b3e-9682-72daa708b9d3@6f02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
+DTEND:20241127T134500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241127T121500Z
+SUMMARY:Zarządzanie procesami organizacyjnymi w administracji publicznej (konwersatorium)
+UID:85522ad1-c5e1-4879-81c0-81279feec754@8552.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241010T091500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241010T074500Z
+SUMMARY:Współrządzenie miastem (ćwiczenia do wyboru)
+UID:201fb9f5-f443-4f44-8de5-ca36d6dfa8fa@201f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20241106T171500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241106T154500Z
+SUMMARY:Współczesne wyzwania gospodarcze (konwersatorium)
+UID:7475738a-2ff3-4a4e-8cc0-e29741050d6d@7475.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241015T110000Z
+LOCATION:link do zajęć
+DTSTART:20241015T093000Z
+SUMMARY:Współrządzenie miastem (wykład do wyboru)
+UID:74cfce12-4fbc-46b7-81f4-aa13dccf6244@74cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20250108T171500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20250108T154500Z
+SUMMARY:Współczesne wyzwania gospodarcze (konwersatorium)
+UID:1f0935fc-bc0a-4f16-83c0-05841d4f32a9@1f09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20250123T093000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20250123T084500Z
+SUMMARY:Współczesne koncepcje rozwoju miast (konwersatorium do wyboru)
+UID:4b59d916-f5cc-4167-8dba-c49ad0476e0d@4b59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241128T101500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241128T084500Z
+SUMMARY:Współczesne koncepcje rozwoju miast (konwersatorium do wyboru)
+UID:a9c30e69-7616-4336-8593-ca1a22db11bf@a9c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241031T083000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241031T070000Z
+SUMMARY:Polityka rozwoju miast (ćwiczenia)
+UID:7a7108a2-8c9d-4dc3-a53f-b343bd9bd1ef@7a71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241126T120000Z
+LOCATION:link do zajęć
+DTSTART:20241126T103000Z
+SUMMARY:Współrządzenie miastem (wykład do wyboru)
+UID:535c11cb-8adb-4e9d-a2c1-6489c6a0f1ad@535c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241112T120000Z
+LOCATION:link do zajęć
+DTSTART:20241112T103000Z
+SUMMARY:Współrządzenie miastem (wykład do wyboru)
+UID:9372709e-5df3-49ac-b656-de9aad44ee9f@9372.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241114T101500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241114T084500Z
+SUMMARY:Współczesne koncepcje rozwoju miast (konwersatorium do wyboru)
+UID:0d4716dd-edd5-43d5-9cdb-97c514fef709@0d47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20250114T101500Z
+LOCATION:link do zajęć
+DTSTART:20250114T084500Z
+SUMMARY:Polityka rozwoju miast (wykład)
+UID:ef4265fa-46c4-41c3-8dd3-d30a6de93031@ef42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241003T091500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241003T074500Z
+SUMMARY:Współczesne koncepcje rozwoju miast (konwersatorium do wyboru)
+UID:39007653-83ac-4363-b156-72d3031b596d@3900.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20250109T101500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20250109T084500Z
+SUMMARY:Współczesne koncepcje rozwoju miast (konwersatorium do wyboru)
+UID:c0d2530f-00cb-4b6d-8bbb-faaa84a0f4fa@c0d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20241023T161500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241023T144500Z
+SUMMARY:Współczesne wyzwania gospodarcze (konwersatorium)
+UID:3fa51dd2-23d4-4b06-a775-bf5f4cb11957@3fa5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241017T073000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241017T060000Z
+SUMMARY:Polityka rozwoju miast (ćwiczenia)
+UID:53f94154-a290-4653-8ac9-b2d1e63682a7@53f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
+DTEND:20241113T134500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241113T121500Z
+SUMMARY:Zarządzanie procesami organizacyjnymi w administracji publicznej (konwersatorium)
+UID:cc68b355-40f0-4e25-9f30-7bcb9ecfa810@cc68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Baran
+DTEND:20241015T091500Z
+LOCATION:link do zajęć
+DTSTART:20241015T074500Z
+SUMMARY:Ekonomiczna analiza funkcjonowania samorządów lokalnych w Polsce (wykład do wyboru)
+UID:0536f0af-72c2-4d6a-afb4-1c981ed5c91d@0536.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20250109T120000Z
+LOCATION:Bud.gł. 4
+DTSTART:20250109T103000Z
+SUMMARY:Zarządzanie strategiczne w sektorze publicznym (konwersatorium)
+UID:f719bfde-3813-4b6b-a7c1-e111fae4507f@f719.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20241113T171500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241113T154500Z
+SUMMARY:Współczesne wyzwania gospodarcze (konwersatorium)
+UID:aff28521-0c0f-460c-b887-342f6e42a176@aff2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241008T091500Z
+LOCATION:link do zajęć
+DTSTART:20241008T074500Z
+SUMMARY:Polityka rozwoju miast (wykład)
+UID:580a118c-7eab-432c-acc4-50adadb8942b@580a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241205T101500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241205T084500Z
+SUMMARY:Współrządzenie miastem (ćwiczenia do wyboru)
+UID:b21673b8-ea5d-4d83-a2a3-4108b7c48327@b216.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Baran
+DTEND:20241029T101500Z
+LOCATION:link do zajęć
+DTSTART:20241029T084500Z
+SUMMARY:Ekonomiczna analiza funkcjonowania samorządów lokalnych w Polsce (wykład do wyboru)
+UID:42fe0ccd-4977-493e-98af-ccdde6d0c591@42fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241212T083000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241212T070000Z
+SUMMARY:Polityka rozwoju miast (ćwiczenia)
+UID:29da54d4-2770-4514-9a44-a02284b813fb@29da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241003T073000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241003T060000Z
+SUMMARY:Polityka rozwoju miast (ćwiczenia)
+UID:209f8f3c-ecb4-4db6-a36e-8f1ee3b9c64f@209f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Baran
+DTEND:20241121T083000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241121T070000Z
+SUMMARY:Ekonomiczna analiza funkcjonowania samorządów lokalnych w Polsce (ćwiczenia do wyboru)
+UID:0d1c985e-fb80-4476-9f0b-b1802873e48f@0d1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
+DTEND:20250108T134500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20250108T121500Z
+SUMMARY:Zarządzanie procesami organizacyjnymi w administracji publicznej (konwersatorium)
+UID:10b5a6cb-dfdd-43ca-910d-e956ecc01498@10b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Baran
+DTEND:20250107T101500Z
+LOCATION:link do zajęć
+DTSTART:20250107T084500Z
+SUMMARY:Ekonomiczna analiza funkcjonowania samorządów lokalnych w Polsce (wykład do wyboru)
+UID:d2e2c907-a2a8-43c0-9ec8-1c25b6390ff1@d2e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
+DTEND:20241204T134500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241204T121500Z
+SUMMARY:Zarządzanie procesami organizacyjnymi w administracji publicznej (konwersatorium)
+UID:13b10053-a2e9-403e-9690-032a9b770c35@13b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20241030T171500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241030T154500Z
+SUMMARY:Współczesne wyzwania gospodarcze (konwersatorium)
+UID:950e48f3-3907-47d6-ae8d-e74ba9bdb107@950e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241217T101500Z
+LOCATION:link do zajęć
+DTSTART:20241217T084500Z
+SUMMARY:Polityka rozwoju miast (wykład)
+UID:c65c9ad4-fdf6-4281-82c8-0e790682222a@c65c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20250123T134500Z
+LOCATION:Paw.G  9
+DTSTART:20250123T130000Z
+SUMMARY:Współrządzenie miastem (ćwiczenia do wyboru)
+UID:8c2d46d1-4875-431e-890f-710838022af1@8c2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Baran
+DTEND:20241205T083000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241205T070000Z
+SUMMARY:Ekonomiczna analiza funkcjonowania samorządów lokalnych w Polsce (ćwiczenia do wyboru)
+UID:8331591e-4d9c-4deb-b0d9-6c1c8cabfaef@8331.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Kozina
+DTEND:20241106T134500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241106T121500Z
+SUMMARY:Zarządzanie procesami organizacyjnymi w administracji publicznej (konwersatorium)
+UID:d2157265-ad2d-4958-8139-c84888203884@d215.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241017T091500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241017T074500Z
+SUMMARY:Współczesne koncepcje rozwoju miast (konwersatorium do wyboru)
+UID:debe5551-68c5-40ce-95e5-0a33452f7251@debe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Głuc
+DTEND:20241218T171500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241218T154500Z
+SUMMARY:Współczesne wyzwania gospodarcze (konwersatorium)
+UID:b42e707a-0188-41a3-9ae4-03eaf225d66d@b42e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:b74321ec-f1ae-4deb-8905-f640dfb88de1@b743.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241029T120000Z
+LOCATION:link do zajęć
+DTSTART:20241029T103000Z
+SUMMARY:Współrządzenie miastem (wykład do wyboru)
+UID:611f0271-a062-4642-9c12-371b2838bcca@611f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Kudłacz
+DTEND:20241212T101500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241212T084500Z
+SUMMARY:Współczesne koncepcje rozwoju miast (konwersatorium do wyboru)
+UID:e6b72be3-32fb-435b-ae66-9d4de5c83445@e6b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Baran
+DTEND:20241010T073000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241010T060000Z
+SUMMARY:Ekonomiczna analiza funkcjonowania samorządów lokalnych w Polsce (ćwiczenia do wyboru)
+UID:a1d73113-3b39-424a-ac86-a5acf17a45fe@a1d7.org
+END:VEVENT
+END:VCALENDAR

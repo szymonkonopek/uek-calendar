@@ -1,0 +1,316 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20241220T170000Z
+LOCATION:link do zajęć
+DTSTART:20241220T144500Z
+SUMMARY:Instrumenty pochodne i dłużne (wykład)
+UID:26e9b5f7-83ed-4f9b-8b2f-f2a4ff323cfe@26e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20250110T170000Z
+LOCATION:link do zajęć
+DTSTART:20250110T144500Z
+SUMMARY:Finanse obliczeniowe (wykład)
+UID:d1905185-2987-4b7d-89d9-0dcd52cf0d61@d190.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20241130T170000Z
+LOCATION:Paw.F 715
+DTSTART:20241130T144500Z
+SUMMARY:Ekonomiczne uwarunkowania rynków finansowych i alternatywnych (ćwiczenia)
+UID:827a187a-f993-47ea-91f0-8c36006f684a@827a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241019T104500Z
+LOCATION:link do zajęć
+DTSTART:20241019T083000Z
+SUMMARY:Finanse obliczeniowe (wykład)
+UID:caf17381-efcf-46df-80d7-741415e7c7f2@caf1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241020T104500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241020T083000Z
+SUMMARY:Finanse obliczeniowe (ćwiczenia)
+UID:715597c6-a39c-407e-b900-9333410aacfd@7155.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241222T100000Z
+LOCATION:link do zajęć
+DTSTART:20241222T074500Z
+SUMMARY:Finanse obliczeniowe (wykład)
+UID:278d52a5-93c4-4478-8d6e-bec7cf00b29e@278d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Kawa
+DTEND:20241220T194500Z
+LOCATION:link do zajęć
+DTSTART:20241220T173000Z
+SUMMARY:Standardy sprawozdawczości finansowej (wykład)
+UID:b584d47d-1419-4c6a-990b-0251dc573038@b584.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20250125T100000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20250125T074500Z
+SUMMARY:Finanse obliczeniowe (ćwiczenia)
+UID:98c7de6f-24d0-4e9d-8715-153d158eb74e@98c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20241201T133000Z
+LOCATION:link do zajęć
+DTSTART:20241201T111500Z
+SUMMARY:Instrumenty pochodne i dłużne (wykład)
+UID:0044e380-6529-4ec5-8692-0beeed7701d0@0044.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Kawa
+DTEND:20241208T100000Z
+LOCATION:link do zajęć
+DTSTART:20241208T074500Z
+SUMMARY:Standardy sprawozdawczości finansowej (wykład)
+UID:f95a60cd-b982-4180-877b-e6323b6d835a@f95a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241221T194500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241221T173000Z
+SUMMARY:Finanse obliczeniowe (ćwiczenia)
+UID:5ce2fd3a-8fdb-412d-9f2a-de23d3152186@5ce2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241026T081500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241026T060000Z
+SUMMARY:Finanse obliczeniowe (ćwiczenia)
+UID:4b78b929-726d-4bb2-80ca-12bbc9d79ba3@4b78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20241005T133000Z
+LOCATION:link do zajęć
+DTSTART:20241005T111500Z
+SUMMARY:Ekonomiczne uwarunkowania rynków finansowych i alternatywnych (wykład)
+UID:05515e96-acb1-4710-8d49-f773e2c6c617@0551.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kędzior
+DTEND:20250111T170000Z
+LOCATION:Paw.F 613
+DTSTART:20250111T144500Z
+SUMMARY:Standardy sprawozdawczości finansowej (ćwiczenia)
+UID:bcd01529-dc7f-4e63-b6f5-a7291ec48529@bcd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241201T161500Z
+LOCATION:link do zajęć
+DTSTART:20241201T140000Z
+SUMMARY:Finanse obliczeniowe (wykład)
+UID:ce0443b9-f3ad-4b28-bff4-ff327404cc7f@ce04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20241115T194500Z
+LOCATION:link do zajęć
+DTSTART:20241115T173000Z
+SUMMARY:Ekonomiczne uwarunkowania rynków finansowych i alternatywnych (wykład)
+UID:d4719dc8-6153-4a49-9517-63e9069b7a22@d471.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kędzior
+DTEND:20241116T143000Z
+LOCATION:Paw.F 613
+DTSTART:20241116T121500Z
+SUMMARY:Standardy sprawozdawczości finansowej (ćwiczenia)
+UID:dd7d94ba-5a15-4284-b0be-d9ee8fb569ac@dd7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241206T194500Z
+LOCATION:link do zajęć
+DTSTART:20241206T173000Z
+SUMMARY:Finanse obliczeniowe (wykład)
+UID:c6611482-b52f-4c34-987a-cc9a17335e89@c661.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Kawa
+DTEND:20241201T110000Z
+LOCATION:link do zajęć
+DTSTART:20241201T084500Z
+SUMMARY:Standardy sprawozdawczości finansowej (wykład)
+UID:c5ae148b-c063-4dc6-9b24-1912e4c2c249@c5ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20250112T100000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20250112T074500Z
+SUMMARY:Finanse obliczeniowe (ćwiczenia)
+UID:b8f8a8cb-cdfc-4f0b-9dda-80f1243b4482@b8f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Kawa
+DTEND:20241019T133000Z
+LOCATION:link do zajęć
+DTSTART:20241019T111500Z
+SUMMARY:Standardy sprawozdawczości finansowej (wykład)
+UID:56be3b44-31a9-48a9-ada3-3364ad0980d8@56be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20241221T114500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241221T093000Z
+SUMMARY:Instrumenty pochodne i dłużne (ćwiczenia)
+UID:ef6a51f6-ba7a-4552-bc06-847265950919@ef6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20241027T100000Z
+LOCATION:link do zajęć
+DTSTART:20241027T074500Z
+SUMMARY:Instrumenty pochodne i dłużne (wykład)
+UID:0298d5a9-61b7-4e30-81ee-da79766c2517@0298.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kędzior
+DTEND:20241207T091500Z
+LOCATION:Paw.F 613
+DTSTART:20241207T070000Z
+SUMMARY:Standardy sprawozdawczości finansowej (ćwiczenia)
+UID:7f84cf50-40a4-4c42-aaee-0a9bebde2b73@7f84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20241006T114500Z
+LOCATION:link do zajęć
+DTSTART:20241006T093000Z
+SUMMARY:Instrumenty pochodne i dłużne (wykład)
+UID:5f439d29-8210-4c05-a49a-b8b36475fd9c@5f43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20241115T170000Z
+LOCATION:link do zajęć
+DTSTART:20241115T144500Z
+SUMMARY:Instrumenty pochodne i dłużne (wykład)
+UID:45fc610a-1517-4338-87ca-7acf5a07b24d@45fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241207T114500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241207T093000Z
+SUMMARY:Finanse obliczeniowe (ćwiczenia)
+UID:bbe4e935-85bf-4a9c-815d-30b42877cc3b@bbe4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20241221T170000Z
+LOCATION:Paw.F 715
+DTSTART:20241221T144500Z
+SUMMARY:Ekonomiczne uwarunkowania rynków finansowych i alternatywnych (ćwiczenia)
+UID:9102722b-c3d0-40d1-8b1f-61c397e74779@9102.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20241027T124500Z
+LOCATION:link do zajęć
+DTSTART:20241027T103000Z
+SUMMARY:Ekonomiczne uwarunkowania rynków finansowych i alternatywnych (wykład)
+UID:8bd37a70-cf4e-470e-ae13-d7cf7297a862@8bd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20250124T170000Z
+LOCATION:Paw.F 715
+DTSTART:20250124T144500Z
+SUMMARY:Ekonomiczne uwarunkowania rynków finansowych i alternatywnych (ćwiczenia)
+UID:19921e59-21eb-475c-9110-2aea581bc0aa@1992.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20241206T170000Z
+LOCATION:link do zajęć
+DTSTART:20241206T144500Z
+SUMMARY:Instrumenty pochodne i dłużne (wykład)
+UID:cd2d0f67-fbb5-494d-a9b3-7a6501e7baab@cd2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20241207T143000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241207T121500Z
+SUMMARY:Instrumenty pochodne i dłużne (ćwiczenia)
+UID:7c1dbca9-cefd-4c88-ac84-f44c10e26a8c@7c1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20241116T114500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241116T093000Z
+SUMMARY:Instrumenty pochodne i dłużne (ćwiczenia)
+UID:99248908-1834-4499-a1d3-87a869f25bac@9924.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20250111T143000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20250111T121500Z
+SUMMARY:Instrumenty pochodne i dłużne (ćwiczenia)
+UID:d9d98f88-c161-46be-9d35-6b91338dd840@d9d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Kawa
+DTEND:20241006T090000Z
+LOCATION:link do zajęć
+DTSTART:20241006T064500Z
+SUMMARY:Standardy sprawozdawczości finansowej (wykład)
+UID:28b2a85b-68f7-4990-b3a8-bc20c529c192@28b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20241130T114500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241130T093000Z
+SUMMARY:Instrumenty pochodne i dłużne (ćwiczenia)
+UID:e4d94839-82bc-423a-b9ed-014b3436fb69@e4d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Jagódka
+DTEND:20250125T124500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20250125T103000Z
+SUMMARY:Instrumenty pochodne i dłużne (ćwiczenia)
+UID:9cbe465d-11ce-4585-b8a3-99711314a70b@9cbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Kawa
+DTEND:20241117T100000Z
+LOCATION:link do zajęć
+DTSTART:20241117T074500Z
+SUMMARY:Standardy sprawozdawczości finansowej (wykład)
+UID:a38c307a-7e45-402e-881b-67cf6b5d84ba@a38c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241005T104500Z
+LOCATION:link do zajęć
+DTSTART:20241005T083000Z
+SUMMARY:Finanse obliczeniowe (wykład)
+UID:8c6c142c-c437-4c77-b275-bcebfc6711ec@8c6c.org
+END:VEVENT
+END:VCALENDAR

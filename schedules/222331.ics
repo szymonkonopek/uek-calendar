@@ -1,0 +1,284 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241011T184500Z
+LOCATION:link do zajęć
+DTSTART:20241011T163000Z
+SUMMARY:Technologie i organizacja czystszej produkcji (wykład)
+UID:8e24dfa4-f3fb-4792-8791-5511d4512b87@8e24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241123T133000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241123T111500Z
+SUMMARY:Technologie i organizacja czystszej produkcji (ćwiczenia)
+UID:7dc0664d-f307-4407-8718-c6ab4f6177b9@7dc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241012T141500Z
+LOCATION:link do zajęć
+DTSTART:20241012T120000Z
+SUMMARY:Projektowanie systemów produkcyjnych (wykład)
+UID:501f4de1-c669-4fb1-8c60-e6bc72b9f4ab@501f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241123T104500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241123T074500Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:4da60c5e-771f-4a69-978a-83fc483ddc43@4da6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20241214T124500Z
+LOCATION:link do zajęć
+DTSTART:20241214T103000Z
+SUMMARY:Zrównoważona działalność marketingowa przedsiębiorstw (wykład do wyboru)
+UID:98b4aa02-60df-4ad2-b43d-4881381b21eb@98b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241129T184500Z
+LOCATION:link do zajęć
+DTSTART:20241129T163000Z
+SUMMARY:Projektowanie systemów produkcyjnych (wykład)
+UID:e4d1d976-01f8-4b5f-865a-7925d9120c49@e4d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20241012T114500Z
+LOCATION:link do zajęć
+DTSTART:20241012T093000Z
+SUMMARY:Ochrona własności intelektualnej (wykład)
+UID:6b665fe3-8c05-40cc-8124-7045529ce913@6b66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20250117T184500Z
+LOCATION:Paw.S sala 11
+DTSTART:20250117T154500Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:5865be06-c907-419a-85ac-57f0ef331ceb@5865.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20241130T161500Z
+LOCATION:link do zajęć
+DTSTART:20241130T140000Z
+SUMMARY:Zrównoważona działalność marketingowa przedsiębiorstw (wykład do wyboru)
+UID:ccd210e4-a626-4760-9cec-4935acf53549@ccd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241221T091500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241221T070000Z
+SUMMARY:Rachunek kosztów dla inżynierów (ćwiczenia)
+UID:0cacb4bb-91da-4f1c-9c14-bdf56fc1ea59@0cac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20241122T170000Z
+LOCATION:link do zajęć
+DTSTART:20241122T144500Z
+SUMMARY:Zarządzanie satysfakcją klienta (wykład do wyboru)
+UID:98fe8da0-53d1-4c79-b83d-4e2bae3a2974@98fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241124T133000Z
+LOCATION:link do zajęć
+DTSTART:20241124T111500Z
+SUMMARY:Technologie i organizacja czystszej produkcji (wykład)
+UID:778d0f20-652b-400b-97f9-b9e8da7ac60a@778d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241215T100000Z
+LOCATION:link do zajęć
+DTSTART:20241215T074500Z
+SUMMARY:Rachunek kosztów dla inżynierów (wykład)
+UID:f8fe22a4-ab0f-40e0-9103-22ce725c6f9d@f8fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241026T090000Z
+LOCATION:link do zajęć
+DTSTART:20241026T064500Z
+SUMMARY:Konsument na rynku (wykład do wyboru)
+UID:fbba83d9-b3ed-4674-824a-c44cce59e5f8@fbba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20241027T100000Z
+LOCATION:link do zajęć
+DTSTART:20241027T074500Z
+SUMMARY:Ochrona własności intelektualnej (wykład)
+UID:d4eb2f8e-7b7c-4e31-905b-779782644f5b@d4eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241221T143000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241221T121500Z
+SUMMARY:Technologie i organizacja czystszej produkcji (ćwiczenia)
+UID:bb684f27-6bb9-46a4-a0ee-545c39c852c7@bb68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20241215T124500Z
+LOCATION:link do zajęć
+DTSTART:20241215T103000Z
+SUMMARY:Ochrona własności intelektualnej (wykład)
+UID:1a01434c-f988-4521-9ccd-6de804ab33af@1a01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241221T114500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241221T093000Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:96dc58de-04cc-42ca-b072-5caf099b94b4@96dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20241012T090000Z
+LOCATION:link do zajęć
+DTSTART:20241012T064500Z
+SUMMARY:Zarządzanie satysfakcją klienta (wykład do wyboru)
+UID:9ca147e6-14aa-4bb5-a4ed-9db33c293f7a@9ca1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20241011T160000Z
+LOCATION:link do zajęć
+DTSTART:20241011T134500Z
+SUMMARY:Zrównoważona działalność marketingowa przedsiębiorstw (wykład do wyboru)
+UID:07e6f363-c0a8-4517-a3d9-2c020450ba27@07e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241123T161500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241123T140000Z
+SUMMARY:Rachunek kosztów dla inżynierów (ćwiczenia)
+UID:674a9f07-a1d5-4fbd-8fa5-502c1f1eb4ed@674a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241208T091500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241208T070000Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:8c3dfeec-7879-4d5c-b4cd-ef16b2dc4ab0@8c3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241122T194500Z
+LOCATION:link do zajęć
+DTSTART:20241122T173000Z
+SUMMARY:Rachunek kosztów dla inżynierów (wykład)
+UID:c321d31a-d681-44f9-94ce-46be2be92045@c321.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20241013T114500Z
+LOCATION:link do zajęć
+DTSTART:20241013T093000Z
+SUMMARY:Controlling produkcji (wykład do wyboru)
+UID:65d97ad6-f7c6-4a08-ace5-565a3bea8e6c@65d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Mariusz Giemza
+DTEND:20241026T114500Z
+LOCATION:link do zajęć
+DTSTART:20241026T093000Z
+SUMMARY:Zarządzanie satysfakcją klienta (wykład do wyboru)
+UID:f539ff75-ef6c-4a20-a77f-807dee078df4@f539.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241130T133000Z
+LOCATION:link do zajęć
+DTSTART:20241130T111500Z
+SUMMARY:Technologie i organizacja czystszej produkcji (wykład)
+UID:2df07d49-eb63-4c58-9378-9e5e0d7c95f7@2df0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20250112T104500Z
+LOCATION:Paw.S sala 11
+DTSTART:20250112T074500Z
+SUMMARY:Projektowanie systemów produkcyjnych (ćwiczenia)
+UID:dfbf9e05-a9c4-4361-8958-fa9879b764a3@dfbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241208T151500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241208T130000Z
+SUMMARY:Rachunek kosztów dla inżynierów (ćwiczenia)
+UID:6ebea4df-bc96-47b9-b2f5-f43946076f01@6ebe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20241124T110000Z
+LOCATION:link do zajęć
+DTSTART:20241124T084500Z
+SUMMARY:Controlling produkcji (wykład do wyboru)
+UID:8c3076f7-f96d-4f05-a2f6-f9e19ce19eee@8c30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241130T110000Z
+LOCATION:link do zajęć
+DTSTART:20241130T084500Z
+SUMMARY:Konsument na rynku (wykład do wyboru)
+UID:5b268743-85e9-4147-b887-e80d0919948c@5b26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241026T141500Z
+LOCATION:link do zajęć
+DTSTART:20241026T120000Z
+SUMMARY:Projektowanie systemów produkcyjnych (wykład)
+UID:d8dec320-b3f0-4ec3-a9bf-c38f89012070@d8de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20241214T151500Z
+LOCATION:link do zajęć
+DTSTART:20241214T130000Z
+SUMMARY:Controlling produkcji (wykład do wyboru)
+UID:a7a395fb-afc8-4668-b620-941aa3f6527c@a7a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241214T100000Z
+LOCATION:link do zajęć
+DTSTART:20241214T074500Z
+SUMMARY:Konsument na rynku (wykład do wyboru)
+UID:5c9731c3-d219-448a-a48a-fce1f1f4652b@5c97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241013T090000Z
+LOCATION:link do zajęć
+DTSTART:20241013T064500Z
+SUMMARY:Rachunek kosztów dla inżynierów (wykład)
+UID:2cfea347-e7fc-4908-bac6-b8615777300a@2cfe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241208T114500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241208T093000Z
+SUMMARY:Technologie i organizacja czystszej produkcji (ćwiczenia)
+UID:6177bb04-1398-4b3a-9b7b-c7ea44cb0fe4@6177.org
+END:VEVENT
+END:VCALENDAR

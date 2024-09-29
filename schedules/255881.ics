@@ -1,0 +1,274 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Zmitrowicz
+DTEND:20241027T104500Z
+LOCATION:Zajęcia Online
+DTSTART:20241027T074500Z
+SUMMARY:Wstęp do analizy biznesowej (Studia podyplomowe)
+UID:df7049f9-1408-4115-affc-f1256623c559@df70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Mariasiewicz
+DTEND:20241213T184500Z
+LOCATION:Paw.G - 2
+DTSTART:20241213T154500Z
+SUMMARY:Zarządzanie projektami - szkolenie AgilePM/BA (Studia podyplomowe)
+UID:f05f629d-1de9-4137-86d7-45b26cbdedde@f05f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Mariasiewicz
+DTEND:20241215T100000Z
+LOCATION:Paw.G - 2
+DTSTART:20241215T070000Z
+SUMMARY:UX/UI (Studia podyplomowe)
+UID:653db003-a4b8-4345-8710-9fa496b5d5d1@653d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Robert Kozłowski
+DTEND:20250216T130000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250216T070000Z
+SUMMARY:Narzędzia modelowania - język UML i BPMN (Studia podyplomowe)
+UID:fd7d2139-e1c9-4c5e-95cd-1d9e2f4bae8b@fd7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Janus
+DTEND:20241130T130000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241130T070000Z
+SUMMARY:Analiza danych w Python (Studia podyplomowe)
+UID:519c339d-34a8-41d3-8fd6-cbc924e778aa@519c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Łukasz Bebel
+DTEND:20250315T130000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250315T070000Z
+SUMMARY:Szkolenie Excel zaawansowany - Power BI/Query (Studia podyplomowe)
+UID:fd9c967f-cd60-44af-bd34-ca705d3931c6@fd9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Rostyslav Apostol
+DTEND:20241201T130000Z
+LOCATION:Paw.G - 2
+DTSTART:20241201T070000Z
+SUMMARY:Rozwiązania AI w analizie biznesowej (Studia podyplomowe)
+UID:698b6f85-067b-4b43-9310-ce53c91aad65@698b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Robert Kozłowski
+DTEND:20250215T130000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250215T070000Z
+SUMMARY:Narzędzia modelowania - język UML i BPMN (Studia podyplomowe)
+UID:f66a83db-a0d5-4e38-8b49-7f5b741144e4@f66a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: inż. Dariusz Skórniewski
+DTEND:20250510T120000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250510T060000Z
+SUMMARY:Wykorzystanie baz danych - szkolenie SQL (Studia podyplomowe)
+UID:100febf1-0317-4868-a8b1-db231c980e43@100f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Rostyslav Apostol
+DTEND:20241215T133000Z
+LOCATION:Paw.G - 2
+DTSTART:20241215T103000Z
+SUMMARY:Rozwiązania AI w analizie biznesowej (Studia podyplomowe)
+UID:5fc64fef-2981-4959-b02d-e04bbf71b9f6@5fc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Wałęga
+DTEND:20250228T184500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250228T154500Z
+SUMMARY:Podstawy analiz danych biznesowych w Microsoft Excel (Studia podyplomowe)
+UID:7160bb3d-d72e-450f-b0b0-2cdef6c4b479@7160.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Wałęga
+DTEND:20250302T100000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250302T070000Z
+SUMMARY:Podstawy analiz danych biznesowych w Microsoft Excel (Studia podyplomowe)
+UID:00f9f9d0-6a78-419c-84d8-a664cfee2953@00f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Łukasz Bebel
+DTEND:20250329T130000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250329T070000Z
+SUMMARY:Szkolenie Excel zaawansowany - Power BI/Query (Studia podyplomowe)
+UID:44f58309-871f-4119-b533-12a49f6aa730@44f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Mariasiewicz
+DTEND:20250117T184500Z
+LOCATION:Paw.G  7
+DTSTART:20250117T154500Z
+SUMMARY:UX/UI (Studia podyplomowe)
+UID:eb776523-8543-4c2c-af15-c9d351f1b1f1@eb77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Łukasz Bebel
+DTEND:20250330T120000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250330T060000Z
+SUMMARY:Szkolenie Excel zaawansowany - Power BI/Query (Studia podyplomowe)
+UID:b34e5930-90e5-49ef-91dd-9ce62c5357a5@b34e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Robert Kozłowski
+DTEND:20250427T120000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250427T060000Z
+SUMMARY:Narzędzia modelowania - język UML i BPMN (Studia podyplomowe)
+UID:d9f3482b-3646-442c-a852-59e6de1fc13e@d9f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Janus
+DTEND:20241117T130000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241117T070000Z
+SUMMARY:Analiza danych w Python (Studia podyplomowe)
+UID:bc2bcdac-8efc-444c-96e3-827c6ba79c1e@bc2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20241004T153000Z
+LOCATION:Zajęcia Online
+DTSTART:20241004T144500Z
+SUMMARY: (Studia podyplomowe)
+UID:b4653286-1617-4e54-b9a8-0b24a067464b@b465.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Mariasiewicz
+DTEND:20250118T100000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250118T070000Z
+SUMMARY:Zarządzanie projektami - szkolenie AgilePM/BA (Studia podyplomowe)
+UID:a95b1947-d07b-4572-bbc0-ac1bbc591b00@a95b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20250615T151500Z
+DTSTART:20250615T074500Z
+SUMMARY:Egzamin końcowy (Studia podyplomowe)
+UID:64ebc2cb-a669-4e45-b0d1-354e576c82bd@64eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Zmitrowicz
+DTEND:20241116T134500Z
+LOCATION:Zajęcia Online
+DTSTART:20241116T074500Z
+SUMMARY:Techniki pozyskiwania i analizy wymagań (Studia podyplomowe)
+UID:0e57ccef-2d73-4132-a803-07e38fd229d6@0e57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Zmitrowicz
+DTEND:20241026T124500Z
+LOCATION:Zajęcia Online
+DTSTART:20241026T064500Z
+SUMMARY:Wstęp do analizy biznesowej (Studia podyplomowe)
+UID:fe49781b-655f-4079-a45c-a227358906b6@fe49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20250302T133000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250302T103000Z
+SUMMARY: (Studia podyplomowe)
+UID:80124701-c23c-43d6-99d3-7242e14f1744@8012.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20250301T133000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250301T103000Z
+SUMMARY: (Studia podyplomowe)
+UID:bf7aaff3-2421-4c83-8683-920436b1aafc@bf7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Mariasiewicz
+DTEND:20250202T130000Z
+LOCATION:Zajęcia Online
+DTSTART:20250202T070000Z
+SUMMARY:Zarządzanie projektami - szkolenie AgilePM/BA (Studia podyplomowe)
+UID:4f784aa9-9fc2-4d83-a699-29d30a9cfe7b@4f78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Mariasiewicz
+DTEND:20250118T133000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250118T103000Z
+SUMMARY:UX/UI (Studia podyplomowe)
+UID:b185a526-3fc1-42bb-ba66-6236487187c3@b185.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20250426T120000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250426T060000Z
+SUMMARY: (Studia podyplomowe)
+UID:1c6d12bc-cd27-4969-ac7d-071841dc498c@1c6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: inż. Dariusz Skórniewski
+DTEND:20250511T120000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250511T060000Z
+SUMMARY:Wykorzystanie baz danych - szkolenie SQL (Studia podyplomowe)
+UID:eb12afc9-b459-41ef-977c-a883404858db@eb12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Wałęga
+DTEND:20241115T184500Z
+LOCATION:Zajęcia Online
+DTSTART:20241115T154500Z
+SUMMARY:Ekonomia behawioralna dla analityków biznesowych (Studia podyplomowe)
+UID:8bfc27b8-2199-4583-98f6-5e35b665accd@8bfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Wałęga
+DTEND:20250301T100000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250301T070000Z
+SUMMARY:Podstawy analiz danych biznesowych w Microsoft Excel (Studia podyplomowe)
+UID:9bef78f4-0121-4560-86b1-0b7b9000f29f@9bef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Mariasiewicz
+DTEND:20241214T130000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241214T070000Z
+SUMMARY:Zarządzanie projektami - szkolenie AgilePM/BA (Studia podyplomowe)
+UID:128ad46c-f60a-4a65-8907-ac94c0dab743@128a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Zmitrowicz
+DTEND:20241027T141500Z
+LOCATION:Zajęcia Online
+DTSTART:20241027T111500Z
+SUMMARY:Techniki pozyskiwania i analizy wymagań (Studia podyplomowe)
+UID:5dfc9400-76dc-4082-ad7d-f1ec6a8b36c9@5dfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20250316T130000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250316T070000Z
+SUMMARY: (Studia podyplomowe)
+UID:dd9a4017-748c-4228-9fd9-40463ebab42f@dd9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krystian Bigos
+DTEND:20250615T073000Z
+DTSTART:20250615T064500Z
+SUMMARY:Egzamin semestralny (Studia podyplomowe)
+UID:f2794273-27cd-4264-a2ae-65b11c1ebb98@f279.org
+END:VEVENT
+END:VCALENDAR

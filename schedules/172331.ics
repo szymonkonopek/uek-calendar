@@ -1,0 +1,236 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kopyciński
+DTEND:20241116T114500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241116T093000Z
+SUMMARY:Polityka regionalna (konwersatorium)
+UID:e26cb26d-aeea-4794-a89a-cfee21859bfd@e26c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Rozwadowski
+DTEND:20241116T091500Z
+LOCATION:Paw.E sala J
+DTSTART:20241116T070000Z
+SUMMARY:Współdziałanie służb i instytucji (konwersatorium do wyboru)
+UID:350be31d-c95a-478f-a256-66b336c1c694@350b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamil Dobosz
+DTEND:20241018T160000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241018T134500Z
+SUMMARY:Prawo budowlane (konwersatorium)
+UID:bc0350a9-e051-407b-9a3f-eb131e8c2363@bc03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamil Dobosz
+DTEND:20241208T100000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241208T070000Z
+SUMMARY:Prawo budowlane (konwersatorium)
+UID:2734f9e2-9c22-4b7d-a1af-9a7d41823ec0@2734.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamil Dobosz
+DTEND:20241222T133000Z
+LOCATION:Paw.C sala D
+DTSTART:20241222T103000Z
+SUMMARY:Administracyjne prawo osobowe (konwersatorium)
+UID:d44ed0ce-1bee-4675-ace9-5bfcb59fcd82@d44e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Drozdek
+DTEND:20241013T104500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241013T083000Z
+SUMMARY:Ubezpieczenia społeczne i wynagrodzenia w administracji (konwersatorium)
+UID:e5dba6df-b2b7-424b-8cc0-40755ee08fe2@e5db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kopyciński
+DTEND:20241019T104500Z
+LOCATION:Paw.C sala B
+DTSTART:20241019T083000Z
+SUMMARY:Polityka regionalna (konwersatorium)
+UID:9750203f-838a-4370-8fbe-3dcc04b7749b@9750.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kopyciński
+DTEND:20241207T104500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241207T074500Z
+SUMMARY:Polityka regionalna (konwersatorium)
+UID:d6662063-3d31-47b1-90fa-995c01af8323@d666.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Grzybowski
+DTEND:20241206T170000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241206T144500Z
+SUMMARY:Wewnątrzadministracyjne akty prawne (konwersatorium)
+UID:5b103f20-0f22-4773-a8d0-9c686097adfc@5b10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Rozwadowski
+DTEND:20250118T170000Z
+LOCATION:Paw.B 151
+DTSTART:20250118T144500Z
+SUMMARY:Współdziałanie służb i instytucji (konwersatorium do wyboru)
+UID:f1b6cf64-1d82-45ff-b16d-c5b037e99b1e@f1b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamil Dobosz
+DTEND:20241117T133000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241117T103000Z
+SUMMARY:Administracyjne prawo osobowe (konwersatorium)
+UID:da7c2f4a-ba51-4391-8ee7-7482295ea87b@da7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Miś
+DTEND:20250118T133000Z
+LOCATION:Paw.S sala 2
+DTSTART:20250118T111500Z
+SUMMARY:Umowy w administracji publicznej (konwersatorium do wyboru)
+UID:d32fe638-5661-4c69-82bb-91d56d947860@d32f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamil Dobosz
+DTEND:20250117T194500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20250117T173000Z
+SUMMARY:Administracyjne prawo osobowe (konwersatorium)
+UID:5dfa3859-10dd-4146-b332-f50d8bcf7985@5dfa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Rozwadowski
+DTEND:20241220T170000Z
+LOCATION:Paw.F 415
+DTSTART:20241220T144500Z
+SUMMARY:Współdziałanie służb i instytucji (konwersatorium do wyboru)
+UID:59bbfce0-543f-47a6-b894-63287fbecd43@59bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kopyciński
+DTEND:20250118T104500Z
+LOCATION:Paw.A 301b
+DTSTART:20250118T074500Z
+SUMMARY:Polityka regionalna (konwersatorium)
+UID:30375c49-651e-4693-ad4d-de6ebd4b4062@3037.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamil Dobosz
+DTEND:20250117T170000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20250117T144500Z
+SUMMARY:Prawo budowlane (konwersatorium)
+UID:5e0ccd7a-779b-4c36-b5c2-8c504e23ba2b@5e0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Drozdek
+DTEND:20241116T151500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241116T121500Z
+SUMMARY:Ubezpieczenia społeczne i wynagrodzenia w administracji (konwersatorium)
+UID:2276572b-e98a-4b81-ac53-f9cd83a27fb9@2276.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kopyciński
+DTEND:20241221T104500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241221T074500Z
+SUMMARY:Polityka regionalna (konwersatorium)
+UID:02cfa9a0-1786-4a17-9544-e0610cc01334@02cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Grzybowski
+DTEND:20241013T081500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241013T060000Z
+SUMMARY:Wewnątrzadministracyjne akty prawne (konwersatorium)
+UID:a1f710f6-6584-4786-a484-8fc3c2b6bea5@a1f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Drozdek
+DTEND:20241221T141500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241221T111500Z
+SUMMARY:Ubezpieczenia społeczne i wynagrodzenia w administracji (konwersatorium)
+UID:4a7a65f2-6bc1-4943-bd56-f9ebf70b5c5b@4a7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Drozdek
+DTEND:20241207T141500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241207T111500Z
+SUMMARY:Ubezpieczenia społeczne i wynagrodzenia w administracji (konwersatorium)
+UID:db2663f9-5de5-44f4-a76c-2e6a3ee606ef@db26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Miś
+DTEND:20241115T194500Z
+LOCATION:Paw.F 416
+DTSTART:20241115T173000Z
+SUMMARY:Umowy w administracji publicznej (konwersatorium do wyboru)
+UID:fdb68c01-43d1-4820-bf3a-0ce2a7053cc6@fdb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamil Dobosz
+DTEND:20241222T100000Z
+LOCATION:Paw.C sala D
+DTSTART:20241222T070000Z
+SUMMARY:Prawo budowlane (konwersatorium)
+UID:22876cc5-6394-4967-981e-acb81081678b@2287.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Grzybowski
+DTEND:20241115T170000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241115T144500Z
+SUMMARY:Wewnątrzadministracyjne akty prawne (konwersatorium)
+UID:26f94192-bc8b-4ec5-b95c-6a11909abddd@26f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grzegorz Miś
+DTEND:20241206T194500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241206T173000Z
+SUMMARY:Umowy w administracji publicznej (konwersatorium do wyboru)
+UID:89afc56d-1f59-4ece-9dd4-fe1da618380d@89af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamil Dobosz
+DTEND:20241018T184500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241018T163000Z
+SUMMARY:Administracyjne prawo osobowe (konwersatorium)
+UID:9ae9f8d2-a6a6-4579-a9c5-2a89fd4e54aa@9ae9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamil Dobosz
+DTEND:20241117T100000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241117T070000Z
+SUMMARY:Prawo budowlane (konwersatorium)
+UID:e49337ba-f749-48d7-8a50-262e23f7261c@e493.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Adam Drozdek
+DTEND:20241019T141500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241019T120000Z
+SUMMARY:Ubezpieczenia społeczne i wynagrodzenia w administracji (konwersatorium)
+UID:f49f7a08-f718-465c-b21d-9b63cef6dab7@f49f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamil Dobosz
+DTEND:20241208T133000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241208T103000Z
+SUMMARY:Administracyjne prawo osobowe (konwersatorium)
+UID:8e211792-6ad5-4f74-a297-5d66d5065134@8e21.org
+END:VEVENT
+END:VCALENDAR

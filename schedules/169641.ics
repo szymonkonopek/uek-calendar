@@ -1,0 +1,316 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
+DTEND:20241115T170000Z
+LOCATION:link do zajęć
+DTSTART:20241115T144500Z
+SUMMARY:Rewizja finansowa (Fd) (wykład)
+UID:96de2eeb-8db9-4d3a-8c31-e7908bd6d8dc@96de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak
+DTEND:20250118T143000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250118T121500Z
+SUMMARY:Zarządzanie wynikiem finansowym (ćwiczenia)
+UID:7811ca55-ca55-46d1-8d04-1e0036e95bc9@7811.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Papież
+DTEND:20241221T143000Z
+LOCATION:Paw.E sala J
+DTSTART:20241221T121500Z
+SUMMARY:Bankowa obsługa przedsiębiorstw (ćwiczenia)
+UID:2e8980a3-f0a1-4d3a-81fa-f4a18c89efdb@2e89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
+DTEND:20241116T170000Z
+LOCATION:Paw.F 107
+DTSTART:20241116T144500Z
+SUMMARY:Rewizja finansowa (Fd) (ćwiczenia)
+UID:6a79b9ec-9e24-42f4-a986-0fa3015c10ac@6a79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20241129T194500Z
+LOCATION:link do zajęć
+DTSTART:20241129T173000Z
+SUMMARY:Ubezpieczenia gospodarcze (wykład)
+UID:15859e61-8006-4887-9b09-dafb9690a43c@1585.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
+DTEND:20250112T100000Z
+LOCATION:Paw.F 107
+DTSTART:20250112T074500Z
+SUMMARY:Rewizja finansowa (Fd) (ćwiczenia)
+UID:6560a99f-220b-45a1-b4ec-1776280deb79@6560.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Papież
+DTEND:20250118T114500Z
+LOCATION:Paw.E sala J
+DTSTART:20250118T093000Z
+SUMMARY:Bankowa obsługa przedsiębiorstw (ćwiczenia)
+UID:ebb91ec4-c2a2-493c-bb21-1de126c1f248@ebb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Magdalena Małecka
+DTEND:20250111T114500Z
+LOCATION:Paw.F 614
+DTSTART:20250111T084500Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia)
+UID:af9b0b89-fe71-4c8b-ae9d-303bae3247c9@af9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20241027T143000Z
+LOCATION:link do zajęć
+DTSTART:20241027T121500Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (wykład)
+UID:4daeba94-f495-4cda-82bb-25623367060c@4dae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20241117T124500Z
+LOCATION:link do zajęć
+DTSTART:20241117T111500Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (wykład)
+UID:f2b3ded6-6978-4b96-8e0b-4cdb39a9fc35@f2b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Kawa
+DTEND:20241117T100000Z
+LOCATION:link do zajęć
+DTSTART:20241117T074500Z
+SUMMARY:Standardy sprawozdawczości finansowej (wykład)
+UID:06918443-b3f0-47f1-8f57-55a21de721b5@0691.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Kawa
+DTEND:20241019T133000Z
+LOCATION:link do zajęć
+DTSTART:20241019T111500Z
+SUMMARY:Standardy sprawozdawczości finansowej (wykład)
+UID:bb19d1a1-571d-49cd-94f9-a3ae508a3399@bb19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Papież
+DTEND:20241201T133000Z
+LOCATION:link do zajęć
+DTSTART:20241201T111500Z
+SUMMARY:Bankowa obsługa przedsiębiorstw (wykład)
+UID:f010a079-6d76-45c6-bcee-c2e3164594e4@f010.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Kawa
+DTEND:20241006T090000Z
+LOCATION:link do zajęć
+DTSTART:20241006T064500Z
+SUMMARY:Standardy sprawozdawczości finansowej (wykład)
+UID:9a7e58bb-1e5d-4069-b8d3-e1fd9a1fa826@9a7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak
+DTEND:20241019T160000Z
+LOCATION:link do zajęć
+DTSTART:20241019T134500Z
+SUMMARY:Zarządzanie wynikiem finansowym (wykład)
+UID:d01b204b-b22f-41bf-a405-ffe095dcfc97@d01b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kędzior
+DTEND:20250111T143000Z
+LOCATION:Paw.F 613
+DTSTART:20250111T121500Z
+SUMMARY:Standardy sprawozdawczości finansowej (ćwiczenia)
+UID:5dd29060-5560-4730-bc8b-2ba08ce37470@5dd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kędzior
+DTEND:20241116T091500Z
+LOCATION:Paw.F 613
+DTSTART:20241116T070000Z
+SUMMARY:Standardy sprawozdawczości finansowej (ćwiczenia)
+UID:0841a1d0-f023-42cb-8dcf-02f82a10f17f@0841.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20241005T150000Z
+LOCATION:link do zajęć
+DTSTART:20241005T120000Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (wykład)
+UID:7fd50e8f-ce2c-4f4d-bd48-2919013c2b39@7fd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
+DTEND:20241207T143000Z
+LOCATION:Paw.F 109
+DTSTART:20241207T121500Z
+SUMMARY:Rewizja finansowa (Fd) (ćwiczenia)
+UID:b042fdac-b627-4e42-8f20-d29646812794@b042.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Kawa
+DTEND:20241220T194500Z
+LOCATION:link do zajęć
+DTSTART:20241220T173000Z
+SUMMARY:Standardy sprawozdawczości finansowej (wykład)
+UID:c624c872-d37b-4043-94c9-b3249491eedc@c624.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
+DTEND:20241027T114500Z
+LOCATION:link do zajęć
+DTSTART:20241027T093000Z
+SUMMARY:Rewizja finansowa (Fd) (wykład)
+UID:48d23274-2a42-4113-a313-61a93f8d4722@48d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Kawa
+DTEND:20241201T110000Z
+LOCATION:link do zajęć
+DTSTART:20241201T084500Z
+SUMMARY:Standardy sprawozdawczości finansowej (wykład)
+UID:d803ab5d-d6a5-4d40-a0f6-090508848514@d803.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20241221T170000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241221T144500Z
+SUMMARY:Ubezpieczenia gospodarcze (ćwiczenia)
+UID:4fb1d8de-1426-46b2-b267-60fac22e975d@4fb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Kawa
+DTEND:20241208T100000Z
+LOCATION:link do zajęć
+DTSTART:20241208T074500Z
+SUMMARY:Standardy sprawozdawczości finansowej (wykład)
+UID:bb697470-4e7c-4389-8978-52b2db993994@bb69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20241026T104500Z
+LOCATION:link do zajęć
+DTSTART:20241026T083000Z
+SUMMARY:Ubezpieczenia gospodarcze (wykład)
+UID:afed7a99-fc0d-4ea3-8341-446af1f27f44@afed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak
+DTEND:20241005T114500Z
+LOCATION:link do zajęć
+DTSTART:20241005T093000Z
+SUMMARY:Zarządzanie wynikiem finansowym (wykład)
+UID:bac83bfb-01c6-4d9d-bf41-f28e05d21d16@bac8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Papież
+DTEND:20241025T184500Z
+LOCATION:link do zajęć
+DTSTART:20241025T163000Z
+SUMMARY:Bankowa obsługa przedsiębiorstw (wykład)
+UID:bbcd996e-d74d-408a-a697-879377f9cd55@bbcd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
+DTEND:20241208T124500Z
+LOCATION:link do zajęć
+DTSTART:20241208T103000Z
+SUMMARY:Rewizja finansowa (Fd) (wykład)
+UID:0e221472-4d52-46ee-88a5-7639b6ad94b5@0e22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20241115T194500Z
+LOCATION:link do zajęć
+DTSTART:20241115T173000Z
+SUMMARY:Ubezpieczenia gospodarcze (wykład)
+UID:59807431-b040-4f7e-bff8-9cf243cd2b89@5980.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20241130T170000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241130T144500Z
+SUMMARY:Ubezpieczenia gospodarcze (ćwiczenia)
+UID:3fe5d118-8659-4269-906b-75b972255f93@3fe5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Papież
+DTEND:20241020T090000Z
+LOCATION:link do zajęć
+DTSTART:20241020T064500Z
+SUMMARY:Bankowa obsługa przedsiębiorstw (wykład)
+UID:2b8f4a70-7fc2-49bc-9ee7-4780d579f1eb@2b8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20250118T170000Z
+LOCATION:Paw.F 111
+DTSTART:20250118T144500Z
+SUMMARY:Ubezpieczenia gospodarcze (ćwiczenia)
+UID:6d7dc423-788e-4e9c-905e-83a1cca210dc@6d7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20250112T143000Z
+LOCATION:Paw.F 415
+DTSTART:20250112T130000Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia)
+UID:6322acc7-4bb2-4e6f-bb3f-dc8e916a5d3e@6322.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak
+DTEND:20241220T170000Z
+LOCATION:link do zajęć
+DTSTART:20241220T144500Z
+SUMMARY:Zarządzanie wynikiem finansowym (wykład)
+UID:d6eb289e-8370-48a4-a94f-530e47fde782@d6eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak
+DTEND:20241221T114500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241221T093000Z
+SUMMARY:Zarządzanie wynikiem finansowym (ćwiczenia)
+UID:401a36cb-1cf5-44e3-9c9a-eb11cd8c6b64@401a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20241116T114500Z
+LOCATION:Paw.F 515
+DTSTART:20241116T093000Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia)
+UID:deaa32d9-d40e-4c37-9af8-c25a033b7910@deaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak
+DTEND:20241222T114500Z
+LOCATION:Paw.F 613
+DTSTART:20241222T093000Z
+SUMMARY:Zarządzanie wynikiem finansowym (ćwiczenia)
+UID:25bf3a7b-0ca9-4c3f-a1c4-00de695fd325@25bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kędzior
+DTEND:20241207T114500Z
+LOCATION:Paw.F 613
+DTSTART:20241207T093000Z
+SUMMARY:Standardy sprawozdawczości finansowej (ćwiczenia)
+UID:ae1ab9cf-7ca1-4fda-a51e-bf25ac9e397c@ae1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Papież
+DTEND:20241130T114500Z
+LOCATION:Paw.E sala J
+DTSTART:20241130T093000Z
+SUMMARY:Bankowa obsługa przedsiębiorstw (ćwiczenia)
+UID:3be1b8f7-0133-4614-84f5-d57b176797ff@3be1.org
+END:VEVENT
+END:VCALENDAR

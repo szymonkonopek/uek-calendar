@@ -1,0 +1,1210 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Nuzzo
+DTEND:20241016T143000Z
+LOCATION:Paw.F CJ 311
+DTSTART:20241016T130000Z
+SUMMARY:Prawo administracyjne - cz. szczegółowa (konwersatorium)
+UID:ef025210-bc8b-492e-adbd-89c5759628cb@ef02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Szepelak
+DTEND:20241031T184500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241031T163000Z
+SUMMARY:Prawo Unii Europejskiej (konwersatorium)
+UID:97a6db15-d61c-433b-85f5-41cbd060f6d9@97a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20241028T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241028T070000Z
+SUMMARY:Prawo cywilne - cz. ogólna (wykład)
+UID:e5484134-1ef7-4ee4-ad68-9866e038b604@e548.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20250107T101500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20250107T084500Z
+SUMMARY:Prawo podatkowe - cz. ogólna (wykład)
+UID:a02a1ac9-41ac-4582-ad77-9c54a3067854@a02a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Szepelak
+DTEND:20241212T184500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241212T163000Z
+SUMMARY:Prawo Unii Europejskiej (konwersatorium)
+UID:a5941a8d-4ef9-4fba-ac7b-80f36752a75d@a594.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Nuzzo
+DTEND:20241106T153000Z
+LOCATION:Paw.F CJ 311
+DTSTART:20241106T140000Z
+SUMMARY:Prawo administracyjne - cz. szczegółowa (konwersatorium)
+UID:7dfdc9ea-3a77-4c59-b765-d85b3db2971c@7dfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Koba
+DTEND:20241209T101500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241209T084500Z
+SUMMARY:Prawo podatkowe - cz. ogólna (ćwiczenia)
+UID:c8c4e771-563b-42cc-9017-c133f3235837@c8c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Czubik
+DTEND:20241206T170000Z
+LOCATION:Paw.C sala E
+DTSTART:20241206T140000Z
+SUMMARY:Prawo konsularne i dyplomatyczne (wykład do wyboru)
+UID:5596e332-dca8-4874-9a98-677d0c7474f1@5596.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Nuzzo
+DTEND:20241120T153000Z
+LOCATION:Paw.F CJ 311
+DTSTART:20241120T140000Z
+SUMMARY:Prawo administracyjne - cz. szczegółowa (konwersatorium)
+UID:3a3970a9-f3ba-47fa-834b-cc59379f43b9@3a39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Szepelak
+DTEND:20241219T184500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241219T163000Z
+SUMMARY:Prawo Unii Europejskiej (konwersatorium)
+UID:7c59e261-5383-4bc2-a997-582943eb1079@7c59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Koba
+DTEND:20241203T194500Z
+LOCATION:Bibl. 440
+DTSTART:20241203T181500Z
+SUMMARY:Prawo podatkowe - cz. ogólna (ćwiczenia)
+UID:de187e81-6bad-4c13-9f0f-6a2364b7a6c2@de18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20241023T180000Z
+LOCATION:Paw.F 102
+DTSTART:20241023T163000Z
+SUMMARY:Prawo budowlane (wykład do wyboru)
+UID:71085057-46a0-4297-b508-d1c91387818f@7108.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20250120T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20250120T070000Z
+SUMMARY:Prawo cywilne - cz. ogólna (wykład)
+UID:504df8ef-f063-4656-9040-764b766ab9e9@504d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Koba
+DTEND:20241216T101500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241216T084500Z
+SUMMARY:Prawo podatkowe - cz. ogólna (ćwiczenia)
+UID:199f8732-3b4f-4248-9aac-8e42735217cf@199f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241025T073000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241025T060000Z
+SUMMARY:Ochrona dóbr osobistych (wykład do wyboru)
+UID:a4ae4941-7815-4fea-ad4e-ab52330e8d22@a4ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20241021T073000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241021T060000Z
+SUMMARY:Prawo cywilne - cz. ogólna (wykład)
+UID:1fa98383-a293-472f-8cf5-5e8c4ca75141@1fa9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20250122T101500Z
+LOCATION:Paw.F 413
+DTSTART:20250122T084500Z
+SUMMARY:Prawo cywilne - cz. ogólna (ćwiczenia)
+UID:0d832aa9-77e6-4d3a-b79e-995d0a88bd83@0d83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20241210T101500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241210T084500Z
+SUMMARY:Prawo podatkowe - cz. ogólna (wykład)
+UID:0b06c20a-e55f-4895-bdc5-4a6f21030ab6@0b06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Pogorzelski
+DTEND:20250109T153000Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20250109T140000Z
+SUMMARY:Argumentacja prawnicza (konwersatorium do wyboru)
+UID:78c0231a-48f5-4e56-9ea7-7b33c036a1aa@78c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20241001T161500Z
+LOCATION:Paw.B 151
+DTSTART:20241001T144500Z
+SUMMARY:Prawo cywilne - cz. ogólna (ćwiczenia)
+UID:f4b031b7-f4f5-46ab-ac43-eced411617bc@f4b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20241030T101500Z
+LOCATION:Paw.F 413
+DTSTART:20241030T084500Z
+SUMMARY:Prawo cywilne - cz. ogólna (ćwiczenia)
+UID:c8e82701-1aab-4141-a550-6cdcf8ac5d0c@c8e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Pogorzelski
+DTEND:20241107T153000Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20241107T140000Z
+SUMMARY:Argumentacja prawnicza (konwersatorium do wyboru)
+UID:57c782ce-4b44-458a-85a3-d1e8d1cdeee3@57c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Szepelak
+DTEND:20250123T184500Z
+LOCATION:Bud.gł. 3
+DTSTART:20250123T163000Z
+SUMMARY:Prawo Unii Europejskiej (konwersatorium)
+UID:41ed00b6-9947-40a5-aa71-e4bee165a078@41ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241129T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241129T070000Z
+SUMMARY:Ochrona dóbr osobistych (wykład do wyboru)
+UID:f7e1fca6-09c1-4633-b0d7-2ba4353c11f4@f7e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20241118T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241118T070000Z
+SUMMARY:Prawo cywilne - cz. ogólna (wykład)
+UID:8051e94c-c747-4b5f-a474-e5a21e1daaad@8051.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20241125T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241125T070000Z
+SUMMARY:Prawo cywilne - cz. ogólna (wykład)
+UID:20b8e5be-f44a-47e7-8eca-1900f5e76ef3@20b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Pogorzelski
+DTEND:20241009T161500Z
+LOCATION:Paw.G 11
+DTSTART:20241009T144500Z
+SUMMARY:Argumentacja prawnicza (konwersatorium do wyboru)
+UID:1fdef51c-f4f6-4753-8c57-c70bd237bea9@1fde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20241204T101500Z
+LOCATION:Paw.F 413
+DTSTART:20241204T084500Z
+SUMMARY:Prawo cywilne - cz. ogólna (ćwiczenia)
+UID:9a4590ac-b21c-4269-ba46-956642cdcf9a@9a45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Nuzzo
+DTEND:20241218T153000Z
+LOCATION:Paw.F CJ 311
+DTSTART:20241218T140000Z
+SUMMARY:Prawo administracyjne - cz. szczegółowa (konwersatorium)
+UID:bf10eb0d-6303-4a2a-adf1-59e02994757d@bf10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Koba
+DTEND:20241202T101500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241202T084500Z
+SUMMARY:Prawo podatkowe - cz. ogólna (ćwiczenia)
+UID:b57773e5-6c18-47c6-a196-9c8990afab06@b577.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:e4b3afb1-905e-405e-98e9-bf962cfdba72@e4b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Koba
+DTEND:20241028T101500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241028T084500Z
+SUMMARY:Prawo podatkowe - cz. ogólna (ćwiczenia)
+UID:6f273f92-f0cb-463b-bfc7-50c10f043882@6f27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20241112T101500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241112T084500Z
+SUMMARY:Prawo podatkowe - cz. ogólna (wykład)
+UID:735dea85-c21f-4894-8769-6196bad29fd1@735d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241004T073000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241004T060000Z
+SUMMARY:Ochrona dóbr osobistych (wykład do wyboru)
+UID:4d5e5e9c-8f4d-4dde-a12b-b546902aa188@4d5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Czubik
+DTEND:20241202T120000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241202T103000Z
+SUMMARY:Prawo konsularne i dyplomatyczne (wykład do wyboru)
+UID:4ab7d814-7e1e-46b9-a955-984b7acf7feb@4ab7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20250121T111500Z
+LOCATION:Paw.C sala D
+DTSTART:20250121T103000Z
+SUMMARY:Prawo podatkowe - cz. ogólna (wykład)
+UID:127692ff-8374-4986-82a8-db0c9b75f0b3@1276.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:93b4fd31-8e61-4016-9819-657a2341d69c@93b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Szepelak
+DTEND:20241017T174500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241017T153000Z
+SUMMARY:Prawo Unii Europejskiej (konwersatorium)
+UID:b12a56e1-735f-4bfb-8378-89abc4d0feef@b12a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Pogorzelski
+DTEND:20241024T143000Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20241024T130000Z
+SUMMARY:Argumentacja prawnicza (konwersatorium do wyboru)
+UID:4253076a-3cf5-42b5-a931-5cab0ab32dc9@4253.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Pogorzelski
+DTEND:20241128T153000Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20241128T140000Z
+SUMMARY:Argumentacja prawnicza (konwersatorium do wyboru)
+UID:6ad86c42-1aa4-492d-b0c4-7b4bd772c606@6ad8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Nuzzo
+DTEND:20250122T153000Z
+LOCATION:Paw.F CJ 311
+DTSTART:20250122T140000Z
+SUMMARY:Prawo administracyjne - cz. szczegółowa (konwersatorium)
+UID:1c91af96-c79c-4e03-89dd-74b93e06cab7@1c91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Koba
+DTEND:20241118T101500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241118T084500Z
+SUMMARY:Prawo podatkowe - cz. ogólna (ćwiczenia)
+UID:3da3612a-cfec-4616-8b66-ab70dae7ed59@3da3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Czubik
+DTEND:20250120T120000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20250120T103000Z
+SUMMARY:Prawo konsularne i dyplomatyczne (wykład do wyboru)
+UID:78d40383-e1f7-4eaf-99dc-021cde7c7cde@78d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Nuzzo
+DTEND:20241030T153000Z
+LOCATION:Paw.F CJ 311
+DTSTART:20241030T140000Z
+SUMMARY:Prawo administracyjne - cz. szczegółowa (konwersatorium)
+UID:00feead8-2723-4de4-b670-973a43bd701a@00fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Szepelak
+DTEND:20241107T184500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241107T163000Z
+SUMMARY:Prawo Unii Europejskiej (konwersatorium)
+UID:379da358-5387-4d66-b43d-8fd941437879@379d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20241014T073000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241014T060000Z
+SUMMARY:Prawo cywilne - cz. ogólna (wykład)
+UID:f4e60402-500b-427c-b549-9eb72409eac8@f4e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241115T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241115T070000Z
+SUMMARY:Ochrona dóbr osobistych (wykład do wyboru)
+UID:598b3f48-fd94-46ae-92fc-921c1481873e@598b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20250110T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20250110T070000Z
+SUMMARY:Ochrona dóbr osobistych (wykład do wyboru)
+UID:3748f8d9-ad64-4d1b-aee1-bf1652449674@3748.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20250108T101500Z
+LOCATION:Paw.F 413
+DTSTART:20250108T084500Z
+SUMMARY:Prawo cywilne - cz. ogólna (ćwiczenia)
+UID:976dfea7-3318-47eb-9800-810a7ff0de40@976d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Koba
+DTEND:20241007T091500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241007T074500Z
+SUMMARY:Prawo podatkowe - cz. ogólna (ćwiczenia)
+UID:1405616a-01de-4121-8fa7-d616be44444b@1405.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Czubik
+DTEND:20241021T110000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241021T093000Z
+SUMMARY:Prawo konsularne i dyplomatyczne (wykład do wyboru)
+UID:9187ed62-09cf-41ef-bb7d-98f88cf870f5@9187.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20250113T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20250113T070000Z
+SUMMARY:Prawo cywilne - cz. ogólna (wykład)
+UID:95d8821b-974b-422d-9eac-c8a809e82753@95d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20241016T180000Z
+LOCATION:Paw.F 102
+DTSTART:20241016T163000Z
+SUMMARY:Prawo budowlane (wykład do wyboru)
+UID:b9b3c4f3-bef1-46ee-ba71-195424b7185c@b9b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241011T073000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241011T060000Z
+SUMMARY:Ochrona dóbr osobistych (wykład do wyboru)
+UID:62856cbb-d544-4bae-9cfa-af6c30fcd93a@6285.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20250108T190000Z
+LOCATION:Paw.F 102
+DTSTART:20250108T173000Z
+SUMMARY:Prawo budowlane (wykład do wyboru)
+UID:ed75b782-3789-4220-9e9d-33b5039ebaa0@ed75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Czubik
+DTEND:20241209T120000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241209T103000Z
+SUMMARY:Prawo konsularne i dyplomatyczne (wykład do wyboru)
+UID:228ed80b-93ec-4791-81f7-7ac64bf4463e@228e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Czubik
+DTEND:20241104T120000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241104T103000Z
+SUMMARY:Prawo konsularne i dyplomatyczne (wykład do wyboru)
+UID:8936bc97-41b5-4f72-92bd-db99289426dd@8936.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20241217T083000Z
+LOCATION:Paw.C sala D
+DTSTART:20241217T074500Z
+SUMMARY:Prawo podatkowe - cz. ogólna (wykład)
+UID:d4fc776c-4c5d-4d1d-a8a6-68e8e11b331e@d4fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Koba
+DTEND:20241125T101500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241125T084500Z
+SUMMARY:Prawo podatkowe - cz. ogólna (ćwiczenia)
+UID:5cc157e3-7ced-4797-ba14-d5ba45866232@5cc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20241106T190000Z
+LOCATION:Paw.F 102
+DTSTART:20241106T173000Z
+SUMMARY:Prawo budowlane (wykład do wyboru)
+UID:acf49f2f-725d-4c57-bcef-c07627b515ba@acf4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20241120T101500Z
+LOCATION:Paw.F 413
+DTSTART:20241120T084500Z
+SUMMARY:Prawo cywilne - cz. ogólna (ćwiczenia)
+UID:de04d9ac-90e7-44f9-a608-cdbd3d661ebf@de04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Pogorzelski
+DTEND:20241212T153000Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20241212T140000Z
+SUMMARY:Argumentacja prawnicza (konwersatorium do wyboru)
+UID:7a18c266-05e4-4ddb-ac87-3edd739e7ef2@7a18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20241007T073000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241007T060000Z
+SUMMARY:Prawo cywilne - cz. ogólna (wykład)
+UID:935973c0-648f-43bb-8243-f7d272e2acaf@9359.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20241127T190000Z
+LOCATION:Paw.F 102
+DTSTART:20241127T173000Z
+SUMMARY:Prawo budowlane (wykład do wyboru)
+UID:09b88856-7f47-4eca-b9fd-d4283ce92a39@09b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Czubik
+DTEND:20250113T120000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20250113T103000Z
+SUMMARY:Prawo konsularne i dyplomatyczne (wykład do wyboru)
+UID:62f067e1-4c95-47a7-8ec3-109618616fea@62f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20241203T171500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241203T154500Z
+SUMMARY:Prawo cywilne - cz. ogólna (wykład)
+UID:20f6a758-789a-4a07-87b1-3a0749ca2356@20f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Pogorzelski
+DTEND:20241010T143000Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20241010T130000Z
+SUMMARY:Argumentacja prawnicza (konwersatorium do wyboru)
+UID:ed2e39e8-bf04-482c-a0f0-cfad3247a4f7@ed2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Nuzzo
+DTEND:20241211T153000Z
+LOCATION:Paw.F CJ 311
+DTSTART:20241211T140000Z
+SUMMARY:Prawo administracyjne - cz. szczegółowa (konwersatorium)
+UID:ade12ee2-c880-42ed-af35-7b22832adddc@ade1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20241211T190000Z
+LOCATION:Paw.F 102
+DTSTART:20241211T173000Z
+SUMMARY:Prawo budowlane (wykład do wyboru)
+UID:649fde67-b609-414e-b7b9-276fbc7ee04d@649f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20241217T101500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241217T084500Z
+SUMMARY:Prawo podatkowe - cz. ogólna (wykład)
+UID:e7241572-64ee-4163-98a0-ed3769378046@e724.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20250124T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20250124T070000Z
+SUMMARY:Ochrona dóbr osobistych (wykład do wyboru)
+UID:5e3c6074-561a-441e-90d7-eab9150e5f48@5e3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20241202T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241202T070000Z
+SUMMARY:Prawo cywilne - cz. ogólna (wykład)
+UID:4017597d-49a2-4c34-82d6-c01d13cc7d43@4017.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20250115T190000Z
+LOCATION:Paw.F 102
+DTSTART:20250115T173000Z
+SUMMARY:Prawo budowlane (wykład do wyboru)
+UID:098d04be-dd51-4b16-96a7-ee50fdaa45b0@098d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Szepelak
+DTEND:20241003T174500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241003T153000Z
+SUMMARY:Prawo Unii Europejskiej (konwersatorium)
+UID:7b658e04-9534-4e0b-a9e0-e0e3e0cf611c@7b65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20241106T101500Z
+LOCATION:Paw.F 413
+DTSTART:20241106T084500Z
+SUMMARY:Prawo cywilne - cz. ogólna (ćwiczenia)
+UID:4791392a-e7d7-4e46-978b-8c816ca84866@4791.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Pogorzelski
+DTEND:20241205T153000Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20241205T140000Z
+SUMMARY:Argumentacja prawnicza (konwersatorium do wyboru)
+UID:96ef9b23-9ebd-4028-ad23-cfa2f8299d24@96ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Koba
+DTEND:20250120T101500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250120T084500Z
+SUMMARY:Prawo podatkowe - cz. ogólna (ćwiczenia)
+UID:59f05d04-e4cc-4384-a1c9-225c2dbc1c40@59f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20241009T180000Z
+LOCATION:Paw.F 102
+DTSTART:20241009T163000Z
+SUMMARY:Prawo budowlane (wykład do wyboru)
+UID:d2ac95ab-4cda-481d-88b7-43407388a976@d2ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20241029T101500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241029T084500Z
+SUMMARY:Prawo podatkowe - cz. ogólna (wykład)
+UID:052be709-ea5f-4910-9d61-78a169865032@052b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Nuzzo
+DTEND:20241113T153000Z
+LOCATION:Paw.F CJ 311
+DTSTART:20241113T140000Z
+SUMMARY:Prawo administracyjne - cz. szczegółowa (konwersatorium)
+UID:5aac65bb-88b2-4541-9ac0-1e70170fd834@5aac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Czubik
+DTEND:20250110T170000Z
+LOCATION:Paw.C sala E
+DTSTART:20250110T140000Z
+SUMMARY:Prawo konsularne i dyplomatyczne (wykład do wyboru)
+UID:bb58f990-c1d5-41ed-9bb9-eeb178b5baab@bb58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20241209T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241209T070000Z
+SUMMARY:Prawo cywilne - cz. ogólna (wykład)
+UID:631271a9-618e-4a57-ba44-29e215590d60@6312.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Czubik
+DTEND:20250117T153000Z
+LOCATION:Paw.C sala E
+DTSTART:20250117T140000Z
+SUMMARY:Prawo konsularne i dyplomatyczne (wykład do wyboru)
+UID:1b634e6d-0910-4ddc-868b-de4fb7f7b6f8@1b63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20241120T190000Z
+LOCATION:Paw.F 102
+DTSTART:20241120T173000Z
+SUMMARY:Prawo budowlane (wykład do wyboru)
+UID:b8a1694b-4ac5-4fd5-982c-879b820bff6b@b8a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Koba
+DTEND:20241217T120000Z
+LOCATION:Paw.F 516
+DTSTART:20241217T103000Z
+SUMMARY:Prawo podatkowe - cz. ogólna (ćwiczenia)
+UID:7e842e72-85ee-4ea5-9ba5-68d625cfc99c@7e84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Czubik
+DTEND:20241216T120000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241216T103000Z
+SUMMARY:Prawo konsularne i dyplomatyczne (wykład do wyboru)
+UID:e0e1c111-e97d-4430-87de-e09223f08997@e0e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241108T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241108T070000Z
+SUMMARY:Ochrona dóbr osobistych (wykład do wyboru)
+UID:dc674d35-01ce-448c-89b5-ff7583d40afc@dc67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Pogorzelski
+DTEND:20250116T153000Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20250116T140000Z
+SUMMARY:Argumentacja prawnicza (konwersatorium do wyboru)
+UID:29d4d0a3-c173-411b-a55c-c1a41ef7501e@29d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Czubik
+DTEND:20241118T120000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241118T103000Z
+SUMMARY:Prawo konsularne i dyplomatyczne (wykład do wyboru)
+UID:5e763b37-0c83-4611-b1e2-56bb4cc41c06@5e76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Czubik
+DTEND:20241014T110000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241014T093000Z
+SUMMARY:Prawo konsularne i dyplomatyczne (wykład do wyboru)
+UID:20d12f4a-50df-4b1d-852d-94fd373c2b3e@20d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20241113T190000Z
+LOCATION:Paw.F 102
+DTSTART:20241113T173000Z
+SUMMARY:Prawo budowlane (wykład do wyboru)
+UID:e5bb10e6-6e92-44fa-bece-fef5c8f11758@e5bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20241009T091500Z
+LOCATION:Paw.F 413
+DTSTART:20241009T074500Z
+SUMMARY:Prawo cywilne - cz. ogólna (ćwiczenia)
+UID:ca86f0e5-a8c6-424e-b163-1c213829f6e7@ca86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Nuzzo
+DTEND:20250115T153000Z
+LOCATION:Paw.F CJ 311
+DTSTART:20250115T140000Z
+SUMMARY:Prawo administracyjne - cz. szczegółowa (konwersatorium)
+UID:46a1b6ce-e3d3-496c-a9a0-65a4f7d4380a@46a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Nuzzo
+DTEND:20241211T171500Z
+LOCATION:Paw.F 415
+DTSTART:20241211T154500Z
+SUMMARY:Prawo administracyjne - cz. szczegółowa (konwersatorium)
+UID:bc063d89-ecbf-48c4-a450-e5d0e5d30de8@bc06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20241203T101500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241203T084500Z
+SUMMARY:Prawo podatkowe - cz. ogólna (wykład)
+UID:04f7552d-2567-4973-a9b4-ae5845bb98d1@04f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Pogorzelski
+DTEND:20241219T153000Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20241219T140000Z
+SUMMARY:Argumentacja prawnicza (konwersatorium do wyboru)
+UID:5e5698ed-3c02-41b6-932d-1e49a9a632d1@5e56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20241204T190000Z
+LOCATION:Paw.F 102
+DTSTART:20241204T173000Z
+SUMMARY:Prawo budowlane (wykład do wyboru)
+UID:74db3c3e-a6ce-4f0b-8e08-701389622443@74db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20241030T190000Z
+LOCATION:Paw.F 102
+DTSTART:20241030T173000Z
+SUMMARY:Prawo budowlane (wykład do wyboru)
+UID:9522138f-7c68-4274-8812-1a6f89b2b736@9522.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Pogorzelski
+DTEND:20241121T153000Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20241121T140000Z
+SUMMARY:Argumentacja prawnicza (konwersatorium do wyboru)
+UID:ff0917f2-dc0d-4d25-847a-f6bd6abdd675@ff09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20250121T101500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20250121T084500Z
+SUMMARY:Prawo podatkowe - cz. ogólna (wykład)
+UID:75f5c979-06c5-47fe-957b-e15ff13c2058@75f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Szepelak
+DTEND:20241024T174500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241024T153000Z
+SUMMARY:Prawo Unii Europejskiej (konwersatorium)
+UID:5faaa1ef-0685-4e06-af08-efc0b0446669@5faa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Koba
+DTEND:20250113T101500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250113T084500Z
+SUMMARY:Prawo podatkowe - cz. ogólna (ćwiczenia)
+UID:a125b159-acad-49aa-8cc5-65dd721fac7f@a125.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241213T153000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241213T140000Z
+SUMMARY:Ochrona dóbr osobistych (wykład do wyboru)
+UID:c757ba2c-4505-4062-9e9d-61eac1c9834e@c757.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20241127T101500Z
+LOCATION:Paw.F 413
+DTSTART:20241127T084500Z
+SUMMARY:Prawo cywilne - cz. ogólna (ćwiczenia)
+UID:407cbe81-6b4e-437a-ae7c-93392513df7f@407c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241206T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241206T070000Z
+SUMMARY:Ochrona dóbr osobistych (wykład do wyboru)
+UID:235142aa-bb38-4a22-97ec-2389db87bb84@2351.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20241216T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241216T070000Z
+SUMMARY:Prawo cywilne - cz. ogólna (wykład)
+UID:ee735752-d638-46e8-bb13-f38b5a9b4aaf@ee73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Pogorzelski
+DTEND:20241017T143000Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20241017T130000Z
+SUMMARY:Argumentacja prawnicza (konwersatorium do wyboru)
+UID:b73891a4-126b-4646-bce9-486d3f209d88@b738.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241018T073000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241018T060000Z
+SUMMARY:Ochrona dóbr osobistych (wykład do wyboru)
+UID:0d172fd1-b26e-42ee-aeb7-cc586f7b68f7@0d17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20241218T190000Z
+LOCATION:Paw.F 102
+DTSTART:20241218T173000Z
+SUMMARY:Prawo budowlane (wykład do wyboru)
+UID:9dad5040-decd-49a0-b8b5-537774f3b0b1@9dad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Koba
+DTEND:20241104T101500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241104T084500Z
+SUMMARY:Prawo podatkowe - cz. ogólna (ćwiczenia)
+UID:359d6987-0c76-496c-b83b-c02f4880bfeb@359d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Nuzzo
+DTEND:20241023T143000Z
+LOCATION:Paw.F CJ 311
+DTSTART:20241023T130000Z
+SUMMARY:Prawo administracyjne - cz. szczegółowa (konwersatorium)
+UID:adf65d50-d046-42bb-8827-8c4a422f89cf@adf6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20241211T101500Z
+LOCATION:Paw.F 413
+DTSTART:20241211T084500Z
+SUMMARY:Prawo cywilne - cz. ogólna (ćwiczenia)
+UID:9603cd41-1800-4896-b70a-b071ef72a9d7@9603.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20241016T091500Z
+LOCATION:Paw.F 413
+DTSTART:20241016T074500Z
+SUMMARY:Prawo cywilne - cz. ogólna (ćwiczenia)
+UID:0e5bedcf-ab61-4d5e-991f-46120e922b3d@0e5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20241126T101500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241126T084500Z
+SUMMARY:Prawo podatkowe - cz. ogólna (wykład)
+UID:e995cb56-51f3-43bd-9761-f41c72426efc@e995.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Szepelak
+DTEND:20241128T184500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241128T163000Z
+SUMMARY:Prawo Unii Europejskiej (konwersatorium)
+UID:6e02fb4b-3f32-4746-ad41-970777fd3715@6e02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Szepelak
+DTEND:20250116T184500Z
+LOCATION:Bud.gł. 3
+DTSTART:20250116T163000Z
+SUMMARY:Prawo Unii Europejskiej (konwersatorium)
+UID:dbe63d1a-c8f2-4756-be54-cf453f26451b@dbe6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20241218T101500Z
+LOCATION:Paw.F 413
+DTSTART:20241218T084500Z
+SUMMARY:Prawo cywilne - cz. ogólna (ćwiczenia)
+UID:fe1f382e-ad57-4fa3-b977-08c2ad5bf123@fe1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241122T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241122T070000Z
+SUMMARY:Ochrona dóbr osobistych (wykład do wyboru)
+UID:25dd9a90-de3c-4b91-89d6-c1ec004d1454@25dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20250115T101500Z
+LOCATION:Paw.F 413
+DTSTART:20250115T084500Z
+SUMMARY:Prawo cywilne - cz. ogólna (ćwiczenia)
+UID:4eafc012-f288-40d5-ab7d-7ef3a97cd3d9@4eaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Nuzzo
+DTEND:20241009T143000Z
+LOCATION:Paw.F CJ 311
+DTSTART:20241009T130000Z
+SUMMARY:Prawo administracyjne - cz. szczegółowa (konwersatorium)
+UID:aaa419a1-8753-4e4e-9c5a-749033bd0498@aaa4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Pogorzelski
+DTEND:20241031T153000Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20241031T140000Z
+SUMMARY:Argumentacja prawnicza (konwersatorium do wyboru)
+UID:4632d311-54c0-4e24-90b0-caba3bd78b8e@4632.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20250117T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20250117T070000Z
+SUMMARY:Ochrona dóbr osobistych (wykład do wyboru)
+UID:4d501df0-f19f-4b8c-af24-a34813819264@4d50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Nuzzo
+DTEND:20241204T153000Z
+LOCATION:Paw.F CJ 311
+DTSTART:20241204T140000Z
+SUMMARY:Prawo administracyjne - cz. szczegółowa (konwersatorium)
+UID:be95cb00-b7ee-441b-8151-b395934ac529@be95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Szepelak
+DTEND:20241205T184500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241205T163000Z
+SUMMARY:Prawo Unii Europejskiej (konwersatorium)
+UID:2c9a565b-86aa-4cc2-814c-a51215f170c9@2c9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Szepelak
+DTEND:20250109T184500Z
+LOCATION:Bud.gł. 3
+DTSTART:20250109T163000Z
+SUMMARY:Prawo Unii Europejskiej (konwersatorium)
+UID:49528a3c-7c0c-41d7-87d9-efa9193bb2c7@4952.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Szepelak
+DTEND:20241010T174500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241010T153000Z
+SUMMARY:Prawo Unii Europejskiej (konwersatorium)
+UID:ea13ef3d-bc8b-40cc-9273-614890fe4f64@ea13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20241105T101500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241105T084500Z
+SUMMARY:Prawo podatkowe - cz. ogólna (wykład)
+UID:63726fec-bd6a-4409-9e80-beaa9c9258a4@6372.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Nuzzo
+DTEND:20250108T153000Z
+LOCATION:Paw.F CJ 311
+DTSTART:20250108T140000Z
+SUMMARY:Prawo administracyjne - cz. szczegółowa (konwersatorium)
+UID:8d2e9ede-9f78-4575-946e-7efeef29cf95@8d2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20241008T091500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241008T074500Z
+SUMMARY:Prawo podatkowe - cz. ogólna (wykład)
+UID:5974b057-2ffc-409f-aaf2-dc450d72bcbd@5974.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20250122T190000Z
+LOCATION:Paw.F 102
+DTSTART:20250122T173000Z
+SUMMARY:Prawo budowlane (wykład do wyboru)
+UID:04dedffc-4bfb-4c3c-a907-0c5da5b5bcb1@04de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20241119T101500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241119T084500Z
+SUMMARY:Prawo podatkowe - cz. ogólna (wykład)
+UID:33715b92-f25e-4b94-8210-634359142948@3371.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20241104T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241104T070000Z
+SUMMARY:Prawo cywilne - cz. ogólna (wykład)
+UID:06c8ed0c-a9a3-426f-90a2-8b6f45d9da92@06c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Nuzzo
+DTEND:20241127T153000Z
+LOCATION:Paw.F CJ 311
+DTSTART:20241127T140000Z
+SUMMARY:Prawo administracyjne - cz. szczegółowa (konwersatorium)
+UID:a5e20ab1-88e6-4a1d-8fbc-0ceb9d37bc55@a5e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ryszard Szostak
+DTEND:20250114T171500Z
+LOCATION:Paw.C sala E
+DTSTART:20250114T154500Z
+SUMMARY:Prawo budowlane (wykład do wyboru)
+UID:c852d931-508d-42d3-a64b-aaa58ab0f839@c852.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Koba
+DTEND:20250114T083000Z
+LOCATION:Paw.B 251
+DTSTART:20250114T070000Z
+SUMMARY:Prawo podatkowe - cz. ogólna (ćwiczenia)
+UID:6e5a3962-bb57-4567-8e08-26c8d6722c8d@6e5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20241119T171500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241119T154500Z
+SUMMARY:Prawo cywilne - cz. ogólna (wykład)
+UID:4955fcf3-a12a-4c24-8e84-7f2f21be916b@4955.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20250114T101500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20250114T084500Z
+SUMMARY:Prawo podatkowe - cz. ogólna (wykład)
+UID:76e9e7fb-e591-48df-92b4-bd3207456b1c@76e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Koba
+DTEND:20241021T091500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241021T074500Z
+SUMMARY:Prawo podatkowe - cz. ogólna (ćwiczenia)
+UID:161142ae-eb69-4b80-b8a6-2f312a789f95@1611.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241213T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241213T070000Z
+SUMMARY:Ochrona dóbr osobistych (wykład do wyboru)
+UID:0e4137ab-7bf4-4227-ba1a-0d6db25996d8@0e41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Łukasz Koba
+DTEND:20241014T091500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241014T074500Z
+SUMMARY:Prawo podatkowe - cz. ogólna (ćwiczenia)
+UID:4552023d-0bc4-40bb-97b5-0f79c738724e@4552.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Szepelak
+DTEND:20241114T184500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241114T163000Z
+SUMMARY:Prawo Unii Europejskiej (konwersatorium)
+UID:7fcc0e5d-752b-4b8d-ab7e-547bcc6e5753@7fcc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20241015T091500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241015T074500Z
+SUMMARY:Prawo podatkowe - cz. ogólna (wykład)
+UID:9b6a9231-574e-482d-94ae-fcd3bd8b22e5@9b6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Czubik
+DTEND:20241125T120000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241125T103000Z
+SUMMARY:Prawo konsularne i dyplomatyczne (wykład do wyboru)
+UID:42293399-d355-46a2-a7a0-88d5f6f4f5b7@4229.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20241001T091500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241001T074500Z
+SUMMARY:Prawo podatkowe - cz. ogólna (wykład)
+UID:28aad3f4-386f-458b-b7c4-f86f5ea15a33@28aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Pogorzelski
+DTEND:20241114T153000Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20241114T140000Z
+SUMMARY:Argumentacja prawnicza (konwersatorium do wyboru)
+UID:9a4c9ff9-bc07-4fc0-adc9-089298a124fc@9a4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241220T083000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241220T070000Z
+SUMMARY:Ochrona dóbr osobistych (wykład do wyboru)
+UID:f3f7255a-51df-41e9-b160-328e353cffa8@f3f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Szepelak
+DTEND:20241121T184500Z
+LOCATION:Bud.gł. 3
+DTSTART:20241121T163000Z
+SUMMARY:Prawo Unii Europejskiej (konwersatorium)
+UID:9101b979-f5dd-48df-9f17-5ba4a78ffb51@9101.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20241113T101500Z
+LOCATION:Paw.F 413
+DTSTART:20241113T084500Z
+SUMMARY:Prawo cywilne - cz. ogólna (ćwiczenia)
+UID:afefb644-3339-4626-b24f-66c7bd6fc5a8@afef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20241105T171500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241105T154500Z
+SUMMARY:Prawo cywilne - cz. ogólna (wykład)
+UID:d9e11ea6-d716-4ed9-a799-07109d297fda@d9e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20241023T091500Z
+LOCATION:Paw.F 413
+DTSTART:20241023T074500Z
+SUMMARY:Prawo cywilne - cz. ogólna (ćwiczenia)
+UID:6b56b1a8-4da5-4df7-b64f-f1c75417460d@6b56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Pogorzelski
+DTEND:20250123T153000Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20250123T140000Z
+SUMMARY:Argumentacja prawnicza (konwersatorium do wyboru)
+UID:626dfa62-54ad-4d71-ad43-efb6b890be36@626d.org
+END:VEVENT
+END:VCALENDAR

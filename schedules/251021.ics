@@ -1,0 +1,810 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20241008T124500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241008T111500Z
+SUMMARY:Projektowanie produktów przemysłowych (wykład)
+UID:17d91958-7f5b-49e2-a353-551db8dc1564@17d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20241127T091500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20241127T070000Z
+SUMMARY:Nanotechnologia w projektowaniu produktów (konwersatorium)
+UID:58cba3ae-2ac2-4a65-8e2a-64cb48ddde91@58cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241202T160000Z
+LOCATION:Sienk. 5 pr. spoż. 3
+DTSTART:20241202T121500Z
+SUMMARY:Projektowanie produktów żywnościowych (laboratorium)
+UID:e09a3ce4-c045-492a-b69f-06c3bd7a10b1@e09a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241107T190000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241107T173000Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:c063e76a-f7ab-4d5b-94ce-e8eb15581a4c@c063.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20241206T134500Z
+LOCATION:Bud.gł. 8
+DTSTART:20241206T121500Z
+SUMMARY:Zarządzanie zmianą (konwersatorium)
+UID:6ac3b69d-4729-48ff-8776-1b7b14424c76@6ac3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241028T083000Z
+LOCATION:Paw.F 104
+DTSTART:20241028T070000Z
+SUMMARY:Zrównoważone zarządzanie projektem (wykład do wyboru)
+UID:d6a4ea0f-f50e-433d-9aa5-489646b9553e@d6a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20250116T190000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250116T173000Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:52487b49-ea3e-4ff6-aa5e-69cb8ee4265d@5248.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20250123T093000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250123T084500Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:444408a2-d0a3-43b1-b784-760e894e3e0c@4444.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20241022T124500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241022T111500Z
+SUMMARY:Projektowanie produktów przemysłowych (wykład)
+UID:5814ac0d-6a4e-40e9-b79e-6dc0572d0b1d@5814.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20250117T130000Z
+LOCATION:Bud.gł. 8
+DTSTART:20250117T121500Z
+SUMMARY:Zarządzanie zmianą (konwersatorium)
+UID:6c6a6190-ae11-42f2-9746-f7f66b5c30e1@6c6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20241029T100000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241029T070000Z
+SUMMARY:Projektowanie produktów przemysłowych (laboratorium)
+UID:3f08f77b-9544-4c70-9844-74fba3ddb320@3f08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20241024T143000Z
+LOCATION:Bud.gł. 8
+DTSTART:20241024T130000Z
+SUMMARY:Zarządzanie zmianą (konwersatorium)
+UID:adc50106-9357-44c9-97f0-358d92ae5117@adc5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20241015T090000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241015T060000Z
+SUMMARY:Projektowanie produktów przemysłowych (laboratorium)
+UID:b01d4d1c-ce99-4b4a-b905-309b44c3b20e@b01d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20241128T083000Z
+LOCATION:Paw.U sala K
+DTSTART:20241128T070000Z
+SUMMARY:Menadżer innowacji (wykład)
+UID:18124410-e07b-469e-95d5-54fecafbc272@1812.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241216T160000Z
+LOCATION:Sienk. 5 pr. spoż. 3
+DTSTART:20241216T121500Z
+SUMMARY:Projektowanie produktów żywnościowych (laboratorium)
+UID:808ba408-7c16-4777-ad7c-c0419dc6772c@808b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241216T120000Z
+LOCATION:Paw.G  9
+DTSTART:20241216T103000Z
+SUMMARY:Projektowanie produktów żywnościowych (wykład)
+UID:f549491d-62f2-4f59-aad9-377a1411fd7c@f549.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20250123T083000Z
+LOCATION:Paw.U sala K
+DTSTART:20250123T074500Z
+SUMMARY:Menadżer innowacji (wykład)
+UID:0c5eecb8-2998-4e19-ac3c-68d03539a594@0c5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20241015T124500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241015T111500Z
+SUMMARY:Projektowanie produktów przemysłowych (wykład)
+UID:b2f92143-d7af-4361-aeb0-1982b6ea2445@b2f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20241113T100000Z
+LOCATION:Sienk. 5 pr. spoż. 2
+DTSTART:20241113T074500Z
+SUMMARY:Nanotechnologia w projektowaniu produktów (konwersatorium)
+UID:9dc2a28b-fd9f-47a9-b4c1-2032942ada11@9dc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241021T073000Z
+LOCATION:Paw.F 104
+DTSTART:20241021T060000Z
+SUMMARY:Zrównoważone zarządzanie projektem (wykład do wyboru)
+UID:f1e89e3e-e475-46fd-9c51-09908360be78@f1e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20241205T134500Z
+LOCATION:Paw.F 104
+DTSTART:20241205T121500Z
+SUMMARY:Negocjacje i gry biznesowe (wykład do wyboru)
+UID:2b59ec1a-8238-4927-aec5-f6f81e3dd4bb@2b59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241219T190000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241219T173000Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:e39972cb-9e73-49b5-88b6-c40fb64583ec@e399.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20241121T134500Z
+LOCATION:Paw.F 104
+DTSTART:20241121T121500Z
+SUMMARY:Negocjacje i gry biznesowe (wykład do wyboru)
+UID:d407a1d1-766b-4695-941b-3c4ba7d0e626@d407.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20250113T160000Z
+LOCATION:Sienk. 5 pr. spoż. 3
+DTSTART:20250113T121500Z
+SUMMARY:Projektowanie produktów żywnościowych (laboratorium)
+UID:7db93dba-704a-4eb8-8bf2-eb6fe43892d9@7db9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20241212T083000Z
+LOCATION:Paw.U sala K
+DTSTART:20241212T070000Z
+SUMMARY:Menadżer innowacji (wykład)
+UID:2c93bdb3-0a24-46a2-ac02-46d59fd0a59d@2c93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20250116T134500Z
+LOCATION:Paw.F 104
+DTSTART:20250116T121500Z
+SUMMARY:Negocjacje i gry biznesowe (wykład do wyboru)
+UID:0fb65802-a37c-453e-a62a-d059c9674734@0fb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241104T083000Z
+LOCATION:Paw.F 104
+DTSTART:20241104T070000Z
+SUMMARY:Zrównoważone zarządzanie projektem (wykład do wyboru)
+UID:c23078e9-0a2b-42e8-8f52-75a86ec54ea0@c230.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20250113T120000Z
+LOCATION:Paw.G  9
+DTSTART:20250113T103000Z
+SUMMARY:Projektowanie produktów żywnościowych (wykład)
+UID:f6db3eaf-c497-44d9-87ba-ae6d7d22dd85@f6db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20241023T090000Z
+LOCATION:Sienk. 5 pr. spoż. 2
+DTSTART:20241023T064500Z
+SUMMARY:Nanotechnologia w projektowaniu produktów (konwersatorium)
+UID:1db3938f-128c-4397-8c69-35de33099851@1db3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20241024T124500Z
+LOCATION:Paw.F 104
+DTSTART:20241024T111500Z
+SUMMARY:Negocjacje i gry biznesowe (wykład do wyboru)
+UID:9ea193f7-9d2e-4c81-9f63-244d070297ee@9ea1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20241105T134500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241105T121500Z
+SUMMARY:Projektowanie produktów przemysłowych (wykład)
+UID:db3d174a-903b-4aab-b8cf-62d88fe2de8b@db3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20250109T083000Z
+LOCATION:Paw.U sala K
+DTSTART:20250109T070000Z
+SUMMARY:Menadżer innowacji (wykład)
+UID:05329f1b-ce76-4725-b77a-d23b66dfa346@0532.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20241204T091500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20241204T070000Z
+SUMMARY:Nanotechnologia w projektowaniu produktów (konwersatorium)
+UID:94f2c5cd-9c66-4c8e-a0d5-387e4486dbf6@94f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20250124T120000Z
+LOCATION:L 525 Ustr.
+DTSTART:20250124T103000Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:4bb054c0-0862-4e2f-949d-e8cbddce0633@4bb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20241106T100000Z
+LOCATION:Sienk. 5 pr. spoż. 2
+DTSTART:20241106T074500Z
+SUMMARY:Nanotechnologia w projektowaniu produktów (konwersatorium)
+UID:0d95d28d-3bb3-43ba-a412-57386c4da2a4@0d95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241028T160000Z
+LOCATION:Sienk. 5 pr. spoż. 3
+DTSTART:20241028T121500Z
+SUMMARY:Projektowanie produktów żywnościowych (laboratorium)
+UID:92935faa-46c5-4c01-af71-706979a09d52@9293.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20241119T100000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241119T070000Z
+SUMMARY:Projektowanie produktów przemysłowych (laboratorium)
+UID:f3c306f1-3b71-4987-88d3-2286551ad75a@f3c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20241022T090000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241022T060000Z
+SUMMARY:Projektowanie produktów przemysłowych (laboratorium)
+UID:0fa7e60a-fca9-45c9-9826-a33515e9b470@0fa7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241024T180000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241024T163000Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:468a2632-5711-4052-856a-2c8c9a91e333@468a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241021T150000Z
+LOCATION:Sienk. 5 pr. spoż. 3
+DTSTART:20241021T111500Z
+SUMMARY:Projektowanie produktów żywnościowych (laboratorium)
+UID:9b5bdaf9-5395-4918-b3c8-e8c8f3e84c31@9b5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20241015T170000Z
+LOCATION:Paw.G  9
+DTSTART:20241015T144500Z
+SUMMARY:Projektowanie usług (konwersatorium)
+UID:d6aa7075-be2a-46a1-bb62-a8ec3816a353@d6aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20250120T111500Z
+LOCATION:Paw.G  9
+DTSTART:20250120T103000Z
+SUMMARY:Projektowanie produktów żywnościowych (wykład)
+UID:e6aea160-6a5f-4c3e-a5c6-71e9db2843d3@e6ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20241029T134500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241029T121500Z
+SUMMARY:Projektowanie produktów przemysłowych (wykład)
+UID:cd235b20-4330-48bc-9334-b8e11ce715d6@cd23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20241024T091500Z
+LOCATION:Paw.F 516
+DTSTART:20241024T074500Z
+SUMMARY:Menadżer innowacji (ćwiczenia)
+UID:36a117fc-94d4-4485-a080-0d4180d489d3@36a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20241008T091500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241008T074500Z
+SUMMARY:Projektowanie produktów przemysłowych (laboratorium)
+UID:eb8915e9-baed-41a2-bcc8-b373a91bdfca@eb89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20250120T160000Z
+LOCATION:Sienk. 5 pr. spoż. 3
+DTSTART:20250120T121500Z
+SUMMARY:Projektowanie produktów żywnościowych (laboratorium)
+UID:ead5a6dd-328b-4b57-8471-466938b2a065@ead5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241125T083000Z
+LOCATION:Paw.F 104
+DTSTART:20241125T070000Z
+SUMMARY:Zrównoważone zarządzanie projektem (wykład do wyboru)
+UID:ddadffb8-bc53-4dc7-ab0b-2ac5fdd2136a@ddad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20241219T153000Z
+LOCATION:Bud.gł. 8
+DTSTART:20241219T140000Z
+SUMMARY:Zarządzanie zmianą (konwersatorium)
+UID:21f9b99c-cd9d-473b-b340-9d7cadaf4780@21f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241014T073000Z
+LOCATION:Paw.F 104
+DTSTART:20241014T060000Z
+SUMMARY:Zrównoważone zarządzanie projektem (wykład do wyboru)
+UID:76af470f-2aed-4786-aad9-d96188033429@76af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241118T083000Z
+LOCATION:Paw.F 104
+DTSTART:20241118T070000Z
+SUMMARY:Zrównoważone zarządzanie projektem (wykład do wyboru)
+UID:673abb24-bb35-4c61-b82a-a26222397c57@673a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241118T120000Z
+LOCATION:Paw.G  9
+DTSTART:20241118T103000Z
+SUMMARY:Projektowanie produktów żywnościowych (wykład)
+UID:b14b6554-b703-44fc-838c-1549a6bee143@b14b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20250123T074500Z
+LOCATION:Paw.F 516
+DTSTART:20250123T070000Z
+SUMMARY:Menadżer innowacji (ćwiczenia)
+UID:59fa4c82-2f39-40e0-89b4-0c73a3c7a143@59fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241010T180000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241010T163000Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:ab16215c-2dae-485a-9865-42226d13a067@ab16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241007T073000Z
+LOCATION:Paw.F 104
+DTSTART:20241007T060000Z
+SUMMARY:Zrównoważone zarządzanie projektem (wykład do wyboru)
+UID:26964501-ac30-4860-b736-92bcd8b15a21@2696.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20241031T083000Z
+LOCATION:Paw.U sala K
+DTSTART:20241031T070000Z
+SUMMARY:Menadżer innowacji (wykład)
+UID:dd37089d-4555-4bef-9373-ee92d7cc258a@dd37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20241017T161500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241017T144500Z
+SUMMARY:Negocjacje i gry biznesowe (wykład do wyboru)
+UID:546b97aa-c0a6-4a93-aa41-9720cffcdeb0@546b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20241205T153000Z
+LOCATION:Bud.gł. 8
+DTSTART:20241205T140000Z
+SUMMARY:Zarządzanie zmianą (konwersatorium)
+UID:6326bcbc-35ca-4edd-b161-c2cf59052137@6326.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241118T160000Z
+LOCATION:Sienk. 5 pr. spoż. 3
+DTSTART:20241118T121500Z
+SUMMARY:Projektowanie produktów żywnościowych (laboratorium)
+UID:acfbfa5d-682c-453b-8f1b-ac9e3b1986ef@acfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20241218T091500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20241218T070000Z
+SUMMARY:Nanotechnologia w projektowaniu produktów (konwersatorium)
+UID:fa09508f-a6d5-44af-b50f-d0e366dc86ee@fa09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20250123T134500Z
+LOCATION:Paw.F 104
+DTSTART:20250123T130000Z
+SUMMARY:Negocjacje i gry biznesowe (wykład do wyboru)
+UID:b3170901-6574-4295-bc81-70afa62dd794@b317.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20241211T091500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20241211T070000Z
+SUMMARY:Nanotechnologia w projektowaniu produktów (konwersatorium)
+UID:81afc8d1-7613-4445-ba90-46678825d6da@81af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241104T120000Z
+LOCATION:Paw.G  9
+DTSTART:20241104T103000Z
+SUMMARY:Projektowanie produktów żywnościowych (wykład)
+UID:c293ff16-a5d7-4274-9280-b5668cc98b3b@c293.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241104T160000Z
+LOCATION:Sienk. 5 pr. spoż. 3
+DTSTART:20241104T121500Z
+SUMMARY:Projektowanie produktów żywnościowych (laboratorium)
+UID:370df08f-ab69-4fd8-b66a-5037838b0bab@370d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20241107T101500Z
+LOCATION:Paw.F 516
+DTSTART:20241107T084500Z
+SUMMARY:Menadżer innowacji (ćwiczenia)
+UID:ed3dbf5f-6529-4e03-9db7-0a2044d9f238@ed3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20241205T101500Z
+LOCATION:Paw.F 516
+DTSTART:20241205T084500Z
+SUMMARY:Menadżer innowacji (ćwiczenia)
+UID:b9bdfa65-2b34-4e72-aa7a-8a17cc890722@b9bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241202T120000Z
+LOCATION:Paw.G  9
+DTSTART:20241202T103000Z
+SUMMARY:Projektowanie produktów żywnościowych (wykład)
+UID:1827d55e-0158-4a5e-974b-262d44f75b58@1827.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20241114T083000Z
+LOCATION:Paw.U sala K
+DTSTART:20241114T070000Z
+SUMMARY:Menadżer innowacji (wykład)
+UID:90daba73-cc36-4075-a41f-2b66acc666f3@90da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:be4ae97e-7187-47e3-9884-40b9175ec50b@be4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20241030T100000Z
+LOCATION:Sienk. 5 pr. spoż. 2
+DTSTART:20241030T074500Z
+SUMMARY:Nanotechnologia w projektowaniu produktów (konwersatorium)
+UID:77480cb5-ea63-4114-9ad5-b80e439bc3bd@7748.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241205T190000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241205T173000Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:909d0dbd-7d91-4b0a-81eb-6205ae0ede9b@909d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20241001T120000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241001T111500Z
+SUMMARY:Projektowanie produktów przemysłowych (wykład)
+UID:eb2dc05f-e473-44e1-b243-3b76aa7c3ed2@eb2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20241010T091500Z
+LOCATION:Paw.F 516
+DTSTART:20241010T074500Z
+SUMMARY:Menadżer innowacji (ćwiczenia)
+UID:23af3897-b492-4fac-b16b-0e5718e3bd4a@23af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20241107T134500Z
+LOCATION:Paw.F 104
+DTSTART:20241107T121500Z
+SUMMARY:Negocjacje i gry biznesowe (wykład do wyboru)
+UID:f21f3f49-554c-4678-880f-7fee1c3e4a09@f21f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20241121T101500Z
+LOCATION:Paw.F 516
+DTSTART:20241121T084500Z
+SUMMARY:Menadżer innowacji (ćwiczenia)
+UID:757b6cf0-a10f-4358-a722-77bb1d52fd87@757b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:1025ffe0-b8b2-4778-80f9-9453351f9790@1025.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241007T150000Z
+LOCATION:Sienk. 5 pr. spoż. 3
+DTSTART:20241007T111500Z
+SUMMARY:Projektowanie produktów żywnościowych (laboratorium)
+UID:5453ac2f-2164-4803-b65d-872888d1cd3f@5453.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20241119T134500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241119T121500Z
+SUMMARY:Projektowanie produktów przemysłowych (wykład)
+UID:5b529005-108e-493d-be2c-3b50e12c4af1@5b52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241125T160000Z
+LOCATION:Sienk. 5 pr. spoż. 3
+DTSTART:20241125T121500Z
+SUMMARY:Projektowanie produktów żywnościowych (laboratorium)
+UID:03a13a8a-a1e5-4a2c-ba01-dc723383be63@03a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20241126T180000Z
+LOCATION:Paw.G  9
+DTSTART:20241126T154500Z
+SUMMARY:Projektowanie usług (konwersatorium)
+UID:5f2f0c29-9d8d-45a6-92d1-3d5116e2a5b6@5f2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241202T083000Z
+LOCATION:Paw.F 104
+DTSTART:20241202T074500Z
+SUMMARY:Zrównoważone zarządzanie projektem (wykład do wyboru)
+UID:f6f08b52-e264-40d6-b0e5-8d45e23a520c@f6f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241209T160000Z
+LOCATION:Sienk. 5 pr. spoż. 3
+DTSTART:20241209T121500Z
+SUMMARY:Projektowanie produktów żywnościowych (laboratorium)
+UID:0ed63807-dd90-4151-b44e-941afcef2228@0ed6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20241112T134500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241112T121500Z
+SUMMARY:Projektowanie produktów przemysłowych (wykład)
+UID:2615e387-ab81-4325-9c07-3d3d703f554c@2615.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Tataruch
+DTEND:20241120T091500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20241120T070000Z
+SUMMARY:Nanotechnologia w projektowaniu produktów (konwersatorium)
+UID:7b861dc5-5571-426c-8300-3aa53dece1c3@7b86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20241016T090000Z
+LOCATION:Sienk. 5 pr. spoż. 2
+DTSTART:20241016T064500Z
+SUMMARY:Nanotechnologia w projektowaniu produktów (konwersatorium)
+UID:5ea582cb-fc10-4583-ac26-c25cd678450f@5ea5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20241107T153000Z
+LOCATION:Bud.gł. 8
+DTSTART:20241107T140000Z
+SUMMARY:Zarządzanie zmianą (konwersatorium)
+UID:9685a90c-e041-44eb-ba70-841fb031bfd2@9685.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20250109T171500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250109T154500Z
+SUMMARY:Negocjacje i gry biznesowe (wykład do wyboru)
+UID:7cbace0f-5bef-4348-a9f9-bb3199d8ef39@7cba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20241112T100000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241112T070000Z
+SUMMARY:Projektowanie produktów przemysłowych (laboratorium)
+UID:5f1bd23d-034e-4725-ae1e-57bc1c3f72d0@5f1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20241121T153000Z
+LOCATION:Bud.gł. 8
+DTSTART:20241121T140000Z
+SUMMARY:Zarządzanie zmianą (konwersatorium)
+UID:cd30ad3b-b25a-42a1-b9ba-5853ee9e9022@cd30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20241017T073000Z
+LOCATION:Paw.U sala K
+DTSTART:20241017T060000Z
+SUMMARY:Menadżer innowacji (wykład)
+UID:af55fca4-2811-4050-b085-6430c0fded9e@af55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20250116T153000Z
+LOCATION:Bud.gł. 8
+DTSTART:20250116T140000Z
+SUMMARY:Zarządzanie zmianą (konwersatorium)
+UID:9e7e7634-e515-4be3-bdb4-84f3713c94ab@9e7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20241001T170000Z
+LOCATION:Paw.G  9
+DTSTART:20241001T144500Z
+SUMMARY:Projektowanie usług (konwersatorium)
+UID:42ec2772-075e-4cb9-bb7f-1e7096fd00b9@42ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20241126T100000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241126T070000Z
+SUMMARY:Projektowanie produktów przemysłowych (laboratorium)
+UID:a3e2bea3-709c-422d-916a-e6a730a881c5@a3e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20241029T180000Z
+LOCATION:Paw.G  9
+DTSTART:20241029T154500Z
+SUMMARY:Projektowanie usług (konwersatorium)
+UID:9b973820-87c8-456d-9ff6-cadc5c25a7a2@9b97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241021T110000Z
+LOCATION:Paw.G  9
+DTSTART:20241021T093000Z
+SUMMARY:Projektowanie produktów żywnościowych (wykład)
+UID:58e70219-9038-4735-9b01-1e1b7600c5e9@58e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241014T150000Z
+LOCATION:Sienk. 5 pr. spoż. 3
+DTSTART:20241014T111500Z
+SUMMARY:Projektowanie produktów żywnościowych (laboratorium)
+UID:9cfce523-f2e0-41c6-8fea-54cf28168b02@9cfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241007T110000Z
+LOCATION:Paw.G  9
+DTSTART:20241007T093000Z
+SUMMARY:Projektowanie produktów żywnościowych (wykład)
+UID:917f5957-a8e5-45de-81fe-6009d5a43ed8@917f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20241003T073000Z
+LOCATION:Paw.U sala K
+DTSTART:20241003T060000Z
+SUMMARY:Menadżer innowacji (wykład)
+UID:4b1a0c64-8aec-4610-a406-6f2222e5035c@4b1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20250116T101500Z
+LOCATION:Paw.F 516
+DTSTART:20250116T084500Z
+SUMMARY:Menadżer innowacji (ćwiczenia)
+UID:efe1535e-5fea-4284-8e97-5e538d969af7@efe1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20241105T100000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241105T070000Z
+SUMMARY:Projektowanie produktów przemysłowych (laboratorium)
+UID:a2e5525b-1ae4-44ce-acf7-8218e7b2eceb@a2e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20241210T180000Z
+LOCATION:Paw.G  9
+DTSTART:20241210T154500Z
+SUMMARY:Projektowanie usług (konwersatorium)
+UID:ec185105-7198-4b3d-a9ac-80d4bde80431@ec18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20241219T101500Z
+LOCATION:Paw.F 516
+DTSTART:20241219T084500Z
+SUMMARY:Menadżer innowacji (ćwiczenia)
+UID:47db3791-dcad-4ca5-8629-638fb955e1bf@47db.org
+END:VEVENT
+END:VCALENDAR

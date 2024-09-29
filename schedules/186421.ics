@@ -1,0 +1,882 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Ewelina Jamróz
+DTEND:20241119T083000Z
+LOCATION:Paw.F 104
+DTSTART:20241119T070000Z
+SUMMARY:Inżynieria pakowania produktów (wykład)
+UID:0ab722b3-e65c-4d7f-987a-b362e72c83f9@0ab7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241219T120000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241219T111500Z
+SUMMARY:Zarządzanie operatywne (wykład)
+UID:9690aeee-3217-430c-b1f1-a1a792ee0617@9690.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20241004T091500Z
+LOCATION:Bibl. 443
+DTSTART:20241004T074500Z
+SUMMARY:�ródła finansowania innowacji (ćwiczenia)
+UID:d7808d52-00d3-4b68-a397-4ab3f56979d5@d780.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20241008T124500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241008T111500Z
+SUMMARY:Grafika i wzornictwo (laboratorium)
+UID:543f8657-caed-4915-8507-8f1ad7fd96bf@543f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20250122T120000Z
+LOCATION:Paw.S sala 8
+DTSTART:20250122T111500Z
+SUMMARY:Grafika i wzornictwo (wykład)
+UID:e94160fd-617c-4cb1-b9b7-0ed2381d4bc1@e941.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Ewelina Jamróz
+DTEND:20241217T083000Z
+LOCATION:Paw.F 104
+DTSTART:20241217T070000Z
+SUMMARY:Inżynieria pakowania produktów (wykład)
+UID:9f5784f6-445f-4e61-b820-cfc77942c558@9f57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20250109T134500Z
+LOCATION:Paw.B 251
+DTSTART:20250109T121500Z
+SUMMARY:Surowce i produkty przemysłu spożywczego (wykład)
+UID:c40574b4-25b0-4572-8f6d-5e2bdf4d8288@c405.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20250123T171500Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20250123T154500Z
+SUMMARY:Inżynieria pakowania produktów (laboratorium)
+UID:c7d1a201-b2b9-4409-a0cb-0c7e83b88e1d@c7d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241128T134500Z
+LOCATION:Paw.B 251
+DTSTART:20241128T121500Z
+SUMMARY:Surowce i produkty przemysłu spożywczego (wykład)
+UID:48bcffd4-4b3f-4ecc-9d72-9eac8381d4ba@48bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20241003T134500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241003T130000Z
+SUMMARY:Materiałoznawstwo i inżynieria produktow przemysłowych (wykład)
+UID:a92427e0-b49a-4b19-b3ec-ae8c6c757325@a924.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241003T073000Z
+LOCATION:Paw.C sala A
+DTSTART:20241003T060000Z
+SUMMARY:Zarządzanie operatywne (wykład)
+UID:0e327539-c02b-46c4-bbd2-19b9ef52599a@0e32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241114T083000Z
+LOCATION:Paw.C sala A
+DTSTART:20241114T070000Z
+SUMMARY:Zarządzanie operatywne (wykład)
+UID:3b432964-1f3b-48ec-b0b2-8e2cf100be00@3b43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20250115T083000Z
+LOCATION:Paw.S sala 8
+DTSTART:20250115T070000Z
+SUMMARY:Grafika i wzornictwo (wykład)
+UID:5cf7d401-4563-4f0d-b024-1fbffbc39a80@5cf7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Elżbieta Bielak
+DTEND:20241118T161500Z
+LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 4
+DTSTART:20241118T140000Z
+SUMMARY:Materiałoznawstwo i inżynieria produktow przemysłowych (laboratorium)
+UID:7cc338b7-4846-42fa-9a03-822500f874fd@7cc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20250110T101500Z
+LOCATION:Bibl. 443
+DTSTART:20250110T084500Z
+SUMMARY:�ródła finansowania innowacji (ćwiczenia)
+UID:36da57a5-7208-4a61-992a-0924cad4e40d@36da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241004T123000Z
+LOCATION:Bud.gł. 4
+DTSTART:20241004T093000Z
+SUMMARY:Biznesplan (konwersatorium)
+UID:17bb9219-dcf8-45f0-9620-02a9102dc5f8@17bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20250108T083000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20250108T070000Z
+SUMMARY:Inżynieria pakowania produktów (laboratorium)
+UID:798f0e88-03e6-4050-968a-865ccedb7c6f@798f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Ewelina Jamróz
+DTEND:20241001T124500Z
+LOCATION:Paw.F 102
+DTSTART:20241001T111500Z
+SUMMARY:Inżynieria pakowania produktów (wykład)
+UID:917fd6d9-8ead-48f3-af92-143dfa05d8be@917f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20241211T133000Z
+LOCATION:Sienk. 4 pr. przem. 2\, Sienk. 4 pr. przem. 3
+DTSTART:20241211T103000Z
+SUMMARY:Materiałoznawstwo i inżynieria produktow przemysłowych (laboratorium)
+UID:8646602d-9c41-4e51-96c4-250f92a9586a@8646.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Elżbieta Bielak
+DTEND:20241114T153000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241114T140000Z
+SUMMARY:Materiałoznawstwo i inżynieria produktow przemysłowych (wykład)
+UID:c1aa3638-098f-4258-9168-ebd449adea4c@c1aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20241010T143000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241010T130000Z
+SUMMARY:Materiałoznawstwo i inżynieria produktow przemysłowych (wykład)
+UID:15537cc6-7547-4cb9-9044-d91d8e0c39a4@1553.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Ewelina Jamróz
+DTEND:20241203T083000Z
+LOCATION:Paw.F 104
+DTSTART:20241203T070000Z
+SUMMARY:Inżynieria pakowania produktów (wykład)
+UID:d0081976-823f-401f-acd0-4b38b0f18d06@d008.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20241021T123000Z
+LOCATION:Sienk. 5 pr. spoż. 2
+DTSTART:20241021T093000Z
+SUMMARY:Surowce i produkty przemysłu spożywczego (laboratorium)
+UID:42066f6d-47cc-468a-9e24-d50bd0cc8967@4206.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20241118T133000Z
+LOCATION:Sienk. 5 pr. spoż. 2
+DTSTART:20241118T103000Z
+SUMMARY:Surowce i produkty przemysłu spożywczego (laboratorium)
+UID:6dfc97f8-ccd0-4e84-809b-d0dec0c8d1fe@6dfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20241029T083000Z
+LOCATION:Paw.C sala A
+DTSTART:20241029T070000Z
+SUMMARY:Zarządzanie operatywne (ćwiczenia)
+UID:86d2e25b-3e39-4210-a9ee-98d6345a824e@86d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20241129T101500Z
+LOCATION:Bibl. 443
+DTSTART:20241129T084500Z
+SUMMARY:�ródła finansowania innowacji (ćwiczenia)
+UID:1a87ee20-e218-4154-83fc-3f0f26a3aebc@1a87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241129T124500Z
+LOCATION:Bud.gł. 4
+DTSTART:20241129T103000Z
+SUMMARY:Biznesplan (konwersatorium)
+UID:c5266ac9-cb17-4d18-bf4c-98694fe56285@c526.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20241125T133000Z
+LOCATION:Sienk. 5 pr. spoż. 2
+DTSTART:20241125T103000Z
+SUMMARY:Surowce i produkty przemysłu spożywczego (laboratorium)
+UID:d7255bef-503d-4613-96f1-39e6f976bbf3@d725.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20241218T133000Z
+LOCATION:Sienk. 4 pr. przem. 2\, Sienk. 4 pr. przem. 3
+DTSTART:20241218T103000Z
+SUMMARY:Materiałoznawstwo i inżynieria produktow przemysłowych (laboratorium)
+UID:4fd628cf-6cd7-448f-a012-6788e646fbd4@4fd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241212T134500Z
+LOCATION:Paw.B 251
+DTSTART:20241212T121500Z
+SUMMARY:Surowce i produkty przemysłu spożywczego (wykład)
+UID:43de2cc5-6675-418c-afe4-4506ef543a14@43de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241016T073000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241016T064500Z
+SUMMARY:Inżynieria pakowania produktów (laboratorium)
+UID:4a97e734-8acc-415e-8e4c-68382fe33ad8@4a97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Elżbieta Bielak
+DTEND:20241121T153000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241121T140000Z
+SUMMARY:Materiałoznawstwo i inżynieria produktow przemysłowych (wykład)
+UID:d7c7fdf6-12e5-4516-b33e-b006442bf8be@d7c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20250122T083000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20250122T070000Z
+SUMMARY:Inżynieria pakowania produktów (laboratorium)
+UID:8a5d228c-88f1-4dba-b519-39c012475ed9@8a5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20241025T143000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241025T130000Z
+SUMMARY:Materiałoznawstwo i inżynieria produktow przemysłowych (wykład)
+UID:1f0889a3-1ee3-4434-8c2d-71ca0992bf94@1f08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241018T123000Z
+LOCATION:Bud.gł. 4
+DTSTART:20241018T093000Z
+SUMMARY:Biznesplan (konwersatorium)
+UID:563f7ced-6dd3-4db8-8c8e-172806736b16@563f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241030T083000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241030T070000Z
+SUMMARY:Inżynieria pakowania produktów (laboratorium)
+UID:7ce25c4c-2537-4e34-8f07-68ca44bf1e7f@7ce2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20250121T083000Z
+LOCATION:Paw.C sala A
+DTSTART:20250121T074500Z
+SUMMARY:Zarządzanie operatywne (ćwiczenia)
+UID:9abf3262-29d0-4399-82d9-2efa5257d846@9abf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20241203T134500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241203T121500Z
+SUMMARY:Grafika i wzornictwo (laboratorium)
+UID:7d805d67-636c-44a4-be21-b32b90805a95@7d80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241031T083000Z
+LOCATION:Paw.C sala A
+DTSTART:20241031T070000Z
+SUMMARY:Zarządzanie operatywne (wykład)
+UID:07e70d31-c29a-4257-a053-56825acd5216@07e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Elżbieta Bielak
+DTEND:20241107T153000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241107T140000Z
+SUMMARY:Materiałoznawstwo i inżynieria produktow przemysłowych (wykład)
+UID:f40edc20-2498-4338-ac36-839ba8003b79@f40e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Elżbieta Bielak
+DTEND:20241021T160000Z
+LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 4
+DTSTART:20241021T130000Z
+SUMMARY:Materiałoznawstwo i inżynieria produktow przemysłowych (laboratorium)
+UID:1dbca089-cb38-4202-b7bd-70f00bc40348@1dbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20250107T083000Z
+LOCATION:Paw.C sala A
+DTSTART:20250107T070000Z
+SUMMARY:Zarządzanie operatywne (ćwiczenia)
+UID:533e13c3-6a48-4080-a30c-587911efde2e@533e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20250124T101500Z
+LOCATION:Bibl. 443
+DTSTART:20250124T084500Z
+SUMMARY:�ródła finansowania innowacji (ćwiczenia)
+UID:272d1e59-6866-43f0-9cd4-748a37c3b9ec@272d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20241024T124500Z
+LOCATION:Paw.B 251
+DTSTART:20241024T111500Z
+SUMMARY:�ródła finansowania innowacji (wykład)
+UID:cf1ba8e4-0448-42ce-a2e8-68b10e7c73e8@cf1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20250123T134500Z
+LOCATION:Paw.S sala 5
+DTSTART:20250123T130000Z
+SUMMARY:�ródła finansowania innowacji (wykład)
+UID:44e879b0-a658-4a07-813b-59b2c725ba89@44e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20241107T134500Z
+LOCATION:Paw.B 251
+DTSTART:20241107T121500Z
+SUMMARY:�ródła finansowania innowacji (wykład)
+UID:c11f735a-0f2c-4488-9a33-03f780b8e2bf@c11f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20241104T133000Z
+LOCATION:Sienk. 5 pr. spoż. 2
+DTSTART:20241104T103000Z
+SUMMARY:Surowce i produkty przemysłu spożywczego (laboratorium)
+UID:81309c67-956a-47b1-bd18-b9044e1ae19e@8130.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:e424fb02-1806-45be-af0b-8fdd86da717f@e424.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20241216T133000Z
+LOCATION:Sienk. 5 pr. spoż. 2
+DTSTART:20241216T103000Z
+SUMMARY:Surowce i produkty przemysłu spożywczego (laboratorium)
+UID:dde0bdbb-b126-4177-bd20-03102b3f417c@dde0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20241209T133000Z
+LOCATION:Sienk. 5 pr. spoż. 2
+DTSTART:20241209T103000Z
+SUMMARY:Surowce i produkty przemysłu spożywczego (laboratorium)
+UID:c0088d4d-0afb-464a-a443-f27b063a6d07@c008.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20241127T133000Z
+LOCATION:Sienk. 4 pr. przem. 2\, Sienk. 4 pr. przem. 3
+DTSTART:20241127T103000Z
+SUMMARY:Materiałoznawstwo i inżynieria produktow przemysłowych (laboratorium)
+UID:6002cc4f-ba7f-44a8-87bb-89d733d5cbe2@6002.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20241202T133000Z
+LOCATION:Sienk. 5 pr. spoż. 2
+DTSTART:20241202T103000Z
+SUMMARY:Surowce i produkty przemysłu spożywczego (laboratorium)
+UID:bcd9bd04-3826-4877-85c6-f4ef8986a981@bcd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241031T134500Z
+LOCATION:Paw.B 251
+DTSTART:20241031T121500Z
+SUMMARY:Surowce i produkty przemysłu spożywczego (wykład)
+UID:378ee32f-41e1-4afa-8368-457ac8c38de4@378e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20241015T073000Z
+LOCATION:Paw.C sala A
+DTSTART:20241015T060000Z
+SUMMARY:Zarządzanie operatywne (ćwiczenia)
+UID:25f5ff36-1413-402b-84eb-a74f128c5e3c@25f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Elżbieta Bielak
+DTEND:20241014T160000Z
+LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 4
+DTSTART:20241014T130000Z
+SUMMARY:Materiałoznawstwo i inżynieria produktow przemysłowych (laboratorium)
+UID:6771eae2-c06a-4141-805b-9fd0d1ebddcb@6771.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20250115T120000Z
+LOCATION:Sienk. 4 pr. przem. 2\, Sienk. 4 pr. przem. 3
+DTSTART:20250115T103000Z
+SUMMARY:Materiałoznawstwo i inżynieria produktow przemysłowych (laboratorium)
+UID:4d8456eb-ae3b-4ada-80c4-bb585006fe91@4d84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20250116T134500Z
+LOCATION:Paw.B 251
+DTSTART:20250116T121500Z
+SUMMARY:�ródła finansowania innowacji (wykład)
+UID:d005731c-d6c0-4d0c-b560-b9bf0d299d1d@d005.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20250121T134500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250121T130000Z
+SUMMARY:Grafika i wzornictwo (laboratorium)
+UID:4a953117-e30d-46f5-97ae-c15a39fdf663@4a95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241003T124500Z
+LOCATION:Paw.B 251
+DTSTART:20241003T111500Z
+SUMMARY:Surowce i produkty przemysłu spożywczego (wykład)
+UID:3073c811-acac-427b-921f-be32c88d3c48@3073.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20241121T134500Z
+LOCATION:Paw.B 251
+DTSTART:20241121T121500Z
+SUMMARY:�ródła finansowania innowacji (wykład)
+UID:82aaa32e-5b54-4edb-97e4-296747c0c4b8@82aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20241014T123000Z
+LOCATION:Sienk. 5 pr. spoż. 2
+DTSTART:20241014T093000Z
+SUMMARY:Surowce i produkty przemysłu spożywczego (laboratorium)
+UID:40be012b-d31e-4711-b43f-6ecf54bc8b5b@40be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20241017T124500Z
+LOCATION:Paw.B 251
+DTSTART:20241017T111500Z
+SUMMARY:Surowce i produkty przemysłu spożywczego (wykład)
+UID:2951c48d-b2e5-4107-b0c9-4d2743f84255@2951.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241211T083000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241211T070000Z
+SUMMARY:Inżynieria pakowania produktów (laboratorium)
+UID:335ff314-1a70-4ae2-a8f7-4543a45334fe@335f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20250113T133000Z
+LOCATION:Sienk. 5 pr. spoż. 2
+DTSTART:20250113T103000Z
+SUMMARY:Surowce i produkty przemysłu spożywczego (laboratorium)
+UID:7a87aadf-b9c6-47a7-aea1-c9a7f855ca5e@7a87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20250123T130000Z
+LOCATION:Paw.B 251
+DTSTART:20250123T121500Z
+SUMMARY:Surowce i produkty przemysłu spożywczego (wykład)
+UID:c7140165-c2a1-4544-808a-cfa814ba459e@c714.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241017T073000Z
+LOCATION:Paw.C sala A
+DTSTART:20241017T060000Z
+SUMMARY:Zarządzanie operatywne (wykład)
+UID:146cbf05-2b56-459c-b447-b0fd7b3fbb57@146c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20241028T133000Z
+LOCATION:Sienk. 5 pr. spoż. 2
+DTSTART:20241028T103000Z
+SUMMARY:Surowce i produkty przemysłu spożywczego (laboratorium)
+UID:7b1eff18-c7c4-403e-8f90-0b433708c496@7b1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20241105T134500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241105T121500Z
+SUMMARY:Grafika i wzornictwo (laboratorium)
+UID:ac3271fe-33c0-4caa-88ca-a1239e8ece0f@ac32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Ewelina Jamróz
+DTEND:20241022T073000Z
+LOCATION:Paw.F 104
+DTSTART:20241022T060000Z
+SUMMARY:Inżynieria pakowania produktów (wykład)
+UID:f5f9c733-589c-4a01-b35e-24889272cd01@f5f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241212T083000Z
+LOCATION:Paw.C sala A
+DTSTART:20241212T070000Z
+SUMMARY:Zarządzanie operatywne (wykład)
+UID:04ccef49-6cce-4191-9285-ad87aeff9f66@04cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20241204T133000Z
+LOCATION:Sienk. 4 pr. przem. 2\, Sienk. 4 pr. przem. 3
+DTSTART:20241204T103000Z
+SUMMARY:Materiałoznawstwo i inżynieria produktow przemysłowych (laboratorium)
+UID:eb4188c2-e3e0-440f-beea-120ddc4c07d2@eb41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20241001T073000Z
+LOCATION:Paw.C sala A
+DTSTART:20241001T060000Z
+SUMMARY:Zarządzanie operatywne (ćwiczenia)
+UID:bc8148a2-0826-4568-81f6-376069b5694d@bc81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20241018T091500Z
+LOCATION:Bibl. 443
+DTSTART:20241018T074500Z
+SUMMARY:�ródła finansowania innowacji (ćwiczenia)
+UID:d0140478-2334-4c06-b636-12d0ba1d3710@d014.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241114T134500Z
+LOCATION:Paw.B 251
+DTSTART:20241114T121500Z
+SUMMARY:Surowce i produkty przemysłu spożywczego (wykład)
+UID:41999a1a-ffa2-46e2-970c-797435c792fb@4199.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20250120T111500Z
+LOCATION:Sienk. 5 pr. spoż. 2
+DTSTART:20250120T103000Z
+SUMMARY:Surowce i produkty przemysłu spożywczego (laboratorium)
+UID:c932e10b-eda6-4e93-aa76-6e70127c2ae0@c932.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Elżbieta Bielak
+DTEND:20241031T153000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241031T140000Z
+SUMMARY:Materiałoznawstwo i inżynieria produktow przemysłowych (wykład)
+UID:5dd120e7-154c-4be1-8458-47c1bf341391@5dd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20241115T101500Z
+LOCATION:Bibl. 443
+DTSTART:20241115T084500Z
+SUMMARY:�ródła finansowania innowacji (ćwiczenia)
+UID:48045e9a-1c41-4b71-bb0b-808e2417e1cb@4804.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20241120T083000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241120T070000Z
+SUMMARY:Grafika i wzornictwo (wykład)
+UID:26c07d8e-166a-42f8-98f3-6b75334ba210@26c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20241126T083000Z
+LOCATION:Paw.C sala A
+DTSTART:20241126T070000Z
+SUMMARY:Zarządzanie operatywne (ćwiczenia)
+UID:8b0c54e2-e05a-41ae-a2d2-96dda4c712ce@8b0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20241119T134500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241119T121500Z
+SUMMARY:Grafika i wzornictwo (laboratorium)
+UID:bc2a7147-89f8-4f7b-899a-43ae00a2fb3e@bc2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20241204T083000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241204T070000Z
+SUMMARY:Grafika i wzornictwo (wykład)
+UID:52faf6c1-66c6-43ba-bb2b-58db0186772a@52fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20241022T124500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241022T111500Z
+SUMMARY:Grafika i wzornictwo (laboratorium)
+UID:f0285a74-aa7d-4175-b6ad-8e50022a3cb0@f028.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241113T083000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241113T070000Z
+SUMMARY:Inżynieria pakowania produktów (laboratorium)
+UID:0a8f38d9-f04c-4c6a-a4fc-67210cdb1c1e@0a8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20241007T123000Z
+LOCATION:Sienk. 5 pr. spoż. 2
+DTSTART:20241007T093000Z
+SUMMARY:Surowce i produkty przemysłu spożywczego (laboratorium)
+UID:926ab0d9-0067-4596-a0ad-ce62c144ce9e@926a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241108T101500Z
+LOCATION:Paw.C sala B
+DTSTART:20241108T084500Z
+SUMMARY:Zarządzanie operatywne (wykład)
+UID:f61c41fd-fc5a-4e45-9a83-556b0e1a279e@f61c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Elżbieta Bielak
+DTEND:20241028T170000Z
+LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 4
+DTSTART:20241028T140000Z
+SUMMARY:Materiałoznawstwo i inżynieria produktow przemysłowych (laboratorium)
+UID:8e6f0680-0782-4632-bb3d-2f5f5f117fc3@8e6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241128T083000Z
+LOCATION:Paw.C sala A
+DTSTART:20241128T070000Z
+SUMMARY:Zarządzanie operatywne (wykład)
+UID:d94d0ac6-e2e4-4006-bf13-6207298d93c6@d94d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20241024T143000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241024T130000Z
+SUMMARY:Materiałoznawstwo i inżynieria produktow przemysłowych (wykład)
+UID:378bac84-1eb7-4a6f-84d9-f450e273ab0f@378b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20241112T083000Z
+LOCATION:Paw.C sala A
+DTSTART:20241112T070000Z
+SUMMARY:Zarządzanie operatywne (ćwiczenia)
+UID:d13f1b3a-f916-41c0-8f76-765684b2c089@d13f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20250114T134500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250114T121500Z
+SUMMARY:Grafika i wzornictwo (laboratorium)
+UID:3152498e-dc40-4ab6-9c8e-143bad5accee@3152.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20241010T180000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241010T163000Z
+SUMMARY:�ródła finansowania innowacji (wykład)
+UID:aaae3312-dc75-44d6-8506-a572c26c43dd@aaae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20241106T083000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241106T070000Z
+SUMMARY:Grafika i wzornictwo (wykład)
+UID:bd826e94-b804-4959-a618-9a35cc6a134a@bd82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20241003T161500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241003T144500Z
+SUMMARY:�ródła finansowania innowacji (wykład)
+UID:d20ef65c-fd4b-4d05-846a-9aaf100ceb0d@d20e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20241210T083000Z
+LOCATION:Paw.C sala A
+DTSTART:20241210T070000Z
+SUMMARY:Zarządzanie operatywne (ćwiczenia)
+UID:06cee35f-8672-449f-a1a1-81d28e95701e@06ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20241205T134500Z
+LOCATION:Paw.B 251
+DTSTART:20241205T121500Z
+SUMMARY:�ródła finansowania innowacji (wykład)
+UID:652b3506-ae2d-4ab8-825b-12ca6d599dad@652b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:21e7af98-3bc1-4a30-a868-7c492242ec90@21e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Elżbieta Bielak
+DTEND:20241007T160000Z
+LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 4
+DTSTART:20241007T130000Z
+SUMMARY:Materiałoznawstwo i inżynieria produktow przemysłowych (laboratorium)
+UID:8c34e57b-81f5-4b20-b953-2512b8acacd5@8c34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20250108T133000Z
+LOCATION:Sienk. 4 pr. przem. 2\, Sienk. 4 pr. przem. 3
+DTSTART:20250108T103000Z
+SUMMARY:Materiałoznawstwo i inżynieria produktow przemysłowych (laboratorium)
+UID:942383f2-74ed-4368-9651-588ff24161c9@9423.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Ewelina Jamróz
+DTEND:20241105T083000Z
+LOCATION:Paw.F 104
+DTSTART:20241105T070000Z
+SUMMARY:Inżynieria pakowania produktów (wykład)
+UID:45463c01-2d71-4c98-9d2c-a2709a4489c8@4546.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20241218T083000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241218T070000Z
+SUMMARY:Grafika i wzornictwo (wykład)
+UID:c2cc2e83-17ed-42cd-bea4-ca8d21b5ff2d@c2cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20250123T144500Z
+LOCATION:L 525 Ustr.
+DTSTART:20250123T140000Z
+SUMMARY:�ródła finansowania innowacji (ćwiczenia)
+UID:ad3dbf13-40df-4a1a-9406-649f92aec04d@ad3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20241023T073000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241023T060000Z
+SUMMARY:Grafika i wzornictwo (wykład)
+UID:dd4d91da-3c85-4849-8e98-41b356d408fb@dd4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Ewelina Jamróz
+DTEND:20250114T083000Z
+LOCATION:Paw.F 104
+DTSTART:20250114T070000Z
+SUMMARY:Inżynieria pakowania produktów (wykład)
+UID:2d1a3386-35d2-446d-a3fc-73d42c0bf6f9@2d1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20241217T134500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241217T121500Z
+SUMMARY:Grafika i wzornictwo (laboratorium)
+UID:23e3dcaf-75fe-4ebe-83c6-a44a5cfbd49c@23e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241115T133000Z
+LOCATION:Bud.gł. 4
+DTSTART:20241115T103000Z
+SUMMARY:Biznesplan (konwersatorium)
+UID:a3044822-5826-464d-b77b-cde4883df808@a304.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Elżbieta Bielak
+DTEND:20241104T170000Z
+LOCATION:Sienk. 4 pr. przem. 1\, Sienk. 4 pr. przem. 4
+DTSTART:20241104T140000Z
+SUMMARY:Materiałoznawstwo i inżynieria produktow przemysłowych (laboratorium)
+UID:5a6e00f0-c927-4f11-8634-a0d1110dafa7@5a6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Ewelina Jamróz
+DTEND:20250121T074500Z
+LOCATION:Paw.F 104
+DTSTART:20250121T070000Z
+SUMMARY:Inżynieria pakowania produktów (wykład)
+UID:216720a7-860a-4501-8686-5136b7be6fe9@2167.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20241009T073000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241009T060000Z
+SUMMARY:Grafika i wzornictwo (wykład)
+UID:fbbd15cd-3c78-45ec-900f-549bc5e33f4c@fbbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dariusz Firszt
+DTEND:20241213T101500Z
+LOCATION:Bibl. 443
+DTSTART:20241213T084500Z
+SUMMARY:�ródła finansowania innowacji (ćwiczenia)
+UID:aa85ce3f-1396-4fa1-9053-a080fd7c5cc7@aa85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241127T083000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241127T070000Z
+SUMMARY:Inżynieria pakowania produktów (laboratorium)
+UID:f9b1221b-d6b2-41d6-8c03-583c740f0c59@f9b1.org
+END:VEVENT
+END:VCALENDAR

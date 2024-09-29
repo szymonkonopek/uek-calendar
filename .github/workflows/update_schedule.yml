@@ -1,0 +1,42 @@
+name: Update Schedule ICS File
+
+# Run the action every hour
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Runs every 12 hours (at 00:00 and 12:00)
+
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-ics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository content
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x' # Use the latest Python 3.x version
+
+      - name: Install required Python packages
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run the script to generate schedule.ics
+        run: |
+          python main.py
+
+      - name: Commit and push the updated .ics file
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Action"
+          git pull
+          git add .
+          git commit -m "Update schedule.ics"
+          git push
+        env:
+          # Set this environment variable to push changes back to the repository
+          # GITHUB_TOKEN is automatically provided by GitHub Actions
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

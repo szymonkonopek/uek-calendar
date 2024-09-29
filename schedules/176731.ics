@@ -1,0 +1,291 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magda Pluta
+DTEND:20241129T193000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241129T163000Z
+SUMMARY:Systemy geoinformacyjne (Studia podyplomowe)
+UID:e1142611-a00d-492d-a5c1-e813100ea6cc@e114.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Maria Zawadzka
+DTEND:20241130T133000Z
+LOCATION:Paw.G - 2
+DTSTART:20241130T103000Z
+SUMMARY:Podstawy prawa i postępowania administracyjnego (Studia podyplomowe)
+UID:623f76b5-e75b-4226-a3b3-900adcc8c2b1@623f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Kowalik
+DTEND:20250202T100000Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20250202T070000Z
+SUMMARY:Ocena stanu technicznego budynków (Studia podyplomowe)
+UID:742a7594-1461-4ac2-9af4-02da8010b5ce@742a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20250201T133000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250201T103000Z
+SUMMARY:Gospodarka przestrzenna (Studia podyplomowe)
+UID:2c9234c2-e07d-4406-9f1f-33273d069e22@2c92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Małkowska
+DTEND:20241215T104500Z
+LOCATION:Paw.G 11
+DTSTART:20241215T074500Z
+SUMMARY:Gospodarka nieruchomościami (Studia podyplomowe)
+UID:201b82e4-a15c-41a2-acde-3ad0d766f266@201b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Małkowska
+DTEND:20241215T124500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241215T111500Z
+SUMMARY:Gospodarka nieruchomościami (Studia podyplomowe)
+UID:19f5b723-a480-4d6d-984b-80a974b528c2@19f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20250117T193000Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20250117T163000Z
+SUMMARY:Podejścia\, metody i techniki wyceny nieruchomości w Polsce (Studia podyplomowe)
+UID:7ef58c3c-9ff6-4fe3-8c0a-ddaa5c3e8534@7ef5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Małkowska
+DTEND:20250118T124500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250118T111500Z
+SUMMARY:Gospodarka nieruchomościami (Studia podyplomowe)
+UID:ddda4633-e45f-4197-8653-e010af6498da@ddda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agnieszka Michalczuk
+DTEND:20250214T193000Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20250214T154500Z
+SUMMARY:Podstawy prawa rzeczowego (Studia podyplomowe)
+UID:df581f85-7f84-470b-bb3c-870dea7ddd93@df58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20241116T083000Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20241116T070000Z
+SUMMARY:Koncepcje wyceny nieruchomości na świecie (Studia podyplomowe)
+UID:cf69c693-682a-42b0-bbfa-6d70b3c79bb2@cf69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartłomiej Marona
+DTEND:20241130T100000Z
+LOCATION:Paw.G - 2
+DTSTART:20241130T070000Z
+SUMMARY:Podstawy matematyki finansowej (Studia podyplomowe)
+UID:a16427be-680e-4e5c-9a73-ac855bf1293d@a164.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20250117T163000Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20250117T154500Z
+SUMMARY:Wprowadzenie do problematyki wyceny nieruchomości (Studia podyplomowe)
+UID:853b8143-6962-49c9-bdf4-b7bc162f2b30@853b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.arch. Dorota Jopek
+DTEND:20250119T104500Z
+LOCATION:Paw.G 11
+DTSTART:20250119T074500Z
+SUMMARY:Gospodarka przestrzenna (Studia podyplomowe)
+UID:e2e5fe85-39e0-4da7-b6dc-5a41f620c123@e2e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jolanta Nosek-Norberciak
+DTEND:20241027T110000Z
+LOCATION:Paw.G 11
+DTSTART:20241027T093000Z
+SUMMARY:System prawny rzeczoznawstwa (Studia podyplomowe)
+UID:d034a0ad-4795-4a4a-94a1-8fe88e623819@d034.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agnieszka Michalczuk
+DTEND:20241201T083000Z
+LOCATION:Paw.G 11
+DTSTART:20241201T070000Z
+SUMMARY:Część ogólna prawa cywilnego (Studia podyplomowe)
+UID:2038864c-e732-4162-80ed-6e5ceb89baae@2038.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartosz Kurek
+DTEND:20241027T141500Z
+LOCATION:Paw.G 11
+DTSTART:20241027T111500Z
+SUMMARY:Elementy rachunkowości (Studia podyplomowe)
+UID:f62e6113-35ae-435f-881e-91b3fe2726e8@f62e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agnieszka Michalczuk
+DTEND:20241117T123000Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20241117T093000Z
+SUMMARY:Część ogólna prawa cywilnego (Studia podyplomowe)
+UID:b64e7704-9a3d-400c-8454-7775527628ee@b64e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agnieszka Michalczuk
+DTEND:20241201T123000Z
+LOCATION:Paw.G 11
+DTSTART:20241201T084500Z
+SUMMARY:Podstawy prawa rzeczowego (Studia podyplomowe)
+UID:6d75ef74-d4a4-4994-ae83-34e9b1b20cdd@6d75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20241116T131500Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20241116T084500Z
+SUMMARY:Wartość nieruchomości jako podstawa wyceny (Studia podyplomowe)
+UID:05a01f8f-015e-4181-8313-3594c2ad4a15@05a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Małkowska
+DTEND:20250201T100000Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20250201T070000Z
+SUMMARY:Gospodarka nieruchomościami (Studia podyplomowe)
+UID:d3a3fb3d-d6ea-4d1a-a02c-f5d39febb769@d3a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agnieszka Michalczuk
+DTEND:20241117T091500Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20241117T074500Z
+SUMMARY:Ochrona danych osobowych (Studia podyplomowe)
+UID:247e8680-e2b0-4656-aa15-d9338076cf9b@247e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magda Pluta
+DTEND:20250119T141500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250119T111500Z
+SUMMARY:�ródła informacji o nieruchomościach (Studia podyplomowe)
+UID:7f7f41e9-25d6-451c-8413-f90c06a64669@7f7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jolanta Nosek-Norberciak
+DTEND:20241213T184500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241213T154500Z
+SUMMARY:System prawny rzeczoznawstwa (Studia podyplomowe)
+UID:20d44546-2e26-4109-b5e6-e56ca0f84e3a@20d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Małkowska
+DTEND:20250118T104500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250118T074500Z
+SUMMARY:Gospodarka nieruchomościami (Studia podyplomowe)
+UID:f4b9afd9-4388-4388-8925-11ae7856fbfd@f4b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20250131T193000Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20250131T154500Z
+SUMMARY:Ekonomiczne podstawy rynku nieruchomości (Studia podyplomowe)
+UID:485fd55b-fe44-4ad6-9fa8-6f8c348dc7f0@485f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartłomiej Marona
+DTEND:20241025T161500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241025T144500Z
+SUMMARY:Wprowadzenie do problematyki wyceny nieruchomości (Studia podyplomowe)
+UID:527030e3-cbff-497a-ac66-2295ea32f36c@5270.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20250215T130000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250215T070000Z
+SUMMARY:Podstawy statystyki i ekonometrii (Studia podyplomowe)
+UID:5b6a494e-d976-4e7f-8b2a-a329dcfb60c1@5b6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Andrzej Płonka
+DTEND:20241214T100000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241214T070000Z
+SUMMARY:Elementy finansów i bankowości (Studia podyplomowe)
+UID:c6d54101-1c10-48f8-bd39-8a990a9b837f@c6d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż.\, prof. PK Renata Kozik
+DTEND:20250202T133000Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20250202T103000Z
+SUMMARY:Proces inwestycyjny w budownictwie (Studia podyplomowe)
+UID:90a35222-4e19-4ddb-ab84-3e6f6076d8cb@90a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartłomiej Marona
+DTEND:20241214T133000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241214T103000Z
+SUMMARY:Podstawy matematyki finansowej (Studia podyplomowe)
+UID:c2a03582-92e8-471b-97c1-7d9f6389527e@c2a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jolanta Nosek-Norberciak
+DTEND:20241027T091500Z
+LOCATION:Paw.G 11
+DTSTART:20241027T074500Z
+SUMMARY:Zasady dobrej praktyki (Studia podyplomowe)
+UID:0fde7c3e-bcb7-4d9d-905a-da61b0f59c8e@0fde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20241026T111500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241026T064500Z
+SUMMARY:Podstawy ekonomii (Studia podyplomowe)
+UID:50b04183-de07-4c1d-8288-221e27bb8f0d@50b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. inż. Karol Firek
+DTEND:20250216T130000Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20250216T070000Z
+SUMMARY:Uwarunkowania prawne i techniczne funkcjonowania obiektów budowlanych (Studia podyplomowe)
+UID:76161513-81a8-4532-b983-c4520c0c8625@7616.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20241115T193000Z
+DTSTART:20241115T154500Z
+SUMMARY:Ekonomiczne podstawy rynku nieruchomości (Studia podyplomowe)
+UID:806eddad-8ca4-4a91-b14c-54c4e7440c47@806e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20241025T184500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241025T163000Z
+SUMMARY:Wprowadzenie do problematyki wyceny nieruchomości (Studia podyplomowe)
+UID:edf9154c-8445-405a-a66d-9652cc0f2d50@edf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartłomiej Marona
+DTEND:20250216T144500Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20250216T140000Z
+SUMMARY:Egzamin semestralny (Studia podyplomowe)
+UID:dae3bb25-b57c-4a3d-9b50-e21f3b032dd3@dae3.org
+END:VEVENT
+END:VCALENDAR

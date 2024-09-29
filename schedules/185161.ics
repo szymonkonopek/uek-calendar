@@ -1,0 +1,650 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20241210T083000Z
+LOCATION:link do zajęć
+DTSTART:20241210T070000Z
+SUMMARY:Analiza finansowa banków i instytucji ubezpieczeniowych (wykład)
+UID:fb07cee3-fd2e-4ec5-8454-2e1aaff4cf96@fb07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
+DTEND:20241112T101500Z
+LOCATION:link do zajęć
+DTSTART:20241112T084500Z
+SUMMARY:Modelowanie makroekonomicznych danych panelowych (wykład do wyboru)
+UID:ef661607-481d-4356-900d-b8b5dac01ea5@ef66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241108T124500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241108T103000Z
+SUMMARY:Wizualizacja i raportowanie danych w biznesie (wykład do wyboru)
+UID:e16b7606-7be5-4934-be1a-2ed8ea73053c@e16b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
+DTEND:20250107T101500Z
+LOCATION:link do zajęć
+DTSTART:20250107T084500Z
+SUMMARY:Modelowanie makroekonomicznych danych panelowych (wykład do wyboru)
+UID:aad102fa-f6ec-486d-af5d-8f6e1c2a2a8c@aad1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20241014T124500Z
+LOCATION:link do zajęć
+DTSTART:20241014T111500Z
+SUMMARY:Metody aktuarialne (wykład)
+UID:6a20ec6d-7721-4aa9-8be5-6990e00292b7@6a20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241004T114500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241004T093000Z
+SUMMARY:Wizualizacja i raportowanie danych w biznesie (wykład do wyboru)
+UID:0ea875d9-ed9c-4b15-aa50-c028a9aad851@0ea8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20250122T144500Z
+LOCATION:Paw.F 516
+DTSTART:20250122T140000Z
+SUMMARY:Analiza finansowa banków i instytucji ubezpieczeniowych (ćwiczenia)
+UID:d1a99617-78ec-4a2a-ba31-29821ba0b126@d1a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20241001T073000Z
+LOCATION:link do zajęć
+DTSTART:20241001T060000Z
+SUMMARY:Analiza finansowa banków i instytucji ubezpieczeniowych (wykład)
+UID:83c38d3f-12e3-4c86-8b28-e3a21dca039c@83c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Osiewalska
+DTEND:20241018T133000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241018T120000Z
+SUMMARY:Metody aktuarialne (ćwiczenia)
+UID:265f2f51-3cb8-4778-9928-4202adc7ff00@265f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Osiewalska
+DTEND:20241004T141500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241004T120000Z
+SUMMARY:Metody aktuarialne (ćwiczenia)
+UID:4a6eb559-2ae2-4ad7-afbf-05e0c2af6bc1@4a6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
+DTEND:20241210T101500Z
+LOCATION:link do zajęć
+DTSTART:20241210T084500Z
+SUMMARY:Modelowanie makroekonomicznych danych panelowych (wykład do wyboru)
+UID:a6596bab-3fec-4509-aa32-65ee73e9d8a3@a659.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20241202T161500Z
+LOCATION:link do zajęć
+DTSTART:20241202T140000Z
+SUMMARY:Ekonometria w instytucjach finansowych (wykład)
+UID:e864304f-a67d-4b4f-8e8e-2909e40c80d0@e864.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241211T111500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241211T103000Z
+SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (ćwiczenia)
+UID:ca186e01-bd1a-4be9-aece-ee611e114dc6@ca18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:4b6a33b7-680b-48c7-9d50-8cc684e3bfa7@4b6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20241106T171500Z
+LOCATION:Paw.F 516
+DTSTART:20241106T154500Z
+SUMMARY:Analiza finansowa banków i instytucji ubezpieczeniowych (ćwiczenia)
+UID:c28da752-bae2-4f0e-b16d-cbc59540f936@c28d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20250115T171500Z
+LOCATION:Paw.F 516
+DTSTART:20250115T154500Z
+SUMMARY:Analiza finansowa banków i instytucji ubezpieczeniowych (ćwiczenia)
+UID:e7684a63-eca1-4238-b78d-c907192a2919@e768.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20241007T143000Z
+LOCATION:link do zajęć
+DTSTART:20241007T130000Z
+SUMMARY:Ekonometria w instytucjach finansowych (wykład)
+UID:6e39660d-d7f6-49db-9e3c-7c3125ac22c4@6e39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241127T134500Z
+LOCATION:Paw.G 10
+DTSTART:20241127T121500Z
+SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (ćwiczenia)
+UID:677581fc-b6af-4ba5-b534-4c4773597480@6775.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20241023T161500Z
+LOCATION:Paw.F 516
+DTSTART:20241023T144500Z
+SUMMARY:Analiza finansowa banków i instytucji ubezpieczeniowych (ćwiczenia)
+UID:bbd75f9b-d737-4275-889d-128fc5a92de3@bbd7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20250115T134500Z
+LOCATION:link do zajęć
+DTSTART:20250115T121500Z
+SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (wykład)
+UID:1f5071e6-67c4-433a-9f71-f548b00f7fcc@1f50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Osiewalska
+DTEND:20241011T141500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241011T120000Z
+SUMMARY:Metody aktuarialne (ćwiczenia)
+UID:a291cdf5-7872-48a5-bf98-89784811575b@a291.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20241125T134500Z
+LOCATION:link do zajęć
+DTSTART:20241125T121500Z
+SUMMARY:Metody aktuarialne (wykład)
+UID:0e37f42e-0e29-469a-8255-62b025e2dbb5@0e37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Osiewalska
+DTEND:20241213T124500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241213T103000Z
+SUMMARY:Metody aktuarialne (ćwiczenia)
+UID:3e41a2e1-4b54-4ed7-924f-bb8305f6e0bc@3e41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20250122T093000Z
+LOCATION:link do zajęć
+DTSTART:20250122T084500Z
+SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (wykład)
+UID:256b3138-9597-44b6-9c63-376e38a1afa3@256b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20241015T073000Z
+LOCATION:link do zajęć
+DTSTART:20241015T060000Z
+SUMMARY:Analiza finansowa banków i instytucji ubezpieczeniowych (wykład)
+UID:c9c7882a-534e-4240-a6ac-23c2c7975dfb@c9c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241030T134500Z
+LOCATION:Paw.G 10
+DTSTART:20241030T121500Z
+SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (ćwiczenia)
+UID:d3a0cdd0-47fd-4e34-99bd-8033d7109099@d3a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20250122T134500Z
+LOCATION:Paw.G 10
+DTSTART:20250122T121500Z
+SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (ćwiczenia)
+UID:ca38fbc1-1d9b-4c12-97b6-eb55fe9d8cf0@ca38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Osiewalska
+DTEND:20241115T124500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241115T103000Z
+SUMMARY:Metody aktuarialne (ćwiczenia)
+UID:2b8ed51d-9dde-4582-8ee0-79812ab5edb0@2b8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241204T134500Z
+LOCATION:link do zajęć
+DTSTART:20241204T121500Z
+SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (wykład)
+UID:a9d93dc9-079b-4a96-b361-535d75181939@a9d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20241202T190000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241202T173000Z
+SUMMARY:Ekonometria w instytucjach finansowych (laboratorium)
+UID:6371bc9e-11c2-4219-94ea-0c34d9a72c9c@6371.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20241112T083000Z
+LOCATION:link do zajęć
+DTSTART:20241112T070000Z
+SUMMARY:Analiza finansowa banków i instytucji ubezpieczeniowych (wykład)
+UID:392b3191-85b7-4f0c-9331-42ab80569f51@392b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241023T124500Z
+LOCATION:link do zajęć
+DTSTART:20241023T111500Z
+SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (wykład)
+UID:b94a354e-8077-4e03-a098-6f687042fa83@b94a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20241120T171500Z
+LOCATION:Paw.F 516
+DTSTART:20241120T154500Z
+SUMMARY:Analiza finansowa banków i instytucji ubezpieczeniowych (ćwiczenia)
+UID:308c4879-5e93-4b09-826c-1795a48cb76b@308c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
+DTEND:20250121T093000Z
+LOCATION:link do zajęć
+DTSTART:20250121T084500Z
+SUMMARY:Modelowanie makroekonomicznych danych panelowych (wykład do wyboru)
+UID:f0d76853-825b-4038-bc2d-120d0256b4ef@f0d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241025T114500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241025T093000Z
+SUMMARY:Wizualizacja i raportowanie danych w biznesie (wykład do wyboru)
+UID:e606c4af-d460-441b-acc2-9b3c9b537e31@e606.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20250108T134500Z
+LOCATION:Paw.G 10
+DTSTART:20250108T121500Z
+SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (ćwiczenia)
+UID:96131eae-a569-4140-a571-44b3c34219ab@9613.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20241028T190000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241028T173000Z
+SUMMARY:Ekonometria w instytucjach finansowych (laboratorium)
+UID:712c3bbb-9903-47de-9f50-2afdcea2ba29@712c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Osiewalska
+DTEND:20250110T130000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20250110T121500Z
+SUMMARY:Metody aktuarialne (ćwiczenia)
+UID:c9568293-8a4a-4f76-a2e4-8bf2a65110f9@c956.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20241029T083000Z
+LOCATION:link do zajęć
+DTSTART:20241029T070000Z
+SUMMARY:Analiza finansowa banków i instytucji ubezpieczeniowych (wykład)
+UID:0aec0eae-b840-40f7-a0c3-39393369063f@0aec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:49930dea-06d6-42fa-9e68-66c8b356fb61@4993.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
+DTEND:20241001T091500Z
+LOCATION:link do zajęć
+DTSTART:20241001T074500Z
+SUMMARY:Modelowanie makroekonomicznych danych panelowych (wykład do wyboru)
+UID:22e3cc29-908f-4944-8c6a-5068f359634a@22e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20241204T171500Z
+LOCATION:Paw.F 516
+DTSTART:20241204T154500Z
+SUMMARY:Analiza finansowa banków i instytucji ubezpieczeniowych (ćwiczenia)
+UID:0eab2956-55e9-4b95-95b0-617a319dfe10@0eab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20241202T130000Z
+LOCATION:link do zajęć
+DTSTART:20241202T121500Z
+SUMMARY:Metody aktuarialne (wykład)
+UID:1ad715d8-821a-4417-99da-5168acf4f273@1ad7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20241028T134500Z
+LOCATION:link do zajęć
+DTSTART:20241028T121500Z
+SUMMARY:Metody aktuarialne (wykład)
+UID:bd08a03b-4e50-4e18-8902-96bf95613ef9@bd08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20241007T124500Z
+LOCATION:link do zajęć
+DTSTART:20241007T111500Z
+SUMMARY:Metody aktuarialne (wykład)
+UID:433ba00f-806c-47d2-9a74-830f7db95444@433b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20241021T143000Z
+LOCATION:link do zajęć
+DTSTART:20241021T130000Z
+SUMMARY:Ekonometria w instytucjach finansowych (wykład)
+UID:5107e8a2-304f-4222-b2d6-711398b5f0da@5107.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20241014T143000Z
+LOCATION:link do zajęć
+DTSTART:20241014T130000Z
+SUMMARY:Ekonometria w instytucjach finansowych (wykład)
+UID:a850776b-97ec-43c0-af61-56f4c2caeed2@a850.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20241209T190000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241209T173000Z
+SUMMARY:Ekonometria w instytucjach finansowych (laboratorium)
+UID:61b5791e-866d-40ff-9c86-b0d8bb45841b@61b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20241218T171500Z
+LOCATION:Paw.F 516
+DTSTART:20241218T154500Z
+SUMMARY:Analiza finansowa banków i instytucji ubezpieczeniowych (ćwiczenia)
+UID:01a7c17d-17b8-482b-9b16-bc8d74775d11@01a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Osiewalska
+DTEND:20241129T124500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241129T103000Z
+SUMMARY:Metody aktuarialne (ćwiczenia)
+UID:c26dd360-86a5-4198-8b85-c12dd6a7c32d@c26d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20241118T153000Z
+LOCATION:link do zajęć
+DTSTART:20241118T140000Z
+SUMMARY:Ekonometria w instytucjach finansowych (wykład)
+UID:62b97f99-e7ff-4586-84a0-692324bd3745@62b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Osiewalska
+DTEND:20241206T124500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241206T103000Z
+SUMMARY:Metody aktuarialne (ćwiczenia)
+UID:6aa4b434-400b-4934-82cb-0d084fc8d5cb@6aa4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Osiewalska
+DTEND:20241220T124500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241220T103000Z
+SUMMARY:Metody aktuarialne (ćwiczenia)
+UID:794ee0fb-08b7-4de8-b150-d96c57cbd6ed@794e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241018T114500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241018T093000Z
+SUMMARY:Wizualizacja i raportowanie danych w biznesie (wykład do wyboru)
+UID:ec4d31d9-0f85-4f5d-b821-87f38d7d9ca3@ec4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20241216T181500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241216T173000Z
+SUMMARY:Ekonometria w instytucjach finansowych (laboratorium)
+UID:dd1d597a-874c-4bf7-a5a3-c3544003f1db@dd1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20241021T124500Z
+LOCATION:link do zajęć
+DTSTART:20241021T111500Z
+SUMMARY:Metody aktuarialne (wykład)
+UID:005ca20b-1b4b-494b-b3be-54fc59b55fed@005c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241218T134500Z
+LOCATION:link do zajęć
+DTSTART:20241218T121500Z
+SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (wykład)
+UID:96634297-1406-47d4-a97d-8662113cd5fa@9663.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20241009T161500Z
+LOCATION:Paw.F 516
+DTSTART:20241009T144500Z
+SUMMARY:Analiza finansowa banków i instytucji ubezpieczeniowych (ćwiczenia)
+UID:5278a595-361a-4d9a-aa36-f770552dcaa7@5278.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241211T134500Z
+LOCATION:Paw.G 10
+DTSTART:20241211T121500Z
+SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (ćwiczenia)
+UID:8fb5546a-2d90-473a-a1b3-8985949f3a4c@8fb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Osiewalska
+DTEND:20241025T141500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241025T120000Z
+SUMMARY:Metody aktuarialne (ćwiczenia)
+UID:334225d9-bcdc-4fad-b507-07a02fc459b3@3342.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20250107T083000Z
+LOCATION:link do zajęć
+DTSTART:20250107T070000Z
+SUMMARY:Analiza finansowa banków i instytucji ubezpieczeniowych (wykład)
+UID:fb457fbe-5c06-4290-be11-e3c5be4889b4@fb45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241113T134500Z
+LOCATION:Paw.G 10
+DTSTART:20241113T121500Z
+SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (ćwiczenia)
+UID:0ebae8cb-dfb8-4045-aa92-a396cca6c503@0eba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20241104T190000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241104T173000Z
+SUMMARY:Ekonometria w instytucjach finansowych (laboratorium)
+UID:1a253c2b-45fc-4243-b9db-dfae0d10d6b4@1a25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20241125T153000Z
+LOCATION:link do zajęć
+DTSTART:20241125T140000Z
+SUMMARY:Ekonometria w instytucjach finansowych (wykład)
+UID:dde40b1b-d9d7-4257-b9c4-e781b8c9e046@dde4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20241028T153000Z
+LOCATION:link do zajęć
+DTSTART:20241028T140000Z
+SUMMARY:Ekonometria w instytucjach finansowych (wykład)
+UID:77a80a43-aa7b-4462-8bb0-598de9d95728@77a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20241125T190000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241125T173000Z
+SUMMARY:Ekonometria w instytucjach finansowych (laboratorium)
+UID:c8f7eaf5-e0d9-436f-9e96-741bb91f3d8f@c8f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241011T114500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241011T093000Z
+SUMMARY:Wizualizacja i raportowanie danych w biznesie (wykład do wyboru)
+UID:4171ff4a-b164-4efa-9ba5-0d8c9c7b006d@4171.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
+DTEND:20241029T101500Z
+LOCATION:link do zajęć
+DTSTART:20241029T084500Z
+SUMMARY:Modelowanie makroekonomicznych danych panelowych (wykład do wyboru)
+UID:013d2b33-6eab-46ee-95a9-2f2bf565bc00@013d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
+DTEND:20241015T091500Z
+LOCATION:link do zajęć
+DTSTART:20241015T074500Z
+SUMMARY:Modelowanie makroekonomicznych danych panelowych (wykład do wyboru)
+UID:dbed89b1-b2af-4ad7-b85c-a79500abd53c@dbed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241016T124500Z
+LOCATION:Paw.G 10
+DTSTART:20241016T111500Z
+SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (ćwiczenia)
+UID:edda9b2f-dd36-4ebb-8cb6-fc6f5a0b15a5@edda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20250121T083000Z
+LOCATION:link do zajęć
+DTSTART:20250121T074500Z
+SUMMARY:Analiza finansowa banków i instytucji ubezpieczeniowych (wykład)
+UID:a6689d61-8d90-4a51-84ec-899312fcac7d@a668.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20241104T134500Z
+LOCATION:link do zajęć
+DTSTART:20241104T121500Z
+SUMMARY:Metody aktuarialne (wykład)
+UID:152f29c5-b22e-4aa2-986a-554c60f418fb@152f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20241126T083000Z
+LOCATION:link do zajęć
+DTSTART:20241126T070000Z
+SUMMARY:Analiza finansowa banków i instytucji ubezpieczeniowych (wykład)
+UID:549f57fc-cccd-4416-b26d-5d451ff62c0e@549f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241009T124500Z
+LOCATION:link do zajęć
+DTSTART:20241009T111500Z
+SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (wykład)
+UID:f34ce58f-09ef-4f9a-b6aa-f19de3197424@f34c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Wróblewska
+DTEND:20241126T101500Z
+LOCATION:link do zajęć
+DTSTART:20241126T084500Z
+SUMMARY:Modelowanie makroekonomicznych danych panelowych (wykład do wyboru)
+UID:218a888b-18cb-45f0-b626-d84390c85435@218a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241106T134500Z
+LOCATION:link do zajęć
+DTSTART:20241106T121500Z
+SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (wykład)
+UID:2f277996-4ab5-4904-92cb-f8f574d8dc6b@2f27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20241021T180000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241021T163000Z
+SUMMARY:Ekonometria w instytucjach finansowych (laboratorium)
+UID:d0ca00f6-9944-4ecb-87d5-e8fd44e92824@d0ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Pajor
+DTEND:20241118T190000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241118T173000Z
+SUMMARY:Ekonometria w instytucjach finansowych (laboratorium)
+UID:9449793d-6fee-47b6-90e5-95d6925e4e8b@9449.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Stanisław Wanat
+DTEND:20241118T134500Z
+LOCATION:link do zajęć
+DTSTART:20241118T121500Z
+SUMMARY:Metody aktuarialne (wykład)
+UID:c6fa4366-3b16-4266-819a-2758c4377936@c6fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241120T134500Z
+LOCATION:link do zajęć
+DTSTART:20241120T121500Z
+SUMMARY:Międzynarodowe standardy sprawozdawczości finansowej (wykład)
+UID:3ae787e4-30b1-4e0f-9559-afbee4bfa615@3ae7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Osiewalska
+DTEND:20241122T124500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241122T103000Z
+SUMMARY:Metody aktuarialne (ćwiczenia)
+UID:c8772893-525e-4f70-b0ac-9d8c1c0a60db@c877.org
+END:VEVENT
+END:VCALENDAR

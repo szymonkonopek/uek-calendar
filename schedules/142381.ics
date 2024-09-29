@@ -1,0 +1,420 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20241222T133000Z
+LOCATION:link do zajęć
+DTSTART:20241222T103000Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:c4bb2eea-6fd2-47f2-853b-022d56b0e15b@c4bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Juryk
+DTEND:20241221T114500Z
+LOCATION:Bibl. 441
+DTSTART:20241221T084500Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:7cfbf743-f10b-4399-809e-301c4ea96aa5@7cfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Wojciech Fill
+DTEND:20241019T151500Z
+LOCATION:link do zajęć
+DTSTART:20241019T130000Z
+SUMMARY:Prawo finansowe (wykład)
+UID:1b8ab0b6-7bee-41dd-b693-0c1d2575a69b@1b8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Juryk
+DTEND:20241026T104500Z
+LOCATION:Bibl. 441
+DTSTART:20241026T074500Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:2f7e3bcf-5101-462b-a058-7824812a127a@2f7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20241019T103000Z
+LOCATION:link do zajęć
+DTSTART:20241019T060000Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:87c6b1b8-86f6-48d0-b0d2-fbbf19c66782@87c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241220T170000Z
+LOCATION:link do zajęć
+DTSTART:20241220T144500Z
+SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
+UID:1f8235b1-967d-43fe-9fe5-a83f1dc7868b@1f82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241206T170000Z
+LOCATION:link do zajęć
+DTSTART:20241206T144500Z
+SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
+UID:90a799f4-db7d-4f68-bf26-f74a64c85864@90a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20241221T134500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241221T121500Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (ćwiczenia)
+UID:1fc9c53f-a7f0-432d-9c2a-7ed1bdaab7be@1fc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20241004T161500Z
+LOCATION:link do zajęć
+DTSTART:20241004T153000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład)
+UID:bc7d2f63-6b31-4193-a2c3-24d1376928a0@bc7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20241115T194500Z
+LOCATION:link do zajęć
+DTSTART:20241115T173000Z
+SUMMARY:Prawo pracy (wykład)
+UID:15b137d1-4699-429f-9a44-c3e9f33a401e@15b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20241026T133000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241026T111500Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:3aeb7bd5-0f34-4699-a7d6-1ac73cb57649@3aeb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20241221T161500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241221T140000Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:db450edf-6400-405f-b077-70c6b839d2f2@db45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20250125T170000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20250125T144500Z
+SUMMARY:Prawo pracy (ćwiczenia)
+UID:d0d8ad35-0440-47df-abc1-af83af1eb652@d0d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Wojciech Fill
+DTEND:20241116T170000Z
+LOCATION:Bibl. 440
+DTSTART:20241116T144500Z
+SUMMARY:Prawo finansowe (ćwiczenia)
+UID:ff48de29-7bc5-47af-8fdb-efdd9b856b18@ff48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241124T124500Z
+LOCATION:link do zajęć
+DTSTART:20241124T103000Z
+SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
+UID:3a0c00e5-3415-4ef6-a712-37582cc236df@3a0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20241124T100000Z
+LOCATION:link do zajęć
+DTSTART:20241124T070000Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:02736659-2c53-4350-8bcb-9e4d660d5ef9@0273.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20241208T133000Z
+LOCATION:link do zajęć
+DTSTART:20241208T103000Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:dc50c181-8427-47e5-bbaa-e886c1133712@dc50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20241027T100000Z
+LOCATION:link do zajęć
+DTSTART:20241027T070000Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:5b967af6-4ab1-46de-a53d-5f81070ee350@5b96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20241222T101500Z
+LOCATION:link do zajęć
+DTSTART:20241222T084500Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład)
+UID:bf140ec1-62b3-43d8-ae76-e0eccfba31b8@bf14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20250112T100000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20250112T074500Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (ćwiczenia)
+UID:1c6908b3-eace-4ecc-9a26-acbc823682a8@1c69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20241117T113000Z
+LOCATION:link do zajęć
+DTSTART:20241117T074500Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład)
+UID:207b04dd-ff48-45bf-ba8c-e8701cc33822@207b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241020T090000Z
+LOCATION:link do zajęć
+DTSTART:20241020T064500Z
+SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
+UID:c7bfff64-e15e-4a40-9285-de630c213d21@c7bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Juryk
+DTEND:20241116T114500Z
+LOCATION:Bibl. 441
+DTSTART:20241116T084500Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:641ec290-1b56-4a60-88d8-bdbb9829fd8f@641e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20241122T194500Z
+LOCATION:link do zajęć
+DTSTART:20241122T173000Z
+SUMMARY:Prawo pracy (wykład)
+UID:90fbac00-1853-4671-a55e-aeb59447d207@90fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Wojciech Fill
+DTEND:20241005T081500Z
+LOCATION:link do zajęć
+DTSTART:20241005T060000Z
+SUMMARY:Prawo finansowe (wykład)
+UID:292f1ee6-da24-4b2f-8837-5445a287fbc6@292f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20250125T143000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20250125T121500Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:cb958470-f9bf-4d9e-9404-84dbd6a81c48@cb95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Wojciech Fill
+DTEND:20241006T141500Z
+LOCATION:link do zajęć
+DTSTART:20241006T120000Z
+SUMMARY:Prawo finansowe (wykład)
+UID:0bb31155-b006-492b-954b-554f4af77137@0bb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20250118T130000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20250118T121500Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (ćwiczenia)
+UID:ef60e9e0-d157-406b-b620-76678636fcdc@ef60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20241005T104500Z
+LOCATION:link do zajęć
+DTSTART:20241005T083000Z
+SUMMARY:Prawo pracy (wykład)
+UID:eb7ddf20-5fea-4d57-bb6d-279286d5b490@eb7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Juryk
+DTEND:20250118T114500Z
+LOCATION:Bibl. 441
+DTSTART:20250118T084500Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:43f4d085-717f-4a80-b0ed-aadcec0b7189@43f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20241116T143000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241116T121500Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:0d4535cf-5858-4f95-9972-355ce659c5c2@0d45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20250119T100000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20250119T074500Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:5cc40b41-b55d-4198-a10d-65a3d97a6c8f@5cc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20241207T143000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241207T130000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (ćwiczenia)
+UID:7ab42c82-6585-42b7-ad7a-04e538a18e74@7ab4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20250118T151500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20250118T130000Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:69d93de5-9e9e-47fc-aeab-fa38f4047940@69d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20241027T133000Z
+LOCATION:link do zajęć
+DTSTART:20241027T111500Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład)
+UID:b7bc9820-08b4-4c8e-8c71-58eaa55a150d@b7bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20241123T083000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241123T074500Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (ćwiczenia)
+UID:0ac078ed-8665-405c-9745-0e362568d598@0ac0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20241208T101500Z
+LOCATION:link do zajęć
+DTSTART:20241208T084500Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład)
+UID:4783c678-41e0-4952-b162-207084e6acc2@4783.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Juryk
+DTEND:20241207T114500Z
+LOCATION:Bibl. 441
+DTSTART:20241207T084500Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:63c3784b-33b7-4932-9b2e-33aa59fcac21@63c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241006T114500Z
+LOCATION:link do zajęć
+DTSTART:20241006T093000Z
+SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
+UID:59fe4814-54bb-4fd9-a81f-2fce27ea0a6f@59fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Wojciech Fill
+DTEND:20241123T143000Z
+LOCATION:Bibl. 440
+DTSTART:20241123T121500Z
+SUMMARY:Prawo finansowe (ćwiczenia)
+UID:67d7dc6f-be08-4b38-a384-b5abea352b07@67d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20241207T170000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241207T144500Z
+SUMMARY:Prawo pracy (ćwiczenia)
+UID:0fd4e776-f668-469c-a26d-b0a99a7cb35c@0fd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20241208T161500Z
+LOCATION:link do zajęć
+DTSTART:20241208T140000Z
+SUMMARY:Prawo pracy (wykład)
+UID:b45f3b65-efe9-48be-915c-81f1565e2033@b45f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Juryk
+DTEND:20250125T114500Z
+LOCATION:Bibl. 441
+DTSTART:20250125T093000Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:c7662039-5e6b-4701-adbd-c1a1f6fd1853@c766.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Juryk
+DTEND:20241123T114500Z
+LOCATION:Bibl. 441
+DTSTART:20241123T084500Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:4f421f88-49c2-469f-9e19-88c7aecb77b1@4f42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20241117T164500Z
+LOCATION:link do zajęć
+DTSTART:20241117T130000Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:1e26c0f9-38c5-4468-baf9-ee9439e21fb9@1e26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20241122T170000Z
+LOCATION:link do zajęć
+DTSTART:20241122T144500Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład)
+UID:7fb7c2f8-162b-42d9-b8ff-69b1779286be@7fb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20250119T124500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20250119T103000Z
+SUMMARY:Prawo pracy (ćwiczenia)
+UID:ba6eac84-8f6c-41a2-87fc-1bc7777aa27a@ba6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241115T170000Z
+LOCATION:link do zajęć
+DTSTART:20241115T144500Z
+SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
+UID:89349d99-2fa0-4e21-bf7f-66e99c9f4429@8934.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20241025T160000Z
+LOCATION:link do zajęć
+DTSTART:20241025T134500Z
+SUMMARY:Prawo pracy (wykład)
+UID:185f8602-3cf8-4873-afaf-55744276392c@185f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Wojciech Fill
+DTEND:20241026T160000Z
+LOCATION:Bibl. 440
+DTSTART:20241026T134500Z
+SUMMARY:Prawo finansowe (ćwiczenia)
+UID:1dd427b2-8bb0-4770-a8a8-dbd7f017bf9e@1dd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20241006T091500Z
+LOCATION:link do zajęć
+DTSTART:20241006T074500Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład)
+UID:e329b293-3fae-4b8d-a1b5-02e834955cb4@e329.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20241222T161500Z
+LOCATION:link do zajęć
+DTSTART:20241222T140000Z
+SUMMARY:Prawo pracy (wykład)
+UID:5c3aa8aa-c46e-42a1-88fd-8c1de63bc3b2@5c3a.org
+END:VEVENT
+END:VCALENDAR

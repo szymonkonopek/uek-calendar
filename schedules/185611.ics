@@ -1,0 +1,1450 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Pacut
+DTEND:20241205T134500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241205T121500Z
+SUMMARY:Organizacje pozarządowe (konwersatorium)
+UID:6bfe332a-d685-4593-a840-36e8c431138a@6bfe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Małgorzata Miernikowska
+DTEND:20241115T114500Z
+LOCATION:Paw.G  7
+DTSTART:20241115T093000Z
+SUMMARY:Komunikacja wewnętrzna (konwersatorium do wyboru)
+UID:f4c26350-658a-4ba2-91a2-c7cd3b0ed080@f4c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20250109T153000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20250109T140000Z
+SUMMARY:Metodologia badań społecznych (ćwiczenia)
+UID:177eb66b-310f-430b-8044-0c40b9afd6d6@177e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20241015T143000Z
+LOCATION:Paw.F 106
+DTSTART:20241015T130000Z
+SUMMARY:Rachunkowość budżetowa (wykład do wyboru)
+UID:b851a831-e8f8-40e2-9195-a61d6358875f@b851.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20241120T120000Z
+LOCATION:Paw.F 106
+DTSTART:20241120T103000Z
+SUMMARY:Rachunkowość budżetowa (ćwiczenia do wyboru)
+UID:0b146526-2678-4898-996e-c93d767425d9@0b14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Zawicki
+DTEND:20241029T120000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241029T103000Z
+SUMMARY:Analiza polityk publicznych (wykład)
+UID:5ad613ac-4c24-4507-b181-1fc82a9be432@5ad6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20241210T153000Z
+LOCATION:Paw.F 106
+DTSTART:20241210T140000Z
+SUMMARY:Rachunkowość budżetowa (wykład do wyboru)
+UID:1858efe5-89f2-47f3-af1e-eb9ded3e6b5f@1858.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Frączek
+DTEND:20241022T091500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241022T074500Z
+SUMMARY:Polityka społeczna (wykład)
+UID:1362cd9c-ffd2-4b36-8891-a2f7539bd266@1362.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241205T153000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241205T140000Z
+SUMMARY:Metody analiz społeczno-gospodarczych (ćwiczenia)
+UID:7bcc9201-b07f-49ff-9b58-a742760f7e57@7bcc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartłomiej Biga
+DTEND:20241113T134500Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241113T121500Z
+SUMMARY:Ochrona własności intelektualnej (konwersatorium)
+UID:240b3a1e-1c63-4bce-8473-f0969c0897cf@240b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241212T153000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241212T140000Z
+SUMMARY:Metodologia badań społecznych (ćwiczenia)
+UID:b6c9d99e-455e-44c0-ae98-b30975cb016b@b6c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Pacut
+DTEND:20241031T134500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241031T121500Z
+SUMMARY:Organizacje pozarządowe (konwersatorium)
+UID:bbd1fb73-e081-4654-8aca-c7e092621ed6@bbd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Możdżeń
+DTEND:20241219T120000Z
+LOCATION:Paw.F CJ 312
+DTSTART:20241219T103000Z
+SUMMARY:Polityka gospodarcza (ćwiczenia)
+UID:67b2b5f4-ae72-4ff6-a1c6-6587a02ec308@67b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Zawicki
+DTEND:20241015T110000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241015T093000Z
+SUMMARY:Analiza polityk publicznych (wykład)
+UID:1a6505c4-e0ae-44f1-97c0-baed6c334ff2@1a65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Alicja Szczygieł
+DTEND:20241011T081500Z
+LOCATION:Paw.G  7
+DTSTART:20241011T060000Z
+SUMMARY:Komunikacja wewnętrzna (konwersatorium do wyboru)
+UID:08265da8-2f80-4733-b7c9-2dd437cc1869@0826.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Maj-Serwatka
+DTEND:20241107T101500Z
+LOCATION:Paw.F 416
+DTSTART:20241107T084500Z
+SUMMARY:Metody i narzędzia zarządzania finansami publicznymi (ćwiczenia do wyboru)
+UID:97d4b018-cf71-4c8f-b95a-9a8d2ccd7892@97d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Zawicki
+DTEND:20241126T120000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241126T103000Z
+SUMMARY:Analiza polityk publicznych (wykład)
+UID:94af9ea9-4325-4e6e-86d2-8605eaf41f7b@94af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241024T143000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241024T130000Z
+SUMMARY:Metody analiz społeczno-gospodarczych (ćwiczenia)
+UID:1b79bf5d-5f04-4a03-a28b-9339dfd44d6d@1b79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Frączek
+DTEND:20241008T073000Z
+LOCATION:Bibl. 443
+DTSTART:20241008T060000Z
+SUMMARY:Polityka społeczna (ćwiczenia)
+UID:bbe699e9-ca7b-47de-85ff-911b7822e19c@bbe6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20250122T153000Z
+LOCATION:Paw.F CJ 012
+DTSTART:20250122T144500Z
+SUMMARY:Rachunkowość budżetowa (ćwiczenia do wyboru)
+UID:4ae03491-0b0f-4ed9-becf-a4774b853d9b@4ae0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Frączek
+DTEND:20241008T091500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241008T074500Z
+SUMMARY:Polityka społeczna (wykład)
+UID:5778db34-d268-4576-a7df-0486322f6f94@5778.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Głowacki
+DTEND:20241029T083000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241029T070000Z
+SUMMARY:Analiza polityk publicznych (ćwiczenia)
+UID:cdfef519-2f2e-4d72-ae18-7e9c6dbabea9@cdfe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20241218T120000Z
+LOCATION:Paw.F 106
+DTSTART:20241218T103000Z
+SUMMARY:Rachunkowość budżetowa (ćwiczenia do wyboru)
+UID:2ace603b-9bf8-407e-ace8-e9ef8d158cd0@2ace.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20241029T153000Z
+LOCATION:Paw.F 106
+DTSTART:20241029T140000Z
+SUMMARY:Rachunkowość budżetowa (wykład do wyboru)
+UID:ccc47d10-08a7-4cc4-8b52-bb8506b25776@ccc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20241009T110000Z
+LOCATION:Paw.F 106
+DTSTART:20241009T093000Z
+SUMMARY:Rachunkowość budżetowa (ćwiczenia do wyboru)
+UID:ea060220-7843-4eb6-a61b-4dc1b0ae1e51@ea06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Łukasz Mamica
+DTEND:20241112T134500Z
+LOCATION:Paw.G 11
+DTSTART:20241112T121500Z
+SUMMARY:Polityka gospodarcza (wykład)
+UID:02ac04ec-5825-4204-8fec-8d7a3bad95c5@02ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Zawicki
+DTEND:20250107T120000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20250107T103000Z
+SUMMARY:Analiza polityk publicznych (wykład)
+UID:5c66cb7a-bb0c-4aff-8278-5f57d6f03d42@5c66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20250120T153000Z
+LOCATION:Paw.C sala D
+DTSTART:20250120T144500Z
+SUMMARY:Metody analiz społeczno-gospodarczych (wykład)
+UID:6725fac0-ea30-4dbd-bf82-87b06f7025be@6725.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Frączek
+DTEND:20241203T111500Z
+LOCATION:Paw.F 515
+DTSTART:20241203T103000Z
+SUMMARY:Polityka społeczna (wykład)
+UID:2b5081da-2438-4135-9227-be908ee8c1b0@2b50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Łukasz Mamica
+DTEND:20250121T130000Z
+LOCATION:Paw.G 11
+DTSTART:20250121T121500Z
+SUMMARY:Polityka gospodarcza (wykład)
+UID:85b87367-7884-4779-a8cc-e23ab026e045@85b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Oramus
+DTEND:20250122T101500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20250122T084500Z
+SUMMARY:Innowacje w gospodarce publicznej (ćwiczenia do wyboru)
+UID:d177cac2-1948-408f-b0a4-e7b42da62cb7@d177.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Frączek
+DTEND:20250124T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20250124T111500Z
+SUMMARY:Polityka społeczna (ćwiczenia)
+UID:bd461665-1bcd-4828-b81c-3906527176a9@bd46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241219T153000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241219T140000Z
+SUMMARY:Metody analiz społeczno-gospodarczych (ćwiczenia)
+UID:ef2db5d5-6b68-4ed1-ae60-217431b3350b@ef2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Oramus
+DTEND:20241127T101500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241127T084500Z
+SUMMARY:Innowacje w gospodarce publicznej (ćwiczenia do wyboru)
+UID:2af89ab2-592e-4440-94dd-909ff1635a2f@2af8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartłomiej Biga
+DTEND:20250120T163000Z
+LOCATION:Paw.C sala B
+DTSTART:20250120T154500Z
+SUMMARY:Ochrona własności intelektualnej (konwersatorium)
+UID:b6458998-4485-4de5-aaea-b9ff44aa916c@b645.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Pacut
+DTEND:20250116T134500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20250116T121500Z
+SUMMARY:Organizacje pozarządowe (konwersatorium)
+UID:9de92025-5b24-46b9-a67f-1d97d0dd0c7f@9de9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241010T143000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241010T130000Z
+SUMMARY:Metody analiz społeczno-gospodarczych (ćwiczenia)
+UID:c174bcba-f280-480f-9cff-cd72b9e2a2d1@c174.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Maj-Serwatka
+DTEND:20241017T091500Z
+LOCATION:Paw.F 416
+DTSTART:20241017T074500Z
+SUMMARY:Metody i narzędzia zarządzania finansami publicznymi (wykład do wyboru)
+UID:f68c9dd7-72d0-47ed-8722-2bdf4f99e660@f68c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20241218T101500Z
+LOCATION:Paw.F 106
+DTSTART:20241218T084500Z
+SUMMARY:Rachunkowość budżetowa (ćwiczenia do wyboru)
+UID:ccea5043-4887-47cd-b8ff-3ad78ecf9b82@ccea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241122T134500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241122T121500Z
+SUMMARY:Metody analiz społeczno-gospodarczych (wykład)
+UID:6abf079d-5ad3-4f6f-9c19-b53a40333a21@6abf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Małgorzata Miernikowska
+DTEND:20241213T114500Z
+LOCATION:Paw.G  7
+DTSTART:20241213T093000Z
+SUMMARY:Komunikacja wewnętrzna (konwersatorium do wyboru)
+UID:dc8938cc-e42c-4d99-9aad-bd3abd1d5978@dc89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Maj-Serwatka
+DTEND:20241121T101500Z
+LOCATION:Paw.F 416
+DTSTART:20241121T084500Z
+SUMMARY:Metody i narzędzia zarządzania finansami publicznymi (ćwiczenia do wyboru)
+UID:6bf3aac8-9dc1-478d-a575-a5374e20d1c3@6bf3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Maj-Serwatka
+DTEND:20241003T091500Z
+LOCATION:Paw.F 416
+DTSTART:20241003T074500Z
+SUMMARY:Metody i narzędzia zarządzania finansami publicznymi (wykład do wyboru)
+UID:45ecfe96-33ee-4880-bb52-7d0715d911dc@45ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Maj-Serwatka
+DTEND:20241031T101500Z
+LOCATION:Paw.F 416
+DTSTART:20241031T084500Z
+SUMMARY:Metody i narzędzia zarządzania finansami publicznymi (wykład do wyboru)
+UID:cdb9869f-fbc3-4cb7-8756-06025a78616a@cdb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Alicja Szczygieł
+DTEND:20241004T081500Z
+LOCATION:Paw.G  7
+DTSTART:20241004T060000Z
+SUMMARY:Komunikacja wewnętrzna (konwersatorium do wyboru)
+UID:c17867dc-a74d-4c69-a6a3-60f5138dd62b@c178.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Frączek
+DTEND:20241105T083000Z
+LOCATION:Bibl. 443
+DTSTART:20241105T070000Z
+SUMMARY:Polityka społeczna (ćwiczenia)
+UID:3c60a521-141a-458d-9fbc-c6bb061651ff@3c60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Pacut
+DTEND:20250123T134500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20250123T121500Z
+SUMMARY:Organizacje pozarządowe (konwersatorium)
+UID:e93e8062-836e-49b6-8da0-8acdb0fdf256@e93e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Oramus
+DTEND:20241113T101500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241113T084500Z
+SUMMARY:Innowacje w gospodarce publicznej (ćwiczenia do wyboru)
+UID:440f6eb8-66fd-4576-b1e9-2cc1cb3d6c07@440f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Pacut
+DTEND:20241114T134500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241114T121500Z
+SUMMARY:Organizacje pozarządowe (konwersatorium)
+UID:832cdd8b-96ea-4d81-8e29-f4fbed806936@832c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Frączek
+DTEND:20241105T101500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241105T084500Z
+SUMMARY:Polityka społeczna (wykład)
+UID:b435c55c-02ed-4045-a91b-1dccd235870d@b435.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Zawicki
+DTEND:20241001T110000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241001T093000Z
+SUMMARY:Analiza polityk publicznych (wykład)
+UID:a7a5d02c-8080-449c-af4a-652b505a267e@a7a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20250116T153000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20250116T140000Z
+SUMMARY:Metody analiz społeczno-gospodarczych (ćwiczenia)
+UID:368ab77a-c27a-48d5-a7bc-9676c650fa97@368a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241206T134500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241206T121500Z
+SUMMARY:Metody analiz społeczno-gospodarczych (wykład)
+UID:7faa84b5-17d6-478e-aebc-dbb2008dd99c@7faa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Frączek
+DTEND:20250114T101500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20250114T084500Z
+SUMMARY:Polityka społeczna (wykład)
+UID:95e6ab0c-5656-4315-b047-6d748339fbb9@95e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20241204T120000Z
+LOCATION:Paw.F 106
+DTSTART:20241204T103000Z
+SUMMARY:Rachunkowość budżetowa (ćwiczenia do wyboru)
+UID:2554f7c7-317f-46bd-96b7-e4d36bfec5db@2554.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Frączek
+DTEND:20241203T083000Z
+LOCATION:Bibl. 443
+DTSTART:20241203T070000Z
+SUMMARY:Polityka społeczna (ćwiczenia)
+UID:627bf95b-e3b5-461e-9418-5ce41a6a679a@627b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Oramus
+DTEND:20250124T134500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20250124T130000Z
+SUMMARY:Innowacje w gospodarce publicznej (wykład do wyboru)
+UID:3122bf24-4450-4048-b572-bb1ac795bae8@3122.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Małgorzata Miernikowska
+DTEND:20241018T104500Z
+LOCATION:Paw.G  7
+DTSTART:20241018T083000Z
+SUMMARY:Komunikacja wewnętrzna (konwersatorium do wyboru)
+UID:f0d4192a-6751-4c5b-9470-42dd2adfe0c1@f0d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Pacut
+DTEND:20250109T134500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20250109T121500Z
+SUMMARY:Organizacje pozarządowe (konwersatorium)
+UID:e208240e-64e5-4594-9643-4d5cc3c4d4fa@e208.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:ef0cd86c-6698-4502-8e5f-0cdef404d3c2@ef0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Łukasz Mamica
+DTEND:20241007T124500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241007T111500Z
+SUMMARY:Polityka gospodarcza (wykład)
+UID:86cb1966-5b84-4d15-8bdf-64f1573109d4@86cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241011T124500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241011T111500Z
+SUMMARY:Metody analiz społeczno-gospodarczych (wykład)
+UID:77ae4fe8-1e3b-46e4-8f50-54fb50912511@77ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Oramus
+DTEND:20241030T083000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241030T070000Z
+SUMMARY:Innowacje w gospodarce publicznej (wykład do wyboru)
+UID:c4048dcb-a0ca-44a4-8e4b-dded57f10bca@c404.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Małgorzata Miernikowska
+DTEND:20241011T104500Z
+LOCATION:Paw.G  7
+DTSTART:20241011T083000Z
+SUMMARY:Komunikacja wewnętrzna (konwersatorium do wyboru)
+UID:2336169b-5af4-4ae4-a376-7890171bd350@2336.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241017T143000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241017T130000Z
+SUMMARY:Metodologia badań społecznych (ćwiczenia)
+UID:fc5c60bf-cbbe-41dd-ad49-a425193b2e4c@fc5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Głowacki
+DTEND:20250107T083000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250107T070000Z
+SUMMARY:Analiza polityk publicznych (ćwiczenia)
+UID:7a77de59-f498-4497-bf7f-3c0c14d55e77@7a77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Oramus
+DTEND:20241113T083000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241113T070000Z
+SUMMARY:Innowacje w gospodarce publicznej (wykład do wyboru)
+UID:fa6b7c78-db7f-4dc0-a244-7d1e9afbdbb9@fa6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Małgorzata Miernikowska
+DTEND:20241004T104500Z
+LOCATION:Paw.G  7
+DTSTART:20241004T083000Z
+SUMMARY:Komunikacja wewnętrzna (konwersatorium do wyboru)
+UID:04400348-cf32-4245-8145-070c91676636@0440.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Pacut
+DTEND:20241010T180000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241010T163000Z
+SUMMARY:Organizacje pozarządowe (konwersatorium)
+UID:f2dc044f-f781-4ea5-93f6-7d1b601fcf6a@f2dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241107T153000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241107T140000Z
+SUMMARY:Metody analiz społeczno-gospodarczych (ćwiczenia)
+UID:89eb929f-5ec8-42c9-b8a7-a6c44e099cbc@89eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20241009T091500Z
+LOCATION:Paw.F 106
+DTSTART:20241009T074500Z
+SUMMARY:Rachunkowość budżetowa (ćwiczenia do wyboru)
+UID:e51a2d9d-0e4e-420d-b423-fe1bf0d0085c@e51a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Łukasz Mamica
+DTEND:20241126T134500Z
+LOCATION:Paw.G 11
+DTSTART:20241126T121500Z
+SUMMARY:Polityka gospodarcza (wykład)
+UID:86612790-63ab-46bc-8e06-1acdc03d068c@8661.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Alicja Szczygieł
+DTEND:20241129T091500Z
+LOCATION:Paw.G  7
+DTSTART:20241129T070000Z
+SUMMARY:Komunikacja wewnętrzna (konwersatorium do wyboru)
+UID:4c03deae-9d1a-492f-ba01-04c3bc0c4e23@4c03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20250121T093000Z
+LOCATION:Paw.U sala O
+DTSTART:20250121T084500Z
+SUMMARY:Metodologia badań społecznych (wykład)
+UID:e3584d0e-b771-4caf-b1b1-4186b31217d3@e358.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Frączek
+DTEND:20241119T083000Z
+LOCATION:Bibl. 443
+DTSTART:20241119T070000Z
+SUMMARY:Polityka społeczna (ćwiczenia)
+UID:43860f77-0b6f-4e02-a0cf-d47951034ad3@4386.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Łukasz Mamica
+DTEND:20241029T134500Z
+LOCATION:Paw.G 11
+DTSTART:20241029T121500Z
+SUMMARY:Polityka gospodarcza (wykład)
+UID:fad51237-eda1-42ab-9fa0-8e6133b767c5@fad5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Zawicki
+DTEND:20241210T120000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241210T103000Z
+SUMMARY:Analiza polityk publicznych (wykład)
+UID:598358e9-f315-4eab-82c0-5a99192fefd8@5983.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Oramus
+DTEND:20250122T083000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20250122T070000Z
+SUMMARY:Innowacje w gospodarce publicznej (wykład do wyboru)
+UID:04d22cf1-b060-4531-bd29-a4c3acaf4db9@04d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Maj-Serwatka
+DTEND:20241219T101500Z
+LOCATION:Paw.F 416
+DTSTART:20241219T084500Z
+SUMMARY:Metody i narzędzia zarządzania finansami publicznymi (ćwiczenia do wyboru)
+UID:99d7bcd0-728d-45dc-a6f9-662eea8dcd5c@99d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20241126T153000Z
+LOCATION:Paw.F 106
+DTSTART:20241126T140000Z
+SUMMARY:Rachunkowość budżetowa (wykład do wyboru)
+UID:661758d5-dd05-400c-868c-25c7ba490a0e@6617.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Możdżeń
+DTEND:20241205T120000Z
+LOCATION:Paw.F CJ 312
+DTSTART:20241205T103000Z
+SUMMARY:Polityka gospodarcza (ćwiczenia)
+UID:21d0b85f-0dc8-43ad-ba37-360b78213d99@21d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Pacut
+DTEND:20241212T134500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241212T121500Z
+SUMMARY:Organizacje pozarządowe (konwersatorium)
+UID:24004816-a156-40bc-aa93-965d98b50ea5@2400.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartłomiej Biga
+DTEND:20241127T134500Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241127T121500Z
+SUMMARY:Ochrona własności intelektualnej (konwersatorium)
+UID:078483b4-48ca-489b-854a-212daa58654d@0784.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241114T153000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241114T140000Z
+SUMMARY:Metodologia badań społecznych (ćwiczenia)
+UID:447a3031-f632-45d8-9348-eb70557bdbd5@447a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartłomiej Biga
+DTEND:20250108T134500Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20250108T121500Z
+SUMMARY:Ochrona własności intelektualnej (konwersatorium)
+UID:17045953-89d4-4a2a-b7b6-8dc20f68e9ea@1704.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Maj-Serwatka
+DTEND:20241010T091500Z
+LOCATION:Paw.F 416
+DTSTART:20241010T074500Z
+SUMMARY:Metody i narzędzia zarządzania finansami publicznymi (ćwiczenia do wyboru)
+UID:856cdf3a-ef60-4003-b583-11dd138a8066@856c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241108T134500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241108T121500Z
+SUMMARY:Metody analiz społeczno-gospodarczych (wykład)
+UID:b16ad1f5-b733-49cf-af96-f604c0af7e34@b16a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartłomiej Biga
+DTEND:20250122T134500Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20250122T121500Z
+SUMMARY:Ochrona własności intelektualnej (konwersatorium)
+UID:2d518cb3-6eec-4c12-9bd3-8b70191f1263@2d51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Maj-Serwatka
+DTEND:20241128T101500Z
+LOCATION:Paw.F 416
+DTSTART:20241128T084500Z
+SUMMARY:Metody i narzędzia zarządzania finansami publicznymi (wykład do wyboru)
+UID:94d991ce-904d-4ebc-9df3-794fba930ade@94d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Alicja Szczygieł
+DTEND:20241122T091500Z
+LOCATION:Paw.G  7
+DTSTART:20241122T070000Z
+SUMMARY:Komunikacja wewnętrzna (konwersatorium do wyboru)
+UID:32410c4a-cf96-4302-87b4-7bcf29eebec6@3241.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Zawicki
+DTEND:20250121T111500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20250121T103000Z
+SUMMARY:Analiza polityk publicznych (wykład)
+UID:65e1f7c8-d25c-4c52-a9c9-8b217f7df247@65e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20250115T120000Z
+LOCATION:Paw.F 106
+DTSTART:20250115T103000Z
+SUMMARY:Rachunkowość budżetowa (ćwiczenia do wyboru)
+UID:b035a03b-7f90-4298-8813-33ed1d8138f6@b035.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Pacut
+DTEND:20241003T124500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241003T111500Z
+SUMMARY:Organizacje pozarządowe (konwersatorium)
+UID:76ac1247-f59e-4eb5-817e-8b82f9952bd4@76ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Alicja Szczygieł
+DTEND:20241108T091500Z
+LOCATION:Paw.G  7
+DTSTART:20241108T070000Z
+SUMMARY:Komunikacja wewnętrzna (konwersatorium do wyboru)
+UID:2d42c340-07c8-41f1-92c4-bef6fc792596@2d42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Frączek
+DTEND:20241119T101500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241119T084500Z
+SUMMARY:Polityka społeczna (wykład)
+UID:4bb528b0-2892-46c7-bc5e-c7ecdeebbac1@4bb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241031T153000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241031T140000Z
+SUMMARY:Metodologia badań społecznych (ćwiczenia)
+UID:d2c52940-6b01-4ca6-bbe6-2ea53f21368d@d2c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Możdżeń
+DTEND:20241024T110000Z
+LOCATION:Paw.F CJ 312
+DTSTART:20241024T093000Z
+SUMMARY:Polityka gospodarcza (ćwiczenia)
+UID:745c2560-fe4e-47a0-ad6f-7a4a228981e0@745c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Możdżeń
+DTEND:20241010T161500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241010T144500Z
+SUMMARY:Polityka gospodarcza (ćwiczenia)
+UID:b73595c9-4cb5-4372-b2fa-9e012f025895@b735.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20250121T153000Z
+LOCATION:Paw.F 106
+DTSTART:20250121T140000Z
+SUMMARY:Rachunkowość budżetowa (wykład do wyboru)
+UID:80a124a9-6fe1-4eb5-948f-532c4792eaa6@80a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Alicja Szczygieł
+DTEND:20241206T091500Z
+LOCATION:Paw.G  7
+DTSTART:20241206T070000Z
+SUMMARY:Komunikacja wewnętrzna (konwersatorium do wyboru)
+UID:ca97fd5d-1f7f-451f-83f6-e229f46d661b@ca97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Głowacki
+DTEND:20250121T083000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250121T074500Z
+SUMMARY:Analiza polityk publicznych (ćwiczenia)
+UID:63aed7bf-0890-480a-a01a-c1836ca410bd@63ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20250122T163000Z
+LOCATION:Paw.F 111
+DTSTART:20250122T154500Z
+SUMMARY:Rachunkowość budżetowa (wykład do wyboru)
+UID:204de3dc-4d39-45df-88a2-8ee61c7c45f4@204d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20241112T153000Z
+LOCATION:Paw.F 106
+DTSTART:20241112T140000Z
+SUMMARY:Rachunkowość budżetowa (wykład do wyboru)
+UID:488a33ad-838f-4f2c-9c6d-1f865e784497@488a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Możdżeń
+DTEND:20250116T120000Z
+LOCATION:Paw.F CJ 312
+DTSTART:20250116T103000Z
+SUMMARY:Polityka gospodarcza (ćwiczenia)
+UID:ba17a11b-5873-4e16-a38b-d8447dd0e126@ba17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241121T153000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241121T140000Z
+SUMMARY:Metody analiz społeczno-gospodarczych (ćwiczenia)
+UID:15bfaab3-2f54-4cd4-a5e8-62db0185bb1e@15bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Pacut
+DTEND:20241017T124500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241017T111500Z
+SUMMARY:Organizacje pozarządowe (konwersatorium)
+UID:e0df61a8-a97c-4897-8b98-997cd545a978@e0df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241128T153000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241128T140000Z
+SUMMARY:Metodologia badań społecznych (ćwiczenia)
+UID:e60705fc-388e-4ae7-a127-d565e8ef3ff7@e607.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20241106T120000Z
+LOCATION:Paw.F 106
+DTSTART:20241106T103000Z
+SUMMARY:Rachunkowość budżetowa (ćwiczenia do wyboru)
+UID:a691a2e6-f4f8-436a-9b43-2bd025e026fe@a691.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Małgorzata Miernikowska
+DTEND:20241206T114500Z
+LOCATION:Paw.G  7
+DTSTART:20241206T093000Z
+SUMMARY:Komunikacja wewnętrzna (konwersatorium do wyboru)
+UID:6576ac6a-ef88-4282-95bd-d126306dae7e@6576.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Oramus
+DTEND:20241030T101500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241030T084500Z
+SUMMARY:Innowacje w gospodarce publicznej (ćwiczenia do wyboru)
+UID:a516e8c0-1e2a-4346-af46-87eda92aceff@a516.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Głowacki
+DTEND:20241210T083000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241210T070000Z
+SUMMARY:Analiza polityk publicznych (ćwiczenia)
+UID:6a895f64-38e4-4efa-acba-3ca4e82c5fe4@6a89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20250107T101500Z
+LOCATION:Paw.U sala O
+DTSTART:20250107T084500Z
+SUMMARY:Metodologia badań społecznych (wykład)
+UID:901ea0a6-ab28-49e5-9c21-acf8b4544bd3@901e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241015T091500Z
+LOCATION:Paw.U sala O
+DTSTART:20241015T074500Z
+SUMMARY:Metodologia badań społecznych (wykład)
+UID:be1ad497-c25a-4c91-bbfd-67142908f740@be1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Oramus
+DTEND:20250108T083000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20250108T070000Z
+SUMMARY:Innowacje w gospodarce publicznej (wykład do wyboru)
+UID:268354a5-0d6e-4a6e-b007-f79ba20da59d@2683.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Maj-Serwatka
+DTEND:20250123T101500Z
+LOCATION:Paw.F 416
+DTSTART:20250123T093000Z
+SUMMARY:Metody i narzędzia zarządzania finansami publicznymi (ćwiczenia do wyboru)
+UID:e0cc5119-3813-48cf-810c-30ef712b7930@e0cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Głowacki
+DTEND:20241015T073000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241015T060000Z
+SUMMARY:Analiza polityk publicznych (ćwiczenia)
+UID:3b059526-bd5c-4bb8-8a28-0f84b7e7b903@3b05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241112T101500Z
+LOCATION:Paw.U sala O
+DTSTART:20241112T084500Z
+SUMMARY:Metodologia badań społecznych (wykład)
+UID:76b77a94-73b9-401b-9eb7-0332192b0ce3@76b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Głowacki
+DTEND:20241126T083000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241126T070000Z
+SUMMARY:Analiza polityk publicznych (ćwiczenia)
+UID:7f549c28-e3f6-4059-968f-1c08698fcbac@7f54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Oramus
+DTEND:20250108T101500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20250108T084500Z
+SUMMARY:Innowacje w gospodarce publicznej (ćwiczenia do wyboru)
+UID:64883961-ab94-46a8-975c-a2c354044cb2@6488.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Maj-Serwatka
+DTEND:20250123T093000Z
+LOCATION:Paw.F 416
+DTSTART:20250123T084500Z
+SUMMARY:Metody i narzędzia zarządzania finansami publicznymi (wykład do wyboru)
+UID:07dc541e-d73b-419f-8af8-84d86b5718c2@07dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Frączek
+DTEND:20241217T101500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241217T084500Z
+SUMMARY:Polityka społeczna (wykład)
+UID:f0374bfa-e971-421c-8e3d-282d6bbea708@f037.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Pacut
+DTEND:20241121T134500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241121T121500Z
+SUMMARY:Organizacje pozarządowe (konwersatorium)
+UID:e2e8453b-6d8f-4bee-8c45-cf87f910e8cf@e2e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Możdżeń
+DTEND:20241107T120000Z
+LOCATION:Paw.F CJ 312
+DTSTART:20241107T103000Z
+SUMMARY:Polityka gospodarcza (ćwiczenia)
+UID:44ae7996-d92f-43e7-953c-fb1ca6defe87@44ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Alicja Szczygieł
+DTEND:20241213T091500Z
+LOCATION:Paw.G  7
+DTSTART:20241213T070000Z
+SUMMARY:Komunikacja wewnętrzna (konwersatorium do wyboru)
+UID:77ae6d5e-a774-4bae-8ba5-1388b9357754@77ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Oramus
+DTEND:20241211T101500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241211T084500Z
+SUMMARY:Innowacje w gospodarce publicznej (ćwiczenia do wyboru)
+UID:079273aa-e306-4b28-adbd-bfb7870fbd0f@0792.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241126T101500Z
+LOCATION:Paw.U sala O
+DTSTART:20241126T084500Z
+SUMMARY:Metodologia badań społecznych (wykład)
+UID:99beca91-19b0-4bac-9b9b-96edd57f0498@99be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20250123T144500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20250123T140000Z
+SUMMARY:Metodologia badań społecznych (ćwiczenia)
+UID:b9f68c82-15a6-4229-989a-c0eef74afac5@b9f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartłomiej Biga
+DTEND:20241211T134500Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241211T121500Z
+SUMMARY:Ochrona własności intelektualnej (konwersatorium)
+UID:b4441c09-7c47-4262-acec-ee2bace4f087@b444.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Małgorzata Miernikowska
+DTEND:20241122T114500Z
+LOCATION:Paw.G  7
+DTSTART:20241122T093000Z
+SUMMARY:Komunikacja wewnętrzna (konwersatorium do wyboru)
+UID:56be9fcb-e68a-4475-a64f-baefa4c6d4d3@56be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Frączek
+DTEND:20241217T083000Z
+LOCATION:Bibl. 443
+DTSTART:20241217T070000Z
+SUMMARY:Polityka społeczna (ćwiczenia)
+UID:e6dff900-cc2b-41f8-a838-251baaf540a1@e6df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20241106T101500Z
+LOCATION:Paw.F 106
+DTSTART:20241106T084500Z
+SUMMARY:Rachunkowość budżetowa (ćwiczenia do wyboru)
+UID:5d378c78-2458-4dc1-950d-3fefa93d1ac3@5d37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartłomiej Biga
+DTEND:20241016T124500Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241016T111500Z
+SUMMARY:Ochrona własności intelektualnej (konwersatorium)
+UID:0bd8eb97-2d99-4f50-9da2-fd0b04af5832@0bd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20250117T134500Z
+LOCATION:Paw.S sala 2
+DTSTART:20250117T121500Z
+SUMMARY:Metody analiz społeczno-gospodarczych (wykład)
+UID:c8490939-22f7-4215-bf33-060bdedbced0@c849.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Maj-Serwatka
+DTEND:20241205T101500Z
+LOCATION:Paw.F 416
+DTSTART:20241205T084500Z
+SUMMARY:Metody i narzędzia zarządzania finansami publicznymi (ćwiczenia do wyboru)
+UID:749f53da-d9ac-4d52-8298-4012ac3cc516@749f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Frączek
+DTEND:20250114T083000Z
+LOCATION:Bibl. 443
+DTSTART:20250114T070000Z
+SUMMARY:Polityka społeczna (ćwiczenia)
+UID:3e6e1f95-39b9-4c8a-866e-594a0692c037@3e6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Łukasz Mamica
+DTEND:20241015T124500Z
+LOCATION:Paw.G 11
+DTSTART:20241015T111500Z
+SUMMARY:Polityka gospodarcza (wykład)
+UID:c7597d92-0e4e-442f-a157-3dc1b5357b0a@c759.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20250115T101500Z
+LOCATION:Paw.F 106
+DTSTART:20250115T084500Z
+SUMMARY:Rachunkowość budżetowa (ćwiczenia do wyboru)
+UID:95e39a19-bd88-4acc-8218-d6687198dd0b@95e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Bartłomiej Biga
+DTEND:20241030T134500Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241030T121500Z
+SUMMARY:Ochrona własności intelektualnej (konwersatorium)
+UID:59d227f2-5fd6-4802-9163-1e09afc96bfb@59d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Maj-Serwatka
+DTEND:20250109T101500Z
+LOCATION:Paw.F 416
+DTSTART:20250109T084500Z
+SUMMARY:Metody i narzędzia zarządzania finansami publicznymi (wykład do wyboru)
+UID:5e784f41-9d15-477f-9f28-f7b4db9b6f39@5e78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20241023T110000Z
+LOCATION:Paw.F 106
+DTSTART:20241023T093000Z
+SUMMARY:Rachunkowość budżetowa (ćwiczenia do wyboru)
+UID:f7f12e9c-7dab-45c5-b48e-f02b3e168fc6@f7f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Maj-Serwatka
+DTEND:20241024T091500Z
+LOCATION:Paw.F 416
+DTSTART:20241024T074500Z
+SUMMARY:Metody i narzędzia zarządzania finansami publicznymi (ćwiczenia do wyboru)
+UID:cde5f8f5-d3a5-4f2d-84c3-a181ac590f90@cde5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20250122T144500Z
+LOCATION:Paw.F CJ 012
+DTSTART:20250122T140000Z
+SUMMARY:Rachunkowość budżetowa (ćwiczenia do wyboru)
+UID:f063493c-0641-4297-ae00-2df5a0827098@f063.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Oramus
+DTEND:20250124T144500Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20250124T140000Z
+SUMMARY:Innowacje w gospodarce publicznej (ćwiczenia do wyboru)
+UID:38b16b96-01aa-4e95-b41a-cb54eb7bb27c@38b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241210T101500Z
+LOCATION:Paw.U sala O
+DTSTART:20241210T084500Z
+SUMMARY:Metodologia badań społecznych (wykład)
+UID:f22c979e-2ec9-4c02-bc4f-fc69ad044bb3@f22c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Małgorzata Miernikowska
+DTEND:20241025T104500Z
+LOCATION:Paw.G  7
+DTSTART:20241025T083000Z
+SUMMARY:Komunikacja wewnętrzna (konwersatorium do wyboru)
+UID:2e5b604a-73c6-48ff-bdc6-dfa7477b958e@2e5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Alicja Szczygieł
+DTEND:20241018T081500Z
+LOCATION:Paw.G  7
+DTSTART:20241018T060000Z
+SUMMARY:Komunikacja wewnętrzna (konwersatorium do wyboru)
+UID:a359631e-2d99-4da1-af1f-e1846395da82@a359.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Pacut
+DTEND:20241024T124500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241024T111500Z
+SUMMARY:Organizacje pozarządowe (konwersatorium)
+UID:ca73ebaa-83b9-4efd-87b9-ec02ebe79454@ca73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Oramus
+DTEND:20241127T083000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241127T070000Z
+SUMMARY:Innowacje w gospodarce publicznej (wykład do wyboru)
+UID:6879f87a-2399-479b-b797-4623dd249f6a@6879.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Alicja Szczygieł
+DTEND:20241025T081500Z
+LOCATION:Paw.G  7
+DTSTART:20241025T060000Z
+SUMMARY:Komunikacja wewnętrzna (konwersatorium do wyboru)
+UID:c8701532-f44b-40ea-b2bf-abd0853c91df@c870.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20250120T171500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250120T163000Z
+SUMMARY:Metody analiz społeczno-gospodarczych (ćwiczenia)
+UID:7b7156ed-d643-4bff-ab0b-ec23abfc8323@7b71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Pacut
+DTEND:20241219T190000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20241219T173000Z
+SUMMARY:Organizacje pozarządowe (konwersatorium)
+UID:24bac66c-1252-408f-926c-b52124dece40@24ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Alicja Szczygieł
+DTEND:20241115T091500Z
+LOCATION:Paw.G  7
+DTSTART:20241115T070000Z
+SUMMARY:Komunikacja wewnętrzna (konwersatorium do wyboru)
+UID:c7cdc0aa-f1e0-4784-99d4-079ba351f515@c7cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Frączek
+DTEND:20241203T101500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241203T084500Z
+SUMMARY:Polityka społeczna (wykład)
+UID:f99dea57-93cb-47a6-9dff-c58f4e03acae@f99d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Pacut
+DTEND:20241128T134500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241128T121500Z
+SUMMARY:Organizacje pozarządowe (konwersatorium)
+UID:a7a1a300-f543-4b3c-8427-e9f5a8ab75e9@a7a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:7d2c1b25-8b1e-413a-a1ea-eb7777d87549@7d2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Maj-Serwatka
+DTEND:20241212T101500Z
+LOCATION:Paw.F 416
+DTSTART:20241212T084500Z
+SUMMARY:Metody i narzędzia zarządzania finansami publicznymi (wykład do wyboru)
+UID:be3818dc-38d2-4f04-a714-14d5828b61d9@be38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Głowacki
+DTEND:20241112T083000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241112T070000Z
+SUMMARY:Analiza polityk publicznych (ćwiczenia)
+UID:695908ac-9952-4ece-8816-7b5941629812@6959.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Oramus
+DTEND:20241016T091500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241016T074500Z
+SUMMARY:Innowacje w gospodarce publicznej (ćwiczenia do wyboru)
+UID:d400ad48-d322-4717-a5be-9607d9d566ba@d400.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20241023T091500Z
+LOCATION:Paw.F 106
+DTSTART:20241023T074500Z
+SUMMARY:Rachunkowość budżetowa (ćwiczenia do wyboru)
+UID:670b4f30-4f8a-4327-83c9-4999b7ebf776@670b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Możdżeń
+DTEND:20250123T181500Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20250123T173000Z
+SUMMARY:Polityka gospodarcza (ćwiczenia)
+UID:56da051a-028a-4f87-bf6f-7f226b28adee@56da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Małgorzata Miernikowska
+DTEND:20241108T114500Z
+LOCATION:Paw.G  7
+DTSTART:20241108T093000Z
+SUMMARY:Komunikacja wewnętrzna (konwersatorium do wyboru)
+UID:9c66be7b-ddc0-411f-abbc-451840f1b0eb@9c66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Pacut
+DTEND:20241107T134500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241107T121500Z
+SUMMARY:Organizacje pozarządowe (konwersatorium)
+UID:2af23f29-be85-496f-8719-1b50fd39e4d2@2af2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Łukasz Mamica
+DTEND:20250107T134500Z
+LOCATION:Paw.G 11
+DTSTART:20250107T121500Z
+SUMMARY:Polityka gospodarcza (wykład)
+UID:27ee8884-f2d6-4279-b4dd-4cabee933ebf@27ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Zawicki
+DTEND:20241112T120000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241112T103000Z
+SUMMARY:Analiza polityk publicznych (wykład)
+UID:8c4a4700-578a-4696-9864-0cd0b7231c7e@8c4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20241120T101500Z
+LOCATION:Paw.F 106
+DTSTART:20241120T084500Z
+SUMMARY:Rachunkowość budżetowa (ćwiczenia do wyboru)
+UID:422846b7-1551-44c1-85a4-0011b3b832d9@4228.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20250107T153000Z
+LOCATION:Paw.F 106
+DTSTART:20250107T140000Z
+SUMMARY:Rachunkowość budżetowa (wykład do wyboru)
+UID:2984ad79-98b6-4871-8610-724c7b86ce2f@2984.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Małgorzata Miernikowska
+DTEND:20241129T114500Z
+LOCATION:Paw.G  7
+DTSTART:20241129T093000Z
+SUMMARY:Komunikacja wewnętrzna (konwersatorium do wyboru)
+UID:6390085e-a105-4861-a2a4-36b12f2e7388@6390.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Głowacki
+DTEND:20241001T073000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241001T060000Z
+SUMMARY:Analiza polityk publicznych (ćwiczenia)
+UID:b2e54751-b99b-4020-879c-ab6b42caaae2@b2e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241029T101500Z
+LOCATION:Paw.U sala O
+DTSTART:20241029T084500Z
+SUMMARY:Metodologia badań społecznych (wykład)
+UID:1a574605-f9f7-44be-82ed-aa6d1f2d1428@1a57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Możdżeń
+DTEND:20241121T120000Z
+LOCATION:Paw.F CJ 312
+DTSTART:20241121T103000Z
+SUMMARY:Polityka gospodarcza (ćwiczenia)
+UID:f50f4f70-a343-4a0c-925f-57381d6b6fac@f50f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241220T134500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241220T121500Z
+SUMMARY:Metody analiz społeczno-gospodarczych (wykład)
+UID:142227a9-3a9a-4695-88bb-b40bd650ffda@1422.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Łukasz Mamica
+DTEND:20241210T134500Z
+LOCATION:Paw.G 11
+DTSTART:20241210T121500Z
+SUMMARY:Polityka gospodarcza (wykład)
+UID:06276415-4f7f-4a47-943c-fe67e975c335@0627.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20241204T101500Z
+LOCATION:Paw.F 106
+DTSTART:20241204T084500Z
+SUMMARY:Rachunkowość budżetowa (ćwiczenia do wyboru)
+UID:76696e9e-a2f2-4d31-b226-35fae0f5780c@7669.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Maj-Serwatka
+DTEND:20241114T101500Z
+LOCATION:Paw.F 416
+DTSTART:20241114T084500Z
+SUMMARY:Metody i narzędzia zarządzania finansami publicznymi (wykład do wyboru)
+UID:8af95eda-668a-41f4-ba05-6b8de8e2a000@8af9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241001T091500Z
+LOCATION:Paw.U sala O
+DTSTART:20241001T074500Z
+SUMMARY:Metodologia badań społecznych (wykład)
+UID:b8f5f9a6-866b-4bb9-b421-6a5b0bc4d75d@b8f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Frączek
+DTEND:20241114T120000Z
+LOCATION:Paw.F CJ 302
+DTSTART:20241114T103000Z
+SUMMARY:Polityka społeczna (ćwiczenia)
+UID:ac6c0ccc-4aae-4294-803f-1453f714cf17@ac6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Oramus
+DTEND:20241016T073000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241016T060000Z
+SUMMARY:Innowacje w gospodarce publicznej (wykład do wyboru)
+UID:ce74472b-5739-448d-a20f-b8336ee2f754@ce74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Oramus
+DTEND:20241211T083000Z
+LOCATION:Rakowicka 16 sala 12
+DTSTART:20241211T070000Z
+SUMMARY:Innowacje w gospodarce publicznej (wykład do wyboru)
+UID:881619c3-af4a-43f5-a547-53dc644be94b@8816.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241025T124500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241025T111500Z
+SUMMARY:Metody analiz społeczno-gospodarczych (wykład)
+UID:341b8434-87bb-4f90-9755-0af1eb515511@341b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Maj-Serwatka
+DTEND:20250116T101500Z
+LOCATION:Paw.F 416
+DTSTART:20250116T084500Z
+SUMMARY:Metody i narzędzia zarządzania finansami publicznymi (ćwiczenia do wyboru)
+UID:dec3cfb8-7887-4858-8bbc-3a11baf7f20a@dec3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241003T143000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241003T130000Z
+SUMMARY:Metodologia badań społecznych (ćwiczenia)
+UID:967ccb43-b3d1-4aca-9581-5e1ba5d424b7@967c.org
+END:VEVENT
+END:VCALENDAR

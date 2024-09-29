@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Bielińska-Dusza
+DTEND:20241019T081500Z
+DTSTART:20241019T064500Z
+SUMMARY:Wprowadzenie do studiów MBA (Studia podyplomowe)
+UID:ff82f609-a199-45ab-bea6-25c125736138@ff82.org
+END:VEVENT
+END:VCALENDAR

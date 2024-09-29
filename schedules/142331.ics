@@ -1,0 +1,1186 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20241128T120000Z
+LOCATION:Bud.gł. 6
+DTSTART:20241128T103000Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:39de388d-f059-4c28-bda5-558be7930c70@39de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241008T180000Z
+LOCATION:link do zajęć
+DTSTART:20241008T163000Z
+SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
+UID:39bbf41e-0136-435e-99ee-bc813220ebc6@39bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20241205T120000Z
+LOCATION:Bud.gł. 6
+DTSTART:20241205T103000Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:c056470b-5fd8-4703-b2d2-4078be229f18@c056.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20241017T110000Z
+LOCATION:Bud.gł. 6
+DTSTART:20241017T093000Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:0088990f-405b-4f6c-994c-7aa64cd1a73a@0088.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20241010T081500Z
+LOCATION:Bibl. 441
+DTSTART:20241010T060000Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:ff4b5ac5-785b-4c8a-b0a7-906ede5482a7@ff4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20241028T190000Z
+LOCATION:link do zajęć
+DTSTART:20241028T173000Z
+SUMMARY:Prawo pracy (wykład)
+UID:844be4fe-71f0-4a45-8378-e5a97db2789d@844b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20241120T194500Z
+LOCATION:link do zajęć
+DTSTART:20241120T181500Z
+SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
+UID:b1a0edfc-5c22-42e8-8ebb-405c4eae0586@b1a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Wojciech Fill
+DTEND:20241014T143000Z
+LOCATION:link do zajęć
+DTSTART:20241014T130000Z
+SUMMARY:Prawo finansowe (wykład)
+UID:78fef5c7-ba53-4561-a847-e677f56987ee@78fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20241031T091500Z
+LOCATION:Bibl. 441
+DTSTART:20241031T070000Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:ab847148-8784-4f5c-b388-43114a2ae814@ab84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20241212T120000Z
+LOCATION:Bud.gł. 6
+DTSTART:20241212T103000Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:8a5f6763-1341-4633-b16d-ed1d195f0801@8a5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20250115T194500Z
+LOCATION:link do zajęć
+DTSTART:20250115T181500Z
+SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
+UID:f84fdae0-a212-41a3-929f-12fa6111db5e@f84f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20241015T110000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241015T093000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (ćwiczenia)
+UID:3727f68b-d8a8-45db-8543-43d2963abd50@3727.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Knawa
+DTEND:20241031T134500Z
+LOCATION:Paw.C sala C
+DTSTART:20241031T121500Z
+SUMMARY:Podatek VAT i akcyza w praktyce (konwersatorium do wyboru)
+UID:70c873a6-8869-4ccf-b5da-807caf70ac2f@70c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20241016T184500Z
+LOCATION:link do zajęć
+DTSTART:20241016T171500Z
+SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
+UID:11b2b855-0215-4309-a281-8d14e0eac676@11b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20250108T180000Z
+LOCATION:link do zajęć
+DTSTART:20250108T154500Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład)
+UID:5f43d510-1d2a-4ba7-a661-02459f059baa@5f43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20241205T091500Z
+LOCATION:Bibl. 441
+DTSTART:20241205T070000Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:6a7e6d7e-2226-4969-b615-f175715ffc67@6a7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20250107T190000Z
+LOCATION:link do zajęć
+DTSTART:20250107T173000Z
+SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
+UID:62561173-285a-46c9-a306-a1354ffc74f5@6256.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20241029T083000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241029T070000Z
+SUMMARY:Prawo pracy (ćwiczenia)
+UID:8df4fe98-97e0-4e96-8fde-66b589054e10@8df4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20241204T194500Z
+LOCATION:link do zajęć
+DTSTART:20241204T181500Z
+SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
+UID:e144027b-686a-48ed-9cc2-3ecbab33ae1d@e144.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20241120T180000Z
+LOCATION:link do zajęć
+DTSTART:20241120T163000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład)
+UID:c8df0fcc-e598-4547-9cad-ff6b1d7f3df6@c8df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20241126T083000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241126T070000Z
+SUMMARY:Prawo pracy (ćwiczenia)
+UID:b4ee7283-f9b7-4a33-80a0-ca75fd9fb199@b4ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Wojciech Fill
+DTEND:20250114T083000Z
+LOCATION:Paw.F 515
+DTSTART:20250114T070000Z
+SUMMARY:Prawo finansowe (ćwiczenia)
+UID:78461b1d-1a5d-41c2-a487-d4573c48ea2d@7846.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20241202T194500Z
+LOCATION:link do zajęć
+DTSTART:20241202T173000Z
+SUMMARY:Prawo pracy (wykład)
+UID:a2c5ffdb-f291-46c3-aa48-e43b3c24f160@a2c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20241206T091500Z
+LOCATION:link do zajęć
+DTSTART:20241206T070000Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:cedc77b9-508a-4ee1-9b5b-790b0278694b@cedc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20250116T091500Z
+LOCATION:Bibl. 441
+DTSTART:20250116T070000Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:8fb9ab6a-a4f6-42ca-aaaf-577a654b8783@8fb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20241107T091500Z
+LOCATION:Bibl. 441
+DTSTART:20241107T070000Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:bea8b6d3-419b-416b-a00b-7dede485dede@bea8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Wojciech Fill
+DTEND:20241118T153000Z
+LOCATION:link do zajęć
+DTSTART:20241118T140000Z
+SUMMARY:Prawo finansowe (wykład)
+UID:3a6e0f97-edb1-4743-a5fb-d923b3370f30@3a6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20250113T194500Z
+LOCATION:link do zajęć
+DTSTART:20250113T173000Z
+SUMMARY:Prawo pracy (wykład)
+UID:f6e9ef70-bdf0-4dcc-8bce-b275de266f4f@f6e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20241128T091500Z
+LOCATION:Bibl. 441
+DTSTART:20241128T070000Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:e2a7a2d6-da36-492d-8631-6847e1e3a4dd@e2a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241210T190000Z
+LOCATION:link do zajęć
+DTSTART:20241210T173000Z
+SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
+UID:b9d78eaf-7741-4090-b3de-7964806f34ac@b9d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20241025T090000Z
+LOCATION:link do zajęć
+DTSTART:20241025T060000Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:e723e42e-df5f-4885-ad60-0fb4f70b1c93@e723.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20241023T170000Z
+LOCATION:link do zajęć
+DTSTART:20241023T153000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład)
+UID:c14df356-73c5-420f-be64-f831918ecd21@c14d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20241213T091500Z
+LOCATION:link do zajęć
+DTSTART:20241213T070000Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:04febe62-f241-4c60-bb46-12a22923ec17@04fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20250122T194500Z
+LOCATION:link do zajęć
+DTSTART:20250122T181500Z
+SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
+UID:9a8535c5-4d42-4b08-808e-07451f432759@9a85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20241127T194500Z
+LOCATION:link do zajęć
+DTSTART:20241127T181500Z
+SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
+UID:cd1bde88-0e8d-4595-a47e-2ae7778d985c@cd1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20241009T184500Z
+LOCATION:link do zajęć
+DTSTART:20241009T171500Z
+SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
+UID:28daa7e8-4e14-4e2e-bb6d-01aea7ebda7d@28da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20241018T090000Z
+LOCATION:link do zajęć
+DTSTART:20241018T060000Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:be25d95c-805a-4420-af9c-2883da6feb19@be25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20241031T120000Z
+LOCATION:Bud.gł. 6
+DTSTART:20241031T103000Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:ecd087c9-853c-41c0-a384-0393dad43100@ecd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20250121T083000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20250121T074500Z
+SUMMARY:Prawo pracy (ćwiczenia)
+UID:04adf43f-f13d-4ecb-bdae-838b853ef55c@04ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20241003T081500Z
+LOCATION:Bibl. 441
+DTSTART:20241003T060000Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:1574834b-9691-48a5-9a6f-2ae2bf63c33f@1574.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:df73ec82-4e86-4c38-9fec-513a9c655c05@df73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Wojciech Fill
+DTEND:20241125T153000Z
+LOCATION:link do zajęć
+DTSTART:20241125T140000Z
+SUMMARY:Prawo finansowe (wykład)
+UID:d54ae983-15be-44b4-ae71-9813ccf3efc5@d54a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20250107T083000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20250107T070000Z
+SUMMARY:Prawo pracy (ćwiczenia)
+UID:0f1f3603-278f-4ede-a40f-44b5c67a6f09@0f1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20241125T194500Z
+LOCATION:link do zajęć
+DTSTART:20241125T173000Z
+SUMMARY:Prawo pracy (wykład)
+UID:a866c5af-fd41-4d71-b62f-2647d50b83dd@a866.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20241210T120000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241210T103000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (ćwiczenia)
+UID:afe01f5a-f1ff-458d-a5af-b3e5b888313e@afe0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20241003T180000Z
+LOCATION:Bibl. 440
+DTSTART:20241003T163000Z
+SUMMARY: (seminarium)
+UID:c95fe0db-2697-4246-b413-6627d46dbd95@c95f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20241014T180000Z
+LOCATION:link do zajęć
+DTSTART:20241014T163000Z
+SUMMARY:Prawo pracy (wykład)
+UID:5f668a1b-c2b6-476b-9f65-2742c89ccd33@5f66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20241220T091500Z
+LOCATION:link do zajęć
+DTSTART:20241220T070000Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:8c1e772d-3307-487c-b06d-9ac7561a7b6f@8c1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20241112T083000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241112T070000Z
+SUMMARY:Prawo pracy (ćwiczenia)
+UID:a5f4aa93-c291-4105-95b8-bf1c1e2efb03@a5f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Knawa
+DTEND:20241114T134500Z
+LOCATION:Paw.C sala C
+DTSTART:20241114T121500Z
+SUMMARY:Podatek VAT i akcyza w praktyce (konwersatorium do wyboru)
+UID:087c8fc3-5af3-4d46-b040-2e68b9186d88@087c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Knawa
+DTEND:20241205T134500Z
+LOCATION:Paw.C sala C
+DTSTART:20241205T121500Z
+SUMMARY:Podatek VAT i akcyza w praktyce (konwersatorium do wyboru)
+UID:e12dfc24-130d-494f-9cf1-439b99c823ca@e12d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Knawa
+DTEND:20250109T134500Z
+LOCATION:Paw.C sala C
+DTSTART:20250109T121500Z
+SUMMARY:Podatek VAT i akcyza w praktyce (konwersatorium do wyboru)
+UID:83374cf7-ba38-4639-8729-d9acbe1c1b65@8337.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241126T190000Z
+LOCATION:link do zajęć
+DTSTART:20241126T173000Z
+SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
+UID:f52509ac-a5ea-484f-a725-50738c6f08ad@f525.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Wojciech Fill
+DTEND:20250121T074500Z
+LOCATION:Paw.F 515
+DTSTART:20250121T070000Z
+SUMMARY:Prawo finansowe (ćwiczenia)
+UID:95adbe07-4e5f-4570-bca4-e5bc7a482e48@95ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20241113T194500Z
+LOCATION:link do zajęć
+DTSTART:20241113T181500Z
+SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
+UID:ad92f503-16c0-48bf-9595-c97f59efbb60@ad92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Wojciech Fill
+DTEND:20241104T153000Z
+LOCATION:link do zajęć
+DTSTART:20241104T140000Z
+SUMMARY:Prawo finansowe (wykład)
+UID:1656e438-8bb6-4f1d-9819-e83a62738b85@1656.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241022T180000Z
+LOCATION:link do zajęć
+DTSTART:20241022T163000Z
+SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
+UID:eb5e4bd6-315c-4db4-b958-74bb24184c06@eb5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20241030T180000Z
+LOCATION:link do zajęć
+DTSTART:20241030T163000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład)
+UID:6cba283f-db94-4295-8fcd-1ca2465e1762@6cba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20241029T120000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241029T103000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (ćwiczenia)
+UID:aeeb88e0-8b69-4525-b77a-ec8b30aeadbc@aeeb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20241001T110000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241001T093000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (ćwiczenia)
+UID:4695d217-0913-4c1a-b54f-fed7c3902f6b@4695.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20250109T091500Z
+LOCATION:Bibl. 441
+DTSTART:20250109T070000Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:cfeff50b-9821-4dfe-8d24-0216dafc7f1c@cfef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20241024T081500Z
+LOCATION:Bibl. 441
+DTSTART:20241024T060000Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:f2f20b8d-0cd4-41f9-a38d-c4df132099f5@f2f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20241106T180000Z
+LOCATION:link do zajęć
+DTSTART:20241106T163000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład)
+UID:4d5f98c9-a1b5-4ac0-897b-9bbb7c3218ae@4d5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:66d8ba35-c7a2-487a-b4f3-d1ab62986887@66d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20241015T073000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241015T060000Z
+SUMMARY:Prawo pracy (ćwiczenia)
+UID:789a27b6-f46d-4d27-ac5d-fdd032538e97@789a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Wojciech Fill
+DTEND:20241217T083000Z
+LOCATION:Paw.F 515
+DTSTART:20241217T070000Z
+SUMMARY:Prawo finansowe (ćwiczenia)
+UID:c13e35b5-721b-4057-bcf6-5f4d16281734@c13e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20241106T194500Z
+LOCATION:link do zajęć
+DTSTART:20241106T181500Z
+SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
+UID:4dcb2751-66ea-438e-b444-b5a7892a349b@4dcb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20250124T100000Z
+LOCATION:link do zajęć
+DTSTART:20250124T070000Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:77ca33d4-28b1-4048-8cb4-75c9fe66740c@77ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20241212T091500Z
+LOCATION:Bibl. 441
+DTSTART:20241212T070000Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:7303ee6a-59cf-464f-8079-ab2b736d5e22@7303.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20241112T120000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241112T103000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (ćwiczenia)
+UID:5659e38a-bde9-473d-a328-8e2c2c0c7fa1@5659.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20241011T090000Z
+LOCATION:link do zajęć
+DTSTART:20241011T060000Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:98e3379e-b84f-43d0-8ebf-bd3287dd8b44@98e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Knawa
+DTEND:20250116T134500Z
+LOCATION:Paw.C sala C
+DTSTART:20250116T121500Z
+SUMMARY:Podatek VAT i akcyza w praktyce (konwersatorium do wyboru)
+UID:5cd745dc-7296-4a46-9ac7-01741172e630@5cd7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241015T180000Z
+LOCATION:link do zajęć
+DTSTART:20241015T163000Z
+SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
+UID:7312e894-1479-4b4f-82a7-4daa75f1b58b@7312.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20241114T091500Z
+LOCATION:Bibl. 441
+DTSTART:20241114T070000Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:61e1eac1-92c6-47f7-9102-d74bd1fbceab@61e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20250108T194500Z
+LOCATION:link do zajęć
+DTSTART:20250108T181500Z
+SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
+UID:0ef5384c-ca49-413b-a10c-4fdd7288b0e4@0ef5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20241107T120000Z
+LOCATION:Bud.gł. 6
+DTSTART:20241107T103000Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:11956556-debc-4ffc-8e66-bf89f433d890@1195.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Knawa
+DTEND:20241017T124500Z
+LOCATION:Paw.C sala C
+DTSTART:20241017T111500Z
+SUMMARY:Podatek VAT i akcyza w praktyce (konwersatorium do wyboru)
+UID:13b1a0d0-3cd2-4356-849a-7479601f4cd9@13b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Knawa
+DTEND:20241107T134500Z
+LOCATION:Paw.C sala C
+DTSTART:20241107T121500Z
+SUMMARY:Podatek VAT i akcyza w praktyce (konwersatorium do wyboru)
+UID:86c8f87b-9cb9-483e-b919-24c26a148ab2@86c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20250120T171500Z
+LOCATION:link do zajęć
+DTSTART:20250120T154500Z
+SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
+UID:e31f6716-5737-4c43-831f-a067c4f5e960@e31f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241217T190000Z
+LOCATION:link do zajęć
+DTSTART:20241217T173000Z
+SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
+UID:cf8edef4-a4c6-48c8-97d2-2cecac1d43da@cf8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20241104T190000Z
+LOCATION:link do zajęć
+DTSTART:20241104T173000Z
+SUMMARY:Prawo pracy (wykład)
+UID:2fbd93a9-2b21-4169-a0ae-4ad300f8f758@2fbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20241011T110000Z
+LOCATION:Paw.S sala 6
+DTSTART:20241011T093000Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:5ca26548-71d2-42dd-8dc7-45ee5636113f@5ca2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Wojciech Fill
+DTEND:20241105T083000Z
+LOCATION:Paw.F 515
+DTSTART:20241105T070000Z
+SUMMARY:Prawo finansowe (ćwiczenia)
+UID:ee9a264f-6a2c-4e68-bb2a-bce3e92fe8d2@ee9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20241126T120000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241126T103000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (ćwiczenia)
+UID:6625d6fa-4cf0-422b-8680-5a80c5f478a4@6625.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Knawa
+DTEND:20241128T134500Z
+LOCATION:Paw.C sala C
+DTSTART:20241128T121500Z
+SUMMARY:Podatek VAT i akcyza w praktyce (konwersatorium do wyboru)
+UID:edfb6bd6-3701-415a-b515-bf287d2d857e@edfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20241209T194500Z
+LOCATION:link do zajęć
+DTSTART:20241209T173000Z
+SUMMARY:Prawo pracy (wykład)
+UID:9e7f078e-a015-49d4-bf7f-a47410e970a6@9e7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20241114T120000Z
+LOCATION:Bud.gł. 6
+DTSTART:20241114T103000Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:18707622-1ae5-44f7-87d0-bc0d97404ac1@1870.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20241218T180000Z
+LOCATION:link do zajęć
+DTSTART:20241218T163000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład)
+UID:9a91c9c8-80f8-433d-846f-c3c777cd0467@9a91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20241017T081500Z
+LOCATION:Bibl. 441
+DTSTART:20241017T060000Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:3e8b8ce9-e486-410d-a83c-73824fa94fa7@3e8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20241113T180000Z
+LOCATION:link do zajęć
+DTSTART:20241113T163000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład)
+UID:6d2f89ef-7129-46d7-92ad-2b33441c27df@6d2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20241121T091500Z
+LOCATION:Bibl. 441
+DTSTART:20241121T070000Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:d76d956e-14cb-492a-8892-c9b40963bfd3@d76d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20241001T073000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241001T060000Z
+SUMMARY:Prawo pracy (ćwiczenia)
+UID:c90c69d1-5625-4f6c-ae74-31ef111b61a3@c90c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20241211T180000Z
+LOCATION:link do zajęć
+DTSTART:20241211T163000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład)
+UID:8c5698a9-99c2-4c69-9434-0717f783e8c4@8c56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20250116T120000Z
+LOCATION:Bud.gł. 6
+DTSTART:20250116T103000Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:fd95893b-72ab-4af9-aa1a-1102baa274e0@fd95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241112T190000Z
+LOCATION:link do zajęć
+DTSTART:20241112T173000Z
+SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
+UID:f210c242-89df-4509-966a-39f7a9cb3096@f210.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20241115T091500Z
+LOCATION:link do zajęć
+DTSTART:20241115T070000Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:79951fd1-b2f3-42f8-b25d-d89c42d271c7@7995.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Wojciech Fill
+DTEND:20241022T073000Z
+LOCATION:Paw.F 515
+DTSTART:20241022T060000Z
+SUMMARY:Prawo finansowe (ćwiczenia)
+UID:68809dda-8d9e-48e0-8948-c031d68e7dca@6880.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20241009T170000Z
+LOCATION:link do zajęć
+DTSTART:20241009T153000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład)
+UID:8d274f7b-4729-4360-8e94-6097a7ebfe80@8d27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20241204T180000Z
+LOCATION:link do zajęć
+DTSTART:20241204T163000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład)
+UID:54a44c7f-7577-47f3-ad8b-bc66aa304038@54a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20250107T120000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20250107T103000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (ćwiczenia)
+UID:5f2888ca-1808-4b28-b895-7ba5e9c39092@5f28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20241007T180000Z
+LOCATION:link do zajęć
+DTSTART:20241007T163000Z
+SUMMARY:Prawo pracy (wykład)
+UID:7d401cbe-8cee-4c9e-ade8-dfd537ec1991@7d40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Wojciech Fill
+DTEND:20241007T143000Z
+LOCATION:link do zajęć
+DTSTART:20241007T130000Z
+SUMMARY:Prawo finansowe (wykład)
+UID:6e37e1f1-2a42-43b7-869e-7c7ed043c7cc@6e37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Wojciech Fill
+DTEND:20241028T153000Z
+LOCATION:link do zajęć
+DTSTART:20241028T140000Z
+SUMMARY:Prawo finansowe (wykład)
+UID:2f535822-1d28-4b9e-8b5d-7bd6b15543e1@2f53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Wojciech Fill
+DTEND:20241202T144500Z
+LOCATION:link do zajęć
+DTSTART:20241202T140000Z
+SUMMARY:Prawo finansowe (wykład)
+UID:08e0bad8-23fe-4608-b80d-2524e4fa366e@08e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20241121T120000Z
+LOCATION:Bud.gł. 6
+DTSTART:20241121T103000Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:1fb44207-4195-4266-8d22-6c153c26b314@1fb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20241016T170000Z
+LOCATION:link do zajęć
+DTSTART:20241016T153000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład)
+UID:ef5de4bc-534d-4b2b-b065-d93c5525fa39@ef5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20241024T110000Z
+LOCATION:Bud.gł. 6
+DTSTART:20241024T093000Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:6505c5c5-6312-477a-a627-0d1acc44bfda@6505.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Knawa
+DTEND:20241010T180000Z
+LOCATION:Paw.E sala J
+DTSTART:20241010T163000Z
+SUMMARY:Podatek VAT i akcyza w praktyce (konwersatorium do wyboru)
+UID:5b0df3c3-40a2-4174-b620-10796576349c@5b0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20241129T091500Z
+LOCATION:link do zajęć
+DTSTART:20241129T070000Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:a5c4dda8-0a57-463a-bf1f-8062f8be1778@a5c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Knawa
+DTEND:20241024T124500Z
+LOCATION:Paw.C sala C
+DTSTART:20241024T111500Z
+SUMMARY:Podatek VAT i akcyza w praktyce (konwersatorium do wyboru)
+UID:73c0a482-6949-4f31-8aa2-fc142efb38f8@73c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20241219T091500Z
+LOCATION:Bibl. 441
+DTSTART:20241219T070000Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:db85ebd1-8b42-44c0-a34c-d8fafb0b8e53@db85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241119T190000Z
+LOCATION:link do zajęć
+DTSTART:20241119T173000Z
+SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
+UID:b254c4c7-01b4-4234-bbdb-fd84d5a31d41@b254.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20250110T100000Z
+LOCATION:link do zajęć
+DTSTART:20250110T070000Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:c498ae6d-159a-44df-9a8b-bba0a5edfa79@c498.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Wojciech Fill
+DTEND:20241203T083000Z
+LOCATION:Paw.F 515
+DTSTART:20241203T070000Z
+SUMMARY:Prawo finansowe (ćwiczenia)
+UID:8db1ee76-9e2d-46b5-adad-cedfa39c4de8@8db1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241105T190000Z
+LOCATION:link do zajęć
+DTSTART:20241105T173000Z
+SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
+UID:36de6ddd-bd1a-48bf-8217-9c7cf4a29c97@36de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241203T190000Z
+LOCATION:link do zajęć
+DTSTART:20241203T173000Z
+SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
+UID:44a294b3-4fea-46df-a260-3971b694b3cc@44a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20250115T180000Z
+LOCATION:link do zajęć
+DTSTART:20250115T154500Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład)
+UID:149d3147-45f2-492b-bdc7-ff704218b8c6@149d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20250109T120000Z
+LOCATION:Bud.gł. 6
+DTSTART:20250109T103000Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:0f35ecef-f81e-453a-86d0-2accca73a393@0f35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20241029T190000Z
+LOCATION:link do zajęć
+DTSTART:20241029T173000Z
+SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
+UID:59092c16-6bf4-46cb-a8e4-ebc8892174a5@5909.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20241021T180000Z
+LOCATION:link do zajęć
+DTSTART:20241021T163000Z
+SUMMARY:Prawo pracy (wykład)
+UID:210d02eb-ff27-487d-bd22-1baf30b2630b@210d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20250121T194500Z
+LOCATION:link do zajęć
+DTSTART:20250121T173000Z
+SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
+UID:191c5f6b-5163-4493-b047-80a90867c493@191c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Knawa
+DTEND:20241003T124500Z
+LOCATION:Paw.C sala C
+DTSTART:20241003T111500Z
+SUMMARY:Podatek VAT i akcyza w praktyce (konwersatorium do wyboru)
+UID:21e07071-4622-483f-adb2-bf6f3fdd8de8@21e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Knawa
+DTEND:20241219T171500Z
+LOCATION:Paw.G  9
+DTSTART:20241219T154500Z
+SUMMARY:Podatek VAT i akcyza w praktyce (konwersatorium do wyboru)
+UID:f3863b20-abfc-4883-ab6d-2ac35a99f303@f386.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20241127T180000Z
+LOCATION:link do zajęć
+DTSTART:20241127T163000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład)
+UID:9e8e63d6-3a24-4b35-8e97-792dee7cb056@9e8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Wojciech Fill
+DTEND:20241008T073000Z
+LOCATION:Paw.F 515
+DTSTART:20241008T060000Z
+SUMMARY:Prawo finansowe (ćwiczenia)
+UID:18b65e78-3bfc-41a1-a455-42ab03baf4e0@18b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20250123T120000Z
+LOCATION:Bud.gł. 6
+DTSTART:20250123T103000Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:7aefc0f3-8052-4ccd-b2e7-8535f68ddc24@7aef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20241122T091500Z
+LOCATION:link do zajęć
+DTSTART:20241122T070000Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:a799ff6b-0869-47d9-8f9d-63ac2adeb6f2@a799.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Knawa
+DTEND:20250123T134500Z
+LOCATION:Paw.C sala C
+DTSTART:20250123T121500Z
+SUMMARY:Podatek VAT i akcyza w praktyce (konwersatorium do wyboru)
+UID:c0ae169f-c2ac-4e6b-8843-bc103f5e9f73@c0ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Knawa
+DTEND:20241212T134500Z
+LOCATION:Paw.C sala C
+DTSTART:20241212T121500Z
+SUMMARY:Podatek VAT i akcyza w praktyce (konwersatorium do wyboru)
+UID:33232296-0594-4457-93d2-247bf03a408c@3323.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Kinga Michałowska
+DTEND:20250114T194500Z
+LOCATION:link do zajęć
+DTSTART:20250114T173000Z
+SUMMARY:Prawo farmaceutyczne (wykład do wyboru)
+UID:75b7c671-37a1-4124-89e0-53f47baea5c7@75b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20241216T194500Z
+LOCATION:link do zajęć
+DTSTART:20241216T173000Z
+SUMMARY:Prawo pracy (wykład)
+UID:afcaf147-772d-4c50-9cce-6e83a57488f4@afca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Wojciech Fill
+DTEND:20241021T143000Z
+LOCATION:link do zajęć
+DTSTART:20241021T130000Z
+SUMMARY:Prawo finansowe (wykład)
+UID:320973db-425e-4769-be89-8b93d9c827dd@3209.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20241210T083000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241210T070000Z
+SUMMARY:Prawo pracy (ćwiczenia)
+UID:ba139119-0430-4545-827d-643b86e7fc18@ba13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20250117T100000Z
+LOCATION:link do zajęć
+DTSTART:20250117T070000Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:69559251-6783-42a7-afed-3ed6a80abfb5@6955.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20241108T091500Z
+LOCATION:link do zajęć
+DTSTART:20241108T070000Z
+SUMMARY:Postępowanie cywilne (wykład)
+UID:a725d94a-2fdb-421b-80f1-837e82f9e0ca@a725.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20241023T184500Z
+LOCATION:link do zajęć
+DTSTART:20241023T171500Z
+SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
+UID:76bb2b09-b56b-4982-8893-ce2cb999b8c4@76bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20241003T110000Z
+LOCATION:Bud.gł. 6
+DTSTART:20241003T093000Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:c89ace0d-4c9d-42bf-9c79-c5ada5115b30@c89a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Knawa
+DTEND:20241121T134500Z
+LOCATION:Paw.C sala C
+DTSTART:20241121T121500Z
+SUMMARY:Podatek VAT i akcyza w praktyce (konwersatorium do wyboru)
+UID:09da8891-f646-417f-a09c-b2660dfe4e5f@09da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20250120T194500Z
+LOCATION:link do zajęć
+DTSTART:20250120T173000Z
+SUMMARY:Prawo pracy (wykład)
+UID:6e20dbb0-099b-474f-b98f-dd78b0c35fd6@6e20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20241211T194500Z
+LOCATION:link do zajęć
+DTSTART:20241211T181500Z
+SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
+UID:8b63b5de-2322-422f-b712-d7d95be97369@8b63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Paweł Dyrduł
+DTEND:20241219T120000Z
+LOCATION:Bud.gł. 6
+DTSTART:20241219T103000Z
+SUMMARY:Umowy handlowe w praktyce (konwersatorium do wyboru)
+UID:721a6bcd-1cc5-46e8-ba47-a0b8e5b942a7@721a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20241030T194500Z
+LOCATION:link do zajęć
+DTSTART:20241030T181500Z
+SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
+UID:bc9c6e1c-b249-4190-90b5-17397267f193@bc9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20250121T120000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20250121T111500Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (ćwiczenia)
+UID:65b5fbef-9c20-4893-90a0-2e6be3ee340a@65b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aneta Mendrek
+DTEND:20250123T091500Z
+LOCATION:Bibl. 441
+DTSTART:20250123T070000Z
+SUMMARY:Postępowanie cywilne (ćwiczenia)
+UID:47bcf163-6ba1-4c94-9417-3230d210403b@47bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Plebanek
+DTEND:20241218T194500Z
+LOCATION:link do zajęć
+DTSTART:20241218T181500Z
+SUMMARY:Medyczne Prawo Karne (wykład do wyboru)
+UID:0ecfb673-913d-4f03-a454-853c93c2b91c@0ecf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Mędrala
+DTEND:20241118T190000Z
+LOCATION:link do zajęć
+DTSTART:20241118T173000Z
+SUMMARY:Prawo pracy (wykład)
+UID:8a0e8d01-47e9-4345-8798-bb6aeef72dc8@8a0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Wojciech Fill
+DTEND:20241119T083000Z
+LOCATION:Paw.F 515
+DTSTART:20241119T070000Z
+SUMMARY:Prawo finansowe (ćwiczenia)
+UID:16ecee41-eece-4f90-a40d-0dfc9dc9c441@16ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jolanta Loranc-Borkowska
+DTEND:20250122T180000Z
+LOCATION:link do zajęć
+DTSTART:20250122T163000Z
+SUMMARY:Prawo ochrony konkurencji i konsumentów (wykład)
+UID:b68fe1fc-9056-4e9a-a93e-635b6cf93b07@b68f.org
+END:VEVENT
+END:VCALENDAR

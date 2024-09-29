@@ -1,0 +1,826 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20241219T190000Z
+LOCATION:Paw.U sala O
+DTSTART:20241219T173000Z
+SUMMARY:Ekonomia dla inżynierów (ćwiczenia)
+UID:77d39965-1ce9-4902-9ffe-603cbb268c00@77d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20250123T190000Z
+LOCATION:Paw.U sala O
+DTSTART:20250123T173000Z
+SUMMARY:Ekonomia dla inżynierów (ćwiczenia)
+UID:3febbe92-2a3b-4514-81e4-682937539046@3feb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241211T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20241211T084500Z
+SUMMARY:Ekonomia dla inżynierów (wykład)
+UID:a6e8eaf3-3b8d-4402-a47e-d8e0eaf4b16a@a6e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20241024T180000Z
+LOCATION:Paw.U sala O
+DTSTART:20241024T163000Z
+SUMMARY:Ekonomia dla inżynierów (ćwiczenia)
+UID:90fcf3a1-c509-4ea6-abce-6ae848962732@90fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20241105T114500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20241105T084500Z
+SUMMARY:Podstawy analityki chemicznej (laboratorium)
+UID:02601e94-b9ff-46bd-b4bf-3de95a686fc5@0260.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241021T091500Z
+LOCATION:Paw.F 715
+DTSTART:20241021T074500Z
+SUMMARY:Kreatywność i myślenie twórcze w rozwoju produktu (konwersatorium)
+UID:5731218a-d0e6-407d-97cb-4d9dfcf455b1@5731.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241011T081500Z
+LOCATION:Sienk. 4 pr. an .sens.
+DTSTART:20241011T060000Z
+SUMMARY:Sensoryczne metody badania produktów (laboratorium)
+UID:58995ec7-28af-4b3d-b580-903598b89f92@5899.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241129T091500Z
+LOCATION:Sienk. 4 pr. an .sens.
+DTSTART:20241129T070000Z
+SUMMARY:Sensoryczne metody badania produktów (laboratorium)
+UID:1a26cef7-d1b3-4e28-b344-7bfa9a68f839@1a26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20250122T153000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20250122T140000Z
+SUMMARY:Podstawy przetwarzania i prezentacji danych (ćwiczenia)
+UID:374cc3fc-a9f0-48cd-a48d-15525fa5bb38@374c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20250123T153000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250123T140000Z
+SUMMARY:Organizacja i zarządzanie (ćwiczenia)
+UID:9324d254-0cb7-44e3-b984-e64f63c004f2@9324.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20241112T114500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20241112T084500Z
+SUMMARY:Podstawy analityki chemicznej (laboratorium)
+UID:7ca61953-8978-4c7e-bf8f-8c9d08e0b115@7ca6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20241017T180000Z
+LOCATION:Paw.U sala O
+DTSTART:20241017T163000Z
+SUMMARY:Ekonomia dla inżynierów (ćwiczenia)
+UID:15ab257b-ebee-4209-8f87-300c086446a6@15ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241030T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20241030T084500Z
+SUMMARY:Ekonomia dla inżynierów (wykład)
+UID:c840a5b1-5314-4ba1-9fb9-e5ba7d645373@c840.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20241010T180000Z
+LOCATION:Paw.U sala O
+DTSTART:20241010T163000Z
+SUMMARY:Ekonomia dla inżynierów (ćwiczenia)
+UID:b9e76247-6855-4ed9-aa1b-8b669a4e304a@b9e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20241128T190000Z
+LOCATION:Paw.U sala O
+DTSTART:20241128T173000Z
+SUMMARY:Ekonomia dla inżynierów (ćwiczenia)
+UID:2a423898-91ec-4a22-849d-28c721fc85e3@2a42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20241003T180000Z
+LOCATION:Paw.U sala O
+DTSTART:20241003T163000Z
+SUMMARY:Ekonomia dla inżynierów (ćwiczenia)
+UID:2bb9d225-fffb-417e-bab6-62556aa7a1ce@2bb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241023T110000Z
+LOCATION:Paw.C sala A
+DTSTART:20241023T093000Z
+SUMMARY:Organizacja i zarządzanie (wykład)
+UID:f5117c86-ded1-4c75-9e42-61b8b9fcd29c@f511.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20241106T153000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241106T140000Z
+SUMMARY:Podstawy przetwarzania i prezentacji danych (ćwiczenia)
+UID:24fdde3a-3062-41b7-a291-5fa29184738e@24fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20241126T114500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20241126T084500Z
+SUMMARY:Podstawy analityki chemicznej (laboratorium)
+UID:4e784686-145c-4c20-aabb-38d1f4a3e7e8@4e78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20241107T190000Z
+LOCATION:Paw.U sala O
+DTSTART:20241107T173000Z
+SUMMARY:Ekonomia dla inżynierów (ćwiczenia)
+UID:53a118b2-c773-4100-ba63-1b2d285e31c1@53a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20241120T153000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241120T140000Z
+SUMMARY:Podstawy przetwarzania i prezentacji danych (ćwiczenia)
+UID:4e4edf80-b1ee-4bb1-ab20-75c2ca120abb@4e4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20241218T153000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241218T140000Z
+SUMMARY:Podstawy przetwarzania i prezentacji danych (ćwiczenia)
+UID:681ec96a-9caa-4907-b2cc-024422c7513a@681e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241025T081500Z
+LOCATION:Sienk. 4 pr. an .sens.
+DTSTART:20241025T060000Z
+SUMMARY:Sensoryczne metody badania produktów (laboratorium)
+UID:c007df53-9967-4b8e-abc1-043eb7bd678d@c007.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20250108T153000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20250108T140000Z
+SUMMARY:Podstawy przetwarzania i prezentacji danych (ćwiczenia)
+UID:f96c229f-a183-4ea3-aa0d-f5e360b71da4@f96c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20241023T143000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241023T130000Z
+SUMMARY:Podstawy przetwarzania i prezentacji danych (ćwiczenia)
+UID:9050c0ea-be01-4bbb-9a1f-6bb6c60322bf@9050.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241204T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20241204T103000Z
+SUMMARY:Organizacja i zarządzanie (wykład)
+UID:80d5141c-c19c-4c52-89c6-8d2a2e8a79a6@80d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241118T101500Z
+LOCATION:Paw.F 715
+DTSTART:20241118T084500Z
+SUMMARY:Kreatywność i myślenie twórcze w rozwoju produktu (konwersatorium)
+UID:d158694a-756f-45fd-ab2f-8bdfd7bbdb04@d158.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20250122T093000Z
+LOCATION:Paw.C sala A
+DTSTART:20250122T084500Z
+SUMMARY:Ekonomia dla inżynierów (wykład)
+UID:14e3b03f-5b44-42de-be9b-df43d49851d2@14e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.dr hab. inż. Stanisław Popek
+DTEND:20250115T101500Z
+LOCATION:Paw.F 104
+DTSTART:20250115T084500Z
+SUMMARY:Wstęp do nauk o jakości (wykład)
+UID:8b3fcc68-6468-4f03-baf1-b45ad542259a@8b3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20241008T104500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20241008T074500Z
+SUMMARY:Podstawy analityki chemicznej (laboratorium)
+UID:1ef53f59-7536-4058-b890-d2af0e065b8f@1ef5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Lidia Ostasz
+DTEND:20241004T110000Z
+LOCATION:Paw.E sala J
+DTSTART:20241004T093000Z
+SUMMARY:Podstawy analityki chemicznej (wykład)
+UID:f78c5a75-cceb-48f6-bafa-aa9e49b57913@f78c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20241205T190000Z
+LOCATION:Paw.U sala O
+DTSTART:20241205T173000Z
+SUMMARY:Ekonomia dla inżynierów (ćwiczenia)
+UID:58df9389-0013-4a5d-9c5b-88a7e1d0b98f@58df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241202T101500Z
+LOCATION:Paw.F 715
+DTSTART:20241202T084500Z
+SUMMARY:Kreatywność i myślenie twórcze w rozwoju produktu (konwersatorium)
+UID:29c8fc26-f2be-4e7d-b364-070027317443@29c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20250109T153000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250109T140000Z
+SUMMARY:Organizacja i zarządzanie (ćwiczenia)
+UID:20338788-98dd-48df-806e-1c253b6265e1@2033.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241014T124500Z
+LOCATION:Paw.C sala C
+DTSTART:20241014T111500Z
+SUMMARY:Organizacja i zarządzanie (wykład)
+UID:e5ce692b-117d-4639-bb2b-a003f81be0f1@e5ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20241121T190000Z
+LOCATION:Paw.U sala O
+DTSTART:20241121T173000Z
+SUMMARY:Ekonomia dla inżynierów (ćwiczenia)
+UID:cdeb891e-9fe8-40f8-9b30-ebd288810af8@cdeb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Lidia Ostasz
+DTEND:20241011T110000Z
+LOCATION:Paw.G 13 SENACKA
+DTSTART:20241011T093000Z
+SUMMARY:Podstawy analityki chemicznej (wykład)
+UID:c182293f-1e5c-46ab-9b3c-3137fce7f0ed@c182.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20241024T124500Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241024T111500Z
+SUMMARY:Podstawy przetwarzania i prezentacji danych (ćwiczenia)
+UID:d5cdea5c-e17f-4efd-b21a-40408d1db17a@d5cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20250116T190000Z
+LOCATION:Paw.U sala O
+DTSTART:20250116T173000Z
+SUMMARY:Ekonomia dla inżynierów (ćwiczenia)
+UID:d1159102-f34c-450a-a9b6-62c3e8229f3e@d115.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20241017T143000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241017T130000Z
+SUMMARY:Organizacja i zarządzanie (ćwiczenia)
+UID:f05d9259-b7e9-4713-9b3c-aeccd375950a@f05d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20241015T104500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20241015T074500Z
+SUMMARY:Podstawy analityki chemicznej (laboratorium)
+UID:baec9c9c-5a04-4b02-a0f0-8663934b7bfd@baec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Lidia Ostasz
+DTEND:20241127T120000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241127T103000Z
+SUMMARY:Podstawy analityki chemicznej (wykład)
+UID:ca3ae466-123f-457c-86ea-696bb4a3c12a@ca3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241122T091500Z
+LOCATION:Sienk. 4 pr. an .sens.
+DTSTART:20241122T070000Z
+SUMMARY:Sensoryczne metody badania produktów (laboratorium)
+UID:c776e795-926e-4fea-86d5-6e851eca2eea@c776.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241007T091500Z
+LOCATION:Paw.F 715
+DTSTART:20241007T074500Z
+SUMMARY:Kreatywność i myślenie twórcze w rozwoju produktu (konwersatorium)
+UID:741f08d9-d170-4780-875c-2fa92162986f@741f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Lidia Ostasz
+DTEND:20241211T120000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241211T103000Z
+SUMMARY:Podstawy analityki chemicznej (wykład)
+UID:75cc8b5d-22ba-4dba-bd69-42dead52da7a@75cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.dr hab. inż. Stanisław Popek
+DTEND:20241009T091500Z
+LOCATION:Paw.F 104
+DTSTART:20241009T074500Z
+SUMMARY:Wstęp do nauk o jakości (wykład)
+UID:04e18280-bcbf-4b15-b796-58e31c4a9ff6@04e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Lidia Ostasz
+DTEND:20241030T120000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241030T103000Z
+SUMMARY:Podstawy analityki chemicznej (wykład)
+UID:25142f22-6ead-4803-96d0-f676d1b7d385@2514.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Lidia Ostasz
+DTEND:20241016T110000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241016T093000Z
+SUMMARY:Podstawy analityki chemicznej (wykład)
+UID:04921eb9-b68c-4f96-afe5-7cceaeaf6232@0492.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:ea0c450c-2b87-45ba-93e4-5a44783f3b14@ea0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241104T101500Z
+LOCATION:Paw.F 715
+DTSTART:20241104T084500Z
+SUMMARY:Kreatywność i myślenie twórcze w rozwoju produktu (konwersatorium)
+UID:95c93631-f87e-4f92-bad0-5e38dd555ab0@95c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.dr hab. inż. Stanisław Popek
+DTEND:20241204T101500Z
+LOCATION:Paw.F 104
+DTSTART:20241204T084500Z
+SUMMARY:Wstęp do nauk o jakości (wykład)
+UID:ac0fbd19-61a2-4cb7-b8e2-04221d787c22@ac0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20250120T093000Z
+LOCATION:Paw.F 715
+DTSTART:20250120T084500Z
+SUMMARY:Kreatywność i myślenie twórcze w rozwoju produktu (konwersatorium)
+UID:5b71364c-2e2d-4ace-acb2-a090bd69b329@5b71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20241212T190000Z
+LOCATION:Paw.U sala O
+DTSTART:20241212T173000Z
+SUMMARY:Ekonomia dla inżynierów (ćwiczenia)
+UID:9a94826f-43ba-4833-91ee-917b5917bfda@9a94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241206T091500Z
+LOCATION:Sienk. 4 pr. an .sens.
+DTSTART:20241206T070000Z
+SUMMARY:Sensoryczne metody badania produktów (laboratorium)
+UID:ed3a5abf-ee55-40c9-b492-72d3cc4f0905@ed3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20241127T153000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241127T140000Z
+SUMMARY:Podstawy przetwarzania i prezentacji danych (ćwiczenia)
+UID:b086b856-5d48-44f0-a164-199a5c3744cb@b086.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20241030T153000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241030T140000Z
+SUMMARY:Podstawy przetwarzania i prezentacji danych (ćwiczenia)
+UID:7409d78d-2986-4755-907d-ed0f0c90eb30@7409.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20241203T114500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20241203T084500Z
+SUMMARY:Podstawy analityki chemicznej (laboratorium)
+UID:1bcaf53d-b7e5-4e7a-aae7-84c20a39b579@1bca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20250109T190000Z
+LOCATION:Paw.U sala O
+DTSTART:20250109T173000Z
+SUMMARY:Ekonomia dla inżynierów (ćwiczenia)
+UID:6c117c9b-cb50-4a83-8904-26142225876e@6c11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241108T091500Z
+LOCATION:Sienk. 4 pr. an .sens.
+DTSTART:20241108T070000Z
+SUMMARY:Sensoryczne metody badania produktów (laboratorium)
+UID:273b4e00-6870-41e1-87c6-b30fadd1a308@273b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241127T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20241127T084500Z
+SUMMARY:Ekonomia dla inżynierów (wykład)
+UID:173b0fc0-606d-41bf-b90a-3b8b0991e460@173b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20250117T161500Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20250117T144500Z
+SUMMARY:Podstawy przetwarzania i prezentacji danych (ćwiczenia)
+UID:dc992224-c798-4749-9804-481d6817bec4@dc99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20241009T143000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241009T130000Z
+SUMMARY:Podstawy przetwarzania i prezentacji danych (ćwiczenia)
+UID:ce555098-d4b1-4794-a028-658eb9e5e679@ce55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.dr hab. inż. Stanisław Popek
+DTEND:20241023T091500Z
+LOCATION:Paw.F 104
+DTSTART:20241023T074500Z
+SUMMARY:Wstęp do nauk o jakości (wykład)
+UID:268a3b4e-b64d-477f-8a20-d92bc596b9a5@268a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241014T134500Z
+LOCATION:Paw.F 008
+DTSTART:20241014T130000Z
+SUMMARY:Organizacja i zarządzanie (wykład)
+UID:f0284650-92b9-4a40-8c81-1b17cd481512@f028.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20241128T153000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241128T140000Z
+SUMMARY:Organizacja i zarządzanie (ćwiczenia)
+UID:3a743e8c-0455-4634-b5e8-8688eee5583a@3a74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241113T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20241113T084500Z
+SUMMARY:Ekonomia dla inżynierów (wykład)
+UID:6e3bd67d-7cd5-4062-bd36-07ec62a936b6@6e3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20250107T093000Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20250107T084500Z
+SUMMARY:Podstawy analityki chemicznej (laboratorium)
+UID:87ab1b00-5c11-4ad1-8a08-01b214ee7c2f@87ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.dr hab. inż. Stanisław Popek
+DTEND:20250122T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20250122T093000Z
+SUMMARY:Wstęp do nauk o jakości (wykład)
+UID:62ec226e-28d8-48f9-a527-df914d5f41b4@62ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20241212T153000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241212T140000Z
+SUMMARY:Organizacja i zarządzanie (ćwiczenia)
+UID:861a4723-90d5-41fc-b35a-352e2f074105@861a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20250115T153000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20250115T140000Z
+SUMMARY:Podstawy przetwarzania i prezentacji danych (ćwiczenia)
+UID:8d067a60-1e96-4568-ab87-c07d3156a4e2@8d06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20241022T104500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20241022T074500Z
+SUMMARY:Podstawy analityki chemicznej (laboratorium)
+UID:fe88c995-179f-463b-ba25-e9254233c263@fe88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20241204T153000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241204T140000Z
+SUMMARY:Podstawy przetwarzania i prezentacji danych (ćwiczenia)
+UID:4f38b1b7-f6d5-41d0-9118-26951eec2dff@4f38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20241113T153000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241113T140000Z
+SUMMARY:Podstawy przetwarzania i prezentacji danych (ćwiczenia)
+UID:48dab09e-340e-4939-adc8-56daef3385ce@48da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20250113T101500Z
+LOCATION:Paw.F 715
+DTSTART:20250113T084500Z
+SUMMARY:Kreatywność i myślenie twórcze w rozwoju produktu (konwersatorium)
+UID:4ddaa4c0-3b91-45f9-aa01-256526c2181a@4dda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Lidia Ostasz
+DTEND:20241113T120000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241113T103000Z
+SUMMARY:Podstawy analityki chemicznej (wykład)
+UID:bfe5fabe-1249-44bd-943e-7b2c74142f79@bfe5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20250117T144500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250117T140000Z
+SUMMARY:Organizacja i zarządzanie (ćwiczenia)
+UID:8d8e03f3-6ad3-46df-87e2-264537830e82@8d8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241220T091500Z
+LOCATION:Sienk. 4 pr. an .sens.
+DTSTART:20241220T070000Z
+SUMMARY:Sensoryczne metody badania produktów (laboratorium)
+UID:18fe4cf2-c662-45a6-bdb8-f66f70b31412@18fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20241031T153000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241031T140000Z
+SUMMARY:Organizacja i zarządzanie (ćwiczenia)
+UID:8cb82ffa-09ef-4562-a1dd-438c8c160b00@8cb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Jerzy Szakiel
+DTEND:20241211T153000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241211T140000Z
+SUMMARY:Podstawy przetwarzania i prezentacji danych (ćwiczenia)
+UID:559497ab-919a-4a47-a07d-b8653b7ae8bf@5594.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241004T091500Z
+LOCATION:Paw.E sala J
+DTSTART:20241004T074500Z
+SUMMARY:Ekonomia dla inżynierów (wykład)
+UID:2dde9705-46bd-43f6-8d06-4e74df0bf545@2dde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20241210T114500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20241210T084500Z
+SUMMARY:Podstawy analityki chemicznej (laboratorium)
+UID:492b6e8f-fe76-43cc-9a61-a49e06e95c0f@492b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241018T081500Z
+LOCATION:Sienk. 4 pr. an .sens.
+DTSTART:20241018T060000Z
+SUMMARY:Sensoryczne metody badania produktów (laboratorium)
+UID:90811a25-acca-46cd-9f2a-9c72f831975f@9081.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: Studencki Uek Parlament
+DTEND:20241021T161500Z
+LOCATION:Paw.S sala 5
+DTSTART:20241021T144500Z
+SUMMARY:Prawa i obowiązki studenta (rezerwacja)
+UID:591c75a6-1500-4901-b23b-7d885f658b91@591c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20241119T114500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20241119T084500Z
+SUMMARY:Podstawy analityki chemicznej (laboratorium)
+UID:3cbae1fe-ba0f-409d-9c97-63c4a0fe5f5f@3cba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.dr hab. inż. Stanisław Popek
+DTEND:20241106T101500Z
+LOCATION:Paw.F 104
+DTSTART:20241106T084500Z
+SUMMARY:Wstęp do nauk o jakości (wykład)
+UID:cc644329-0aaa-448a-b584-bb8faa7ae030@cc64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20250108T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20250108T084500Z
+SUMMARY:Ekonomia dla inżynierów (wykład)
+UID:f0adaf4b-3148-4a4a-8638-b73f8865e7f1@f0ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:49383baf-d782-405e-b106-aac5c3a13219@4938.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.dr hab. inż. Stanisław Popek
+DTEND:20241120T101500Z
+LOCATION:Paw.F 104
+DTSTART:20241120T084500Z
+SUMMARY:Wstęp do nauk o jakości (wykład)
+UID:4fe1924b-64c5-4282-a9a4-9493399586d2@4fe1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241120T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20241120T103000Z
+SUMMARY:Organizacja i zarządzanie (wykład)
+UID:5ac8da6a-4049-40a7-92c9-b29ebb952c71@5ac8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20241114T153000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241114T140000Z
+SUMMARY:Organizacja i zarządzanie (ćwiczenia)
+UID:ebc7727d-1468-4b3d-8cd8-4b5be0a548c1@ebc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241213T091500Z
+LOCATION:Sienk. 4 pr. an .sens.
+DTSTART:20241213T070000Z
+SUMMARY:Sensoryczne metody badania produktów (laboratorium)
+UID:a570774b-8d76-4e84-b4e3-5f99b7fe2b8a@a570.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241115T091500Z
+LOCATION:Sienk. 4 pr. an .sens.
+DTSTART:20241115T070000Z
+SUMMARY:Sensoryczne metody badania produktów (laboratorium)
+UID:ab7cf0f6-c644-4950-8da8-133a8a30caa3@ab7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.dr hab. inż. Stanisław Popek
+DTEND:20241218T101500Z
+LOCATION:Paw.F 104
+DTSTART:20241218T084500Z
+SUMMARY:Wstęp do nauk o jakości (wykład)
+UID:1c46de77-a451-46cf-b100-773acf1e985e@1c46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241106T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20241106T103000Z
+SUMMARY:Organizacja i zarządzanie (wykład)
+UID:2611a01b-aef8-4f48-9261-ac4637c64c6e@2611.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241218T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20241218T103000Z
+SUMMARY:Organizacja i zarządzanie (wykład)
+UID:d6c1cbb6-25f9-4024-b24f-223e528d3fe2@d6c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20241031T190000Z
+LOCATION:Paw.U sala O
+DTSTART:20241031T173000Z
+SUMMARY:Ekonomia dla inżynierów (ćwiczenia)
+UID:9ea6af99-5c90-4b21-8d04-075cfdd3591a@9ea6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wiesław Łukasiński
+DTEND:20241009T110000Z
+LOCATION:Paw.C sala A
+DTSTART:20241009T093000Z
+SUMMARY:Organizacja i zarządzanie (wykład)
+UID:1f8996d2-d220-4b62-9288-9db1f990863d@1f89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20241217T114500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20241217T084500Z
+SUMMARY:Podstawy analityki chemicznej (laboratorium)
+UID:76212579-188c-44f3-a0c3-346de3dc8135@7621.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr inż. Lidia Ostasz
+DTEND:20250108T111500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250108T103000Z
+SUMMARY:Podstawy analityki chemicznej (wykład)
+UID:2a1c8599-53cf-4fe6-af1a-d93b65c55f54@2a1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20241114T190000Z
+LOCATION:Paw.U sala O
+DTSTART:20241114T173000Z
+SUMMARY:Ekonomia dla inżynierów (ćwiczenia)
+UID:13d90ee9-f8b8-4f87-8f69-b7c1d04dde6b@13d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241216T101500Z
+LOCATION:Paw.F 715
+DTSTART:20241216T084500Z
+SUMMARY:Kreatywność i myślenie twórcze w rozwoju produktu (konwersatorium)
+UID:bfce1f65-1c45-4a5a-aae8-58f8d06fbe90@bfce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20241029T114500Z
+LOCATION:Sienk. 5 pr. chem. 1
+DTSTART:20241029T084500Z
+SUMMARY:Podstawy analityki chemicznej (laboratorium)
+UID:0aaa3cd7-9d01-4f8e-b3ec-dfc78c313eb7@0aaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241016T091500Z
+LOCATION:Paw.C sala A
+DTSTART:20241016T074500Z
+SUMMARY:Ekonomia dla inżynierów (wykład)
+UID:b87c4d9a-e56f-4786-9821-89ce8ad78067@b87c.org
+END:VEVENT
+END:VCALENDAR

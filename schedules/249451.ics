@@ -1,0 +1,498 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20250109T153000Z
+LOCATION:Paw.F CJ 311
+DTSTART:20250109T140000Z
+SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
+UID:89c91094-71ce-46b8-8e41-76998662d8db@89c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Homoncik
+DTEND:20241218T083000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241218T070000Z
+SUMMARY:Geopolitics and International Conflicts (konwersatorium)
+UID:47127900-6fdd-4686-891d-4ca3c59de1b9@4712.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20250109T171500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20250109T154500Z
+SUMMARY:Text Mining and Social Media Analysis (konwersatorium do wyboru)
+UID:5dbcebe4-8790-4368-af28-79af8ba8dabf@5dbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20250115T101500Z
+LOCATION:Paw.G  7
+DTSTART:20250115T084500Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:254fb758-0195-463f-a17f-1c16bac417c2@254f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20241113T101500Z
+LOCATION:Paw.G  7
+DTSTART:20241113T084500Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:eb535c0c-80fc-48fd-8f8f-4071f28db9e1@eb53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20250122T101500Z
+LOCATION:Paw.G  7
+DTSTART:20250122T084500Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:bef56903-7120-41d7-90da-6dc5e5d1813b@bef5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Homoncik
+DTEND:20241113T083000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241113T070000Z
+SUMMARY:Geopolitics and International Conflicts (konwersatorium)
+UID:e9fcaa83-4f65-4353-bdfd-08fe84beac5d@e9fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20241028T120000Z
+LOCATION:Paw.F 616
+DTSTART:20241028T103000Z
+SUMMARY:Text Mining and Social Media Analysis (konwersatorium do wyboru)
+UID:de871123-a890-456c-89d8-9660d4fef50f@de87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20250116T153000Z
+LOCATION:Paw.F CJ 311
+DTSTART:20250116T140000Z
+SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
+UID:6fcf2a87-0fbf-4220-83c5-e0c383276de1@6fcf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20241205T153000Z
+LOCATION:Paw.F CJ 311
+DTSTART:20241205T140000Z
+SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
+UID:5d21370d-8c67-4472-b4a2-0b66a4523cd9@5d21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20241104T120000Z
+LOCATION:Paw.F 616
+DTSTART:20241104T103000Z
+SUMMARY:Text Mining and Social Media Analysis (konwersatorium do wyboru)
+UID:0f6db8bb-36a9-4bda-b412-f971c48e9af7@0f6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20241009T091500Z
+LOCATION:Paw.G  7
+DTSTART:20241009T074500Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:f9d4b660-9bdd-4796-988e-b74ea0fc4120@f9d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20241007T110000Z
+LOCATION:Paw.F 616
+DTSTART:20241007T093000Z
+SUMMARY:Text Mining and Social Media Analysis (konwersatorium do wyboru)
+UID:a07d5c99-54b2-481c-9844-3c6ddef4fd5b@a07d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20241106T101500Z
+LOCATION:Paw.G  7
+DTSTART:20241106T084500Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:6130d8b7-73d1-4fe0-88b4-a6128665144d@6130.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Homoncik
+DTEND:20250122T083000Z
+LOCATION:Paw.S sala 10
+DTSTART:20250122T070000Z
+SUMMARY:Geopolitics and International Conflicts (konwersatorium)
+UID:e3519782-aef0-43e5-9923-21e1285a96f4@e351.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Homoncik
+DTEND:20250115T083000Z
+LOCATION:Paw.S sala 10
+DTSTART:20250115T070000Z
+SUMMARY:Geopolitics and International Conflicts (konwersatorium)
+UID:70cfc7fa-3fdd-4884-9e7a-54cac9ce5b64@70cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20241017T143000Z
+LOCATION:Paw.F CJ 311
+DTSTART:20241017T130000Z
+SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
+UID:1ada8285-d833-4d88-bf2d-cc185ee94a5c@1ada.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Homoncik
+DTEND:20241009T073000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241009T060000Z
+SUMMARY:Geopolitics and International Conflicts (konwersatorium)
+UID:d6ff2b73-1ffe-4306-96b8-4894d57113e3@d6ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Homoncik
+DTEND:20241204T083000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241204T070000Z
+SUMMARY:Geopolitics and International Conflicts (konwersatorium)
+UID:fce09752-87b6-414f-83c9-dcb2d95cbad3@fce0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20241120T101500Z
+LOCATION:Paw.G  7
+DTSTART:20241120T084500Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:680575b9-6ce0-45a9-80b0-55c594881f8e@6805.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20241118T120000Z
+LOCATION:Paw.F 616
+DTSTART:20241118T103000Z
+SUMMARY:Text Mining and Social Media Analysis (konwersatorium do wyboru)
+UID:f8ba2dfe-3b53-43dd-bb9e-8f9fa1c93e52@f8ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Homoncik
+DTEND:20250108T083000Z
+LOCATION:Paw.S sala 10
+DTSTART:20250108T070000Z
+SUMMARY:Geopolitics and International Conflicts (konwersatorium)
+UID:cf1b71cd-6ea1-4f34-83f3-b0d7de0093f9@cf1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20250108T101500Z
+LOCATION:Paw.G  7
+DTSTART:20250108T084500Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:bef58102-9ab0-472d-8993-dcb519472e0b@bef5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20241127T101500Z
+LOCATION:Paw.G  7
+DTSTART:20241127T084500Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:bf7c299e-59f9-4ff1-8a71-cf086d10df36@bf7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20241023T091500Z
+LOCATION:Paw.G  7
+DTSTART:20241023T074500Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:b9f7e734-45be-4c2d-b308-bddba61205f5@b9f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20241204T101500Z
+LOCATION:Paw.G  7
+DTSTART:20241204T084500Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:176274a5-2932-4563-af6b-4a4ba3d6066b@1762.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20241014T110000Z
+LOCATION:Paw.F 616
+DTSTART:20241014T093000Z
+SUMMARY:Text Mining and Social Media Analysis (konwersatorium do wyboru)
+UID:9acf14e6-e53b-4f44-a44f-2a2d926b04e7@9acf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20241016T091500Z
+LOCATION:Paw.G  7
+DTSTART:20241016T074500Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:0f6eeb83-cc5b-4031-a1f3-4328331b8b7a@0f6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Homoncik
+DTEND:20241030T083000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241030T070000Z
+SUMMARY:Geopolitics and International Conflicts (konwersatorium)
+UID:cfdaca82-d1d8-4c05-963b-30910b6b89b6@cfda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Homoncik
+DTEND:20241023T073000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241023T060000Z
+SUMMARY:Geopolitics and International Conflicts (konwersatorium)
+UID:c5ef2332-d69d-4d36-a740-b78c706b093a@c5ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20241209T120000Z
+LOCATION:Paw.F 616
+DTSTART:20241209T103000Z
+SUMMARY:Text Mining and Social Media Analysis (konwersatorium do wyboru)
+UID:3512d9e0-25a5-4681-b33d-bf506c844019@3512.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20241218T101500Z
+LOCATION:Paw.G  7
+DTSTART:20241218T084500Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:fec3be7a-43cc-4ec2-a905-9160f14b2bc1@fec3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20241128T153000Z
+LOCATION:Paw.F CJ 311
+DTSTART:20241128T140000Z
+SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
+UID:e52349cf-e2d9-4b09-b960-05ead58ab812@e523.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20241010T143000Z
+LOCATION:Paw.F CJ 311
+DTSTART:20241010T130000Z
+SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
+UID:d7617ec8-02e8-498d-ae68-8acb3e978efc@d761.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20250123T153000Z
+LOCATION:Paw.F CJ 311
+DTSTART:20250123T140000Z
+SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
+UID:29b3b2ee-1eb6-4035-94ce-dbfd223e807a@29b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Homoncik
+DTEND:20250113T153000Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20250113T140000Z
+SUMMARY:Geopolitics and International Conflicts (konwersatorium)
+UID:6c1934d0-e153-48db-b225-488d286900c7@6c19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20241031T153000Z
+LOCATION:Paw.F CJ 311
+DTSTART:20241031T140000Z
+SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
+UID:b043ee01-e25d-4b7a-af10-0ca6e4d6b031@b043.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20241202T120000Z
+LOCATION:Paw.F 616
+DTSTART:20241202T103000Z
+SUMMARY:Text Mining and Social Media Analysis (konwersatorium do wyboru)
+UID:71e50e01-a5e0-4ca8-a0db-659be6a10e0b@71e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20241212T153000Z
+LOCATION:Paw.F CJ 311
+DTSTART:20241212T140000Z
+SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
+UID:f7ffb8b6-14dc-4315-a56a-c6f0015d9bbc@f7ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20241125T120000Z
+LOCATION:Paw.F 616
+DTSTART:20241125T103000Z
+SUMMARY:Text Mining and Social Media Analysis (konwersatorium do wyboru)
+UID:14fc0f2c-9745-44c6-a6f1-f7d2c0ed590a@14fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20250120T120000Z
+LOCATION:Paw.F 616
+DTSTART:20250120T103000Z
+SUMMARY:Text Mining and Social Media Analysis (konwersatorium do wyboru)
+UID:4b5d4a95-aeb7-4e2a-99ad-7334c7777b49@4b5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Homoncik
+DTEND:20241120T083000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241120T070000Z
+SUMMARY:Geopolitics and International Conflicts (konwersatorium)
+UID:2d20c71a-a2d5-4b40-b361-aca83c5591a7@2d20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20241211T101500Z
+LOCATION:Paw.G  7
+DTSTART:20241211T084500Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:f01383ed-7314-496e-839f-9357fac8c1a9@f013.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20241219T153000Z
+LOCATION:Paw.F CJ 311
+DTSTART:20241219T140000Z
+SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
+UID:d38e4473-a92d-4a9d-82c4-79008195cd58@d38e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20250113T120000Z
+LOCATION:Paw.F 616
+DTSTART:20250113T103000Z
+SUMMARY:Text Mining and Social Media Analysis (konwersatorium do wyboru)
+UID:ad3b8655-9f05-4490-a92e-5159cbc09c66@ad3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Homoncik
+DTEND:20241127T083000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241127T070000Z
+SUMMARY:Geopolitics and International Conflicts (konwersatorium)
+UID:961d1e31-8b64-4121-ad2b-24d146981bd1@961d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20241107T153000Z
+LOCATION:Paw.F CJ 311
+DTSTART:20241107T140000Z
+SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
+UID:c65e27b5-b256-456a-9f12-125536a1058e@c65e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20241216T120000Z
+LOCATION:Paw.F 616
+DTSTART:20241216T103000Z
+SUMMARY:Text Mining and Social Media Analysis (konwersatorium do wyboru)
+UID:5c8f77f2-ab78-4a4a-9242-9b960f97ddc7@5c8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20241021T110000Z
+LOCATION:Paw.F 616
+DTSTART:20241021T093000Z
+SUMMARY:Text Mining and Social Media Analysis (konwersatorium do wyboru)
+UID:34f36e38-89cc-4dfb-81ee-484b1d5540d2@34f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20241219T171500Z
+LOCATION:Paw.G  8
+DTSTART:20241219T154500Z
+SUMMARY:Text Mining and Social Media Analysis (konwersatorium do wyboru)
+UID:dc24e73a-64e4-45ce-b3f5-1f603056cebc@dc24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20241003T143000Z
+LOCATION:Paw.F CJ 311
+DTSTART:20241003T130000Z
+SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
+UID:87b939b6-514e-424e-8291-e19aab1ed084@87b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20241121T153000Z
+LOCATION:Paw.F CJ 311
+DTSTART:20241121T140000Z
+SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
+UID:ba133e82-161e-410c-990a-5a933af807f3@ba13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Homoncik
+DTEND:20241016T073000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241016T060000Z
+SUMMARY:Geopolitics and International Conflicts (konwersatorium)
+UID:15238aad-6787-477e-8607-bf895a6a520c@1523.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20241024T143000Z
+LOCATION:Paw.F CJ 311
+DTSTART:20241024T130000Z
+SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
+UID:592f3e59-2ced-4b51-9495-0a304f66d036@592f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20250113T134500Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20250113T121500Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:dc083045-8004-481d-9d48-fc85d5d18573@dc08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:00506b5c-215c-4bf1-9ca1-0a168901e988@0050.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Sikorska
+DTEND:20241030T101500Z
+LOCATION:Paw.G  7
+DTSTART:20241030T084500Z
+SUMMARY:Contemporary Cultural Challenges (konwersatorium do wyboru)
+UID:f11ba278-7cce-4b2d-a0d4-f08277387e69@f11b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Homoncik
+DTEND:20241106T083000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241106T070000Z
+SUMMARY:Geopolitics and International Conflicts (konwersatorium)
+UID:5e7e90ed-52a0-44a0-ba65-1575fc1fbcb0@5e7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Lula
+DTEND:20250116T171500Z
+LOCATION:Paw.G  8
+DTSTART:20250116T154500Z
+SUMMARY:Text Mining and Social Media Analysis (konwersatorium do wyboru)
+UID:d80fc8f5-a4dc-42c7-8ea9-65ac23087d69@d80f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:e856104a-e497-48b9-994b-78ced471e6bb@e856.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wojciech Zysk
+DTEND:20241114T153000Z
+LOCATION:Paw.F CJ 311
+DTSTART:20241114T140000Z
+SUMMARY:Fair Trade\, CSR and Sustainability (konwersatorium)
+UID:62717433-cea5-473e-bba0-a1812b23dd85@6271.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Bartłomiej Homoncik
+DTEND:20241211T083000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241211T070000Z
+SUMMARY:Geopolitics and International Conflicts (konwersatorium)
+UID:abd7eedf-adec-4cbb-b0e4-e834a12745b2@abd7.org
+END:VEVENT
+END:VCALENDAR

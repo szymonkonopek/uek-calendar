@@ -1,0 +1,1378 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20250117T134500Z
+LOCATION:Paw.U sala N
+DTSTART:20250117T121500Z
+SUMMARY:System ekonomiczny Rosji (konwersatorium)
+UID:91e5010b-1002-41ed-9674-bad0e6badb24@91e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20250117T144500Z
+LOCATION:Paw.B 151
+DTSTART:20250117T140000Z
+SUMMARY:Systemy polityczne wybranych krajów azjatyckich (ćwiczenia)
+UID:c1fe634d-4a8f-43eb-8867-04f89f54d1d4@c1fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20241108T134500Z
+LOCATION:Paw.U sala N
+DTSTART:20241108T121500Z
+SUMMARY:System ekonomiczny Rosji (konwersatorium)
+UID:4e7c7743-1f14-4ca2-9f9b-f86d03d78cf6@4e7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak
+DTEND:20241113T101500Z
+LOCATION:Bibl. 443
+DTSTART:20241113T084500Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (konwersatorium do wyboru)
+UID:2f692403-8a82-4df6-9bfe-1d88a62e7b10@2f69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:18869edc-b952-42c3-a1d3-e6f6a43b073d@1886.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
+DTEND:20241105T134500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241105T121500Z
+SUMMARY:Międzynarodowa ochrona praw czlowieka (konwersatorium do wyboru)
+UID:423df0ab-041c-4ff3-98b4-e55c1d49bfc5@423d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20241112T171500Z
+LOCATION:Paw.G  7
+DTSTART:20241112T154500Z
+SUMMARY:Rola organizacji pozarządowych w stosunkach międzynarodowych (ćwiczenia)
+UID:00e4eb2c-9abf-4f93-91eb-49d1661e7777@00e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20241014T091500Z
+LOCATION:Bibl. 443
+DTSTART:20241014T074500Z
+SUMMARY:Determinanty aktyw. wybranych krajów rozw.w państwach rozwijajcych się (konwersatorium do wyboru)
+UID:a1fb9783-4980-4414-98f0-b30771654062@a1fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20241213T120000Z
+LOCATION:Paw.B 151
+DTSTART:20241213T103000Z
+SUMMARY:Systemy polityczne wybranych krajów azjatyckich (ćwiczenia)
+UID:e45703b1-0cf2-43f6-bc05-5dfd1f6d06dc@e457.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Jakimowicz
+DTEND:20241127T120000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241127T103000Z
+SUMMARY:Systemy polityczne wybranych krajów azjatyckich (wykład)
+UID:d8fa011c-fa94-49e6-a5e1-60ad8970f3fe@d8fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20241015T143000Z
+LOCATION:Paw.G  7
+DTSTART:20241015T130000Z
+SUMMARY:Rola organizacji pozarządowych w stosunkach międzynarodowych (wykład)
+UID:8abd3f8a-8a68-432f-a554-919891b7637f@8abd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20241115T083000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241115T070000Z
+SUMMARY:Determinanty aktyw. wybranych krajów rozw.w państwach rozwijajcych się (konwersatorium do wyboru)
+UID:2b175c38-bb7b-4e1a-a028-61956629422d@2b17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20241216T101500Z
+LOCATION:Bibl. 443
+DTSTART:20241216T084500Z
+SUMMARY:Determinanty aktyw. wybranych krajów rozw.w państwach rozwijajcych się (konwersatorium do wyboru)
+UID:16d6cf13-b9e8-49a1-9f58-34a5da056c06@16d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20241025T110000Z
+LOCATION:Paw.A 301b
+DTSTART:20241025T093000Z
+SUMMARY:Azja Południowo-Wschodnia i Australia w stosunkach międzynarodowych (ćwiczenia)
+UID:b34ebb7e-963e-4a03-88d5-d7e83690edfc@b34e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241014T124500Z
+LOCATION:Paw.F 107
+DTSTART:20241014T111500Z
+SUMMARY:Azja Południowo-Wschodnia i Australia w stosunkach międzynarodowych (wykład)
+UID:5a077a7b-3375-4462-ba0a-6b3253d3c121@5a07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksander Dańda
+DTEND:20241016T161500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241016T144500Z
+SUMMARY:Polityka zagraniczna i bezpieczeństwa UE (konwersatorium do wyboru)
+UID:bb0d8a6d-c21f-4a1f-adfa-2695cb1624b6@bb0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20241011T110000Z
+LOCATION:Paw.A 301b
+DTSTART:20241011T093000Z
+SUMMARY:Azja Południowo-Wschodnia i Australia w stosunkach międzynarodowych (ćwiczenia)
+UID:3d261d20-a9f3-4a87-a40f-db5083fd4bb6@3d26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241023T143000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241023T130000Z
+SUMMARY:Cyberbezpieczeństwo (konwersatorium do wyboru)
+UID:b0642d75-430e-403e-a72a-4a57bc3d037a@b064.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241209T153000Z
+LOCATION:Paw.U sala O
+DTSTART:20241209T140000Z
+SUMMARY:Przemoc polityczna: teoria\, praktyka\, krytyka (konwersatorium do wyboru)
+UID:a44dee36-0623-432c-8b32-7de4efd66d1d@a44d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksander Dańda
+DTEND:20250115T171500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20250115T154500Z
+SUMMARY:Polityka zagraniczna i bezpieczeństwa UE (konwersatorium do wyboru)
+UID:4f3d6777-7626-4c9b-a27c-47d8040a0431@4f3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20241206T134500Z
+LOCATION:Paw.U sala N
+DTSTART:20241206T121500Z
+SUMMARY:System ekonomiczny Rosji (konwersatorium)
+UID:30a3bd72-d8b3-430e-9737-90eeba8fd407@30a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Tomasz Kwarciński
+DTEND:20241030T153000Z
+LOCATION:Paw.F CJ 208
+DTSTART:20241030T140000Z
+SUMMARY:Moralne granice rynku (konwersatorium do wyboru)
+UID:9577d4e1-61a8-4717-bdf1-919a31c19135@9577.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Tomasz Kwarciński
+DTEND:20241113T153000Z
+LOCATION:Paw.F CJ 208
+DTSTART:20241113T140000Z
+SUMMARY:Moralne granice rynku (konwersatorium do wyboru)
+UID:da7d2200-bb6d-4c7e-b49c-e85b87ec69ef@da7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20250124T134500Z
+LOCATION:Paw.U sala N
+DTSTART:20250124T121500Z
+SUMMARY:System ekonomiczny Rosji (konwersatorium)
+UID:5a947628-4505-40bc-be42-ae5be0fad9e1@5a94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
+DTEND:20250107T134500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20250107T121500Z
+SUMMARY:Międzynarodowa ochrona praw czlowieka (konwersatorium do wyboru)
+UID:cc13c5e0-4b40-4192-b827-a8ebec47d6d6@cc13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
+DTEND:20241001T124500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241001T111500Z
+SUMMARY:Międzynarodowa ochrona praw czlowieka (konwersatorium do wyboru)
+UID:f12ec23a-a274-46ca-bbc9-6ab6ae796944@f12e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Tomasz Kwarciński
+DTEND:20241016T143000Z
+LOCATION:Paw.F CJ 208
+DTSTART:20241016T130000Z
+SUMMARY:Moralne granice rynku (konwersatorium do wyboru)
+UID:99671dce-7b20-4627-be24-68a3a50b35e3@9967.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241028T153000Z
+LOCATION:Paw.U sala O
+DTSTART:20241028T140000Z
+SUMMARY:Przemoc polityczna: teoria\, praktyka\, krytyka (konwersatorium do wyboru)
+UID:1f496c98-53e4-457e-b20c-2084458a0b6f@1f49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20250110T134500Z
+LOCATION:Paw.U sala N
+DTSTART:20250110T121500Z
+SUMMARY:System ekonomiczny Rosji (konwersatorium)
+UID:51070c61-9b6b-40ed-bef7-ad9a6529a552@5107.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20241126T171500Z
+LOCATION:Paw.G  7
+DTSTART:20241126T154500Z
+SUMMARY:Rola organizacji pozarządowych w stosunkach międzynarodowych (ćwiczenia)
+UID:ba45146c-ac93-492c-9776-bc373518d946@ba45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak
+DTEND:20241030T101500Z
+LOCATION:Bibl. 443
+DTSTART:20241030T084500Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (konwersatorium do wyboru)
+UID:560a2947-a012-47f2-bfaf-757868eebf4d@560a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20241022T143000Z
+LOCATION:Paw.G  7
+DTSTART:20241022T130000Z
+SUMMARY:Rola organizacji pozarządowych w stosunkach międzynarodowych (wykład)
+UID:1cb6f635-2a9b-44b1-9fdf-365d7934300f@1cb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20250110T083000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250110T070000Z
+SUMMARY:Determinanty aktyw. wybranych krajów rozw.w państwach rozwijajcych się (konwersatorium do wyboru)
+UID:85f61e52-b985-4102-bdb1-e5a2c3028af7@85f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241007T124500Z
+LOCATION:Paw.F 107
+DTSTART:20241007T111500Z
+SUMMARY:Azja Południowo-Wschodnia i Australia w stosunkach międzynarodowych (wykład)
+UID:0286c42b-2a2b-4679-bfb9-a367ae49d37e@0286.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20241108T120000Z
+LOCATION:Paw.A 301b
+DTSTART:20241108T103000Z
+SUMMARY:Azja Południowo-Wschodnia i Australia w stosunkach międzynarodowych (ćwiczenia)
+UID:a94a1739-5a1b-417c-b842-0bc743c2ed19@a94a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20241011T124500Z
+LOCATION:Paw.U sala N
+DTSTART:20241011T111500Z
+SUMMARY:System ekonomiczny Rosji (konwersatorium)
+UID:9b1f1f23-0983-49f8-96ae-8467f9ffffa4@9b1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20241115T120000Z
+LOCATION:Paw.B 151
+DTSTART:20241115T103000Z
+SUMMARY:Systemy polityczne wybranych krajów azjatyckich (ćwiczenia)
+UID:af18bbf9-cc49-431e-ad80-27eb2f32cb95@af18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20250113T101500Z
+LOCATION:Bibl. 443
+DTSTART:20250113T084500Z
+SUMMARY:Determinanty aktyw. wybranych krajów rozw.w państwach rozwijajcych się (konwersatorium do wyboru)
+UID:ff665646-058f-4fb3-aabf-56993b46f827@ff66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241118T153000Z
+LOCATION:Paw.U sala O
+DTSTART:20241118T140000Z
+SUMMARY:Przemoc polityczna: teoria\, praktyka\, krytyka (konwersatorium do wyboru)
+UID:2e512db9-674b-43be-9b99-c43bb25ce707@2e51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Jakimowicz
+DTEND:20250115T120000Z
+LOCATION:Bud.gł. 9
+DTSTART:20250115T103000Z
+SUMMARY:Systemy polityczne wybranych krajów azjatyckich (wykład)
+UID:57b87549-2b12-4415-ac3a-99c0a57e3e9b@57b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20241209T101500Z
+LOCATION:Bibl. 443
+DTSTART:20241209T084500Z
+SUMMARY:Determinanty aktyw. wybranych krajów rozw.w państwach rozwijajcych się (konwersatorium do wyboru)
+UID:88e92dc1-4335-42e8-aa4d-8d38c568277e@88e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paulina Ledwoń
+DTEND:20250117T101500Z
+LOCATION:Paw.U sala O
+DTSTART:20250117T084500Z
+SUMMARY:Unijny i krajowy system przeciwdz.praniu pien.i finansow.terroryzmu (konwersatorium do wyboru)
+UID:6834fdc3-8e70-4065-add1-53eb98727255@6834.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20241129T134500Z
+LOCATION:Paw.U sala N
+DTSTART:20241129T121500Z
+SUMMARY:System ekonomiczny Rosji (konwersatorium)
+UID:ac086396-eaff-4f76-b167-be48ff52e0ba@ac08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20241108T083000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241108T070000Z
+SUMMARY:Determinanty aktyw. wybranych krajów rozw.w państwach rozwijajcych się (konwersatorium do wyboru)
+UID:e34fbd45-89d4-473f-8812-58bb3134eefc@e34f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksander Dańda
+DTEND:20241106T171500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241106T154500Z
+SUMMARY:Polityka zagraniczna i bezpieczeństwa UE (konwersatorium do wyboru)
+UID:3e75c22b-520b-433c-a0dc-4cf2269428f6@3e75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:a41d9f6b-cf21-4469-998d-4b3046042705@a41d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20241025T124500Z
+LOCATION:Paw.U sala N
+DTSTART:20241025T111500Z
+SUMMARY:System ekonomiczny Rosji (konwersatorium)
+UID:3137c7ab-c6b9-4d3a-9b11-05c937b1cc58@3137.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksander Dańda
+DTEND:20241009T161500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241009T144500Z
+SUMMARY:Polityka zagraniczna i bezpieczeństwa UE (konwersatorium do wyboru)
+UID:3229dea1-b4c9-4abf-aeae-cc7b17b4aa00@3229.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
+DTEND:20241112T134500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241112T121500Z
+SUMMARY:Międzynarodowa ochrona praw czlowieka (konwersatorium do wyboru)
+UID:85585c01-1627-4f84-b7de-868c9b78c5ce@8558.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20241104T101500Z
+LOCATION:Bibl. 443
+DTSTART:20241104T084500Z
+SUMMARY:Determinanty aktyw. wybranych krajów rozw.w państwach rozwijajcych się (konwersatorium do wyboru)
+UID:47b41a97-e667-49d9-adfb-6402bfa21523@47b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksander Dańda
+DTEND:20241120T171500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241120T154500Z
+SUMMARY:Polityka zagraniczna i bezpieczeństwa UE (konwersatorium do wyboru)
+UID:8396b87f-7225-4ec9-bcd1-606493d2ba88@8396.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20250113T153000Z
+LOCATION:Paw.U sala O
+DTSTART:20250113T140000Z
+SUMMARY:Przemoc polityczna: teoria\, praktyka\, krytyka (konwersatorium do wyboru)
+UID:333d0f0b-558c-40af-bf93-f57a308d31e3@333d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20250107T171500Z
+LOCATION:Paw.G  7
+DTSTART:20250107T154500Z
+SUMMARY:Rola organizacji pozarządowych w stosunkach międzynarodowych (ćwiczenia)
+UID:655d61eb-4341-4bcf-a93f-5ac3c594e573@655d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
+DTEND:20241203T134500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241203T121500Z
+SUMMARY:Międzynarodowa ochrona praw czlowieka (konwersatorium do wyboru)
+UID:3baddbd4-a58f-49bb-b3c3-6b527803af9c@3bad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
+DTEND:20241119T134500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241119T121500Z
+SUMMARY:Międzynarodowa ochrona praw czlowieka (konwersatorium do wyboru)
+UID:eeb083c8-3934-4cb9-89cf-a54a915fb1f2@eeb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241219T153000Z
+LOCATION:Paw.F CJ 211
+DTSTART:20241219T140000Z
+SUMMARY:Przemoc polityczna: teoria\, praktyka\, krytyka (konwersatorium do wyboru)
+UID:304071ba-63ba-4d9c-9359-f802e5f5db37@3040.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dzwończyk
+DTEND:20241015T110000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241015T093000Z
+SUMMARY:Polityczne aspekty globalizacji (wykład)
+UID:e5a48540-bdf2-4103-9db5-89ea1e5843ad@e5a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksander Dańda
+DTEND:20250122T171500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20250122T154500Z
+SUMMARY:Polityka zagraniczna i bezpieczeństwa UE (konwersatorium do wyboru)
+UID:b7720e61-9032-4af3-a01f-103b5d15a8df@b772.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20250124T144500Z
+LOCATION:Paw.F 008
+DTSTART:20250124T140000Z
+SUMMARY:Cyberbezpieczeństwo (konwersatorium do wyboru)
+UID:973d38b0-43eb-4cf8-ac7c-109e19ea5d35@973d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241009T143000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241009T130000Z
+SUMMARY:Cyberbezpieczeństwo (konwersatorium do wyboru)
+UID:11d6dde8-7dda-4ae0-8de6-8a2a28d462a4@11d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241114T153000Z
+LOCATION:Bud.gł. 8
+DTSTART:20241114T140000Z
+SUMMARY:Przemoc polityczna: teoria\, praktyka\, krytyka (konwersatorium do wyboru)
+UID:39637a51-c77e-492d-88c5-a2a1f431b68d@3963.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak
+DTEND:20250122T101500Z
+LOCATION:Bibl. 443
+DTSTART:20250122T084500Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (konwersatorium do wyboru)
+UID:3f02a9c9-1e9e-431f-9a32-d42460be6b5b@3f02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Tomasz Kwarciński
+DTEND:20250108T153000Z
+LOCATION:Paw.F CJ 208
+DTSTART:20250108T140000Z
+SUMMARY:Moralne granice rynku (konwersatorium do wyboru)
+UID:5970934d-f285-41ed-8729-482fd2169d5b@5970.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksander Dańda
+DTEND:20241218T171500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241218T154500Z
+SUMMARY:Polityka zagraniczna i bezpieczeństwa UE (konwersatorium do wyboru)
+UID:d4839774-74aa-414c-83f6-de8ddba7cbd5@d483.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241021T143000Z
+LOCATION:Paw.U sala O
+DTSTART:20241021T130000Z
+SUMMARY:Przemoc polityczna: teoria\, praktyka\, krytyka (konwersatorium do wyboru)
+UID:262247a0-9ce1-404a-843a-1c76dbed86f1@2622.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20241125T101500Z
+LOCATION:Bibl. 443
+DTSTART:20241125T084500Z
+SUMMARY:Determinanty aktyw. wybranych krajów rozw.w państwach rozwijajcych się (konwersatorium do wyboru)
+UID:9803a064-ad99-4e8d-8bc7-cf2791f9da6c@9803.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20241021T091500Z
+LOCATION:Bibl. 443
+DTSTART:20241021T074500Z
+SUMMARY:Determinanty aktyw. wybranych krajów rozw.w państwach rozwijajcych się (konwersatorium do wyboru)
+UID:d90ae8da-772d-4161-ab50-e890bec58d9b@d90a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241125T153000Z
+LOCATION:Paw.U sala O
+DTSTART:20241125T140000Z
+SUMMARY:Przemoc polityczna: teoria\, praktyka\, krytyka (konwersatorium do wyboru)
+UID:52f3fd5e-aa75-4fde-bbd6-e8e78ed9082a@52f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dzwończyk
+DTEND:20250114T120000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250114T103000Z
+SUMMARY:Polityczne aspekty globalizacji (wykład)
+UID:dd7da79f-b98d-4b75-a750-cf0daaae32c7@dd7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
+DTEND:20250114T134500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20250114T121500Z
+SUMMARY:Międzynarodowa ochrona praw czlowieka (konwersatorium do wyboru)
+UID:bcaab6a3-fccf-4126-b650-634b3e97e1d1@bcaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
+DTEND:20250121T134500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20250121T121500Z
+SUMMARY:Międzynarodowa ochrona praw czlowieka (konwersatorium do wyboru)
+UID:72a27f62-9365-4b6f-b2bd-eb53f6436666@72a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Tomasz Kwarciński
+DTEND:20241211T153000Z
+LOCATION:Paw.F CJ 208
+DTSTART:20241211T140000Z
+SUMMARY:Moralne granice rynku (konwersatorium do wyboru)
+UID:880042fa-44e0-4e03-bc6f-c3965f343baa@8800.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak
+DTEND:20250108T101500Z
+LOCATION:Bibl. 443
+DTSTART:20250108T084500Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (konwersatorium do wyboru)
+UID:ccaf8039-2297-43f2-91d6-62dd6668e036@ccaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksander Dańda
+DTEND:20241204T171500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241204T154500Z
+SUMMARY:Polityka zagraniczna i bezpieczeństwa UE (konwersatorium do wyboru)
+UID:ed65fffd-544c-48bd-b33e-0e36657e91c9@ed65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksander Dańda
+DTEND:20250108T171500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20250108T154500Z
+SUMMARY:Polityka zagraniczna i bezpieczeństwa UE (konwersatorium do wyboru)
+UID:926a74f6-0c92-42f1-ad45-12038be597d6@926a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20241213T134500Z
+LOCATION:Paw.U sala N
+DTSTART:20241213T121500Z
+SUMMARY:System ekonomiczny Rosji (konwersatorium)
+UID:325c6965-14c2-4a70-b0b1-ff4e2cf6b96e@325c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak
+DTEND:20250120T163000Z
+LOCATION:Bibl. 443
+DTSTART:20250120T154500Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (konwersatorium do wyboru)
+UID:97720e7d-d224-4e4e-b990-92cb3e07d64e@9772.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dzwończyk
+DTEND:20241112T120000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241112T103000Z
+SUMMARY:Polityczne aspekty globalizacji (wykład)
+UID:efd84c41-ab54-4c10-8de3-e076955b0f9e@efd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
+DTEND:20241008T124500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241008T111500Z
+SUMMARY:Międzynarodowa ochrona praw czlowieka (konwersatorium do wyboru)
+UID:c7f770b7-4ad9-4cef-8073-e9d08c74cddf@c7f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20241029T171500Z
+LOCATION:Paw.G  7
+DTSTART:20241029T154500Z
+SUMMARY:Rola organizacji pozarządowych w stosunkach międzynarodowych (ćwiczenia)
+UID:d1f1e18f-2b09-4420-b60a-8c8399b0ffba@d1f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20241210T171500Z
+LOCATION:Paw.G  7
+DTSTART:20241210T154500Z
+SUMMARY:Rola organizacji pozarządowych w stosunkach międzynarodowych (ćwiczenia)
+UID:9d84ad8c-93ad-497b-894d-692c6af71276@9d84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241007T143000Z
+LOCATION:Paw.U sala O
+DTSTART:20241007T130000Z
+SUMMARY:Przemoc polityczna: teoria\, praktyka\, krytyka (konwersatorium do wyboru)
+UID:417e4105-6ef4-40ed-a1cd-97cd52a322a5@417e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paulina Ledwoń
+DTEND:20241122T101500Z
+LOCATION:Paw.U sala O
+DTSTART:20241122T084500Z
+SUMMARY:Unijny i krajowy system przeciwdz.praniu pien.i finansow.terroryzmu (konwersatorium do wyboru)
+UID:7671e416-e4d1-415c-896e-496613fb8028@7671.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241104T153000Z
+LOCATION:Paw.U sala O
+DTSTART:20241104T140000Z
+SUMMARY:Przemoc polityczna: teoria\, praktyka\, krytyka (konwersatorium do wyboru)
+UID:5cae4b7c-0938-490a-ac20-49025df1c6b5@5cae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak
+DTEND:20241211T101500Z
+LOCATION:Bibl. 443
+DTSTART:20241211T084500Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (konwersatorium do wyboru)
+UID:403f3c4b-dd6f-4b0b-85b5-6659be4d5345@403f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksander Dańda
+DTEND:20241023T161500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241023T144500Z
+SUMMARY:Polityka zagraniczna i bezpieczeństwa UE (konwersatorium do wyboru)
+UID:5116b4a9-34d0-48fe-af95-5d41a679dc06@5116.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20241028T101500Z
+LOCATION:Bibl. 443
+DTSTART:20241028T084500Z
+SUMMARY:Determinanty aktyw. wybranych krajów rozw.w państwach rozwijajcych się (konwersatorium do wyboru)
+UID:2f046ac6-ac4b-47fc-be19-90757f3842f6@2f04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dzwończyk
+DTEND:20241029T120000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241029T103000Z
+SUMMARY:Polityczne aspekty globalizacji (wykład)
+UID:0007a050-9e5c-4b9e-afff-6944bbb24a0f@0007.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dzwończyk
+DTEND:20241210T120000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241210T103000Z
+SUMMARY:Polityczne aspekty globalizacji (wykład)
+UID:5739dc5e-4ef4-40f4-ae2c-aa1b3d66318a@5739.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
+DTEND:20241210T134500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241210T121500Z
+SUMMARY:Międzynarodowa ochrona praw czlowieka (konwersatorium do wyboru)
+UID:e37feb92-3679-4378-9650-16f9e74dd495@e37f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dzwończyk
+DTEND:20241119T120000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241119T103000Z
+SUMMARY:Polityczne aspekty globalizacji (wykład)
+UID:f7979c7c-e5d3-4760-a77b-f232bb2e3791@f797.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
+DTEND:20241015T124500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241015T111500Z
+SUMMARY:Międzynarodowa ochrona praw czlowieka (konwersatorium do wyboru)
+UID:b1220773-5467-4562-98d0-87804c6b0e41@b122.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paulina Ledwoń
+DTEND:20250124T083000Z
+LOCATION:Paw.U sala O
+DTSTART:20250124T074500Z
+SUMMARY:Unijny i krajowy system przeciwdz.praniu pien.i finansow.terroryzmu (konwersatorium do wyboru)
+UID:64b8ea58-c476-4a2a-b3f2-ae98ca7580d7@64b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20250120T101500Z
+LOCATION:Bibl. 443
+DTSTART:20250120T084500Z
+SUMMARY:Determinanty aktyw. wybranych krajów rozw.w państwach rozwijajcych się (konwersatorium do wyboru)
+UID:2596ca20-6267-4a3d-886f-3cd75eefba93@2596.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksander Dańda
+DTEND:20250116T171500Z
+LOCATION:Paw.C sala F
+DTSTART:20250116T154500Z
+SUMMARY:Polityka zagraniczna i bezpieczeństwa UE (konwersatorium do wyboru)
+UID:89d0ce7d-1023-4b77-87f1-66d5eba2ae69@89d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Tomasz Kwarciński
+DTEND:20250120T111500Z
+LOCATION:Paw.B 351
+DTSTART:20250120T103000Z
+SUMMARY:Moralne granice rynku (konwersatorium do wyboru)
+UID:2420ab89-2135-4129-8cf9-1c4c02712939@2420.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20250124T153000Z
+LOCATION:Bud.gł. 4
+DTSTART:20250124T144500Z
+SUMMARY:Azja Południowo-Wschodnia i Australia w stosunkach międzynarodowych (ćwiczenia)
+UID:29179c57-13e3-413c-8aaa-1ed5964c9bf1@2917.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20241001T161500Z
+LOCATION:Paw.G  7
+DTSTART:20241001T144500Z
+SUMMARY:Rola organizacji pozarządowych w stosunkach międzynarodowych (ćwiczenia)
+UID:ff36b84f-6b80-469e-8601-fc6e7fc9a5f1@ff36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20241220T120000Z
+LOCATION:Paw.A 301b
+DTSTART:20241220T103000Z
+SUMMARY:Azja Południowo-Wschodnia i Australia w stosunkach międzynarodowych (ćwiczenia)
+UID:738e9072-bedc-49ae-94dc-7f06e14f5c7e@738e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Tomasz Kwarciński
+DTEND:20250122T153000Z
+LOCATION:Paw.F CJ 208
+DTSTART:20250122T140000Z
+SUMMARY:Moralne granice rynku (konwersatorium do wyboru)
+UID:e4108408-9496-4143-8239-7acc5bea4273@e410.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dzwończyk
+DTEND:20241022T110000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241022T093000Z
+SUMMARY:Polityczne aspekty globalizacji (wykład)
+UID:89e219d9-583d-4ae2-b30e-503d58847075@89e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak
+DTEND:20241127T101500Z
+LOCATION:Bibl. 443
+DTSTART:20241127T084500Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (konwersatorium do wyboru)
+UID:a48268a8-4da7-4bbe-a281-ebf650ce3a1e@a482.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Jakimowicz
+DTEND:20241016T110000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241016T093000Z
+SUMMARY:Systemy polityczne wybranych krajów azjatyckich (wykład)
+UID:a8ecd1b3-252e-4cb2-9d7a-8e6bde1f04d6@a8ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dzwończyk
+DTEND:20250121T120000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250121T103000Z
+SUMMARY:Polityczne aspekty globalizacji (wykład)
+UID:584425ba-3cd9-41f6-9865-d3af38a34a67@5844.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20241018T124500Z
+LOCATION:Paw.U sala N
+DTSTART:20241018T111500Z
+SUMMARY:System ekonomiczny Rosji (konwersatorium)
+UID:83ae71c1-4b9f-42ff-9173-35f70e18f753@83ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Jakimowicz
+DTEND:20241030T120000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241030T103000Z
+SUMMARY:Systemy polityczne wybranych krajów azjatyckich (wykład)
+UID:65c1c7a6-1897-404c-b7ec-1af8eccbafb1@65c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paulina Ledwoń
+DTEND:20241206T101500Z
+LOCATION:Paw.U sala O
+DTSTART:20241206T084500Z
+SUMMARY:Unijny i krajowy system przeciwdz.praniu pien.i finansow.terroryzmu (konwersatorium do wyboru)
+UID:a3008b5c-24ae-47a6-a072-1e1d3fa47023@a300.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20241220T134500Z
+LOCATION:Paw.U sala N
+DTSTART:20241220T121500Z
+SUMMARY:System ekonomiczny Rosji (konwersatorium)
+UID:eb67bca6-902e-4ef0-8553-bd6c217f09a8@eb67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20250110T120000Z
+LOCATION:Paw.B 151
+DTSTART:20250110T103000Z
+SUMMARY:Systemy polityczne wybranych krajów azjatyckich (ćwiczenia)
+UID:ed3ff016-273f-4e52-80fb-6527e9abae7e@ed3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Jakimowicz
+DTEND:20241113T120000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241113T103000Z
+SUMMARY:Systemy polityczne wybranych krajów azjatyckich (wykład)
+UID:bc9b22f5-48d5-4ee6-8854-c0b236c894f9@bc9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241118T134500Z
+LOCATION:Paw.F 107
+DTSTART:20241118T121500Z
+SUMMARY:Azja Południowo-Wschodnia i Australia w stosunkach międzynarodowych (wykład)
+UID:04a5ec62-ca8b-4fca-8810-0acf595e9174@04a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksander Dańda
+DTEND:20241030T171500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241030T154500Z
+SUMMARY:Polityka zagraniczna i bezpieczeństwa UE (konwersatorium do wyboru)
+UID:5c3d0949-815b-4dcd-a65d-9b0411edc36e@5c3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20250117T120000Z
+LOCATION:Paw.A 301b
+DTSTART:20250117T103000Z
+SUMMARY:Azja Południowo-Wschodnia i Australia w stosunkach międzynarodowych (ćwiczenia)
+UID:1dd8fa57-e3a6-4870-8b10-4ad2c156c7de@1dd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20250109T153000Z
+LOCATION:Paw.F CJ 211
+DTSTART:20250109T140000Z
+SUMMARY:Przemoc polityczna: teoria\, praktyka\, krytyka (konwersatorium do wyboru)
+UID:bb1d5019-69bc-4549-b0f4-ba48f9cdd605@bb1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksander Dańda
+DTEND:20241113T171500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241113T154500Z
+SUMMARY:Polityka zagraniczna i bezpieczeństwa UE (konwersatorium do wyboru)
+UID:d9dd4d6c-5c6a-474e-abc1-66ffff4cb654@d9dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241202T130000Z
+LOCATION:Paw.F 107
+DTSTART:20241202T121500Z
+SUMMARY:Azja Południowo-Wschodnia i Australia w stosunkach międzynarodowych (wykład)
+UID:da3bed2b-f687-43c5-be26-9b682fbb53cf@da3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20241008T143000Z
+LOCATION:Paw.G  7
+DTSTART:20241008T130000Z
+SUMMARY:Rola organizacji pozarządowych w stosunkach międzynarodowych (wykład)
+UID:94e4e46d-4e59-44fd-a1a9-9c1f387f38cc@94e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20241105T153000Z
+LOCATION:Paw.G  7
+DTSTART:20241105T140000Z
+SUMMARY:Rola organizacji pozarządowych w stosunkach międzynarodowych (wykład)
+UID:ba97d330-2377-4d0c-b41a-2401b63f5b77@ba97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dzwończyk
+DTEND:20250121T083000Z
+LOCATION:Paw.B 057 (KSB)
+DTSTART:20250121T070000Z
+SUMMARY:Polityczne aspekty globalizacji (wykład)
+UID:527bb2f0-6b02-4161-8690-b1d8b616fefb@527b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak
+DTEND:20241016T091500Z
+LOCATION:Bibl. 443
+DTSTART:20241016T074500Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (konwersatorium do wyboru)
+UID:b68c5844-f498-4741-b408-4e8386643892@b68c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241216T153000Z
+LOCATION:Paw.U sala O
+DTSTART:20241216T140000Z
+SUMMARY:Przemoc polityczna: teoria\, praktyka\, krytyka (konwersatorium do wyboru)
+UID:a8b02198-312e-4244-bbf8-040e1521285b@a8b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20241015T161500Z
+LOCATION:Paw.G  7
+DTSTART:20241015T144500Z
+SUMMARY:Rola organizacji pozarządowych w stosunkach międzynarodowych (ćwiczenia)
+UID:8d3f6b76-8c10-417a-82df-c1b950c7066e@8d3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dzwończyk
+DTEND:20241217T120000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241217T103000Z
+SUMMARY:Polityczne aspekty globalizacji (wykład)
+UID:13f1667a-097d-438b-a831-227df767fb40@13f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dzwończyk
+DTEND:20241001T110000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241001T093000Z
+SUMMARY:Polityczne aspekty globalizacji (wykład)
+UID:47fcb731-38cb-4c75-9820-52872ebca7d4@47fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
+DTEND:20241029T134500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241029T121500Z
+SUMMARY:Międzynarodowa ochrona praw czlowieka (konwersatorium do wyboru)
+UID:571b01b0-3698-4040-8035-79a97c621d70@571b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241125T134500Z
+LOCATION:Paw.F 107
+DTSTART:20241125T121500Z
+SUMMARY:Azja Południowo-Wschodnia i Australia w stosunkach międzynarodowych (wykład)
+UID:334d3cfb-b0ab-4212-8f0c-8ed447789652@334d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Jakimowicz
+DTEND:20241211T120000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241211T103000Z
+SUMMARY:Systemy polityczne wybranych krajów azjatyckich (wykład)
+UID:3e6dcc62-26b1-4906-a82a-cd50dac758a1@3e6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dzwończyk
+DTEND:20241105T120000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241105T103000Z
+SUMMARY:Polityczne aspekty globalizacji (wykład)
+UID:0ea1c7db-054e-4f19-8652-04d2796c601e@0ea1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20250115T153000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20250115T140000Z
+SUMMARY:Cyberbezpieczeństwo (konwersatorium do wyboru)
+UID:7c879214-6968-4c0f-9589-1c9579b43eae@7c87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paulina Ledwoń
+DTEND:20241220T101500Z
+LOCATION:Paw.U sala O
+DTSTART:20241220T084500Z
+SUMMARY:Unijny i krajowy system przeciwdz.praniu pien.i finansow.terroryzmu (konwersatorium do wyboru)
+UID:1738451a-134d-4707-a6e6-e235af7439da@1738.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20241001T143000Z
+LOCATION:Paw.G  7
+DTSTART:20241001T130000Z
+SUMMARY:Rola organizacji pozarządowych w stosunkach międzynarodowych (wykład)
+UID:4fb487c8-ebb0-4d79-a7c2-6065c8578ba6@4fb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20241122T134500Z
+LOCATION:Paw.U sala N
+DTSTART:20241122T121500Z
+SUMMARY:System ekonomiczny Rosji (konwersatorium)
+UID:88e6734b-2166-424f-9ae5-b07ba4147958@88e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241218T153000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241218T140000Z
+SUMMARY:Cyberbezpieczeństwo (konwersatorium do wyboru)
+UID:e5b936d0-1341-4428-9751-54fa383ac218@e5b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20241004T124500Z
+LOCATION:Paw.U sala N
+DTSTART:20241004T111500Z
+SUMMARY:System ekonomiczny Rosji (konwersatorium)
+UID:c1d6b045-4457-41b8-a97d-890518c023d4@c1d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20241115T134500Z
+LOCATION:Paw.U sala N
+DTSTART:20241115T121500Z
+SUMMARY:System ekonomiczny Rosji (konwersatorium)
+UID:1a29be6e-a70a-4f6d-a8f7-5f202249ea20@1a29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20241202T101500Z
+LOCATION:Bibl. 443
+DTSTART:20241202T084500Z
+SUMMARY:Determinanty aktyw. wybranych krajów rozw.w państwach rozwijajcych się (konwersatorium do wyboru)
+UID:011e04c7-5abb-47f4-8650-6d46391bdb9e@011e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
+DTEND:20241022T124500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241022T111500Z
+SUMMARY:Międzynarodowa ochrona praw czlowieka (konwersatorium do wyboru)
+UID:ee66d1a5-8fd2-4cfd-a500-5d0482d099f2@ee66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20241029T153000Z
+LOCATION:Paw.G  7
+DTSTART:20241029T140000Z
+SUMMARY:Rola organizacji pozarządowych w stosunkach międzynarodowych (wykład)
+UID:71ebfb2a-3dfd-44fd-8b3c-5d057bc56f77@71eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20241122T120000Z
+LOCATION:Paw.A 301b
+DTSTART:20241122T103000Z
+SUMMARY:Azja Południowo-Wschodnia i Australia w stosunkach międzynarodowych (ćwiczenia)
+UID:d4517607-b349-429c-a9d9-3724a6bccd4b@d451.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dzwończyk
+DTEND:20241126T120000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241126T103000Z
+SUMMARY:Polityczne aspekty globalizacji (wykład)
+UID:23993f50-6661-4942-a0f1-556c7ec76365@2399.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241014T143000Z
+LOCATION:Paw.U sala O
+DTSTART:20241014T130000Z
+SUMMARY:Przemoc polityczna: teoria\, praktyka\, krytyka (konwersatorium do wyboru)
+UID:30627b04-4d0e-431c-97a8-db69bf18146e@3062.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dzwończyk
+DTEND:20250107T120000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250107T103000Z
+SUMMARY:Polityczne aspekty globalizacji (wykład)
+UID:1e9b90fc-191e-4719-b5a1-9e50ff70258a@1e9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20241018T110000Z
+LOCATION:Paw.B 151
+DTSTART:20241018T093000Z
+SUMMARY:Systemy polityczne wybranych krajów azjatyckich (ćwiczenia)
+UID:d4770430-321d-4071-acdc-ec656e206daf@d477.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
+DTEND:20241126T134500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241126T121500Z
+SUMMARY:Międzynarodowa ochrona praw czlowieka (konwersatorium do wyboru)
+UID:af7937f1-869e-45b9-9bd8-0c4d4a1b4d55@af79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paulina Ledwoń
+DTEND:20241011T091500Z
+LOCATION:Paw.U sala O
+DTSTART:20241011T074500Z
+SUMMARY:Unijny i krajowy system przeciwdz.praniu pien.i finansow.terroryzmu (konwersatorium do wyboru)
+UID:f452efde-2fc5-4529-b6f3-a05a818e0b87@f452.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20250113T171500Z
+LOCATION:Paw.F 614
+DTSTART:20250113T154500Z
+SUMMARY:System ekonomiczny Rosji (konwersatorium)
+UID:71b825a7-176d-4886-813d-2aca7a7e0479@71b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Prostak
+DTEND:20241217T134500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241217T121500Z
+SUMMARY:Międzynarodowa ochrona praw czlowieka (konwersatorium do wyboru)
+UID:5ff693f5-97e2-436b-9369-9b110f34061a@5ff6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241202T153000Z
+LOCATION:Paw.U sala O
+DTSTART:20241202T140000Z
+SUMMARY:Przemoc polityczna: teoria\, praktyka\, krytyka (konwersatorium do wyboru)
+UID:b5e46f09-19d6-4383-b0bd-0157e3fa7972@b5e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paulina Ledwoń
+DTEND:20241108T101500Z
+LOCATION:Paw.U sala O
+DTSTART:20241108T084500Z
+SUMMARY:Unijny i krajowy system przeciwdz.praniu pien.i finansow.terroryzmu (konwersatorium do wyboru)
+UID:b58413e3-e896-45ca-a1bf-045ac41ec37c@b584.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20250124T120000Z
+LOCATION:Paw.B 151
+DTSTART:20250124T103000Z
+SUMMARY:Systemy polityczne wybranych krajów azjatyckich (ćwiczenia)
+UID:f26dce44-e319-45a7-a96f-ac5e5d4191c5@f26d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20250121T163000Z
+LOCATION:Paw.G  7
+DTSTART:20250121T154500Z
+SUMMARY:Rola organizacji pozarządowych w stosunkach międzynarodowych (ćwiczenia)
+UID:2816be9b-9aa9-47fc-9138-1691ba97f118@2816.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241106T153000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241106T140000Z
+SUMMARY:Cyberbezpieczeństwo (konwersatorium do wyboru)
+UID:8f406aef-d99d-4207-b991-3a4791355cb6@8f40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Tomasz Kwarciński
+DTEND:20241127T153000Z
+LOCATION:Paw.F CJ 208
+DTSTART:20241127T140000Z
+SUMMARY:Moralne granice rynku (konwersatorium do wyboru)
+UID:2a47bd71-d798-4332-abc9-07cc5d5ae017@2a47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Jakimowicz
+DTEND:20250108T120000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250108T103000Z
+SUMMARY:Systemy polityczne wybranych krajów azjatyckich (wykład)
+UID:a78ba12d-c0dc-4c91-ac32-b4b0c654ed1e@a78b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241028T134500Z
+LOCATION:Paw.F 107
+DTSTART:20241028T121500Z
+SUMMARY:Azja Południowo-Wschodnia i Australia w stosunkach międzynarodowych (wykład)
+UID:8e6965f1-4119-4f5d-aa8a-0d7112584449@8e69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241104T134500Z
+LOCATION:Paw.F 107
+DTSTART:20241104T121500Z
+SUMMARY:Azja Południowo-Wschodnia i Australia w stosunkach międzynarodowych (wykład)
+UID:118bdefa-8126-488f-a4a8-59ce78f3fac1@118b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paulina Ledwoń
+DTEND:20241025T091500Z
+LOCATION:Paw.U sala O
+DTSTART:20241025T074500Z
+SUMMARY:Unijny i krajowy system przeciwdz.praniu pien.i finansow.terroryzmu (konwersatorium do wyboru)
+UID:8e56b08e-8a40-4cb6-8bf9-d62084ecdd15@8e56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20241007T091500Z
+LOCATION:Bibl. 443
+DTSTART:20241007T074500Z
+SUMMARY:Determinanty aktyw. wybranych krajów rozw.w państwach rozwijajcych się (konwersatorium do wyboru)
+UID:72fa2b2e-0d0f-44c7-934e-fb207b83b7e4@72fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20241119T144500Z
+LOCATION:Paw.G  7
+DTSTART:20241119T140000Z
+SUMMARY:Rola organizacji pozarządowych w stosunkach międzynarodowych (wykład)
+UID:371a3a6c-54bd-44ad-90eb-0f176da0dd7d@371a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dzwończyk
+DTEND:20241203T120000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241203T103000Z
+SUMMARY:Polityczne aspekty globalizacji (wykład)
+UID:e68c6579-8b5f-4f7b-8a61-013490d647f6@e68c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20241004T110000Z
+LOCATION:Paw.B 151
+DTSTART:20241004T093000Z
+SUMMARY:Systemy polityczne wybranych krajów azjatyckich (ćwiczenia)
+UID:0763a718-f582-44f6-a533-b77e154c5eab@0763.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241204T153000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241204T140000Z
+SUMMARY:Cyberbezpieczeństwo (konwersatorium do wyboru)
+UID:e0d0b829-ff12-4388-b476-e8b54e7c9ccc@e0d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksander Dańda
+DTEND:20241211T171500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241211T154500Z
+SUMMARY:Polityka zagraniczna i bezpieczeństwa UE (konwersatorium do wyboru)
+UID:2fca1fb7-a0d5-4216-92d2-3a01de8f9246@2fca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Eska-Mikołajewska
+DTEND:20241021T124500Z
+LOCATION:Paw.F 107
+DTSTART:20241021T111500Z
+SUMMARY:Azja Południowo-Wschodnia i Australia w stosunkach międzynarodowych (wykład)
+UID:e2ba445c-a958-4e64-8ad5-9824024558a5@e2ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20241206T120000Z
+LOCATION:Paw.A 301b
+DTSTART:20241206T103000Z
+SUMMARY:Azja Południowo-Wschodnia i Australia w stosunkach międzynarodowych (ćwiczenia)
+UID:b7018717-e9c8-43cc-972a-f1d6772902a2@b701.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20241118T101500Z
+LOCATION:Bibl. 443
+DTSTART:20241118T084500Z
+SUMMARY:Determinanty aktyw. wybranych krajów rozw.w państwach rozwijajcych się (konwersatorium do wyboru)
+UID:d6aa8598-d930-4dad-98b4-3d691532008a@d6aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksander Dańda
+DTEND:20241127T171500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241127T154500Z
+SUMMARY:Polityka zagraniczna i bezpieczeństwa UE (konwersatorium do wyboru)
+UID:e9c1febf-5ebc-4001-a3db-5eeb53e5ac96@e9c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Robert Jakimowicz
+DTEND:20250122T111500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250122T103000Z
+SUMMARY:Systemy polityczne wybranych krajów azjatyckich (wykład)
+UID:d9edd6d6-1750-4a49-8f3c-0c3c1b6fb530@d9ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Głogowski
+DTEND:20241129T120000Z
+LOCATION:Paw.B 151
+DTSTART:20241129T103000Z
+SUMMARY:Systemy polityczne wybranych krajów azjatyckich (ćwiczenia)
+UID:938df01f-4828-42f7-a2fd-9777b31d5714@938d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241120T153000Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241120T140000Z
+SUMMARY:Cyberbezpieczeństwo (konwersatorium do wyboru)
+UID:e7197e02-1f7f-42bd-8c22-9e32e0f57b77@e719.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20250120T153000Z
+LOCATION:Paw.U sala O
+DTSTART:20250120T140000Z
+SUMMARY:Przemoc polityczna: teoria\, praktyka\, krytyka (konwersatorium do wyboru)
+UID:0e455572-27b8-486c-bbbc-e1afe2028189@0e45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Dominika Karwoth-Zielińska
+DTEND:20241112T153000Z
+LOCATION:Paw.G  7
+DTSTART:20241112T140000Z
+SUMMARY:Rola organizacji pozarządowych w stosunkach międzynarodowych (wykład)
+UID:f872b0c2-1ff6-4866-9376-609c2f74a42f@f872.org
+END:VEVENT
+END:VCALENDAR

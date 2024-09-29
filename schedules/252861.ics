@@ -1,0 +1,1074 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:fb47cc92-4cc5-45e7-a2d3-60215fb4801a@fb47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20250117T101500Z
+LOCATION:Paw.F 008
+DTSTART:20250117T084500Z
+SUMMARY:Zarządzanie zmianą w projektach (wykład do wyboru)
+UID:3e6e50bf-2bfa-45e0-a574-3159c0de267c@3e6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20241018T110000Z
+LOCATION:Paw.F 008
+DTSTART:20241018T093000Z
+SUMMARY:Zarządzanie projektami eventowymi (wykład)
+UID:6defc4fa-5af8-4682-96e3-f6a0cc81ea59@6def.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Irena Śliwińska
+DTEND:20241217T083000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241217T070000Z
+SUMMARY:Badania rynku (wykład)
+UID:62ff3dd6-1ec1-42d2-8ebd-2dc72ee3ac5c@62ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Rudnicki
+DTEND:20241119T134500Z
+LOCATION:Bud.gł. 9
+DTSTART:20241119T121500Z
+SUMMARY:Zarządzanie projektami eventowymi (ćwiczenia)
+UID:cf383950-21ca-4fd2-9de7-e6a9db6d49f4@cf38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Irena Śliwińska
+DTEND:20241008T073000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241008T060000Z
+SUMMARY:Badania rynku (wykład)
+UID:fa447c23-e693-4c13-920d-7ab89068eae8@fa44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Irena Śliwińska
+DTEND:20241217T120000Z
+LOCATION:Paw.G - 2
+DTSTART:20241217T103000Z
+SUMMARY:Badania rynku (ćwiczenia)
+UID:55f590e7-d8f6-4d3d-8449-a27baf0a4494@55f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Irena Śliwińska
+DTEND:20241105T083000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241105T070000Z
+SUMMARY:Badania rynku (wykład)
+UID:159b7b90-2b76-41f8-aa91-4fe02efed17c@159b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Rudnicki
+DTEND:20241217T134500Z
+LOCATION:Bud.gł. 9
+DTSTART:20241217T121500Z
+SUMMARY:Zarządzanie projektami eventowymi (ćwiczenia)
+UID:2f9a0598-96af-49af-9092-e60e664a40bc@2f9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Irena Śliwińska
+DTEND:20241022T110000Z
+LOCATION:Paw.G - 2
+DTSTART:20241022T093000Z
+SUMMARY:Badania rynku (ćwiczenia)
+UID:b7048b90-0034-45e0-91c4-5db9b20e47a2@b704.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20250124T101500Z
+LOCATION:Paw.F 008
+DTSTART:20250124T084500Z
+SUMMARY:Zarządzanie zmianą w projektach (wykład do wyboru)
+UID:1c24cdfc-3826-4998-8f3e-797340fe14f3@1c24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20241210T083000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241210T070000Z
+SUMMARY:Budżetowanie w projekcie (wykład)
+UID:371e53a9-8fad-49a4-b5f5-ce68b37c873d@371e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20241108T120000Z
+LOCATION:Paw.F 008
+DTSTART:20241108T103000Z
+SUMMARY:Zarządzanie projektami eventowymi (wykład)
+UID:ce7eebfa-d90d-4eb2-867d-6c295ccd4140@ce7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20241122T101500Z
+LOCATION:Paw.F 008
+DTSTART:20241122T084500Z
+SUMMARY:Zarządzanie zmianą w projektach (wykład do wyboru)
+UID:03292a3c-2b8a-4082-814f-7efbcb25c977@0329.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241107T083000Z
+LOCATION:Paw.F 008
+DTSTART:20241107T070000Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (wykład do wyboru)
+UID:e0924538-12f3-4024-8c69-0e30c292c7dc@e092.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241010T073000Z
+LOCATION:Paw.F 008
+DTSTART:20241010T060000Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (wykład do wyboru)
+UID:861c9901-4b1a-41c4-9a1a-10496548d26c@861c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20241029T083000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241029T070000Z
+SUMMARY:Budżetowanie w projekcie (wykład)
+UID:f1b5fb88-4394-4b2b-809b-e096f6ea881c@f1b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241030T134500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241030T121500Z
+SUMMARY:Profil współczesnego lidera (wykład do wyboru)
+UID:f59076c8-586a-4c63-ba3a-33a12708b76b@f590.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Irena Śliwińska
+DTEND:20241105T120000Z
+LOCATION:Paw.G - 2
+DTSTART:20241105T103000Z
+SUMMARY:Badania rynku (ćwiczenia)
+UID:b8bb73e1-1f03-417c-8f4c-f3cab777a5b9@b8bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20250114T171500Z
+LOCATION:Paw.S sala 4
+DTSTART:20250114T154500Z
+SUMMARY:Profil współczesnego lidera (wykład do wyboru)
+UID:73ea0809-906a-4c7d-94cf-d7af0d95b147@73ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Bober
+DTEND:20241016T110000Z
+LOCATION:Paw.F 008
+DTSTART:20241016T093000Z
+SUMMARY:E-biznes (wykład do wyboru)
+UID:81b1d474-ca7e-4037-bf11-42872f0c6709@81b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Tyrańska
+DTEND:20241218T101500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241218T084500Z
+SUMMARY:Kierowanie zespołem projektowym (wykład)
+UID:c0ca38be-9514-4d3e-bb37-4a88c98d28c0@c0ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20241025T124500Z
+LOCATION:Paw.F 413
+DTSTART:20241025T111500Z
+SUMMARY:Kierowanie zespołem projektowym (ćwiczenia)
+UID:e54bbc62-af6b-4315-a8d8-34f6b82bb1b9@e54b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20241213T101500Z
+LOCATION:Paw.F 008
+DTSTART:20241213T084500Z
+SUMMARY:Zarządzanie zmianą w projektach (wykład do wyboru)
+UID:63bea5f5-b1d8-4d5d-9f41-3aa0a39fd5b2@63be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Woźniak
+DTEND:20241024T091500Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20241024T074500Z
+SUMMARY:Informatyczne wspomaganie zarządzania projektami (ćwiczenia)
+UID:fdbdfc4f-eb49-4010-98d7-9dc89cedf2c8@fdbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241024T073000Z
+LOCATION:Paw.F 008
+DTSTART:20241024T060000Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (wykład do wyboru)
+UID:8697de64-f2e8-4fc6-a96a-cda44223ea59@8697.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Bober
+DTEND:20241204T120000Z
+LOCATION:Paw.F 008
+DTSTART:20241204T103000Z
+SUMMARY:E-biznes (wykład do wyboru)
+UID:4aaaa145-74c0-49f4-8de2-f95f27329c27@4aaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20241126T083000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241126T070000Z
+SUMMARY:Budżetowanie w projekcie (wykład)
+UID:dd8a5e4a-c4fe-4f08-b688-576f06f8529f@dd8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Irena Śliwińska
+DTEND:20241008T110000Z
+LOCATION:Paw.G - 2
+DTSTART:20241008T093000Z
+SUMMARY:Badania rynku (ćwiczenia)
+UID:5f8fc0fe-08cb-4e6f-b3da-954f82ab6d25@5f8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241211T134500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241211T121500Z
+SUMMARY:Profil współczesnego lidera (wykład do wyboru)
+UID:596e742c-ef98-48b3-b147-bc102202f0a1@596e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Rudnicki
+DTEND:20250117T083000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250117T070000Z
+SUMMARY:Zarządzanie projektami eventowymi (ćwiczenia)
+UID:d1fad831-a7d7-4051-83d6-c8bb13b5546b@d1fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20241025T091500Z
+LOCATION:Paw.F 008
+DTSTART:20241025T074500Z
+SUMMARY:Zarządzanie zmianą w projektach (wykład do wyboru)
+UID:689c7333-d3c1-4a4c-907c-0cc9770a9110@689c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20241011T124500Z
+LOCATION:Paw.F 413
+DTSTART:20241011T111500Z
+SUMMARY:Kierowanie zespołem projektowym (ćwiczenia)
+UID:d2e1c24b-d1b9-413e-9b84-22d88a31108e@d2e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Irena Śliwińska
+DTEND:20250109T120000Z
+LOCATION:Paw.F 102
+DTSTART:20250109T111500Z
+SUMMARY:Badania rynku (ćwiczenia)
+UID:2f18824d-4792-4b47-9f50-7ed2c6d04c9c@2f18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Tyrańska
+DTEND:20241204T101500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241204T084500Z
+SUMMARY:Kierowanie zespołem projektowym (wykład)
+UID:c15ee170-be54-45de-9eb3-49a9393d650e@c15e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Woźniak
+DTEND:20241107T101500Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20241107T084500Z
+SUMMARY:Informatyczne wspomaganie zarządzania projektami (ćwiczenia)
+UID:0ef869e2-7d3a-401f-8ea8-d59b9e26d31e@0ef8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20241203T101500Z
+LOCATION:Paw.G - 2
+DTSTART:20241203T084500Z
+SUMMARY:Budżetowanie w projekcie (ćwiczenia)
+UID:dc4774dc-6f9e-4210-b48b-a62e2da41571@dc47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20241004T091500Z
+LOCATION:Paw.F 008
+DTSTART:20241004T074500Z
+SUMMARY:Zarządzanie zmianą w projektach (wykład do wyboru)
+UID:6f1409f3-3ffd-42c3-bde9-4abb7993d86d@6f14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20241220T134500Z
+LOCATION:Paw.F 413
+DTSTART:20241220T121500Z
+SUMMARY:Kierowanie zespołem projektowym (ćwiczenia)
+UID:b215050c-6458-4c4f-bdee-4c2ddf79d83e@b215.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Woźniak
+DTEND:20241205T101500Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20241205T084500Z
+SUMMARY:Informatyczne wspomaganie zarządzania projektami (ćwiczenia)
+UID:74ad5f29-be19-41d1-9ed1-22b349befec6@74ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241219T083000Z
+LOCATION:Paw.F 008
+DTSTART:20241219T070000Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (wykład do wyboru)
+UID:0e4e0fe8-797b-495c-bf79-e781804ea0a1@0e4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241128T083000Z
+LOCATION:Paw.F 008
+DTSTART:20241128T070000Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (wykład do wyboru)
+UID:bef062f7-f8dc-4650-a403-221d1d068ee8@bef0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241016T124500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241016T111500Z
+SUMMARY:Profil współczesnego lidera (wykład do wyboru)
+UID:950ffc24-3c30-4112-a245-2395bf5cbfcb@950f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20250116T083000Z
+LOCATION:Paw.F 008
+DTSTART:20250116T070000Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (wykład do wyboru)
+UID:e15d516e-d5b2-4a22-b858-d8e101240d30@e15d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Bober
+DTEND:20241218T120000Z
+LOCATION:Paw.F 008
+DTSTART:20241218T103000Z
+SUMMARY:E-biznes (wykład do wyboru)
+UID:c003ec49-2d84-4752-b72f-0472464973a8@c003.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Tyrańska
+DTEND:20241106T101500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241106T084500Z
+SUMMARY:Kierowanie zespołem projektowym (wykład)
+UID:ffd86f15-844f-4e8f-9e78-662402e82c39@ffd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Rudnicki
+DTEND:20241105T134500Z
+LOCATION:Bud.gł. 9
+DTSTART:20241105T121500Z
+SUMMARY:Zarządzanie projektami eventowymi (ćwiczenia)
+UID:51e92324-3711-4951-83d3-02504350bd69@51e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Bober
+DTEND:20241211T120000Z
+LOCATION:Paw.F 008
+DTSTART:20241211T103000Z
+SUMMARY:E-biznes (wykład do wyboru)
+UID:3795e2a3-5d5b-4e85-9c6b-f77392bba63d@3795.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20250117T134500Z
+LOCATION:Paw.F 413
+DTSTART:20250117T121500Z
+SUMMARY:Kierowanie zespołem projektowym (ćwiczenia)
+UID:58ac7366-cbf8-4745-be88-33bf6ae61e3b@58ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20250110T101500Z
+LOCATION:Paw.F 008
+DTSTART:20250110T084500Z
+SUMMARY:Zarządzanie zmianą w projektach (wykład do wyboru)
+UID:6d1536e9-4ea7-4edb-a506-4b1b5fba5104@6d15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Rudnicki
+DTEND:20250121T134500Z
+LOCATION:Bud.gł. 9
+DTSTART:20250121T130000Z
+SUMMARY:Zarządzanie projektami eventowymi (ćwiczenia)
+UID:96a6240a-7a2e-477e-a2aa-11f2bd3f3e69@96a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20241206T101500Z
+LOCATION:Paw.F 008
+DTSTART:20241206T084500Z
+SUMMARY:Zarządzanie zmianą w projektach (wykład do wyboru)
+UID:6ad84175-96db-415b-84d6-2c7745f622aa@6ad8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20250107T083000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20250107T070000Z
+SUMMARY:Budżetowanie w projekcie (wykład)
+UID:fe4b602b-3a7d-4936-986e-d886d2517b5d@fe4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241009T124500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241009T111500Z
+SUMMARY:Profil współczesnego lidera (wykład do wyboru)
+UID:f33827d2-eafa-4dca-97a6-942f207a9e1c@f338.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20250122T134500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20250122T121500Z
+SUMMARY:Profil współczesnego lidera (wykład do wyboru)
+UID:c95af479-2e7e-4f9e-8f56-8d40532537bf@c95a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Tyrańska
+DTEND:20250115T101500Z
+LOCATION:Paw.S sala 2
+DTSTART:20250115T084500Z
+SUMMARY:Kierowanie zespołem projektowym (wykład)
+UID:ca06d762-0ea0-4e25-94c3-57c980f208ca@ca06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20241115T101500Z
+LOCATION:Paw.F 008
+DTSTART:20241115T084500Z
+SUMMARY:Zarządzanie zmianą w projektach (wykład do wyboru)
+UID:6991ad54-f39f-4a7c-808e-4e15c40dc54d@6991.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Bober
+DTEND:20250108T120000Z
+LOCATION:Paw.F 008
+DTSTART:20250108T103000Z
+SUMMARY:E-biznes (wykład do wyboru)
+UID:caa1fa31-5b7e-444e-8c70-9407bcf69030@caa1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Woźniak
+DTEND:20241010T091500Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20241010T074500Z
+SUMMARY:Informatyczne wspomaganie zarządzania projektami (ćwiczenia)
+UID:7e50fc96-650b-4830-b3a9-676935af03c6@7e50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Bober
+DTEND:20241127T120000Z
+LOCATION:Paw.F 008
+DTSTART:20241127T103000Z
+SUMMARY:E-biznes (wykład do wyboru)
+UID:c1f52e91-273c-4b75-8183-bbccc3794012@c1f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Irena Śliwińska
+DTEND:20241119T120000Z
+LOCATION:Paw.G - 2
+DTSTART:20241119T103000Z
+SUMMARY:Badania rynku (ćwiczenia)
+UID:95e7d07c-dbb6-4993-b214-ce7c3ae1bd0a@95e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20241129T101500Z
+LOCATION:Paw.F 008
+DTSTART:20241129T084500Z
+SUMMARY:Zarządzanie zmianą w projektach (wykład do wyboru)
+UID:15ac17f8-bbbd-4444-8d2b-0fb9e3b2eb7a@15ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Irena Śliwińska
+DTEND:20250114T120000Z
+LOCATION:Paw.G - 2
+DTSTART:20250114T103000Z
+SUMMARY:Badania rynku (ćwiczenia)
+UID:c0fc8aa3-cea7-4068-96bf-db64ca5b58ce@c0fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Bober
+DTEND:20241106T120000Z
+LOCATION:Paw.F 008
+DTSTART:20241106T103000Z
+SUMMARY:E-biznes (wykład do wyboru)
+UID:4452b167-2559-4932-8325-fcd175cac955@4452.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Bober
+DTEND:20250109T171500Z
+LOCATION:Paw.S sala 3
+DTSTART:20250109T154500Z
+SUMMARY:E-biznes (wykład do wyboru)
+UID:72779b7e-7576-41db-87ab-3958df504f1d@7277.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Woźniak
+DTEND:20250116T101500Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20250116T084500Z
+SUMMARY:Informatyczne wspomaganie zarządzania projektami (ćwiczenia)
+UID:9cda9c5d-c2d6-4767-92dd-d33c478bacd9@9cda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20241122T134500Z
+LOCATION:Paw.F 413
+DTSTART:20241122T121500Z
+SUMMARY:Kierowanie zespołem projektowym (ćwiczenia)
+UID:f303e85d-87a2-47d2-9648-612f7e5c158e@f303.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241121T083000Z
+LOCATION:Paw.F 008
+DTSTART:20241121T070000Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (wykład do wyboru)
+UID:6b710940-8e08-4932-ac99-dc30638816f9@6b71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241017T073000Z
+LOCATION:Paw.F 008
+DTSTART:20241017T060000Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (wykład do wyboru)
+UID:57bfb4b2-7be2-4b20-b14d-eb1b6c2b9bd2@57bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20241122T120000Z
+LOCATION:Paw.F 008
+DTSTART:20241122T103000Z
+SUMMARY:Zarządzanie projektami eventowymi (wykład)
+UID:5eec56fb-3629-4ba5-b9f4-a1d3d61d4e81@5eec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20250115T134500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20250115T121500Z
+SUMMARY:Profil współczesnego lidera (wykład do wyboru)
+UID:c2369192-4fda-41df-9366-7ca56fde396f@c236.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Bober
+DTEND:20241030T120000Z
+LOCATION:Paw.F 008
+DTSTART:20241030T103000Z
+SUMMARY:E-biznes (wykład do wyboru)
+UID:f115e06a-c0d7-4084-9f89-862704eab893@f115.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20241220T120000Z
+LOCATION:Paw.F 008
+DTSTART:20241220T103000Z
+SUMMARY:Zarządzanie projektami eventowymi (wykład)
+UID:647facf4-de23-4b6c-a06a-203678004fbc@647f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241106T134500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241106T121500Z
+SUMMARY:Profil współczesnego lidera (wykład do wyboru)
+UID:7333af01-21e0-46fe-b507-89f29a5f1112@7333.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241120T134500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241120T121500Z
+SUMMARY:Profil współczesnego lidera (wykład do wyboru)
+UID:db12057c-eced-46cc-b95e-a3587da09582@db12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20241119T101500Z
+LOCATION:Paw.G - 2
+DTSTART:20241119T084500Z
+SUMMARY:Budżetowanie w projekcie (ćwiczenia)
+UID:0895741d-18db-4f31-86f7-763324c9d0c1@0895.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Bober
+DTEND:20241113T120000Z
+LOCATION:Paw.F 008
+DTSTART:20241113T103000Z
+SUMMARY:E-biznes (wykład do wyboru)
+UID:18ab9626-bb3e-444b-99da-9d5556897012@18ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:ea13698e-7a5c-4059-baa1-cf8b50b10255@ea13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20241105T101500Z
+LOCATION:Paw.G - 2
+DTSTART:20241105T084500Z
+SUMMARY:Budżetowanie w projekcie (ćwiczenia)
+UID:73003313-c9c8-4175-bb5e-4acc54ac3ab6@7300.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241205T083000Z
+LOCATION:Paw.F 008
+DTSTART:20241205T070000Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (wykład do wyboru)
+UID:b3282044-9b04-46f6-a8e7-70b632087c5e@b328.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20250109T083000Z
+LOCATION:Paw.F 008
+DTSTART:20250109T070000Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (wykład do wyboru)
+UID:5699c780-9739-4fe5-bed1-df471f91d86b@5699.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Irena Śliwińska
+DTEND:20241203T120000Z
+LOCATION:Paw.G - 2
+DTSTART:20241203T103000Z
+SUMMARY:Badania rynku (ćwiczenia)
+UID:d8a847d3-4be2-4976-b9a4-94a3ec2472b1@d8a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241127T134500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241127T121500Z
+SUMMARY:Profil współczesnego lidera (wykład do wyboru)
+UID:1e774136-3bb9-4f9c-8a50-47b864c14276@1e77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20241018T091500Z
+LOCATION:Paw.F 008
+DTSTART:20241018T074500Z
+SUMMARY:Zarządzanie zmianą w projektach (wykład do wyboru)
+UID:6de780b5-0c14-419e-b0a4-39ebdc5cb314@6de7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Woźniak
+DTEND:20241219T101500Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20241219T084500Z
+SUMMARY:Informatyczne wspomaganie zarządzania projektami (ćwiczenia)
+UID:51192654-2370-4c07-868c-8a1f07cb8aaa@5119.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20250121T083000Z
+LOCATION:Paw.F 413
+DTSTART:20250121T074500Z
+SUMMARY:Budżetowanie w projekcie (ćwiczenia)
+UID:4f17e556-37dc-4f22-b66e-5fb0ae4a9bb4@4f17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20241011T091500Z
+LOCATION:Paw.F 008
+DTSTART:20241011T074500Z
+SUMMARY:Zarządzanie zmianą w projektach (wykład do wyboru)
+UID:6198a778-a581-466e-ad58-90bec20d12c5@6198.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20241004T110000Z
+LOCATION:Paw.F 008
+DTSTART:20241004T093000Z
+SUMMARY:Zarządzanie projektami eventowymi (wykład)
+UID:d9332a1f-86a1-4bb8-a7a3-31f121ce787c@d933.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Rudnicki
+DTEND:20241203T134500Z
+LOCATION:Bud.gł. 9
+DTSTART:20241203T121500Z
+SUMMARY:Zarządzanie projektami eventowymi (ćwiczenia)
+UID:400740d2-ad47-464e-b992-2a43de393e3c@4007.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20241022T091500Z
+LOCATION:Paw.G - 2
+DTSTART:20241022T074500Z
+SUMMARY:Budżetowanie w projekcie (ćwiczenia)
+UID:8d1d4fad-6ecf-46b8-94d9-adca580b2fcb@8d1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Tyrańska
+DTEND:20241120T101500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241120T084500Z
+SUMMARY:Kierowanie zespołem projektowym (wykład)
+UID:4c2c64b6-375e-4cbd-a481-dbb1be6b94e8@4c2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20241008T091500Z
+LOCATION:Paw.G - 2
+DTSTART:20241008T074500Z
+SUMMARY:Budżetowanie w projekcie (ćwiczenia)
+UID:787ea326-f209-4ed6-bc4a-d9d793b3a238@787e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20241206T120000Z
+LOCATION:Paw.F 008
+DTSTART:20241206T103000Z
+SUMMARY:Zarządzanie projektami eventowymi (wykład)
+UID:338b798e-2648-4182-b67a-42b948ab126f@338b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20241112T083000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241112T070000Z
+SUMMARY:Budżetowanie w projekcie (wykład)
+UID:585e5637-65a0-49b9-8482-8f43b8d2cd8d@585e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Irena Śliwińska
+DTEND:20241022T073000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241022T060000Z
+SUMMARY:Badania rynku (wykład)
+UID:78deb1a6-acb5-4906-822c-1e01149f9547@78de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20241015T073000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241015T060000Z
+SUMMARY:Budżetowanie w projekcie (wykład)
+UID:39867b6f-e003-48af-8304-7b8affc91629@3986.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Tyrańska
+DTEND:20241009T091500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241009T074500Z
+SUMMARY:Kierowanie zespołem projektowym (wykład)
+UID:aa00d997-161d-4b80-a643-f6d270d127f0@aa00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Rudnicki
+DTEND:20241022T124500Z
+LOCATION:Bud.gł. 9
+DTSTART:20241022T111500Z
+SUMMARY:Zarządzanie projektami eventowymi (ćwiczenia)
+UID:ce9eaf9d-0c02-40be-a645-eb1f686cb858@ce9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Irena Śliwińska
+DTEND:20241203T083000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241203T070000Z
+SUMMARY:Badania rynku (wykład)
+UID:9f93ad53-50ea-416a-9658-21625791f0d1@9f93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Woźniak
+DTEND:20250116T111500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20250116T103000Z
+SUMMARY:Informatyczne wspomaganie zarządzania projektami (ćwiczenia)
+UID:e87edbc3-8b72-41dc-b3bb-c44bac6d374e@e87e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241204T134500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241204T121500Z
+SUMMARY:Profil współczesnego lidera (wykład do wyboru)
+UID:0b59e0c1-3721-48ba-be77-399e7d9f1891@0b59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241113T134500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241113T121500Z
+SUMMARY:Profil współczesnego lidera (wykład do wyboru)
+UID:c577ccc8-a135-4aec-9a36-1ec324aac902@c577.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20250108T171500Z
+LOCATION:Paw.C sala D
+DTSTART:20250108T154500Z
+SUMMARY:Zarządzanie zmianą w projektach (wykład do wyboru)
+UID:70332b30-287b-4325-a1cc-28e2cac7af88@7033.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20241220T101500Z
+LOCATION:Paw.F 008
+DTSTART:20241220T084500Z
+SUMMARY:Zarządzanie zmianą w projektach (wykład do wyboru)
+UID:3104b2d8-ae56-493b-ad17-40b8b4ef845c@3104.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241212T083000Z
+LOCATION:Paw.F 008
+DTSTART:20241212T070000Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (wykład do wyboru)
+UID:0110e107-4d57-4f65-ae6a-9f6acb8a206c@0110.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20250121T074500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20250121T070000Z
+SUMMARY:Budżetowanie w projekcie (wykład)
+UID:71efdd52-ecd0-4eb8-9ef7-1e74500e38b9@71ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Tyrańska
+DTEND:20250120T120000Z
+LOCATION:Paw.S sala 2
+DTSTART:20250120T111500Z
+SUMMARY:Kierowanie zespołem projektowym (wykład)
+UID:e6a8bd6c-d893-4822-b2aa-a87795ee6af3@e6a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241114T083000Z
+LOCATION:Paw.F 008
+DTSTART:20241114T070000Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (wykład do wyboru)
+UID:df1c12cc-185b-4dd1-b8dc-41e4baf35926@df1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241218T134500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241218T121500Z
+SUMMARY:Profil współczesnego lidera (wykład do wyboru)
+UID:f59bb558-82e4-4f14-af8c-0598c9caa3dc@f59b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Bober
+DTEND:20250122T120000Z
+LOCATION:Paw.F 008
+DTSTART:20250122T103000Z
+SUMMARY:E-biznes (wykład do wyboru)
+UID:fc3b1374-e0a3-4435-94da-2f3abd21e8b1@fc3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241031T083000Z
+LOCATION:Paw.F 008
+DTSTART:20241031T070000Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (wykład do wyboru)
+UID:908dfc10-2c76-42a8-83b7-74cc4ec6d49c@908d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Irena Śliwińska
+DTEND:20250109T111500Z
+LOCATION:Paw.S sala 6
+DTSTART:20250109T103000Z
+SUMMARY:Badania rynku (wykład)
+UID:4f577707-5245-4428-9f31-b4b780fe5fea@4f57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Małgorzata Tyrańska
+DTEND:20241023T091500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241023T074500Z
+SUMMARY:Kierowanie zespołem projektowym (wykład)
+UID:c1b98ec3-42a8-4018-8b71-996e330482cd@c1b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241023T124500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241023T111500Z
+SUMMARY:Profil współczesnego lidera (wykład do wyboru)
+UID:d26bc947-ff78-4c8c-8351-08549c8fe4c3@d26b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Woźniak
+DTEND:20241121T101500Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20241121T084500Z
+SUMMARY:Informatyczne wspomaganie zarządzania projektami (ćwiczenia)
+UID:3ce81a99-0b40-4531-a656-1914029394e4@3ce8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20241001T073000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241001T060000Z
+SUMMARY:Budżetowanie w projekcie (wykład)
+UID:a5b99e16-d37e-473d-83f3-7a63dae4a37b@a5b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Bober
+DTEND:20250124T120000Z
+LOCATION:Paw.F 415
+DTSTART:20250124T103000Z
+SUMMARY:E-biznes (wykład do wyboru)
+UID:3592524b-e9d7-45c6-908a-85d6b7d0814b@3592.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20250123T120000Z
+LOCATION:Paw.S sala 8
+DTSTART:20250123T111500Z
+SUMMARY:Zarządzanie projektami eventowymi (wykład)
+UID:24a966b8-ee67-4522-b7f9-f5bda6c71906@24a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20250108T134500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20250108T121500Z
+SUMMARY:Profil współczesnego lidera (wykład do wyboru)
+UID:93be1fb0-d180-4f23-8e09-ce6eb329d025@93be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Bober
+DTEND:20241009T110000Z
+LOCATION:Paw.F 008
+DTSTART:20241009T093000Z
+SUMMARY:E-biznes (wykład do wyboru)
+UID:a8159c38-a7e2-4664-a244-8fde84e5914c@a815.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20241217T101500Z
+LOCATION:Paw.G - 2
+DTSTART:20241217T084500Z
+SUMMARY:Budżetowanie w projekcie (ćwiczenia)
+UID:ad2f02ee-2c02-42c2-8b97-eee319ffb997@ad2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Irena Śliwińska
+DTEND:20241119T083000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20241119T070000Z
+SUMMARY:Badania rynku (wykład)
+UID:86ab59ec-86e4-4751-a146-f182c0a224e1@86ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Bober
+DTEND:20241120T120000Z
+LOCATION:Paw.F 008
+DTSTART:20241120T103000Z
+SUMMARY:E-biznes (wykład do wyboru)
+UID:ac08b3ab-a184-4fb3-b358-2819bd1549f8@ac08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Irena Śliwińska
+DTEND:20250114T083000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20250114T070000Z
+SUMMARY:Badania rynku (wykład)
+UID:ef6eabe8-82e2-48d4-baf2-c59c33ce1f1b@ef6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20241206T134500Z
+LOCATION:Paw.F 413
+DTSTART:20241206T121500Z
+SUMMARY:Kierowanie zespołem projektowym (ćwiczenia)
+UID:919a87b9-fde5-4bd6-8e80-e87fece0ecd8@919a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Bober
+DTEND:20250115T120000Z
+LOCATION:Paw.F 008
+DTSTART:20250115T103000Z
+SUMMARY:E-biznes (wykład do wyboru)
+UID:0b036722-8493-4678-996e-56237ce9f64c@0b03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20250123T083000Z
+LOCATION:Paw.F 008
+DTSTART:20250123T070000Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (wykład do wyboru)
+UID:109fdeb8-8245-4600-bedc-85f9d6816535@109f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20250122T153000Z
+LOCATION:Paw.F 516
+DTSTART:20250122T144500Z
+SUMMARY:Kierowanie zespołem projektowym (ćwiczenia)
+UID:f4a4d27e-1f6d-4597-b89c-a73523d36c3a@f4a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Borodako
+DTEND:20250117T120000Z
+LOCATION:Paw.F 008
+DTSTART:20250117T103000Z
+SUMMARY:Zarządzanie projektami eventowymi (wykład)
+UID:3e8b59a8-3cd9-465c-a766-a102c98760fb@3e8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Ireneusz Rynduch
+DTEND:20241108T134500Z
+LOCATION:Paw.F 413
+DTSTART:20241108T121500Z
+SUMMARY:Kierowanie zespołem projektowym (ćwiczenia)
+UID:a9d76fdd-1fae-42a9-8dc2-3b505a0b9b77@a9d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241003T073000Z
+LOCATION:Paw.F 008
+DTSTART:20241003T060000Z
+SUMMARY:Zapobieganie oszustwom biznesowym w przedsiębiorstwach międzynarodowyc (wykład do wyboru)
+UID:2a661149-4f20-4d7a-9dbe-439656a7f5a3@2a66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Anna Prusak
+DTEND:20250114T101500Z
+LOCATION:Paw.G - 2
+DTSTART:20250114T084500Z
+SUMMARY:Budżetowanie w projekcie (ćwiczenia)
+UID:671b2fa5-9c13-4aa4-a64a-66075413675e@671b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Gorzelany-Dziadkowiec
+DTEND:20241108T101500Z
+LOCATION:Paw.F 008
+DTSTART:20241108T084500Z
+SUMMARY:Zarządzanie zmianą w projektach (wykład do wyboru)
+UID:9614870e-5821-43af-b116-120fd6502936@9614.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Rudnicki
+DTEND:20250114T134500Z
+LOCATION:Bud.gł. 9
+DTSTART:20250114T121500Z
+SUMMARY:Zarządzanie projektami eventowymi (ćwiczenia)
+UID:e69f240a-bf57-430c-9de3-67d413ea6e9a@e69f.org
+END:VEVENT
+END:VCALENDAR

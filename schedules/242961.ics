@@ -1,0 +1,898 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20250121T134500Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20250121T121500Z
+SUMMARY:Podstawy rachunkowości i budżetowania projektów unijnych (ćwiczenia)
+UID:27e5fa17-e35f-4d42-bcea-38321029e99e@27e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20241015T124500Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241015T111500Z
+SUMMARY:Podstawy rachunkowości i budżetowania projektów unijnych (ćwiczenia)
+UID:e209d987-93cd-4b32-ab47-34b1faadb33a@e209.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Bąba
+DTEND:20241217T083000Z
+LOCATION:Paw.F 106
+DTSTART:20241217T070000Z
+SUMMARY:Marketing międzynarodowy (wykład)
+UID:d1e6b900-9e25-46a9-ad3b-7ef6166ce47a@d1e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20241009T073000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241009T060000Z
+SUMMARY:Elementy statystyki międzynarodowej (ćwiczenia)
+UID:2ee9738d-19d4-4ca2-83b9-f5c2d9d97852@2ee9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20241104T100000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241104T074500Z
+SUMMARY:Pozyskiwanie funduszy unijnych (konwersatorium)
+UID:b4e65d01-977e-4449-863d-a9c4971f5333@b4e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Bąba
+DTEND:20250107T083000Z
+LOCATION:Paw.F 106
+DTSTART:20250107T070000Z
+SUMMARY:Marketing międzynarodowy (wykład)
+UID:1bfebff7-3af0-4688-a98e-28e80eb1e1be@1bfe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Benedykt Olszewski
+DTEND:20250114T101500Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20250114T084500Z
+SUMMARY:Protokół dyplomatyczny (konwersatorium do wyboru)
+UID:47ea85d2-7d2c-4908-9d8d-26d2ee3a46ef@47ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Pleśniarska
+DTEND:20241120T124500Z
+LOCATION:.
+DTSTART:20241120T111500Z
+SUMMARY: (rezerwacja)
+UID:eb754110-9467-4aad-be34-c45019ef2099@eb75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
+DTEND:20241218T101500Z
+LOCATION:Bibl. 443
+DTSTART:20241218T084500Z
+SUMMARY:Elementy statystyki międzynarodowej (wykład)
+UID:6a7af43d-65b7-41d5-9d23-ff1523f461d5@6a7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Benedykt Olszewski
+DTEND:20241008T091500Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20241008T074500Z
+SUMMARY:Protokół dyplomatyczny (konwersatorium do wyboru)
+UID:ba527976-7104-4858-9799-ae48681b9df2@ba52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Bąba
+DTEND:20241104T134500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241104T121500Z
+SUMMARY:Marketing międzynarodowy (ćwiczenia)
+UID:c8d4af0d-3094-42ae-9504-f175df54c2aa@c8d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20250124T124500Z
+LOCATION:Bud.gł. 6
+DTSTART:20250124T103000Z
+SUMMARY:Pozyskiwanie funduszy unijnych (konwersatorium)
+UID:d2e7b891-41c3-4097-8ddc-b55c7e3b5589@d2e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20241210T134500Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241210T121500Z
+SUMMARY:Podstawy rachunkowości i budżetowania projektów unijnych (ćwiczenia)
+UID:f72938cf-e400-4c77-945b-e037b61e7249@f729.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Benedykt Olszewski
+DTEND:20241203T101500Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20241203T084500Z
+SUMMARY:Protokół dyplomatyczny (konwersatorium do wyboru)
+UID:6e877302-2da2-4fe5-ae16-a5b21c09621a@6e87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Bąba
+DTEND:20250114T083000Z
+LOCATION:Paw.F 106
+DTSTART:20250114T070000Z
+SUMMARY:Marketing międzynarodowy (wykład)
+UID:07fcb57c-9763-46da-98c4-b5fdde3de15b@07fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20241126T120000Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241126T103000Z
+SUMMARY:Podstawy rachunkowości i budżetowania projektów unijnych (wykład)
+UID:0979b195-6978-486a-b98b-dd0accf5a8d8@0979.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Bąba
+DTEND:20241218T134500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241218T121500Z
+SUMMARY:Marketing międzynarodowy (ćwiczenia)
+UID:2f527971-8cad-48b1-9118-1abca34adff0@2f52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Benedykt Olszewski
+DTEND:20241001T180000Z
+LOCATION:Paw.C sala B
+DTSTART:20241001T163000Z
+SUMMARY:Protokół dyplomatyczny (konwersatorium do wyboru)
+UID:9b3941a8-890f-45e8-82de-f029fbe3d3d3@9b39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20241217T134500Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241217T121500Z
+SUMMARY:Podstawy rachunkowości i budżetowania projektów unijnych (ćwiczenia)
+UID:225829a0-9b78-448b-a67a-df6841642188@2258.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Bąba
+DTEND:20241118T134500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241118T121500Z
+SUMMARY:Marketing międzynarodowy (ćwiczenia)
+UID:e2b9a621-d084-4b51-b644-da8f24295d9f@e2b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
+DTEND:20250115T101500Z
+LOCATION:Bibl. 443
+DTSTART:20250115T084500Z
+SUMMARY:Elementy statystyki międzynarodowej (wykład)
+UID:53381c21-f582-4279-b4bd-5a619b4ef182@5338.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20241112T134500Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241112T121500Z
+SUMMARY:Podstawy rachunkowości i budżetowania projektów unijnych (ćwiczenia)
+UID:37d2e091-f928-46e7-a077-28f3fdc25ac9@37d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Bąba
+DTEND:20241216T134500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241216T121500Z
+SUMMARY:Marketing międzynarodowy (ćwiczenia)
+UID:f81ea502-3e86-4fa2-9082-4bc7e2946887@f81e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Bąba
+DTEND:20241001T073000Z
+LOCATION:Paw.F 106
+DTSTART:20241001T060000Z
+SUMMARY:Marketing międzynarodowy (wykład)
+UID:a898cb12-37f7-4f73-bed7-14d98091cc41@a898.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Bąba
+DTEND:20241105T083000Z
+LOCATION:Paw.F 106
+DTSTART:20241105T070000Z
+SUMMARY:Marketing międzynarodowy (wykład)
+UID:a8c4ef36-59f0-4989-8b09-e685ec3e2b61@a8c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20241202T100000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241202T074500Z
+SUMMARY:Pozyskiwanie funduszy unijnych (konwersatorium)
+UID:1ebbc11d-7f84-4f81-bd29-a57b6eda0e6d@1ebb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20241015T110000Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241015T093000Z
+SUMMARY:Podstawy rachunkowości i budżetowania projektów unijnych (wykład)
+UID:e54d2f82-1242-4f01-8e74-ea5464e46e53@e54d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20250115T083000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250115T070000Z
+SUMMARY:Elementy statystyki międzynarodowej (ćwiczenia)
+UID:b3d95b49-aed6-4e6a-80fa-d50733c9ff8d@b3d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Pleśniarska
+DTEND:20241127T124500Z
+LOCATION:.
+DTSTART:20241127T111500Z
+SUMMARY: (rezerwacja)
+UID:7bff8084-c227-4371-804d-5eb71cfced4b@7bff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Pleśniarska
+DTEND:20241009T114500Z
+LOCATION:.
+DTSTART:20241009T101500Z
+SUMMARY: (rezerwacja)
+UID:6230b294-36d9-4cbb-908c-fd6c9ad94023@6230.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20241126T134500Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241126T121500Z
+SUMMARY:Podstawy rachunkowości i budżetowania projektów unijnych (ćwiczenia)
+UID:3d913dd7-de71-4895-8c53-48b1791b029c@3d91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20241022T124500Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241022T111500Z
+SUMMARY:Podstawy rachunkowości i budżetowania projektów unijnych (ćwiczenia)
+UID:464e8cf8-2b6e-41d1-88d2-f4d4fca1e0a9@464e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20241028T100000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241028T074500Z
+SUMMARY:Pozyskiwanie funduszy unijnych (konwersatorium)
+UID:8559b61d-0758-4938-a73d-ae4e035f88cd@8559.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Bąba
+DTEND:20250121T083000Z
+LOCATION:Paw.F 106
+DTSTART:20250121T070000Z
+SUMMARY:Marketing międzynarodowy (wykład)
+UID:89653120-59ca-4c55-92f6-54f39f81fdd2@8965.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Bąba
+DTEND:20241210T083000Z
+LOCATION:Paw.F 106
+DTSTART:20241210T070000Z
+SUMMARY:Marketing międzynarodowy (wykład)
+UID:dea72097-3f50-42be-a729-0c4e908a88db@dea7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Pleśniarska
+DTEND:20241204T124500Z
+LOCATION:.
+DTSTART:20241204T111500Z
+SUMMARY: (rezerwacja)
+UID:d1ad2967-365a-4617-b67a-12a6d4a78987@d1ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20250107T134500Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20250107T121500Z
+SUMMARY:Podstawy rachunkowości i budżetowania projektów unijnych (ćwiczenia)
+UID:9cf0411e-159d-4eb9-8f12-a02d6cdf37db@9cf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Benedykt Olszewski
+DTEND:20250107T101500Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20250107T084500Z
+SUMMARY:Protokół dyplomatyczny (konwersatorium do wyboru)
+UID:2e9a3975-cea4-44b9-94f9-30442e200e07@2e9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20241029T134500Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241029T121500Z
+SUMMARY:Podstawy rachunkowości i budżetowania projektów unijnych (ćwiczenia)
+UID:543db0f0-9262-424b-a4eb-72542f331a5e@543d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Bąba
+DTEND:20241203T083000Z
+LOCATION:Paw.F 106
+DTSTART:20241203T070000Z
+SUMMARY:Marketing międzynarodowy (wykład)
+UID:760138d8-8215-4a58-b218-05cf2ea5ddfc@7601.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Pleśniarska
+DTEND:20241016T114500Z
+LOCATION:.
+DTSTART:20241016T101500Z
+SUMMARY: (rezerwacja)
+UID:38800706-b33e-4441-b91e-8d908666ec48@3880.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Bąba
+DTEND:20241119T083000Z
+LOCATION:Paw.F 106
+DTSTART:20241119T070000Z
+SUMMARY:Marketing międzynarodowy (wykład)
+UID:ccbd2b27-ac5e-4d27-946f-b1aa6e3bf980@ccbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20241125T100000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241125T074500Z
+SUMMARY:Pozyskiwanie funduszy unijnych (konwersatorium)
+UID:76e6772a-6ce0-45bc-b3b3-8c81dcf27ee5@76e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20241218T083000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241218T070000Z
+SUMMARY:Elementy statystyki międzynarodowej (ćwiczenia)
+UID:4d23d0ff-0222-4b14-a3da-945c34d96186@4d23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20241216T100000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241216T074500Z
+SUMMARY:Pozyskiwanie funduszy unijnych (konwersatorium)
+UID:36c2639f-7c58-45ad-b152-52a4665742cd@36c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Benedykt Olszewski
+DTEND:20241105T101500Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20241105T084500Z
+SUMMARY:Protokół dyplomatyczny (konwersatorium do wyboru)
+UID:1186075f-ec52-4d65-95fe-854db24b21cd@1186.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Bąba
+DTEND:20241029T083000Z
+LOCATION:Paw.F 106
+DTSTART:20241029T070000Z
+SUMMARY:Marketing międzynarodowy (wykład)
+UID:77516b0b-6d03-4457-b348-95ffed410586@7751.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Bąba
+DTEND:20241209T134500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241209T121500Z
+SUMMARY:Marketing międzynarodowy (ćwiczenia)
+UID:edf03e04-1753-419d-92ee-3cf24af9601f@edf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Bąba
+DTEND:20241202T134500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241202T121500Z
+SUMMARY:Marketing międzynarodowy (ćwiczenia)
+UID:096481a9-1fd1-47be-909c-7b31e03a7a32@0964.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20241023T073000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241023T060000Z
+SUMMARY:Elementy statystyki międzynarodowej (ćwiczenia)
+UID:d4fb895f-e31f-4585-8444-9afa3fbf8fb4@d4fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Pleśniarska
+DTEND:20241106T124500Z
+LOCATION:.
+DTSTART:20241106T111500Z
+SUMMARY: (rezerwacja)
+UID:31cd02bc-4123-4d5a-9d03-a688b4c4ba41@31cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Bąba
+DTEND:20241125T134500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241125T121500Z
+SUMMARY:Marketing międzynarodowy (ćwiczenia)
+UID:43f8e541-539f-43cb-9930-a13c41e03934@43f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Benedykt Olszewski
+DTEND:20241119T101500Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20241119T084500Z
+SUMMARY:Protokół dyplomatyczny (konwersatorium do wyboru)
+UID:8202ea0a-7a5e-4fd7-b61c-8e92cede858e@8202.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Benedykt Olszewski
+DTEND:20241015T091500Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20241015T074500Z
+SUMMARY:Protokół dyplomatyczny (konwersatorium do wyboru)
+UID:03f427f4-5076-4e2b-bece-2bd33ce6d189@03f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20250123T120000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250123T111500Z
+SUMMARY:Elementy statystyki międzynarodowej (ćwiczenia)
+UID:1a85296a-c09c-437d-8cca-ed18e0449374@1a85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:33654432-7cd3-49c0-b063-e3f20db3a369@3365.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Bąba
+DTEND:20241008T073000Z
+LOCATION:Paw.F 106
+DTSTART:20241008T060000Z
+SUMMARY:Marketing międzynarodowy (wykład)
+UID:ba9370ba-ebd9-433e-883e-ddca75e4d406@ba93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Bąba
+DTEND:20241021T124500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241021T111500Z
+SUMMARY:Marketing międzynarodowy (ćwiczenia)
+UID:4ff09d1a-cb68-445a-828d-00546aec4248@4ff0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
+DTEND:20250122T163000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250122T154500Z
+SUMMARY:Elementy statystyki międzynarodowej (wykład)
+UID:0430dd44-ebbd-42a4-ab0a-021140d158c1@0430.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
+DTEND:20241009T091500Z
+LOCATION:Bibl. 443
+DTSTART:20241009T074500Z
+SUMMARY:Elementy statystyki międzynarodowej (wykład)
+UID:abe94561-4e5f-489e-bdd7-95e3d77b6a33@abe9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Bąba
+DTEND:20241126T083000Z
+LOCATION:Paw.F 106
+DTSTART:20241126T070000Z
+SUMMARY:Marketing międzynarodowy (wykład)
+UID:1ca89ec0-bbe6-49ed-b4e9-d59b45c380e2@1ca8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Bąba
+DTEND:20241028T134500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241028T121500Z
+SUMMARY:Marketing międzynarodowy (ćwiczenia)
+UID:698e8e4a-a91c-4a64-96b4-406c7844ed38@698e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20241001T110000Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241001T093000Z
+SUMMARY:Podstawy rachunkowości i budżetowania projektów unijnych (wykład)
+UID:d857aec4-12c1-4c89-9641-625aafbb78a0@d857.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Pleśniarska
+DTEND:20241023T114500Z
+LOCATION:.
+DTSTART:20241023T101500Z
+SUMMARY: (rezerwacja)
+UID:19764c18-60e7-4c72-ab3d-8a2378cec801@1976.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20241203T134500Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241203T121500Z
+SUMMARY:Podstawy rachunkowości i budżetowania projektów unijnych (ćwiczenia)
+UID:38764c7b-bb0c-4b3f-9c99-375323897616@3876.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20250121T111500Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20250121T103000Z
+SUMMARY:Podstawy rachunkowości i budżetowania projektów unijnych (wykład)
+UID:cfa28b0f-3277-40e7-9b51-29b63aa25997@cfa2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Bąba
+DTEND:20250113T134500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20250113T121500Z
+SUMMARY:Marketing międzynarodowy (ćwiczenia)
+UID:f2fb43f7-7306-4d1e-b8c7-3f42f580dcb3@f2fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20241001T124500Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241001T111500Z
+SUMMARY:Podstawy rachunkowości i budżetowania projektów unijnych (ćwiczenia)
+UID:bcecfe42-5a8e-415a-a0c6-d4138f691387@bcec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Benedykt Olszewski
+DTEND:20241126T101500Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20241126T084500Z
+SUMMARY:Protokół dyplomatyczny (konwersatorium do wyboru)
+UID:1a28dc5c-25c3-4d50-82c6-d6a46928544b@1a28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20241021T090000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241021T064500Z
+SUMMARY:Pozyskiwanie funduszy unijnych (konwersatorium)
+UID:a564377c-1f1d-4320-93d0-802c8fbc85b6@a564.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Pleśniarska
+DTEND:20250108T124500Z
+LOCATION:.
+DTSTART:20250108T111500Z
+SUMMARY: (rezerwacja)
+UID:33ce68bd-202b-4efb-a785-daf292dd023c@33ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Pleśniarska
+DTEND:20241211T124500Z
+LOCATION:.
+DTSTART:20241211T111500Z
+SUMMARY: (rezerwacja)
+UID:777efd03-2fcc-4132-b3a7-9b29167d115f@777e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20241008T124500Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241008T111500Z
+SUMMARY:Podstawy rachunkowości i budżetowania projektów unijnych (ćwiczenia)
+UID:c4e7773f-93cb-4f9a-b73b-1362f49e2abb@c4e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Bąba
+DTEND:20250120T134500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20250120T121500Z
+SUMMARY:Marketing międzynarodowy (ćwiczenia)
+UID:67c39b1f-a962-4c5f-b1ad-dc7cc8e593fa@67c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20241209T100000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241209T074500Z
+SUMMARY:Pozyskiwanie funduszy unijnych (konwersatorium)
+UID:e1a67485-8869-4475-91e9-1b5c7eb67222@e1a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
+DTEND:20241106T101500Z
+LOCATION:Bibl. 443
+DTSTART:20241106T084500Z
+SUMMARY:Elementy statystyki międzynarodowej (wykład)
+UID:7ce1eeef-18ea-4b58-a188-04b2f2d50824@7ce1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Benedykt Olszewski
+DTEND:20241210T101500Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20241210T084500Z
+SUMMARY:Protokół dyplomatyczny (konwersatorium do wyboru)
+UID:0378cb00-8ac0-4603-9d23-7a967dfe35d5@0378.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20250107T120000Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20250107T103000Z
+SUMMARY:Podstawy rachunkowości i budżetowania projektów unijnych (wykład)
+UID:120280b2-f8c2-4274-be84-86c2c4459a78@1202.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20241014T090000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241014T064500Z
+SUMMARY:Pozyskiwanie funduszy unijnych (konwersatorium)
+UID:a3681e4a-cba5-472e-80b2-2531ff54a3e6@a368.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
+DTEND:20241023T091500Z
+LOCATION:Bibl. 443
+DTSTART:20241023T074500Z
+SUMMARY:Elementy statystyki międzynarodowej (wykład)
+UID:032be34a-2db0-4fd2-97a0-1627263096b0@032b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20250114T134500Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20250114T121500Z
+SUMMARY:Podstawy rachunkowości i budżetowania projektów unijnych (ćwiczenia)
+UID:6d763e3e-a5fa-44ee-a367-4133febad60f@6d76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
+DTEND:20241204T101500Z
+LOCATION:Bibl. 443
+DTSTART:20241204T084500Z
+SUMMARY:Elementy statystyki międzynarodowej (wykład)
+UID:dc5dd6ea-a0df-43f5-9b75-ea04d52e47ad@dc5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20241106T083000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241106T070000Z
+SUMMARY:Elementy statystyki międzynarodowej (ćwiczenia)
+UID:c74553fd-a171-4a18-ad4e-e7993483c343@c745.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Bąba
+DTEND:20241007T124500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241007T111500Z
+SUMMARY:Marketing międzynarodowy (ćwiczenia)
+UID:9c80523a-f9cd-4b9e-9085-3b1ed023ecce@9c80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Bąba
+DTEND:20241015T073000Z
+LOCATION:Paw.F 106
+DTSTART:20241015T060000Z
+SUMMARY:Marketing międzynarodowy (wykład)
+UID:3642dc84-84df-48f1-9de9-51080e39803e@3642.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Bąba
+DTEND:20241112T083000Z
+LOCATION:Paw.F 106
+DTSTART:20241112T070000Z
+SUMMARY:Marketing międzynarodowy (wykład)
+UID:21408c07-037a-4d0d-8921-292f128a3449@2140.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20241204T083000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241204T070000Z
+SUMMARY:Elementy statystyki międzynarodowej (ćwiczenia)
+UID:319b03f2-a39c-47e0-a3c5-efc78060bfcb@319b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Bąba
+DTEND:20250115T134500Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20250115T121500Z
+SUMMARY:Marketing międzynarodowy (ćwiczenia)
+UID:86fc2f20-76d0-4dde-b000-e1ab0c0813d5@86fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20250113T100000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20250113T074500Z
+SUMMARY:Pozyskiwanie funduszy unijnych (konwersatorium)
+UID:7b644712-d28f-4571-8705-a0f62245bf57@7b64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Benedykt Olszewski
+DTEND:20241217T101500Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20241217T084500Z
+SUMMARY:Protokół dyplomatyczny (konwersatorium do wyboru)
+UID:50ec46b9-ce12-4362-bccd-bcc8ee437f55@50ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Pleśniarska
+DTEND:20241030T124500Z
+LOCATION:.
+DTSTART:20241030T111500Z
+SUMMARY: (rezerwacja)
+UID:708dc1ae-9b95-45c4-826c-8e155f0f4a18@708d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20241119T134500Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241119T121500Z
+SUMMARY:Podstawy rachunkowości i budżetowania projektów unijnych (ćwiczenia)
+UID:a5b4f34d-31ec-4977-8680-bcbc6ad00d57@a5b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20250120T100000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20250120T074500Z
+SUMMARY:Pozyskiwanie funduszy unijnych (konwersatorium)
+UID:605204a1-37b8-4969-9669-0435ea813b7c@6052.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20241007T090000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241007T064500Z
+SUMMARY:Pozyskiwanie funduszy unijnych (konwersatorium)
+UID:c2261b43-d089-4f61-ae5c-706e6c073878@c226.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Pleśniarska
+DTEND:20241113T124500Z
+LOCATION:.
+DTSTART:20241113T111500Z
+SUMMARY: (rezerwacja)
+UID:6fe333e2-f22a-45cf-a9a5-9b870a356033@6fe3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Benedykt Olszewski
+DTEND:20241029T101500Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20241029T084500Z
+SUMMARY:Protokół dyplomatyczny (konwersatorium do wyboru)
+UID:49be028d-3026-44d4-9146-1424da62bbdf@49be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Bąba
+DTEND:20250122T134500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250122T121500Z
+SUMMARY:Marketing międzynarodowy (ćwiczenia)
+UID:dc15fd5d-3445-4302-8aa9-428a55525a16@dc15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Benedykt Olszewski
+DTEND:20241022T091500Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20241022T074500Z
+SUMMARY:Protokół dyplomatyczny (konwersatorium do wyboru)
+UID:5da186b1-c132-4ea3-8794-df5388381cb9@5da1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Benedykt Olszewski
+DTEND:20241112T101500Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20241112T084500Z
+SUMMARY:Protokół dyplomatyczny (konwersatorium do wyboru)
+UID:fa0edbf2-d7a0-48dc-b51e-e19c3d18de66@fa0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20241112T120000Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241112T103000Z
+SUMMARY:Podstawy rachunkowości i budżetowania projektów unijnych (wykład)
+UID:9a108dea-8652-49d3-a6c9-e0a1690f911a@9a10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Bąba
+DTEND:20241022T073000Z
+LOCATION:Paw.F 106
+DTSTART:20241022T060000Z
+SUMMARY:Marketing międzynarodowy (wykład)
+UID:60dac625-acb3-46c9-a189-f6502a22224d@60da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20241210T120000Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241210T103000Z
+SUMMARY:Podstawy rachunkowości i budżetowania projektów unijnych (wykład)
+UID:25076022-09b7-4003-b336-a7e93610c212@2507.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Ulman
+DTEND:20241120T101500Z
+LOCATION:Bibl. 443
+DTSTART:20241120T084500Z
+SUMMARY:Elementy statystyki międzynarodowej (wykład)
+UID:1349000b-13f9-4015-b1dd-cb1d6454d599@1349.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20241105T134500Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241105T121500Z
+SUMMARY:Podstawy rachunkowości i budżetowania projektów unijnych (ćwiczenia)
+UID:dd10e93d-d288-44a9-9000-ed4f8c1c234d@dd10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:1e72ad22-3b3a-4a15-8503-1fa27e859afc@1e72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20241118T100000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241118T074500Z
+SUMMARY:Pozyskiwanie funduszy unijnych (konwersatorium)
+UID:3e6323af-f085-46fd-bb7f-3889008740a7@3e63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20250117T151500Z
+LOCATION:Bud.gł. 6
+DTSTART:20250117T130000Z
+SUMMARY:Pozyskiwanie funduszy unijnych (konwersatorium)
+UID:fa6947e8-794b-4fb7-931b-dabef96035ac@fa69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Osikowicz
+DTEND:20241029T120000Z
+LOCATION:Paw.F CJ 011 lab. komp.
+DTSTART:20241029T103000Z
+SUMMARY:Podstawy rachunkowości i budżetowania projektów unijnych (wykład)
+UID:6353f227-6cbf-4eeb-b60d-12fad6f2ea53@6353.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Benedykt Olszewski
+DTEND:20250121T101500Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20250121T084500Z
+SUMMARY:Protokół dyplomatyczny (konwersatorium do wyboru)
+UID:3351739c-c881-4c32-81cd-30042aefb59e@3351.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Cymbranowicz
+DTEND:20250110T151500Z
+LOCATION:Bud.gł. 6
+DTSTART:20250110T130000Z
+SUMMARY:Pozyskiwanie funduszy unijnych (konwersatorium)
+UID:f846c27e-a922-4953-89fa-e55958a9fb1a@f846.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Bąba
+DTEND:20241014T124500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241014T111500Z
+SUMMARY:Marketing międzynarodowy (ćwiczenia)
+UID:7a466fb3-beec-4ffb-b617-4b5bc3dc4e23@7a46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20241120T083000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241120T070000Z
+SUMMARY:Elementy statystyki międzynarodowej (ćwiczenia)
+UID:e92d4c58-8c35-4676-ac87-7f6cf513bae1@e92d.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,356 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241013T141500Z
+LOCATION:link do zajęć
+DTSTART:20241013T120000Z
+SUMMARY:Planowanie finansowe\, budżetowe i kontrola (wykład do wyboru)
+UID:90052144-3796-494a-9822-0ab53d6c44c8@9005.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20241115T194500Z
+LOCATION:link do zajęć
+DTSTART:20241115T173000Z
+SUMMARY:Analiza rynku nieruchomości (wykład)
+UID:ba1bbe9c-a931-47c9-b46d-73a223b79aca@ba1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241026T104500Z
+LOCATION:link do zajęć
+DTSTART:20241026T083000Z
+SUMMARY:Wykrywanie oszustw w przedsiębiorstwach międzynarodowych (wykład do wyboru)
+UID:87ad3df8-9546-45ec-8554-0c1decd603b6@87ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20250119T133000Z
+LOCATION:Paw.C sala B
+DTSTART:20250119T103000Z
+SUMMARY:Zarządzanie nieruchomościami komercyjnymi (ćwiczenia)
+UID:8bf558fb-4daf-4472-a8a3-4e61a738e92d@8bf5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241206T194500Z
+LOCATION:Paw.B 151
+DTSTART:20241206T173000Z
+SUMMARY:Wykrywanie oszustw w przedsiębiorstwach międzynarodowych (ćwiczenia do wyboru)
+UID:9304d5fe-dd43-4ced-9f3c-59fd0a794f61@9304.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kania
+DTEND:20241116T161500Z
+LOCATION:link do zajęć
+DTSTART:20241116T140000Z
+SUMMARY:Inwestycje deweloperskie (wykład)
+UID:adc8bb11-781a-4103-bac5-716f7221bceb@adc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20241222T100000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241222T070000Z
+SUMMARY:Analiza rynku nieruchomości (ćwiczenia)
+UID:8c4503e8-8bcb-4d59-a27c-043a404d6d61@8c45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kania
+DTEND:20241025T184500Z
+LOCATION:link do zajęć
+DTSTART:20241025T163000Z
+SUMMARY:Inwestycje deweloperskie (wykład)
+UID:41f0acb5-f68a-42c5-bee5-d1849cbe115f@41f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20250126T114500Z
+LOCATION:Paw.B 451
+DTSTART:20250126T093000Z
+SUMMARY:Zarządzanie nieruchomościami komercyjnymi (ćwiczenia)
+UID:8581d2d7-db8d-44ef-917b-7323ccaabd56@8581.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Tadeusz Trębacz
+DTEND:20250125T114500Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20250125T093000Z
+SUMMARY:Planowanie finansowe\, budżetowe i kontrola (ćwiczenia do wyboru)
+UID:4cf44c39-1bb3-4c13-8925-eb7acba73b7c@4cf4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Małkowska
+DTEND:20241012T114500Z
+LOCATION:link do zajęć
+DTSTART:20241012T093000Z
+SUMMARY:Gospodarowanie nieruchomościami (wykład)
+UID:30ee0b6b-dd0d-4a23-9a89-a2225c5a3630@30ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Tadeusz Trębacz
+DTEND:20241221T114500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241221T093000Z
+SUMMARY:Planowanie finansowe\, budżetowe i kontrola (ćwiczenia do wyboru)
+UID:f32166e6-1f17-48ee-9ad9-8d2ba670fccf@f321.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Tadeusz Trębacz
+DTEND:20241207T161500Z
+LOCATION:Paw.C sala D
+DTSTART:20241207T140000Z
+SUMMARY:Planowanie finansowe\, budżetowe i kontrola (ćwiczenia do wyboru)
+UID:740b3b2e-4594-4638-bc39-22f959ed1680@740b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Adam Nalepka
+DTEND:20241026T081500Z
+LOCATION:link do zajęć
+DTSTART:20241026T060000Z
+SUMMARY:Zarządzanie nieruchomościami komercyjnymi (wykład)
+UID:cf65c824-3757-47e0-83a7-25c14b608a85@cf65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Telega
+DTEND:20241220T194500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241220T173000Z
+SUMMARY:Gospodarowanie nieruchomościami (ćwiczenia)
+UID:ff3345e9-1bb0-4dfc-b4fb-a5ee792a76e6@ff33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20250125T091500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250125T070000Z
+SUMMARY:Analiza rynku nieruchomości (ćwiczenia)
+UID:2821a680-5e75-406e-9048-9d47f6cdb7e6@2821.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Kowalik
+DTEND:20241207T184500Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20241207T163000Z
+SUMMARY:Ocena stanu technicznego obiektu budowlanego (ćwiczenia)
+UID:73173994-fbdf-4776-8a54-da4a0298cc58@7317.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20241027T091500Z
+LOCATION:link do zajęć
+DTSTART:20241027T070000Z
+SUMMARY:Analiza rynku nieruchomości (wykład)
+UID:fae4805c-6bf4-4c88-9132-916c00c53dfa@fae4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20250126T091500Z
+LOCATION:Paw.B 451
+DTSTART:20250126T070000Z
+SUMMARY:Wykrywanie oszustw w przedsiębiorstwach międzynarodowych (ćwiczenia do wyboru)
+UID:54cbdd69-7f12-4a05-a352-e9f6c0878b84@54cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241011T160000Z
+LOCATION:link do zajęć
+DTSTART:20241011T134500Z
+SUMMARY:Wykrywanie oszustw w przedsiębiorstwach międzynarodowych (wykład do wyboru)
+UID:6a663abc-d46f-44ca-a9c5-10168013776c@6a66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Adam Nalepka
+DTEND:20241013T114500Z
+LOCATION:link do zajęć
+DTSTART:20241013T093000Z
+SUMMARY:Zarządzanie nieruchomościami komercyjnymi (wykład)
+UID:5bd38f60-2300-4684-85ff-cfc653a03aa0@5bd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241116T133000Z
+LOCATION:link do zajęć
+DTSTART:20241116T111500Z
+SUMMARY:Wykrywanie oszustw w przedsiębiorstwach międzynarodowych (wykład do wyboru)
+UID:99554324-96cc-4ba2-81d5-c4ab68446fa7@9955.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20241222T133000Z
+LOCATION:Paw.F 416
+DTSTART:20241222T103000Z
+SUMMARY:Zarządzanie nieruchomościami komercyjnymi (ćwiczenia)
+UID:851345c9-1a76-4063-902d-016f9d328352@8513.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Telega
+DTEND:20241207T133000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241207T111500Z
+SUMMARY:Gospodarowanie nieruchomościami (ćwiczenia)
+UID:87361e2c-f115-4e7c-a5af-1e6b5e5d61a1@8736.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20241027T114500Z
+LOCATION:link do zajęć
+DTSTART:20241027T093000Z
+SUMMARY:Ocena stanu technicznego obiektu budowlanego (wykład)
+UID:90019eff-d74a-427a-be68-64234154f1de@9001.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Małkowska
+DTEND:20241115T170000Z
+LOCATION:link do zajęć
+DTSTART:20241115T144500Z
+SUMMARY:Gospodarowanie nieruchomościami (wykład)
+UID:c1ff1738-6f07-48a5-979d-e04185e7a379@c1ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kania
+DTEND:20241220T170000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241220T144500Z
+SUMMARY:Inwestycje deweloperskie (ćwiczenia)
+UID:20f9e652-f170-4e24-aaa6-1e5840dcc300@20f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Telega
+DTEND:20250119T100000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250119T074500Z
+SUMMARY:Gospodarowanie nieruchomościami (ćwiczenia)
+UID:6fd90cb0-9df4-4ed4-bf8a-0ce814c56f79@6fd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20241013T090000Z
+LOCATION:link do zajęć
+DTSTART:20241013T064500Z
+SUMMARY:Ocena stanu technicznego obiektu budowlanego (wykład)
+UID:80eaab0c-5295-4ae5-b535-cbd6850eb2fa@80ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241221T143000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241221T121500Z
+SUMMARY:Wykrywanie oszustw w przedsiębiorstwach międzynarodowych (ćwiczenia do wyboru)
+UID:cc55311f-4541-416a-b871-f1aeb944f1fb@cc55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Małgorzata Uhruska
+DTEND:20241208T133000Z
+LOCATION:Paw.B 151
+DTSTART:20241208T103000Z
+SUMMARY:Zarządzanie nieruchomościami komercyjnymi (ćwiczenia)
+UID:1e8742c0-0e05-4cc1-84bc-970b8ad26fd8@1e87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Małkowska
+DTEND:20241025T160000Z
+LOCATION:link do zajęć
+DTSTART:20241025T134500Z
+SUMMARY:Gospodarowanie nieruchomościami (wykład)
+UID:cca377d7-512b-4084-ae52-9efd3f777013@cca3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kania
+DTEND:20241206T170000Z
+LOCATION:Paw.A 301b
+DTSTART:20241206T144500Z
+SUMMARY:Inwestycje deweloperskie (ćwiczenia)
+UID:1b574086-e8f1-4865-be7b-9cc4d4ff1dce@1b57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Kowalik
+DTEND:20241221T184500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241221T163000Z
+SUMMARY:Ocena stanu technicznego obiektu budowlanego (ćwiczenia)
+UID:af800302-9a00-4169-833a-7d9b08988399@af80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241117T091500Z
+LOCATION:link do zajęć
+DTSTART:20241117T070000Z
+SUMMARY:Planowanie finansowe\, budżetowe i kontrola (wykład do wyboru)
+UID:6b7832a7-9947-4ccc-9cb2-b1e2c8f6b68e@6b78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20241012T090000Z
+LOCATION:link do zajęć
+DTSTART:20241012T064500Z
+SUMMARY:Analiza rynku nieruchomości (wykład)
+UID:2802c532-041d-4c27-8856-853d947b5eb7@2802.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Węgrzyn
+DTEND:20241117T114500Z
+LOCATION:link do zajęć
+DTSTART:20241117T093000Z
+SUMMARY:Ocena stanu technicznego obiektu budowlanego (wykład)
+UID:4c5cb255-d95d-4b8a-b630-5e9b5be71663@4c5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Kowalik
+DTEND:20250118T133000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250118T111500Z
+SUMMARY:Ocena stanu technicznego obiektu budowlanego (ćwiczenia)
+UID:7812c1db-c97b-41fa-854d-0bfda644a4d9@7812.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Adam Nalepka
+DTEND:20241116T110000Z
+LOCATION:link do zajęć
+DTSTART:20241116T084500Z
+SUMMARY:Zarządzanie nieruchomościami komercyjnymi (wykład)
+UID:d6f148c1-091e-469c-a312-48e0c469c9e8@d6f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kania
+DTEND:20241012T141500Z
+LOCATION:link do zajęć
+DTSTART:20241012T120000Z
+SUMMARY:Inwestycje deweloperskie (wykład)
+UID:28e5a836-7d31-4fd8-8774-b76393869884@28e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20250118T104500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250118T074500Z
+SUMMARY:Analiza rynku nieruchomości (ćwiczenia)
+UID:3540b248-242d-4e9d-9994-8835ad866576@3540.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kania
+DTEND:20250118T161500Z
+LOCATION:Paw.S sala 4
+DTSTART:20250118T140000Z
+SUMMARY:Inwestycje deweloperskie (ćwiczenia)
+UID:63925dbe-d689-4ff4-aca4-907af7bcac9c@6392.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241026T133000Z
+LOCATION:link do zajęć
+DTSTART:20241026T111500Z
+SUMMARY:Planowanie finansowe\, budżetowe i kontrola (wykład do wyboru)
+UID:c5a7d5be-c4b7-4ef9-8479-47b15ceadbc3@c5a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Michał Głuszak
+DTEND:20241208T100000Z
+LOCATION:309  paw. U (tylko KatHZ)
+DTSTART:20241208T070000Z
+SUMMARY:Analiza rynku nieruchomości (ćwiczenia)
+UID:98008a49-b7e8-46c9-a67a-22691ce3665d@9800.org
+END:VEVENT
+END:VCALENDAR

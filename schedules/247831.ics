@@ -1,0 +1,236 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20250125T134500Z
+LOCATION:Paw.G  8
+DTSTART:20250125T074500Z
+SUMMARY:Modelowanie i optymalizacja procesów biznesowych. (Studia podyplomowe)
+UID:c9c0b2af-b021-4177-ae29-448199fa147a@c9c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Markiewicz
+DTEND:20241006T124500Z
+LOCATION:Paw.G  9
+DTSTART:20241006T064500Z
+SUMMARY:Nowoczesne przywództwo i motywowanie zespołu (Studia podyplomowe)
+UID:c10583bb-e768-4269-ae2a-79b0766e7e47@c105.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20241019T141500Z
+LOCATION:Paw.G  9
+DTSTART:20241019T111500Z
+SUMMARY:Psychologia w biznesie (Studia podyplomowe)
+UID:ecf51979-bd30-4d2c-b56d-c80881b5d2d4@ecf5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Markiewicz
+DTEND:20241005T124500Z
+LOCATION:Paw.G  8
+DTSTART:20241005T064500Z
+SUMMARY:Nowoczesne przywództwo i motywowanie zespołu (Studia podyplomowe)
+UID:63ce873b-7eee-4e50-bd40-b4e224fb8bd1@63ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Szarucki
+DTEND:20250209T113000Z
+LOCATION:Paw.G 12
+DTSTART:20250209T074500Z
+SUMMARY:Zarządzanie strategiczne wochronie zdrowia (Studia podyplomowe)
+UID:97e1c508-b729-4606-ae91-b5f4ede3638b@97e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Inga Mizdrak
+DTEND:20241123T121500Z
+LOCATION:Zajęcia Online
+DTSTART:20241123T074500Z
+SUMMARY:Etyczne aspekty i standardy pracy zawodowej (Studia podyplomowe)
+UID:fe541eb0-f6cf-4178-92ae-02257c3f2c3c@fe54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Inga Mizdrak
+DTEND:20241110T121500Z
+LOCATION:Paw.G 12
+DTSTART:20241110T074500Z
+SUMMARY:Etyczne aspekty i standardy pracy zawodowej (Studia podyplomowe)
+UID:9f33c37a-db9c-47bb-b3e9-dfa1e2bb8efa@9f33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Dolot
+DTEND:20250111T130000Z
+LOCATION:Zajęcia Online
+DTSTART:20250111T074500Z
+SUMMARY:Zarządzanie rozwojem osobistym (Studia podyplomowe)
+UID:e7aad899-353c-4b7c-9ac2-5aecc5b4f165@e7aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Mokrzycka
+DTEND:20241020T121500Z
+LOCATION:Paw.G  9
+DTSTART:20241020T074500Z
+SUMMARY:Prawo pracy w zawodach medycznych (Studia podyplomowe)
+UID:ed447ec0-c10a-4870-af88-9dd947959a51@ed44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Markiewicz
+DTEND:20241019T143000Z
+LOCATION:Paw.G  8
+DTSTART:20241019T130000Z
+SUMMARY:Nowoczesne przywództwo i motywowanie zespołu (Studia podyplomowe)
+UID:15094d2a-2345-4654-91d8-c9d3a8ab7ac1@1509.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Dolot
+DTEND:20241207T130000Z
+LOCATION:Zajęcia Online
+DTSTART:20241207T074500Z
+SUMMARY:Zarządzanie rozwojem osobistym (Studia podyplomowe)
+UID:6047172a-fa85-4b1b-9f0e-88191aa6cdd6@6047.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Markiewicz
+DTEND:20241020T081500Z
+LOCATION:Paw.G  8
+DTSTART:20241020T064500Z
+SUMMARY:Nowoczesne przywództwo i motywowanie zespołu (Studia podyplomowe)
+UID:d97928a1-8aac-47ce-84f4-cf0ca1dbdf65@d979.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Mokrzycka
+DTEND:20241123T121500Z
+LOCATION:Zajęcia Online
+DTSTART:20241123T074500Z
+SUMMARY:Prawo pracy w zawodach medycznych (Studia podyplomowe)
+UID:2c1362ee-c2bc-4112-ab18-fb292d7aaeed@2c13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Inga Mizdrak
+DTEND:20241124T121500Z
+LOCATION:Zajęcia Online
+DTSTART:20241124T074500Z
+SUMMARY:Etyczne aspekty i standardy pracy zawodowej (Studia podyplomowe)
+UID:8261aa55-56f3-4f16-b095-0dd8c1f7352c@8261.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Dolot
+DTEND:20250112T113000Z
+LOCATION:Zajęcia Online
+DTSTART:20250112T074500Z
+SUMMARY:Zarządzanie rozwojem osobistym (Studia podyplomowe)
+UID:a7b2c4d3-7644-4bb4-bcc0-170836d70113@a7b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241006T113000Z
+LOCATION:Paw.G  8
+DTSTART:20241006T074500Z
+SUMMARY:Makroekonomia i ekonomia międzynarodowa (Studia podyplomowe)
+UID:413147a0-250c-491d-903d-91a3ae3dbd67@4131.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20250209T130000Z
+LOCATION:Paw.G 12
+DTSTART:20250209T121500Z
+SUMMARY:Egzamin semestralny (Studia podyplomowe)
+UID:b2eff000-dc01-4516-850d-39c1c3173c9d@b2ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20250119T134500Z
+LOCATION:Paw.G  7
+DTSTART:20250119T074500Z
+SUMMARY:Modelowanie i optymalizacja procesów biznesowych. (Studia podyplomowe)
+UID:5d39f186-3946-4483-b2d9-d4d00e6e377e@5d39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20250118T134500Z
+LOCATION:Paw.G  7
+DTSTART:20250118T074500Z
+SUMMARY:Modelowanie i optymalizacja procesów biznesowych. (Studia podyplomowe)
+UID:0ff5a218-ad34-47b8-acb2-375db1141a6b@0ff5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20250126T134500Z
+LOCATION:Paw.G  8
+DTSTART:20250126T074500Z
+SUMMARY:Modelowanie i optymalizacja procesów biznesowych. (Studia podyplomowe)
+UID:4ecad050-3b08-4534-a000-9a89d6666da8@4eca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Janus
+DTEND:20241020T121500Z
+LOCATION:Paw.G  8
+DTSTART:20241020T083000Z
+SUMMARY:Makroekonomia i ekonomia międzynarodowa (Studia podyplomowe)
+UID:a63ea68e-358c-4695-b364-a56202c4a335@a63e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Ulbrych
+DTEND:20241005T113000Z
+LOCATION:Paw.G  9
+DTSTART:20241005T074500Z
+SUMMARY:Makroekonomia i ekonomia międzynarodowa (Studia podyplomowe)
+UID:6a617980-0fb3-4c98-a280-649deda3781c@6a61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Mokrzycka
+DTEND:20241019T121500Z
+LOCATION:Paw.G  8
+DTSTART:20241019T074500Z
+SUMMARY:Prawo pracy w zawodach medycznych (Studia podyplomowe)
+UID:ad5cbbb9-7c95-409e-8d08-4cd57eb39667@ad5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Markiewicz
+DTEND:20241019T104500Z
+LOCATION:Paw.G  9
+DTSTART:20241019T074500Z
+SUMMARY:Nowoczesne przywództwo i motywowanie zespołu (Studia podyplomowe)
+UID:22227ba4-5c2c-4152-8b4e-50eb68e67dd9@2222.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Dolot
+DTEND:20241208T113000Z
+LOCATION:Zajęcia Online
+DTSTART:20241208T074500Z
+SUMMARY:Zarządzanie rozwojem osobistym (Studia podyplomowe)
+UID:b84d6c86-93d8-4e35-a7ed-d182155de3bc@b84d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20241018T174500Z
+LOCATION:Paw.G  8
+DTSTART:20241018T144500Z
+SUMMARY:Psychologia w biznesie (Studia podyplomowe)
+UID:3c74b7e5-4b0b-48ce-90f7-c6f42b58e20b@3c74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marek Szarucki
+DTEND:20250208T130000Z
+LOCATION:Paw.G 12
+DTSTART:20250208T074500Z
+SUMMARY:Zarządzanie strategiczne wochronie zdrowia (Studia podyplomowe)
+UID:32759d19-9992-464c-b09a-6b20467e8626@3275.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Klich
+DTEND:20241109T134500Z
+LOCATION:Paw.G 12
+DTSTART:20241109T074500Z
+SUMMARY:Ekonom uwarunkowania finansowania publ systemów opieki zdrowotnej w UE (Studia podyplomowe)
+UID:cf2089dc-3202-4c22-8fce-d6eefb1a22bd@cf20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Mokrzycka
+DTEND:20241124T121500Z
+LOCATION:Zajęcia Online
+DTSTART:20241124T074500Z
+SUMMARY:Prawo pracy w zawodach medycznych (Studia podyplomowe)
+UID:b6516ac3-be4b-4539-983a-5cfc7cca197e@b651.org
+END:VEVENT
+END:VCALENDAR

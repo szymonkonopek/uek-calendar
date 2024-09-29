@@ -1,0 +1,1562 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20241106T190000Z
+LOCATION:Paw.C sala E
+DTSTART:20241106T173000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:a8f2e997-4d06-474c-bc91-730a6c6106d0@a8f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Magdalena Małecka
+DTEND:20241008T124500Z
+LOCATION:Paw.C sala C
+DTSTART:20241008T111500Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia)
+UID:f97ac714-e213-4655-9c30-41704d88846b@f97a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20241120T134500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241120T121500Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (wykład)
+UID:4d3dd6be-a22b-4871-811f-42565ca60420@4d3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Witold Furman
+DTEND:20241031T083000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241031T070000Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia)
+UID:6fc11964-f2f4-44dc-809d-af5f06f3b2a9@6fc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241031T134500Z
+LOCATION:Paw.S sala 5
+DTSTART:20241031T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:07b52d18-3331-489f-a2ac-598f284adda4@07b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241202T171500Z
+LOCATION:Paw.C sala D
+DTSTART:20241202T154500Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:3fab68aa-eb53-4411-b7c0-9abc9e1f8078@3fab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20241112T190000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241112T173000Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (wykład)
+UID:2f72c5c1-6baf-4854-8fb2-a9f819dfb1ee@2f72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20250114T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20250114T103000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:e54b1fd7-68af-419b-8f86-0cf37d123730@e54b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20250108T101500Z
+LOCATION:Paw.S sala 5
+DTSTART:20250108T084500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:c22aabf9-edca-44d4-bf20-0ca03b47344c@c22a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241114T134500Z
+LOCATION:Paw.S sala 5
+DTSTART:20241114T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:569119b8-1551-4d0b-ac3c-0327c759b447@5691.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241212T134500Z
+LOCATION:Paw.F 102
+DTSTART:20241212T121500Z
+SUMMARY:Metody oceny projektów gospodarczych (wykład do wyboru)
+UID:f0b17a32-70a3-4ee6-8b0d-27eec06b86b1@f0b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20250115T134500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20250115T121500Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (wykład)
+UID:9477cde3-78fe-4a29-8f60-d6dd28ad0287@9477.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20250109T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250109T140000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:7e107a91-855c-4f0e-96d6-1d1261b3917f@7e10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20241127T101500Z
+LOCATION:Paw.S sala 5
+DTSTART:20241127T084500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:a5ac8afd-c718-4031-981d-e44c132555d1@a5ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20250113T120000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250113T103000Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:e5ca0bf3-cd76-422f-b88a-0bdb19c3717e@e5ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20250108T153000Z
+LOCATION:Paw.F 615
+DTSTART:20250108T140000Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:670569e4-9038-492c-bd86-738f6f334e08@6705.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241021T161500Z
+LOCATION:Paw.C sala D
+DTSTART:20241021T144500Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:9f1dd54d-0366-4a30-b59b-1f480980d9b7@9f1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241106T120000Z
+LOCATION:Paw.F 717
+DTSTART:20241106T103000Z
+SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
+UID:c979d8d9-6ee3-4059-9028-1a5dbf56d6e0@c979.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241009T161500Z
+LOCATION:Paw.S sala 9
+DTSTART:20241009T144500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:c689956d-26a4-41c2-a382-efb6006c40e4@c689.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20241204T134500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241204T121500Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (wykład)
+UID:ebeb9020-6b21-48a3-9fe9-12f458e35ec2@ebeb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20250120T083000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250120T070000Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:a44626e8-8b9d-4aa5-ad71-764cf6be8be2@a446.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241209T083000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241209T070000Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:0cc7ff3a-65b5-4259-b0d6-ecd89c5d13c4@0cc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241104T171500Z
+LOCATION:Paw.C sala D
+DTSTART:20241104T154500Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:a289ed9b-804e-40c7-a3d6-81743c76959f@a289.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241121T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241121T140000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:5c777bf6-f462-4a1c-a6b3-100806b15704@5c77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20250113T153000Z
+LOCATION:Paw.S sala 9
+DTSTART:20250113T140000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:437e6cf2-9e6e-46a1-8e03-3aa4d88d033d@437e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20250116T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250116T140000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:d5de2355-92d2-447e-ae4a-b35690088eae@d5de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Magdalena Małecka
+DTEND:20250114T101500Z
+LOCATION:Paw.S sala 7
+DTSTART:20250114T093000Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia)
+UID:8c9466b6-b58a-4447-a8f0-d212410a2e29@8c94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20250122T101500Z
+LOCATION:Paw.S sala 5
+DTSTART:20250122T084500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:83d12f93-9426-4a29-a4f4-2d7373afd36e@83d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20250115T200000Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20250115T191500Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (wykład)
+UID:e13ef69c-c188-4cad-8275-49f7cd8c58c6@e13e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20241210T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20241210T103000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:996ab1d3-10a1-499e-9262-40351a7b8a2a@996a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20241209T153000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241209T140000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:eb8387e4-cefd-4223-8c04-8cdfc740191c@eb83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241212T134500Z
+LOCATION:Paw.S sala 5
+DTSTART:20241212T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:aa64f973-31f5-4a87-adcc-26a8b210465d@aa64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20241216T190000Z
+LOCATION:Paw.C sala D
+DTSTART:20241216T173000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:f644e72f-75a2-4a75-a874-0a1874ea3000@f644.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20250122T083000Z
+LOCATION:Paw.F 615
+DTSTART:20250122T070000Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:405078bb-691f-495a-b557-17199297101b@4050.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20241126T190000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241126T173000Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (wykład)
+UID:b9dd6b49-7276-45ca-a6c5-19c9ee4be958@b9dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241118T083000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241118T070000Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:637d4ada-f1d5-4f71-9e6f-00c7484cd62a@637d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20241203T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20241203T103000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:523e63d8-b246-4559-95be-bd51f3d4ab31@523e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241016T161500Z
+LOCATION:Paw.S sala 9
+DTSTART:20241016T144500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:b3cfa89a-b31e-4004-ae8b-2a2588f9f375@b3cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:aec391a3-d0d5-465f-abe8-1920436e838d@aec3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Witold Furman
+DTEND:20241128T083000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241128T070000Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia)
+UID:3a1501c5-4e99-4ee1-8d96-d0e730dfc833@3a15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20241120T101500Z
+LOCATION:Paw.S sala 5
+DTSTART:20241120T084500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:2e893b94-ef17-4732-8ddf-a2151a1f52f2@2e89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241218T153000Z
+LOCATION:Paw.F 615
+DTSTART:20241218T140000Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:02170fae-0ac2-4ebc-84be-e04e07769574@0217.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20250120T171500Z
+LOCATION:Paw.C sala D
+DTSTART:20250120T154500Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:fda5488b-c309-4b63-97a5-82d881148384@fda5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20241209T120000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241209T103000Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:d8aec42c-ec35-48fc-a8c6-5aa019d8606b@d8ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20241211T101500Z
+LOCATION:Paw.S sala 5
+DTSTART:20241211T084500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:e1e2063a-f73b-4624-9084-b91feec0c970@e1e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20241028T120000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241028T103000Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:ef03644f-da8c-4685-8e2f-f8e91863171e@ef03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20250115T083000Z
+LOCATION:Paw.F 715
+DTSTART:20250115T074500Z
+SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
+UID:93e3a879-f186-4c3b-b78d-f4b1105eae6f@93e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20241118T120000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241118T103000Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:07a9f9ee-68a3-4aba-9796-6da4910f1540@07a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20241008T110000Z
+LOCATION:Paw.F 415
+DTSTART:20241008T093000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:ac2417aa-e3b5-48a8-a840-25cb17982dec@ac24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20250123T134500Z
+LOCATION:Paw.S sala 2
+DTSTART:20250123T130000Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:395bcbdd-1a47-4b0b-96a6-2d375930fe90@395b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241125T083000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241125T070000Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:990566d0-d67e-455e-8afb-ec10ab310317@9905.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241204T153000Z
+LOCATION:Paw.F 615
+DTSTART:20241204T140000Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:afaace17-dda7-4d2c-a11f-c22164e4a438@afaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20241009T124500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241009T111500Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (wykład)
+UID:a692cff4-ce10-43a3-b4f4-5e27f430c2f6@a692.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241009T110000Z
+LOCATION:Paw.F 717
+DTSTART:20241009T093000Z
+SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
+UID:32c35e56-5e15-4239-bf2d-7f92d8729973@32c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20241120T190000Z
+LOCATION:Paw.C sala E
+DTSTART:20241120T173000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:2afadcf4-3e7a-4848-9cd7-bb44595b7ada@2afa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Magdalena Małecka
+DTEND:20241203T134500Z
+LOCATION:Paw.C sala C
+DTSTART:20241203T121500Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia)
+UID:f88629db-1c1b-4f67-bb9d-d9a739e3de64@f886.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241028T101500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241028T084500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:c7c08075-5dfa-4634-bae7-45d1b4fee736@c7c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20250107T190000Z
+LOCATION:Paw.S sala 8
+DTSTART:20250107T173000Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (wykład)
+UID:d02609e2-97b8-4769-b4bf-31d823d5bedd@d026.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241031T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241031T140000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:7ab7eac9-9c9b-4f4b-b802-5a7609d5b542@7ab7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241104T083000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241104T070000Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:d4cf9f29-e204-4310-ac44-2bf26a210e4e@d4cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241014T073000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241014T060000Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:a48cb0f4-5b23-42f1-88b2-9bf2e9850781@a48c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20250113T083000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250113T070000Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:6edfc43e-0e89-461f-b5df-ccbdcd3a0ed0@6edf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:c9ee040c-315e-4399-ab31-5143d915734b@c9ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Witold Furman
+DTEND:20241003T073000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241003T060000Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia)
+UID:ed66fd8e-328c-479e-8263-4e2f2f520e7f@ed66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20241009T180000Z
+LOCATION:Paw.C sala E
+DTSTART:20241009T163000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:7ddc954f-ef61-4079-903e-4b258b42aa40@7ddc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Magdalena Małecka
+DTEND:20241022T124500Z
+LOCATION:Paw.C sala C
+DTSTART:20241022T111500Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia)
+UID:bef3979c-858c-4a8d-bc1f-9830531c9bd1@bef3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241219T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241219T140000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:810aeeae-d7e3-4dfe-a8dc-83d4de893c96@810a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241128T134500Z
+LOCATION:Paw.F 102
+DTSTART:20241128T121500Z
+SUMMARY:Metody oceny projektów gospodarczych (wykład do wyboru)
+UID:d340a17f-46f4-47b1-8f7c-3c92f82f612b@d340.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20241216T153000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241216T140000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:3f30b162-7d55-4dd6-8154-4205f4842efe@3f30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241021T180000Z
+LOCATION:Paw.C sala F
+DTSTART:20241021T163000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:21eafb0e-7e82-4172-bc52-8b419ec8045a@21ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20241119T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20241119T103000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:677c8e96-e276-4292-bf89-140eda23a607@677c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20250115T120000Z
+LOCATION:Paw.F 717
+DTSTART:20250115T103000Z
+SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
+UID:f195c889-411e-4dbf-9a31-17e68f6234b0@f195.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241003T124500Z
+LOCATION:Paw.F 102
+DTSTART:20241003T111500Z
+SUMMARY:Metody oceny projektów gospodarczych (wykład do wyboru)
+UID:3da02d38-585b-4c57-8abb-d700e8d7ae41@3da0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241125T171500Z
+LOCATION:Paw.C sala D
+DTSTART:20241125T154500Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:d2ba1cce-67de-42e6-aec9-00b5fb413574@d2ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241128T134500Z
+LOCATION:Paw.S sala 5
+DTSTART:20241128T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:f0cab287-ea3c-4b0a-bc45-f921cc92656f@f0ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20241016T180000Z
+LOCATION:Paw.C sala E
+DTSTART:20241016T163000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:11979998-a821-49d8-b47d-fe3ffbcb61e2@1197.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20241028T153000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241028T140000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:11681425-f12d-45db-91b3-e58148b4c1af@1168.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241120T120000Z
+LOCATION:Paw.F 717
+DTSTART:20241120T103000Z
+SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
+UID:12a4e43e-db0d-47f9-af18-0fdbb21d4551@12a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20241009T091500Z
+LOCATION:Paw.S sala 5
+DTSTART:20241009T074500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:619a08ef-5bff-43ee-b8a1-775aff7125c6@619a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241028T083000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241028T070000Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:f97d20f1-ab66-4e82-9d2e-d9c7c227f818@f97d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241106T153000Z
+LOCATION:Paw.F 615
+DTSTART:20241106T140000Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:29b3b503-cf9d-4580-9430-d91ab0dfc9fb@29b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241114T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241114T140000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:e19e8987-6828-44b9-adc3-ac67f5b0908f@e19e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20241218T134500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241218T121500Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (wykład)
+UID:491746ee-ae6b-449c-a19f-99c7b1447350@4917.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241118T190000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241118T173000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:6268c24d-0015-4998-be05-74abc82692ee@6268.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241218T120000Z
+LOCATION:Paw.F 717
+DTSTART:20241218T103000Z
+SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
+UID:0013523a-5af5-459f-9537-64941611a462@0013.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20250108T200000Z
+LOCATION:Paw.C sala E
+DTSTART:20250108T191500Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:c6df7341-17fb-4098-9bd6-1da99437dd45@c6df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20250114T083000Z
+LOCATION:Paw.C sala D
+DTSTART:20250114T070000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:da0f8fdb-729a-4dd2-ab8b-72ea5b403a7b@da0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241209T171500Z
+LOCATION:Paw.C sala D
+DTSTART:20241209T154500Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:5b399356-894a-4a2b-aef9-c831e9f4e070@5b39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241204T120000Z
+LOCATION:Paw.F 717
+DTSTART:20241204T103000Z
+SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
+UID:e013e9ff-7333-47a2-ab09-1f120256f4a6@e013.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20241029T190000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241029T173000Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (wykład)
+UID:a798af7c-3a5e-403b-b8ec-2066ae514b8b@a798.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20241001T110000Z
+LOCATION:Paw.F 614
+DTSTART:20241001T093000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:4563dd3b-f8da-41c8-8d79-9c0b41f4ef97@4563.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241118T171500Z
+LOCATION:Paw.C sala D
+DTSTART:20241118T154500Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:9d6d3b94-5475-4c40-b480-be861fa9fcf3@9d6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20241106T134500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241106T121500Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (wykład)
+UID:c081c35c-5b9c-4ed1-8838-ff439a22381d@c081.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241017T124500Z
+LOCATION:Paw.F 102
+DTSTART:20241017T111500Z
+SUMMARY:Metody oceny projektów gospodarczych (wykład do wyboru)
+UID:14cee0a3-e785-429d-8cfe-eac0aaf7432c@14ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20241126T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20241126T103000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:27fad406-9082-430e-9e36-7a965c35a0ac@27fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20250123T130000Z
+LOCATION:Paw.S sala 5
+DTSTART:20250123T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:b85988bd-c689-4bb1-8bfb-11238d44151d@b859.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20241204T190000Z
+LOCATION:Paw.C sala E
+DTSTART:20241204T173000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:d2706e9f-310f-440a-a41c-de3f7788ca21@d270.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Magdalena Małecka
+DTEND:20250114T134500Z
+LOCATION:Paw.C sala C
+DTSTART:20250114T121500Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia)
+UID:eaefc0e1-4f2c-4e38-bb3b-2b44f2e10ef0@eaef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Witold Furman
+DTEND:20250123T083000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20250123T074500Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia)
+UID:f7c6618e-9747-41c9-ae3c-3c34a2260a6b@f7c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20241216T120000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241216T103000Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:d4d75644-2ca5-45cf-8b38-8da292e7d75e@d4d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20250121T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20250121T103000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:8afd1649-e0c7-463b-b001-0872d53fd127@8afd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241113T153000Z
+LOCATION:Paw.F 615
+DTSTART:20241113T140000Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:f44c8b1a-3e0a-4c64-b683-616459f29e11@f44c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Magdalena Małecka
+DTEND:20241119T134500Z
+LOCATION:Paw.C sala C
+DTSTART:20241119T121500Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia)
+UID:8b5120cf-9722-4dbd-b201-a342ea4666f8@8b51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20241202T153000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241202T140000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:6b2e43b1-ad7d-4d31-9324-008e49a74349@6b2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20250121T181500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250121T173000Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (wykład)
+UID:43e5bc22-9e8c-4db5-a196-01abaac05384@43e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20241217T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20241217T103000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:d0283f83-494a-4622-bc49-4b7c48ddd2c0@d028.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241009T143000Z
+LOCATION:Paw.F 615
+DTSTART:20241009T130000Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:d5778c2a-ceca-4f4d-b122-fb7afebf79a5@d577.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Witold Furman
+DTEND:20241114T083000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241114T070000Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia)
+UID:e2a9f3ac-f73f-48f4-85e9-4845da7230e4@e2a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241031T134500Z
+LOCATION:Paw.F 102
+DTSTART:20241031T121500Z
+SUMMARY:Metody oceny projektów gospodarczych (wykład do wyboru)
+UID:23ed4723-c0c6-41c1-a2d8-94ebd6810197@23ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20250123T130000Z
+LOCATION:Paw.F 102
+DTSTART:20250123T121500Z
+SUMMARY:Metody oceny projektów gospodarczych (wykład do wyboru)
+UID:ba8f1cf7-f08d-4b6f-89c7-d0b5ae25aef3@ba8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Witold Furman
+DTEND:20241017T073000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241017T060000Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia)
+UID:c1005a6e-d887-4ecd-b43e-64089f875e30@c100.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241107T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241107T140000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:1b110c94-de86-4988-913d-b46a279d7461@1b11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20241113T190000Z
+LOCATION:Paw.C sala E
+DTSTART:20241113T173000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:80af6df1-087f-4478-b307-39f7f177a2e1@80af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20250123T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250123T140000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:7e5d86f0-f638-4b40-bbe1-0b2845b2edc8@7e5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Magdalena Małecka
+DTEND:20241217T134500Z
+LOCATION:Paw.C sala C
+DTSTART:20241217T121500Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia)
+UID:5818476d-6a89-4079-abe8-f5c0cfd86737@5818.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20250122T190000Z
+LOCATION:Paw.C sala E
+DTSTART:20250122T173000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:fd9f917d-af7e-4b2b-9f87-36c673c8535a@fd9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20241106T101500Z
+LOCATION:Paw.S sala 5
+DTSTART:20241106T084500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:1dc37510-9e0b-40bb-8edb-f6587eb83556@1dc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241003T143000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241003T130000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:0fd07c71-23e8-44c6-98b2-ca8550c72f6d@0fd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20241202T120000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241202T103000Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:eee9affe-01ff-46f5-93e2-cc43a9d59094@eee9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20241007T110000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241007T093000Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:3a006428-a4ee-4e34-8c8a-97c6ed4768d6@3a00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Witold Furman
+DTEND:20250109T083000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20250109T070000Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia)
+UID:582274a1-8c74-4b7b-8246-ef5478e7e867@5822.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20241211T190000Z
+LOCATION:Paw.C sala E
+DTSTART:20241211T173000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:2d38035b-237e-4202-a197-992ded822afb@2d38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20241015T180000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241015T163000Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (wykład)
+UID:9fa00228-8e35-4e0a-a4b4-5eb27630dfaf@9fa0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20241023T091500Z
+LOCATION:Paw.S sala 5
+DTSTART:20241023T074500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:7b55f030-344b-4313-97f4-46eee52aad76@7b55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20241030T101500Z
+LOCATION:Paw.S sala 5
+DTSTART:20241030T084500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:97a6dcfa-b996-49c8-b73f-e24d4a5d7ff2@97a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20241114T134500Z
+LOCATION:Paw.F 102
+DTSTART:20241114T121500Z
+SUMMARY:Metody oceny projektów gospodarczych (wykład do wyboru)
+UID:70914099-a66e-4af9-b77e-cf74d4f44e5d@7091.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241212T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241212T140000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:db0c900e-a305-49a4-8630-35a0f305526e@db0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20241113T101500Z
+LOCATION:Paw.S sala 5
+DTSTART:20241113T084500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:1f6c204d-6a73-469c-a75b-f2f4ee5a92ac@1f6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20250108T190000Z
+LOCATION:Paw.C sala E
+DTSTART:20250108T173000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:56e6bcfc-27e6-4790-825f-4887c6661a25@56e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20250115T190000Z
+LOCATION:Paw.C sala E
+DTSTART:20250115T173000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:2b7d6a1a-d0aa-43d0-ad8d-16bfbda04546@2b7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241216T171500Z
+LOCATION:Paw.C sala D
+DTSTART:20241216T154500Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:f9c813f9-c152-4083-8d07-a6ffe9f0addb@f9c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20241202T190000Z
+LOCATION:Paw.C sala D
+DTSTART:20241202T173000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:447ea8fd-69c4-4589-baa7-3efff62fbbe5@447e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20241118T153000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241118T140000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:26f35891-cfbf-4b83-8f57-721a69644b2d@26f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20241016T091500Z
+LOCATION:Paw.S sala 5
+DTSTART:20241016T074500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:c9c11e43-7c4e-47aa-a67c-841fdaf4d4c6@c9c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241024T143000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241024T130000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:23790452-4f28-4f58-88fa-bb7dfa9487ac@2379.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241104T190000Z
+LOCATION:Paw.C sala F
+DTSTART:20241104T173000Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:f0f58abc-a2be-4f12-8947-7ad0da4108a0@f0f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241127T153000Z
+LOCATION:Paw.F 615
+DTSTART:20241127T140000Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:cd94c63d-9a57-4a8e-92b4-965a1e77304b@cd94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20241218T190000Z
+LOCATION:Paw.C sala E
+DTSTART:20241218T173000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:25189aa4-b580-4c3b-a5ee-5afcf9edcd87@2518.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20241125T153000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241125T140000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:828729ed-caa6-46ba-bf02-51b937748167@8287.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20250122T200000Z
+LOCATION:Paw.C sala E
+DTSTART:20250122T191500Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:9965eaff-0244-42fc-bf56-5c76888127bd@9965.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20241001T180000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241001T163000Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (wykład)
+UID:239f6330-92cc-4edc-88ee-a3ac35741e75@239f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241007T161500Z
+LOCATION:Paw.C sala D
+DTSTART:20241007T144500Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:87bbd4d8-9815-47fb-bee9-6993a2822646@87bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241030T153000Z
+LOCATION:Paw.F 615
+DTSTART:20241030T140000Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:7582313d-59a7-46e4-adcf-1e1a16fddfe5@7582.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20241112T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20241112T103000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:58a87cfb-a0d6-4ac0-a67e-003c83d36e79@58a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241205T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241205T140000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:b8f0e317-ea45-494e-95cf-fd4da75771db@b8f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241021T073000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241021T060000Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:e3d104c1-1029-44fe-b3a4-ff70bd09f8e8@e3d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241010T143000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241010T130000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:27c79f7d-04ca-428f-ac69-08640d773f4c@27c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241017T124500Z
+LOCATION:Paw.S sala 5
+DTSTART:20241017T111500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:67d81e31-d016-4224-ac3d-4d5585e1a593@67d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20250113T171500Z
+LOCATION:Paw.C sala D
+DTSTART:20250113T154500Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:80a31b77-1eba-4baa-a724-320db6f54710@80a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241128T153000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241128T140000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:238258a1-a7c3-4796-b664-9738df3ac3de@2382.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20250113T190000Z
+LOCATION:Paw.C sala D
+DTSTART:20250113T173000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:2cf5b7ff-5f84-445e-a2af-f5aa84457453@2cf5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20241204T101500Z
+LOCATION:Paw.S sala 5
+DTSTART:20241204T084500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:79820faa-e859-4bb5-b1f1-f56f7d6a94e4@7982.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20250107T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20250107T103000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:21236789-d8cf-4ccf-ba68-a1a6ab5fad4d@2123.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Magdalena Małecka
+DTEND:20241105T134500Z
+LOCATION:Paw.C sala C
+DTSTART:20241105T121500Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia)
+UID:e248002f-c95b-4dae-9953-cfe678caebcc@e248.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20241022T110000Z
+LOCATION:Bud.gł. 7
+DTSTART:20241022T093000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:5cdc44ea-5b13-4102-8478-02490283de1d@5cdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20241007T143000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241007T130000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:bf520396-ba7d-48ae-938c-d7bcbedeb8ce@bf52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241120T153000Z
+LOCATION:Paw.F 615
+DTSTART:20241120T140000Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:6e0870f0-4e9a-4523-9b52-11a6d42d9a33@6e08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20241104T153000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241104T140000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:da6887aa-1beb-4879-a2b2-12bdcdf63c0e@da68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20241029T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20241029T103000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:fa375081-b466-4a04-9c52-e67e01fe5378@fa37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241211T153000Z
+LOCATION:Paw.F 615
+DTSTART:20241211T140000Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:c7576eab-db33-4f3a-a721-39e56135968a@c757.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Witold Furman
+DTEND:20241212T083000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241212T070000Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (ćwiczenia)
+UID:ca5f8f79-357f-4a26-9c24-3353d8531a54@ca5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20250115T153000Z
+LOCATION:Paw.F 615
+DTSTART:20250115T140000Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:e3b2ca28-845d-4750-a121-073965bb1c82@e3b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241014T091500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241014T074500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:5a67c0bf-b6db-44bb-98ad-cf2013309a71@5a67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20241003T120000Z
+LOCATION:Paw.S sala 5
+DTSTART:20241003T111500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:6a1fef1a-459d-4627-84a1-9625a5ebca03@6a1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241017T143000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241017T130000Z
+SUMMARY:Metody oceny projektów gospodarczych (ćwiczenia do wyboru)
+UID:02debfa8-baec-40bc-9afc-c6c823041aad@02de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20241105T120000Z
+LOCATION:Bud.gł. 7
+DTSTART:20241105T103000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:9e31b121-4421-4a86-9009-8c96d5910b8d@9e31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241028T171500Z
+LOCATION:Paw.C sala D
+DTSTART:20241028T154500Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:14eee8cd-d2d2-438c-bb8f-bb4c444ea7d8@14ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241023T143000Z
+LOCATION:Paw.F 615
+DTSTART:20241023T130000Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:b866a21a-7937-4fc8-b44c-61188abcc208@b866.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241023T161500Z
+LOCATION:Paw.S sala 9
+DTSTART:20241023T144500Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:83c37822-8446-4b9a-9c3d-d778e909385f@83c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Julia Szwiec
+DTEND:20241023T124500Z
+LOCATION:Paw.C  Nowa Aula
+DTSTART:20241023T111500Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (wykład)
+UID:2fb3bdd4-f753-47b0-8f5a-34b0e1863876@2fb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20241104T120000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241104T103000Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:ea0d4722-02e6-4db6-86d8-fb90bc489c3f@ea0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20241015T110000Z
+LOCATION:Bud.gł. 7
+DTSTART:20241015T093000Z
+SUMMARY:Jednostkowe sprawozdania finansowe (ćwiczenia)
+UID:140f77bd-4af5-4210-8bdc-b7e02a01fcc1@140f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241014T161500Z
+LOCATION:Paw.C sala D
+DTSTART:20241014T144500Z
+SUMMARY:Filozofia (wykład do wyboru)
+UID:d53303bd-963d-4f7f-99ee-540d4c2a9a75@d533.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20241023T180000Z
+LOCATION:Paw.C sala E
+DTSTART:20241023T163000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:acf54b1b-2dad-4cdf-8144-fd7951d3dc73@acf5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20241021T143000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241021T130000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:dcdaedc9-dea4-4020-b6e7-df0ed37c2e9e@dcda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241202T083000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241202T070000Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:7ad811de-be31-4fed-9990-4bed44ff6bc8@7ad8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20241218T101500Z
+LOCATION:Paw.S sala 5
+DTSTART:20241218T084500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:cc715257-fa6b-494a-b1eb-15a1db66d68c@cc71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241007T073000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241007T060000Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:b3e5fef5-4807-49db-862c-c09744145f98@b3e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Jonas
+DTEND:20241210T190000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241210T173000Z
+SUMMARY:Prawo podatkowe i rachunkowość podatkowa (wykład)
+UID:60b3517f-eb3a-4ca1-bd56-d82491176a75@60b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20250122T153000Z
+LOCATION:Paw.F 615
+DTSTART:20250122T140000Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:30e9ca8b-7b04-4fe5-a6b5-dc30e90aeef5@30e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20241014T143000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241014T130000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:8295b141-37e7-4faf-8caa-ff3225323e9b@8295.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iwona Mazur-Maślanka
+DTEND:20250115T101500Z
+LOCATION:Paw.S sala 5
+DTSTART:20250115T084500Z
+SUMMARY:Jednostkowe sprawozdania finansowe (wykład)
+UID:399bb70a-3edc-4264-aee9-89dbf3294a75@399b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20241014T110000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241014T093000Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:45376193-2a2b-4c17-b2c7-109f620aa5d3@4537.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Paweł Małecki
+DTEND:20250109T134500Z
+LOCATION:Paw.F 102
+DTSTART:20250109T121500Z
+SUMMARY:Metody oceny projektów gospodarczych (wykład do wyboru)
+UID:42db63b1-54e1-4de3-a5f9-ae18261cfec3@42db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20241127T190000Z
+LOCATION:Paw.C sala E
+DTSTART:20241127T173000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:5916151b-b430-4e02-8fce-10ae61d9e196@5916.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jeremiasz Salamon
+DTEND:20250109T134500Z
+LOCATION:Paw.S sala 5
+DTSTART:20250109T121500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (wykład do wyboru)
+UID:864522eb-9616-4013-b7d6-1700a88313be@8645.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20250120T120000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250120T103000Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:578cffb2-4d85-4ad2-9640-9a1c40f7e4fa@578c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20241125T120000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241125T103000Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:ad4f64ec-1001-489e-ab00-3ae2c296f382@ad4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr hab. Maria Łuszczyńska
+DTEND:20241216T083000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241216T070000Z
+SUMMARY:Socjologia (wykład do wyboru)
+UID:44455fd8-85d0-4314-9699-0ba1794403c0@4445.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Miodunka
+DTEND:20250120T153000Z
+LOCATION:Paw.S sala 9
+DTSTART:20250120T140000Z
+SUMMARY:Historia gospodarcza (wykład do wyboru)
+UID:f9a1c222-5298-4d77-9111-782fa0bf059f@f9a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20250120T101500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250120T084500Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:08964b6d-8c12-4eb7-8bd2-fe97c71b7c1f@0896.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Podsiadło
+DTEND:20241021T110000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241021T093000Z
+SUMMARY:Programowanie i finansowanie rozwoju regionalnego (ćwiczenia do wyboru)
+UID:8e4e4f0b-eb24-4e45-b915-532dd6763729@8e4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Lech Górniak
+DTEND:20241030T190000Z
+LOCATION:Paw.C sala E
+DTSTART:20241030T173000Z
+SUMMARY:Psychologia (wykład do wyboru)
+UID:d5c10e32-8428-42be-9ff4-261b9197c315@d5c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241023T110000Z
+LOCATION:Paw.F 717
+DTSTART:20241023T093000Z
+SUMMARY:Analiza Statystyczna w Finansach (wykład do wyboru)
+UID:31e2b4dc-14ae-4ebc-8ec1-797bacc1e247@31e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Elżbieta Kubińska
+DTEND:20241016T143000Z
+LOCATION:Paw.F 615
+DTSTART:20241016T130000Z
+SUMMARY:Analiza Statystyczna w Finansach (ćwiczenia do wyboru)
+UID:8124f7db-20e6-42ea-9bee-a9ee6db1aad7@8124.org
+END:VEVENT
+END:VCALENDAR

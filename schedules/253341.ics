@@ -1,0 +1,428 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Gracjana Noga
+DTEND:20250112T124500Z
+LOCATION:link do zajęć
+DTSTART:20250112T103000Z
+SUMMARY:Analizy i gry strategiczne (wykład do wyboru)
+UID:28a02939-8bd3-4d67-8402-ecc8166729c0@28a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20241213T194500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241213T173000Z
+SUMMARY:Innowacje w rozwoju MŚP (ćwiczenia)
+UID:217c54b2-6702-4555-8837-edd8eddc514b@217c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20241019T114500Z
+LOCATION:Paw.A 301b
+DTSTART:20241019T093000Z
+SUMMARY:Przedsiębiorczość korporacyjna (ćwiczenia)
+UID:f6261b68-d4ac-43f6-bf4e-4cc6f753085a@f626.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20241026T141500Z
+LOCATION:Paw.A 301b
+DTSTART:20241026T120000Z
+SUMMARY:Przedsiębiorczość korporacyjna (ćwiczenia)
+UID:836d1009-ba7e-4ac1-8f60-4aafacd75cd2@836d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20241115T194500Z
+LOCATION:link do zajęć
+DTSTART:20241115T173000Z
+SUMMARY:Organizacyjne formy wspierania innowacyjności (wykład)
+UID:7c386a92-ee7f-4c79-861f-de1b1c3f905a@7c38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Gracjana Noga
+DTEND:20241215T161500Z
+LOCATION:link do zajęć
+DTSTART:20241215T140000Z
+SUMMARY:Analizy i gry strategiczne (wykład do wyboru)
+UID:44cf1c40-e6aa-4725-b5cb-cccebe18c3ae@44cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zofia Gródek-Szostak
+DTEND:20241005T114500Z
+LOCATION:link do zajęć
+DTSTART:20241005T093000Z
+SUMMARY:Innowacyjne modele biznesowe (wykład)
+UID:f4dd0e3c-5f86-4edd-b3bc-873eb1e41e19@f4dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zofia Gródek-Szostak
+DTEND:20250111T124500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20250111T103000Z
+SUMMARY:Innowacyjne modele biznesowe (ćwiczenia)
+UID:f855b887-4adc-47aa-963c-b70f574c6667@f855.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20250111T184500Z
+LOCATION:Paw.U sala O
+DTSTART:20250111T163000Z
+SUMMARY:Przedsiębiorczość korporacyjna (ćwiczenia)
+UID:eb498559-d2cc-4ee5-bd5e-0a5fc4000580@eb49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20241005T090000Z
+LOCATION:link do zajęć
+DTSTART:20241005T064500Z
+SUMMARY:Innowacje w rozwoju MŚP (wykład)
+UID:d1733321-9cb8-4321-b8d6-9b1be7b1f359@d173.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241005T151500Z
+LOCATION:link do zajęć
+DTSTART:20241005T130000Z
+SUMMARY:Przedsiębiorczość korporacyjna (wykład)
+UID:750c744b-6779-4641-8113-6e4d8ff8e605@750c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20241020T090000Z
+LOCATION:link do zajęć
+DTSTART:20241020T064500Z
+SUMMARY:Innowacje w rozwoju MŚP (wykład)
+UID:17a15429-05cb-4f74-b359-2556af5301c3@17a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Niklewicz
+DTEND:20241215T124500Z
+LOCATION:link do zajęć
+DTSTART:20241215T103000Z
+SUMMARY:Zarządzanie zasobami informacyjnymi organizacji (wykład)
+UID:c889ff17-1084-4eb0-bb9d-cb36e45134e7@c889.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20241201T151500Z
+LOCATION:Paw.A 301b
+DTSTART:20241201T130000Z
+SUMMARY:Przedsiębiorczość korporacyjna (ćwiczenia)
+UID:a424dafb-4e7c-49aa-9ab4-de9af41b1c0a@a424.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20241025T160000Z
+LOCATION:link do zajęć
+DTSTART:20241025T134500Z
+SUMMARY:Innowacje w rozwoju MŚP (wykład)
+UID:963d6786-054a-47d1-a7b9-2e7c042b258e@963d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20241215T100000Z
+LOCATION:link do zajęć
+DTSTART:20241215T074500Z
+SUMMARY:Innowacje w rozwoju MŚP (wykład)
+UID:1d65e657-30c4-4312-8cbf-63ce80eab89c@1d65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Dąbrowska
+DTEND:20241116T161500Z
+LOCATION:link do zajęć
+DTSTART:20241116T140000Z
+SUMMARY:Innowacje w handlu i usługach (wykład)
+UID:d4d67333-d811-49de-bd17-805d249a0649@d4d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Niklewicz
+DTEND:20241115T170000Z
+LOCATION:link do zajęć
+DTSTART:20241115T144500Z
+SUMMARY:Zarządzanie zasobami informacyjnymi organizacji (wykład)
+UID:415c9e31-744a-41ad-adb4-f5314f770489@415c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zofia Gródek-Szostak
+DTEND:20241116T124500Z
+LOCATION:link do zajęć
+DTSTART:20241116T103000Z
+SUMMARY:Innowacyjne modele biznesowe (wykład)
+UID:e61fa20f-0535-45ad-83dd-e436f1132fd0@e61f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20241117T124500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241117T103000Z
+SUMMARY:Przedsiębiorczość korporacyjna (ćwiczenia)
+UID:39506203-af8c-4480-978a-5fec496c6624@3950.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zofia Gródek-Szostak
+DTEND:20241019T090000Z
+LOCATION:Paw.A 301b
+DTSTART:20241019T064500Z
+SUMMARY:Innowacyjne modele biznesowe (ćwiczenia)
+UID:761a8633-68af-48bf-b227-a10e77a3167e@761a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Dąbrowska
+DTEND:20250124T170000Z
+LOCATION:link do zajęć
+DTSTART:20250124T144500Z
+SUMMARY:Innowacje w handlu i usługach (wykład)
+UID:4dfd15ad-b753-4ec9-b54e-adeaac30dae5@4dfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zofia Gródek-Szostak
+DTEND:20241020T114500Z
+LOCATION:link do zajęć
+DTSTART:20241020T093000Z
+SUMMARY:Innowacyjne modele biznesowe (wykład)
+UID:a8e22961-b240-4d8b-9950-e913925a6e7c@a8e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zofia Gródek-Szostak
+DTEND:20250125T124500Z
+LOCATION:Paw.U sala O
+DTSTART:20250125T103000Z
+SUMMARY:Innowacyjne modele biznesowe (ćwiczenia)
+UID:bb6fb817-fefd-4725-a474-0fb576b20209@bb6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20241129T170000Z
+LOCATION:link do zajęć
+DTSTART:20241129T144500Z
+SUMMARY:Innowacje w rozwoju MŚP (wykład)
+UID:c72a19ba-c881-4e12-bbaa-b91069098843@c72a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Gracjana Noga
+DTEND:20250124T194500Z
+LOCATION:link do zajęć
+DTSTART:20250124T173000Z
+SUMMARY:Analizy i gry strategiczne (wykład do wyboru)
+UID:4afaa061-d966-4d33-b99e-e27de1426927@4afa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zofia Gródek-Szostak
+DTEND:20241026T114500Z
+LOCATION:Paw.U sala O
+DTSTART:20241026T093000Z
+SUMMARY:Innowacyjne modele biznesowe (ćwiczenia)
+UID:7d05ee8d-648f-440e-8214-387bfe615d57@7d05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Niklewicz
+DTEND:20250110T194500Z
+LOCATION:link do zajęć
+DTSTART:20250110T173000Z
+SUMMARY:Zarządzanie zasobami informacyjnymi organizacji (wykład)
+UID:c5d2704e-bb76-44a3-9367-cd36508bc6da@c5d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zofia Gródek-Szostak
+DTEND:20241130T124500Z
+LOCATION:link do zajęć
+DTSTART:20241130T103000Z
+SUMMARY:Innowacyjne modele biznesowe (wykład)
+UID:4d03602b-d996-4a43-8cdc-94a62394f0e2@4d03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20241006T090000Z
+LOCATION:link do zajęć
+DTSTART:20241006T064500Z
+SUMMARY:Organizacyjne formy wspierania innowacyjności (wykład)
+UID:865599a1-d2eb-4ab1-a720-a41b834f46fc@8655.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Niklewicz
+DTEND:20241129T194500Z
+LOCATION:link do zajęć
+DTSTART:20241129T173000Z
+SUMMARY:Zarządzanie zasobami informacyjnymi organizacji (wykład)
+UID:6c8e454f-1764-41c8-a87e-8609db1cca4e@6c8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20241026T090000Z
+LOCATION:Paw.U sala O
+DTSTART:20241026T064500Z
+SUMMARY:Innowacje w rozwoju MŚP (ćwiczenia)
+UID:8d60e763-abde-4400-804c-8fefcf0a7777@8d60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zofia Gródek-Szostak
+DTEND:20241201T124500Z
+LOCATION:Paw.U sala O
+DTSTART:20241201T103000Z
+SUMMARY:Innowacyjne modele biznesowe (ćwiczenia)
+UID:98e19065-0afd-40e2-9e10-8d05fe27174d@98e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Dąbrowska
+DTEND:20250112T100000Z
+LOCATION:link do zajęć
+DTSTART:20250112T074500Z
+SUMMARY:Innowacje w handlu i usługach (wykład)
+UID:227a8ed3-d08d-42ed-a5f5-975624d60b56@227a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20241116T100000Z
+LOCATION:link do zajęć
+DTSTART:20241116T074500Z
+SUMMARY:Innowacje w rozwoju MŚP (wykład)
+UID:a77e5ada-8afd-4113-a19f-efa4b302a58c@a77e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Justyna Dąbrowska
+DTEND:20241130T100000Z
+LOCATION:link do zajęć
+DTSTART:20241130T074500Z
+SUMMARY:Innowacje w handlu i usługach (wykład)
+UID:86580dac-0829-4b05-98f3-4922ad35f5f2@8658.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20241117T151500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241117T130000Z
+SUMMARY:Innowacje w rozwoju MŚP (ćwiczenia)
+UID:9bb48a71-a234-4300-a8f5-b0db50221999@9bb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20250125T161500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250125T140000Z
+SUMMARY:Innowacje w rozwoju MŚP (ćwiczenia)
+UID:5d91aa6c-4cd9-44bc-86c6-c2108156dd29@5d91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20241214T143000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241214T121500Z
+SUMMARY:Organizacyjne formy wspierania innowacyjności (ćwiczenia)
+UID:50b71f4a-4b61-444b-bf8c-e63eed7b9077@50b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20241201T100000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241201T074500Z
+SUMMARY:Organizacyjne formy wspierania innowacyjności (ćwiczenia)
+UID:1f2ba711-9f4f-4343-9b25-3bd25dd6782c@1f2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241027T124500Z
+LOCATION:link do zajęć
+DTSTART:20241027T103000Z
+SUMMARY:Przedsiębiorczość korporacyjna (wykład)
+UID:9b8bc5c0-20e3-42a0-ba79-c7c4cbcea55b@9b8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20241027T100000Z
+LOCATION:link do zajęć
+DTSTART:20241027T074500Z
+SUMMARY:Organizacyjne formy wspierania innowacyjności (wykład)
+UID:128ebf82-7e47-4e6d-974b-36386983460b@128e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20250125T100000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20250125T074500Z
+SUMMARY:Organizacyjne formy wspierania innowacyjności (ćwiczenia)
+UID:2c14be37-81d9-4a7b-b2c9-1ab33ecac937@2c14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zofia Gródek-Szostak
+DTEND:20241025T184500Z
+LOCATION:link do zajęć
+DTSTART:20241025T163000Z
+SUMMARY:Innowacyjne modele biznesowe (wykład)
+UID:a0c24c13-a293-4c19-8505-aa98675ff320@a0c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zofia Gródek-Szostak
+DTEND:20250110T170000Z
+LOCATION:link do zajęć
+DTSTART:20250110T144500Z
+SUMMARY:Innowacyjne modele biznesowe (wykład)
+UID:fa1e290c-eecf-47dc-96e9-3b2bbe7b4d26@fa1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241018T160000Z
+LOCATION:link do zajęć
+DTSTART:20241018T134500Z
+SUMMARY:Przedsiębiorczość korporacyjna (wykład)
+UID:e3d8151a-e469-4e7c-b4be-1eef497619b0@e3d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zofia Gródek-Szostak
+DTEND:20241214T170000Z
+LOCATION:Paw.U sala O
+DTSTART:20241214T144500Z
+SUMMARY:Innowacyjne modele biznesowe (ćwiczenia)
+UID:93422a59-ced5-4e5a-98d7-1e762094a325@9342.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20250111T161500Z
+LOCATION:Paw.U sala O
+DTSTART:20250111T140000Z
+SUMMARY:Innowacje w rozwoju MŚP (ćwiczenia)
+UID:851b83dd-04d2-4328-99e7-a4900bd2bf0b@851b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Knefel
+DTEND:20241019T141500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241019T120000Z
+SUMMARY:Innowacje w rozwoju MŚP (ćwiczenia)
+UID:b8638799-db43-4568-966f-960936a62a75@b863.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20241117T100000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241117T074500Z
+SUMMARY:Organizacyjne formy wspierania innowacyjności (ćwiczenia)
+UID:960b00c1-1415-48b2-a016-dd603f4f5fae@960b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20250111T100000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20250111T074500Z
+SUMMARY:Organizacyjne formy wspierania innowacyjności (ćwiczenia)
+UID:86ac5bb2-e09d-4df9-9fad-ca4702af8d02@86ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Szydło
+DTEND:20241018T184500Z
+LOCATION:link do zajęć
+DTSTART:20241018T163000Z
+SUMMARY:Organizacyjne formy wspierania innowacyjności (wykład)
+UID:894e33f0-1066-4eed-8ce7-9a2a79e4e821@894e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Aleksandra Witoszek-Kubicka
+DTEND:20241213T170000Z
+LOCATION:Paw.C sala B
+DTSTART:20241213T144500Z
+SUMMARY:Przedsiębiorczość korporacyjna (ćwiczenia)
+UID:265f5a51-3914-418d-91e4-05fffc36aaef@265f.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,674 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241216T134500Z
+LOCATION:link do zajęć
+DTSTART:20241216T121500Z
+SUMMARY:Wdrażanie\, dokumentowanie i certyfikacja systemu zarządzania jakością (wykład)
+UID:e9a4a010-3378-45e5-85b7-49aee096bede@e9a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20241003T091500Z
+LOCATION:link do zajęć
+DTSTART:20241003T074500Z
+SUMMARY:Identyfikacja zagrożeń mikrobiologicznych produktu (wykład)
+UID:b8b3dfc5-b61f-415b-aaba-9710dc3cff1a@b8b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20241028T133000Z
+LOCATION:link do zajęć
+DTSTART:20241028T111500Z
+SUMMARY:Psychospołeczne aspekty jakości (wykład do wyboru)
+UID:9a1cd3cb-96fd-412e-8549-68a36cccb395@9a1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241106T120000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241106T103000Z
+SUMMARY:Wdrażanie\, dokumentowanie i certyfikacja systemu zarządzania jakością (ćwiczenia)
+UID:70ef8d89-6a3b-43bb-b959-35a13ef50d64@70ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak  dr inż. Gabriela Zielińska
+DTEND:20241218T143000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241218T130000Z
+SUMMARY:Porównawcza analiza jakości produktów przemysłowych (ćwiczenia)
+UID:fd886fe2-b953-4c96-96be-ab52776e6283@fd88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20250113T134500Z
+LOCATION:link do zajęć
+DTSTART:20250113T121500Z
+SUMMARY:Wdrażanie\, dokumentowanie i certyfikacja systemu zarządzania jakością (wykład)
+UID:d6e16f24-1622-4bb4-9c3b-8c11dda8c1de@d6e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241021T124500Z
+LOCATION:link do zajęć
+DTSTART:20241021T111500Z
+SUMMARY:Wdrażanie\, dokumentowanie i certyfikacja systemu zarządzania jakością (wykład)
+UID:c50a79a2-b112-488d-82e3-30c8d07a4c3f@c50a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak  dr inż. Gabriela Zielińska
+DTEND:20241030T143000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241030T130000Z
+SUMMARY:Porównawcza analiza jakości produktów przemysłowych (ćwiczenia)
+UID:5d6625fe-3889-409f-9a7e-4ece15220586@5d66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:d41912b5-215d-4798-b797-0d9f3455c5cc@d419.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak  dr inż. Gabriela Zielińska
+DTEND:20241016T133000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241016T120000Z
+SUMMARY:Porównawcza analiza jakości produktów przemysłowych (ćwiczenia)
+UID:7142794e-d8d3-4239-826a-1ddd3f15fdd5@7142.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak  dr inż. Gabriela Zielińska
+DTEND:20250122T143000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20250122T130000Z
+SUMMARY:Porównawcza analiza jakości produktów przemysłowych (ćwiczenia)
+UID:3ce57ec3-34c2-4228-995c-de3a8e274e83@3ce5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak  dr inż. Gabriela Zielińska
+DTEND:20241204T143000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241204T130000Z
+SUMMARY:Porównawcza analiza jakości produktów przemysłowych (ćwiczenia)
+UID:b90c0217-b8a8-41ea-aede-c28768ae0b96@b90c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20241104T120000Z
+LOCATION:link do zajęć
+DTSTART:20241104T103000Z
+SUMMARY:Rękojmia za wady rzeczy i gwarancja jakości (wykład do wyboru)
+UID:28fe446c-6597-4d40-bf87-5a086eb7b0a3@28fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20241107T101500Z
+LOCATION:link do zajęć
+DTSTART:20241107T084500Z
+SUMMARY:Identyfikacja zagrożeń mikrobiologicznych produktu (wykład)
+UID:3a21bce6-a185-4e55-be10-fac3d4c4879f@3a21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20250108T130000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20250108T121500Z
+SUMMARY:Twórcze rozwiązywanie problemów w organizacjach zarządzanych projakośc (konwersatorium)
+UID:f6d48fe4-0606-41ac-ae39-d9dfd01e023e@f6d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241016T091500Z
+LOCATION:Paw.F 516
+DTSTART:20241016T074500Z
+SUMMARY:Systemowe zarządzanie bezpieczeństwem produktu (konwersatorium)
+UID:7a10a335-ce5e-4ac7-85d3-b9c8f085d6fa@7a10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20250108T120000Z
+LOCATION:Paw.S sala 6
+DTSTART:20250108T103000Z
+SUMMARY:Twórcze rozwiązywanie problemów w organizacjach zarządzanych projakośc (konwersatorium)
+UID:22970462-87e1-4c83-9748-3bc90c49a508@2297.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20250122T120000Z
+LOCATION:Paw.S sala 6
+DTSTART:20250122T103000Z
+SUMMARY:Twórcze rozwiązywanie problemów w organizacjach zarządzanych projakośc (konwersatorium)
+UID:63a01b20-af43-47b8-bbc9-c89998db2346@63a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241007T124500Z
+LOCATION:link do zajęć
+DTSTART:20241007T111500Z
+SUMMARY:Wdrażanie\, dokumentowanie i certyfikacja systemu zarządzania jakością (wykład)
+UID:214d4731-4656-4057-a1dc-8589fc217f35@214d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241113T101500Z
+LOCATION:Paw.F 516
+DTSTART:20241113T084500Z
+SUMMARY:Systemowe zarządzanie bezpieczeństwem produktu (konwersatorium)
+UID:6b5f5595-29d3-4f31-8080-9b6da6c7093f@6b5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20241106T170000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241106T144500Z
+SUMMARY:Dynamika zmian jakości produktu (konwersatorium)
+UID:ead163cd-e28e-4427-8dcc-9c1af9c2f631@ead1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20241216T120000Z
+LOCATION:link do zajęć
+DTSTART:20241216T103000Z
+SUMMARY:Rękojmia za wady rzeczy i gwarancja jakości (wykład do wyboru)
+UID:63bdf8eb-cdef-4e95-8a19-cedae68e4f56@63bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak  dr inż. Gabriela Zielińska
+DTEND:20250121T161500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20250121T144500Z
+SUMMARY:Porównawcza analiza jakości produktów przemysłowych (ćwiczenia)
+UID:f50dff99-5f66-4930-9859-77647d80c712@f50d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20241022T133000Z
+LOCATION:Sienk. 4  sala  48
+DTSTART:20241022T111500Z
+SUMMARY:Identyfikacja zagrożeń mikrobiologicznych produktu (laboratorium)
+UID:211ebe9f-2e44-40df-8986-d2b5ba1dd4aa@211e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241023T110000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241023T093000Z
+SUMMARY:Wdrażanie\, dokumentowanie i certyfikacja systemu zarządzania jakością (ćwiczenia)
+UID:1d63f16e-10dd-4683-aceb-2f0cd73de0b0@1d63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak  dr inż. Gabriela Zielińska
+DTEND:20250108T143000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20250108T130000Z
+SUMMARY:Porównawcza analiza jakości produktów przemysłowych (ćwiczenia)
+UID:11258eb6-0ef8-4dbf-99fa-55f1b4d42438@1125.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20250120T133000Z
+LOCATION:link do zajęć
+DTSTART:20250120T111500Z
+SUMMARY:Psychospołeczne aspekty jakości (wykład do wyboru)
+UID:4ca2f060-bab3-47d2-8462-70e642df166b@4ca2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak  dr inż. Gabriela Zielińska
+DTEND:20241211T143000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241211T130000Z
+SUMMARY:Porównawcza analiza jakości produktów przemysłowych (ćwiczenia)
+UID:127f0ea0-d4ef-4347-9453-a3b37da0ae19@127f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20241112T114500Z
+LOCATION:Sienk. 4  sala  48
+DTSTART:20241112T093000Z
+SUMMARY:Identyfikacja zagrożeń mikrobiologicznych produktu (laboratorium)
+UID:822904cc-92fb-4a4f-8804-475653e88d3e@8229.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241202T134500Z
+LOCATION:link do zajęć
+DTSTART:20241202T121500Z
+SUMMARY:Wdrażanie\, dokumentowanie i certyfikacja systemu zarządzania jakością (wykład)
+UID:ad0ada72-8be3-436b-9532-98f551efb622@ad0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20241105T143000Z
+LOCATION:Sienk. 4  sala  48
+DTSTART:20241105T121500Z
+SUMMARY:Identyfikacja zagrożeń mikrobiologicznych produktu (laboratorium)
+UID:125b4b17-4ef3-4e91-922e-eab8536ae9b1@125b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20241015T104500Z
+LOCATION:Sienk. 4  sala  48
+DTSTART:20241015T083000Z
+SUMMARY:Identyfikacja zagrożeń mikrobiologicznych produktu (laboratorium)
+UID:81e1e7b1-38a0-4203-9c86-a624786470da@81e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20241017T091500Z
+LOCATION:link do zajęć
+DTSTART:20241017T074500Z
+SUMMARY:Identyfikacja zagrożeń mikrobiologicznych produktu (wykład)
+UID:41511918-402e-4adf-9729-3746a68b1148@4151.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak  dr inż. Gabriela Zielińska
+DTEND:20241120T143000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241120T130000Z
+SUMMARY:Porównawcza analiza jakości produktów przemysłowych (ćwiczenia)
+UID:8ab2e2df-59fc-49fc-8bad-7fd276660736@8ab2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20241029T114500Z
+LOCATION:Sienk. 4  sala  48
+DTSTART:20241029T093000Z
+SUMMARY:Identyfikacja zagrożeń mikrobiologicznych produktu (laboratorium)
+UID:d943f475-f1b3-47d0-8702-9d23205a8d5f@d943.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20241211T120000Z
+LOCATION:Paw.S sala 6
+DTSTART:20241211T103000Z
+SUMMARY:Twórcze rozwiązywanie problemów w organizacjach zarządzanych projakośc (konwersatorium)
+UID:7ab620ff-2a3d-4c7f-a8e9-a463bab0ab20@7ab6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20241021T110000Z
+LOCATION:link do zajęć
+DTSTART:20241021T093000Z
+SUMMARY:Rękojmia za wady rzeczy i gwarancja jakości (wykład do wyboru)
+UID:1266a5b8-61e0-436a-bc03-fb726bb8eaa3@1266.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak  dr inż. Gabriela Zielińska
+DTEND:20241113T143000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241113T130000Z
+SUMMARY:Porównawcza analiza jakości produktów przemysłowych (ćwiczenia)
+UID:4072da32-d365-4b5a-b0f3-07ac4ea0927a@4072.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20241022T104500Z
+LOCATION:Sienk. 4  sala  48
+DTSTART:20241022T083000Z
+SUMMARY:Identyfikacja zagrożeń mikrobiologicznych produktu (laboratorium)
+UID:bc9d2420-c732-4382-8818-c4e9aeae69be@bc9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20241030T170000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241030T144500Z
+SUMMARY:Dynamika zmian jakości produktu (konwersatorium)
+UID:b58b5642-325b-49f7-ba34-34e393f86a16@b58b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20241114T101500Z
+LOCATION:link do zajęć
+DTSTART:20241114T084500Z
+SUMMARY:Identyfikacja zagrożeń mikrobiologicznych produktu (wykład)
+UID:81f9b1b9-4c27-4f21-bc8f-7a87d5ed5268@81f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20250121T083000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250121T074500Z
+SUMMARY:Wdrażanie\, dokumentowanie i certyfikacja systemu zarządzania jakością (ćwiczenia)
+UID:b6439047-581d-4685-a37e-23b75c599757@b643.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241204T120000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241204T103000Z
+SUMMARY:Wdrażanie\, dokumentowanie i certyfikacja systemu zarządzania jakością (ćwiczenia)
+UID:595e4bbf-efd5-484f-82fe-c23f24f3dcd6@595e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241211T101500Z
+LOCATION:Paw.F 516
+DTSTART:20241211T084500Z
+SUMMARY:Systemowe zarządzanie bezpieczeństwem produktu (konwersatorium)
+UID:8d99babe-8776-4624-ab02-9ff583f9bd5a@8d99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20241015T133000Z
+LOCATION:Sienk. 4  sala  48
+DTSTART:20241015T111500Z
+SUMMARY:Identyfikacja zagrożeń mikrobiologicznych produktu (laboratorium)
+UID:c1eb80ff-b329-4293-8279-fd69c36c64e6@c1eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak  dr inż. Gabriela Zielińska
+DTEND:20241127T143000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241127T130000Z
+SUMMARY:Porównawcza analiza jakości produktów przemysłowych (ćwiczenia)
+UID:3337364d-1dc2-4814-b3a0-72ee3a281687@3337.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20241125T133000Z
+LOCATION:link do zajęć
+DTSTART:20241125T111500Z
+SUMMARY:Psychospołeczne aspekty jakości (wykład do wyboru)
+UID:ffc60f94-c9ec-4c1b-ac84-052485734a62@ffc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20241030T120000Z
+LOCATION:Paw.S sala 6
+DTSTART:20241030T103000Z
+SUMMARY:Twórcze rozwiązywanie problemów w organizacjach zarządzanych projakośc (konwersatorium)
+UID:7ce7ee53-bce5-427d-a794-f79c56a1deeb@7ce7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak  dr inż. Gabriela Zielińska
+DTEND:20241106T143000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241106T130000Z
+SUMMARY:Porównawcza analiza jakości produktów przemysłowych (ćwiczenia)
+UID:af7ba156-dd5f-4eaa-8e53-0b49095d2546@af7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241218T120000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241218T103000Z
+SUMMARY:Wdrażanie\, dokumentowanie i certyfikacja systemu zarządzania jakością (ćwiczenia)
+UID:1afeb8cd-c5d1-4664-90cc-f41b259cc2ac@1afe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak  dr inż. Gabriela Zielińska
+DTEND:20250115T143000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20250115T130000Z
+SUMMARY:Porównawcza analiza jakości produktów przemysłowych (ćwiczenia)
+UID:2befe680-8206-4b74-bc75-04f35af12b76@2bef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20250108T101500Z
+LOCATION:Paw.F 516
+DTSTART:20250108T084500Z
+SUMMARY:Systemowe zarządzanie bezpieczeństwem produktu (konwersatorium)
+UID:ec6c9469-6daa-4784-b739-f10a42d04c6e@ec6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak  dr inż. Gabriela Zielińska
+DTEND:20241023T133000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241023T120000Z
+SUMMARY:Porównawcza analiza jakości produktów przemysłowych (ćwiczenia)
+UID:bab7f95d-e62b-4cfc-886c-96140223329a@bab7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20241105T114500Z
+LOCATION:Sienk. 4  sala  48
+DTSTART:20241105T093000Z
+SUMMARY:Identyfikacja zagrożeń mikrobiologicznych produktu (laboratorium)
+UID:2fcddc1f-e295-40bf-8b0d-2a8bcac05818@2fcd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20241118T120000Z
+LOCATION:link do zajęć
+DTSTART:20241118T103000Z
+SUMMARY:Rękojmia za wady rzeczy i gwarancja jakości (wykład do wyboru)
+UID:d6c96dc7-48b3-4048-b8bd-6ae6f6891046@d6c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20250120T111500Z
+LOCATION:link do zajęć
+DTSTART:20250120T103000Z
+SUMMARY:Rękojmia za wady rzeczy i gwarancja jakości (wykład do wyboru)
+UID:e1fca815-6b38-4a43-91b4-dfedcbe61ea6@e1fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20250115T120000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250115T103000Z
+SUMMARY:Wdrażanie\, dokumentowanie i certyfikacja systemu zarządzania jakością (ćwiczenia)
+UID:d40d7e89-be0e-4c1e-a5ac-11701186bb77@d40d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20241112T143000Z
+LOCATION:Sienk. 4  sala  48
+DTSTART:20241112T121500Z
+SUMMARY:Identyfikacja zagrożeń mikrobiologicznych produktu (laboratorium)
+UID:2add6ea0-1c5d-4455-a8de-3de4e8cf736a@2add.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20250113T120000Z
+LOCATION:link do zajęć
+DTSTART:20250113T103000Z
+SUMMARY:Rękojmia za wady rzeczy i gwarancja jakości (wykład do wyboru)
+UID:e91d3b5b-e1c2-4243-9094-d47475f5a0d4@e91d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241127T101500Z
+LOCATION:Paw.F 516
+DTSTART:20241127T084500Z
+SUMMARY:Systemowe zarządzanie bezpieczeństwem produktu (konwersatorium)
+UID:2c6485d8-25a1-4221-92a3-b98c026a05ad@2c64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20241014T123000Z
+LOCATION:link do zajęć
+DTSTART:20241014T101500Z
+SUMMARY:Psychospołeczne aspekty jakości (wykład do wyboru)
+UID:63e3f1f9-fef8-4954-aa18-aa094026643a@63e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20241010T091500Z
+LOCATION:link do zajęć
+DTSTART:20241010T074500Z
+SUMMARY:Identyfikacja zagrożeń mikrobiologicznych produktu (wykład)
+UID:6fe43a6d-c138-4a9c-9ed9-918a1dcf24fb@6fe4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20241113T170000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241113T144500Z
+SUMMARY:Dynamika zmian jakości produktu (konwersatorium)
+UID:db9b3490-f255-4629-912b-74cff426f789@db9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20241209T133000Z
+LOCATION:link do zajęć
+DTSTART:20241209T111500Z
+SUMMARY:Psychospołeczne aspekty jakości (wykład do wyboru)
+UID:835b4ad8-78f0-4afc-90d0-e5fdbbb1af80@835b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20241113T120000Z
+LOCATION:Paw.S sala 6
+DTSTART:20241113T103000Z
+SUMMARY:Twórcze rozwiązywanie problemów w organizacjach zarządzanych projakośc (konwersatorium)
+UID:55fddee6-4c78-4799-b93a-9b5b7db99db4@55fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak  dr inż. Gabriela Zielińska
+DTEND:20241009T133000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241009T120000Z
+SUMMARY:Porównawcza analiza jakości produktów przemysłowych (ćwiczenia)
+UID:1e91c0d9-ee17-4d7e-a2b6-151f2b81d3da@1e91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241104T134500Z
+LOCATION:link do zajęć
+DTSTART:20241104T121500Z
+SUMMARY:Wdrażanie\, dokumentowanie i certyfikacja systemu zarządzania jakością (wykład)
+UID:edf376fe-51fd-4012-bb2d-58dc3339cdd9@edf3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Sawoszczuk
+DTEND:20241029T143000Z
+LOCATION:Sienk. 4  sala  48
+DTSTART:20241029T121500Z
+SUMMARY:Identyfikacja zagrożeń mikrobiologicznych produktu (laboratorium)
+UID:1bf99ef6-0818-4221-98dd-82aa90bf1c0b@1bf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20241016T110000Z
+LOCATION:Paw.S sala 6
+DTSTART:20241016T093000Z
+SUMMARY:Twórcze rozwiązywanie problemów w organizacjach zarządzanych projakośc (konwersatorium)
+UID:21279660-cd2d-4d96-a5ca-c467c1c4c80f@2127.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:ee9af893-4ea6-49f1-8eae-5b71ee408f7f@ee9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20241007T110000Z
+LOCATION:link do zajęć
+DTSTART:20241007T093000Z
+SUMMARY:Rękojmia za wady rzeczy i gwarancja jakości (wykład do wyboru)
+UID:39c32d84-b835-4999-bd1f-669309d306d6@39c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241120T120000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241120T103000Z
+SUMMARY:Wdrażanie\, dokumentowanie i certyfikacja systemu zarządzania jakością (ćwiczenia)
+UID:e1216180-957a-4c43-b6c2-942a00d3783c@e121.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20241127T120000Z
+LOCATION:Paw.S sala 6
+DTSTART:20241127T103000Z
+SUMMARY:Twórcze rozwiązywanie problemów w organizacjach zarządzanych projakośc (konwersatorium)
+UID:ea01da16-f9f6-4c08-8e4a-756496ce06f6@ea01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20241121T093000Z
+LOCATION:link do zajęć
+DTSTART:20241121T084500Z
+SUMMARY:Identyfikacja zagrożeń mikrobiologicznych produktu (wykład)
+UID:56fc4c92-4307-4e54-a35c-1c9bde11b95c@56fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20250122T100000Z
+LOCATION:Paw.F 516
+DTSTART:20250122T074500Z
+SUMMARY:Systemowe zarządzanie bezpieczeństwem produktu (konwersatorium)
+UID:5a0e5ab8-a4a1-4a36-9745-fbe0db9d469f@5a0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20241120T170000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241120T144500Z
+SUMMARY:Dynamika zmian jakości produktu (konwersatorium)
+UID:f8bd0682-98ac-4706-ad9b-e3ff554ea84c@f8bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Elżbieta Kondratowicz-Pietruszka
+DTEND:20241023T160000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241023T134500Z
+SUMMARY:Dynamika zmian jakości produktu (konwersatorium)
+UID:d450e90c-6afa-47bd-b8ce-0f3e631e392e@d450.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241030T101500Z
+LOCATION:Paw.F 516
+DTSTART:20241030T084500Z
+SUMMARY:Systemowe zarządzanie bezpieczeństwem produktu (konwersatorium)
+UID:6e05a1a6-aded-43c3-b41c-421d4cd123e1@6e05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Kukuryk
+DTEND:20241202T120000Z
+LOCATION:link do zajęć
+DTSTART:20241202T103000Z
+SUMMARY:Rękojmia za wady rzeczy i gwarancja jakości (wykład do wyboru)
+UID:aedd2ad9-6bbf-4bf7-9d97-eba565e77bf2@aedd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20241024T091500Z
+LOCATION:link do zajęć
+DTSTART:20241024T074500Z
+SUMMARY:Identyfikacja zagrożeń mikrobiologicznych produktu (wykład)
+UID:5f206323-0e3e-4a1d-ab38-3019de67071e@5f20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241118T134500Z
+LOCATION:link do zajęć
+DTSTART:20241118T121500Z
+SUMMARY:Wdrażanie\, dokumentowanie i certyfikacja systemu zarządzania jakością (wykład)
+UID:89d23646-3d47-4729-8210-f3e968cb3cfe@89d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241009T110000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241009T093000Z
+SUMMARY:Wdrażanie\, dokumentowanie i certyfikacja systemu zarządzania jakością (ćwiczenia)
+UID:05d24f46-d615-4b5b-b027-2d414cc678eb@05d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20250120T101500Z
+LOCATION:link do zajęć
+DTSTART:20250120T093000Z
+SUMMARY:Wdrażanie\, dokumentowanie i certyfikacja systemu zarządzania jakością (wykład)
+UID:1f6313cb-904e-42ed-b69c-e4f719cff7af@1f63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20241031T101500Z
+LOCATION:link do zajęć
+DTSTART:20241031T084500Z
+SUMMARY:Identyfikacja zagrożeń mikrobiologicznych produktu (wykład)
+UID:11cca985-f2a0-439f-b087-0b2b4e3015a7@11cc.org
+END:VEVENT
+END:VCALENDAR

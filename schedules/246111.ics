@@ -1,0 +1,124 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
+DTEND:20241005T124500Z
+LOCATION:Paw.G  7
+DTSTART:20241005T064500Z
+SUMMARY:Wprowadzenie do ESG i zrównoważonych finansów (Studia podyplomowe)
+UID:b409d687-74cf-4812-b63c-461561545b7f@b409.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
+DTEND:20241109T134500Z
+LOCATION:Paw.G  7
+DTSTART:20241109T074500Z
+SUMMARY:Tworzenie strategii przedsiębiorstwa z perspektywy ESG (Studia podyplomowe)
+UID:807f590e-facc-46cb-af3c-409c5a3646cc@807f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacqueline Kacprzak
+DTEND:20241110T134500Z
+LOCATION:Paw.G  7
+DTSTART:20241110T074500Z
+SUMMARY:ESRS � standardy społeczne (Studia podyplomowe)
+UID:77dc41b6-c9f7-40a4-bd33-bbe7e06d5589@77dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Sławomir Brzózek
+DTEND:20250111T134500Z
+LOCATION:Paw.G 11
+DTSTART:20250111T074500Z
+SUMMARY:ESRS � standardy środowiskowe (Studia podyplomowe)
+UID:1b6ebf0a-11e1-4d34-9c6f-951d8f7bc3a7@1b6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacqueline Kacprzak
+DTEND:20250201T134500Z
+LOCATION:Paw.G  7
+DTSTART:20250201T074500Z
+SUMMARY:ESRS � standardy społeczne (Studia podyplomowe)
+UID:592fb378-6ff7-4d40-a93f-5422183133c8@592f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jacqueline Kacprzak
+DTEND:20250202T134500Z
+LOCATION:Paw.G  7
+DTSTART:20250202T074500Z
+SUMMARY:ESRS � standardy społeczne (Studia podyplomowe)
+UID:faf22d0a-d85d-4d7b-a316-6bd472ffd68b@faf2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Sławomir Brzózek
+DTEND:20241208T134500Z
+LOCATION:Paw.G  7
+DTSTART:20241208T074500Z
+SUMMARY:ESRS � standardy środowiskowe (Studia podyplomowe)
+UID:9de934f3-082f-464c-a1ec-5ebedb409b65@9de9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Sławomir Brzózek
+DTEND:20241020T094500Z
+LOCATION:Paw.G  7
+DTSTART:20241020T064500Z
+SUMMARY:ESRS � analiza podwójnej istotności (Studia podyplomowe)
+UID:d620f61f-b0e8-4462-b5be-39abcf24313f@d620.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Przemysław Oczyp
+DTEND:20241124T134500Z
+LOCATION:Paw.G 11
+DTSTART:20241124T074500Z
+SUMMARY:Strategia dekarbonizacji (Studia podyplomowe)
+UID:95058f61-a875-46c5-aadc-3d96465d3be9@9505.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Przemysław Oczyp
+DTEND:20241123T134500Z
+LOCATION:Paw.G 11
+DTSTART:20241123T074500Z
+SUMMARY:Strategia dekarbonizacji (Studia podyplomowe)
+UID:2afb7559-0a92-45ac-8c27-92e6718f2f85@2afb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Sławomir Brzózek
+DTEND:20241207T134500Z
+LOCATION:Paw.G  7
+DTSTART:20241207T074500Z
+SUMMARY:ESRS � standardy środowiskowe (Studia podyplomowe)
+UID:70114201-a853-420f-86c8-827868b14008@7011.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Żaba-Nieroda
+DTEND:20250215T134500Z
+LOCATION:Paw.G  7
+DTSTART:20250215T074500Z
+SUMMARY:Tworzenie strategii przedsiębiorstwa z perspektywy ESG (Studia podyplomowe)
+UID:b53cf079-f6bc-402f-9578-30fee66e28ea@b53c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Krasodomska
+DTEND:20241006T124500Z
+LOCATION:Paw.G  7
+DTSTART:20241006T064500Z
+SUMMARY:Uwarunkowania prawne ESG (Studia podyplomowe)
+UID:7ca632ca-b39e-440d-a202-218ddcd292ba@7ca6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Sławomir Brzózek
+DTEND:20241019T124500Z
+LOCATION:Paw.G  7
+DTSTART:20241019T064500Z
+SUMMARY:ESRS � analiza podwójnej istotności (Studia podyplomowe)
+UID:eafc5f5c-be27-4ec2-a1bf-aa20c82316fc@eafc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Zajączkowska
+DTEND:20241005T064500Z
+LOCATION:Paw.G  7
+DTSTART:20241005T060000Z
+SUMMARY:Zajęcia organizacyjne (Studia podyplomowe)
+UID:289e6fc8-5b34-40c0-a9e5-b992b377d3c3@289e.org
+END:VEVENT
+END:VCALENDAR

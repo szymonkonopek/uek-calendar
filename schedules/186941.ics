@@ -1,0 +1,444 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241005T141500Z
+LOCATION:link do zajęć
+DTSTART:20241005T120000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:70d38516-4262-479f-b3b3-36680abce96f@70d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20241201T180000Z
+LOCATION:Paw.U sala M
+DTSTART:20241201T154500Z
+SUMMARY:Konstrukcja maszyn i projektowanie inżynierskie (laboratorium)
+UID:58532145-2b45-45fe-8c3d-4a5ad61cddf7@5853.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20241115T170000Z
+LOCATION:link do zajęć
+DTSTART:20241115T144500Z
+SUMMARY:Rachunkowość (wykład)
+UID:40245dd9-5cfd-4087-9808-10b4135900a0@4024.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20241117T091500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241117T070000Z
+SUMMARY:Technologia informacyjna (laboratorium)
+UID:28afe0a5-7f70-4186-81e5-c238ee93f87c@28af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241117T151500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241117T130000Z
+SUMMARY:Procesy i techniki produkcyjne (laboratorium)
+UID:e65379a4-c8c4-484e-9098-9eb5a97a53c3@e653.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20241026T090000Z
+LOCATION:link do zajęć
+DTSTART:20241026T064500Z
+SUMMARY:Konstrukcja maszyn i projektowanie inżynierskie (wykład)
+UID:973c5086-99fd-4bed-b210-da846ff79752@973c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20241018T184500Z
+LOCATION:link do zajęć
+DTSTART:20241018T163000Z
+SUMMARY:Rachunkowość (wykład)
+UID:58cd5c63-faa2-430d-8174-ea70b32db6c8@58cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
+DTEND:20241020T114500Z
+LOCATION:link do zajęć
+DTSTART:20241020T093000Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
+UID:a4e91c06-0444-420f-b9b2-a1c8dc08698d@a4e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20241027T143000Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241027T121500Z
+SUMMARY:Technologia informacyjna (laboratorium)
+UID:0c9cb943-455b-4966-a899-a40a6e485d44@0c9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20241123T100000Z
+LOCATION:Sienk. 4 pr. przem. 3
+DTSTART:20241123T070000Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
+UID:802b7025-6343-450f-a52b-0427f0cf021f@802b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20241019T123000Z
+LOCATION:link do zajęć
+DTSTART:20241019T101500Z
+SUMMARY:Marketing (wykład)
+UID:64ee2cdf-4900-4c72-9427-cae61477318a@64ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20241123T170000Z
+LOCATION:Paw.F 416
+DTSTART:20241123T144500Z
+SUMMARY:Rachunkowość (ćwiczenia)
+UID:9631fc76-f9db-4444-b7ee-abf19f0dea09@9631.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
+DTEND:20241206T180000Z
+LOCATION:link do zajęć
+DTSTART:20241206T154500Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
+UID:bf3b35f6-ef42-4449-90f7-f8c167edf566@bf3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20241130T151500Z
+LOCATION:link do zajęć
+DTSTART:20241130T130000Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
+UID:6337524d-9489-4c46-816d-ef1f5d7afe2d@6337.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20241019T094500Z
+LOCATION:link do zajęć
+DTSTART:20241019T064500Z
+SUMMARY:Konstrukcja maszyn i projektowanie inżynierskie (wykład)
+UID:ab70426b-478c-4384-a8ff-97b5e8b4ce0e@ab70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20241006T114500Z
+LOCATION:link do zajęć
+DTSTART:20241006T093000Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
+UID:587e1a6b-da04-4307-a126-158639045948@587e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20250110T180000Z
+LOCATION:Paw.S sala 11
+DTSTART:20250110T154500Z
+SUMMARY:Procesy i techniki produkcyjne (laboratorium)
+UID:2b383925-e085-4ca8-a8d1-ba2053613188@2b38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20241213T190000Z
+LOCATION:link do zajęć
+DTSTART:20241213T173000Z
+SUMMARY:Konstrukcja maszyn i projektowanie inżynierskie (wykład)
+UID:2b6ddba3-69af-45b1-978d-5f93a61fd161@2b6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250111T100000Z
+LOCATION:link do zajęć
+DTSTART:20250111T074500Z
+SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
+UID:71417636-7545-4d8f-a7f8-b2aaf73af3f5@7141.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20241122T194500Z
+LOCATION:link do zajęć
+DTSTART:20241122T173000Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
+UID:8f6103f5-7cf7-4100-a320-73f16ee9074a@8f61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20241130T091500Z
+LOCATION:link do zajęć
+DTSTART:20241130T070000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
+UID:487191db-7ee0-4317-a00f-e898c7286a4b@4871.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20250126T143000Z
+LOCATION:Paw.S sala 11
+DTSTART:20250126T130000Z
+SUMMARY:Procesy i techniki produkcyjne (laboratorium)
+UID:92277a19-0a73-41f7-9f4e-e127ee253aed@9227.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20250112T180000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20250112T154500Z
+SUMMARY:Technologia informacyjna (laboratorium)
+UID:60da2658-b24f-479e-bdf3-462119f4fff9@60da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241201T151500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241201T130000Z
+SUMMARY:Procesy i techniki produkcyjne (laboratorium)
+UID:47550686-d8da-4fcc-a39c-d4c3289731ad@4755.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20241222T091500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241222T070000Z
+SUMMARY:Technologia informacyjna (laboratorium)
+UID:b369b889-4b54-4dbd-af03-4ec217a6bcf8@b369.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241207T133000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241207T111500Z
+SUMMARY:Procesy i techniki produkcyjne (laboratorium)
+UID:78ab36f9-4c83-40e8-8041-94c1f15f7005@78ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20250112T151500Z
+LOCATION:Paw.S sala 9
+DTSTART:20250112T121500Z
+SUMMARY:Konstrukcja maszyn i projektowanie inżynierskie (laboratorium)
+UID:8775fea2-efe6-49b4-949c-c2ee7c46d847@8775.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20250124T170000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250124T144500Z
+SUMMARY:Technologia informacyjna (laboratorium)
+UID:66649ab2-babc-4258-957d-cc594a9fadf8@6664.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20241116T124500Z
+LOCATION:link do zajęć
+DTSTART:20241116T103000Z
+SUMMARY:Konstrukcja maszyn i projektowanie inżynierskie (wykład)
+UID:d5ec8873-5080-4555-992d-70f635bfbe61@d5ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20241006T090000Z
+LOCATION:link do zajęć
+DTSTART:20241006T064500Z
+SUMMARY:Rachunkowość (wykład)
+UID:f97a0d63-080f-4096-9a07-435a9bc10888@f97a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20241123T141500Z
+LOCATION:Sienk. 4 pr. przem. 4
+DTSTART:20241123T103000Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
+UID:68e57eba-b2df-4907-8ad6-611a38508cdb@68e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20241130T114500Z
+LOCATION:link do zajęć
+DTSTART:20241130T093000Z
+SUMMARY:Konstrukcja maszyn i projektowanie inżynierskie (wykład)
+UID:78ec47b8-ecfb-4232-aaf7-683343cd90ba@78ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20241027T091500Z
+LOCATION:Paw.F 416
+DTSTART:20241027T070000Z
+SUMMARY:Rachunkowość (ćwiczenia)
+UID:5d6e3d79-1baa-421e-9eeb-aadcac0fa8a1@5d6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20241213T170000Z
+LOCATION:link do zajęć
+DTSTART:20241213T144500Z
+SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
+UID:85c008a2-4bda-4f30-ba64-19a3d6080f9e@85c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Latałło-Anulewicz
+DTEND:20241215T143000Z
+LOCATION:Paw.F 416
+DTSTART:20241215T121500Z
+SUMMARY:Rachunkowość (ćwiczenia)
+UID:ca176920-6dd9-43da-a895-a6416846e9f6@ca17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241020T090000Z
+LOCATION:link do zajęć
+DTSTART:20241020T064500Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:659ef500-6a55-4cb3-a3c2-e2b8257290b6@659e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20241012T131500Z
+LOCATION:Sienk. 4 pr. przem. 3
+DTSTART:20241012T101500Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
+UID:7a0f7183-ff0c-4d21-9c98-bf42ed0be4f1@7a0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20241116T091500Z
+LOCATION:link do zajęć
+DTSTART:20241116T070000Z
+SUMMARY:Marketing (wykład)
+UID:fc424266-2c92-4a1e-8a98-e4d65b28a84d@fc42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20241208T091500Z
+LOCATION:Paw.F 106
+DTSTART:20241208T070000Z
+SUMMARY:Konstrukcja maszyn i projektowanie inżynierskie (laboratorium)
+UID:dcbdbad4-3afd-4467-a16d-772cd37fdc5f@dcbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20250125T141500Z
+LOCATION:Paw.S sala 11
+DTSTART:20250125T111500Z
+SUMMARY:Procesy i techniki produkcyjne (laboratorium)
+UID:d8e309e0-7496-492f-a461-ea9a3f663f3c@d8e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20241012T094500Z
+LOCATION:Sienk. 4 pr. przem. 4
+DTSTART:20241012T060000Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
+UID:fb21eb18-ee8f-4baa-ae0d-36100a1ef0bf@fb21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20250111T120000Z
+LOCATION:link do zajęć
+DTSTART:20250111T103000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:44f1291a-9170-4b0c-854f-a3d4aa7583de@44f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20241214T104500Z
+LOCATION:Paw.S sala 3
+DTSTART:20241214T074500Z
+SUMMARY:Konstrukcja maszyn i projektowanie inżynierskie (laboratorium)
+UID:e5b149cd-f95c-4195-9442-50504660c473@e5b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20241005T090000Z
+LOCATION:link do zajęć
+DTSTART:20241005T064500Z
+SUMMARY:Konstrukcja maszyn i projektowanie inżynierskie (wykład)
+UID:8662c10c-1e08-4bf9-85dc-2014a434e6bb@8662.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241122T170000Z
+LOCATION:link do zajęć
+DTSTART:20241122T144500Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:48784592-e51e-4f6b-a9af-c7ad5d362f67@4878.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20241124T151500Z
+LOCATION:Paw.F 102
+DTSTART:20241124T121500Z
+SUMMARY:Konstrukcja maszyn i projektowanie inżynierskie (laboratorium)
+UID:530e5557-3ffa-4276-ba47-6f28de16d22f@530e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Ryszard Ćwiertniak
+DTEND:20241201T091500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241201T070000Z
+SUMMARY:Technologia informacyjna (laboratorium)
+UID:976cb4ec-5fc5-40cd-a647-4438a7c6e111@976c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20241005T114500Z
+LOCATION:link do zajęć
+DTSTART:20241005T093000Z
+SUMMARY:Marketing (wykład)
+UID:af9481b9-7c10-4bbd-bbeb-97767fc1eed4@af94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20241207T104500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241207T070000Z
+SUMMARY:Konstrukcja maszyn i projektowanie inżynierskie (laboratorium)
+UID:296f4bea-4e31-4ae1-acd0-9b56a0a6f434@296f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241220T174500Z
+LOCATION:link do zajęć
+DTSTART:20241220T144500Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:cd6b5b51-f054-4f84-b8bd-1174156d2f68@cd6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Gabriela Zielińska
+DTEND:20241208T151500Z
+LOCATION:Sienk. 4 pr. przem. 4
+DTSTART:20241208T121500Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
+UID:8663cecc-d5a9-4f28-9a23-d2eb74957af3@8663.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Marcin Paprocki
+DTEND:20250125T104500Z
+LOCATION:Paw.S sala 9
+DTSTART:20250125T074500Z
+SUMMARY:Konstrukcja maszyn i projektowanie inżynierskie (laboratorium)
+UID:9425c7b0-ec23-4626-a05f-96e6056e1729@9425.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Renata Salerno-Kochan
+DTEND:20241116T151500Z
+LOCATION:link do zajęć
+DTSTART:20241116T130000Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (wykład)
+UID:7e36cf28-1d33-447f-a312-6322984a8f8b@7e36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Kowalski
+DTEND:20241214T150000Z
+LOCATION:Sienk. 4 pr. przem. 3
+DTSTART:20241214T111500Z
+SUMMARY:Materiałoznawstwo i inżynieria przemysłu lekkiego (laboratorium)
+UID:f40dcc8d-9659-4f64-b139-43d5c59c41a2@f40d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Artur Jachimowski
+DTEND:20241115T194500Z
+LOCATION:link do zajęć
+DTSTART:20241115T173000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:0e21ccc7-233f-4cc1-864f-2884d121645f@0e21.org
+END:VEVENT
+END:VCALENDAR

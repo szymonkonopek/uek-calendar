@@ -1,0 +1,1154 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20241010T143000Z
+LOCATION:Paw.F 613
+DTSTART:20241010T130000Z
+SUMMARY:Zarządzanie informacjami w logistyce (konwersatorium)
+UID:46c6673a-c3fa-47d1-8b3b-bd59fb00c7c1@46c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Łyszczarz
+DTEND:20241017T124500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241017T111500Z
+SUMMARY:Transport i spedycja (konwersatorium)
+UID:2182c60f-7b9e-478d-be8f-12170edcfddd@2182.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20250121T153000Z
+LOCATION:Paw.F 613
+DTSTART:20250121T140000Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:43e3a01a-0df9-4fcf-99f6-ff91eae4b8f1@43e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Przemysław Szopa
+DTEND:20241009T114500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20241009T093000Z
+SUMMARY:Fizyka (laboratorium)
+UID:a70d1dd7-4b0f-41b4-9f89-8fd29a354d4c@a70d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Sarnek
+DTEND:20241204T124500Z
+LOCATION:Paw.Ustronie lab.fiz.2
+DTSTART:20241204T103000Z
+SUMMARY:Fizyka (laboratorium)
+UID:67e376bd-baa6-4f03-8a87-34f6f01e2e6d@67e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Łyszczarz
+DTEND:20250123T134500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20250123T121500Z
+SUMMARY:Transport i spedycja (konwersatorium)
+UID:ddcc2ee8-03be-4ebd-b685-3c58885d3854@ddcc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Sarnek
+DTEND:20241009T114500Z
+LOCATION:Paw.Ustronie lab.fiz.2
+DTSTART:20241009T093000Z
+SUMMARY:Fizyka (laboratorium)
+UID:7b66e8ea-1f42-4115-9a08-f0662801ad9a@7b66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20241015T110000Z
+LOCATION:Paw.F 109
+DTSTART:20241015T093000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:871f37af-3968-4a43-a387-53b71bb4dc69@871f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Uznańska-Kuś
+DTEND:20241016T141500Z
+LOCATION:Paw.G  8
+DTSTART:20241016T120000Z
+SUMMARY:Logistyka magazynowania (konwersatorium)
+UID:582b00cb-e244-4cf4-9c15-bcc3097d31a7@582b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Przemysław Szopa
+DTEND:20241127T124500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20241127T103000Z
+SUMMARY:Fizyka (laboratorium)
+UID:18390c8b-bbb4-4d60-96e7-d2b131c3ecd4@1839.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Sarnek
+DTEND:20250122T124500Z
+LOCATION:Paw.Ustronie lab.fiz.2
+DTSTART:20250122T103000Z
+SUMMARY:Fizyka (laboratorium)
+UID:2fa8308f-5360-4e73-b349-b4c7665d0ac4@2fa8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Uznańska-Kuś
+DTEND:20241106T151500Z
+LOCATION:Paw.G  8
+DTSTART:20241106T130000Z
+SUMMARY:Logistyka magazynowania (konwersatorium)
+UID:ba605f4c-b9fb-458a-b9b4-3bb91eb9b6df@ba60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20250120T190000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250120T173000Z
+SUMMARY:Grafika inżynierska (konwersatorium do wyboru)
+UID:bf6df4cc-84b0-4bd4-8b3e-e24468f74f72@bf6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241008T161500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241008T144500Z
+SUMMARY:Towaroznawstwo (konwersatorium)
+UID:37ea7ff0-7f85-4e7c-905e-bd61949d628c@37ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:84be4ba0-9d8b-4889-bd78-b5efa2e18b1e@84be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
+DTEND:20241210T134500Z
+LOCATION:Paw.C sala B
+DTSTART:20241210T121500Z
+SUMMARY:Rynek usług logistycznych (konwersatorium)
+UID:9f617cbb-9d13-45ee-921b-1ac880ae3a2b@9f61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20250121T120000Z
+LOCATION:Paw.F 109
+DTSTART:20250121T103000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:aedc33f3-55fc-4a5e-8125-b8a80889408d@aedc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241119T171500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241119T154500Z
+SUMMARY:Towaroznawstwo (konwersatorium)
+UID:df87b35b-d94f-4643-b3e4-53df5ec6dbf9@df87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Sarnek
+DTEND:20241218T124500Z
+LOCATION:Paw.Ustronie lab.fiz.2
+DTSTART:20241218T103000Z
+SUMMARY:Fizyka (laboratorium)
+UID:135ac602-0785-4e46-88db-9a0f6acea3c8@135a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Przemysław Szopa
+DTEND:20250115T124500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20250115T103000Z
+SUMMARY:Fizyka (laboratorium)
+UID:29f69cae-8b77-4a66-aeca-1418e9fbe633@29f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20241014T180000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241014T163000Z
+SUMMARY:Grafika inżynierska (konwersatorium do wyboru)
+UID:437fd011-6036-496a-90de-2029726a4317@437f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Łyszczarz
+DTEND:20241024T124500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241024T111500Z
+SUMMARY:Transport i spedycja (konwersatorium)
+UID:e0ab166f-ce14-418a-a45b-51270fd18d4f@e0ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Uznańska-Kuś
+DTEND:20241218T151500Z
+LOCATION:Paw.G  8
+DTSTART:20241218T130000Z
+SUMMARY:Logistyka magazynowania (konwersatorium)
+UID:1b9d4b5f-354d-401a-9b06-3e2fd217b08b@1b9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Przemysław Szopa
+DTEND:20241113T124500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20241113T103000Z
+SUMMARY:Fizyka (laboratorium)
+UID:d4d84181-a766-4345-895d-c7d076a78a8d@d4d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
+DTEND:20241126T134500Z
+LOCATION:Paw.C sala B
+DTSTART:20241126T121500Z
+SUMMARY:Rynek usług logistycznych (konwersatorium)
+UID:2a951ecd-e9ef-46cb-8709-8891650be99b@2a95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Uznańska-Kuś
+DTEND:20241021T160000Z
+LOCATION:Paw.U sala K
+DTSTART:20241021T134500Z
+SUMMARY:Logistyka magazynowania (konwersatorium)
+UID:ab967393-3dad-47c2-819c-42abba7ace96@ab96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20241114T153000Z
+LOCATION:Paw.F 613
+DTSTART:20241114T140000Z
+SUMMARY:Zarządzanie informacjami w logistyce (konwersatorium)
+UID:bd1e9381-c5f0-4428-bf4a-d011208c60a1@bd1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20241017T174500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241017T144500Z
+SUMMARY:Grafika inżynierska (konwersatorium do wyboru)
+UID:a66f6306-f707-4bd9-95ee-beb8582a37ab@a66f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Sarnek
+DTEND:20241030T124500Z
+LOCATION:Paw.Ustronie lab.fiz.2
+DTSTART:20241030T103000Z
+SUMMARY:Fizyka (laboratorium)
+UID:a75b5579-7fac-4b11-ae60-70d66277a84e@a75b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Uznańska-Kuś
+DTEND:20241030T151500Z
+LOCATION:Paw.G  8
+DTSTART:20241030T130000Z
+SUMMARY:Logistyka magazynowania (konwersatorium)
+UID:eab4deda-3114-41a9-a7ab-bdd0160c25eb@eab4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20241022T143000Z
+LOCATION:Paw.F 613
+DTSTART:20241022T130000Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:1195e487-7adc-49f7-829f-d839ea0851ec@1195.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241015T161500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241015T144500Z
+SUMMARY:Towaroznawstwo (konwersatorium)
+UID:b0d914a3-eb7c-460b-a067-7eb86a160cc3@b0d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Sarnek
+DTEND:20241127T124500Z
+LOCATION:Paw.Ustronie lab.fiz.2
+DTSTART:20241127T103000Z
+SUMMARY:Fizyka (laboratorium)
+UID:16d0e64f-13dc-4ea1-810c-f7f01d587cb8@16d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241203T171500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241203T154500Z
+SUMMARY:Towaroznawstwo (konwersatorium)
+UID:ad167eda-4c45-468f-952c-737b0fddd9be@ad16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20241029T120000Z
+LOCATION:Paw.F 109
+DTSTART:20241029T103000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:4ca24764-7e82-4942-a479-79c7c69d461a@4ca2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241126T171500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241126T154500Z
+SUMMARY:Towaroznawstwo (konwersatorium)
+UID:f5875963-913b-4148-a779-1025da2f20c9@f587.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20241105T120000Z
+LOCATION:Paw.F 109
+DTSTART:20241105T103000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:44cbbfd3-ec84-47ca-9efe-0082375416c1@44cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20250107T171500Z
+LOCATION:Paw.S sala 6
+DTSTART:20250107T154500Z
+SUMMARY:Towaroznawstwo (konwersatorium)
+UID:eb605eb8-0df8-4b13-b8e3-08d18c18d69e@eb60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
+DTEND:20241001T124500Z
+LOCATION:Paw.C sala B
+DTSTART:20241001T111500Z
+SUMMARY:Rynek usług logistycznych (konwersatorium)
+UID:d7ad7233-effc-45d8-9b10-a95bbd67c8eb@d7ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Przemysław Szopa
+DTEND:20241211T124500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20241211T103000Z
+SUMMARY:Fizyka (laboratorium)
+UID:f816f2dd-9262-4f66-94ff-d059a871a2b7@f816.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Sarnek
+DTEND:20250115T124500Z
+LOCATION:Paw.Ustronie lab.fiz.2
+DTSTART:20250115T103000Z
+SUMMARY:Fizyka (laboratorium)
+UID:281506d7-be70-4241-96fb-309afc1b2a01@2815.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20241119T120000Z
+LOCATION:Paw.F 109
+DTSTART:20241119T103000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:f83396b0-928d-47fb-9905-757c623265d8@f833.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Uznańska-Kuś
+DTEND:20241120T151500Z
+LOCATION:Paw.G  8
+DTSTART:20241120T130000Z
+SUMMARY:Logistyka magazynowania (konwersatorium)
+UID:0fb81ca3-66ef-4fa9-84ca-e223e4ac28d1@0fb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Uznańska-Kuś
+DTEND:20250122T151500Z
+LOCATION:Paw.G  8
+DTSTART:20250122T130000Z
+SUMMARY:Logistyka magazynowania (konwersatorium)
+UID:cdd5783d-9ef0-4a63-8c05-a44de06c04ba@cdd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Łyszczarz
+DTEND:20250109T134500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20250109T121500Z
+SUMMARY:Transport i spedycja (konwersatorium)
+UID:fad7e11f-0584-4d6c-a0a7-b7b4d6ea8fb6@fad7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20250123T153000Z
+LOCATION:Paw.F 613
+DTSTART:20250123T140000Z
+SUMMARY:Zarządzanie informacjami w logistyce (konwersatorium)
+UID:df181c9f-8b8e-45bc-9e66-099a117e8066@df18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Łyszczarz
+DTEND:20241031T134500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241031T121500Z
+SUMMARY:Transport i spedycja (konwersatorium)
+UID:b0bebd21-eeec-4282-a3de-d9c8043097f1@b0be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20241112T120000Z
+LOCATION:Paw.F 109
+DTSTART:20241112T103000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:1ebd097f-4790-4022-be7f-aba50b03c2f3@1ebd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20241205T153000Z
+LOCATION:Paw.F 613
+DTSTART:20241205T140000Z
+SUMMARY:Zarządzanie informacjami w logistyce (konwersatorium)
+UID:df5c6f59-7f73-4444-9da8-41f6276955e9@df5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20241217T120000Z
+LOCATION:Paw.F 109
+DTSTART:20241217T103000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:96dc9f67-40fa-4a9c-8968-e105d3791f5b@96dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Przemysław Szopa
+DTEND:20241218T124500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20241218T103000Z
+SUMMARY:Fizyka (laboratorium)
+UID:7c4cb876-8142-4c4b-a0f1-3bddd68da6d5@7c4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20250113T190000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250113T173000Z
+SUMMARY:Grafika inżynierska (konwersatorium do wyboru)
+UID:93e2112b-3853-4894-857c-9970d968e750@93e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241210T171500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241210T154500Z
+SUMMARY:Towaroznawstwo (konwersatorium)
+UID:48a59785-84a2-4353-93c3-a4e99006d5b1@48a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20241112T153000Z
+LOCATION:Paw.F 613
+DTSTART:20241112T140000Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:71d59ae3-e640-4176-ac90-a90e6d47a229@71d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241217T171500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241217T154500Z
+SUMMARY:Towaroznawstwo (konwersatorium)
+UID:b490e08f-d355-40a2-bf4f-de7a73b94feb@b490.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Przemysław Szopa
+DTEND:20241030T124500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20241030T103000Z
+SUMMARY:Fizyka (laboratorium)
+UID:b38aa269-5578-4330-9fab-44571537a752@b38a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20241003T161500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241003T144500Z
+SUMMARY:Grafika inżynierska (konwersatorium do wyboru)
+UID:31a65bed-12cd-47d3-aa41-1472d3309c7d@31a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20241008T110000Z
+LOCATION:Paw.F 109
+DTSTART:20241008T093000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:8cec7f0c-9deb-47a6-943f-b633045a1517@8cec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20241203T120000Z
+LOCATION:Paw.F 109
+DTSTART:20241203T103000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:0ea40a7b-a7ce-4df7-a7f2-e6bb0437932b@0ea4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Sarnek
+DTEND:20241016T114500Z
+LOCATION:Paw.Ustronie lab.fiz.2
+DTSTART:20241016T093000Z
+SUMMARY:Fizyka (laboratorium)
+UID:cadff0e0-2ef0-4a2c-953e-d55739ba620e@cadf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241001T161500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241001T144500Z
+SUMMARY:Towaroznawstwo (konwersatorium)
+UID:d17b9013-44a9-4993-bda4-5b9304a6dfc5@d17b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Sarnek
+DTEND:20241120T124500Z
+LOCATION:Paw.Ustronie lab.fiz.2
+DTSTART:20241120T103000Z
+SUMMARY:Fizyka (laboratorium)
+UID:3989d165-4659-40c3-9c0e-e4c4bf884e58@3989.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Łyszczarz
+DTEND:20241212T171500Z
+LOCATION:Bud.gł. 5
+DTSTART:20241212T154500Z
+SUMMARY:Transport i spedycja (konwersatorium)
+UID:83ff6acf-bc27-4ebe-ba55-6d5b421ba8d0@83ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Łyszczarz
+DTEND:20241205T134500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241205T121500Z
+SUMMARY:Transport i spedycja (konwersatorium)
+UID:ab08e405-a147-47d1-b580-bb0fc21607f8@ab08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20241008T143000Z
+LOCATION:Paw.F 613
+DTSTART:20241008T130000Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:9abb4aba-0c75-43de-adf3-4e65d8b7bf02@9abb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20241210T153000Z
+LOCATION:Paw.F 613
+DTSTART:20241210T140000Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:6297761f-e165-42da-bfe8-259b5222523a@6297.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20250116T153000Z
+LOCATION:Paw.F 613
+DTSTART:20250116T140000Z
+SUMMARY:Zarządzanie informacjami w logistyce (konwersatorium)
+UID:a954e153-616f-4c3b-ba7b-38136d91217e@a954.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Przemysław Szopa
+DTEND:20241010T170000Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20241010T144500Z
+SUMMARY:Fizyka (laboratorium)
+UID:5000ab0a-27bc-4305-9368-a5d60014b558@5000.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Przemysław Szopa
+DTEND:20241106T124500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20241106T103000Z
+SUMMARY:Fizyka (laboratorium)
+UID:a7361f36-f5ab-49b1-8b78-792bf3095015@a736.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20241121T153000Z
+LOCATION:Paw.F 613
+DTSTART:20241121T140000Z
+SUMMARY:Zarządzanie informacjami w logistyce (konwersatorium)
+UID:0ae7deec-7426-47b9-b9e3-9a37d22e9907@0ae7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
+DTEND:20250121T134500Z
+LOCATION:Paw.C sala B
+DTSTART:20250121T130000Z
+SUMMARY:Rynek usług logistycznych (konwersatorium)
+UID:a0c158f5-bc1f-4958-b804-f1bcb46449b2@a0c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20241022T110000Z
+LOCATION:Paw.F 109
+DTSTART:20241022T093000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:1976ebe6-23b9-4a6d-bf83-e3b288f59d5f@1976.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20241126T120000Z
+LOCATION:Paw.F 109
+DTSTART:20241126T103000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:ca032589-7c0a-4d20-b157-d31e37e153ea@ca03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20241125T190000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241125T173000Z
+SUMMARY:Grafika inżynierska (konwersatorium do wyboru)
+UID:ec08249e-d06f-4938-a806-b5d071511030@ec08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20241024T143000Z
+LOCATION:Paw.F 613
+DTSTART:20241024T130000Z
+SUMMARY:Zarządzanie informacjami w logistyce (konwersatorium)
+UID:092afa24-b46a-41c0-8727-961ac1bcbfce@092a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20241028T190000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241028T173000Z
+SUMMARY:Grafika inżynierska (konwersatorium do wyboru)
+UID:b787c37a-8551-4693-bf68-2b69dcf0cac7@b787.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Łyszczarz
+DTEND:20241003T124500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241003T111500Z
+SUMMARY:Transport i spedycja (konwersatorium)
+UID:c5e0f120-4f6f-4963-8e16-5d4c77407b17@c5e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20241202T190000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241202T173000Z
+SUMMARY:Grafika inżynierska (konwersatorium do wyboru)
+UID:1dc40ffa-b918-4702-8663-8adcdb6b57e1@1dc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Przemysław Szopa
+DTEND:20241120T124500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20241120T103000Z
+SUMMARY:Fizyka (laboratorium)
+UID:10435cc6-2fd6-4010-86e6-adaaea94f754@1043.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20250107T120000Z
+LOCATION:Paw.F 109
+DTSTART:20250107T103000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:5acc4d84-8008-4eeb-a1aa-d8b9f33792af@5acc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20241216T190000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241216T173000Z
+SUMMARY:Grafika inżynierska (konwersatorium do wyboru)
+UID:10efc37b-b956-4aa7-bee0-ab23f6f5fa0f@10ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Łyszczarz
+DTEND:20241212T134500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241212T121500Z
+SUMMARY:Transport i spedycja (konwersatorium)
+UID:666bbaa3-f510-432b-b15f-5c7c90133068@666b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20250114T120000Z
+LOCATION:Paw.F 109
+DTSTART:20250114T103000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:d78455c9-7467-477f-b475-79a91993e435@d784.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Przemysław Szopa
+DTEND:20241016T114500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20241016T093000Z
+SUMMARY:Fizyka (laboratorium)
+UID:2c1eb865-5168-49c0-b046-b9619cf73578@2c1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
+DTEND:20241029T134500Z
+LOCATION:Paw.C sala B
+DTSTART:20241029T121500Z
+SUMMARY:Rynek usług logistycznych (konwersatorium)
+UID:efc93545-7108-4fe3-832d-0f386aa49ea6@efc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20241126T153000Z
+LOCATION:Paw.F 613
+DTSTART:20241126T140000Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:f724632b-52a0-4509-9d89-c6553b68de11@f724.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Sarnek
+DTEND:20241113T124500Z
+LOCATION:Paw.Ustronie lab.fiz.2
+DTSTART:20241113T103000Z
+SUMMARY:Fizyka (laboratorium)
+UID:2c980b23-609c-4aee-af33-0847bd56626c@2c98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20241001T143000Z
+LOCATION:Paw.F 613
+DTSTART:20241001T130000Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:7f91b0eb-fd00-4c5f-b779-025d1f7305ae@7f91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Sarnek
+DTEND:20250108T124500Z
+LOCATION:Paw.Ustronie lab.fiz.2
+DTSTART:20250108T103000Z
+SUMMARY:Fizyka (laboratorium)
+UID:b804f1ca-8126-4dbc-b52f-1ecae5eeac62@b804.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Przemysław Szopa
+DTEND:20250108T124500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20250108T103000Z
+SUMMARY:Fizyka (laboratorium)
+UID:df842f95-b15c-49ee-8034-b6c1ddc93e7b@df84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20241007T180000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241007T163000Z
+SUMMARY:Grafika inżynierska (konwersatorium do wyboru)
+UID:2ba2cf1b-bebd-4f8e-957c-81654abe230b@2ba2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Uznańska-Kuś
+DTEND:20241127T151500Z
+LOCATION:Paw.G  8
+DTSTART:20241127T130000Z
+SUMMARY:Logistyka magazynowania (konwersatorium)
+UID:90bf874a-eae4-4766-a797-ce287a0f02e4@90bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20241210T120000Z
+LOCATION:Paw.F 109
+DTSTART:20241210T103000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:b0af8f34-c7ae-44cc-a6bf-61b7eceb6d27@b0af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20241107T153000Z
+LOCATION:Paw.F 613
+DTSTART:20241107T140000Z
+SUMMARY:Zarządzanie informacjami w logistyce (konwersatorium)
+UID:4128f30d-24c9-4fa1-bfcd-c45b1250593f@4128.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20241017T143000Z
+LOCATION:Paw.F 613
+DTSTART:20241017T130000Z
+SUMMARY:Zarządzanie informacjami w logistyce (konwersatorium)
+UID:9d68c3be-987c-4d8c-9a7e-4b05ee4ac212@9d68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
+DTEND:20241112T134500Z
+LOCATION:Paw.C sala B
+DTSTART:20241112T121500Z
+SUMMARY:Rynek usług logistycznych (konwersatorium)
+UID:7bdf4b90-2dcd-41ff-8076-f9319ce1fe37@7bdf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Sarnek
+DTEND:20241106T124500Z
+LOCATION:Paw.Ustronie lab.fiz.2
+DTSTART:20241106T103000Z
+SUMMARY:Fizyka (laboratorium)
+UID:b23c4cf2-b3b4-47b2-9180-633cf81c2c76@b23c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20241029T153000Z
+LOCATION:Paw.F 613
+DTSTART:20241029T140000Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:72c804a0-42ad-4a8a-bd43-ce6137d9f3b5@72c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20241203T153000Z
+LOCATION:Paw.F 613
+DTSTART:20241203T140000Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:44599dc8-b423-44ad-b00e-8a7a174364de@4459.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Uznańska-Kuś
+DTEND:20250115T151500Z
+LOCATION:Paw.G  8
+DTSTART:20250115T130000Z
+SUMMARY:Logistyka magazynowania (konwersatorium)
+UID:bbe86427-894d-4610-82d9-d8f1cf6b1f46@bbe8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20241001T110000Z
+LOCATION:Paw.F 109
+DTSTART:20241001T093000Z
+SUMMARY:Procesy i techniki produkcyjne (wykład)
+UID:0c74c7f6-3197-44dc-8fc0-a0ddf77d6b9b@0c74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241112T171500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241112T154500Z
+SUMMARY:Towaroznawstwo (konwersatorium)
+UID:f95b8106-ee1c-4f6a-bc5b-06e9b69ce2cb@f95b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20250114T171500Z
+LOCATION:Paw.S sala 6
+DTSTART:20250114T154500Z
+SUMMARY:Towaroznawstwo (konwersatorium)
+UID:9e5a2a26-4852-4bae-a221-bca46e932f3b@9e5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20241003T143000Z
+LOCATION:Paw.F 613
+DTSTART:20241003T130000Z
+SUMMARY:Zarządzanie informacjami w logistyce (konwersatorium)
+UID:e7e2d172-1c45-4f86-8c4f-40c66056e339@e7e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20250114T153000Z
+LOCATION:Paw.F 613
+DTSTART:20250114T140000Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:03b30f2f-fa15-43ed-98b9-4ed1b239e336@03b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Uznańska-Kuś
+DTEND:20241009T141500Z
+LOCATION:Paw.G  8
+DTSTART:20241009T120000Z
+SUMMARY:Logistyka magazynowania (konwersatorium)
+UID:c8929846-ff4a-4b28-a06d-de0ecd339fd1@c892.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20241021T180000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241021T163000Z
+SUMMARY:Grafika inżynierska (konwersatorium do wyboru)
+UID:5f96875b-1df1-44b0-a270-aa3c04b070f1@5f96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Uznańska-Kuś
+DTEND:20241211T151500Z
+LOCATION:Paw.G  8
+DTSTART:20241211T130000Z
+SUMMARY:Logistyka magazynowania (konwersatorium)
+UID:5ea2561b-562c-4f3c-b61c-ada25548aa97@5ea2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241022T161500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241022T144500Z
+SUMMARY:Towaroznawstwo (konwersatorium)
+UID:81060716-ba30-46c6-9484-ffcba18f4857@8106.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Sarnek
+DTEND:20241211T124500Z
+LOCATION:Paw.Ustronie lab.fiz.2
+DTSTART:20241211T103000Z
+SUMMARY:Fizyka (laboratorium)
+UID:419a8f44-391d-464f-a005-46118b7a2abc@419a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Sarnek
+DTEND:20241010T170000Z
+LOCATION:Paw.Ustronie lab.fiz.2
+DTSTART:20241010T144500Z
+SUMMARY:Fizyka (laboratorium)
+UID:dfd47a8a-1d33-4d8c-b5f0-d0702ac902fd@dfd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Łyszczarz
+DTEND:20241107T134500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241107T121500Z
+SUMMARY:Transport i spedycja (konwersatorium)
+UID:65366368-a8be-4bcf-a60e-96515ac6e239@6536.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Łyszczarz
+DTEND:20241121T134500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241121T121500Z
+SUMMARY:Transport i spedycja (konwersatorium)
+UID:edfdcbc6-296b-40a9-b3e3-4ae9927aaaea@edfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20241212T153000Z
+LOCATION:Paw.F 613
+DTSTART:20241212T140000Z
+SUMMARY:Zarządzanie informacjami w logistyce (konwersatorium)
+UID:64b2250c-d382-4885-b5d4-ab668c5a759a@64b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Łyszczarz
+DTEND:20241114T134500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241114T121500Z
+SUMMARY:Transport i spedycja (konwersatorium)
+UID:2d712bab-33a3-41eb-bc0d-f89e1693d860@2d71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Uznańska-Kuś
+DTEND:20241204T151500Z
+LOCATION:Paw.G  8
+DTSTART:20241204T130000Z
+SUMMARY:Logistyka magazynowania (konwersatorium)
+UID:c9a566eb-17b5-4c0c-a947-9fcc4dc45777@c9a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20250107T153000Z
+LOCATION:Paw.F 613
+DTSTART:20250107T140000Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:fd1c0df8-35a5-491b-bf8e-7d574cb25eb3@fd1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:d8660b13-d4e9-4eae-8544-dfe54442ab17@d866.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20241119T153000Z
+LOCATION:Paw.F 613
+DTSTART:20241119T140000Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:1f669983-a271-44d5-8533-61de9c694855@1f66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241105T171500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241105T154500Z
+SUMMARY:Towaroznawstwo (konwersatorium)
+UID:578b226d-bf0c-4ba5-95c7-9f2ed818c46d@578b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
+DTEND:20250107T134500Z
+LOCATION:Paw.C sala B
+DTSTART:20250107T121500Z
+SUMMARY:Rynek usług logistycznych (konwersatorium)
+UID:a5b28019-b9d2-424c-a24c-4ddf327f3580@a5b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20250109T153000Z
+LOCATION:Paw.F 613
+DTSTART:20250109T140000Z
+SUMMARY:Zarządzanie informacjami w logistyce (konwersatorium)
+UID:4d04a93c-b217-4c8f-ab6e-217f908feaba@4d04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Uznańska-Kuś
+DTEND:20250108T151500Z
+LOCATION:Paw.G  8
+DTSTART:20250108T130000Z
+SUMMARY:Logistyka magazynowania (konwersatorium)
+UID:808217db-e2d9-4018-82b2-af78d6ae2710@8082.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20241031T153000Z
+LOCATION:Paw.F 613
+DTSTART:20241031T140000Z
+SUMMARY:Zarządzanie informacjami w logistyce (konwersatorium)
+UID:d0dd61da-8e1b-4d58-b4b4-fd79c3172a9f@d0dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20241209T190000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241209T173000Z
+SUMMARY:Grafika inżynierska (konwersatorium do wyboru)
+UID:7eb414ca-67d3-4cf4-a9c5-7d48a941aa46@7eb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Łyszczarz
+DTEND:20250116T134500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20250116T121500Z
+SUMMARY:Transport i spedycja (konwersatorium)
+UID:0fec238a-17c4-4e22-8e38-09cfdea2607f@0fec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20241104T190000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241104T173000Z
+SUMMARY:Grafika inżynierska (konwersatorium do wyboru)
+UID:b9fb8693-ad19-4fb1-8b2e-41fa997a62d4@b9fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20241217T153000Z
+LOCATION:Paw.F 613
+DTSTART:20241217T140000Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:45ebf7ce-050a-4f74-b8c3-b61b1f043951@45eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Łyszczarz
+DTEND:20241128T134500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241128T121500Z
+SUMMARY:Transport i spedycja (konwersatorium)
+UID:677ef9fb-f483-449e-b581-68bd7618f936@677e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Mateusz Wygoda
+DTEND:20241118T190000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241118T173000Z
+SUMMARY:Grafika inżynierska (konwersatorium do wyboru)
+UID:356825f9-8f53-4438-8187-3ad820ce9c55@3568.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Uznańska-Kuś
+DTEND:20241113T151500Z
+LOCATION:Paw.G  8
+DTSTART:20241113T130000Z
+SUMMARY:Logistyka magazynowania (konwersatorium)
+UID:403f87fe-4ef4-49c7-be96-13d3c9177e62@403f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Przemysław Szopa
+DTEND:20241204T124500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20241204T103000Z
+SUMMARY:Fizyka (laboratorium)
+UID:c215f6c9-88c1-4337-a449-fe6cade4e29c@c215.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20241128T153000Z
+LOCATION:Paw.F 613
+DTSTART:20241128T140000Z
+SUMMARY:Zarządzanie informacjami w logistyce (konwersatorium)
+UID:8ad9cc3c-feff-44b4-b507-de374e426a99@8ad9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marta Uznańska-Kuś
+DTEND:20241023T141500Z
+LOCATION:Paw.G  8
+DTSTART:20241023T120000Z
+SUMMARY:Logistyka magazynowania (konwersatorium)
+UID:f23dab7a-4292-490e-8663-48606c53d5fb@f23d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20241015T143000Z
+LOCATION:Paw.F 613
+DTSTART:20241015T130000Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:5ac381ba-cee2-4ea8-8920-96f47ae8405a@5ac3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tomasz Schroeder
+DTEND:20241015T124500Z
+LOCATION:Paw.C sala B
+DTSTART:20241015T111500Z
+SUMMARY:Rynek usług logistycznych (konwersatorium)
+UID:a5627a7f-cd66-40ca-aa50-29833b913cbf@a562.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Sarnek
+DTEND:20241023T114500Z
+LOCATION:Paw.Ustronie lab.fiz.2
+DTSTART:20241023T093000Z
+SUMMARY:Fizyka (laboratorium)
+UID:64d03377-b354-47d5-91b9-37ac90c3ae5b@64d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Halina Łyszczarz
+DTEND:20241206T120000Z
+LOCATION:Paw.C sala A
+DTSTART:20241206T103000Z
+SUMMARY:Transport i spedycja (konwersatorium)
+UID:98cfeb4b-3d05-4aa9-a7fd-f136b782cfc1@98cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karolina Mazur
+DTEND:20241105T153000Z
+LOCATION:Paw.F 613
+DTSTART:20241105T140000Z
+SUMMARY:Procesy i techniki produkcyjne (ćwiczenia)
+UID:d247d6b2-ad14-4650-865a-0a7e31b440a0@d247.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Przemysław Szopa
+DTEND:20241023T114500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20241023T093000Z
+SUMMARY:Fizyka (laboratorium)
+UID:5539aea7-23a9-4ebf-bb36-c6b8bf21adb2@5539.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Teczke
+DTEND:20241219T153000Z
+LOCATION:Paw.F 613
+DTSTART:20241219T140000Z
+SUMMARY:Zarządzanie informacjami w logistyce (konwersatorium)
+UID:7bc284c9-350a-4918-8963-8af6de3a646e@7bc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20250121T171500Z
+LOCATION:Paw.S sala 6
+DTSTART:20250121T154500Z
+SUMMARY:Towaroznawstwo (konwersatorium)
+UID:fc25ce9c-d47b-40a8-a2ae-d102d27bfb3b@fc25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241029T171500Z
+LOCATION:Paw.S sala 6
+DTSTART:20241029T154500Z
+SUMMARY:Towaroznawstwo (konwersatorium)
+UID:d67b7247-356a-4ec8-970a-559a04a2a102@d67b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Przemysław Szopa
+DTEND:20250122T124500Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20250122T103000Z
+SUMMARY:Fizyka (laboratorium)
+UID:9d27913c-14d7-48a1-be16-96049a1e4b55@9d27.org
+END:VEVENT
+END:VCALENDAR

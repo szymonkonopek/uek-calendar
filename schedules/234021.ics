@@ -1,0 +1,1546 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Chudzicka-Bator
+DTEND:20241120T134500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241120T121500Z
+SUMMARY:Podstawy analizy danych (konwersatorium)
+UID:9c036edc-61a5-451a-94bf-c9d3d620eb16@9c03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kondak
+DTEND:20250124T133000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250124T103000Z
+SUMMARY:Metody zarządzania marką (konwersatorium do wyboru)
+UID:63cf80b2-6e5f-428d-9148-5e8fbe73628d@63cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20250123T171500Z
+LOCATION:Bibl. 440
+DTSTART:20250123T154500Z
+SUMMARY:Zarządzanie zmianą (konwersatorium do wyboru)
+UID:cdf8407e-15a7-449e-bb6c-9f5ca24e8e31@cdf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20250113T151500Z
+LOCATION:Bibl.425
+DTSTART:20250113T130000Z
+SUMMARY:Filozofia ogólna i polityczna wraz z etyką (ćwiczenia)
+UID:cdf55cf2-5f9f-4947-aa3f-cf58a1192def@cdf5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20250109T170000Z
+LOCATION:Bibl. 440
+DTSTART:20250109T140000Z
+SUMMARY:Zarządzanie zmianą (konwersatorium do wyboru)
+UID:758aaa6c-b9d6-4c2e-ab52-3f5991b0d1bc@758a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Sady
+DTEND:20250124T133000Z
+LOCATION:Bibl. 440
+DTSTART:20250124T103000Z
+SUMMARY:Design thinking (konwersatorium do wyboru)
+UID:bc7713fb-ebcb-441c-a030-6dfa10bda761@bc77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Winkler
+DTEND:20241031T124500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241031T103000Z
+SUMMARY:Komunikacja (konwersatorium do wyboru)
+UID:5b647d78-71c4-4f77-84ac-99093dfb8234@5b64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kondak
+DTEND:20241220T133000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241220T103000Z
+SUMMARY:Metody zarządzania marką (konwersatorium do wyboru)
+UID:d750feb0-e3c3-4e4f-aa2f-67e9a2f5fbf5@d750.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kondak
+DTEND:20250110T133000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250110T103000Z
+SUMMARY:Metody zarządzania marką (konwersatorium do wyboru)
+UID:f2bac10c-a8bc-4dd8-bdb4-b09c8d91f114@f2ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamila Pilch
+DTEND:20241031T124500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241031T103000Z
+SUMMARY:Komunikacja (konwersatorium do wyboru)
+UID:1f63166a-b1f2-46e5-af7a-cf0a554b7a91@1f63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Chudzicka-Bator
+DTEND:20241113T134500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241113T121500Z
+SUMMARY:Podstawy analizy danych (konwersatorium)
+UID:4f597067-e32b-44b5-b80a-4486133d57b0@4f59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamila Pilch
+DTEND:20241212T124500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241212T103000Z
+SUMMARY:Komunikacja (konwersatorium do wyboru)
+UID:4cf95cd8-7c84-4966-ac9d-a7f223b9fb8c@4cf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Alicja Szczygieł
+DTEND:20241209T180000Z
+LOCATION:Bibl. 443
+DTSTART:20241209T154500Z
+SUMMARY:Psychologia  w biznesie (konwersatorium)
+UID:a540ad38-f321-48f6-8766-a6a07c887593@a540.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Chudzicka-Bator
+DTEND:20241127T134500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241127T121500Z
+SUMMARY:Podstawy analizy danych (konwersatorium)
+UID:3ed1e9be-43f4-4b76-8e5f-5f72d4d1be21@3ed1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241022T161500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241022T144500Z
+SUMMARY:Filozofia ogólna i polityczna wraz z etyką (wykład)
+UID:9983eb3f-eb5a-48c9-aaa0-c0a56ab20534@9983.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Sady
+DTEND:20250110T133000Z
+LOCATION:Bibl. 440
+DTSTART:20250110T103000Z
+SUMMARY:Design thinking (konwersatorium do wyboru)
+UID:a316490e-bdc4-4cd1-9612-bcf830e9bcfc@a316.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Matyja
+DTEND:20241209T124500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241209T103000Z
+SUMMARY:Projekt badawczy (Projekt)
+UID:28ed37b7-4389-4ddd-919c-3b9952ee664e@28ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Winkler
+DTEND:20241114T124500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241114T103000Z
+SUMMARY:Komunikacja (konwersatorium do wyboru)
+UID:dcceed09-a762-4396-8acd-9a8bf69c4e2c@dcce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241203T163000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241203T154500Z
+SUMMARY:Filozofia ogólna i polityczna wraz z etyką (wykład)
+UID:3fd06284-196e-4607-862f-de0c76440fb9@3fd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wioleta Gałat
+DTEND:20241029T124500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241029T103000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:c8f0ea02-1409-4ab2-a08a-e6f67df44e39@c8f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20241128T170000Z
+LOCATION:Bibl. 440
+DTSTART:20241128T140000Z
+SUMMARY:Zarządzanie zmianą (konwersatorium do wyboru)
+UID:0738d2af-c2cf-4190-9625-36e948060787@0738.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Surówka
+DTEND:20241106T153000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241106T140000Z
+SUMMARY:Podstawy marketingu (ćwiczenia)
+UID:738440d1-b363-4d48-96b3-460de937f61e@7384.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Chudzicka-Bator
+DTEND:20241106T134500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241106T121500Z
+SUMMARY:Podstawy analizy danych (konwersatorium)
+UID:5fd5931c-3a28-427d-83c7-aa4d63cc778c@5fd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maciej Kostrzewski
+DTEND:20241025T123000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241025T093000Z
+SUMMARY:Regression models in business analytics (konwersatorium do wyboru)
+UID:122e24e6-ab5f-496b-8b2f-70860869d54c@122e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Winkler
+DTEND:20250123T124500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250123T103000Z
+SUMMARY:Komunikacja (konwersatorium do wyboru)
+UID:5eaf53ed-91d1-4f37-ab97-1d56434d4e9c@5eaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maciej Kostrzewski
+DTEND:20241115T133000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241115T103000Z
+SUMMARY:Regression models in business analytics (konwersatorium do wyboru)
+UID:c3b868ec-e8ce-4fee-af78-7b94a37a9d7d@c3b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241202T151500Z
+LOCATION:Bibl.425
+DTSTART:20241202T130000Z
+SUMMARY:Filozofia ogólna i polityczna wraz z etyką (ćwiczenia)
+UID:5c50bf27-e84c-4504-a6e1-2d1f86584372@5c50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241217T124500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241217T103000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:7ab8df1e-9b8e-4e6b-8383-563be78b9718@7ab8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Chudzicka-Bator
+DTEND:20241016T124500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241016T111500Z
+SUMMARY:Podstawy analizy danych (konwersatorium)
+UID:22074c0f-b0cf-488b-a5ab-1f7f4eece7cf@2207.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kondak
+DTEND:20241115T133000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241115T103000Z
+SUMMARY:Teorie zarządzania marką (konwersatorium do wyboru)
+UID:e4f186c2-da11-403c-b16c-1d241c75c5a8@e4f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Alicja Szczygieł
+DTEND:20241125T180000Z
+LOCATION:Bibl. 443
+DTSTART:20241125T154500Z
+SUMMARY:Psychologia  w biznesie (konwersatorium)
+UID:6a1dc809-eef1-46d5-8e8d-2064a2a8bf5b@6a1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Sady
+DTEND:20241108T133000Z
+LOCATION:Bibl. 440
+DTSTART:20241108T103000Z
+SUMMARY:Design thinking (konwersatorium do wyboru)
+UID:3ac6a7d5-61c2-4782-aca1-f9c2b93ce54e@3ac6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kondak
+DTEND:20250117T133000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250117T103000Z
+SUMMARY:Metody zarządzania marką (konwersatorium do wyboru)
+UID:4f0bd427-d771-4eb6-841d-7e182fad43ab@4f0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maciej Kostrzewski
+DTEND:20241128T190000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241128T173000Z
+SUMMARY:Regression models in business analytics (konwersatorium do wyboru)
+UID:dbd1861f-1b19-4af8-8478-4b7d0be1ea3c@dbd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kondak
+DTEND:20241129T133000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241129T103000Z
+SUMMARY:Metody zarządzania marką (konwersatorium do wyboru)
+UID:5af247d5-b450-491c-b1ae-a674b7865c3c@5af2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kondak
+DTEND:20241213T133000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241213T103000Z
+SUMMARY:Metody zarządzania marką (konwersatorium do wyboru)
+UID:9e6ec1dd-ff7a-4ae7-a169-e9f6617583ee@9e6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wioleta Gałat
+DTEND:20241015T114500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241015T093000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:243e2c17-9972-49f6-bf71-8e004f4528a4@243e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Matyja
+DTEND:20241021T114500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241021T093000Z
+SUMMARY:Projekt badawczy (Projekt)
+UID:0245dced-a132-498a-86d0-46ded2bb051a@0245.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Chudzicka-Bator
+DTEND:20250115T134500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250115T121500Z
+SUMMARY:Podstawy analizy danych (konwersatorium)
+UID:5ac8daf4-1568-430c-80be-d455c0e2409d@5ac8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241008T141500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241008T120000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:f6040e3e-f07b-4820-bde4-dfe818fc7327@f604.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Winkler
+DTEND:20241003T114500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241003T093000Z
+SUMMARY:Komunikacja (konwersatorium do wyboru)
+UID:23b137a4-0f94-4ebd-85c9-cf409f739f41@23b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241216T151500Z
+LOCATION:Bibl.425
+DTSTART:20241216T130000Z
+SUMMARY:Filozofia ogólna i polityczna wraz z etyką (ćwiczenia)
+UID:110467b3-7b9c-4693-a3a4-8d2bcf489ae5@1104.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Winkler
+DTEND:20241219T120000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241219T103000Z
+SUMMARY:Komunikacja (konwersatorium do wyboru)
+UID:6668a48b-4ad4-4ffe-bb1c-a2f57308327c@6668.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20250123T153000Z
+LOCATION:Bibl. 440
+DTSTART:20250123T140000Z
+SUMMARY:Zarządzanie zmianą (konwersatorium do wyboru)
+UID:39e8f6bf-1926-4a02-85b6-73f41f649fb3@39e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20241031T170000Z
+LOCATION:Bibl. 440
+DTSTART:20241031T140000Z
+SUMMARY:Zarządzanie zmianą (konwersatorium do wyboru)
+UID:c8a10689-0cc2-4945-bc5d-67bd3fa5bb7d@c8a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Chudzicka-Bator
+DTEND:20250122T134500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250122T121500Z
+SUMMARY:Podstawy analizy danych (konwersatorium)
+UID:a5080f09-c805-40bd-ae45-d40a6f7056aa@a508.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamila Pilch
+DTEND:20241011T160000Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20241011T130000Z
+SUMMARY:Komunikacja (konwersatorium do wyboru)
+UID:dac244c8-2b4b-4560-ae13-29c2d50e0c05@dac2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20241031T083000Z
+LOCATION:Paw.C sala D
+DTSTART:20241031T070000Z
+SUMMARY:Podstawy marketingu (wykład)
+UID:1c77ceb7-4eef-409b-8934-c84c5bb15327@1c77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20250121T151500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250121T130000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:a556bb9e-0620-4cae-8fc5-9d86c5512fb6@a556.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wioleta Gałat
+DTEND:20241126T151500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241126T130000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:b70dd354-b76b-4991-9a85-8777e88e6271@b70d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20241003T073000Z
+LOCATION:Paw.C sala D
+DTSTART:20241003T064500Z
+SUMMARY:Podstawy marketingu (wykład)
+UID:ad328715-fdb5-4321-8acc-bbac594e57eb@ad32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20250114T151500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250114T130000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:c134e1fe-927f-4185-a03e-ccb69cb9148b@c134.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamila Pilch
+DTEND:20241121T124500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241121T103000Z
+SUMMARY:Komunikacja (konwersatorium do wyboru)
+UID:3c1ab69c-0b16-4386-9c64-e98a45f6eaff@3c1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wioleta Gałat
+DTEND:20241126T124500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241126T103000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:1ded1ba3-204d-437d-a4fb-6704ae079075@1ded.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20250116T170000Z
+LOCATION:Bibl. 440
+DTSTART:20250116T140000Z
+SUMMARY:Zarządzanie zmianą (konwersatorium do wyboru)
+UID:7c4708e0-e85e-4f22-9d31-ebd392b7c284@7c47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20250124T133000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250124T103000Z
+SUMMARY:Raportowanie i prezentacja danych (konwersatorium do wyboru)
+UID:88a1ba69-cc2d-4261-b8ee-b8ea4d58a143@88a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:5aa49374-343f-4bf9-9eb0-2f5ea9b7ddc5@5aa4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Sady
+DTEND:20241004T123000Z
+LOCATION:Bibl. 440
+DTSTART:20241004T093000Z
+SUMMARY:Design thinking (konwersatorium do wyboru)
+UID:2211cfd6-bbcb-4b43-93cc-da52dd5718e7@2211.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamila Pilch
+DTEND:20241128T124500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241128T103000Z
+SUMMARY:Komunikacja (konwersatorium do wyboru)
+UID:3a94855f-fdee-4b30-a6e6-d391b7dd9839@3a94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20250120T120000Z
+LOCATION:.
+DTSTART:20250120T103000Z
+SUMMARY:Zarządzanie zmianą (rezerwacja)
+UID:37c89cb0-99f4-40da-bc98-75ae6762c535@37c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maciej Kostrzewski
+DTEND:20241004T123000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241004T093000Z
+SUMMARY:Regression models in business analytics (konwersatorium do wyboru)
+UID:846a8f45-e41d-4a97-ace0-a2e12b00636c@846a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kondak
+DTEND:20241004T123000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241004T093000Z
+SUMMARY:Teorie zarządzania marką (konwersatorium do wyboru)
+UID:13edd8d2-877d-4972-9bf1-3a7a79a9c265@13ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Chudzicka-Bator
+DTEND:20241023T124500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241023T111500Z
+SUMMARY:Podstawy analizy danych (konwersatorium)
+UID:ffefb602-fd5c-445b-bfdc-4e906f1d03c9@ffef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kondak
+DTEND:20241011T123000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241011T093000Z
+SUMMARY:Teorie zarządzania marką (konwersatorium do wyboru)
+UID:89733dbf-47b4-4fff-974a-0a17ce9e9a15@8973.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kondak
+DTEND:20241206T133000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241206T103000Z
+SUMMARY:Metody zarządzania marką (konwersatorium do wyboru)
+UID:ea82705b-936c-4068-9e85-8255b7f61911@ea82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Sady
+DTEND:20241213T133000Z
+LOCATION:Bibl. 440
+DTSTART:20241213T103000Z
+SUMMARY:Design thinking (konwersatorium do wyboru)
+UID:67fe237e-064f-4f2f-be3f-16b4b2353600@67fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20250117T170000Z
+LOCATION:Paw.F 008
+DTSTART:20250117T140000Z
+SUMMARY:Zarządzanie zmianą (konwersatorium do wyboru)
+UID:9f514762-53e9-4a12-bf85-dbd472ce0149@9f51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Chudzicka-Bator
+DTEND:20241204T134500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241204T121500Z
+SUMMARY:Podstawy analizy danych (konwersatorium)
+UID:bcb8eda7-b9db-4a7f-860b-a6026c0af986@bcb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamila Pilch
+DTEND:20241024T114500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241024T093000Z
+SUMMARY:Komunikacja (konwersatorium do wyboru)
+UID:235c70be-4b80-4746-9661-500e821ee5cd@235c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20241121T170000Z
+LOCATION:Bibl. 440
+DTSTART:20241121T140000Z
+SUMMARY:Zarządzanie zmianą (konwersatorium do wyboru)
+UID:e4ed26f0-b29f-4e60-a34e-ad760570ca42@e4ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241206T133000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241206T103000Z
+SUMMARY:Raportowanie i prezentacja danych (konwersatorium do wyboru)
+UID:a1d6b790-67a1-4872-bf71-e8fe78a13531@a1d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241203T151500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241203T130000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:53862384-f075-4a7d-b373-a99c6ea0f62e@5386.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Chudzicka-Bator
+DTEND:20241211T134500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241211T121500Z
+SUMMARY:Podstawy analizy danych (konwersatorium)
+UID:a0b71582-8004-4c04-9eb5-e4cce2353228@a0b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Alicja Szczygieł
+DTEND:20241216T180000Z
+LOCATION:Bibl. 443
+DTSTART:20241216T154500Z
+SUMMARY:Psychologia  w biznesie (konwersatorium)
+UID:da7ea413-daca-4f11-91e1-8b8881877132@da7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20250110T133000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250110T103000Z
+SUMMARY:Raportowanie i prezentacja danych (konwersatorium do wyboru)
+UID:35616e14-a479-437e-b87b-4f9a7e1704ef@3561.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Surówka
+DTEND:20241120T153000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241120T140000Z
+SUMMARY:Podstawy marketingu (ćwiczenia)
+UID:d276aee0-224e-4735-bbc8-a7c1a762b094@d276.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Sady
+DTEND:20241206T133000Z
+LOCATION:Bibl. 440
+DTSTART:20241206T103000Z
+SUMMARY:Design thinking (konwersatorium do wyboru)
+UID:465b3b59-a75e-4ba1-87d2-677d0cb72496@465b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maciej Kostrzewski
+DTEND:20241122T133000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241122T103000Z
+SUMMARY:Regression models in business analytics (konwersatorium do wyboru)
+UID:b2bf55bb-8734-441f-86d9-f6065932158b@b2bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20241017T160000Z
+LOCATION:Bibl. 440
+DTSTART:20241017T130000Z
+SUMMARY:Zarządzanie zmianą (konwersatorium do wyboru)
+UID:ca820104-913a-450f-aa2a-de04f4b90744@ca82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamila Pilch
+DTEND:20250109T124500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250109T103000Z
+SUMMARY:Komunikacja (konwersatorium do wyboru)
+UID:15c0e8b0-e335-490a-83e2-77a580468082@15c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kondak
+DTEND:20241108T133000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241108T103000Z
+SUMMARY:Teorie zarządzania marką (konwersatorium do wyboru)
+UID:64d42082-959d-4b8a-b488-ed9a99065939@64d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kondak
+DTEND:20241025T123000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241025T093000Z
+SUMMARY:Teorie zarządzania marką (konwersatorium do wyboru)
+UID:fe061174-cedc-45e7-bba7-00829bac832d@fe06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Surówka
+DTEND:20241009T143000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241009T130000Z
+SUMMARY:Podstawy marketingu (ćwiczenia)
+UID:3c982d06-63e8-4f7c-8c84-041d32f17e31@3c98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Chudzicka-Bator
+DTEND:20250108T134500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250108T121500Z
+SUMMARY:Podstawy analizy danych (konwersatorium)
+UID:b2b11262-b2d8-4bb7-8ddf-d8e7a5cfe65b@b2b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Winkler
+DTEND:20250109T124500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250109T103000Z
+SUMMARY:Komunikacja (konwersatorium do wyboru)
+UID:f5737fd0-35df-43b3-be68-32c8c65990a4@f573.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241015T161500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241015T144500Z
+SUMMARY:Filozofia ogólna i polityczna wraz z etyką (wykład)
+UID:57b66d17-895f-4844-9884-5b6fcd816e54@57b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241022T110000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241022T093000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:fea015c3-a437-43f3-ae5f-11947aa7bd3c@fea0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20241024T160000Z
+LOCATION:Bibl. 440
+DTSTART:20241024T130000Z
+SUMMARY:Zarządzanie zmianą (konwersatorium do wyboru)
+UID:78f45880-ab94-4d87-be33-edbf1f653524@78f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wioleta Gałat
+DTEND:20241112T124500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241112T103000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:11f86a18-7661-47eb-922d-4e005dcb5bee@11f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:7ec1cd7a-d063-4eb9-ae39-e6e2503b1c76@7ec1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Matyja
+DTEND:20250113T124500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250113T103000Z
+SUMMARY:Projekt badawczy (Projekt)
+UID:594c83af-a750-40de-9084-89e1b99b3b61@594c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wioleta Gałat
+DTEND:20241210T151500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241210T130000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:0fbd1c40-c3b4-4139-b0c2-4784cddf36a5@0fbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20241212T170000Z
+LOCATION:Bibl. 440
+DTSTART:20241212T140000Z
+SUMMARY:Zarządzanie zmianą (konwersatorium do wyboru)
+UID:0ce09272-1d67-4394-9a25-693cdfd29315@0ce0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Surówka
+DTEND:20241023T143000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241023T130000Z
+SUMMARY:Podstawy marketingu (ćwiczenia)
+UID:bda0f3df-bc6a-4eb1-a5f7-8ae0a55b0861@bda0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241001T161500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241001T144500Z
+SUMMARY:Filozofia ogólna i polityczna wraz z etyką (wykład)
+UID:e896ab5e-5926-4040-a54f-878c29e76306@e896.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kondak
+DTEND:20241122T133000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241122T103000Z
+SUMMARY:Teorie zarządzania marką (konwersatorium do wyboru)
+UID:c72b59ff-d56a-41b6-bac5-4734695bbc7c@c72b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Winkler
+DTEND:20250116T124500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250116T103000Z
+SUMMARY:Komunikacja (konwersatorium do wyboru)
+UID:63c3d3c1-da1b-46d7-9d67-2f914f235a82@63c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamila Pilch
+DTEND:20250123T124500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250123T103000Z
+SUMMARY:Komunikacja (konwersatorium do wyboru)
+UID:8fba9787-46e0-4107-88bb-2ee5874e7e11@8fba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Matyja
+DTEND:20241118T124500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241118T103000Z
+SUMMARY:Projekt badawczy (Projekt)
+UID:7822b91d-46ab-4607-b164-9b4e15c507c1@7822.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Winkler
+DTEND:20241212T124500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241212T103000Z
+SUMMARY:Komunikacja (konwersatorium do wyboru)
+UID:febb65c2-787e-4d96-a75c-01a82759d024@febb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20250123T083000Z
+LOCATION:Paw.C sala D
+DTSTART:20250123T070000Z
+SUMMARY:Podstawy marketingu (wykład)
+UID:95340688-665d-4857-972d-f15048de3588@9534.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241008T114500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241008T093000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:16975bf2-7e4a-4985-9beb-43fdb582a7b6@1697.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wioleta Gałat
+DTEND:20241112T151500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241112T130000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:ea5d48e0-c18e-4e75-b962-83783767cb41@ea5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Matyja
+DTEND:20241028T124500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241028T103000Z
+SUMMARY:Projekt badawczy (Projekt)
+UID:6768cabd-9cf0-4a74-9fe6-f48046e3574a@6768.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Winkler
+DTEND:20241121T124500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241121T103000Z
+SUMMARY:Komunikacja (konwersatorium do wyboru)
+UID:ce199316-d5aa-42d9-b3ce-77e2e600b0bf@ce19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kondak
+DTEND:20241126T083000Z
+LOCATION:Bibl. 443
+DTSTART:20241126T070000Z
+SUMMARY:Teorie zarządzania marką (konwersatorium do wyboru)
+UID:1a09aad2-9ad2-4667-872e-6f4e2c200655@1a09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Alicja Szczygieł
+DTEND:20241007T170000Z
+LOCATION:Bibl. 443
+DTSTART:20241007T144500Z
+SUMMARY:Psychologia  w biznesie (konwersatorium)
+UID:e23e8a4a-9546-46bf-a24c-7ef63836697e@e23e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Sady
+DTEND:20241220T133000Z
+LOCATION:Bibl. 440
+DTSTART:20241220T103000Z
+SUMMARY:Design thinking (konwersatorium do wyboru)
+UID:ef08488b-14e2-4c3b-90c4-568db61ef022@ef08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20241114T083000Z
+LOCATION:Paw.C sala D
+DTSTART:20241114T070000Z
+SUMMARY:Podstawy marketingu (wykład)
+UID:4321dc02-3f87-44e4-8555-8298ff522e56@4321.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Alicja Szczygieł
+DTEND:20241028T180000Z
+LOCATION:Bibl. 443
+DTSTART:20241028T154500Z
+SUMMARY:Psychologia  w biznesie (konwersatorium)
+UID:dde50d74-eea7-4e80-8d4a-2ed4b1822638@dde5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241022T124500Z
+LOCATION:Paw.G 11
+DTSTART:20241022T120000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:4a8729ce-f2fa-405c-b5af-5589de21fbbd@4a87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wioleta Gałat
+DTEND:20241001T114500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241001T093000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:7dea5865-c589-43c5-bf29-329279bb7420@7dea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Sady
+DTEND:20241018T123000Z
+LOCATION:Bibl. 440
+DTSTART:20241018T093000Z
+SUMMARY:Design thinking (konwersatorium do wyboru)
+UID:df8158dd-b0ff-46dc-9b43-3bd0a5503a45@df81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wioleta Gałat
+DTEND:20241001T141500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241001T120000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:581b2fac-a92c-40a8-b138-f14f3f507523@581b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Sady
+DTEND:20250107T083000Z
+LOCATION:Bibl. 443
+DTSTART:20250107T070000Z
+SUMMARY:Design thinking (konwersatorium do wyboru)
+UID:cdbd3bf8-2b35-4a67-b07e-3e9e7484a532@cdbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20241128T083000Z
+LOCATION:Paw.C sala D
+DTSTART:20241128T070000Z
+SUMMARY:Podstawy marketingu (wykład)
+UID:e2eaa68a-355d-4682-8b2a-1c4827f47dad@e2ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Sady
+DTEND:20241115T133000Z
+LOCATION:Bibl. 440
+DTSTART:20241115T103000Z
+SUMMARY:Design thinking (konwersatorium do wyboru)
+UID:ba20b875-52d9-45d4-a204-fd902990b09c@ba20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maciej Kostrzewski
+DTEND:20241108T133000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241108T103000Z
+SUMMARY:Regression models in business analytics (konwersatorium do wyboru)
+UID:8e4f3cc3-620a-418a-89e2-5db79ab2ec57@8e4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Chudzicka-Bator
+DTEND:20241009T124500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241009T111500Z
+SUMMARY:Podstawy analizy danych (konwersatorium)
+UID:cc4ef612-da9c-497e-a02e-1c5550902718@cc4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kondak
+DTEND:20250120T171500Z
+LOCATION:Bibl.425
+DTSTART:20250120T154500Z
+SUMMARY:Metody zarządzania marką (konwersatorium do wyboru)
+UID:faf8c8f1-4e04-40ee-b35e-504462a0ea9e@faf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20250117T133000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250117T103000Z
+SUMMARY:Raportowanie i prezentacja danych (konwersatorium do wyboru)
+UID:3d6b2887-cf4f-4a73-b349-cb300518f54f@3d6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maciej Kostrzewski
+DTEND:20241018T123000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241018T093000Z
+SUMMARY:Regression models in business analytics (konwersatorium do wyboru)
+UID:1f434654-c141-4291-a180-11442b865c31@1f43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241129T133000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241129T103000Z
+SUMMARY:Raportowanie i prezentacja danych (konwersatorium do wyboru)
+UID:16290e0a-9330-4400-bd61-be2bb6bd207d@1629.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamila Pilch
+DTEND:20241205T124500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241205T103000Z
+SUMMARY:Komunikacja (konwersatorium do wyboru)
+UID:8bb5b273-4f54-44e6-be17-d82a70ba5bb6@8bb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Matyja
+DTEND:20241202T124500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241202T103000Z
+SUMMARY:Projekt badawczy (Projekt)
+UID:c7092a87-1e5e-4094-bef8-18cc395399a0@c709.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241122T153000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241122T140000Z
+SUMMARY:Raportowanie i prezentacja danych (konwersatorium do wyboru)
+UID:58bd53a7-f324-438f-b516-50fc192f3c18@58bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241119T151500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241119T130000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:c3393264-c4c4-4041-b56d-00bda4d238a0@c339.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wioleta Gałat
+DTEND:20241029T151500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241029T130000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:110156f7-4657-46c4-8f70-d70d171d477d@1101.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241105T151500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241105T130000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:5cb1925d-c703-4ad8-8193-06f81ae6e4c8@5cb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Alicja Szczygieł
+DTEND:20241021T170000Z
+LOCATION:Bibl. 443
+DTSTART:20241021T144500Z
+SUMMARY:Psychologia  w biznesie (konwersatorium)
+UID:491cf097-59d4-43dd-8ad1-7553bc6be768@491c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Sady
+DTEND:20241011T123000Z
+LOCATION:Bibl. 440
+DTSTART:20241011T093000Z
+SUMMARY:Design thinking (konwersatorium do wyboru)
+UID:94c08585-7ecc-42a9-a2a4-f25a1f3c144c@94c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241203T124500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241203T103000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:6ed9cb48-52a3-4ad3-914c-2f674f163357@6ed9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamila Pilch
+DTEND:20241003T114500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241003T093000Z
+SUMMARY:Komunikacja (konwersatorium do wyboru)
+UID:bb420b26-cb33-4c79-a026-cc2e27db8c8e@bb42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Matyja
+DTEND:20241216T124500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241216T103000Z
+SUMMARY:Projekt badawczy (Projekt)
+UID:1daf07f8-e842-4057-99b9-58d54e0675da@1daf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wioleta Gałat
+DTEND:20250121T124500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250121T103000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:e47e9fd1-2390-4eae-b898-af55cb62aa8f@e47e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241022T120000Z
+LOCATION:Paw.G 11
+DTSTART:20241022T111500Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:80929a3b-4dce-49bc-8029-10593c18d373@8092.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20250114T124500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250114T103000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:9189a9ad-d10c-472d-b043-18d77db9e9d4@9189.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20241114T170000Z
+LOCATION:Bibl. 440
+DTSTART:20241114T140000Z
+SUMMARY:Zarządzanie zmianą (konwersatorium do wyboru)
+UID:fcd91a78-fd75-424e-9c15-e8421c1e6a13@fcd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wioleta Gałat
+DTEND:20250107T124500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250107T103000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:07d8ee39-3a82-4c3a-9794-863d15793472@07d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Sady
+DTEND:20241122T133000Z
+LOCATION:Bibl. 440
+DTSTART:20241122T103000Z
+SUMMARY:Design thinking (konwersatorium do wyboru)
+UID:ed587596-a8b7-4b8d-99ab-fb87991b6ae5@ed58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Chudzicka-Bator
+DTEND:20250120T134500Z
+LOCATION:Paw.G 12
+DTSTART:20250120T121500Z
+SUMMARY:Podstawy analizy danych (konwersatorium)
+UID:bd1a16ce-484f-467f-88ed-7349495394f9@bd1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241126T171500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241126T154500Z
+SUMMARY:Filozofia ogólna i polityczna wraz z etyką (wykład)
+UID:4443b72b-4865-4c92-b7f0-f46b0533f74e@4443.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Alicja Szczygieł
+DTEND:20241118T180000Z
+LOCATION:Bibl. 443
+DTSTART:20241118T154500Z
+SUMMARY:Psychologia  w biznesie (konwersatorium)
+UID:c2f64f63-ddc3-4690-81e2-5cdc8dfcc0b1@c2f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Surówka
+DTEND:20241218T153000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241218T140000Z
+SUMMARY:Podstawy marketingu (ćwiczenia)
+UID:57855bf1-3c4c-452a-a5ea-1802e196e870@5785.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Sady
+DTEND:20250117T133000Z
+LOCATION:Bibl. 440
+DTSTART:20250117T103000Z
+SUMMARY:Design thinking (konwersatorium do wyboru)
+UID:1ff7e849-a6c2-4a01-a1d3-63c797d37eca@1ff7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Surówka
+DTEND:20241009T153000Z
+LOCATION:L Paw.A 401
+DTSTART:20241009T144500Z
+SUMMARY:Podstawy marketingu (ćwiczenia)
+UID:9b440d53-ede9-4ee9-b371-058941b4f873@9b44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241022T143000Z
+LOCATION:Paw.G - 1
+DTSTART:20241022T130000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:87f63d94-2e07-402d-8bb9-4c69d319a1d4@87f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Surówka
+DTEND:20241204T153000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241204T140000Z
+SUMMARY:Podstawy marketingu (ćwiczenia)
+UID:9c2c5791-0d23-47a8-b347-089a34ee0180@9c2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Chudzicka-Bator
+DTEND:20241218T134500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241218T121500Z
+SUMMARY:Podstawy analizy danych (konwersatorium)
+UID:3c48beda-602b-4cfb-a061-bc24dfbed9e3@3c48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241213T133000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241213T103000Z
+SUMMARY:Raportowanie i prezentacja danych (konwersatorium do wyboru)
+UID:3e33136c-7af9-43ab-95a5-efe6aaaf0362@3e33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241119T124500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241119T103000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:af65443b-8458-4636-81d1-75476e0a7dfc@af65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241118T151500Z
+LOCATION:Bibl.425
+DTSTART:20241118T130000Z
+SUMMARY:Filozofia ogólna i polityczna wraz z etyką (ćwiczenia)
+UID:502224af-481e-44a2-9ea5-986a058aae7e@5022.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamila Pilch
+DTEND:20241114T124500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241114T103000Z
+SUMMARY:Komunikacja (konwersatorium do wyboru)
+UID:8eb55025-e342-447d-9f53-47b988463f2f@8eb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Winkler
+DTEND:20241205T124500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241205T103000Z
+SUMMARY:Komunikacja (konwersatorium do wyboru)
+UID:1ef8019e-5fbc-4bd8-8a99-11df33531aa5@1ef8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241217T151500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241217T130000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:eddc8262-71f6-4414-b3ed-6bcc4868a6f7@eddc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Winkler
+DTEND:20241024T114500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241024T093000Z
+SUMMARY:Komunikacja (konwersatorium do wyboru)
+UID:66a8ba6b-723f-490c-a367-7072ae5b996a@66a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20241212T083000Z
+LOCATION:Paw.C sala D
+DTSTART:20241212T070000Z
+SUMMARY:Podstawy marketingu (wykład)
+UID:3df2b6e9-0d3d-4131-9303-21c03cdefe08@3df2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241119T171500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241119T154500Z
+SUMMARY:Filozofia ogólna i polityczna wraz z etyką (wykład)
+UID:e5de9e66-036a-483d-b1dd-445f4fe8d09e@e5de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Surówka
+DTEND:20250115T153000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250115T140000Z
+SUMMARY:Podstawy marketingu (ćwiczenia)
+UID:bb4efb9a-2ac9-4b01-a84a-9e63b691c797@bb4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Matyja
+DTEND:20241104T124500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241104T103000Z
+SUMMARY:Projekt badawczy (Projekt)
+UID:231c8b45-b9da-4e48-884b-cdb8bca44340@231c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Matyja
+DTEND:20241014T114500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241014T093000Z
+SUMMARY:Projekt badawczy (Projekt)
+UID:510fc445-d98d-4ce8-884f-d199d6444fd2@510f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamila Pilch
+DTEND:20241219T120000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241219T103000Z
+SUMMARY:Komunikacja (konwersatorium do wyboru)
+UID:c21df4cc-6fde-44ae-a653-c35903ecec1c@c21d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Alicja Szczygieł
+DTEND:20241202T180000Z
+LOCATION:Bibl. 443
+DTSTART:20241202T154500Z
+SUMMARY:Psychologia  w biznesie (konwersatorium)
+UID:214cc3c5-bf46-43fe-9e64-39fdf4d5075b@214c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241105T124500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241105T103000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:0f838ab8-47a6-45da-9d0a-e54948aabce9@0f83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20250109T083000Z
+LOCATION:Paw.C sala D
+DTSTART:20250109T070000Z
+SUMMARY:Podstawy marketingu (wykład)
+UID:b6a159be-00bb-42eb-bc1a-56170542dc29@b6a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Winkler
+DTEND:20241128T124500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241128T103000Z
+SUMMARY:Komunikacja (konwersatorium do wyboru)
+UID:a0efb4b5-1883-4340-82d3-39eaa03349c9@a0ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20241017T073000Z
+LOCATION:Paw.C sala D
+DTSTART:20241017T060000Z
+SUMMARY:Podstawy marketingu (wykład)
+UID:5ebe3267-e4b5-407a-91dc-f14d827e48f6@5ebe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Alicja Szczygieł
+DTEND:20241014T170000Z
+LOCATION:Bibl. 443
+DTSTART:20241014T144500Z
+SUMMARY:Psychologia  w biznesie (konwersatorium)
+UID:a531bb9e-3bbf-4bdb-973d-8fec72f6832b@a531.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241112T171500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241112T154500Z
+SUMMARY:Filozofia ogólna i polityczna wraz z etyką (wykład)
+UID:58c753e5-07b3-4518-9690-01be71476276@58c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Chudzicka-Bator
+DTEND:20241030T134500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241030T121500Z
+SUMMARY:Podstawy analizy danych (konwersatorium)
+UID:cfd2df14-bfd7-4add-b5ee-4c3621967865@cfd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Matyja
+DTEND:20241125T124500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241125T103000Z
+SUMMARY:Projekt badawczy (Projekt)
+UID:8eed6864-903d-41e1-8deb-5dee612b081b@8eed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241008T161500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241008T144500Z
+SUMMARY:Filozofia ogólna i polityczna wraz z etyką (wykład)
+UID:5a9b09bd-19fd-4641-9b61-6cbc40fd20fd@5a9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wioleta Gałat
+DTEND:20241015T141500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241015T120000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:80c8b764-8690-40b2-bf9c-1fbc105244ab@80c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20241107T170000Z
+LOCATION:Bibl. 440
+DTSTART:20241107T140000Z
+SUMMARY:Zarządzanie zmianą (konwersatorium do wyboru)
+UID:15b22162-9955-4d5a-8ffb-7948274c6444@15b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241021T141500Z
+LOCATION:Bibl.425
+DTSTART:20241021T120000Z
+SUMMARY:Filozofia ogólna i polityczna wraz z etyką (ćwiczenia)
+UID:3c12641f-fbbe-44e9-978f-366daae53965@3c12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Maciej Kostrzewski
+DTEND:20241011T123000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241011T093000Z
+SUMMARY:Regression models in business analytics (konwersatorium do wyboru)
+UID:f7912130-765f-4994-b78a-2d98580c3bc8@f791.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20241219T170000Z
+LOCATION:Bibl. 440
+DTSTART:20241219T140000Z
+SUMMARY:Zarządzanie zmianą (konwersatorium do wyboru)
+UID:8ea22624-9de0-4ff0-9f2c-0cc342f9ca23@8ea2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wioleta Gałat
+DTEND:20241210T124500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241210T103000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:1b54f6d9-8c18-41a5-9c93-9e0d4c601d7b@1b54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamila Pilch
+DTEND:20250116T124500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250116T103000Z
+SUMMARY:Komunikacja (konwersatorium do wyboru)
+UID:0b13f19e-bcdc-46ff-82fa-184daa9dc198@0b13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wioleta Gałat
+DTEND:20250107T151500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250107T130000Z
+SUMMARY:Społeczna odpowiedzialność instytucji publicznych i podmiotów gospodar (konwersatorium do wyboru)
+UID:0265a832-2678-4dd7-be22-e24ec0e87239@0265.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran
+DTEND:20241220T133000Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241220T103000Z
+SUMMARY:Raportowanie i prezentacja danych (konwersatorium do wyboru)
+UID:0df72b07-e9d3-4a3b-9c02-d809516bb4b5@0df7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Sady
+DTEND:20250113T083000Z
+LOCATION:Bibl.425
+DTSTART:20250113T070000Z
+SUMMARY:Design thinking (konwersatorium do wyboru)
+UID:3b5f5cac-f1cf-4278-a817-059e7afee6bd@3b5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20250124T170000Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20250124T140000Z
+SUMMARY:Zarządzanie zmianą (konwersatorium do wyboru)
+UID:2a38ef13-3ad8-4060-a8a4-352fba2cfed6@2a38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Winkler
+DTEND:20241011T160000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241011T130000Z
+SUMMARY:Komunikacja (konwersatorium do wyboru)
+UID:15c7397d-10b3-4195-9d3d-e927d3dc9b13@15c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamila Pilch
+DTEND:20241017T114500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241017T093000Z
+SUMMARY:Komunikacja (konwersatorium do wyboru)
+UID:fd60a8a4-80b6-47e6-9316-eb4b359e6aec@fd60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Sady
+DTEND:20241025T123000Z
+LOCATION:Bibl. 440
+DTSTART:20241025T093000Z
+SUMMARY:Design thinking (konwersatorium do wyboru)
+UID:10b9958f-d075-45dd-8406-d7596ea4ca45@10b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Winkler
+DTEND:20241017T114500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241017T093000Z
+SUMMARY:Komunikacja (konwersatorium do wyboru)
+UID:88265068-7b5c-4abc-85d3-3430d6ee2c9f@8826.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Alicja Szczygieł
+DTEND:20241104T180000Z
+LOCATION:Bibl. 443
+DTSTART:20241104T154500Z
+SUMMARY:Psychologia  w biznesie (konwersatorium)
+UID:a58325c4-1482-48f7-a426-40962e9a2524@a583.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Sady
+DTEND:20241129T133000Z
+LOCATION:Bibl. 440
+DTSTART:20241129T103000Z
+SUMMARY:Design thinking (konwersatorium do wyboru)
+UID:181c216b-32fa-4aee-b371-fd16d876641b@181c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamila Pilch
+DTEND:20241107T124500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241107T103000Z
+SUMMARY:Komunikacja (konwersatorium do wyboru)
+UID:4376bbed-5373-4ac9-a7d6-0bebdff9d8af@4376.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kondak
+DTEND:20241018T123000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241018T093000Z
+SUMMARY:Teorie zarządzania marką (konwersatorium do wyboru)
+UID:86a5af03-2783-4b33-bd7d-8e3611899f33@86a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Winkler
+DTEND:20241107T124500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241107T103000Z
+SUMMARY:Komunikacja (konwersatorium do wyboru)
+UID:3f1f7183-5622-44a8-8f5e-b72ebeac917c@3f1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20241205T170000Z
+LOCATION:Paw.G 12
+DTSTART:20241205T140000Z
+SUMMARY:Zarządzanie zmianą (konwersatorium do wyboru)
+UID:13f10f8b-84bb-4775-b00f-7fdda11080b4@13f1.org
+END:VEVENT
+END:VCALENDAR

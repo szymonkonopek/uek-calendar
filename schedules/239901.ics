@@ -1,0 +1,124 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
+DTEND:20241019T094500Z
+LOCATION:link do zajęć
+DTSTART:20241019T064500Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (wykład)
+UID:f034900b-dc2e-4013-97b6-04a08f68b860@f034.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20241123T104500Z
+LOCATION:link do zajęć
+DTSTART:20241123T074500Z
+SUMMARY:Projekty IT (wykład)
+UID:d2907072-9b00-4071-8398-3301790846b1@d290.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241201T104500Z
+LOCATION:link do zajęć
+DTSTART:20241201T074500Z
+SUMMARY:Inżynieria oprogramowania (wykład)
+UID:0dc1972d-4fb7-49e9-be4a-06e20c943d38@0dc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
+DTEND:20241117T104500Z
+LOCATION:link do zajęć
+DTSTART:20241117T074500Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (wykład)
+UID:950e2878-30c3-4b5f-9b15-1ef72c5aa184@950e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
+DTEND:20241122T184500Z
+LOCATION:link do zajęć
+DTSTART:20241122T163000Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (wykład)
+UID:d5350fde-cc8b-4dd3-9c52-a534bd50a88f@d535.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241117T133000Z
+LOCATION:link do zajęć
+DTSTART:20241117T111500Z
+SUMMARY:Inżynieria oprogramowania (wykład)
+UID:8ff0762f-6c28-45bd-9877-2c483ae59dea@8ff0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
+DTEND:20241214T100000Z
+LOCATION:link do zajęć
+DTSTART:20241214T074500Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (wykład)
+UID:f78b584b-1495-4743-a74f-626fbb56cb38@f78b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241206T184500Z
+LOCATION:link do zajęć
+DTSTART:20241206T154500Z
+SUMMARY:Inżynieria oprogramowania (wykład)
+UID:135ae098-b250-46b8-adec-610573d815d2@135a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20241115T194500Z
+LOCATION:link do zajęć
+DTSTART:20241115T173000Z
+SUMMARY:Projekty IT (wykład)
+UID:b833d090-0839-4ddb-ae38-65d8fc9b8745@b833.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20241020T094500Z
+LOCATION:link do zajęć
+DTSTART:20241020T064500Z
+SUMMARY:Projekty IT (wykład)
+UID:ccebe55f-11b3-49b3-bf7e-d6801989b3df@cceb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241019T131500Z
+LOCATION:link do zajęć
+DTSTART:20241019T101500Z
+SUMMARY:Inżynieria oprogramowania (wykład)
+UID:0e69bf4e-8311-40e9-982f-f78d5e2cacb2@0e69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
+DTEND:20241129T184500Z
+LOCATION:link do zajęć
+DTSTART:20241129T154500Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (wykład)
+UID:60d0dba3-1533-4b43-b43f-8de7482f8055@60d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20241214T124500Z
+LOCATION:link do zajęć
+DTSTART:20241214T103000Z
+SUMMARY:Projekty IT (wykład)
+UID:f03657ca-118f-40b1-bfef-f7b1e863d936@f036.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241213T194500Z
+LOCATION:link do zajęć
+DTSTART:20241213T173000Z
+SUMMARY:Inżynieria oprogramowania (wykład)
+UID:bd3fca6b-20fa-4af4-8a9f-6225e18a7ec3@bd3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20241201T141500Z
+LOCATION:link do zajęć
+DTSTART:20241201T111500Z
+SUMMARY:Projekty IT (wykład)
+UID:4c31e411-6175-47f4-9a8b-3d652115f44c@4c31.org
+END:VEVENT
+END:VCALENDAR

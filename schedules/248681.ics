@@ -1,0 +1,642 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20241029T120000Z
+LOCATION:link do zajęć
+DTSTART:20241029T103000Z
+SUMMARY:Prawo handlowe (wykład do wyboru)
+UID:65c07802-f510-4ba7-bb75-d67a8a65233f@65c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241119T101500Z
+LOCATION:link do zajęć
+DTSTART:20241119T084500Z
+SUMMARY:Certyfikacja systemów zarządzania jakością w transporcie (wykład)
+UID:982fe0c8-ea59-4ffb-b303-25875796de8e@982f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241106T101500Z
+LOCATION:Paw.F 415
+DTSTART:20241106T084500Z
+SUMMARY:Certyfikacja systemów zarządzania jakością w transporcie (ćwiczenia)
+UID:613ce5a3-1663-411d-b474-17d572de4720@613c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20241001T110000Z
+LOCATION:link do zajęć
+DTSTART:20241001T093000Z
+SUMMARY:Prawo handlowe (wykład do wyboru)
+UID:32d7e5ab-f38c-4736-9761-4d7912cf16f7@32d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241023T091500Z
+LOCATION:Paw.F 415
+DTSTART:20241023T074500Z
+SUMMARY:Certyfikacja systemów zarządzania jakością w transporcie (ćwiczenia)
+UID:ecbf3a60-7813-40e1-b0d8-61b00dcf206c@ecbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Cholewa-Wójcik
+DTEND:20241202T134500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241202T121500Z
+SUMMARY:Cła i procedury celne w procesie transportowym (konwersatorium)
+UID:5a4287d9-6a19-4b7e-b162-cdb81301acc0@5a42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20241219T101500Z
+LOCATION:link do zajęć
+DTSTART:20241219T084500Z
+SUMMARY:Prawo handlowe (wykład do wyboru)
+UID:39e8c823-3877-4932-87dd-69ce53207d93@39e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241009T091500Z
+LOCATION:Paw.F 415
+DTSTART:20241009T074500Z
+SUMMARY:Certyfikacja systemów zarządzania jakością w transporcie (ćwiczenia)
+UID:d54cf469-ba25-427a-9346-8b71ad716e7b@d54c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20241202T120000Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20241202T103000Z
+SUMMARY:Metody i systemy zarządzania w transporcie i spedycji (ćwiczenia)
+UID:cbd0c62a-82ef-4039-8505-21a0126538f0@cbd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20241203T120000Z
+LOCATION:link do zajęć
+DTSTART:20241203T103000Z
+SUMMARY:Prawo cywilne (wykład do wyboru)
+UID:ca2c6077-3d42-46cf-beb5-9c3dd1217d69@ca2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20241112T101500Z
+LOCATION:link do zajęć
+DTSTART:20241112T084500Z
+SUMMARY:Metody i systemy zarządzania w transporcie i spedycji (wykład)
+UID:c1d52010-22c9-40f1-948f-639996823fe2@c1d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20250120T144500Z
+LOCATION:Bud.gł. 8
+DTSTART:20250120T140000Z
+SUMMARY:Metody i systemy zarządzania w transporcie i spedycji (ćwiczenia)
+UID:8b8d1809-1b98-4315-9d26-79104c390443@8b8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Cholewa-Wójcik
+DTEND:20241202T190000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241202T173000Z
+SUMMARY:Cła i procedury celne w procesie transportowym (konwersatorium)
+UID:76720231-c25a-4562-968d-434c30ef5d42@7672.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20250114T101500Z
+LOCATION:link do zajęć
+DTSTART:20250114T084500Z
+SUMMARY:Certyfikacja systemów zarządzania jakością w transporcie (wykład)
+UID:95b7f727-3c9a-48f6-863f-918b6f9dd2ad@95b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20241029T101500Z
+LOCATION:link do zajęć
+DTSTART:20241029T084500Z
+SUMMARY:Metody i systemy zarządzania w transporcie i spedycji (wykład)
+UID:1a745e32-93a3-4ffa-a406-5a7c51cc8104@1a74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241204T101500Z
+LOCATION:Paw.F 415
+DTSTART:20241204T084500Z
+SUMMARY:Certyfikacja systemów zarządzania jakością w transporcie (ćwiczenia)
+UID:c8259f46-24b1-4774-9c2e-ec5e582de6c9@c825.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20250107T101500Z
+LOCATION:link do zajęć
+DTSTART:20250107T084500Z
+SUMMARY:Metody i systemy zarządzania w transporcie i spedycji (wykład)
+UID:434ff5cf-4869-49eb-8bae-d4eb175a8ef5@434f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Cholewa-Wójcik
+DTEND:20250120T124500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20250120T111500Z
+SUMMARY:Cła i procedury celne w procesie transportowym (konwersatorium)
+UID:79a20294-61ff-4c7c-837c-af0ec9d18516@79a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:1241edf2-a813-4d01-b927-9ae736b0d42d@1241.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Cholewa-Wójcik
+DTEND:20241021T124500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241021T111500Z
+SUMMARY:Cła i procedury celne w procesie transportowym (konwersatorium)
+UID:ce812516-dd60-4e0d-9ffd-f7eb1815d06d@ce81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Cholewa-Wójcik
+DTEND:20241209T190000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241209T173000Z
+SUMMARY:Cła i procedury celne w procesie transportowym (konwersatorium)
+UID:adf1a32a-1f57-4e4a-b2e2-e18053ad36e1@adf1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:f0cdc071-4685-4390-91ef-aacde85ca692@f0cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20241001T091500Z
+LOCATION:link do zajęć
+DTSTART:20241001T074500Z
+SUMMARY:Metody i systemy zarządzania w transporcie i spedycji (wykład)
+UID:eb850ecc-1d14-49ee-aa2c-6e755f5e1f2b@eb85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20241126T101500Z
+LOCATION:link do zajęć
+DTSTART:20241126T084500Z
+SUMMARY:Metody i systemy zarządzania w transporcie i spedycji (wykład)
+UID:3c9cf418-3caa-40ef-8f10-dc1d153a3d3a@3c9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241008T091500Z
+LOCATION:link do zajęć
+DTSTART:20241008T074500Z
+SUMMARY:Certyfikacja systemów zarządzania jakością w transporcie (wykład)
+UID:2cd710f4-59c2-4a1f-a422-ccffcc9f7992@2cd7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Cholewa-Wójcik
+DTEND:20241118T134500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241118T121500Z
+SUMMARY:Cła i procedury celne w procesie transportowym (konwersatorium)
+UID:bb31f9df-24f7-4079-87a2-9d42ccc9d4a9@bb31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20241021T110000Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20241021T093000Z
+SUMMARY:Metody i systemy zarządzania w transporcie i spedycji (ćwiczenia)
+UID:864dd08e-8f0d-40b8-8034-c78921d237ec@864d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20241118T120000Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20241118T103000Z
+SUMMARY:Metody i systemy zarządzania w transporcie i spedycji (ćwiczenia)
+UID:89059dd9-37c6-49ff-879f-1da8f3924eb7@8905.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Cholewa-Wójcik
+DTEND:20250113T190000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20250113T173000Z
+SUMMARY:Cła i procedury celne w procesie transportowym (konwersatorium)
+UID:4294337a-e2e5-444b-9573-9fe5c5c09632@4294.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20250121T074500Z
+LOCATION:link do zajęć
+DTSTART:20250121T070000Z
+SUMMARY:Normy techniczne i techniczne aspekty działalności (wykład do wyboru)
+UID:be898bae-9777-4496-9409-79e24a773fb2@be89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241015T073000Z
+LOCATION:link do zajęć
+DTSTART:20241015T060000Z
+SUMMARY:Normy techniczne i techniczne aspekty działalności (wykład do wyboru)
+UID:05d49058-6964-4264-af5f-c08365445fa5@05d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20241119T120000Z
+LOCATION:link do zajęć
+DTSTART:20241119T103000Z
+SUMMARY:Prawo cywilne (wykład do wyboru)
+UID:fb02bd6b-9dde-4b07-a0db-ba9722c80f2a@fb02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20241210T101500Z
+LOCATION:link do zajęć
+DTSTART:20241210T084500Z
+SUMMARY:Metody i systemy zarządzania w transporcie i spedycji (wykład)
+UID:c42e686a-dcd5-4828-829a-0a3b4e548c7b@c42e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241120T101500Z
+LOCATION:Paw.F 415
+DTSTART:20241120T084500Z
+SUMMARY:Certyfikacja systemów zarządzania jakością w transporcie (ćwiczenia)
+UID:3b8baa35-928d-4561-b5df-67bf3d563ca3@3b8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20250114T083000Z
+LOCATION:link do zajęć
+DTSTART:20250114T074500Z
+SUMMARY:Certyfikacja systemów zarządzania jakością w transporcie (wykład)
+UID:542baca7-4c44-40d9-b49b-10d040543c08@542b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Śliwa
+DTEND:20241001T124500Z
+LOCATION:link do zajęć
+DTSTART:20241001T111500Z
+SUMMARY:Dostęp do rynku-przewozy tow. i os. w pr. polskim i europejskim-zag.pr (wykład do wyboru)
+UID:89f4a27c-19e0-40d6-9785-0546c7631f84@89f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Śliwa
+DTEND:20241210T134500Z
+LOCATION:link do zajęć
+DTSTART:20241210T121500Z
+SUMMARY:Dostęp do rynku-przewozy tow. i os. w pr. polskim i europejskim-zag.pr (wykład do wyboru)
+UID:4dedfb7d-c9b4-4387-8a4f-3792cff602a7@4ded.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20241104T120000Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20241104T103000Z
+SUMMARY:Metody i systemy zarządzania w transporcie i spedycji (ćwiczenia)
+UID:32cf42ce-6650-477d-9dba-0a3fd8cd88ee@32cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Cholewa-Wójcik
+DTEND:20241028T134500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241028T121500Z
+SUMMARY:Cła i procedury celne w procesie transportowym (konwersatorium)
+UID:913392dd-66a7-4508-84cc-a04a49323898@9133.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241022T091500Z
+LOCATION:link do zajęć
+DTSTART:20241022T074500Z
+SUMMARY:Certyfikacja systemów zarządzania jakością w transporcie (wykład)
+UID:ad4efc29-bf9d-4610-b158-fd97e9ec2f94@ad4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Cholewa-Wójcik
+DTEND:20241125T190000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241125T173000Z
+SUMMARY:Cła i procedury celne w procesie transportowym (konwersatorium)
+UID:48321c64-3e96-4751-b3bc-4f013d7358e4@4832.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20250121T093000Z
+LOCATION:link do zajęć
+DTSTART:20250121T084500Z
+SUMMARY:Metody i systemy zarządzania w transporcie i spedycji (wykład)
+UID:18bd05c8-8fa8-4e86-8d87-6985a16d6c49@18bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20250107T083000Z
+LOCATION:link do zajęć
+DTSTART:20250107T070000Z
+SUMMARY:Normy techniczne i techniczne aspekty działalności (wykład do wyboru)
+UID:10302c13-9748-4cc5-ad1b-a2a5bf3f77d3@1030.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241029T083000Z
+LOCATION:link do zajęć
+DTSTART:20241029T070000Z
+SUMMARY:Normy techniczne i techniczne aspekty działalności (wykład do wyboru)
+UID:5b8e1a8e-eda4-4c6e-8455-18d8da786b2e@5b8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Śliwa
+DTEND:20241015T124500Z
+LOCATION:link do zajęć
+DTSTART:20241015T111500Z
+SUMMARY:Dostęp do rynku-przewozy tow. i os. w pr. polskim i europejskim-zag.pr (wykład do wyboru)
+UID:d830db0d-3bd3-4423-99a0-8573bc4c3de5@d830.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20241217T120000Z
+LOCATION:link do zajęć
+DTSTART:20241217T103000Z
+SUMMARY:Prawo cywilne (wykład do wyboru)
+UID:e733e1f0-4fcd-4758-9919-6eb5d8e5fb39@e733.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20250114T124500Z
+LOCATION:link do zajęć
+DTSTART:20250114T103000Z
+SUMMARY:Prawo cywilne (wykład do wyboru)
+UID:eef48fcb-94a9-4d55-b898-dc7abffb9f23@eef4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20250115T101500Z
+LOCATION:Paw.F 415
+DTSTART:20250115T084500Z
+SUMMARY:Certyfikacja systemów zarządzania jakością w transporcie (ćwiczenia)
+UID:32db3001-e09e-4a93-b5bd-f9811c5ca234@32db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Śliwa
+DTEND:20250121T130000Z
+LOCATION:link do zajęć
+DTSTART:20250121T121500Z
+SUMMARY:Dostęp do rynku-przewozy tow. i os. w pr. polskim i europejskim-zag.pr (wykład do wyboru)
+UID:8a71f090-58c0-4b54-a2b5-62cf86a0d37a@8a71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Śliwa
+DTEND:20241126T134500Z
+LOCATION:link do zajęć
+DTSTART:20241126T121500Z
+SUMMARY:Dostęp do rynku-przewozy tow. i os. w pr. polskim i europejskim-zag.pr (wykład do wyboru)
+UID:dd4b1869-4c40-4d81-9f15-aded9cd4db70@dd4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Cholewa-Wójcik
+DTEND:20241125T134500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241125T121500Z
+SUMMARY:Cła i procedury celne w procesie transportowym (konwersatorium)
+UID:e8b8d685-cf65-4753-8aba-c71cfed87dd2@e8b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241210T083000Z
+LOCATION:link do zajęć
+DTSTART:20241210T070000Z
+SUMMARY:Normy techniczne i techniczne aspekty działalności (wykład do wyboru)
+UID:96f85314-763a-4745-9aae-c2609ea90dc2@96f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20250113T120000Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20250113T103000Z
+SUMMARY:Metody i systemy zarządzania w transporcie i spedycji (ćwiczenia)
+UID:4faa99a4-721d-4a7d-81dd-b6223d440d8e@4faa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20250121T111500Z
+LOCATION:link do zajęć
+DTSTART:20250121T103000Z
+SUMMARY:Prawo handlowe (wykład do wyboru)
+UID:a8968248-c683-455f-9cbc-7f08df75a1fa@a896.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241105T101500Z
+LOCATION:link do zajęć
+DTSTART:20241105T084500Z
+SUMMARY:Certyfikacja systemów zarządzania jakością w transporcie (wykład)
+UID:b00fe8de-2dea-4ea3-81cd-d02d9b8b46f7@b00f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Cholewa-Wójcik
+DTEND:20241216T190000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241216T173000Z
+SUMMARY:Cła i procedury celne w procesie transportowym (konwersatorium)
+UID:88cbc1e6-1509-46ee-bfb2-7d48f8d3a216@88cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241218T101500Z
+LOCATION:Paw.F 415
+DTSTART:20241218T084500Z
+SUMMARY:Certyfikacja systemów zarządzania jakością w transporcie (ćwiczenia)
+UID:a52a4ad4-0c3e-457a-b3e6-96f09c320b1f@a52a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241203T101500Z
+LOCATION:link do zajęć
+DTSTART:20241203T084500Z
+SUMMARY:Certyfikacja systemów zarządzania jakością w transporcie (wykład)
+UID:af0a4643-554f-4f1f-8c97-b6fb8be524a0@af0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20250113T144500Z
+LOCATION:Paw.F CJ  301
+DTSTART:20250113T140000Z
+SUMMARY:Certyfikacja systemów zarządzania jakością w transporcie (ćwiczenia)
+UID:12557f6c-3c22-4400-8b1b-17c5dd402445@1255.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20241015T091500Z
+LOCATION:link do zajęć
+DTSTART:20241015T074500Z
+SUMMARY:Metody i systemy zarządzania w transporcie i spedycji (wykład)
+UID:00a32537-cad8-4620-bbd7-974421f78352@00a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Śliwa
+DTEND:20241112T134500Z
+LOCATION:link do zajęć
+DTSTART:20241112T121500Z
+SUMMARY:Dostęp do rynku-przewozy tow. i os. w pr. polskim i europejskim-zag.pr (wykład do wyboru)
+UID:c85272e2-84b2-455d-965e-9dab327d8f41@c852.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20241210T120000Z
+LOCATION:link do zajęć
+DTSTART:20241210T103000Z
+SUMMARY:Prawo handlowe (wykład do wyboru)
+UID:5f17fe50-a1cc-464c-acca-6f72a7777ae2@5f17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20241008T110000Z
+LOCATION:link do zajęć
+DTSTART:20241008T093000Z
+SUMMARY:Prawo cywilne (wykład do wyboru)
+UID:a9a3b937-d728-4dda-b2e2-13a0e87a3336@a9a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20241126T120000Z
+LOCATION:link do zajęć
+DTSTART:20241126T103000Z
+SUMMARY:Prawo handlowe (wykład do wyboru)
+UID:1cfe3291-751e-44c6-af26-1857d878923a@1cfe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20241015T110000Z
+LOCATION:link do zajęć
+DTSTART:20241015T093000Z
+SUMMARY:Prawo handlowe (wykład do wyboru)
+UID:1c748de7-0bd7-4675-b4c6-918ff460cd9c@1c74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Cholewa-Wójcik
+DTEND:20241104T134500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241104T121500Z
+SUMMARY:Cła i procedury celne w procesie transportowym (konwersatorium)
+UID:b0f9b12b-41f0-4142-8d82-fe68bd93d4a0@b0f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Cholewa-Wójcik
+DTEND:20241014T124500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241014T111500Z
+SUMMARY:Cła i procedury celne w procesie transportowym (konwersatorium)
+UID:20d17a37-5b17-47fd-831f-ce74d76673bc@20d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Śliwa
+DTEND:20241029T134500Z
+LOCATION:link do zajęć
+DTSTART:20241029T121500Z
+SUMMARY:Dostęp do rynku-przewozy tow. i os. w pr. polskim i europejskim-zag.pr (wykład do wyboru)
+UID:9438ec3e-190f-4b50-ad97-a598acebaecb@9438.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20241007T110000Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20241007T093000Z
+SUMMARY:Metody i systemy zarządzania w transporcie i spedycji (ćwiczenia)
+UID:c28fc220-138d-42b4-80b4-0a1a1f354903@c28f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20250107T120000Z
+LOCATION:link do zajęć
+DTSTART:20250107T103000Z
+SUMMARY:Prawo handlowe (wykład do wyboru)
+UID:a8c1c37c-6331-46ca-9deb-47edfbc96485@a8c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Robert Śliwa
+DTEND:20250107T134500Z
+LOCATION:link do zajęć
+DTSTART:20250107T121500Z
+SUMMARY:Dostęp do rynku-przewozy tow. i os. w pr. polskim i europejskim-zag.pr (wykład do wyboru)
+UID:ba05322a-f6d7-489b-8341-784312613c75@ba05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Piotr Kafel
+DTEND:20241217T101500Z
+LOCATION:link do zajęć
+DTSTART:20241217T084500Z
+SUMMARY:Certyfikacja systemów zarządzania jakością w transporcie (wykład)
+UID:e8d8a9d0-f2ff-46f7-8610-5cc2b45b63cb@e8d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241112T083000Z
+LOCATION:link do zajęć
+DTSTART:20241112T070000Z
+SUMMARY:Normy techniczne i techniczne aspekty działalności (wykład do wyboru)
+UID:d2fc7b79-e22c-4fa8-821f-58a23435b178@d2fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241001T073000Z
+LOCATION:link do zajęć
+DTSTART:20241001T060000Z
+SUMMARY:Normy techniczne i techniczne aspekty działalności (wykład do wyboru)
+UID:5a181509-fb94-4bfb-a7a0-f8da87d2debe@5a18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20241216T120000Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20241216T103000Z
+SUMMARY:Metody i systemy zarządzania w transporcie i spedycji (ćwiczenia)
+UID:20da534d-1c62-4912-85c4-986307631341@20da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Cholewa-Wójcik
+DTEND:20241007T124500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241007T111500Z
+SUMMARY:Cła i procedury celne w procesie transportowym (konwersatorium)
+UID:bf2adcdb-ab1e-4cd2-8daa-db44c6b7deac@bf2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20241105T120000Z
+LOCATION:link do zajęć
+DTSTART:20241105T103000Z
+SUMMARY:Prawo cywilne (wykład do wyboru)
+UID:31375a58-2a71-4cc3-a5d4-e473b5a02260@3137.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241126T083000Z
+LOCATION:link do zajęć
+DTSTART:20241126T070000Z
+SUMMARY:Normy techniczne i techniczne aspekty działalności (wykład do wyboru)
+UID:fcaaab21-9371-4320-94c0-6266ff778a2a@fcaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Agnieszka Cholewa-Wójcik
+DTEND:20241216T134500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241216T121500Z
+SUMMARY:Cła i procedury celne w procesie transportowym (konwersatorium)
+UID:17b5a433-09f0-401c-8220-76d489db7c7a@17b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20241022T110000Z
+LOCATION:link do zajęć
+DTSTART:20241022T093000Z
+SUMMARY:Prawo cywilne (wykład do wyboru)
+UID:51cc4043-f6fe-4ad3-8082-26de15db916d@51cc.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,292 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241026T133000Z
+LOCATION:link do zajęć
+DTSTART:20241026T111500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:08632788-adc0-4b1c-8c21-63a78f1c37aa@0863.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241129T194500Z
+LOCATION:link do zajęć
+DTSTART:20241129T173000Z
+SUMMARY:Badania operacyjne (wykład)
+UID:a9e5321b-8685-4ab9-b665-fe4e2192a780@a9e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Sanak-Kosmowska
+DTEND:20241116T114500Z
+LOCATION:link do zajęć
+DTSTART:20241116T093000Z
+SUMMARY:Kreowanie wizerunku przedsiębiorstwa i projektu (wykład)
+UID:7289db01-a00c-4c29-86b6-f3773faa2a41@7289.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jan Gadula
+DTEND:20250118T114500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250118T093000Z
+SUMMARY:Controlling projektów (ćwiczenia)
+UID:8b9bf7f0-8063-4b82-8311-f41a586cd40b@8b9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Małkus
+DTEND:20250111T091500Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20250111T070000Z
+SUMMARY:Zarządzanie ryzykiem projektowym (ćwiczenia)
+UID:8e8e1cf8-ddef-433f-9ee4-62061e7d8adb@8e8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Krzemiński
+DTEND:20241130T114500Z
+LOCATION:link do zajęć
+DTSTART:20241130T093000Z
+SUMMARY:Controlling projektów (wykład)
+UID:02a8591e-df22-461f-b930-089c8508f85e@02a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
+DTEND:20241201T091500Z
+LOCATION:link do zajęć
+DTSTART:20241201T070000Z
+SUMMARY:Projektowanie rozwoju organizacji (wykład do wyboru)
+UID:539f282f-e749-4811-93cd-b3cac9168e8b@539f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20241222T114500Z
+LOCATION:link do zajęć
+DTSTART:20241222T093000Z
+SUMMARY:Zrównoważone zarządzanie organizacją (wykład do wyboru)
+UID:955a38f8-47f0-400b-8871-47479e9af9b5@955a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Krzemiński
+DTEND:20241115T170000Z
+LOCATION:link do zajęć
+DTSTART:20241115T144500Z
+SUMMARY:Controlling projektów (wykład)
+UID:cd77fae9-fdb3-4751-88bd-d5346a367842@cd77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
+DTEND:20241208T114500Z
+LOCATION:link do zajęć
+DTSTART:20241208T093000Z
+SUMMARY:Projektowanie rozwoju organizacji (wykład do wyboru)
+UID:39ae37ca-9887-4f69-850a-6735f1928bfa@39ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Małkus
+DTEND:20241116T143000Z
+LOCATION:link do zajęć
+DTSTART:20241116T121500Z
+SUMMARY:Zarządzanie ryzykiem projektowym (wykład)
+UID:c8388fde-c0f8-426a-9b54-0cfd98f6bc84@c838.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241117T143000Z
+LOCATION:link do zajęć
+DTSTART:20241117T121500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:79b90489-0c6e-403d-bfb1-2d0f696c4dca@79b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20241117T091500Z
+LOCATION:link do zajęć
+DTSTART:20241117T070000Z
+SUMMARY:Zrównoważone zarządzanie organizacją (wykład do wyboru)
+UID:4627bac8-575d-49cb-bdf5-1c2f1848b5ba@4627.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241026T081500Z
+LOCATION:link do zajęć
+DTSTART:20241026T060000Z
+SUMMARY:Badania operacyjne (wykład)
+UID:eddf7230-1c18-4508-8bbb-e66a556f3f08@eddf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241129T170000Z
+LOCATION:link do zajęć
+DTSTART:20241129T144500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:4340e905-6f2a-4b6c-83ba-cdba1b544ff9@4340.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
+DTEND:20241117T114500Z
+LOCATION:link do zajęć
+DTSTART:20241117T093000Z
+SUMMARY:Projektowanie rozwoju organizacji (wykład do wyboru)
+UID:808c2f3e-9a28-462b-98a0-2a42f5fc8751@808c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Małkus
+DTEND:20250118T091500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250118T070000Z
+SUMMARY:Zarządzanie ryzykiem projektowym (ćwiczenia)
+UID:08c3281c-e8aa-4867-b386-dae1edb18644@08c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20241027T114500Z
+LOCATION:link do zajęć
+DTSTART:20241027T093000Z
+SUMMARY:Zrównoważone zarządzanie organizacją (wykład do wyboru)
+UID:625d2c5a-2973-41a0-ad53-f7cd8b409abf@625d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Małkus
+DTEND:20241027T143000Z
+LOCATION:link do zajęć
+DTSTART:20241027T121500Z
+SUMMARY:Zarządzanie ryzykiem projektowym (wykład)
+UID:0b8e4b2e-5142-4d29-ad20-599f259e8aee@0b8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20241208T143000Z
+LOCATION:link do zajęć
+DTSTART:20241208T121500Z
+SUMMARY:Zrównoważone zarządzanie organizacją (wykład do wyboru)
+UID:a124017b-eb49-4aa0-8ada-7702da60cf4c@a124.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Prędki
+DTEND:20241208T091500Z
+LOCATION:link do zajęć
+DTSTART:20241208T070000Z
+SUMMARY:Badania operacyjne (wykład)
+UID:d72ee87d-72d5-4adb-85b4-7c1813d56893@d72e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Sanak-Kosmowska
+DTEND:20241130T091500Z
+LOCATION:link do zajęć
+DTSTART:20241130T070000Z
+SUMMARY:Kreowanie wizerunku przedsiębiorstwa i projektu (wykład)
+UID:5aafeae2-ace2-4af0-833d-a7b99bbf99db@5aaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Krzemiński
+DTEND:20241221T091500Z
+LOCATION:link do zajęć
+DTSTART:20241221T070000Z
+SUMMARY:Controlling projektów (wykład)
+UID:4b20d5a4-e1dd-48f4-90ce-10f43d71558b@4b20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jan Gadula
+DTEND:20250111T114500Z
+LOCATION:Bud.gł. 4
+DTSTART:20250111T093000Z
+SUMMARY:Controlling projektów (ćwiczenia)
+UID:d4422662-4e7d-4478-bb98-892cc5e75d8a@d442.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Katarzyna Sanak-Kosmowska
+DTEND:20241115T194500Z
+LOCATION:link do zajęć
+DTSTART:20241115T173000Z
+SUMMARY:Kreowanie wizerunku przedsiębiorstwa i projektu (wykład)
+UID:732a3354-2aff-4385-86be-f0f2e6f44a4a@732a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Małkus
+DTEND:20241130T143000Z
+LOCATION:link do zajęć
+DTSTART:20241130T121500Z
+SUMMARY:Zarządzanie ryzykiem projektowym (wykład)
+UID:3994fcb5-1dc3-4da2-891d-7b5394f7f4fc@3994.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
+DTEND:20241221T114500Z
+LOCATION:link do zajęć
+DTSTART:20241221T093000Z
+SUMMARY:Projektowanie rozwoju organizacji (wykład do wyboru)
+UID:adc4a3d4-ed0a-44c1-818c-c70b07f0c49d@adc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jan Gadula
+DTEND:20241207T114500Z
+LOCATION:Paw.B 056 (KSB)
+DTSTART:20241207T093000Z
+SUMMARY:Controlling projektów (ćwiczenia)
+UID:18acdd70-4a8c-4686-aff2-fe32711ea2ce@18ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
+DTEND:20241222T091500Z
+LOCATION:link do zajęć
+DTSTART:20241222T070000Z
+SUMMARY:Projektowanie rozwoju organizacji (wykład do wyboru)
+UID:d72ac691-0e79-4a83-b506-ffd508b775d2@d72a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Małkus
+DTEND:20241207T091500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241207T070000Z
+SUMMARY:Zarządzanie ryzykiem projektowym (ćwiczenia)
+UID:9fcb46d0-ec41-42d2-9000-1ae01e1e375e@9fcb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241221T143000Z
+LOCATION:link do zajęć
+DTSTART:20241221T121500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:f946f34a-ba89-4945-97e6-1c41973d5d97@f946.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241201T143000Z
+LOCATION:link do zajęć
+DTSTART:20241201T121500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:b32e55c5-b1eb-4119-9647-d2842e3b88aa@b32e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marian Bursztyn
+DTEND:20241222T143000Z
+LOCATION:link do zajęć
+DTSTART:20241222T121500Z
+SUMMARY:Etykieta w relacjach zawodowych-wybrane aspekty psychospołeczne (wykład do wyboru)
+UID:5213052f-4615-4126-af69-e2ce25b48db0@5213.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20241026T104500Z
+LOCATION:link do zajęć
+DTSTART:20241026T083000Z
+SUMMARY:Zrównoważone zarządzanie organizacją (wykład do wyboru)
+UID:b06d8209-98b6-4a2d-8d0a-f12f6be152bb@b06d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Kurzak-Mabrouk
+DTEND:20241201T114500Z
+LOCATION:link do zajęć
+DTSTART:20241201T093000Z
+SUMMARY:Zrównoważone zarządzanie organizacją (wykład do wyboru)
+UID:64e0a239-f792-4013-964c-27967899c586@64e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Ewa Kozień
+DTEND:20241027T091500Z
+LOCATION:link do zajęć
+DTSTART:20241027T070000Z
+SUMMARY:Projektowanie rozwoju organizacji (wykład do wyboru)
+UID:9b97ed14-2b98-4dca-95a7-4717ba331eb7@9b97.org
+END:VEVENT
+END:VCALENDAR

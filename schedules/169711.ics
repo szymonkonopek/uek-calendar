@@ -1,0 +1,316 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Kawa
+DTEND:20241005T133000Z
+LOCATION:link do zajęć
+DTSTART:20241005T111500Z
+SUMMARY:Standardy sprawozdawczości finansowej (wykład)
+UID:b8df8e6f-d8b0-4b95-a962-6977bca2aba4@b8df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zieniuk
+DTEND:20241117T100000Z
+LOCATION:link do zajęć
+DTSTART:20241117T074500Z
+SUMMARY:Zaawansowana rachunkowość finansowa (wykład)
+UID:c3f20329-76b1-4c5f-ad60-ef7d6d2e38fe@c3f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
+DTEND:20241208T100000Z
+LOCATION:link do zajęć
+DTSTART:20241208T074500Z
+SUMMARY:Kontrola i audyt wewnętrzny (wykład)
+UID:62fbd244-151b-4c0d-b3ca-ce49e43b380c@62fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Witold Furman
+DTEND:20241117T151500Z
+LOCATION:link do zajęć
+DTSTART:20241117T130000Z
+SUMMARY:Rachunkowość podatkowa (wykład)
+UID:9da142fb-8299-4681-a113-e1e4a6287083@9da1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Łach
+DTEND:20241207T114500Z
+LOCATION:Paw.F 715
+DTSTART:20241207T093000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstw w ujęciu międzynarodowym (ćwiczenia)
+UID:800c5915-a5fc-405d-9ecf-250a7adbcca2@800c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Kawa
+DTEND:20241207T091500Z
+LOCATION:Paw.F 104
+DTSTART:20241207T070000Z
+SUMMARY:Międzynarodowe i krajowe standardy rachunkowości (ćwiczenia)
+UID:eb3ca5ea-6e27-4d49-896d-a5130f042c4b@eb3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Kawa
+DTEND:20241117T124500Z
+LOCATION:link do zajęć
+DTSTART:20241117T103000Z
+SUMMARY:Standardy sprawozdawczości finansowej (wykład)
+UID:662eb22e-68ff-48cd-a7e8-d456db3e6c1c@662e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Łach
+DTEND:20241026T104500Z
+LOCATION:link do zajęć
+DTSTART:20241026T083000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstw w ujęciu międzynarodowym (wykład)
+UID:d298c7f0-1f59-47a1-8f1a-bbfa2c5fdb1a@d298.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Kawa
+DTEND:20241201T133000Z
+LOCATION:link do zajęć
+DTSTART:20241201T111500Z
+SUMMARY:Standardy sprawozdawczości finansowej (wykład)
+UID:9af9ac14-ecb7-4134-97ea-612f1d1c18e7@9af9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Kawa
+DTEND:20241220T170000Z
+LOCATION:link do zajęć
+DTSTART:20241220T144500Z
+SUMMARY:Standardy sprawozdawczości finansowej (wykład)
+UID:6a4c6982-b844-4734-bcf3-615252a71bed@6a4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Witold Furman
+DTEND:20241006T090000Z
+LOCATION:link do zajęć
+DTSTART:20241006T064500Z
+SUMMARY:Rachunkowość podatkowa (wykład)
+UID:c57503f4-cb4f-4bdf-af2d-a1d7d3f35dc4@c575.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Piotr Schroeder
+DTEND:20241221T114500Z
+LOCATION:Paw.F 102
+DTSTART:20241221T093000Z
+SUMMARY:Zaawansowana rachunkowość finansowa (ćwiczenia)
+UID:bbaf167e-06af-4967-8714-ed6ad06536dc@bbaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Kawa
+DTEND:20241005T160000Z
+LOCATION:link do zajęć
+DTSTART:20241005T134500Z
+SUMMARY:Międzynarodowe i krajowe standardy rachunkowości (wykład)
+UID:9a5ee7f2-7a76-46f1-b367-47a1ae57ca13@9a5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kędzior
+DTEND:20241130T170000Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20241130T144500Z
+SUMMARY:Standardy sprawozdawczości finansowej (ćwiczenia)
+UID:78786f4e-d972-4709-a493-45748cb41bf7@7878.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20241221T170000Z
+LOCATION:Paw.F 717
+DTSTART:20241221T144500Z
+SUMMARY:Kontrola i audyt wewnętrzny (ćwiczenia)
+UID:61c4c9e6-8c08-48b0-a19f-894a9aa95d40@61c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kędzior
+DTEND:20250118T114500Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20250118T093000Z
+SUMMARY:Standardy sprawozdawczości finansowej (ćwiczenia)
+UID:b509a5ae-76f9-41ee-8945-5440dcf37708@b509.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Witold Furman
+DTEND:20241222T100000Z
+LOCATION:link do zajęć
+DTSTART:20241222T074500Z
+SUMMARY:Rachunkowość podatkowa (wykład)
+UID:0fb27b09-1836-4806-83ac-58c8a31b5bac@0fb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Kawa
+DTEND:20241019T081500Z
+LOCATION:link do zajęć
+DTSTART:20241019T060000Z
+SUMMARY:Międzynarodowe i krajowe standardy rachunkowości (wykład)
+UID:78bbd854-32c1-4ac7-8126-e203ad5c8a0b@78bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Piotr Schroeder
+DTEND:20241116T143000Z
+LOCATION:Paw.F 102
+DTSTART:20241116T121500Z
+SUMMARY:Zaawansowana rachunkowość finansowa (ćwiczenia)
+UID:0762b191-ec2b-45c2-865b-291ee2ff1838@0762.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Łach
+DTEND:20241006T114500Z
+LOCATION:link do zajęć
+DTSTART:20241006T093000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstw w ujęciu międzynarodowym (wykład)
+UID:59c5d680-9ee0-4517-b626-f3c88fea082d@59c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Kawa
+DTEND:20241208T124500Z
+LOCATION:link do zajęć
+DTSTART:20241208T103000Z
+SUMMARY:Standardy sprawozdawczości finansowej (wykład)
+UID:72a068ec-c62c-4e58-aba6-bdb7e51b02a6@72a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Witold Furman
+DTEND:20241027T114500Z
+LOCATION:link do zajęć
+DTSTART:20241027T093000Z
+SUMMARY:Rachunkowość podatkowa (wykład)
+UID:160f7abc-4861-495e-9944-873a406fed15@160f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dorota Kędzior
+DTEND:20241221T143000Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20241221T121500Z
+SUMMARY:Standardy sprawozdawczości finansowej (ćwiczenia)
+UID:adeb1822-d40a-41e4-81dd-53091c7748a6@adeb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zieniuk
+DTEND:20241005T104500Z
+LOCATION:link do zajęć
+DTSTART:20241005T083000Z
+SUMMARY:Zaawansowana rachunkowość finansowa (wykład)
+UID:c9e42c28-2e59-47a5-a7d6-f9f2a15967c6@c9e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Łach
+DTEND:20250118T143000Z
+LOCATION:Paw.F 715
+DTSTART:20250118T121500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstw w ujęciu międzynarodowym (ćwiczenia)
+UID:761b7450-6331-43f5-b164-840e5fc98eae@761b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20241130T143000Z
+LOCATION:Paw.F 717
+DTSTART:20241130T121500Z
+SUMMARY:Kontrola i audyt wewnętrzny (ćwiczenia)
+UID:7c1efc12-bc65-4b00-91cf-8c48bba11881@7c1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Piotr Schroeder
+DTEND:20241130T194500Z
+LOCATION:Paw.F 102
+DTSTART:20241130T173000Z
+SUMMARY:Zaawansowana rachunkowość finansowa (ćwiczenia)
+UID:084dbd17-56d9-452b-8a98-b61da5b646b6@084d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Zieniuk
+DTEND:20241027T170000Z
+LOCATION:link do zajęć
+DTSTART:20241027T144500Z
+SUMMARY:Zaawansowana rachunkowość finansowa (wykład)
+UID:e5a4f5d8-e788-4ac4-a7d4-916ce0e00ea5@e5a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Witold Furman
+DTEND:20241206T170000Z
+LOCATION:link do zajęć
+DTSTART:20241206T144500Z
+SUMMARY:Rachunkowość podatkowa (wykład)
+UID:8f026955-3960-488c-8311-5ea5b73daa13@8f02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
+DTEND:20241027T143000Z
+LOCATION:link do zajęć
+DTSTART:20241027T121500Z
+SUMMARY:Kontrola i audyt wewnętrzny (wykład)
+UID:dd7d638d-bb52-43bd-9456-55bd609a635e@dd7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Kawa
+DTEND:20241201T161500Z
+LOCATION:link do zajęć
+DTSTART:20241201T140000Z
+SUMMARY:Międzynarodowe i krajowe standardy rachunkowości (wykład)
+UID:569e838c-939d-4447-a4b7-ba578459f448@569e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Kawa
+DTEND:20250111T143000Z
+LOCATION:Paw.F 104
+DTSTART:20250111T121500Z
+SUMMARY:Międzynarodowe i krajowe standardy rachunkowości (ćwiczenia)
+UID:d0fab29d-48aa-4283-a10f-c81145104ddd@d0fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Kawa
+DTEND:20241130T114500Z
+LOCATION:Paw.F 104
+DTSTART:20241130T093000Z
+SUMMARY:Międzynarodowe i krajowe standardy rachunkowości (ćwiczenia)
+UID:e33fb748-9062-47f4-a5d3-8c7339aa53ec@e33f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Turek-Radwan
+DTEND:20250111T114500Z
+LOCATION:Paw.F 717
+DTSTART:20250111T093000Z
+SUMMARY:Kontrola i audyt wewnętrzny (ćwiczenia)
+UID:f86917ec-6e4c-48cd-b558-01d6ab13b9d6@f869.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Łach
+DTEND:20241129T194500Z
+LOCATION:link do zajęć
+DTSTART:20241129T173000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstw w ujęciu międzynarodowym (wykład)
+UID:12db06fc-4110-47a6-957b-a883cac61fd2@12db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Łach
+DTEND:20241116T114500Z
+LOCATION:Paw.F 715
+DTSTART:20241116T093000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstw w ujęciu międzynarodowym (ćwiczenia)
+UID:0259a4f8-422d-449e-9f46-7fd41242d1b4@0259.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ewa Grabowska-Kaczmarczyk
+DTEND:20241115T194500Z
+LOCATION:link do zajęć
+DTSTART:20241115T173000Z
+SUMMARY:Kontrola i audyt wewnętrzny (wykład)
+UID:36835ad0-787b-4c1c-b741-fa3f3b0c3b21@3683.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Witold Furman
+DTEND:20241129T170000Z
+LOCATION:link do zajęć
+DTSTART:20241129T144500Z
+SUMMARY:Rachunkowość podatkowa (wykład)
+UID:d6c9ef4d-cbbf-4d8d-9bf6-cd0c4ac70f48@d6c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Barbara Kawa
+DTEND:20241019T104500Z
+LOCATION:link do zajęć
+DTSTART:20241019T083000Z
+SUMMARY:Standardy sprawozdawczości finansowej (wykład)
+UID:e1c02cfb-43fe-4cb6-bf14-140fc4a657bb@e1c0.org
+END:VEVENT
+END:VCALENDAR

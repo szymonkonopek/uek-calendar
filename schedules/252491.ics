@@ -1,0 +1,1314 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241015T143000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241015T130000Z
+SUMMARY:Nowoczesność i jej kryzys w perspektywie filozoficznej (konwersatorium do wyboru)
+UID:875b8f2d-f488-47b4-b181-2de7f708104c@875b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Górka
+DTEND:20241104T120000Z
+LOCATION:Paw.U sala N
+DTSTART:20241104T103000Z
+SUMMARY:Antropologia (konwersatorium)
+UID:6e689875-8da4-443f-8000-20b293ab4f78@6e68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20241212T153000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241212T140000Z
+SUMMARY:Psychologia pracy (konwersatorium do wyboru)
+UID:cc060812-1ffc-461c-9a67-3657fbb7eaef@cc06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20250121T153000Z
+LOCATION:Paw.S sala 10
+DTSTART:20250121T140000Z
+SUMMARY:Nowoczesność i jej kryzys w perspektywie filozoficznej (konwersatorium do wyboru)
+UID:f69591cb-9a7b-476c-980d-208ee44ca43d@f695.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Daria Wójcik
+DTEND:20241126T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241126T103000Z
+SUMMARY:Analiza danych jakościowych (laboratorium)
+UID:681b4ced-f06b-442f-bad3-dbdb75a70997@681b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Daria Wójcik
+DTEND:20241119T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241119T103000Z
+SUMMARY:Analiza danych jakościowych (laboratorium)
+UID:6bf8a1a6-e76b-4616-8fdb-79af80593c8a@6bf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20250107T171500Z
+LOCATION:Paw.G - 2
+DTSTART:20250107T154500Z
+SUMMARY:Teoria gier w naukach społecznych (konwersatorium do wyboru)
+UID:c64ee206-9065-4261-a5d9-a85b5cd5418c@c64e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20241010T161500Z
+LOCATION:Paw.G - 2
+DTSTART:20241010T144500Z
+SUMMARY:Techniki twórczego myślenia (konwersatorium do wyboru)
+UID:78c3d678-27b2-41dd-ac03-94dcc1a5b871@78c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241008T161500Z
+LOCATION:Paw.G - 2
+DTSTART:20241008T144500Z
+SUMMARY:Teoria gier w naukach społecznych (konwersatorium do wyboru)
+UID:9553b79b-0069-4959-a32b-877a0d6914df@9553.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20241128T134500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241128T121500Z
+SUMMARY:Antropologia (wykład)
+UID:ded32d23-ceea-46f9-9dfe-3a96eb2b32c5@ded3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20241107T153000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241107T140000Z
+SUMMARY:Psychologia pracy (konwersatorium do wyboru)
+UID:3ff810d5-3414-464b-9a93-1e2bbf59c76a@3ff8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241204T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241204T103000Z
+SUMMARY:Analiza danych ilościowych (laboratorium)
+UID:ec03fc7a-cc07-487a-96b6-a259fb821ebf@ec03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamila Pilch
+DTEND:20241126T083000Z
+LOCATION:Paw.G - 1
+DTSTART:20241126T070000Z
+SUMMARY:Projekt badawczy z wykorzystaniem metod mieszonych (konwersatorium)
+UID:1407a438-ca3e-4a32-b2be-bbed6fb77644@1407.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241127T074500Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241127T070000Z
+SUMMARY:Metodologia badań marketingowych (konwersatorium do wyboru)
+UID:21b11682-93be-4402-822f-f5ff52fd9844@21b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dzwończyk
+DTEND:20241023T161500Z
+LOCATION:Paw.U sala N
+DTSTART:20241023T144500Z
+SUMMARY:Nauki o polityce (konwersatorium)
+UID:678ad50c-1c8e-4122-89fd-dd78c1349717@678a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241203T171500Z
+LOCATION:Paw.G - 2
+DTSTART:20241203T154500Z
+SUMMARY:Teoria gier w naukach społecznych (konwersatorium do wyboru)
+UID:06e871f6-d8ed-4f40-8f00-82b8de4ecbf3@06e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20250107T153000Z
+LOCATION:Paw.S sala 10
+DTSTART:20250107T140000Z
+SUMMARY:Nowoczesność i jej kryzys w perspektywie filozoficznej (konwersatorium do wyboru)
+UID:e964b846-1b7f-4477-a47a-0a78d4b555a9@e964.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241030T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241030T103000Z
+SUMMARY:Analiza danych ilościowych (laboratorium)
+UID:e5c969f8-86f9-42c3-9b6d-820ab171b377@e5c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20241128T153000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241128T140000Z
+SUMMARY:Psychologia pracy (konwersatorium do wyboru)
+UID:565a18b4-6bc8-49eb-8378-55d12530bb5b@565a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Górka
+DTEND:20241118T120000Z
+LOCATION:Paw.U sala N
+DTSTART:20241118T103000Z
+SUMMARY:Antropologia (konwersatorium)
+UID:f2b0653a-971e-49d5-9242-39d314b21327@f2b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20250114T171500Z
+LOCATION:Paw.G - 2
+DTSTART:20250114T154500Z
+SUMMARY:Teoria gier w naukach społecznych (konwersatorium do wyboru)
+UID:ad04a8e1-6239-42c9-8d9f-57ddfb379b9a@ad04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamila Pilch
+DTEND:20250107T083000Z
+LOCATION:Paw.G - 1
+DTSTART:20250107T070000Z
+SUMMARY:Projekt badawczy z wykorzystaniem metod mieszonych (konwersatorium)
+UID:a68fa45e-b291-431a-9263-7c586fa4748c@a68f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20241128T171500Z
+LOCATION:Paw.G - 2
+DTSTART:20241128T154500Z
+SUMMARY:Techniki twórczego myślenia (konwersatorium do wyboru)
+UID:8b6ddc49-137b-476a-bf18-9a3528893e7d@8b6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Daria Wójcik
+DTEND:20241105T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241105T103000Z
+SUMMARY:Analiza danych jakościowych (laboratorium)
+UID:dbc0bbc2-268e-47e5-89ce-df537630d1dd@dbc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241018T073000Z
+LOCATION:Paw.F 416
+DTSTART:20241018T060000Z
+SUMMARY:Wprowadzenie do wizualizacji danych (konwersatorium do wyboru)
+UID:1d59d66e-eae9-4fcc-aee9-06c92d7080e4@1d59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20250113T134500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20250113T121500Z
+SUMMARY:Nauki o polityce (wykład)
+UID:4bfff034-c213-4d66-9533-cb000525e2c8@4bff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20241024T161500Z
+LOCATION:Paw.G - 2
+DTSTART:20241024T144500Z
+SUMMARY:Techniki twórczego myślenia (konwersatorium do wyboru)
+UID:2c662b32-2b2b-476d-a691-a7dcb5904066@2c66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kwarcińska
+DTEND:20241120T083000Z
+LOCATION:Paw.U sala N
+DTSTART:20241120T070000Z
+SUMMARY:Wywiady jakościowe indywidualne i grupowe (konwersatorium)
+UID:eee30e65-1b47-4253-80e3-24ad91159255@eee3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20250109T153000Z
+LOCATION:Paw.S sala 10
+DTSTART:20250109T140000Z
+SUMMARY:Psychologia pracy (konwersatorium do wyboru)
+UID:d9767705-bd63-4fcd-bd88-0441ee50f7d6@d976.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20241104T134500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241104T121500Z
+SUMMARY:Nauki o polityce (wykład)
+UID:4a16d3de-94fb-4944-b136-5347d22d29d2@4a16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dzwończyk
+DTEND:20241218T171500Z
+LOCATION:Paw.U sala N
+DTSTART:20241218T154500Z
+SUMMARY:Nauki o polityce (konwersatorium)
+UID:0531e49a-c7a1-4225-b233-2e8d9e021290@0531.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20241114T153000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241114T140000Z
+SUMMARY:Psychologia pracy (konwersatorium do wyboru)
+UID:f71529aa-7934-47da-9275-6b76edf1ff8b@f715.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241016T110000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241016T093000Z
+SUMMARY:Analiza danych ilościowych (laboratorium)
+UID:faf7e14f-6a7b-4f78-92e5-0bb74b71684b@faf7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20250109T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250109T103000Z
+SUMMARY:Metodologia badań marketingowych (konwersatorium do wyboru)
+UID:46d1839f-2c36-4530-8a76-334bfb02b69e@46d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kwarcińska
+DTEND:20241009T073000Z
+LOCATION:Paw.U sala N
+DTSTART:20241009T060000Z
+SUMMARY:Wywiady jakościowe indywidualne i grupowe (konwersatorium)
+UID:f4fc29ab-9ec3-4b06-9dc0-fe85772a4dbd@f4fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241203T153000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241203T140000Z
+SUMMARY:Nowoczesność i jej kryzys w perspektywie filozoficznej (konwersatorium do wyboru)
+UID:e9a555cc-0a01-4a54-be30-6c1932580444@e9a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241008T143000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241008T130000Z
+SUMMARY:Nowoczesność i jej kryzys w perspektywie filozoficznej (konwersatorium do wyboru)
+UID:6c4bec1d-64d8-4d6d-acce-01d155f081d5@6c4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20241024T143000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241024T130000Z
+SUMMARY:Psychologia pracy (konwersatorium do wyboru)
+UID:b715d3f6-f966-4403-b62f-d498f2eb1673@b715.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20250109T171500Z
+LOCATION:Paw.G - 2
+DTSTART:20250109T154500Z
+SUMMARY:Techniki twórczego myślenia (konwersatorium do wyboru)
+UID:9bdea807-3ff1-442d-9627-e4591fe7def1@9bde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Górka
+DTEND:20241007T110000Z
+LOCATION:Paw.U sala N
+DTSTART:20241007T093000Z
+SUMMARY:Antropologia (konwersatorium)
+UID:b1601112-87f2-4592-b7a6-b8618ddb3d55@b160.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20250121T171500Z
+LOCATION:Paw.G - 2
+DTSTART:20250121T154500Z
+SUMMARY:Teoria gier w naukach społecznych (konwersatorium do wyboru)
+UID:d5674746-7800-4dea-9956-2fd16f3ed7b3@d567.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20250110T083000Z
+LOCATION:Paw.F 416
+DTSTART:20250110T070000Z
+SUMMARY:Wprowadzenie do wizualizacji danych (konwersatorium do wyboru)
+UID:ad9a08d6-c13e-4849-9862-2941554496ed@ad9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20250117T083000Z
+LOCATION:Paw.S sala 2
+DTSTART:20250117T074500Z
+SUMMARY:Nauki o polityce (wykład)
+UID:7fb885eb-4fd0-45a0-80ca-638f12502d22@7fb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20241017T161500Z
+LOCATION:Paw.G - 2
+DTSTART:20241017T144500Z
+SUMMARY:Techniki twórczego myślenia (konwersatorium do wyboru)
+UID:c29f766e-a153-4eb3-8875-b0407fee1db2@c29f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20241003T161500Z
+LOCATION:Paw.G - 2
+DTSTART:20241003T144500Z
+SUMMARY:Techniki twórczego myślenia (konwersatorium do wyboru)
+UID:f963a3d4-f257-4e11-9d75-a129c62c6e10@f963.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Daria Wójcik
+DTEND:20250114T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250114T103000Z
+SUMMARY:Analiza danych jakościowych (laboratorium)
+UID:24dbb401-a543-4cb8-b9a1-030f975244d5@24db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Daria Wójcik
+DTEND:20250121T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250121T103000Z
+SUMMARY:Analiza danych jakościowych (laboratorium)
+UID:134ff515-ad20-44d9-a43b-b88598fa9d98@134f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20241212T134500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241212T121500Z
+SUMMARY:Antropologia (wykład)
+UID:bc2cb32a-2f0a-45d8-875f-25681efd53b6@bc2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20250122T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250122T103000Z
+SUMMARY:Analiza danych ilościowych (laboratorium)
+UID:14cc65ab-faee-4a40-9423-0f10e32d4146@14cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Daria Wójcik
+DTEND:20241022T110000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241022T093000Z
+SUMMARY:Analiza danych jakościowych (laboratorium)
+UID:102f74f3-b759-420a-9ddf-ed84e4980ebf@102f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20250116T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250116T103000Z
+SUMMARY:Metodologia badań marketingowych (konwersatorium do wyboru)
+UID:292a03f7-3210-47c8-b19e-a57948b86567@292a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241120T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241120T103000Z
+SUMMARY:Analiza danych ilościowych (laboratorium)
+UID:84c1c08a-84f8-411d-ac80-da36b1c35182@84c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dzwończyk
+DTEND:20241204T171500Z
+LOCATION:Paw.U sala N
+DTSTART:20241204T154500Z
+SUMMARY:Nauki o polityce (konwersatorium)
+UID:55b9e01a-9b2f-428a-b093-b7184bf59ff1@55b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20241121T153000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241121T140000Z
+SUMMARY:Psychologia pracy (konwersatorium do wyboru)
+UID:70d5c787-2a4f-4bc4-b665-e7ed86fcd860@70d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20241202T134500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241202T121500Z
+SUMMARY:Nauki o polityce (wykład)
+UID:4e4e3f1e-4f95-4186-a6bb-d659a85e5905@4e4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20241017T124500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241017T111500Z
+SUMMARY:Antropologia (wykład)
+UID:28c7c4c8-666c-4331-9595-5c0ce41df323@28c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Górka
+DTEND:20241216T120000Z
+LOCATION:Paw.U sala N
+DTSTART:20241216T103000Z
+SUMMARY:Antropologia (konwersatorium)
+UID:b5a867a2-634f-4b8f-b147-47427e991871@b5a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241022T161500Z
+LOCATION:Paw.G - 2
+DTSTART:20241022T144500Z
+SUMMARY:Teoria gier w naukach społecznych (konwersatorium do wyboru)
+UID:a8821b24-df9b-4a7d-80f3-6215627d2eb8@a882.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamila Pilch
+DTEND:20241015T073000Z
+LOCATION:Paw.G - 1
+DTSTART:20241015T060000Z
+SUMMARY:Projekt badawczy z wykorzystaniem metod mieszonych (konwersatorium)
+UID:8d847d39-0b41-4e8e-9c41-121b422407d5@8d84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241106T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241106T103000Z
+SUMMARY:Analiza danych ilościowych (laboratorium)
+UID:4d12fbc1-9b00-473f-b608-268bd8af8c32@4d12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241217T153000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241217T140000Z
+SUMMARY:Nowoczesność i jej kryzys w perspektywie filozoficznej (konwersatorium do wyboru)
+UID:54047941-e04d-428f-8cb8-7d1c5a12241d@5404.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20241031T171500Z
+LOCATION:Paw.G - 2
+DTSTART:20241031T154500Z
+SUMMARY:Techniki twórczego myślenia (konwersatorium do wyboru)
+UID:b7d18115-c01a-4769-8ebf-758f698613f0@b7d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241004T073000Z
+LOCATION:Paw.F 416
+DTSTART:20241004T060000Z
+SUMMARY:Wprowadzenie do wizualizacji danych (konwersatorium do wyboru)
+UID:1ac76bf9-c15b-4652-9f3e-90fe63977a8b@1ac7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20250113T083000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250113T070000Z
+SUMMARY:Analiza danych ilościowych (laboratorium)
+UID:0cf8bfff-d7f7-487f-8de6-59cda6bae4f1@0cf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kwarcińska
+DTEND:20250115T083000Z
+LOCATION:Paw.U sala N
+DTSTART:20250115T070000Z
+SUMMARY:Wywiady jakościowe indywidualne i grupowe (konwersatorium)
+UID:782bec99-fcbf-4953-9849-57c2644617a0@782b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamila Pilch
+DTEND:20241029T083000Z
+LOCATION:Paw.G - 1
+DTSTART:20241029T070000Z
+SUMMARY:Projekt badawczy z wykorzystaniem metod mieszonych (konwersatorium)
+UID:881c3fbb-0d18-479c-bd88-112ecba2d3a0@881c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20250114T153000Z
+LOCATION:Paw.S sala 10
+DTSTART:20250114T140000Z
+SUMMARY:Nowoczesność i jej kryzys w perspektywie filozoficznej (konwersatorium do wyboru)
+UID:a21d8921-c190-4a61-8f12-e144f840913b@a21d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:9acc30f0-899e-49c0-92d9-a0b9f0ad40ee@9acc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamila Pilch
+DTEND:20241112T083000Z
+LOCATION:Paw.G - 1
+DTSTART:20241112T070000Z
+SUMMARY:Projekt badawczy z wykorzystaniem metod mieszonych (konwersatorium)
+UID:2cfba63a-4e79-48c1-b402-08794207eb61@2cfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241001T161500Z
+LOCATION:Paw.G - 2
+DTSTART:20241001T144500Z
+SUMMARY:Teoria gier w naukach społecznych (konwersatorium do wyboru)
+UID:b99824d4-d5b1-4aa7-aab3-266003f39a24@b998.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20250108T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250108T103000Z
+SUMMARY:Analiza danych ilościowych (laboratorium)
+UID:8157679c-3b99-4fde-bccd-8f61529f743e@8157.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241127T083000Z
+LOCATION:Paw.A 116 lab.Win8.1\, Office21
+DTSTART:20241127T074500Z
+SUMMARY:Badania sondażowe (konwersatorium)
+UID:efaa096a-8638-42c0-94fa-72c73e2e3406@efaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241129T083000Z
+LOCATION:Paw.F 416
+DTSTART:20241129T070000Z
+SUMMARY:Wprowadzenie do wizualizacji danych (konwersatorium do wyboru)
+UID:c7a40553-292c-4df6-8c1b-e33372ed015c@c7a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20241010T143000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241010T130000Z
+SUMMARY:Psychologia pracy (konwersatorium do wyboru)
+UID:e3b8ad5d-92e5-4e18-9a81-08a4bb188a9b@e3b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kwarcińska
+DTEND:20241204T083000Z
+LOCATION:Paw.U sala N
+DTSTART:20241204T070000Z
+SUMMARY:Wywiady jakościowe indywidualne i grupowe (konwersatorium)
+UID:b4be9f25-0ee0-4c7f-bf73-f01066e4e438@b4be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kwarcińska
+DTEND:20250120T111500Z
+LOCATION:Paw.G - 2
+DTSTART:20250120T103000Z
+SUMMARY:Wywiady jakościowe indywidualne i grupowe (konwersatorium)
+UID:b6e9130a-4105-4b22-ab3b-4ede7a56730c@b6e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241029T153000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241029T140000Z
+SUMMARY:Nowoczesność i jej kryzys w perspektywie filozoficznej (konwersatorium do wyboru)
+UID:a79e13b7-d539-4c80-8436-3cfa8a0e8a48@a79e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20250123T153000Z
+LOCATION:Paw.S sala 10
+DTSTART:20250123T140000Z
+SUMMARY:Psychologia pracy (konwersatorium do wyboru)
+UID:492059a0-a5c1-495d-ab92-8f2039cf416c@4920.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Daria Wójcik
+DTEND:20250107T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250107T103000Z
+SUMMARY:Analiza danych jakościowych (laboratorium)
+UID:24610f52-9fb7-4fc3-9971-b82beabe2eb8@2461.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241119T171500Z
+LOCATION:Paw.G - 2
+DTSTART:20241119T154500Z
+SUMMARY:Teoria gier w naukach społecznych (konwersatorium do wyboru)
+UID:9ab9a076-6e63-40d5-b143-478c7e75191e@9ab9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20241205T153000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241205T140000Z
+SUMMARY:Psychologia pracy (konwersatorium do wyboru)
+UID:a94e6e5b-c9a3-419f-8f72-137b1ee435fc@a94e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241211T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241211T103000Z
+SUMMARY:Analiza danych ilościowych (laboratorium)
+UID:759c5106-9914-4a2c-9b41-9728fb3a3a97@759c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241031T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241031T103000Z
+SUMMARY:Badania sondażowe (konwersatorium)
+UID:7996a582-0448-4dea-8f64-b8356bbe64b4@7996.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241213T083000Z
+LOCATION:Paw.F 416
+DTSTART:20241213T070000Z
+SUMMARY:Wprowadzenie do wizualizacji danych (konwersatorium do wyboru)
+UID:a92193bd-ae99-44a9-9df4-c84da4e61ea2@a921.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241112T171500Z
+LOCATION:Paw.G - 2
+DTSTART:20241112T154500Z
+SUMMARY:Teoria gier w naukach społecznych (konwersatorium do wyboru)
+UID:032b8453-fd7c-4cff-8b31-a47b4f0a048c@032b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dzwończyk
+DTEND:20250115T171500Z
+LOCATION:Paw.U sala N
+DTSTART:20250115T154500Z
+SUMMARY:Nauki o polityce (konwersatorium)
+UID:f76dd7c6-fd57-47f1-925c-18f325262824@f76d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Daria Wójcik
+DTEND:20241008T110000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241008T093000Z
+SUMMARY:Analiza danych jakościowych (laboratorium)
+UID:fb4684d8-56e3-42ab-ba34-d6b830a2e711@fb46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241024T110000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241024T093000Z
+SUMMARY:Badania sondażowe (konwersatorium)
+UID:ed815315-7636-4266-af52-0ff70e757409@ed81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Daria Wójcik
+DTEND:20241015T110000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241015T093000Z
+SUMMARY:Analiza danych jakościowych (laboratorium)
+UID:274340bc-27ca-471c-987a-bf841a6460e1@2743.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241105T153000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241105T140000Z
+SUMMARY:Nowoczesność i jej kryzys w perspektywie filozoficznej (konwersatorium do wyboru)
+UID:038a8ef1-cdac-4525-8377-7ff04939198b@038a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamila Pilch
+DTEND:20241210T083000Z
+LOCATION:Paw.G - 1
+DTSTART:20241210T070000Z
+SUMMARY:Projekt badawczy z wykorzystaniem metod mieszonych (konwersatorium)
+UID:9865b8db-b90c-43a1-b487-9ef7840ef5da@9865.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241107T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241107T103000Z
+SUMMARY:Badania sondażowe (konwersatorium)
+UID:15078d36-7c97-4ccb-8a3d-6424b5307f2c@1507.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241127T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241127T103000Z
+SUMMARY:Analiza danych ilościowych (laboratorium)
+UID:bc6fb0b4-36fa-462f-be75-3a084b66a873@bc6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20241031T153000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241031T140000Z
+SUMMARY:Psychologia pracy (konwersatorium do wyboru)
+UID:fd2189d0-97da-470e-b73f-06a16d41cc07@fd21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20241017T143000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241017T130000Z
+SUMMARY:Psychologia pracy (konwersatorium do wyboru)
+UID:f435d3d9-a72c-4a3e-b9f0-28c9bd1de693@f435.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20241219T153000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241219T140000Z
+SUMMARY:Psychologia pracy (konwersatorium do wyboru)
+UID:fc9d184c-ddf5-4dc4-869e-c2cd8180187d@fc9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20241114T134500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241114T121500Z
+SUMMARY:Antropologia (wykład)
+UID:763fd271-3d24-459b-badf-811ada6abcbc@763f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20241114T171500Z
+LOCATION:Paw.G - 2
+DTSTART:20241114T154500Z
+SUMMARY:Techniki twórczego myślenia (konwersatorium do wyboru)
+UID:ac389ec6-865d-49c4-b7d3-fcf99a4230af@ac38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dzwończyk
+DTEND:20241120T171500Z
+LOCATION:Paw.U sala N
+DTSTART:20241120T154500Z
+SUMMARY:Nauki o polityce (konwersatorium)
+UID:ff9b3044-bc47-4526-a279-8b6c6b781ec5@ff9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20250116T153000Z
+LOCATION:Paw.S sala 10
+DTSTART:20250116T140000Z
+SUMMARY:Psychologia pracy (konwersatorium do wyboru)
+UID:07243540-e264-4f1f-9b66-f4146a17e3c5@0724.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20241216T134500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241216T121500Z
+SUMMARY:Nauki o polityce (wykład)
+UID:4030a4e4-8d29-4ae6-88d3-5d7bcb2e5256@4030.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241112T153000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241112T140000Z
+SUMMARY:Nowoczesność i jej kryzys w perspektywie filozoficznej (konwersatorium do wyboru)
+UID:f1f83886-e248-4604-99d8-ba5a1d69c4c5@f1f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Daria Wójcik
+DTEND:20241210T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241210T103000Z
+SUMMARY:Analiza danych jakościowych (laboratorium)
+UID:ef5d9321-2ed9-47da-889d-5027f4d4e64e@ef5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241128T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241128T103000Z
+SUMMARY:Metodologia badań marketingowych (konwersatorium do wyboru)
+UID:884344aa-dced-45b0-be41-86e36a60efbd@8843.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20241212T171500Z
+LOCATION:Paw.G - 2
+DTSTART:20241212T154500Z
+SUMMARY:Techniki twórczego myślenia (konwersatorium do wyboru)
+UID:06b3b1a9-3ae2-45b9-b32b-af868eaf6e67@06b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241218T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241218T103000Z
+SUMMARY:Analiza danych ilościowych (laboratorium)
+UID:b173fcb6-41f1-407d-add2-5a1c97dd497d@b173.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Górka
+DTEND:20241021T110000Z
+LOCATION:Paw.U sala N
+DTSTART:20241021T093000Z
+SUMMARY:Antropologia (konwersatorium)
+UID:3c0693af-e1da-4bec-b1ab-27fb8a2e6b4d@3c06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20241118T134500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241118T121500Z
+SUMMARY:Nauki o polityce (wykład)
+UID:618aa84f-aaba-4291-83e0-e56ae2b911aa@618a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Daria Wójcik
+DTEND:20241112T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241112T103000Z
+SUMMARY:Analiza danych jakościowych (laboratorium)
+UID:30c3cfba-934b-4444-aca2-6c3f90060e77@30c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241210T153000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241210T140000Z
+SUMMARY:Nowoczesność i jej kryzys w perspektywie filozoficznej (konwersatorium do wyboru)
+UID:9f1f01db-8656-4f5a-916c-5a2e0dcde41b@9f1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20241031T134500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241031T121500Z
+SUMMARY:Antropologia (wykład)
+UID:eb5295b0-abc9-4185-ae08-ae0b23b91bcb@eb52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dzwończyk
+DTEND:20241106T171500Z
+LOCATION:Paw.U sala N
+DTSTART:20241106T154500Z
+SUMMARY:Nauki o polityce (konwersatorium)
+UID:68cecd4e-3140-4263-9802-37ea084a66af@68ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241003T110000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241003T093000Z
+SUMMARY:Badania sondażowe (konwersatorium)
+UID:684714bc-c281-4930-8275-b8c23c8f5ae0@6847.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20241003T143000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241003T130000Z
+SUMMARY:Psychologia pracy (konwersatorium do wyboru)
+UID:63e591c0-7cbe-4ce6-99a3-d5a5daceb615@63e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20241121T171500Z
+LOCATION:Paw.G - 2
+DTSTART:20241121T154500Z
+SUMMARY:Techniki twórczego myślenia (konwersatorium do wyboru)
+UID:0be01ef3-f812-4265-8a7f-210e95498b03@0be0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20250123T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250123T103000Z
+SUMMARY:Metodologia badań marketingowych (konwersatorium do wyboru)
+UID:e45de5bc-af50-4960-ba4f-d78dc0ce0000@e45d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241023T110000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241023T093000Z
+SUMMARY:Analiza danych ilościowych (laboratorium)
+UID:4ef2fa2e-aa2e-41d6-9716-384756ac80f8@4ef2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241217T171500Z
+LOCATION:Paw.G - 2
+DTSTART:20241217T154500Z
+SUMMARY:Teoria gier w naukach społecznych (konwersatorium do wyboru)
+UID:c7a071b8-d1a5-45ae-a895-29aff590b445@c7a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Górka
+DTEND:20250122T074500Z
+LOCATION:Paw.F 516
+DTSTART:20250122T070000Z
+SUMMARY:Antropologia (konwersatorium)
+UID:975ef65c-f4f8-4c3a-a5ce-ca0b7643e245@975e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241121T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241121T103000Z
+SUMMARY:Badania sondażowe (konwersatorium)
+UID:d56be85a-3394-419a-b985-e689ad0e2802@d56b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Daria Wójcik
+DTEND:20241029T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241029T103000Z
+SUMMARY:Analiza danych jakościowych (laboratorium)
+UID:ea788dca-9a6e-4f35-8ff8-da8b074b2056@ea78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241105T171500Z
+LOCATION:Paw.G - 2
+DTSTART:20241105T154500Z
+SUMMARY:Teoria gier w naukach społecznych (konwersatorium do wyboru)
+UID:83aae650-67d9-4398-bcec-b359d4ec67c9@83aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241119T153000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241119T140000Z
+SUMMARY:Nowoczesność i jej kryzys w perspektywie filozoficznej (konwersatorium do wyboru)
+UID:373ff1ae-955f-49d0-aaf4-11bea6e2437d@373f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241001T143000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241001T130000Z
+SUMMARY:Nowoczesność i jej kryzys w perspektywie filozoficznej (konwersatorium do wyboru)
+UID:a7d2f75d-ec03-43b3-b6c6-2a47b140d2d6@a7d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20241107T171500Z
+LOCATION:Paw.G - 2
+DTSTART:20241107T154500Z
+SUMMARY:Techniki twórczego myślenia (konwersatorium do wyboru)
+UID:f8106fd3-572c-47ca-b4c7-5abcee88157d@f810.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20250116T171500Z
+LOCATION:Paw.G - 2
+DTSTART:20250116T154500Z
+SUMMARY:Techniki twórczego myślenia (konwersatorium do wyboru)
+UID:4cf456b8-0b72-4f84-8cbf-035aac643b82@4cf4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20250120T163000Z
+LOCATION:Paw.F 516
+DTSTART:20250120T154500Z
+SUMMARY:Wprowadzenie do wizualizacji danych (konwersatorium do wyboru)
+UID:db68e32b-5646-4228-bc99-00d6202f24b7@db68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dzwończyk
+DTEND:20250124T120000Z
+LOCATION:Paw.S sala 10
+DTSTART:20250124T103000Z
+SUMMARY:Nauki o polityce (konwersatorium)
+UID:1cef3e94-9070-4713-82eb-b9a45d69e63e@1cef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kwarcińska
+DTEND:20241023T073000Z
+LOCATION:Paw.U sala N
+DTSTART:20241023T060000Z
+SUMMARY:Wywiady jakościowe indywidualne i grupowe (konwersatorium)
+UID:940a890d-32a9-4354-a1d9-75bbf605c889@940a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20250109T134500Z
+LOCATION:Paw.S sala 2
+DTSTART:20250109T121500Z
+SUMMARY:Antropologia (wykład)
+UID:a6db8ff5-6939-467b-a5cb-3645a1b2b1e6@a6db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20241003T124500Z
+LOCATION:Paw.S sala 2
+DTSTART:20241003T111500Z
+SUMMARY:Antropologia (wykład)
+UID:10ba47d0-d3d4-4c25-894d-b08a27945ea3@10ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241219T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241219T103000Z
+SUMMARY:Metodologia badań marketingowych (konwersatorium do wyboru)
+UID:d199e65b-1c86-4632-960c-605e34f8287d@d199.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20241205T171500Z
+LOCATION:Paw.G - 2
+DTSTART:20241205T154500Z
+SUMMARY:Techniki twórczego myślenia (konwersatorium do wyboru)
+UID:a4ae0d58-ee7b-46b2-be20-8fed799467de@a4ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20250123T171500Z
+LOCATION:Paw.G - 2
+DTSTART:20250123T154500Z
+SUMMARY:Techniki twórczego myślenia (konwersatorium do wyboru)
+UID:e80a1893-00ac-4c16-8548-6c7d8a1bde1b@e80a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241017T110000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241017T093000Z
+SUMMARY:Badania sondażowe (konwersatorium)
+UID:bc871d0f-60fe-496c-894d-3d6e7cc443ba@bc87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20241021T124500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241021T111500Z
+SUMMARY:Nauki o polityce (wykład)
+UID:238806a8-71c2-459a-89fc-aca691974a37@2388.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Daria Wójcik
+DTEND:20250123T083000Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250123T070000Z
+SUMMARY:Analiza danych jakościowych (laboratorium)
+UID:a12bb862-e374-4df6-bc9a-4323040aa071@a12b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241009T110000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241009T093000Z
+SUMMARY:Analiza danych ilościowych (laboratorium)
+UID:736060a7-63bb-4f74-b4f3-4b0c95fadd69@7360.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241205T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241205T103000Z
+SUMMARY:Metodologia badań marketingowych (konwersatorium do wyboru)
+UID:fbb0bb29-7acf-46d1-bc57-2b83e59db7c4@fbb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20250115T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250115T103000Z
+SUMMARY:Analiza danych ilościowych (laboratorium)
+UID:b633afa6-2dbe-4c1a-9652-735143c9274b@b633.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20250124T083000Z
+LOCATION:Paw.F 416
+DTSTART:20250124T070000Z
+SUMMARY:Wprowadzenie do wizualizacji danych (konwersatorium do wyboru)
+UID:d87a6f2e-5399-40e7-90d5-207bdbf0e21a@d87a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Maciej Kałuża
+DTEND:20241115T083000Z
+LOCATION:Paw.F 416
+DTSTART:20241115T070000Z
+SUMMARY:Wprowadzenie do wizualizacji danych (konwersatorium do wyboru)
+UID:41bca469-5d5b-41e3-a845-7d363288bb67@41bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241210T171500Z
+LOCATION:Paw.G - 2
+DTSTART:20241210T154500Z
+SUMMARY:Teoria gier w naukach społecznych (konwersatorium do wyboru)
+UID:5683d68b-aa7b-4f52-b71b-024587e5ecaf@5683.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Górka
+DTEND:20250113T120000Z
+LOCATION:Paw.U sala N
+DTSTART:20250113T103000Z
+SUMMARY:Antropologia (konwersatorium)
+UID:7c03808d-47d8-4e19-862f-60c587c4d0a1@7c03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Pająk
+DTEND:20241219T171500Z
+LOCATION:Paw.G - 2
+DTSTART:20241219T154500Z
+SUMMARY:Techniki twórczego myślenia (konwersatorium do wyboru)
+UID:dc35e09b-9a52-4b1e-b34d-400b16c34969@dc35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dzwończyk
+DTEND:20241009T153000Z
+LOCATION:Paw.U sala N
+DTSTART:20241009T144500Z
+SUMMARY:Nauki o polityce (konwersatorium)
+UID:3ce44d6f-56c9-47a8-8bb9-5956972b8a01@3ce4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241015T161500Z
+LOCATION:Paw.G - 2
+DTSTART:20241015T144500Z
+SUMMARY:Teoria gier w naukach społecznych (konwersatorium do wyboru)
+UID:6d34bf9f-029a-42a6-8eb0-9bc00d27d1c1@6d34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamila Pilch
+DTEND:20250120T120000Z
+LOCATION:Paw.F 109
+DTSTART:20250120T111500Z
+SUMMARY:Projekt badawczy z wykorzystaniem metod mieszonych (konwersatorium)
+UID:8c9b36ff-93e7-42f3-889f-ae1eb688ffe9@8c9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241114T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241114T103000Z
+SUMMARY:Badania sondażowe (konwersatorium)
+UID:7b5443e4-0e3c-451c-80e9-36760a4543e6@7b54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Wojciech Kubica
+DTEND:20241212T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241212T103000Z
+SUMMARY:Metodologia badań marketingowych (konwersatorium do wyboru)
+UID:3d37f3e1-9dde-4fd6-ae71-a20dd9e3d894@3d37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Górka
+DTEND:20241202T120000Z
+LOCATION:Paw.U sala N
+DTSTART:20241202T103000Z
+SUMMARY:Antropologia (konwersatorium)
+UID:5cd4ef2c-4e4f-4999-8207-3fe64f68f642@5cd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kwarcińska
+DTEND:20241218T083000Z
+LOCATION:Paw.U sala N
+DTSTART:20241218T070000Z
+SUMMARY:Wywiady jakościowe indywidualne i grupowe (konwersatorium)
+UID:01793277-5b4d-480f-8ce9-22af79552c89@0179.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Daria Wójcik
+DTEND:20241203T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241203T103000Z
+SUMMARY:Analiza danych jakościowych (laboratorium)
+UID:3a503f32-a3aa-4bcb-961d-ba7306b479aa@3a50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241126T153000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241126T140000Z
+SUMMARY:Nowoczesność i jej kryzys w perspektywie filozoficznej (konwersatorium do wyboru)
+UID:eabf832b-aaad-4b3a-b70c-cad51b4436a3@eabf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Rafał Lisiakiewicz
+DTEND:20241007T124500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241007T111500Z
+SUMMARY:Nauki o polityce (wykład)
+UID:c42d443a-ca27-4525-af1c-0db926bd4f4a@c42d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:a245d32b-dc3b-4b90-8a37-2a94013cf5ca@a245.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Kwarcińska
+DTEND:20241106T083000Z
+LOCATION:Paw.U sala N
+DTSTART:20241106T070000Z
+SUMMARY:Wywiady jakościowe indywidualne i grupowe (konwersatorium)
+UID:1abb3b1b-cf14-4c50-b3d5-4c0e6554e4b2@1abb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kamila Pilch
+DTEND:20250121T083000Z
+LOCATION:Paw.G - 1
+DTSTART:20250121T070000Z
+SUMMARY:Projekt badawczy z wykorzystaniem metod mieszonych (konwersatorium)
+UID:ade28dc7-8614-44e8-9ef3-f41298821aee@ade2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Katarzyna Warmińska-Zygmunt
+DTEND:20250123T130000Z
+LOCATION:Paw.S sala 2
+DTSTART:20250123T121500Z
+SUMMARY:Antropologia (wykład)
+UID:09b1708a-630f-4081-896d-b4fc5f944262@09b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Magdalena Jelonek
+DTEND:20241113T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241113T103000Z
+SUMMARY:Analiza danych ilościowych (laboratorium)
+UID:94dd5fe7-a4b8-4a59-a809-9fb37587528c@94dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241126T171500Z
+LOCATION:Paw.G - 2
+DTSTART:20241126T154500Z
+SUMMARY:Teoria gier w naukach społecznych (konwersatorium do wyboru)
+UID:806b62aa-ed45-4430-9387-b6b08172f54f@806b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Daria Wójcik
+DTEND:20241217T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241217T103000Z
+SUMMARY:Analiza danych jakościowych (laboratorium)
+UID:5e9c5d20-2799-497d-93ed-bb57250a71a4@5e9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241029T171500Z
+LOCATION:Paw.G - 2
+DTSTART:20241029T154500Z
+SUMMARY:Teoria gier w naukach społecznych (konwersatorium do wyboru)
+UID:4417bb99-098f-47f5-848a-e6bfe32dce46@4417.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Augustyniak
+DTEND:20241220T083000Z
+LOCATION:Paw.G 11
+DTSTART:20241220T070000Z
+SUMMARY:Nowoczesność i jej kryzys w perspektywie filozoficznej (konwersatorium do wyboru)
+UID:12982db4-f03b-4f8c-abe0-6ec8e09bd0c9@1298.org
+END:VEVENT
+END:VCALENDAR

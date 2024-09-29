@@ -1,0 +1,428 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Barburski
+DTEND:20250118T143000Z
+LOCATION:Paw.U sala M
+DTSTART:20250118T121500Z
+SUMMARY:Rachunkowość zarządcza (Co) (ćwiczenia)
+UID:03c8fe27-7bd4-4c23-a94d-098962c0dbb3@03c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zofia Gródek-Szostak
+DTEND:20250118T114500Z
+LOCATION:Paw.B 451
+DTSTART:20250118T093000Z
+SUMMARY:Controlling strategiczny (ćwiczenia)
+UID:a9728798-2898-46c8-a50f-80261bf6519a@a972.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20241206T194500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241206T173000Z
+SUMMARY:Zarządzanie kapitałami przedsiębiorstwa (ćwiczenia)
+UID:5df89119-b0a7-41fb-aefd-ab6d9a75ac18@5df8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241005T141500Z
+LOCATION:link do zajęć
+DTSTART:20241005T120000Z
+SUMMARY:Oszustwa księgowe a rachunkowość kreatywna (wykład do wyboru)
+UID:4172a329-85b8-4007-90aa-9423a24367f0@4172.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241020T170000Z
+LOCATION:link do zajęć
+DTSTART:20241020T144500Z
+SUMMARY:Oszustwa księgowe a rachunkowość kreatywna (wykład do wyboru)
+UID:10d0a090-818d-4a9f-b31e-4c91b11b538b@10d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Szymla
+DTEND:20241207T143000Z
+LOCATION:Paw.C sala F
+DTSTART:20241207T121500Z
+SUMMARY:Controlling produkcji (ćwiczenia)
+UID:5bd02052-7af7-48ca-9e8a-e55f4837ba6e@5bd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Sonia Żemła
+DTEND:20250119T124500Z
+LOCATION:Paw.C sala A
+DTSTART:20250119T103000Z
+SUMMARY:Zarządzanie projektami ekonomicznymi i organizacyjnymi (ćwiczenia)
+UID:6dbbf69e-7806-4ff3-b994-6f01d137dc41@6dbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20241207T114500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241207T093000Z
+SUMMARY:Zarządzanie kapitałami przedsiębiorstwa (ćwiczenia)
+UID:2ab0b37f-b286-4ef0-9d5d-0b6e2e6b7537@2ab0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20250118T091500Z
+LOCATION:Paw.B 351
+DTSTART:20250118T070000Z
+SUMMARY:Zarządzanie kapitałami przedsiębiorstwa (ćwiczenia)
+UID:4d558b21-98be-4bff-90e7-a6229e9a0006@4d55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241130T151500Z
+LOCATION:link do zajęć
+DTSTART:20241130T130000Z
+SUMMARY:Oszustwa księgowe a rachunkowość kreatywna (wykład do wyboru)
+UID:05a97399-e4b3-4956-b35d-4c8fab6df3cf@05a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Szymla
+DTEND:20250117T194500Z
+LOCATION:Bibl. 440
+DTSTART:20250117T173000Z
+SUMMARY:Controlling produkcji (ćwiczenia)
+UID:ccc03287-eb60-48e9-a2db-db0c81c3cf59@ccc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zofia Gródek-Szostak
+DTEND:20241006T090000Z
+LOCATION:Bibl. 440
+DTSTART:20241006T060000Z
+SUMMARY:Controlling strategiczny (ćwiczenia)
+UID:227dd0bb-29a7-4d9b-8273-4ccaa9cbbf68@227d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Barburski
+DTEND:20241130T091500Z
+LOCATION:link do zajęć
+DTSTART:20241130T070000Z
+SUMMARY:Rachunkowość zarządcza (Co) (wykład)
+UID:4cbf3e2a-10cf-4092-9cc1-78f14a9450aa@4cbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zofia Gródek-Szostak
+DTEND:20241206T170000Z
+LOCATION:Paw.E sala J
+DTSTART:20241206T144500Z
+SUMMARY:Controlling strategiczny (ćwiczenia)
+UID:ca82be1b-a766-44dc-b6ec-dcd0615e0158@ca82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Cabała
+DTEND:20241012T104500Z
+LOCATION:link do zajęć
+DTSTART:20241012T083000Z
+SUMMARY:Zarządzanie projektami ekonomicznymi i organizacyjnymi (wykład)
+UID:af4af1d6-a7f1-44ca-99ab-16a36d73dc6a@af4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20241019T104500Z
+LOCATION:link do zajęć
+DTSTART:20241019T083000Z
+SUMMARY:Controlling strategiczny (wykład)
+UID:1ce478b1-1fce-4fc2-ab3e-2e6eae88287f@1ce4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Szymla
+DTEND:20241006T114500Z
+LOCATION:Paw.B 151
+DTSTART:20241006T093000Z
+SUMMARY:Controlling produkcji (ćwiczenia)
+UID:4ae38e12-b0c4-4e4a-a496-92e5d3772ce2@4ae3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Barburski
+DTEND:20250119T100000Z
+LOCATION:Paw.U sala M
+DTSTART:20250119T070000Z
+SUMMARY:Rachunkowość zarządcza (Co) (ćwiczenia)
+UID:6be1f3a0-463e-4e09-af5f-3b8905a91e6c@6be1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Barburski
+DTEND:20241004T160000Z
+LOCATION:link do zajęć
+DTSTART:20241004T134500Z
+SUMMARY:Rachunkowość zarządcza (Co) (wykład)
+UID:1dc9e39d-bfd4-48d6-9114-3d16f4923fc3@1dc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20241130T114500Z
+LOCATION:link do zajęć
+DTSTART:20241130T093000Z
+SUMMARY:Zarządzanie kapitałami przedsiębiorstwa (wykład)
+UID:258bcbe8-702d-49d4-b561-b5adfd1ad2c1@258b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Konrad Kolegowicz
+DTEND:20241201T091500Z
+LOCATION:link do zajęć
+DTSTART:20241201T070000Z
+SUMMARY:Controlling produkcji (wykład)
+UID:9580650e-18e6-4000-867a-d67106a686ae@9580.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Barburski
+DTEND:20241201T114500Z
+LOCATION:link do zajęć
+DTSTART:20241201T093000Z
+SUMMARY:Rachunkowość zarządcza (Co) (wykład)
+UID:4de56cd6-6748-4f79-b305-1ce0fe7883fc@4de5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Cabała
+DTEND:20241004T184500Z
+LOCATION:link do zajęć
+DTSTART:20241004T163000Z
+SUMMARY:Zarządzanie projektami ekonomicznymi i organizacyjnymi (wykład)
+UID:422e25a7-a7e5-4422-86d3-4ae00c48b543@422e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zofia Gródek-Szostak
+DTEND:20241213T194500Z
+LOCATION:Paw.B 451
+DTSTART:20241213T173000Z
+SUMMARY:Controlling strategiczny (ćwiczenia)
+UID:dfe99520-e4f9-45f0-a1db-6033840a929b@dfe9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20241116T114500Z
+LOCATION:link do zajęć
+DTSTART:20241116T093000Z
+SUMMARY:Zarządzanie kapitałami przedsiębiorstwa (wykład)
+UID:8dd137e5-3b79-43b3-856b-12d2d1b6b7fa@8dd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20241019T081500Z
+LOCATION:link do zajęć
+DTSTART:20241019T060000Z
+SUMMARY:Zarządzanie kapitałami przedsiębiorstwa (wykład)
+UID:0d095e88-feb3-4684-9e23-1ebccd0cbf0e@0d09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Cabała
+DTEND:20241020T090000Z
+LOCATION:link do zajęć
+DTSTART:20241020T064500Z
+SUMMARY:Zarządzanie projektami ekonomicznymi i organizacyjnymi (wykład)
+UID:306516ff-15c5-42af-857f-188c76625b9a@3065.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Szymla
+DTEND:20250119T151500Z
+LOCATION:Bibl. 440
+DTSTART:20250119T130000Z
+SUMMARY:Controlling produkcji (ćwiczenia)
+UID:fa8e648c-c3cc-4f11-aa0b-e37b5c91ca22@fa8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241201T151500Z
+LOCATION:link do zajęć
+DTSTART:20241201T130000Z
+SUMMARY:Oszustwa księgowe a rachunkowość kreatywna (wykład do wyboru)
+UID:8a907909-e7d8-4572-92f9-4aa4d27514a0@8a90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241011T184500Z
+LOCATION:link do zajęć
+DTSTART:20241011T163000Z
+SUMMARY:Oszustwa księgowe a rachunkowość kreatywna (wykład do wyboru)
+UID:9767d33b-5cb8-4292-a3b5-e3729afa0368@9767.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Barburski
+DTEND:20241116T143000Z
+LOCATION:link do zajęć
+DTSTART:20241116T121500Z
+SUMMARY:Rachunkowość zarządcza (Co) (wykład)
+UID:6c2cd18c-2584-4a3a-9ca2-d7d12ff30c67@6c2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Szymla
+DTEND:20241208T104500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241208T070000Z
+SUMMARY:Controlling produkcji (ćwiczenia)
+UID:83e7a5f7-f8ab-4ec0-978a-fdd3bb4f4729@83e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zofia Gródek-Szostak
+DTEND:20241117T100000Z
+LOCATION:Bibl. 440
+DTSTART:20241117T070000Z
+SUMMARY:Controlling strategiczny (ćwiczenia)
+UID:c2fb4b90-22d5-4e91-a186-ed0d2b7f6942@c2fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Szymla
+DTEND:20241214T100000Z
+LOCATION:Paw.C sala F
+DTSTART:20241214T070000Z
+SUMMARY:Controlling produkcji (ćwiczenia)
+UID:0b2aef59-85d9-4691-a763-edaea01a905d@0b2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Szymla
+DTEND:20241117T160000Z
+LOCATION:Paw.B 351
+DTSTART:20241117T130000Z
+SUMMARY:Controlling produkcji (ćwiczenia)
+UID:c330b760-032c-4024-b588-0d7ed3178119@c330.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20250117T170000Z
+LOCATION:Paw.B 351
+DTSTART:20250117T144500Z
+SUMMARY:Zarządzanie kapitałami przedsiębiorstwa (ćwiczenia)
+UID:da8b60f8-4a2b-406c-95ae-f6d31248f159@da8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zofia Gródek-Szostak
+DTEND:20241207T091500Z
+LOCATION:Paw.B 251
+DTSTART:20241207T070000Z
+SUMMARY:Controlling strategiczny (ćwiczenia)
+UID:a5aeb89e-643b-4dd4-a2cc-eab7b99deb2c@a5ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zofia Gródek-Szostak
+DTEND:20241214T133000Z
+LOCATION:Paw.C sala D
+DTSTART:20241214T103000Z
+SUMMARY:Controlling strategiczny (ćwiczenia)
+UID:6ad5d228-0931-4198-a91e-99b9a460e0f9@6ad5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Kaczmarek
+DTEND:20241005T104500Z
+LOCATION:link do zajęć
+DTSTART:20241005T083000Z
+SUMMARY:Controlling strategiczny (wykład)
+UID:3edc9200-9367-487e-9824-891ab91e8ff6@3edc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Zofia Gródek-Szostak
+DTEND:20241129T170000Z
+LOCATION:Paw.E sala J
+DTSTART:20241129T144500Z
+SUMMARY:Controlling strategiczny (ćwiczenia)
+UID:acc8c901-be31-4a0a-95c3-b463a8254619@acc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Barburski
+DTEND:20241213T170000Z
+LOCATION:Paw.U sala M
+DTSTART:20241213T144500Z
+SUMMARY:Rachunkowość zarządcza (Co) (ćwiczenia)
+UID:d0c8f90f-7984-4630-ad2b-8aad94558016@d0c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Barburski
+DTEND:20241018T184500Z
+LOCATION:link do zajęć
+DTSTART:20241018T163000Z
+SUMMARY:Rachunkowość zarządcza (Co) (wykład)
+UID:815ffa1e-4544-4a02-ae7a-e8c86fb93c55@815f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Andrzej Jaki
+DTEND:20241129T194500Z
+LOCATION:Paw.B 351
+DTSTART:20241129T173000Z
+SUMMARY:Zarządzanie kapitałami przedsiębiorstwa (ćwiczenia)
+UID:ecd50ae5-3f6b-4f60-82b9-9561acb953b5@ecd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Barburski
+DTEND:20241006T150000Z
+LOCATION:Paw.U sala O
+DTSTART:20241006T120000Z
+SUMMARY:Rachunkowość zarządcza (Co) (ćwiczenia)
+UID:ecd53ad5-7415-4645-938d-f6352a2809a5@ecd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241019T141500Z
+LOCATION:link do zajęć
+DTSTART:20241019T120000Z
+SUMMARY:Oszustwa księgowe a rachunkowość kreatywna (wykład do wyboru)
+UID:9da49950-e0eb-4c1e-aa18-b9efa8a564ab@9da4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Sonia Żemła
+DTEND:20241215T091500Z
+LOCATION:Paw.C sala A
+DTSTART:20241215T070000Z
+SUMMARY:Zarządzanie projektami ekonomicznymi i organizacyjnymi (ćwiczenia)
+UID:bbf78b04-be68-4a88-b9e0-61cb7cdde4e3@bbf7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Konrad Kolegowicz
+DTEND:20241116T091500Z
+LOCATION:link do zajęć
+DTSTART:20241116T070000Z
+SUMMARY:Controlling produkcji (wykład)
+UID:1ebb4a69-a23f-4aeb-a6bb-fce34b9acd33@1ebb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Konrad Kolegowicz
+DTEND:20241005T081500Z
+LOCATION:link do zajęć
+DTSTART:20241005T060000Z
+SUMMARY:Controlling produkcji (wykład)
+UID:25171d7b-32b0-4633-a1d7-ac287e873be1@2517.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Konrad Kolegowicz
+DTEND:20241011T160000Z
+LOCATION:link do zajęć
+DTSTART:20241011T134500Z
+SUMMARY:Controlling produkcji (wykład)
+UID:9ae854f2-8421-4247-bb42-d68d6ddfe476@9ae8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Sonia Żemła
+DTEND:20241117T124500Z
+LOCATION:Paw.E sala J
+DTSTART:20241117T103000Z
+SUMMARY:Zarządzanie projektami ekonomicznymi i organizacyjnymi (ćwiczenia)
+UID:fab53812-8293-4dc6-b5f1-8d78dac0ac03@fab5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wojciech Szymla
+DTEND:20241215T131500Z
+LOCATION:Paw.C sala F
+DTSTART:20241215T093000Z
+SUMMARY:Controlling produkcji (ćwiczenia)
+UID:7e63d71e-37d5-45dd-adcf-4a9b09d4ffad@7e63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Barburski
+DTEND:20241115T170000Z
+LOCATION:link do zajęć
+DTSTART:20241115T144500Z
+SUMMARY:Rachunkowość zarządcza (Co) (wykład)
+UID:dcdb94c7-43a0-47ef-9f5b-cc1075bea24c@dcdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jacek Barburski
+DTEND:20241214T170000Z
+LOCATION:Paw.U sala M
+DTSTART:20241214T140000Z
+SUMMARY:Rachunkowość zarządcza (Co) (ćwiczenia)
+UID:cada8931-43f4-414b-b6e9-593841d34387@cada.org
+END:VEVENT
+END:VCALENDAR

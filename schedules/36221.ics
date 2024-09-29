@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
+DTEND:20241115T184500Z
+LOCATION:Paw.G  8
+DTSTART:20241115T154500Z
+SUMMARY:Systemy motywowania pracowników (Studia podyplomowe)
+UID:7371215d-7fcc-41fe-905d-c1b2d367dcb3@7371.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Urban Pauli
+DTEND:20241116T121500Z
+LOCATION:Paw.G  8
+DTSTART:20241116T074500Z
+SUMMARY:Systemy motywowania pracowników (Studia podyplomowe)
+UID:b1232bf5-9862-46a9-8d2c-f1e6823b55b2@b123.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Katarzyna Zemowska
+DTEND:20241214T151500Z
+LOCATION:Paw.G  8
+DTSTART:20241214T074500Z
+SUMMARY:Happiness at work (Studia podyplomowe)
+UID:0b1c5e8b-1228-4e05-9ba2-bb9ee6616c51@0b1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Sedlak
+DTEND:20250118T151500Z
+LOCATION:Paw.G  8
+DTSTART:20250118T074500Z
+SUMMARY:Zarządzanie zmianą (Studia podyplomowe)
+UID:582c985c-4ae5-401c-84e8-606aa1348d33@582c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20250201T083000Z
+LOCATION:Paw.G  8
+DTSTART:20250201T074500Z
+SUMMARY:Egzamin semestralny (Studia podyplomowe)
+UID:810088ff-c026-41fd-b648-8f58a496103d@8100.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Renata Janusz
+DTEND:20250201T123000Z
+LOCATION:Paw.G  8
+DTSTART:20250201T084500Z
+SUMMARY:Coaching i mentoring w rozwoju pracowników (Studia podyplomowe)
+UID:934ce3bb-ac2c-4327-982c-2f6d5ae29b62@934c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariusz Makowski
+DTEND:20241213T193000Z
+LOCATION:Paw.G  8
+DTSTART:20241213T154500Z
+SUMMARY:Psychologia pracy (Studia podyplomowe)
+UID:c05da97b-f019-42d7-8b34-bbe392ecc64f@c05d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agnieszka Flis
+DTEND:20241012T111500Z
+LOCATION:Paw.G  8
+DTSTART:20241012T064500Z
+SUMMARY:Zatrudnianie pracowników oparte na kompetencjach (Studia podyplomowe)
+UID:cecb4ac0-cbba-4470-b286-e34ec5626178@cecb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Anna Kaczmarczyk-Pocica mgr Jerzy Pocica
+DTEND:20241025T183000Z
+LOCATION:Paw.G  8
+DTSTART:20241025T144500Z
+SUMMARY:Business Communication (Studia podyplomowe)
+UID:ccca545e-684a-4781-bd70-63c427d73620@ccca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20250205T193000Z
+DTSTART:20250205T154500Z
+SUMMARY:Egzamin końcowy (Studia podyplomowe)
+UID:9b8c7e41-8cde-485f-be82-87ac6c52460f@9b8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Renata Janusz
+DTEND:20250131T193000Z
+LOCATION:Paw.G  8
+DTSTART:20250131T154500Z
+SUMMARY:Coaching i mentoring w rozwoju pracowników (Studia podyplomowe)
+UID:b0658dc0-671a-4f65-8a83-cb87b061365c@b065.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agnieszka Kotucz
+DTEND:20241130T113000Z
+LOCATION:Paw.G  8
+DTSTART:20241130T074500Z
+SUMMARY:Budowanie autorytetu w wystąpieniach publicznych (Studia podyplomowe)
+UID:7e8087ce-b9b0-4a08-9200-14246e6001b7@7e80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agnieszka Flis
+DTEND:20241011T181500Z
+LOCATION:Paw.G  8
+DTSTART:20241011T134500Z
+SUMMARY:Diagnoza różnic indywidualnych - metoda Insights (Studia podyplomowe)
+UID:59253e79-1bdb-4e23-8aea-967742296168@5925.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Piotr Sedlak
+DTEND:20250117T193000Z
+LOCATION:Paw.G  8
+DTSTART:20250117T154500Z
+SUMMARY:Skuteczne przywództwo w organizacji (Studia podyplomowe)
+UID:ce903711-746b-4ca7-a032-60a64abfef74@ce90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Agnieszka Kotucz
+DTEND:20241129T193000Z
+LOCATION:Paw.G  8
+DTSTART:20241129T154500Z
+SUMMARY:Budowanie autorytetu w wystąpieniach publicznych (Studia podyplomowe)
+UID:f949ac74-097d-422e-9574-f44f53fcecb7@f949.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: Prof. UJ dr hab. Jarosław Flis
+DTEND:20241117T121500Z
+LOCATION:Paw.G  8
+DTSTART:20241117T074500Z
+SUMMARY:Public Relations w sytuacjach kryzysowych (Studia podyplomowe)
+UID:a702253d-086e-467e-ae38-f3cc6dc231f1@a702.org
+END:VEVENT
+END:VCALENDAR

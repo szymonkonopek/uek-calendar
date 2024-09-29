@@ -1,0 +1,364 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Bartusik
+DTEND:20241027T143000Z
+LOCATION:link do zajęć
+DTSTART:20241027T121500Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:53fe36a6-1911-4233-b5f1-0020811bffd3@53fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241117T143000Z
+LOCATION:link do zajęć
+DTSTART:20241117T121500Z
+SUMMARY:Etykieta menedżera (wykład do wyboru)
+UID:a46293a7-d811-4db7-b4f7-00a2df772da6@a462.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241130T143000Z
+LOCATION:link do zajęć
+DTSTART:20241130T121500Z
+SUMMARY:Etykieta menedżera (wykład do wyboru)
+UID:41aafb46-40ba-442d-9597-cdb099b5a383@41aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Bartusik
+DTEND:20241116T091500Z
+LOCATION:link do zajęć
+DTSTART:20241116T070000Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:4b8adbef-0894-4ea7-8d67-f45d39a59563@4b8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
+DTEND:20241116T143000Z
+LOCATION:link do zajęć
+DTSTART:20241116T121500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:9d5fb423-9384-4b36-bcd2-e6f24bdb1e81@9d5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Czesław Mesjasz
+DTEND:20241123T091500Z
+LOCATION:link do zajęć
+DTSTART:20241123T070000Z
+SUMMARY:Negocjacje projektowe (wykład)
+UID:8780a5fe-99f0-4f82-912c-1b1448d86e1f@8780.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Czesław Mesjasz
+DTEND:20241201T143000Z
+LOCATION:link do zajęć
+DTSTART:20241201T121500Z
+SUMMARY:Negocjacje projektowe (wykład)
+UID:09168110-9561-459d-85f9-415b542f8d53@0916.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Olejnik
+DTEND:20250111T143000Z
+LOCATION:Paw.F 515
+DTSTART:20250111T121500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:ecc7b123-480b-47bf-af1c-6feb43f76544@ecc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20241027T114500Z
+LOCATION:link do zajęć
+DTSTART:20241027T093000Z
+SUMMARY:Zarządzanie projektem finansowanym społecznościowo (wykład do wyboru)
+UID:0e678d11-65ff-4160-8b6f-9c4ac7379a7e@0e67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241124T143000Z
+LOCATION:link do zajęć
+DTSTART:20241124T121500Z
+SUMMARY:Oszustwa księgowe a rachunkowość kreatywna (wykład do wyboru)
+UID:d0a794f9-43a4-4be1-80a6-21a1cec833eb@d0a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20241116T114500Z
+LOCATION:link do zajęć
+DTSTART:20241116T093000Z
+SUMMARY:Zarządzanie projektem finansowanym społecznościowo (wykład do wyboru)
+UID:e75de411-43a9-4f8e-8192-3c9f77b551b9@e75d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241207T114500Z
+LOCATION:link do zajęć
+DTSTART:20241207T093000Z
+SUMMARY:Oszustwa księgowe a rachunkowość kreatywna (wykład do wyboru)
+UID:d37b457d-eab9-445c-a322-6b0136d8953c@d37b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Bartusik
+DTEND:20241013T104500Z
+LOCATION:link do zajęć
+DTSTART:20241013T083000Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:86782a0f-9668-4931-8c6c-7edcd2d29a3d@8678.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Olejnik
+DTEND:20241214T114500Z
+LOCATION:Bud.gł. 5
+DTSTART:20241214T093000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:4dc22239-e5dd-4f01-82e8-94111fea139b@4dc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Szymańska
+DTEND:20250111T170000Z
+LOCATION:Bud.gł. 5
+DTSTART:20250111T144500Z
+SUMMARY:Instytucje rynkowe (ćwiczenia)
+UID:18c12045-a60c-4c61-8ab2-4c47cc18f1a0@18c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
+DTEND:20241027T091500Z
+LOCATION:link do zajęć
+DTSTART:20241027T070000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:d5336180-3afd-43c7-9965-7cf8c1423155@d533.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Bartusik
+DTEND:20241215T114500Z
+LOCATION:link do zajęć
+DTSTART:20241215T093000Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:1024d4ee-6928-445f-bde1-3b2cfb2485eb@1024.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Czesław Mesjasz
+DTEND:20241221T143000Z
+LOCATION:link do zajęć
+DTSTART:20241221T121500Z
+SUMMARY:Negocjacje projektowe (wykład)
+UID:de1681e2-fd8b-40c4-a464-4f94818186b3@de16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241117T091500Z
+LOCATION:link do zajęć
+DTSTART:20241117T070000Z
+SUMMARY:Cyberbezpieczeństwo w zarządzaniu projektami (wykład do wyboru)
+UID:8a02b3eb-3d5d-4e27-80e7-b832f731cafb@8a02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241026T081500Z
+LOCATION:link do zajęć
+DTSTART:20241026T060000Z
+SUMMARY:Cyberbezpieczeństwo w zarządzaniu projektami (wykład do wyboru)
+UID:6a43d4b1-b0f2-4826-81af-09d0128f6e5f@6a43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241026T133000Z
+LOCATION:link do zajęć
+DTSTART:20241026T111500Z
+SUMMARY:Etykieta menedżera (wykład do wyboru)
+UID:88dfeea3-fca2-43e5-bdf2-e8e6b21e1446@88df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Plichta
+DTEND:20241123T114500Z
+LOCATION:link do zajęć
+DTSTART:20241123T093000Z
+SUMMARY:Instytucje rynkowe (wykład)
+UID:67087f56-ad95-4b2f-a634-059e68ef002b@6708.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241130T114500Z
+LOCATION:link do zajęć
+DTSTART:20241130T093000Z
+SUMMARY:Cyberbezpieczeństwo w zarządzaniu projektami (wykład do wyboru)
+UID:64bbfc71-df71-4b90-825d-5a6dc4729688@64bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Bartusik
+DTEND:20241201T091500Z
+LOCATION:link do zajęć
+DTSTART:20241201T070000Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:75b36bb0-75d1-470c-95f0-49516a956a69@75b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20241013T081500Z
+LOCATION:link do zajęć
+DTSTART:20241013T060000Z
+SUMMARY:Zarządzanie projektem finansowanym społecznościowo (wykład do wyboru)
+UID:3004f28a-6159-4341-bfa5-2b628a7dff27@3004.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241207T143000Z
+LOCATION:link do zajęć
+DTSTART:20241207T121500Z
+SUMMARY:Cyberbezpieczeństwo w zarządzaniu projektami (wykład do wyboru)
+UID:902ac9af-1481-4e36-96c8-76a6b9b7cfe5@902a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20241215T091500Z
+LOCATION:link do zajęć
+DTSTART:20241215T070000Z
+SUMMARY:Zarządzanie projektem finansowanym społecznościowo (wykład do wyboru)
+UID:54e5ae7f-67a5-4977-a444-1a28ca8908df@54e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Szymańska
+DTEND:20241214T091500Z
+LOCATION:Paw.F 516
+DTSTART:20241214T070000Z
+SUMMARY:Instytucje rynkowe (ćwiczenia)
+UID:c812e3f3-b852-477e-999c-e767be4933ea@c812.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241026T104500Z
+LOCATION:link do zajęć
+DTSTART:20241026T083000Z
+SUMMARY:Oszustwa księgowe a rachunkowość kreatywna (wykład do wyboru)
+UID:f49b02db-2d6a-43e6-a18b-1cfe66a65e7a@f49b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
+DTEND:20241215T143000Z
+LOCATION:link do zajęć
+DTSTART:20241215T121500Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (wykład)
+UID:7041c08f-205f-4019-820a-5394d6e9d567@7041.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Szymańska
+DTEND:20241206T170000Z
+LOCATION:Bud.gł. 5
+DTSTART:20241206T144500Z
+SUMMARY:Instytucje rynkowe (ćwiczenia)
+UID:4554e70a-d7ee-4d1a-ba62-bcd3811149c0@4554.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Plichta
+DTEND:20241207T170000Z
+LOCATION:link do zajęć
+DTSTART:20241207T144500Z
+SUMMARY:Instytucje rynkowe (wykład)
+UID:caf8a06d-6032-4d84-b0fe-29bedc553490@caf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241012T160000Z
+LOCATION:link do zajęć
+DTSTART:20241012T134500Z
+SUMMARY:Etykieta menedżera (wykład do wyboru)
+UID:c1b47b34-e94d-4886-ad15-49339531faf2@c1b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Olejnik
+DTEND:20250125T114500Z
+LOCATION:Paw.F 613
+DTSTART:20250125T093000Z
+SUMMARY:Zarządzanie finansami przedsiębiorstwa (ćwiczenia)
+UID:6e974dbf-d44e-4256-8880-2c7c2d970e58@6e97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Katarzyna Bartusik
+DTEND:20241222T091500Z
+LOCATION:link do zajęć
+DTSTART:20241222T070000Z
+SUMMARY:Podstawy zarządzania projektami (wykład)
+UID:f23eb82c-0e24-438a-8cb2-8a84d4c7d318@f23e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jarosław Plichta
+DTEND:20241222T143000Z
+LOCATION:link do zajęć
+DTSTART:20241222T121500Z
+SUMMARY:Instytucje rynkowe (wykład)
+UID:bef47bc7-5bbb-4d76-9339-b5b161a2af32@bef4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20241222T114500Z
+LOCATION:link do zajęć
+DTSTART:20241222T093000Z
+SUMMARY:Zarządzanie projektem finansowanym społecznościowo (wykład do wyboru)
+UID:beab8b84-b4a8-409d-b75c-0e84605b4945@beab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241130T180000Z
+LOCATION:link do zajęć
+DTSTART:20241130T154500Z
+SUMMARY:Oszustwa księgowe a rachunkowość kreatywna (wykład do wyboru)
+UID:c5dc95ba-7411-4650-9110-abb41048950a@c5dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241012T133000Z
+LOCATION:link do zajęć
+DTSTART:20241012T111500Z
+SUMMARY:Oszustwa księgowe a rachunkowość kreatywna (wykład do wyboru)
+UID:08548c6f-67cd-46b5-bb4e-7d6134eb4aa6@0854.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241124T114500Z
+LOCATION:link do zajęć
+DTSTART:20241124T093000Z
+SUMMARY:Cyberbezpieczeństwo w zarządzaniu projektami (wykład do wyboru)
+UID:df71f8d2-788c-48b3-af2b-be7ca470d33b@df71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Artur Hołda
+DTEND:20241117T114500Z
+LOCATION:link do zajęć
+DTSTART:20241117T093000Z
+SUMMARY:Oszustwa księgowe a rachunkowość kreatywna (wykład do wyboru)
+UID:5efdb9eb-9512-477b-aee5-bee02ca78443@5efd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Grzegorz Strupczewski
+DTEND:20241012T104500Z
+LOCATION:link do zajęć
+DTSTART:20241012T083000Z
+SUMMARY:Cyberbezpieczeństwo w zarządzaniu projektami (wykład do wyboru)
+UID:4dc81738-0fe1-4922-84d1-55965dbd7023@4dc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241124T091500Z
+LOCATION:link do zajęć
+DTSTART:20241124T070000Z
+SUMMARY:Etykieta menedżera (wykład do wyboru)
+UID:ebb72ba3-b045-46f1-a339-d501728ea592@ebb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Pietruszka-Ortyl
+DTEND:20241207T091500Z
+LOCATION:link do zajęć
+DTSTART:20241207T070000Z
+SUMMARY:Etykieta menedżera (wykład do wyboru)
+UID:ead2922d-e6f8-4a53-b89e-00cacd4b96ae@ead2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Oskar Kosch
+DTEND:20241201T114500Z
+LOCATION:link do zajęć
+DTSTART:20241201T093000Z
+SUMMARY:Zarządzanie projektem finansowanym społecznościowo (wykład do wyboru)
+UID:3c3445aa-4c09-4efa-81b4-a437fc120753@3c34.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,858 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241014T073000Z
+LOCATION:Paw.F 104
+DTSTART:20241014T060000Z
+SUMMARY:Zrównoważone zarządzanie projektem (wykład do wyboru)
+UID:5dc09f6d-13b5-4fe4-9488-0c3840aaf2d8@5dc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20241122T143000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241122T121500Z
+SUMMARY:Projektowanie i innowacyjność produktu (konwersatorium)
+UID:3872e947-877a-4d75-b993-34b9f35d20ce@3872.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Elżbieta Bielak
+DTEND:20241015T091500Z
+LOCATION:Paw.G  7
+DTSTART:20241015T074500Z
+SUMMARY:Komercjalizacja produktu (konwersatorium)
+UID:bafd3ee9-7e89-48fb-9d78-19b3d406098d@bafd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20241011T133000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241011T111500Z
+SUMMARY:Projektowanie i innowacyjność produktu (konwersatorium)
+UID:7f7efcfb-8866-4dbe-8014-5957a3bea26a@7f7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20241220T143000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241220T121500Z
+SUMMARY:Projektowanie i innowacyjność produktu (konwersatorium)
+UID:4100c12e-ffdd-4a28-a870-4ce8b36b03d4@4100.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20241025T110000Z
+LOCATION:Paw.C sala E
+DTSTART:20241025T093000Z
+SUMMARY:Zarządzanie ryzykiem (ćwiczenia)
+UID:416a7c23-cfbd-4ff4-a40e-374f9580196f@416a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20250107T083000Z
+LOCATION:Paw.F 516
+DTSTART:20250107T070000Z
+SUMMARY:Zarządzanie procesami biznesowymi (ćwiczenia)
+UID:4dc197fa-fb2f-4cc7-8a72-f2c5556d35a4@4dc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20250123T101500Z
+LOCATION:Paw.C sala E
+DTSTART:20250123T093000Z
+SUMMARY:Zarządzanie ryzykiem (ćwiczenia)
+UID:ff8eb533-b44c-4763-9791-e63016561c0c@ff8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20241115T143000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241115T121500Z
+SUMMARY:Projektowanie i innowacyjność produktu (konwersatorium)
+UID:d1b455fc-fcf6-47df-8d5b-3a44566db3aa@d1b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Tadeusz Sikora
+DTEND:20250123T083000Z
+LOCATION:Paw.C sala B
+DTSTART:20250123T074500Z
+SUMMARY:Zarządzanie procesami biznesowymi (wykład)
+UID:6874abb4-4b62-435c-8022-dbb5fcadd317@6874.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Tadeusz Sikora
+DTEND:20250109T083000Z
+LOCATION:Paw.C sala B
+DTSTART:20250109T070000Z
+SUMMARY:Zarządzanie procesami biznesowymi (wykład)
+UID:fdaeb38e-5de5-403b-906f-fe28917e8157@fdae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20250123T134500Z
+LOCATION:Paw.F 104
+DTSTART:20250123T130000Z
+SUMMARY:Negocjacje i gry biznesowe (wykład do wyboru)
+UID:857fd2b8-8429-4336-8aa4-fff1ee510254@857f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20241105T170000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241105T140000Z
+SUMMARY:Komercjalizacja i transer wiedzy (konwersatorium)
+UID:c8c38a5e-9afe-4ca1-a9b5-1f18c83cf646@c8c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Elżbieta Bielak
+DTEND:20241114T110000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241114T084500Z
+SUMMARY:Komercjalizacja produktu (konwersatorium)
+UID:eb5e09e8-5dd0-4077-b823-5405c0458f3b@eb5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20241004T133000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241004T111500Z
+SUMMARY:Projektowanie i innowacyjność produktu (konwersatorium)
+UID:e916f601-f6ab-48e6-bd28-2b02a1655f0f@e916.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20241029T170000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241029T140000Z
+SUMMARY:Komercjalizacja i transer wiedzy (konwersatorium)
+UID:2dbe0ac3-a23c-405d-a0d0-df96fb318650@2dbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241007T091500Z
+LOCATION:Paw.U sala M
+DTSTART:20241007T074500Z
+SUMMARY:Marketingowe aspekty opakowań (wykład)
+UID:0fbaf949-a4b0-4159-849f-68dff1955fe5@0fba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20241008T160000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241008T130000Z
+SUMMARY:Komercjalizacja i transer wiedzy (konwersatorium)
+UID:ad8ed690-098b-4bac-936f-b2289820a73b@ad8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
+DTEND:20241022T124500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241022T111500Z
+SUMMARY:Behawioralne aspekty decyzji ekonomicznych (wykład do wyboru)
+UID:9a78e8b2-bbbf-4970-945b-a7adaa5a14b6@9a78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
+DTEND:20241003T124500Z
+LOCATION:Paw.F 104
+DTSTART:20241003T111500Z
+SUMMARY:Behawioralne aspekty decyzji ekonomicznych (wykład do wyboru)
+UID:063cb880-b490-424b-9251-e2098995cf13@063c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241104T134500Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241104T121500Z
+SUMMARY:Marketingowe aspekty opakowań (ćwiczenia)
+UID:62b5f6e3-05cd-4ba5-8195-d86bc8a5cf23@62b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20250113T134500Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20250113T121500Z
+SUMMARY:Marketingowe aspekty opakowań (ćwiczenia)
+UID:18996db9-36c1-4086-815a-34a33232a902@1899.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20241107T134500Z
+LOCATION:Paw.F 104
+DTSTART:20241107T121500Z
+SUMMARY:Negocjacje i gry biznesowe (wykład do wyboru)
+UID:54f58e46-de99-4a0d-8ddb-9ed47a0bc69d@54f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20250113T101500Z
+LOCATION:Paw.U sala M
+DTSTART:20250113T084500Z
+SUMMARY:Marketingowe aspekty opakowań (wykład)
+UID:2af47012-b7f8-484f-bb0b-721b5d279997@2af4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Tadeusz Sikora
+DTEND:20241017T073000Z
+LOCATION:Paw.C sala B
+DTSTART:20241017T060000Z
+SUMMARY:Zarządzanie procesami biznesowymi (wykład)
+UID:68936c53-7d30-4349-9284-b626309732e3@6893.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20241220T120000Z
+LOCATION:Paw.C sala E
+DTSTART:20241220T103000Z
+SUMMARY:Zarządzanie ryzykiem (ćwiczenia)
+UID:2e67e720-5650-42ff-9f86-91077fb155ae@2e67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20250120T101500Z
+LOCATION:Paw.U sala M
+DTSTART:20250120T093000Z
+SUMMARY:Marketingowe aspekty opakowań (wykład)
+UID:b5ac7dab-a916-49d9-b4c4-a0529a49b3b8@b5ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Tadeusz Sikora
+DTEND:20241212T083000Z
+LOCATION:Paw.C sala B
+DTSTART:20241212T070000Z
+SUMMARY:Zarządzanie procesami biznesowymi (wykład)
+UID:d7e48944-0e7d-4fa1-aa5e-c237dd6bd52a@d7e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241007T073000Z
+LOCATION:Paw.F 104
+DTSTART:20241007T060000Z
+SUMMARY:Zrównoważone zarządzanie projektem (wykład do wyboru)
+UID:f09efe8b-85cc-4885-9fb6-726b19ddf4ed@f09e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20250109T171500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250109T154500Z
+SUMMARY:Negocjacje i gry biznesowe (wykład do wyboru)
+UID:bb3e3316-3594-4372-9b0f-55df5ec7950c@bb3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20241011T110000Z
+LOCATION:Paw.C sala E
+DTSTART:20241011T093000Z
+SUMMARY:Zarządzanie ryzykiem (ćwiczenia)
+UID:83817daa-95a0-43af-a44c-83517140d7f7@8381.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20250124T111500Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20250124T103000Z
+SUMMARY:Zarządzanie ryzykiem (wykład)
+UID:3608cea9-c278-4b55-9b9a-d1e64a99d229@3608.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241118T083000Z
+LOCATION:Paw.F 104
+DTSTART:20241118T070000Z
+SUMMARY:Zrównoważone zarządzanie projektem (wykład do wyboru)
+UID:73474276-3fa0-43bb-99ab-64f8da93a29a@7347.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20241001T073000Z
+LOCATION:Paw.F 516
+DTSTART:20241001T064500Z
+SUMMARY:Zarządzanie procesami biznesowymi (ćwiczenia)
+UID:7b2fa4ca-b278-431c-b731-a82e80012ee4@7b2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241021T091500Z
+LOCATION:Paw.U sala M
+DTSTART:20241021T074500Z
+SUMMARY:Marketingowe aspekty opakowań (wykład)
+UID:44f4cf14-ae0f-4f66-aede-385483837b48@44f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20241126T153000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241126T140000Z
+SUMMARY:Komercjalizacja i transer wiedzy (konwersatorium)
+UID:edf6a5bc-e937-4e5c-b949-831b51173dda@edf6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Tadeusz Sikora
+DTEND:20241031T083000Z
+LOCATION:Paw.C sala B
+DTSTART:20241031T070000Z
+SUMMARY:Zarządzanie procesami biznesowymi (wykład)
+UID:116f21bb-2328-4291-a9ba-afeddcc8a1df@116f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20241108T143000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241108T121500Z
+SUMMARY:Projektowanie i innowacyjność produktu (konwersatorium)
+UID:441e2532-ce60-43a2-8881-57dc7d447ff9@441e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241028T083000Z
+LOCATION:Paw.F 104
+DTSTART:20241028T070000Z
+SUMMARY:Zrównoważone zarządzanie projektem (wykład do wyboru)
+UID:d401c55b-c6db-486c-92dc-4711d5493f27@d401.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241202T101500Z
+LOCATION:Paw.U sala M
+DTSTART:20241202T084500Z
+SUMMARY:Marketingowe aspekty opakowań (wykład)
+UID:9f226807-8db4-4afb-ab67-a70a3da19148@9f22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20250117T143000Z
+LOCATION:Paw.S sala 11
+DTSTART:20250117T121500Z
+SUMMARY:Projektowanie i innowacyjność produktu (konwersatorium)
+UID:a56f4220-0463-46ce-90af-71efbd2a2ef4@a56f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20241112T170000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241112T140000Z
+SUMMARY:Komercjalizacja i transer wiedzy (konwersatorium)
+UID:d347cf1a-5329-4f39-b029-eac5a2aa7c2d@d347.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20250110T143000Z
+LOCATION:Paw.S sala 11
+DTSTART:20250110T121500Z
+SUMMARY:Projektowanie i innowacyjność produktu (konwersatorium)
+UID:8a55f142-7d2f-4484-933c-efe482ff7aa5@8a55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20241210T083000Z
+LOCATION:Paw.F 516
+DTSTART:20241210T070000Z
+SUMMARY:Zarządzanie procesami biznesowymi (ćwiczenia)
+UID:e35a59eb-9ba5-4fd8-97e8-a9af8c41de2b@e35a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241202T083000Z
+LOCATION:Paw.F 104
+DTSTART:20241202T074500Z
+SUMMARY:Zrównoważone zarządzanie projektem (wykład do wyboru)
+UID:cbbf089d-1cc3-4694-9d1a-34791c3eb4aa@cbbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20250117T083000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20250117T070000Z
+SUMMARY:Zarządzanie ryzykiem (wykład)
+UID:2b8be871-7b17-4252-a4eb-1013bad4b93a@2b8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
+DTEND:20250123T130000Z
+LOCATION:Paw.F 104
+DTSTART:20250123T121500Z
+SUMMARY:Behawioralne aspekty decyzji ekonomicznych (wykład do wyboru)
+UID:a3979fbf-267d-45cd-934e-a59e4d2ed07d@a397.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241216T101500Z
+LOCATION:Paw.U sala M
+DTSTART:20241216T084500Z
+SUMMARY:Marketingowe aspekty opakowań (wykład)
+UID:fb211ebb-6727-4a79-84f9-319796dc2e6b@fb21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20250123T161500Z
+LOCATION:Paw.S sala 11
+DTSTART:20250123T140000Z
+SUMMARY:Projektowanie i innowacyjność produktu (konwersatorium)
+UID:b9d05e2e-5ed6-4f72-92aa-2d6b1c46fc5f@b9d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20241129T143000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241129T121500Z
+SUMMARY:Projektowanie i innowacyjność produktu (konwersatorium)
+UID:b08092f3-457e-4ff9-b676-ce5001ea38b5@b080.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20241205T134500Z
+LOCATION:Paw.F 104
+DTSTART:20241205T121500Z
+SUMMARY:Negocjacje i gry biznesowe (wykład do wyboru)
+UID:1eb846a2-0edb-4da1-877b-ab23db0c293f@1eb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20241024T124500Z
+LOCATION:Paw.F 104
+DTSTART:20241024T111500Z
+SUMMARY:Negocjacje i gry biznesowe (wykład do wyboru)
+UID:2351c034-7506-4024-ad6c-aaeeba42879c@2351.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20241004T110000Z
+LOCATION:Bud.gł. Stara Aula
+DTSTART:20241004T093000Z
+SUMMARY:Zarządzanie ryzykiem (wykład)
+UID:3512ce05-8447-4b8c-a291-e3b5d13dd3a0@3512.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20241022T160000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241022T130000Z
+SUMMARY:Komercjalizacja i transer wiedzy (konwersatorium)
+UID:d9b271cb-17fc-4dd6-8c68-b90a381db737@d9b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
+DTEND:20241114T134500Z
+LOCATION:Paw.F 104
+DTSTART:20241114T121500Z
+SUMMARY:Behawioralne aspekty decyzji ekonomicznych (wykład do wyboru)
+UID:1d0addda-6e99-4cbf-8627-5d047b9f576d@1d0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Elżbieta Bielak
+DTEND:20241107T110000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241107T084500Z
+SUMMARY:Komercjalizacja produktu (konwersatorium)
+UID:d4c24bd5-5924-4c2c-9aa9-078bc97f5366@d4c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241128T110000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241128T084500Z
+SUMMARY:Komercjalizacja produktu (konwersatorium)
+UID:54e2ed23-4675-4d27-9d5e-ccdccff903c3@54e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20241213T143000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241213T121500Z
+SUMMARY:Projektowanie i innowacyjność produktu (konwersatorium)
+UID:cc707367-8991-4f0c-9db0-5eb3fcefa4e8@cc70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20250109T110000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20250109T084500Z
+SUMMARY:Komercjalizacja produktu (konwersatorium)
+UID:16400bb7-687c-4055-8920-aaccfd1bc2e1@1640.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Elżbieta Bielak
+DTEND:20241024T100000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241024T074500Z
+SUMMARY:Komercjalizacja produktu (konwersatorium)
+UID:8574e106-98e0-4745-94b8-33743cdeda2e@8574.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
+DTEND:20250109T134500Z
+LOCATION:Paw.F 104
+DTSTART:20250109T121500Z
+SUMMARY:Behawioralne aspekty decyzji ekonomicznych (wykład do wyboru)
+UID:66c67b90-7c9a-49ff-a31c-4fd353d67ed3@66c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20250124T143000Z
+LOCATION:Paw.S sala 11
+DTSTART:20250124T121500Z
+SUMMARY:Projektowanie i innowacyjność produktu (konwersatorium)
+UID:1a30a36d-34a5-47a2-bf14-e637465d93dc@1a30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20241206T120000Z
+LOCATION:Paw.C sala E
+DTSTART:20241206T103000Z
+SUMMARY:Zarządzanie ryzykiem (ćwiczenia)
+UID:c9a1410c-bd58-404f-a5c0-3e304accf055@c9a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20241126T083000Z
+LOCATION:Paw.F 516
+DTSTART:20241126T070000Z
+SUMMARY:Zarządzanie procesami biznesowymi (ćwiczenia)
+UID:272125af-629a-478c-a7ae-851a23351729@2721.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20241029T083000Z
+LOCATION:Paw.F 516
+DTSTART:20241029T070000Z
+SUMMARY:Zarządzanie procesami biznesowymi (ćwiczenia)
+UID:f22e48a3-513f-4589-b517-e24bd5be6e25@f22e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241104T101500Z
+LOCATION:Paw.U sala M
+DTSTART:20241104T084500Z
+SUMMARY:Marketingowe aspekty opakowań (wykład)
+UID:45bf88ca-51c9-4e58-9917-e6b39c4e113b@45bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241219T110000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241219T084500Z
+SUMMARY:Komercjalizacja produktu (konwersatorium)
+UID:92513c42-e072-4508-abae-109e28f61aec@9251.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20241129T120000Z
+LOCATION:Paw.G 12
+DTSTART:20241129T103000Z
+SUMMARY:Zarządzanie ryzykiem (wykład)
+UID:1060d2a7-232b-4663-acc9-c34c98f51b92@1060.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Tadeusz Sikora
+DTEND:20241003T073000Z
+LOCATION:Paw.C sala B
+DTSTART:20241003T060000Z
+SUMMARY:Zarządzanie procesami biznesowymi (wykład)
+UID:695dad02-8404-4672-8e0d-6d1ce1e840ff@695d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241212T110000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241212T084500Z
+SUMMARY:Komercjalizacja produktu (konwersatorium)
+UID:4258e5a2-95af-4f3b-a4ed-091fd28f409e@4258.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241104T083000Z
+LOCATION:Paw.F 104
+DTSTART:20241104T070000Z
+SUMMARY:Zrównoważone zarządzanie projektem (wykład do wyboru)
+UID:f6a3595d-5d05-41c5-b859-0da6075c1292@f6a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20241206T143000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241206T121500Z
+SUMMARY:Projektowanie i innowacyjność produktu (konwersatorium)
+UID:edba5e89-00f7-4180-b186-f4cb0643a7f4@edba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20241119T170000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241119T140000Z
+SUMMARY:Komercjalizacja i transer wiedzy (konwersatorium)
+UID:f5313456-2184-405a-8db4-ee858af4c5d9@f531.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241216T134500Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241216T121500Z
+SUMMARY:Marketingowe aspekty opakowań (ćwiczenia)
+UID:44fffcfc-d4ca-46d9-b911-986ced502497@44ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Tadeusz Sikora
+DTEND:20241114T083000Z
+LOCATION:Paw.C sala B
+DTSTART:20241114T070000Z
+SUMMARY:Zarządzanie procesami biznesowymi (wykład)
+UID:aad3954b-01bc-467d-afce-0428880010e7@aad3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
+DTEND:20241031T134500Z
+LOCATION:Paw.F 104
+DTSTART:20241031T121500Z
+SUMMARY:Behawioralne aspekty decyzji ekonomicznych (wykład do wyboru)
+UID:48f80410-f91b-43fc-8246-22af83e65f0f@48f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Elżbieta Bielak
+DTEND:20241121T100000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241121T070000Z
+SUMMARY:Komercjalizacja produktu (konwersatorium)
+UID:248f99cd-ff77-4843-a75c-8804a148071f@248f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20241017T161500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241017T144500Z
+SUMMARY:Negocjacje i gry biznesowe (wykład do wyboru)
+UID:4a6f6d80-ffb3-4852-a957-ec5ce6588448@4a6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20241108T120000Z
+LOCATION:Paw.C sala E
+DTSTART:20241108T103000Z
+SUMMARY:Zarządzanie ryzykiem (ćwiczenia)
+UID:996decc8-6f71-4c90-aa52-1866a218aa8a@996d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:962cad59-0ec8-4d0d-ad33-c648e93b65cc@962c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20250120T134500Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20250120T121500Z
+SUMMARY:Marketingowe aspekty opakowań (ćwiczenia)
+UID:79daeafc-54e8-4129-a7ea-2d7395c27ba3@79da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20241015T073000Z
+LOCATION:Paw.F 516
+DTSTART:20241015T060000Z
+SUMMARY:Zarządzanie procesami biznesowymi (ćwiczenia)
+UID:f2eae001-a9fa-4891-a72e-60a64e864171@f2ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241205T110000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241205T084500Z
+SUMMARY:Komercjalizacja produktu (konwersatorium)
+UID:60a14b47-08a1-4659-835d-a8711e7e3387@60a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241021T124500Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241021T111500Z
+SUMMARY:Marketingowe aspekty opakowań (ćwiczenia)
+UID:6cf41246-fe79-4686-a32e-fff0458862bc@6cf4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20241025T133000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241025T111500Z
+SUMMARY:Projektowanie i innowacyjność produktu (konwersatorium)
+UID:6a5137dd-6cf2-46e9-8009-aa6363973cb6@6a51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20241018T133000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241018T111500Z
+SUMMARY:Projektowanie i innowacyjność produktu (konwersatorium)
+UID:aa3145ab-0120-4bb3-93a2-0e45f6aea6df@aa31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20241122T120000Z
+LOCATION:Paw.C sala E
+DTSTART:20241122T103000Z
+SUMMARY:Zarządzanie ryzykiem (ćwiczenia)
+UID:761930aa-257f-4903-83db-9f9ab045eb98@7619.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
+DTEND:20241212T134500Z
+LOCATION:Paw.F 104
+DTSTART:20241212T121500Z
+SUMMARY:Behawioralne aspekty decyzji ekonomicznych (wykład do wyboru)
+UID:39d3d284-8d81-49c2-8502-3ab504a58200@39d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:b735221b-f1f1-4dac-872a-e79ebeb7f252@b735.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241118T101500Z
+LOCATION:Paw.U sala M
+DTSTART:20241118T084500Z
+SUMMARY:Marketingowe aspekty opakowań (wykład)
+UID:20308e59-3bf3-4e6a-a585-64a48a0b62c0@2030.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20241121T134500Z
+LOCATION:Paw.F 104
+DTSTART:20241121T121500Z
+SUMMARY:Negocjacje i gry biznesowe (wykład do wyboru)
+UID:43bdc882-d1c4-4839-ae71-9d5df628f962@43bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20241112T083000Z
+LOCATION:Paw.F 516
+DTSTART:20241112T070000Z
+SUMMARY:Zarządzanie procesami biznesowymi (ćwiczenia)
+UID:56c94d5c-a13e-4236-b7cb-d5244280b999@56c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20250110T120000Z
+LOCATION:Paw.G 12
+DTSTART:20250110T103000Z
+SUMMARY:Zarządzanie ryzykiem (wykład)
+UID:f00fe13c-9c2d-4351-8575-233607434751@f00f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20241018T110000Z
+LOCATION:Paw.F 715
+DTSTART:20241018T093000Z
+SUMMARY:Zarządzanie ryzykiem (wykład)
+UID:12af85f8-ce5b-4c85-96c8-b2d8f608a4b3@12af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Julia Karcz-Ryndak
+DTEND:20250121T083000Z
+LOCATION:Paw.F 516
+DTSTART:20250121T070000Z
+SUMMARY:Zarządzanie procesami biznesowymi (ćwiczenia)
+UID:2334c51c-9d0d-4ced-8f3a-bc51ed0dfd29@2334.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20241213T120000Z
+LOCATION:Paw.G 12
+DTSTART:20241213T103000Z
+SUMMARY:Zarządzanie ryzykiem (wykład)
+UID:c5632275-3f97-4eb7-bd16-995591aa80e5@c563.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Tadeusz Sikora
+DTEND:20241128T083000Z
+LOCATION:Paw.C sala B
+DTSTART:20241128T070000Z
+SUMMARY:Zarządzanie procesami biznesowymi (wykład)
+UID:9e7ea192-0958-4d41-bfac-3eb81ae58662@9e7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241202T134500Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241202T121500Z
+SUMMARY:Marketingowe aspekty opakowań (ćwiczenia)
+UID:e4841787-2ecd-48d1-87e4-4fde7e10f98a@e484.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20250117T120000Z
+LOCATION:Paw.C sala E
+DTSTART:20250117T103000Z
+SUMMARY:Zarządzanie ryzykiem (ćwiczenia)
+UID:28995daa-a2ac-48a2-ba8a-c62a4970f524@2899.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Nowicki
+DTEND:20241115T120000Z
+LOCATION:Paw.S sala 10
+DTSTART:20241115T103000Z
+SUMMARY:Zarządzanie ryzykiem (wykład)
+UID:1b6e94e7-9366-4016-93bd-a2db73d5d0ab@1b6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
+DTEND:20241128T134500Z
+LOCATION:Paw.F 104
+DTSTART:20241128T121500Z
+SUMMARY:Behawioralne aspekty decyzji ekonomicznych (wykład do wyboru)
+UID:f9955c05-032b-4f9a-977d-a5445bb4f332@f995.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bogdan Rogoda
+DTEND:20250116T134500Z
+LOCATION:Paw.F 104
+DTSTART:20250116T121500Z
+SUMMARY:Negocjacje i gry biznesowe (wykład do wyboru)
+UID:8394d9aa-8718-4794-8864-21652b9dd8ec@8394.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241007T120000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241007T111500Z
+SUMMARY:Marketingowe aspekty opakowań (ćwiczenia)
+UID:b65ae232-3432-4613-92c5-dd7e1c9b792b@b65a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241021T073000Z
+LOCATION:Paw.F 104
+DTSTART:20241021T060000Z
+SUMMARY:Zrównoważone zarządzanie projektem (wykład do wyboru)
+UID:82e3273a-0fca-4074-ba7b-78076bafe06d@82e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Beata Bober
+DTEND:20241015T160000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241015T130000Z
+SUMMARY:Komercjalizacja i transer wiedzy (konwersatorium)
+UID:6ac283fd-25cb-4911-b34f-a683c07b430c@6ac2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241118T134500Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241118T121500Z
+SUMMARY:Marketingowe aspekty opakowań (ćwiczenia)
+UID:5c4c0fcd-21ff-41b2-89ad-0a6a01db6f70@5c4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241125T083000Z
+LOCATION:Paw.F 104
+DTSTART:20241125T070000Z
+SUMMARY:Zrównoważone zarządzanie projektem (wykład do wyboru)
+UID:deb33e27-dbf1-4aa4-abaf-dd76f27fdb86@deb3.org
+END:VEVENT
+END:VCALENDAR

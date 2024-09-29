@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241214T121500Z
+DTSTART:20241214T074500Z
+SUMMARY:Wspomaganie informatyczne w realizacji projektów (Studia podyplomowe)
+UID:c00f68e1-eb1c-4526-afb4-7b4aae88e3a9@c00f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241213T191500Z
+DTSTART:20241213T144500Z
+SUMMARY:Wspomaganie informatyczne w realizacji projektów (Studia podyplomowe)
+UID:89da4e93-d18b-4e9d-9211-f11f7548247b@89da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Janusz Nesterak
+DTEND:20241011T181500Z
+LOCATION:Paw.G 11
+DTSTART:20241011T134500Z
+SUMMARY:Opłacalność inwestycji w zarządzaniu projektami (Studia podyplomowe)
+UID:c508a47f-a994-4877-bbb2-113a6e1cc63b@c508.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Angelika Wodecka-Hyjek
+DTEND:20241012T111500Z
+LOCATION:Paw.G 11
+DTSTART:20241012T064500Z
+SUMMARY:Techniki twórczego myślenia (Studia podyplomowe)
+UID:e0ba9582-eaab-49ad-b570-bd84459d0cfa@e0ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ryszard Kołodziej
+DTEND:20241026T111500Z
+LOCATION:Paw.G 11
+DTSTART:20241026T064500Z
+SUMMARY:Wprowadzenie do zwinnego i ekstremalnego zarządzania projektami (Studia podyplomowe)
+UID:dacddff4-1615-4637-9b3a-c08708162a19@dacd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Beata Buchelt
+DTEND:20241115T191500Z
+LOCATION:Paw.G 11
+DTSTART:20241115T144500Z
+SUMMARY:Tworzenie zespołów projektowych (Studia podyplomowe)
+UID:949a74d6-76a2-44ca-9691-1f67a15c1e92@949a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Dołhasz
+DTEND:20241129T191500Z
+DTSTART:20241129T144500Z
+SUMMARY:Zarządzanie marketingowe (Studia podyplomowe)
+UID:fc49566e-1abb-4184-a51e-8a42cf60a311@fc49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Beata Buchelt
+DTEND:20241116T121500Z
+LOCATION:Paw.G 11
+DTSTART:20241116T074500Z
+SUMMARY:Motywowanie zespołów projektowych (Studia podyplomowe)
+UID:40d8000b-97e4-46f1-8a99-bf4b20e9d0a1@40d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ryszard Kołodziej
+DTEND:20241025T181500Z
+LOCATION:Paw.G 11
+DTSTART:20241025T134500Z
+SUMMARY:Wprowadzenie do zwinnego i ekstremalnego zarządzania projektami (Studia podyplomowe)
+UID:09f8be07-7145-4c95-a679-0e733dc36571@09f8.org
+END:VEVENT
+END:VCALENDAR

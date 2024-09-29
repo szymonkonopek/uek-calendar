@@ -1,0 +1,986 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Adriana Paliwoda-Matiolańska
+DTEND:20241024T110000Z
+LOCATION:Paw.C sala D
+DTSTART:20241024T093000Z
+SUMMARY:Techniki komunikacji i negocjacji (warsztaty)
+UID:17ca6d6c-6ae0-4317-b1c5-02f3e672ca4c@17ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Adriana Paliwoda-Matiolańska
+DTEND:20250116T120000Z
+LOCATION:Paw.C sala D
+DTSTART:20250116T103000Z
+SUMMARY:Techniki komunikacji i negocjacji (warsztaty)
+UID:6ff56462-c29a-40ef-a680-a48c7c7ccd39@6ff5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Szmigiel
+DTEND:20241107T101500Z
+LOCATION:Paw.G  8
+DTSTART:20241107T084500Z
+SUMMARY:Sterowanie procesami innowacyjnymi (wykład do wyboru)
+UID:7ee3bb2c-d653-42af-a8ba-d9c44325e92a@7ee3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20250116T171500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20250116T154500Z
+SUMMARY:Analiza opłacalności przedsięwzięć inwestycyjnych (ćwiczenia)
+UID:6db7a768-53d2-41e9-9d78-a58512d0de46@6db7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241105T101500Z
+LOCATION:Paw.G 11
+DTSTART:20241105T084500Z
+SUMMARY:Korporacje międzynarodowe (wykład)
+UID:986dd754-ca9b-4e7a-b1ab-960f6ed16f79@986d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241003T120000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241003T111500Z
+SUMMARY:Analiza opłacalności przedsięwzięć inwestycyjnych (wykład)
+UID:ae0239d1-6da7-4ea8-ba6d-d2a7a59b698a@ae02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Adriana Paliwoda-Matiolańska
+DTEND:20241219T120000Z
+LOCATION:Paw.C sala D
+DTSTART:20241219T103000Z
+SUMMARY:Techniki komunikacji i negocjacji (warsztaty)
+UID:e27c7e33-e69e-4129-a582-0ff3534360c7@e27c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Adriana Paliwoda-Matiolańska
+DTEND:20241017T110000Z
+LOCATION:Paw.C sala D
+DTSTART:20241017T093000Z
+SUMMARY:Techniki komunikacji i negocjacji (warsztaty)
+UID:3358c1ce-3d5b-4639-8718-e1eb43183b7d@3358.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241204T120000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241204T103000Z
+SUMMARY:Analiza opłacalności przedsięwzięć inwestycyjnych (wykład)
+UID:7c57d2c0-d025-45a9-ba79-bf713bddc882@7c57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ireneusz Górowski
+DTEND:20241204T171500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241204T154500Z
+SUMMARY:Rachunkowość finansowa i podatkowa (wykład)
+UID:4b959c48-756a-4ad1-a96f-09484f26edcc@4b95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ireneusz Górowski
+DTEND:20241218T171500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241218T154500Z
+SUMMARY:Rachunkowość finansowa i podatkowa (wykład)
+UID:e5a72def-807a-45b3-8ba4-a903c5da5eab@e5a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241023T110000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241023T093000Z
+SUMMARY:Analiza opłacalności przedsięwzięć inwestycyjnych (wykład)
+UID:98a31c72-c5bb-4e1b-86f8-79324f212de5@98a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Adriana Paliwoda-Matiolańska
+DTEND:20250123T120000Z
+LOCATION:Paw.C sala D
+DTSTART:20250123T103000Z
+SUMMARY:Techniki komunikacji i negocjacji (warsztaty)
+UID:83fc6045-9513-481f-a539-4ede1a6c53b0@83fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Szmigiel
+DTEND:20241121T134500Z
+LOCATION:Paw.G - 1
+DTSTART:20241121T121500Z
+SUMMARY:Sterowanie procesami innowacyjnymi (ćwiczenia do wyboru)
+UID:722c5403-a4ba-4ece-80e8-94cc4dd0ac10@722c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Tadeusz Trębacz
+DTEND:20241127T190000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241127T173000Z
+SUMMARY:Wprowadzenie do Wordpressa (warsztaty do wyboru)
+UID:f4dc48e3-a209-4eca-b658-17ea3dceb987@f4dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241203T101500Z
+LOCATION:Paw.G 11
+DTSTART:20241203T084500Z
+SUMMARY:Korporacje międzynarodowe (wykład)
+UID:facbfc63-aea9-49b6-a5fc-27524d37ddd4@facb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241217T134500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241217T121500Z
+SUMMARY:Gamifikacja (wykład do wyboru)
+UID:a213d7c8-42ac-42c6-afc2-4fc2616090b8@a213.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ireneusz Górowski
+DTEND:20241106T171500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241106T154500Z
+SUMMARY:Rachunkowość finansowa i podatkowa (wykład)
+UID:38ed6774-1547-40b8-9b48-25bc2bc8b100@38ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ireneusz Górowski
+DTEND:20250108T153000Z
+LOCATION:Paw.F CJ 302
+DTSTART:20250108T140000Z
+SUMMARY:Rachunkowość finansowa i podatkowa (ćwiczenia)
+UID:15cb1399-a981-46e1-9c26-f4ab917d52fd@15cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241024T161500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241024T144500Z
+SUMMARY:Analiza opłacalności przedsięwzięć inwestycyjnych (ćwiczenia)
+UID:4c841c5c-2b7e-47eb-81fa-3b10be0ba0fc@4c84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Tadeusz Trębacz
+DTEND:20241120T190000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241120T173000Z
+SUMMARY:Wprowadzenie do Wordpressa (warsztaty do wyboru)
+UID:a7d13522-8a23-4786-b156-05a83401d97d@a7d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Adriana Paliwoda-Matiolańska
+DTEND:20241114T120000Z
+LOCATION:Paw.C sala D
+DTSTART:20241114T103000Z
+SUMMARY:Techniki komunikacji i negocjacji (warsztaty)
+UID:285d73e3-5910-4a28-90e7-2df1e0bf2774@285d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20250107T120000Z
+LOCATION:Paw.G 11
+DTSTART:20250107T103000Z
+SUMMARY:Korporacje międzynarodowe (ćwiczenia)
+UID:2a084c57-b729-44d1-9b70-440ae9819c3f@2a08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241210T134500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241210T121500Z
+SUMMARY:Gamifikacja (wykład do wyboru)
+UID:8e658aa9-2f57-4284-96c0-d721cf79c905@8e65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241203T134500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241203T121500Z
+SUMMARY:Gamifikacja (wykład do wyboru)
+UID:2b160f6e-9a44-48a4-b0ed-9bb0c8e721bd@2b16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
+DTEND:20250115T134500Z
+LOCATION:Paw.S sala 1
+DTSTART:20250115T121500Z
+SUMMARY:Behawioralne aspekty decyzji ekonomicznych (wykład do wyboru)
+UID:e67507f8-a508-45b6-beaf-e83a0704c2c2@e675.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
+DTEND:20241022T110000Z
+LOCATION:L Paw.A 401
+DTSTART:20241022T093000Z
+SUMMARY:Behawioralne aspekty decyzji ekonomicznych (wykład do wyboru)
+UID:814ee4bc-23c6-46b9-ac4e-54eb57f3a596@814e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Tadeusz Trębacz
+DTEND:20241211T190000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241211T173000Z
+SUMMARY:Wprowadzenie do Wordpressa (warsztaty do wyboru)
+UID:6c4db360-547b-452b-818e-da261befb77c@6c4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ireneusz Górowski
+DTEND:20241127T153000Z
+LOCATION:Paw.F CJ 302
+DTSTART:20241127T140000Z
+SUMMARY:Rachunkowość finansowa i podatkowa (ćwiczenia)
+UID:55f9f789-243b-4233-8fd1-679a94772d65@55f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Adriana Paliwoda-Matiolańska
+DTEND:20241212T120000Z
+LOCATION:Paw.C sala D
+DTSTART:20241212T103000Z
+SUMMARY:Techniki komunikacji i negocjacji (warsztaty)
+UID:e7134283-950a-4920-8b25-fab555407a18@e713.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:66b39424-a8e5-4dfb-978a-8753ee48dbd8@66b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Adriana Paliwoda-Matiolańska
+DTEND:20250109T120000Z
+LOCATION:Paw.C sala D
+DTSTART:20250109T103000Z
+SUMMARY:Techniki komunikacji i negocjacji (warsztaty)
+UID:57ed4353-2f44-4da5-9f39-c9edc8a24d56@57ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241119T101500Z
+LOCATION:Paw.G 11
+DTSTART:20241119T084500Z
+SUMMARY:Korporacje międzynarodowe (wykład)
+UID:7225b302-f744-4855-94ab-f7bb2fdd7a12@7225.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
+DTEND:20241211T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241211T121500Z
+SUMMARY:Behawioralne aspekty decyzji ekonomicznych (wykład do wyboru)
+UID:b4b4a5a7-7f74-4d3e-bf6f-87c399649260@b4b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Szmigiel
+DTEND:20241010T091500Z
+LOCATION:Paw.G  8
+DTSTART:20241010T074500Z
+SUMMARY:Sterowanie procesami innowacyjnymi (wykład do wyboru)
+UID:c644422f-e35f-47fb-80e3-1c72e7a2b00a@c644.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Tadeusz Trębacz
+DTEND:20241016T180000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241016T163000Z
+SUMMARY:Wprowadzenie do Wordpressa (warsztaty do wyboru)
+UID:821b4e74-4795-4318-a24c-dca7ff664716@821b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ireneusz Górowski
+DTEND:20241211T153000Z
+LOCATION:Paw.F CJ 302
+DTSTART:20241211T140000Z
+SUMMARY:Rachunkowość finansowa i podatkowa (ćwiczenia)
+UID:d855a330-22de-433a-85a3-21be618878a7@d855.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20250114T101500Z
+LOCATION:Paw.G 11
+DTSTART:20250114T084500Z
+SUMMARY:Korporacje międzynarodowe (wykład)
+UID:dc525be6-cf2e-4af2-9b85-931bc3b1cbc3@dc52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20250115T120000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20250115T103000Z
+SUMMARY:Analiza opłacalności przedsięwzięć inwestycyjnych (wykład)
+UID:de07a4ce-cb38-4be4-a937-751448edf9f0@de07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241219T171500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241219T154500Z
+SUMMARY:Analiza opłacalności przedsięwzięć inwestycyjnych (ćwiczenia)
+UID:3f2b6b7f-3a53-4628-9776-0a0d31d5a733@3f2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
+DTEND:20241007T091500Z
+LOCATION:Paw.B 451
+DTSTART:20241007T074500Z
+SUMMARY:Behawioralne aspekty decyzji ekonomicznych (wykład do wyboru)
+UID:41b57dd9-b458-46d0-b189-4ebf7c3f11b1@41b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Szmigiel
+DTEND:20241121T101500Z
+LOCATION:Paw.G  8
+DTSTART:20241121T084500Z
+SUMMARY:Sterowanie procesami innowacyjnymi (wykład do wyboru)
+UID:d5a5a2fb-f445-46c9-a987-6aa522547024@d5a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Szmigiel
+DTEND:20241024T124500Z
+LOCATION:Paw.G - 1
+DTSTART:20241024T111500Z
+SUMMARY:Sterowanie procesami innowacyjnymi (ćwiczenia do wyboru)
+UID:efb50f43-2e37-4665-a7c7-5e958b78779b@efb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241022T091500Z
+LOCATION:Paw.G 11
+DTSTART:20241022T074500Z
+SUMMARY:Korporacje międzynarodowe (wykład)
+UID:054002fd-99c4-4617-b843-acb6506d995e@0540.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241120T120000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241120T103000Z
+SUMMARY:Analiza opłacalności przedsięwzięć inwestycyjnych (wykład)
+UID:ff0920dc-db51-4826-b416-174a6eb14592@ff09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20250114T134500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250114T121500Z
+SUMMARY:Gamifikacja (wykład do wyboru)
+UID:9121a63b-1922-430c-9685-78cd913ebe19@9121.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241003T124500Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241003T120000Z
+SUMMARY:Analiza opłacalności przedsięwzięć inwestycyjnych (ćwiczenia)
+UID:3e5d1a8a-0f13-4245-b136-8567210bbcd6@3e5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
+DTEND:20241030T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241030T121500Z
+SUMMARY:Behawioralne aspekty decyzji ekonomicznych (wykład do wyboru)
+UID:896b48e6-1a4b-48ac-85df-a67cc71f7194@896b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ireneusz Górowski
+DTEND:20241009T161500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241009T144500Z
+SUMMARY:Rachunkowość finansowa i podatkowa (wykład)
+UID:37688b0e-b0de-4bf6-8567-2433c0d3cdfd@3768.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
+DTEND:20250108T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20250108T121500Z
+SUMMARY:Behawioralne aspekty decyzji ekonomicznych (wykład do wyboru)
+UID:be261a40-3eaa-471e-9726-a267dac62b8b@be26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20250121T120000Z
+LOCATION:Paw.G 11
+DTSTART:20250121T103000Z
+SUMMARY:Korporacje międzynarodowe (ćwiczenia)
+UID:69456e9f-0993-42f5-bcea-3924467c0981@6945.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241022T124500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241022T111500Z
+SUMMARY:Gamifikacja (wykład do wyboru)
+UID:7b1e034d-3b16-4f31-8434-0743f941e5d8@7b1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
+DTEND:20241113T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241113T121500Z
+SUMMARY:Behawioralne aspekty decyzji ekonomicznych (wykład do wyboru)
+UID:6f35acad-89bd-4b7c-8d73-9945250616ff@6f35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241010T161500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241010T144500Z
+SUMMARY:Analiza opłacalności przedsięwzięć inwestycyjnych (ćwiczenia)
+UID:54cbc576-4796-498d-a5e2-23f54ef5e1be@54cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Tadeusz Trębacz
+DTEND:20241030T190000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241030T173000Z
+SUMMARY:Wprowadzenie do Wordpressa (warsztaty do wyboru)
+UID:80870497-231f-43e6-9b1f-942811e261a5@8087.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
+DTEND:20241120T134500Z
+LOCATION:Paw.S sala 1
+DTSTART:20241120T121500Z
+SUMMARY:Behawioralne aspekty decyzji ekonomicznych (wykład do wyboru)
+UID:99987d37-9f46-4403-aec5-7742abfb507c@9998.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Szmigiel
+DTEND:20241003T083000Z
+LOCATION:Paw.G  8
+DTSTART:20241003T074500Z
+SUMMARY:Sterowanie procesami innowacyjnymi (wykład do wyboru)
+UID:3424d7d0-dfef-4a22-afdd-c06a032b19b6@3424.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241029T120000Z
+LOCATION:Paw.G 11
+DTSTART:20241029T103000Z
+SUMMARY:Korporacje międzynarodowe (ćwiczenia)
+UID:b7a702b5-b877-42a4-87bc-22312c70bd0e@b7a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241217T101500Z
+LOCATION:Paw.G 11
+DTSTART:20241217T084500Z
+SUMMARY:Korporacje międzynarodowe (wykład)
+UID:7436c80e-7d6e-4243-a818-8d6a3108ecb4@7436.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241218T120000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241218T103000Z
+SUMMARY:Analiza opłacalności przedsięwzięć inwestycyjnych (wykład)
+UID:0228d8db-cfdf-45e4-aca0-a7dd2e0e381f@0228.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Szmigiel
+DTEND:20241205T101500Z
+LOCATION:Paw.G  8
+DTSTART:20241205T084500Z
+SUMMARY:Sterowanie procesami innowacyjnymi (wykład do wyboru)
+UID:f254b106-d99a-4fef-9c05-d0e87f7ce764@f254.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Tadeusz Trębacz
+DTEND:20241014T124500Z
+LOCATION:Paw.F 109
+DTSTART:20241014T111500Z
+SUMMARY:Wprowadzenie do Wordpressa (warsztaty do wyboru)
+UID:e79f0771-4b95-466b-843f-5266c689a510@e79f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
+DTEND:20241127T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241127T121500Z
+SUMMARY:Behawioralne aspekty decyzji ekonomicznych (wykład do wyboru)
+UID:c6ae9445-5e70-43af-82d9-5ce63b73124f@c6ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
+DTEND:20241023T124500Z
+LOCATION:Paw.S sala 1
+DTSTART:20241023T111500Z
+SUMMARY:Behawioralne aspekty decyzji ekonomicznych (wykład do wyboru)
+UID:bf78da1d-2b3c-4b4f-bedc-aab78abdb1fa@bf78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241007T101500Z
+LOCATION:Paw.G 11
+DTSTART:20241007T093000Z
+SUMMARY:Korporacje międzynarodowe (wykład)
+UID:0c04bd45-9671-4512-a039-8743a2bee24a@0c04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Szmigiel
+DTEND:20250116T101500Z
+LOCATION:Paw.G  8
+DTSTART:20250116T084500Z
+SUMMARY:Sterowanie procesami innowacyjnymi (wykład do wyboru)
+UID:51b625cd-7a91-4b4a-9375-1790c68d2372@51b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:064435f4-0144-48e3-a223-12f694fbc1b8@0644.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Adriana Paliwoda-Matiolańska
+DTEND:20241128T120000Z
+LOCATION:Paw.C sala D
+DTSTART:20241128T103000Z
+SUMMARY:Techniki komunikacji i negocjacji (warsztaty)
+UID:e64dc598-30ea-43c4-928c-39a160756b35@e64d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
+DTEND:20241204T134500Z
+LOCATION:Paw.S sala 1
+DTSTART:20241204T121500Z
+SUMMARY:Behawioralne aspekty decyzji ekonomicznych (wykład do wyboru)
+UID:e1efb36f-325d-41fc-a57a-48b016da5e01@e1ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ireneusz Górowski
+DTEND:20250115T171500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20250115T154500Z
+SUMMARY:Rachunkowość finansowa i podatkowa (wykład)
+UID:d2527ca9-be95-4e8f-a5d9-74bb1c736e75@d252.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241015T124500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241015T111500Z
+SUMMARY:Gamifikacja (wykład do wyboru)
+UID:9af6bc47-f50b-4426-9355-a75620af951f@9af6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241009T110000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241009T093000Z
+SUMMARY:Analiza opłacalności przedsięwzięć inwestycyjnych (wykład)
+UID:d6795003-22ad-4492-a889-6449185d445d@d679.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241205T171500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241205T154500Z
+SUMMARY:Analiza opłacalności przedsięwzięć inwestycyjnych (ćwiczenia)
+UID:5d4efe8e-c5aa-4620-b130-736a46358c7f@5d4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ireneusz Górowski
+DTEND:20241016T143000Z
+LOCATION:Paw.F CJ 302
+DTSTART:20241016T130000Z
+SUMMARY:Rachunkowość finansowa i podatkowa (ćwiczenia)
+UID:d860c1da-a92b-42fc-ac34-5d42e4851206@d860.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Szmigiel
+DTEND:20241112T161500Z
+LOCATION:L 525 Ustr.
+DTSTART:20241112T140000Z
+SUMMARY:Sterowanie procesami innowacyjnymi (ćwiczenia do wyboru)
+UID:79b88cae-5690-43ac-9145-1ceb7c0ff8b2@79b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241008T124500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241008T111500Z
+SUMMARY:Gamifikacja (wykład do wyboru)
+UID:f2cc15cb-effa-4d76-881c-99bad0623779@f2cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
+DTEND:20250122T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20250122T121500Z
+SUMMARY:Behawioralne aspekty decyzji ekonomicznych (wykład do wyboru)
+UID:74e6c7a2-ca77-4960-b7fb-5ce369ce9b4a@74e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Tadeusz Trębacz
+DTEND:20241106T190000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241106T173000Z
+SUMMARY:Wprowadzenie do Wordpressa (warsztaty do wyboru)
+UID:919354af-fd27-4699-adcf-b28d175ead5c@9193.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241112T134500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241112T121500Z
+SUMMARY:Gamifikacja (wykład do wyboru)
+UID:c19ea96e-e28c-4586-af20-281b3fc70b57@c19e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241126T134500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241126T121500Z
+SUMMARY:Gamifikacja (wykład do wyboru)
+UID:95b3e18d-53f3-421a-8e3d-e5449c9e1843@95b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ireneusz Górowski
+DTEND:20241001T110000Z
+LOCATION:Paw.F 515
+DTSTART:20241001T093000Z
+SUMMARY:Rachunkowość finansowa i podatkowa (ćwiczenia)
+UID:02cab242-ef25-432f-a86f-de3f11ee4fea@02ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ireneusz Górowski
+DTEND:20241001T073000Z
+LOCATION:Paw.F 515
+DTSTART:20241001T064500Z
+SUMMARY:Rachunkowość finansowa i podatkowa (ćwiczenia)
+UID:7a7943e1-ff20-401f-bd7a-20204874cbeb@7a79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Tadeusz Trębacz
+DTEND:20250108T190000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250108T173000Z
+SUMMARY:Wprowadzenie do Wordpressa (warsztaty do wyboru)
+UID:49e720d3-2dc0-4e92-95ff-3310c815cfaa@49e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Tadeusz Trębacz
+DTEND:20241204T190000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241204T173000Z
+SUMMARY:Wprowadzenie do Wordpressa (warsztaty do wyboru)
+UID:9d84a19c-ed36-4b98-94a4-ce5e5d39774a@9d84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Tadeusz Trębacz
+DTEND:20241023T180000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241023T163000Z
+SUMMARY:Wprowadzenie do Wordpressa (warsztaty do wyboru)
+UID:2b9b0fab-c84a-4a20-8171-b1a47d957473@2b9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
+DTEND:20241106T134500Z
+LOCATION:Paw.S sala 1
+DTSTART:20241106T121500Z
+SUMMARY:Behawioralne aspekty decyzji ekonomicznych (wykład do wyboru)
+UID:652f0d52-bd3a-4c3a-b0c5-c5f27f6adf7d@652f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241105T134500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241105T121500Z
+SUMMARY:Gamifikacja (wykład do wyboru)
+UID:4ea9d839-0258-4905-8f4c-c2c364a270dc@4ea9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Szmigiel
+DTEND:20241015T143000Z
+LOCATION:Paw.F 715
+DTSTART:20241015T130000Z
+SUMMARY:Sterowanie procesami innowacyjnymi (ćwiczenia do wyboru)
+UID:afbdcc03-a5f0-493e-ab17-1d93700be7ad@afbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241126T120000Z
+LOCATION:Paw.G 11
+DTSTART:20241126T103000Z
+SUMMARY:Korporacje międzynarodowe (ćwiczenia)
+UID:c2fdb6e9-4052-4fbb-af42-6a9c241529fd@c2fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241119T134500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241119T121500Z
+SUMMARY:Gamifikacja (wykład do wyboru)
+UID:17063d0f-53bd-4fd3-9964-c7b032edeab8@1706.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Szmigiel
+DTEND:20250116T134500Z
+LOCATION:Paw.G - 1
+DTSTART:20250116T121500Z
+SUMMARY:Sterowanie procesami innowacyjnymi (ćwiczenia do wyboru)
+UID:f12d4322-d2bb-4ff7-8ac0-6d5e40f4e98e@f12d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ireneusz Górowski
+DTEND:20241113T153000Z
+LOCATION:Paw.F CJ 302
+DTSTART:20241113T140000Z
+SUMMARY:Rachunkowość finansowa i podatkowa (ćwiczenia)
+UID:9c2c377b-334c-4312-a240-d9d208c7482a@9c2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Adriana Paliwoda-Matiolańska
+DTEND:20241107T120000Z
+LOCATION:Paw.C sala D
+DTSTART:20241107T103000Z
+SUMMARY:Techniki komunikacji i negocjacji (warsztaty)
+UID:11238de4-1f6b-45d9-8499-ebc1af8163dc@1123.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ireneusz Górowski
+DTEND:20241023T161500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241023T144500Z
+SUMMARY:Rachunkowość finansowa i podatkowa (wykład)
+UID:a5b47c47-7b2a-4288-ba2c-da8abab3ae2d@a5b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Adriana Paliwoda-Matiolańska
+DTEND:20241031T120000Z
+LOCATION:Paw.C sala D
+DTSTART:20241031T103000Z
+SUMMARY:Techniki komunikacji i negocjacji (warsztaty)
+UID:4ea1f8fd-7cb7-4d94-b61f-c1c233ed23d4@4ea1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Tadeusz Trębacz
+DTEND:20241218T190000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241218T173000Z
+SUMMARY:Wprowadzenie do Wordpressa (warsztaty do wyboru)
+UID:14d8c7f4-dd3d-4e0f-938f-335463c24033@14d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Tadeusz Trębacz
+DTEND:20250122T190000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250122T173000Z
+SUMMARY:Wprowadzenie do Wordpressa (warsztaty do wyboru)
+UID:41608ff3-5355-4bcc-b97b-0e124df942ba@4160.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Tadeusz Trębacz
+DTEND:20241113T190000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241113T173000Z
+SUMMARY:Wprowadzenie do Wordpressa (warsztaty do wyboru)
+UID:3d32a091-7abc-40fe-b39c-e2d5c0128729@3d32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Tadeusz Trębacz
+DTEND:20250115T190000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250115T173000Z
+SUMMARY:Wprowadzenie do Wordpressa (warsztaty do wyboru)
+UID:52746040-1ede-4648-9374-195a3b4837f9@5274.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241107T171500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241107T154500Z
+SUMMARY:Analiza opłacalności przedsięwzięć inwestycyjnych (ćwiczenia)
+UID:b74b71c7-d312-49e6-80f9-0d494f9ee271@b74b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20250107T134500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250107T121500Z
+SUMMARY:Gamifikacja (wykład do wyboru)
+UID:95f10982-f2e9-49b4-b343-da4eed570e13@95f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241029T134500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241029T121500Z
+SUMMARY:Gamifikacja (wykład do wyboru)
+UID:8513736c-c0b0-42f6-b0c3-a624725e9a30@8513.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
+DTEND:20241218T134500Z
+LOCATION:Paw.S sala 1
+DTSTART:20241218T121500Z
+SUMMARY:Behawioralne aspekty decyzji ekonomicznych (wykład do wyboru)
+UID:c6698c3a-62a9-4b86-8afe-d1b55180657a@c669.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241001T124500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241001T111500Z
+SUMMARY:Gamifikacja (wykład do wyboru)
+UID:426f057d-1537-452c-96cf-6dc8ac8b0089@426f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241007T110000Z
+LOCATION:Paw.G 11
+DTSTART:20241007T101500Z
+SUMMARY:Korporacje międzynarodowe (ćwiczenia)
+UID:c3f75bc1-8b6e-43ab-805d-800ef28b2a3f@c3f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Szmigiel
+DTEND:20241219T101500Z
+LOCATION:Paw.G  8
+DTSTART:20241219T084500Z
+SUMMARY:Sterowanie procesami innowacyjnymi (wykład do wyboru)
+UID:c894c343-ee12-4f3a-8ae1-977b42ff92e3@c894.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ireneusz Górowski
+DTEND:20241001T064500Z
+LOCATION:Paw.F 515
+DTSTART:20241001T060000Z
+SUMMARY:Rachunkowość finansowa i podatkowa (wykład)
+UID:94922802-7165-4299-bd4f-af2eea46cb3e@9492.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Jedynak
+DTEND:20241009T124500Z
+LOCATION:Paw.S sala 1
+DTSTART:20241009T111500Z
+SUMMARY:Behawioralne aspekty decyzji ekonomicznych (wykład do wyboru)
+UID:335d137a-414f-481b-91bf-af58047b6aca@335d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Adriana Paliwoda-Matiolańska
+DTEND:20241121T120000Z
+LOCATION:Paw.C sala D
+DTSTART:20241121T103000Z
+SUMMARY:Techniki komunikacji i negocjacji (warsztaty)
+UID:daa95f5f-444a-450c-a46e-08b84f566e56@daa9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241015T110000Z
+LOCATION:Paw.G 11
+DTSTART:20241015T093000Z
+SUMMARY:Korporacje międzynarodowe (ćwiczenia)
+UID:6ff635d6-1402-4543-9d42-3d70e636e0fa@6ff6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241106T120000Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20241106T103000Z
+SUMMARY:Analiza opłacalności przedsięwzięć inwestycyjnych (wykład)
+UID:d9ba9cc3-f5ec-4b2f-bdbc-1b9078b5014c@d9ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241008T091500Z
+LOCATION:Paw.G 11
+DTSTART:20241008T074500Z
+SUMMARY:Korporacje międzynarodowe (wykład)
+UID:484876c0-0eb3-4c5f-946b-094269702361@4848.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Tadeusz Trębacz
+DTEND:20241009T180000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241009T163000Z
+SUMMARY:Wprowadzenie do Wordpressa (warsztaty do wyboru)
+UID:31b1017d-b0c3-4a2d-a228-113a1a5eec41@31b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241112T120000Z
+LOCATION:Paw.G 11
+DTSTART:20241112T103000Z
+SUMMARY:Korporacje międzynarodowe (ćwiczenia)
+UID:890df0fa-7cc9-4e4b-b3cc-9a33572ebc1d@890d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ireneusz Górowski
+DTEND:20250122T153000Z
+LOCATION:Paw.F CJ 302
+DTSTART:20250122T140000Z
+SUMMARY:Rachunkowość finansowa i podatkowa (ćwiczenia)
+UID:bd7c70f4-fd5c-4a86-ba62-0375628e0155@bd7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Szmigiel
+DTEND:20241107T134500Z
+LOCATION:Paw.G - 1
+DTSTART:20241107T121500Z
+SUMMARY:Sterowanie procesami innowacyjnymi (ćwiczenia do wyboru)
+UID:7f42d34e-933d-402e-8158-5d30c224a269@7f42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marek Leśniak  prof. UEK dr hab. Joanna Wyrobek
+DTEND:20250121T134500Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250121T121500Z
+SUMMARY:Gamifikacja (wykład do wyboru)
+UID:136b5cc7-994e-4a05-a57f-8d634333969f@136b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Szmigiel
+DTEND:20241024T091500Z
+LOCATION:Paw.G  8
+DTSTART:20241024T074500Z
+SUMMARY:Sterowanie procesami innowacyjnymi (wykład do wyboru)
+UID:9140a7be-1239-406f-ae12-c810b9c0f0bf@9140.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Anna Odrobina
+DTEND:20241210T120000Z
+LOCATION:Paw.G 11
+DTSTART:20241210T103000Z
+SUMMARY:Korporacje międzynarodowe (ćwiczenia)
+UID:cbef5f1d-2d27-4b78-8b5f-db7f43698b20@cbef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Wąsowicz
+DTEND:20241121T171500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241121T154500Z
+SUMMARY:Analiza opłacalności przedsięwzięć inwestycyjnych (ćwiczenia)
+UID:f97c500a-1ed6-4a80-bc4f-499c61f81273@f97c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Adriana Paliwoda-Matiolańska
+DTEND:20241205T120000Z
+LOCATION:Paw.C sala D
+DTSTART:20241205T103000Z
+SUMMARY:Techniki komunikacji i negocjacji (warsztaty)
+UID:7119de8a-0082-4fc4-9c0f-6c872a0a5858@7119.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Kinga Szmigiel
+DTEND:20241205T134500Z
+LOCATION:Paw.G - 1
+DTSTART:20241205T121500Z
+SUMMARY:Sterowanie procesami innowacyjnymi (ćwiczenia do wyboru)
+UID:c7bc0ae5-d2ad-4dfd-9c07-ff9159d1dad2@c7bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Ireneusz Górowski
+DTEND:20241120T171500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241120T154500Z
+SUMMARY:Rachunkowość finansowa i podatkowa (wykład)
+UID:ac1c8efb-f3da-4195-9c8b-9bb61e1c529a@ac1c.org
+END:VEVENT
+END:VCALENDAR

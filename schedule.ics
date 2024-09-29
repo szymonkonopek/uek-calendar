@@ -1,0 +1,1122 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241128T171500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241128T154500Z
+SUMMARY:Inżynieria oprogramowania (ćwiczenia)
+UID:5492067a-869c-4d69-8342-81eae3e81be5@5492.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241118T190000Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241118T173000Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:f1d5ac3f-c619-43a6-9f57-866662faa36a@f1d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241217T101500Z
+LOCATION:link do zajęć
+DTSTART:20241217T084500Z
+SUMMARY:Inżynieria oprogramowania (wykład)
+UID:7f69d1ff-0864-4a38-8963-ff725f4792c0@7f69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20241211T134500Z
+LOCATION:link do zajęć
+DTSTART:20241211T121500Z
+SUMMARY:Projekty IT (wykład)
+UID:1fdfe172-7ebd-4984-ae27-5590881cd73d@1fdf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20250116T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250116T154500Z
+SUMMARY:Inżynieria oprogramowania (ćwiczenia)
+UID:1fa062f1-c24d-43fa-b314-3d28fe50e8a8@1fa0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20241016T124500Z
+LOCATION:link do zajęć
+DTSTART:20241016T111500Z
+SUMMARY:Projekty IT (wykład)
+UID:e7851528-001a-4741-a826-be317e1ac914@e785.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20241127T134500Z
+LOCATION:link do zajęć
+DTSTART:20241127T121500Z
+SUMMARY:Projekty IT (wykład)
+UID:57c34690-9bc3-4110-b6ec-a461733b15b7@57c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241107T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241107T154500Z
+SUMMARY:Inżynieria oprogramowania (ćwiczenia)
+UID:a23d7fa3-45ef-4e5b-b853-daa81b4bea14@a23d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
+DTEND:20241120T153000Z
+LOCATION:link do zajęć
+DTSTART:20241120T140000Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (wykład)
+UID:c7618ecb-cfb4-4e0f-b29e-df7055e804f9@c761.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241126T171500Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241126T154500Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:3b5c4cf7-fd85-4bc0-81eb-0a9f464cd6e4@3b5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241009T180000Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241009T163000Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:d3d561f1-36d3-4e06-b5a9-e6743da457dc@d3d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Thier
+DTEND:20250113T134500Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20250113T121500Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (ćwiczenia)
+UID:862239e1-605c-417b-8f9d-8f79ce431696@8622.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241105T171500Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241105T154500Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:30bcda52-b137-4059-9510-737dcb826eb7@30bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241210T101500Z
+LOCATION:link do zajęć
+DTSTART:20241210T084500Z
+SUMMARY:Inżynieria oprogramowania (wykład)
+UID:8fdab72e-e00e-4f2f-a5a1-e5eb9cb5a221@8fda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241211T190000Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241211T173000Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:cbbfe02d-8ed9-4931-b605-cf9dd84e4cbd@cbbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
+DTEND:20241127T153000Z
+LOCATION:link do zajęć
+DTSTART:20241127T140000Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (wykład)
+UID:7227b1d9-f308-4170-ad6c-3f3d270a5ae7@7227.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241015T161500Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241015T144500Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:5a06fcb7-6cf5-48eb-a3cd-9121d17539d3@5a06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241121T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241121T154500Z
+SUMMARY:Inżynieria oprogramowania (ćwiczenia)
+UID:352ae488-ef43-4c60-a30d-e59f37c7a8fa@352a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241106T190000Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241106T173000Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:ff20e3fe-0459-4096-bbd1-a334a8f267a5@ff20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241104T190000Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241104T173000Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:b3ddf1f6-32f5-40cf-b94e-ef4be14663b7@b3dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20250109T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250109T173000Z
+SUMMARY:Projekty IT (ćwiczenia)
+UID:3bb154bb-7c90-4be2-8efb-1ce52ae5bfee@3bb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241212T171500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241212T154500Z
+SUMMARY:Inżynieria oprogramowania (ćwiczenia)
+UID:f32aab80-41c7-4002-b1c8-d1ae938faf82@f32a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241029T101500Z
+LOCATION:link do zajęć
+DTSTART:20241029T084500Z
+SUMMARY:Inżynieria oprogramowania (wykład)
+UID:85b30a5b-df11-497d-9f5c-372a793c5837@85b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
+DTEND:20250108T153000Z
+LOCATION:link do zajęć
+DTSTART:20250108T140000Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (wykład)
+UID:e80e151b-8446-42c7-9432-a11d1f0cc084@e80e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241115T134500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241115T121500Z
+SUMMARY:Projekty IT (ćwiczenia)
+UID:5c12c7de-be47-497f-8f57-f44dbb8d4a50@5c12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250122T190000Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20250122T173000Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:c4e0750d-289f-439e-9ca5-e3f1ca0db027@c4e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241016T180000Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241016T163000Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:04d58c9d-c0d5-4e9e-b90c-c2790dc72e03@04d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20250123T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250123T173000Z
+SUMMARY:Projekty IT (ćwiczenia)
+UID:7d481bdc-3032-4879-b531-f6dddf09f8e9@7d48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Thier
+DTEND:20241021T143000Z
+LOCATION:Paw.F 109
+DTSTART:20241021T130000Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (ćwiczenia)
+UID:28788920-3b69-4500-9488-7158e6d98eec@2878.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Thier
+DTEND:20250120T153000Z
+LOCATION:Paw.F 109
+DTSTART:20250120T140000Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (ćwiczenia)
+UID:36b931ae-67fe-4a4b-991e-c3c8a0d8ae04@36b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241023T180000Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241023T163000Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:05fccd7e-7232-4395-95db-9841673f198e@05fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241209T190000Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241209T173000Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:dcc9477c-3863-4d24-aa7d-bc20743bf811@dcc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Thier
+DTEND:20241216T153000Z
+LOCATION:Paw.F 109
+DTSTART:20241216T140000Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (ćwiczenia)
+UID:ab8671d1-c01a-447b-97a9-7b8c79bd2580@ab86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
+DTEND:20250120T101500Z
+LOCATION:link do zajęć
+DTSTART:20250120T084500Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (wykład)
+UID:003fca22-6995-4230-8551-3d8c5710da94@003f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Daria Wójcik
+DTEND:20241107T153000Z
+LOCATION:Bud.gł. 4
+DTSTART:20241107T140000Z
+SUMMARY:Socjologia (ćwiczenia)
+UID:a16e76a9-0347-41e6-ac62-34c713d6f52d@a16e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241119T171500Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241119T154500Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:be3c2c17-93ab-4e0d-9d92-f002501e2f8e@be3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Daria Wójcik
+DTEND:20241219T153000Z
+LOCATION:Bud.gł. 4
+DTSTART:20241219T140000Z
+SUMMARY:Socjologia (ćwiczenia)
+UID:7568f3ae-e8cc-406e-8606-04dcd79f0315@7568.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20241023T124500Z
+LOCATION:link do zajęć
+DTSTART:20241023T111500Z
+SUMMARY:Projekty IT (wykład)
+UID:783cd2ab-67d5-4c4d-98bd-2715884988e2@783c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20250116T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250116T173000Z
+SUMMARY:Projekty IT (ćwiczenia)
+UID:6496abb6-f174-48da-9fa0-f29fde578adf@6496.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250113T190000Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20250113T173000Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:8492be1b-df96-4781-8c58-44e16e29fc50@8492.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Thier
+DTEND:20241014T143000Z
+LOCATION:Paw.F 109
+DTSTART:20241014T130000Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (ćwiczenia)
+UID:f85bed3d-4898-4615-bc72-67762c4d49af@f85b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Thier
+DTEND:20241118T153000Z
+LOCATION:Paw.F 109
+DTSTART:20241118T140000Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (ćwiczenia)
+UID:daa1f642-af5b-421b-9ed0-9a66e5c969e8@daa1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241218T190000Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241218T173000Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:f6408469-b8a5-47c9-bb63-f7b6ec7a6e19@f640.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20250121T101500Z
+LOCATION:link do zajęć
+DTSTART:20250121T084500Z
+SUMMARY:Inżynieria oprogramowania (wykład)
+UID:6da7f1e6-2c3a-4067-814e-ff959ae305a7@6da7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241127T190000Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241127T173000Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:a812a352-df85-4ec2-8965-5430fb231423@a812.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Thier
+DTEND:20241125T153000Z
+LOCATION:Paw.F 109
+DTSTART:20241125T140000Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (ćwiczenia)
+UID:a8ddc700-c989-4e61-95f3-abc08d156bb7@a8dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20250108T134500Z
+LOCATION:link do zajęć
+DTSTART:20250108T121500Z
+SUMMARY:Projekty IT (wykład)
+UID:c0994a03-7ab9-4e61-a4a1-da0aa967dc6c@c099.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20250109T171500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20250109T154500Z
+SUMMARY:Inżynieria oprogramowania (ćwiczenia)
+UID:89480fae-4fe3-42f5-aa19-d7bffb39236c@8948.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241205T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241205T173000Z
+SUMMARY:Projekty IT (ćwiczenia)
+UID:fa76446a-f947-4a05-99d7-93c8fc7fd0cd@fa76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20241009T124500Z
+LOCATION:link do zajęć
+DTSTART:20241009T111500Z
+SUMMARY:Projekty IT (wykład)
+UID:6a64fac9-08d0-4c0c-b096-ee8572f72553@6a64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241021T180000Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241021T163000Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:fd79f970-978d-4c4a-bff2-83d35133bef7@fd79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:a3f01fa4-87cb-427e-81f5-ca05a25f460e@a3f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241125T190000Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241125T173000Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:80524b13-faa5-427d-b748-c6bcb18c6c75@8052.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241024T161500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241024T144500Z
+SUMMARY:Inżynieria oprogramowania (ćwiczenia)
+UID:b9ec892c-975d-4e3f-807f-2cc3c72c5a52@b9ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241217T171500Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241217T154500Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:b22b779e-aa0b-48fa-b454-abe4f5e3c553@b22b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250121T171500Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20250121T154500Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:503fc342-19bf-44c7-b0fc-198b62e5d35b@503f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20250107T101500Z
+LOCATION:link do zajęć
+DTSTART:20250107T084500Z
+SUMMARY:Inżynieria oprogramowania (wykład)
+UID:f0abbb4c-91f6-4c50-9b6a-1212a785b0cd@f0ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20241120T134500Z
+LOCATION:link do zajęć
+DTSTART:20241120T121500Z
+SUMMARY:Projekty IT (wykład)
+UID:4547ec86-f160-47df-91be-c9f33c922015@4547.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241014T180000Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241014T163000Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:7b9d3097-e3e9-4fa9-8253-5e54c35ab877@7b9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241015T091500Z
+LOCATION:link do zajęć
+DTSTART:20241015T074500Z
+SUMMARY:Inżynieria oprogramowania (wykład)
+UID:b3a5fb59-50f0-4ee3-94a5-ca6a7d10eb78@b3a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241017T180000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241017T163000Z
+SUMMARY:Projekty IT (ćwiczenia)
+UID:c65ff8ae-4f62-453f-a2b9-79d6d2287ba5@c65f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241202T190000Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241202T173000Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:abb396b3-5a32-4e50-ab26-f6583c3ad298@abb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
+DTEND:20241009T143000Z
+LOCATION:link do zajęć
+DTSTART:20241009T130000Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (wykład)
+UID:04bd44c0-c5bb-4f0d-9f27-098bef434f89@04bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241219T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241219T173000Z
+SUMMARY:Projekty IT (ćwiczenia)
+UID:b20d07da-0c08-457a-bb24-a08c8af5d273@b20d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250108T190000Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20250108T173000Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:4e3102cf-d532-4db5-a854-f3caf6ec3422@4e31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20250114T101500Z
+LOCATION:link do zajęć
+DTSTART:20250114T084500Z
+SUMMARY:Inżynieria oprogramowania (wykład)
+UID:4ef2259b-1a4e-4424-ad32-e01c85c8039b@4ef2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Daria Wójcik
+DTEND:20241205T153000Z
+LOCATION:Bud.gł. 4
+DTSTART:20241205T140000Z
+SUMMARY:Socjologia (ćwiczenia)
+UID:2e62c704-dbbf-43d2-b69d-0cfe6023416c@2e62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241126T101500Z
+LOCATION:link do zajęć
+DTSTART:20241126T084500Z
+SUMMARY:Inżynieria oprogramowania (wykład)
+UID:1bac6742-24b2-4c5a-89b7-fe91e131b6b7@1bac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241007T180000Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241007T163000Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:3466ffe4-2f97-4a44-8f0a-860fa3e5b6d1@3466.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
+DTEND:20250122T153000Z
+LOCATION:link do zajęć
+DTSTART:20250122T140000Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (wykład)
+UID:6bd57f40-648d-44fa-ae14-9f54d3e1fdb5@6bd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20250122T134500Z
+LOCATION:link do zajęć
+DTSTART:20250122T121500Z
+SUMMARY:Projekty IT (wykład)
+UID:c0be4ce9-b272-4bf4-9469-0f43845971aa@c0be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Thier
+DTEND:20241202T153000Z
+LOCATION:Paw.F 109
+DTSTART:20241202T140000Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (ćwiczenia)
+UID:84707a1b-5a19-4fae-a089-0f97bf19f321@8470.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241120T190000Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241120T173000Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:2e0954be-1271-4226-a983-3d2ec890c5e4@2e09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
+DTEND:20241016T143000Z
+LOCATION:link do zajęć
+DTSTART:20241016T130000Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (wykład)
+UID:a81ea15c-9dca-46ee-b576-361d718dd00a@a81e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241204T190000Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241204T173000Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:4cc62fc0-49a4-4c5b-ac05-3c6f78a7bdee@4cc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Thier
+DTEND:20250113T153000Z
+LOCATION:Paw.F 109
+DTSTART:20250113T140000Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (ćwiczenia)
+UID:a2b3fb69-425a-4990-a7a8-171e4a60f99a@a2b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250107T171500Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20250107T154500Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:80848f59-d037-4147-9ec6-58e2f502177a@8084.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241205T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241205T154500Z
+SUMMARY:Inżynieria oprogramowania (ćwiczenia)
+UID:2017c394-7e86-4d33-b7a6-9cfad7af774b@2017.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241219T171500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241219T154500Z
+SUMMARY:Inżynieria oprogramowania (ćwiczenia)
+UID:0d0dfc65-be45-485a-ae44-72ce3bc4342d@0d0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20241030T134500Z
+LOCATION:link do zajęć
+DTSTART:20241030T121500Z
+SUMMARY:Projekty IT (wykład)
+UID:91d92e02-d6c4-4a27-a2a1-ef65f8d2f24a@91d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20250107T083000Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20250107T070000Z
+SUMMARY:Inżynieria oprogramowania (ćwiczenia)
+UID:6033da14-4665-441f-98d6-ba4092affd46@6033.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
+DTEND:20241023T143000Z
+LOCATION:link do zajęć
+DTSTART:20241023T130000Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (wykład)
+UID:f05bdadc-f4b9-44ed-9cc2-ec7c9087f25a@f05b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20250123T171500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20250123T154500Z
+SUMMARY:Inżynieria oprogramowania (ćwiczenia)
+UID:c5de16a3-7391-453b-a132-2a6def796a38@c5de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241203T101500Z
+LOCATION:link do zajęć
+DTSTART:20241203T084500Z
+SUMMARY:Inżynieria oprogramowania (wykład)
+UID:4aa4e206-ba0e-4c2b-82e4-f4736f662391@4aa4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Daria Wójcik
+DTEND:20250116T153000Z
+LOCATION:Bud.gł. 4
+DTSTART:20250116T140000Z
+SUMMARY:Socjologia (ćwiczenia)
+UID:0bb46529-81bf-4663-8511-1bf1687b0fc8@0bb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241107T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241107T173000Z
+SUMMARY:Projekty IT (ćwiczenia)
+UID:d2d7b18b-a9c9-4e71-a236-f01883774edb@d2d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241216T190000Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241216T173000Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:ed8b72d0-f688-4300-a48d-05fdabb22e56@ed8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
+DTEND:20241204T153000Z
+LOCATION:link do zajęć
+DTSTART:20241204T140000Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (wykład)
+UID:6a096df3-ea16-48e6-85f9-541db8795823@6a09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20250115T134500Z
+LOCATION:link do zajęć
+DTSTART:20250115T121500Z
+SUMMARY:Projekty IT (wykład)
+UID:4d8cc71c-e6c1-4cbb-b2d2-fda933ff904c@4d8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20241204T134500Z
+LOCATION:link do zajęć
+DTSTART:20241204T121500Z
+SUMMARY:Projekty IT (wykład)
+UID:d822ca9d-3915-4f55-8eae-27df9421e84d@d822.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
+DTEND:20241106T153000Z
+LOCATION:link do zajęć
+DTSTART:20241106T140000Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (wykład)
+UID:e914ea07-cf0e-45e4-9721-72209fd3c264@e914.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241022T161500Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241022T144500Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:3be5df81-c7d0-4da9-ad33-0f0e416916b5@3be5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241112T101500Z
+LOCATION:link do zajęć
+DTSTART:20241112T084500Z
+SUMMARY:Inżynieria oprogramowania (wykład)
+UID:09c46c75-755f-4fe8-be80-e51bf579f90d@09c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241030T190000Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241030T173000Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:757f7e74-66a2-47f1-be64-8e4a72f054fe@757f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Daria Wójcik
+DTEND:20241121T153000Z
+LOCATION:Bud.gł. 4
+DTSTART:20241121T140000Z
+SUMMARY:Socjologia (ćwiczenia)
+UID:2882c388-4a9e-4138-89d3-baa9d8f92fd8@2882.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250120T190000Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20250120T173000Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:112f3064-a1dd-4cea-bd01-929bb7978913@112f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241010T180000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241010T163000Z
+SUMMARY:Projekty IT (ćwiczenia)
+UID:ee0c9c08-6a0f-46f5-9686-316bd89d10f9@ee0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
+DTEND:20241030T153000Z
+LOCATION:link do zajęć
+DTSTART:20241030T140000Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (wykład)
+UID:f48a9b47-2594-45ca-882b-1887456cfad7@f48a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Thier
+DTEND:20241028T134500Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20241028T121500Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (ćwiczenia)
+UID:2c059378-1e68-4f49-9dd5-ab1f3641d7d8@2c05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241112T171500Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241112T154500Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:f1ef1fd1-572f-4b34-93b1-c7202f942699@f1ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241128T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241128T173000Z
+SUMMARY:Projekty IT (ćwiczenia)
+UID:34c41c8c-b628-4fe0-af4d-60ee5239d79a@34c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241008T091500Z
+LOCATION:link do zajęć
+DTSTART:20241008T074500Z
+SUMMARY:Inżynieria oprogramowania (wykład)
+UID:fdaeb83f-b0c7-4de7-b421-dd2fabd8178f@fdae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20241218T134500Z
+LOCATION:link do zajęć
+DTSTART:20241218T121500Z
+SUMMARY:Projekty IT (wykład)
+UID:e13ba8ac-0de7-4d22-a12a-cc7ac1540c25@e13b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241031T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241031T173000Z
+SUMMARY:Projekty IT (ćwiczenia)
+UID:cd8dd5d9-c222-46fe-a54a-a8e6a0a3caca@cd8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241017T161500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241017T144500Z
+SUMMARY:Inżynieria oprogramowania (ćwiczenia)
+UID:0424dc71-19de-4cfc-84b7-e9fed2d7c7bf@0424.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Thier
+DTEND:20241028T153000Z
+LOCATION:Paw.F 109
+DTSTART:20241028T140000Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (ćwiczenia)
+UID:2acbd819-e853-4809-861a-4e9c3465546b@2acb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241113T190000Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241113T173000Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:96eb0fd1-fa72-4bfe-822f-8096ee825ec8@96eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241210T171500Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241210T154500Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:25e05186-ed2f-4d6b-bcf3-1236d433235c@25e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241105T101500Z
+LOCATION:link do zajęć
+DTSTART:20241105T084500Z
+SUMMARY:Inżynieria oprogramowania (wykład)
+UID:ce445043-3539-458d-b4aa-2f4942450345@ce44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241008T161500Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241008T144500Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:53e5bc21-430b-4a74-8227-d8d8e51cca6f@53e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241212T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241212T173000Z
+SUMMARY:Projekty IT (ćwiczenia)
+UID:f27ed821-a24b-42fb-b0b6-0ea72141024a@f27e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250114T171500Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20250114T154500Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:660dc204-d758-4529-aae3-5c541553cd69@660d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20250121T120000Z
+LOCATION:link do zajęć
+DTSTART:20250121T103000Z
+SUMMARY:Inżynieria oprogramowania (wykład)
+UID:becb8215-23b3-43ca-b514-4b67451afa2f@becb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241022T091500Z
+LOCATION:link do zajęć
+DTSTART:20241022T074500Z
+SUMMARY:Inżynieria oprogramowania (wykład)
+UID:835de3e9-a312-4e49-9801-f2901a85ab75@835d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241029T171500Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241029T154500Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:48de7bd5-58f4-49f2-bfa6-92c8d4ec3d3b@48de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
+DTEND:20241218T153000Z
+LOCATION:link do zajęć
+DTSTART:20241218T140000Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (wykład)
+UID:ee20c418-b28d-4447-8007-f5e762a528ed@ee20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
+DTEND:20241113T153000Z
+LOCATION:link do zajęć
+DTSTART:20241113T140000Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (wykład)
+UID:afb50c65-c642-4168-b2a3-e7d872b7f22d@afb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241121T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241121T173000Z
+SUMMARY:Projekty IT (ćwiczenia)
+UID:396fd4f2-10df-48df-bed4-bd3d62e5829f@396f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Thier
+DTEND:20241104T153000Z
+LOCATION:Paw.F 109
+DTSTART:20241104T140000Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (ćwiczenia)
+UID:75c0e023-575d-4d0f-b5e5-49d229e0e566@75c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20250122T120000Z
+LOCATION:link do zajęć
+DTSTART:20250122T103000Z
+SUMMARY:Projekty IT (wykład)
+UID:e664c0d9-2515-4b6d-bb2d-6ee17ef759fc@e664.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
+DTEND:20250115T153000Z
+LOCATION:link do zajęć
+DTSTART:20250115T140000Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (wykład)
+UID:0965fabc-30e3-4c64-bc37-aea3c47579e4@0965.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241031T171500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241031T154500Z
+SUMMARY:Inżynieria oprogramowania (ćwiczenia)
+UID:86f25ddb-023b-4182-b10b-1fe43ae11108@86f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Thier
+DTEND:20241209T153000Z
+LOCATION:Paw.F 109
+DTSTART:20241209T140000Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (ćwiczenia)
+UID:9d474a20-3fa9-49ed-8e02-036c9be3d3df@9d47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:afb5cef4-35ce-495f-b963-4ed1e1e06a83@afb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20241113T134500Z
+LOCATION:link do zajęć
+DTSTART:20241113T121500Z
+SUMMARY:Projekty IT (wykład)
+UID:c0727264-8346-49cc-b408-ff6d503e8e23@c072.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Daria Wójcik
+DTEND:20241024T143000Z
+LOCATION:Bud.gł. 4
+DTSTART:20241024T130000Z
+SUMMARY:Socjologia (ćwiczenia)
+UID:cfe9e115-5472-4929-87ed-e9d2b1973df5@cfe9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Thier
+DTEND:20241007T143000Z
+LOCATION:Paw.F 109
+DTSTART:20241007T130000Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (ćwiczenia)
+UID:cef0bdf0-95f5-41e1-ac74-54805379a10d@cef0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20250115T190000Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20250115T173000Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:10c3a8ce-f8c9-4eda-9323-d6ccf8b88770@10c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241010T161500Z
+LOCATION:Paw.A 301a lab.Win10\, Office21
+DTSTART:20241010T144500Z
+SUMMARY:Inżynieria oprogramowania (ćwiczenia)
+UID:e486e214-ec61-4f98-b421-770ca533f749@e486.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241024T180000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241024T163000Z
+SUMMARY:Projekty IT (ćwiczenia)
+UID:1619a941-b0ba-4504-b2f9-8433e5667017@1619.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241114T171500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241114T154500Z
+SUMMARY:Inżynieria oprogramowania (ćwiczenia)
+UID:f10d88a7-1607-4905-8f9b-d86d28190746@f10d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Barbara Siuta-Tokarska
+DTEND:20241211T153000Z
+LOCATION:link do zajęć
+DTSTART:20241211T140000Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (wykład)
+UID:05d71873-db61-44e6-8eb5-8a12608e1c37@05d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241028T190000Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241028T173000Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:9bd9a28f-2d8a-4374-8ab7-c0f1658bccc7@9bd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Daria Wójcik
+DTEND:20250124T144500Z
+LOCATION:Paw.F 415
+DTSTART:20250124T140000Z
+SUMMARY:Socjologia (ćwiczenia)
+UID:6b986522-a4b5-4b38-bb52-b4a4e7b1e4cf@6b98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Agnieszka Thier
+DTEND:20241118T134500Z
+LOCATION:Rakowicka 16 sala -103
+DTSTART:20241118T121500Z
+SUMMARY:Ekonomika i zarządzanie przedsiębiorstwem (ćwiczenia)
+UID:f553a1e1-d824-4ed3-9b73-8f29a16430f0@f553.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Daria Wójcik
+DTEND:20241010T143000Z
+LOCATION:Bud.gł. 4
+DTSTART:20241010T130000Z
+SUMMARY:Socjologia (ćwiczenia)
+UID:d17f2f89-4e46-40f5-9432-fc711336d52c@d17f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20241106T134500Z
+LOCATION:link do zajęć
+DTSTART:20241106T121500Z
+SUMMARY:Projekty IT (wykład)
+UID:a1f5e576-5efb-4056-8932-9f67bee0ac1a@a1f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241203T171500Z
+LOCATION:Wybierz swoją grupę językową
+DTSTART:20241203T154500Z
+SUMMARY:Język obcy  - grupa przedmiotów (lektorat)
+UID:770076e1-832b-406f-b856-abc3f459a94b@7700.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241114T190000Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20241114T173000Z
+SUMMARY:Projekty IT (ćwiczenia)
+UID:b120165a-454c-4132-9ede-c5cf242bc75e@b120.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Wit Urban
+DTEND:20241119T101500Z
+LOCATION:link do zajęć
+DTSTART:20241119T084500Z
+SUMMARY:Inżynieria oprogramowania (wykład)
+UID:15f50183-16de-4461-a0ee-4f521e75e420@15f5.org
+END:VEVENT
+END:VCALENDAR

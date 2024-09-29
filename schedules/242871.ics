@@ -1,0 +1,730 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241028T134500Z
+LOCATION:Paw.F 515
+DTSTART:20241028T121500Z
+SUMMARY:Metody zarządzania produktem (ćwiczenia)
+UID:efa2d228-7e92-4c08-84ff-1f0b6ee43f3e@efa2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20241105T083000Z
+LOCATION:link do zajęć
+DTSTART:20241105T070000Z
+SUMMARY:Metody zarządzania produktem (wykład)
+UID:b9205ee9-0069-4d5c-98db-7dca47ee280c@b920.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250120T083000Z
+LOCATION:Paw.U sala O
+DTSTART:20250120T074500Z
+SUMMARY:Segmentacja rynku i pozycjonowanie produktu (ćwiczenia)
+UID:395a102a-29ea-4c31-893b-44e48dd5b289@395a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241205T153000Z
+LOCATION:L 525 Ustr.
+DTSTART:20241205T140000Z
+SUMMARY:Metody badań marketingowych (konwersatorium)
+UID:4dee4355-8e96-4cb8-b163-5da1863eb52d@4dee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak
+DTEND:20241218T161500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241218T144500Z
+SUMMARY:Analiza informacji o produkcie (konwersatorium)
+UID:7ba2bc0c-8938-47ca-b301-c222f9d6b9af@7ba2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała  dr inż. Gabriela Zielińska
+DTEND:20241105T101500Z
+LOCATION:link do zajęć
+DTSTART:20241105T084500Z
+SUMMARY:Innowacyjność w rozwoju produktów (wykład)
+UID:c99e842c-f60d-4817-b0e9-a2df38d81495@c99e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241021T124500Z
+LOCATION:Paw.F 515
+DTSTART:20241021T111500Z
+SUMMARY:Metody zarządzania produktem (ćwiczenia)
+UID:de856c2d-44e3-4b26-8e7f-3836f0bae661@de85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20250123T153000Z
+LOCATION:L 525 Ustr.
+DTSTART:20250123T144500Z
+SUMMARY:Metody badań marketingowych (konwersatorium)
+UID:74727a17-f1de-4ca2-a2fc-8d6e34468e60@7472.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała  dr inż. Gabriela Zielińska
+DTEND:20241029T101500Z
+LOCATION:link do zajęć
+DTSTART:20241029T084500Z
+SUMMARY:Innowacyjność w rozwoju produktów (wykład)
+UID:76269267-a7be-48aa-bd91-7fcd2dc985b6@7626.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20250115T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20250115T084500Z
+SUMMARY:Metody zarządzania produktem (ćwiczenia)
+UID:f037a26e-1fb8-440c-bfa6-e63f7e405a71@f037.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20250123T171500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250123T154500Z
+SUMMARY:Innowacyjność w rozwoju produktów (ćwiczenia)
+UID:d200ea95-7fef-4aed-a871-fc81269e6913@d200.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak
+DTEND:20241204T161500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241204T144500Z
+SUMMARY:Analiza informacji o produkcie (konwersatorium)
+UID:9387e530-2f01-43ed-99dd-d1a79e41eb49@9387.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20241023T073000Z
+LOCATION:Paw.U sala O
+DTSTART:20241023T060000Z
+SUMMARY:Segmentacja rynku i pozycjonowanie produktu (ćwiczenia)
+UID:dc29f55f-c003-4d6f-ae04-ca9ea3f39852@dc29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241029T134500Z
+LOCATION:link do zajęć
+DTSTART:20241029T121500Z
+SUMMARY:Segmentacja rynku i pozycjonowanie produktu (wykład)
+UID:5b7a9c9e-84d9-4d5c-bcf1-8b50ebae4175@5b7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:06143f27-2406-43cd-a68e-f92ffa601ebf@0614.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała  dr inż. Gabriela Zielińska
+DTEND:20241008T091500Z
+LOCATION:link do zajęć
+DTSTART:20241008T074500Z
+SUMMARY:Innowacyjność w rozwoju produktów (wykład)
+UID:9525eedd-e90f-4707-a77e-9cf598c30dda@9525.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241015T110000Z
+LOCATION:link do zajęć
+DTSTART:20241015T093000Z
+SUMMARY:Segmentacja rynku i pozycjonowanie produktu (wykład)
+UID:32f0fd61-91bd-4012-8afe-4d5a654839f5@32f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak
+DTEND:20250108T161500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20250108T144500Z
+SUMMARY:Analiza informacji o produkcie (konwersatorium)
+UID:207afdb5-1463-4c97-ad41-311f30683660@207a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:33f6cfea-82ed-48b8-a4cd-0809fd15881b@33f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20241202T134500Z
+LOCATION:Paw.F 515
+DTSTART:20241202T121500Z
+SUMMARY:Metody zarządzania produktem (ćwiczenia)
+UID:66ee4e72-ba59-43fe-9ac2-945312c54983@66ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20250116T171500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250116T154500Z
+SUMMARY:Innowacyjność w rozwoju produktów (ćwiczenia)
+UID:8e3e0e78-fa65-49ca-97d2-7616c89a7415@8e3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20241212T171500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241212T154500Z
+SUMMARY:Innowacyjność w rozwoju produktów (ćwiczenia)
+UID:5a59b7bb-1683-4ca7-b7e2-f1193cd77c6f@5a59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20250120T134500Z
+LOCATION:Paw.F 515
+DTSTART:20250120T121500Z
+SUMMARY:Metody zarządzania produktem (ćwiczenia)
+UID:8ac79f2d-459f-4ce3-8712-9bec61c1a04f@8ac7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20250113T161500Z
+LOCATION:Paw.U sala K
+DTSTART:20250113T140000Z
+SUMMARY:Metody zarządzania produktem (ćwiczenia)
+UID:2efc840c-ae6e-4bd0-8d97-b860415e6085@2efc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241008T073000Z
+LOCATION:link do zajęć
+DTSTART:20241008T060000Z
+SUMMARY:Metody zarządzania produktem (wykład)
+UID:c4c6c6ed-8f64-4921-9583-43ea464f7c4e@c4c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20241106T134500Z
+LOCATION:Bibl. 443
+DTSTART:20241106T121500Z
+SUMMARY:Produkt zrównoważony (konwersatorium)
+UID:1b25c74d-32cb-42b0-853c-d4b199870246@1b25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20250116T153000Z
+LOCATION:L 525 Ustr.
+DTSTART:20250116T140000Z
+SUMMARY:Metody badań marketingowych (konwersatorium)
+UID:6f7c3399-abc8-4b41-a9e6-8c53868fcda8@6f7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20241024T161500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241024T144500Z
+SUMMARY:Innowacyjność w rozwoju produktów (ćwiczenia)
+UID:13ac7550-94e5-456f-b9eb-e92edcb3bffd@13ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak
+DTEND:20241211T161500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241211T144500Z
+SUMMARY:Analiza informacji o produkcie (konwersatorium)
+UID:0ab1a480-91cc-4c32-93ac-4886af70a7ea@0ab1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20241106T083000Z
+LOCATION:Paw.U sala O
+DTSTART:20241106T070000Z
+SUMMARY:Segmentacja rynku i pozycjonowanie produktu (ćwiczenia)
+UID:5695b710-2f97-4d98-804e-a6866bb95310@5695.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20241216T161500Z
+LOCATION:Paw.U sala K
+DTSTART:20241216T140000Z
+SUMMARY:Metody zarządzania produktem (ćwiczenia)
+UID:743e1838-0587-4a43-8fbe-0bdcc8df1ca6@743e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241022T073000Z
+LOCATION:link do zajęć
+DTSTART:20241022T060000Z
+SUMMARY:Metody zarządzania produktem (wykład)
+UID:64cae658-a94c-48b4-ad58-0b75a2ec7a3e@64ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Bartak
+DTEND:20241219T153000Z
+LOCATION:L 525 Ustr.
+DTSTART:20241219T140000Z
+SUMMARY:Metody badań marketingowych (konwersatorium)
+UID:faeffe44-60a1-4b79-b2c4-235f5a429109@faef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20250123T190000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250123T173000Z
+SUMMARY:Innowacyjność w rozwoju produktów (ćwiczenia)
+UID:946ef0e2-e841-4aac-a59e-6b2ccd734366@946e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241104T134500Z
+LOCATION:Paw.F 515
+DTSTART:20241104T121500Z
+SUMMARY:Metody zarządzania produktem (ćwiczenia)
+UID:d0a0327d-0372-4aa3-885f-ca12806af8aa@d0a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241022T124500Z
+LOCATION:link do zajęć
+DTSTART:20241022T111500Z
+SUMMARY:Segmentacja rynku i pozycjonowanie produktu (wykład)
+UID:f683645d-fc9c-4760-b195-f3e08b0b2c16@f683.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20241031T171500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241031T154500Z
+SUMMARY:Innowacyjność w rozwoju produktów (ćwiczenia)
+UID:01692d40-7b38-45e7-862a-e10660201f2c@0169.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20241106T110000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241106T093000Z
+SUMMARY:Analiza informacji o produkcie (konwersatorium)
+UID:1895f366-6eb4-44f5-893f-7c0ac674744b@1895.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20241118T134500Z
+LOCATION:Paw.F 515
+DTSTART:20241118T121500Z
+SUMMARY:Metody zarządzania produktem (ćwiczenia)
+UID:2c967d5c-dd62-44d8-bde7-a8d4179bc59d@2c96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20241030T110000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241030T093000Z
+SUMMARY:Analiza informacji o produkcie (konwersatorium)
+UID:f1b1026e-ec1c-4685-aa4f-d3f898d029fb@f1b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20250124T134500Z
+LOCATION:L 525 Ustr.
+DTSTART:20250124T121500Z
+SUMMARY:Metody badań marketingowych (konwersatorium)
+UID:0ce3fac5-3b49-4ab9-82a9-cf63e578b380@0ce3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała  dr inż. Gabriela Zielińska
+DTEND:20241112T101500Z
+LOCATION:link do zajęć
+DTSTART:20241112T084500Z
+SUMMARY:Innowacyjność w rozwoju produktów (wykład)
+UID:96c5239d-dd9e-462e-abb2-11e2f34cf76f@96c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20241023T124500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241023T111500Z
+SUMMARY:Produkt zrównoważony (konwersatorium)
+UID:1b22b0c8-4c5b-4364-8864-ccbea941311d@1b22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20241120T083000Z
+LOCATION:Paw.U sala O
+DTSTART:20241120T070000Z
+SUMMARY:Segmentacja rynku i pozycjonowanie produktu (ćwiczenia)
+UID:e621609c-48a6-4799-b4b1-655717a875fa@e621.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20250113T134500Z
+LOCATION:Paw.F 515
+DTSTART:20250113T121500Z
+SUMMARY:Metody zarządzania produktem (ćwiczenia)
+UID:97d105f6-12b5-415a-947c-33cd4b5c37b6@97d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20241009T073000Z
+LOCATION:Paw.U sala O
+DTSTART:20241009T060000Z
+SUMMARY:Segmentacja rynku i pozycjonowanie produktu (ćwiczenia)
+UID:cf44e04a-20c4-47d7-b5c1-0c18a3146e87@cf44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241024T143000Z
+LOCATION:L 525 Ustr.
+DTSTART:20241024T130000Z
+SUMMARY:Metody badań marketingowych (konwersatorium)
+UID:02b77ed4-8eb0-4009-982a-2167a0cc562a@02b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20250109T171500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20250109T154500Z
+SUMMARY:Innowacyjność w rozwoju produktów (ćwiczenia)
+UID:60c1fb9c-512c-4efd-bc6b-0a300aed8b81@60c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241015T073000Z
+LOCATION:link do zajęć
+DTSTART:20241015T060000Z
+SUMMARY:Metody zarządzania produktem (wykład)
+UID:5d23d4af-e001-4838-b84b-25b3f0753b92@5d23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20241203T114500Z
+LOCATION:link do zajęć
+DTSTART:20241203T093000Z
+SUMMARY:Metody zarządzania produktem (wykład)
+UID:1fa0d4c5-60e7-4260-a853-129c5f0e2a73@1fa0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała  dr inż. Gabriela Zielińska
+DTEND:20241015T091500Z
+LOCATION:link do zajęć
+DTSTART:20241015T074500Z
+SUMMARY:Innowacyjność w rozwoju produktów (wykład)
+UID:246c5f0f-f20d-4f3f-a8c3-363e3eadeac7@246c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20241023T100000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241023T083000Z
+SUMMARY:Analiza informacji o produkcie (konwersatorium)
+UID:1d3b83f0-6d26-4f09-83fa-5066b892bf09@1d3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała  dr inż. Gabriela Zielińska
+DTEND:20241022T091500Z
+LOCATION:link do zajęć
+DTSTART:20241022T074500Z
+SUMMARY:Innowacyjność w rozwoju produktów (wykład)
+UID:8f34a0ae-be2f-4889-9eeb-27cf0d05c598@8f34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20250123T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20250123T084500Z
+SUMMARY:Metody zarządzania produktem (ćwiczenia)
+UID:f108adf6-3ccc-4a46-95e8-199ee0b46ba3@f108.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20241016T100000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241016T083000Z
+SUMMARY:Analiza informacji o produkcie (konwersatorium)
+UID:84449ddf-04cd-46dc-9e26-4aa87e6ee768@8444.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241107T153000Z
+LOCATION:L 525 Ustr.
+DTSTART:20241107T140000Z
+SUMMARY:Metody badań marketingowych (konwersatorium)
+UID:e1c89f40-fd84-4015-b446-952001e127cc@e1c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20241120T134500Z
+LOCATION:Bibl. 443
+DTSTART:20241120T121500Z
+SUMMARY:Produkt zrównoważony (konwersatorium)
+UID:4d654520-1adb-4053-9af6-f72ef3e09fc0@4d65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20241209T134500Z
+LOCATION:Paw.F 515
+DTSTART:20241209T121500Z
+SUMMARY:Metody zarządzania produktem (ćwiczenia)
+UID:6c07471f-fcf2-4ac2-a4d2-4b0db7bdc96b@6c07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała  dr inż. Gabriela Zielińska
+DTEND:20241126T093000Z
+LOCATION:link do zajęć
+DTSTART:20241126T084500Z
+SUMMARY:Innowacyjność w rozwoju produktów (wykład)
+UID:f8eb2e58-fb7c-41c2-a93e-5e44cbfcc539@f8eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241008T110000Z
+LOCATION:link do zajęć
+DTSTART:20241008T093000Z
+SUMMARY:Segmentacja rynku i pozycjonowanie produktu (wykład)
+UID:ac812cee-a00c-4bf1-848d-ea417756b36e@ac81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241010T143000Z
+LOCATION:L 525 Ustr.
+DTSTART:20241010T130000Z
+SUMMARY:Metody badań marketingowych (konwersatorium)
+UID:a4684526-3b83-4c66-a087-596df9616dcf@a468.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20241205T171500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241205T154500Z
+SUMMARY:Innowacyjność w rozwoju produktów (ćwiczenia)
+UID:79300e51-cb99-4f92-b30f-ae60f77f8938@7930.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20250108T101500Z
+LOCATION:Paw.S sala 11
+DTSTART:20250108T084500Z
+SUMMARY:Produkt zrównoważony (konwersatorium)
+UID:2208525f-f736-4ff4-a87f-89af70323853@2208.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak
+DTEND:20250115T161500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20250115T144500Z
+SUMMARY:Analiza informacji o produkcie (konwersatorium)
+UID:d65707be-9285-438a-bfca-335418a90ee5@d657.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20241009T120000Z
+LOCATION:Bibl. 443
+DTSTART:20241009T111500Z
+SUMMARY:Produkt zrównoważony (konwersatorium)
+UID:93d7f3e9-7262-4e53-b1af-610982c19dbc@93d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20241017T161500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241017T144500Z
+SUMMARY:Innowacyjność w rozwoju produktów (ćwiczenia)
+UID:e25335a4-2ded-466e-b887-17d9571fba53@e253.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241105T124500Z
+LOCATION:link do zajęć
+DTSTART:20241105T103000Z
+SUMMARY:Segmentacja rynku i pozycjonowanie produktu (wykład)
+UID:54ae965f-b58f-41e1-9e1e-17f87d24363c@54ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20241016T124500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241016T111500Z
+SUMMARY:Produkt zrównoważony (konwersatorium)
+UID:8a422d72-0599-48a1-ba44-48b9cceb1d4a@8a42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Dziadkowiec
+DTEND:20241126T110000Z
+LOCATION:link do zajęć
+DTSTART:20241126T093000Z
+SUMMARY:Metody zarządzania produktem (wykład)
+UID:fdd0a508-fdd3-47e9-aec6-8e3bf6a24eca@fdd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak
+DTEND:20250122T170000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20250122T144500Z
+SUMMARY:Analiza informacji o produkcie (konwersatorium)
+UID:3898c471-9c6b-4e0c-9f5a-bf8aab5ffbe9@3898.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20241107T171500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241107T154500Z
+SUMMARY:Innowacyjność w rozwoju produktów (ćwiczenia)
+UID:75fb3fa3-5b00-4f93-82ef-b04afb7c4a49@75fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20241127T101500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241127T084500Z
+SUMMARY:Produkt zrównoważony (konwersatorium)
+UID:f284920c-2794-4dc2-949e-b694cc8006e4@f284.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20241009T100000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241009T083000Z
+SUMMARY:Analiza informacji o produkcie (konwersatorium)
+UID:ef5edd5a-c4df-49b9-9930-e60a2bd4f68e@ef5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Artur Wolak
+DTEND:20241127T161500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241127T144500Z
+SUMMARY:Analiza informacji o produkcie (konwersatorium)
+UID:1161c19a-5007-4976-8a3f-f9387e508f7a@1161.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241029T120000Z
+LOCATION:link do zajęć
+DTSTART:20241029T103000Z
+SUMMARY:Segmentacja rynku i pozycjonowanie produktu (wykład)
+UID:87cc51e7-c4bd-4b82-ac54-f9ca6cc1e9c2@87cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20241216T134500Z
+LOCATION:Paw.F 515
+DTSTART:20241216T121500Z
+SUMMARY:Metody zarządzania produktem (ćwiczenia)
+UID:2d0d7e79-32f4-42e4-bdfa-e1aa8e238d4d@2d0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marcin Rychwalski
+DTEND:20241211T101500Z
+LOCATION:Paw.S sala 11
+DTSTART:20241211T084500Z
+SUMMARY:Produkt zrównoważony (konwersatorium)
+UID:0f819f4c-59c0-4f83-8ade-4575e6633ad4@0f81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250115T083000Z
+LOCATION:Paw.U sala O
+DTSTART:20250115T070000Z
+SUMMARY:Segmentacja rynku i pozycjonowanie produktu (ćwiczenia)
+UID:d551a3bf-06dd-4e5b-9a5e-bfa43c499451@d551.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241022T110000Z
+LOCATION:link do zajęć
+DTSTART:20241022T093000Z
+SUMMARY:Segmentacja rynku i pozycjonowanie produktu (wykład)
+UID:20230804-3443-48cc-b934-492ace409811@2023.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20241204T083000Z
+LOCATION:Paw.U sala O
+DTSTART:20241204T070000Z
+SUMMARY:Segmentacja rynku i pozycjonowanie produktu (ćwiczenia)
+UID:3b8a3920-6ea4-463c-a708-8527d1f7b44b@3b8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20241113T110000Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241113T093000Z
+SUMMARY:Analiza informacji o produkcie (konwersatorium)
+UID:265b5905-bfcc-4a96-b4a3-b9a98891fce8@265b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Magdalena Niewczas-Dobrowolska
+DTEND:20241029T083000Z
+LOCATION:link do zajęć
+DTSTART:20241029T070000Z
+SUMMARY:Metody zarządzania produktem (wykład)
+UID:996976c9-0cba-4482-88e4-aa0117cff7e1@9969.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20241010T161500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241010T144500Z
+SUMMARY:Innowacyjność w rozwoju produktów (ćwiczenia)
+UID:fe23dfc6-4bb7-45d9-8d24-151f0106a987@fe23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20241114T171500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241114T154500Z
+SUMMARY:Innowacyjność w rozwoju produktów (ćwiczenia)
+UID:d17398d2-636e-4c0a-9d11-eff0023257de@d173.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20241128T171500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241128T154500Z
+SUMMARY:Innowacyjność w rozwoju produktów (ćwiczenia)
+UID:5e7c8efd-dfbf-4b63-a016-1b90f2446caf@5e7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Michał Halagarda
+DTEND:20241121T124500Z
+LOCATION:Sienk. 4 sala audio
+DTSTART:20241121T103000Z
+SUMMARY:Analiza informacji o produkcie (konwersatorium)
+UID:1aaf8f42-9ea0-4d09-98a1-58092fe72f71@1aaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała  dr inż. Gabriela Zielińska
+DTEND:20241119T101500Z
+LOCATION:link do zajęć
+DTSTART:20241119T084500Z
+SUMMARY:Innowacyjność w rozwoju produktów (wykład)
+UID:3805595d-b1c2-4b56-9101-e77590b830f8@3805.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20241121T171500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241121T154500Z
+SUMMARY:Innowacyjność w rozwoju produktów (ćwiczenia)
+UID:fd2da8e2-85d5-4db0-8fd0-5f8cea34bd0b@fd2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Magdalena Szumiło-Kulczycka
+DTEND:20241125T134500Z
+LOCATION:Paw.F 515
+DTSTART:20241125T121500Z
+SUMMARY:Metody zarządzania produktem (ćwiczenia)
+UID:e1cbc88f-75b9-4b7c-908d-a1128f7edf5d@e1cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Grzegorz Suwała
+DTEND:20241219T171500Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241219T154500Z
+SUMMARY:Innowacyjność w rozwoju produktów (ćwiczenia)
+UID:7c9065c8-10b3-4757-8cb3-674efe914433@7c90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20241218T083000Z
+LOCATION:Paw.U sala O
+DTSTART:20241218T070000Z
+SUMMARY:Segmentacja rynku i pozycjonowanie produktu (ćwiczenia)
+UID:44307752-d923-4f44-9fda-caf16cbbd36a@4430.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,594 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jarosław Świda
+DTEND:20241023T124500Z
+LOCATION:link do zajęć
+DTSTART:20241023T111500Z
+SUMMARY:Trendy i innowacje we współczesnej logistyce (wykład do wyboru)
+UID:8963408f-8170-4024-b4f1-5f7e861a2ce5@8963.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Anna Gacek
+DTEND:20241212T100000Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20241212T074500Z
+SUMMARY:Przemiany fizykochemiczne produktu (ćwiczenia)
+UID:96d99400-0c92-4719-aa78-634617b39d00@96d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20241016T091500Z
+LOCATION:link do zajęć
+DTSTART:20241016T074500Z
+SUMMARY:Neuroróżnorodność w organizacji jako żródło innowacji (wykład do wyboru)
+UID:c44072d9-2dea-4fb9-86fc-d76ca4e2bb02@c440.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241106T083000Z
+LOCATION:link do zajęć
+DTSTART:20241106T070000Z
+SUMMARY:Wprowadzenie do Wordpressa (wykład do wyboru)
+UID:87afff4b-ed79-48c9-ab24-7790a25d10ed@87af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241025T110000Z
+LOCATION:L 525 Ustr.
+DTSTART:20241025T093000Z
+SUMMARY:Reklamacje produktów (wykład)
+UID:b1cda8e3-c762-4666-b57f-be9c22bd6a9a@b1cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jarosław Świda
+DTEND:20241106T134500Z
+LOCATION:link do zajęć
+DTSTART:20241106T121500Z
+SUMMARY:Trendy i innowacje we współczesnej logistyce (wykład do wyboru)
+UID:500aa28f-87e4-4f26-b318-ff4f9e08d3d4@500a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241218T083000Z
+LOCATION:link do zajęć
+DTSTART:20241218T070000Z
+SUMMARY:Wprowadzenie do Wordpressa (wykład do wyboru)
+UID:efd7feae-ffba-4e44-a766-6299bbff9346@efd7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20241115T093000Z
+LOCATION:Paw.C sala A
+DTSTART:20241115T084500Z
+SUMMARY:Zarządzanie zespołem sprzedażowym (konwersatorium)
+UID:0e01fd01-207a-445d-b835-6238e39c9552@0e01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20241106T101500Z
+LOCATION:link do zajęć
+DTSTART:20241106T084500Z
+SUMMARY:Neuroróżnorodność w organizacji jako żródło innowacji (wykład do wyboru)
+UID:fe857947-3069-4799-b4a7-b40d7725e11a@fe85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
+DTEND:20241107T100000Z
+LOCATION:Sienk. 5 pr. chem. 2
+DTSTART:20241107T074500Z
+SUMMARY:Przemiany fizykochemiczne produktu (ćwiczenia)
+UID:67399a23-ac1a-4d3c-9f30-11003682d2ed@6739.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241022T090000Z
+LOCATION:link do zajęć
+DTSTART:20241022T064500Z
+SUMMARY:Marketing doświadczeń (wykład do wyboru)
+UID:a91eda22-1d2b-49c7-bccb-fd98007e88dd@a91e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241009T073000Z
+LOCATION:link do zajęć
+DTSTART:20241009T060000Z
+SUMMARY:Wprowadzenie do Wordpressa (wykład do wyboru)
+UID:0260566d-9b2d-4952-9efb-08d3502c96f1@0260.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jarosław Świda
+DTEND:20241204T134500Z
+LOCATION:link do zajęć
+DTSTART:20241204T121500Z
+SUMMARY:Trendy i innowacje we współczesnej logistyce (wykład do wyboru)
+UID:5c7ebc6b-7aeb-4b0f-bdfd-09f5e12f474f@5c7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241105T100000Z
+LOCATION:link do zajęć
+DTSTART:20241105T074500Z
+SUMMARY:Marketing doświadczeń (wykład do wyboru)
+UID:50327788-7b3a-4bfa-b2e3-d27a4207aab0@5032.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jarosław Świda
+DTEND:20250115T143000Z
+LOCATION:link do zajęć
+DTSTART:20250115T121500Z
+SUMMARY:Trendy i innowacje we współczesnej logistyce (wykład do wyboru)
+UID:5c9be47f-0d73-48dc-9231-c8689d01fc80@5c9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20241030T101500Z
+LOCATION:link do zajęć
+DTSTART:20241030T084500Z
+SUMMARY:Neuroróżnorodność w organizacji jako żródło innowacji (wykład do wyboru)
+UID:2bb971ff-0361-46a2-b0a1-199047c3b75f@2bb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241118T184500Z
+LOCATION:Paw.G  9
+DTSTART:20241118T163000Z
+SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
+UID:b32b6f0d-744e-4a9e-b6de-8591880e1121@b32b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20241120T101500Z
+LOCATION:link do zajęć
+DTSTART:20241120T084500Z
+SUMMARY:Neuroróżnorodność w organizacji jako żródło innowacji (wykład do wyboru)
+UID:58a40b44-4d05-4127-a694-ed0a75cc53fc@58a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20241127T093000Z
+LOCATION:link do zajęć
+DTSTART:20241127T084500Z
+SUMMARY:Neuroróżnorodność w organizacji jako żródło innowacji (wykład do wyboru)
+UID:cdee0018-e900-4683-a74d-742c75bd32d8@cdee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20241202T184500Z
+LOCATION:Paw.G  9
+DTSTART:20241202T163000Z
+SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
+UID:94547228-2be9-4aeb-af2a-cca1c2266914@9454.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Anna Gacek
+DTEND:20241205T100000Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20241205T074500Z
+SUMMARY:Przemiany fizykochemiczne produktu (ćwiczenia)
+UID:9ccf8590-8dad-4d09-b12a-3ec529ad9702@9ccf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
+DTEND:20241017T090000Z
+LOCATION:Sienk. 5 pr. chem. 2
+DTSTART:20241017T064500Z
+SUMMARY:Przemiany fizykochemiczne produktu (ćwiczenia)
+UID:0b0b081a-80f1-4334-9d5b-af144b1b1cd8@0b0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241021T174500Z
+LOCATION:Paw.G  9
+DTSTART:20241021T153000Z
+SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
+UID:1896151f-ef08-4ff7-98e5-ef8e539573a5@1896.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20241004T073000Z
+LOCATION:Paw.C sala A
+DTSTART:20241004T060000Z
+SUMMARY:Zarządzanie zespołem sprzedażowym (konwersatorium)
+UID:1deadf1d-fafc-454c-91a0-f5380b9d2225@1dea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241120T083000Z
+LOCATION:link do zajęć
+DTSTART:20241120T070000Z
+SUMMARY:Wprowadzenie do Wordpressa (wykład do wyboru)
+UID:60c64769-b092-485c-94bf-052b5aec98f9@60c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20250115T120000Z
+LOCATION:link do zajęć
+DTSTART:20250115T103000Z
+SUMMARY:Innowacja wartości. Doskonalenie produktu. (wykład do wyboru)
+UID:0f010596-cf91-4055-a79a-b3d098feca27@0f01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20250122T083000Z
+LOCATION:link do zajęć
+DTSTART:20250122T074500Z
+SUMMARY:Wprowadzenie do Wordpressa (wykład do wyboru)
+UID:44131228-5eba-4731-aa2b-acaf7d75153e@4413.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20250122T111500Z
+LOCATION:link do zajęć
+DTSTART:20250122T103000Z
+SUMMARY:Innowacja wartości. Doskonalenie produktu. (wykład do wyboru)
+UID:67f1641c-e99e-4ea2-8269-ceb34b02d0dc@67f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
+DTEND:20241024T090000Z
+LOCATION:Sienk. 5 pr. chem. 2
+DTSTART:20241024T064500Z
+SUMMARY:Przemiany fizykochemiczne produktu (ćwiczenia)
+UID:d736947e-8c46-494c-8a4c-56452d067818@d736.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20241216T184500Z
+LOCATION:Paw.G  9
+DTSTART:20241216T163000Z
+SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
+UID:751d838f-f174-4534-aec5-736d0a97f6a9@751d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241113T171500Z
+LOCATION:link do zajęć
+DTSTART:20241113T154500Z
+SUMMARY:Zarządzanie reklamacjami (wykład do wyboru)
+UID:b74a574f-7d25-4b2b-bb2d-9b081e74ac73@b74a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241014T174500Z
+LOCATION:Paw.G  9
+DTSTART:20241014T153000Z
+SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
+UID:486c5f81-229c-49fa-b0de-ea5f2f7a76e7@486c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:9e8328e9-889f-40b2-91da-4eb2e0a08676@9e83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
+DTEND:20241114T100000Z
+LOCATION:Sienk. 5 pr. chem. 2
+DTSTART:20241114T074500Z
+SUMMARY:Przemiany fizykochemiczne produktu (ćwiczenia)
+UID:c7589fa3-160b-44dd-b9e6-07501864d5fc@c758.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241023T073000Z
+LOCATION:link do zajęć
+DTSTART:20241023T060000Z
+SUMMARY:Wprowadzenie do Wordpressa (wykład do wyboru)
+UID:176b63d5-f759-4fab-a853-0f50b4208751@176b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241028T184500Z
+LOCATION:Paw.G  9
+DTSTART:20241028T163000Z
+SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
+UID:8e22eeeb-1b92-4211-944d-ba3754c9e1ba@8e22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20241209T184500Z
+LOCATION:Paw.G  9
+DTSTART:20241209T163000Z
+SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
+UID:e1d006c0-235d-4ae5-9047-980d6c8ba2de@e1d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241108T120000Z
+LOCATION:L 525 Ustr.
+DTSTART:20241108T103000Z
+SUMMARY:Reklamacje produktów (wykład)
+UID:97ca5b67-9511-4ab6-ac84-9b1a234b0ff8@97ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241104T184500Z
+LOCATION:Paw.G  9
+DTSTART:20241104T163000Z
+SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
+UID:2b1feeea-f414-4ebb-9458-30389a8bc7bd@2b1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20241108T091500Z
+LOCATION:Paw.C sala A
+DTSTART:20241108T070000Z
+SUMMARY:Zarządzanie zespołem sprzedażowym (konwersatorium)
+UID:bd315fad-e140-4009-b3e7-dd95e9375a72@bd31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241023T161500Z
+LOCATION:link do zajęć
+DTSTART:20241023T144500Z
+SUMMARY:Zarządzanie reklamacjami (wykład do wyboru)
+UID:0db6eb46-150a-47a2-9f63-c4497be65e82@0db6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jarosław Świda
+DTEND:20241009T124500Z
+LOCATION:link do zajęć
+DTSTART:20241009T111500Z
+SUMMARY:Trendy i innowacje we współczesnej logistyce (wykład do wyboru)
+UID:a09a0f22-f296-4956-9aac-fd89d49e6d35@a09a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Małgorzata Kucia
+DTEND:20241031T100000Z
+LOCATION:Sienk. 5 pr. chem. 2
+DTSTART:20241031T074500Z
+SUMMARY:Przemiany fizykochemiczne produktu (ćwiczenia)
+UID:aa92a41c-2956-48f2-9cd4-fa6905530d9d@aa92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20241018T081500Z
+LOCATION:Paw.C sala A
+DTSTART:20241018T060000Z
+SUMMARY:Zarządzanie zespołem sprzedażowym (konwersatorium)
+UID:67f7f330-14d3-4940-876c-d7cae8d8417e@67f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241029T100000Z
+LOCATION:link do zajęć
+DTSTART:20241029T074500Z
+SUMMARY:Marketing doświadczeń (wykład do wyboru)
+UID:99b96984-a889-478e-8e2c-9ace1796cbdb@99b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241008T090000Z
+LOCATION:link do zajęć
+DTSTART:20241008T064500Z
+SUMMARY:Marketing doświadczeń (wykład do wyboru)
+UID:235acdcc-9a1e-4a53-8df9-0317a844078b@235a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241009T161500Z
+LOCATION:link do zajęć
+DTSTART:20241009T144500Z
+SUMMARY:Zarządzanie reklamacjami (wykład do wyboru)
+UID:5b299c30-3bc2-46b1-ad0d-b7a84d6deaec@5b29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:2c46373d-88de-4a7d-b22c-9eeb40fc7068@2c46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241015T090000Z
+LOCATION:link do zajęć
+DTSTART:20241015T064500Z
+SUMMARY:Marketing doświadczeń (wykład do wyboru)
+UID:34caea52-f62a-4024-b839-8cd8cd2ffaff@34ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20241023T091500Z
+LOCATION:link do zajęć
+DTSTART:20241023T074500Z
+SUMMARY:Neuroróżnorodność w organizacji jako żródło innowacji (wykład do wyboru)
+UID:7e5110ec-8aba-470d-8338-689c3cd7c70a@7e51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241211T120000Z
+LOCATION:link do zajęć
+DTSTART:20241211T103000Z
+SUMMARY:Innowacja wartości. Doskonalenie produktu. (wykład do wyboru)
+UID:19ea9583-36a0-4779-b56c-9818a1f1fcd6@19ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20241025T081500Z
+LOCATION:Paw.C sala A
+DTSTART:20241025T060000Z
+SUMMARY:Zarządzanie zespołem sprzedażowym (konwersatorium)
+UID:d1e7f991-6855-4aa1-b86b-e4d59a5a0490@d1e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jarosław Świda
+DTEND:20241120T134500Z
+LOCATION:link do zajęć
+DTSTART:20241120T121500Z
+SUMMARY:Trendy i innowacje we współczesnej logistyce (wykład do wyboru)
+UID:f8d4812d-dc67-4079-addd-00f4b19c47a7@f8d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241011T110000Z
+LOCATION:L 525 Ustr.
+DTSTART:20241011T093000Z
+SUMMARY:Reklamacje produktów (wykład)
+UID:ba2565b6-d6e4-4773-b8c4-5b85f0f1689b@ba25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20241113T101500Z
+LOCATION:link do zajęć
+DTSTART:20241113T084500Z
+SUMMARY:Neuroróżnorodność w organizacji jako żródło innowacji (wykład do wyboru)
+UID:32ad9d3d-7a9c-4e88-9302-0db44e0e6333@32ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jarosław Świda
+DTEND:20241218T134500Z
+LOCATION:link do zajęć
+DTSTART:20241218T121500Z
+SUMMARY:Trendy i innowacje we współczesnej logistyce (wykład do wyboru)
+UID:15971c71-4882-430e-979c-0215a273a9ac@1597.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20241009T091500Z
+LOCATION:link do zajęć
+DTSTART:20241009T074500Z
+SUMMARY:Neuroróżnorodność w organizacji jako żródło innowacji (wykład do wyboru)
+UID:bc878128-909f-4bb5-a094-9360b85403d1@bc87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20250116T171500Z
+LOCATION:Platforma Moodle
+DTSTART:20250116T103000Z
+SUMMARY:Zarządzanie reklamacjami (wykład e-learningowy)
+UID:3974acec-a2fe-4e6c-965d-6363dcdab502@3974.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Joanna Ptasińska-Marcinkiewicz
+DTEND:20250113T184500Z
+LOCATION:Paw.G  9
+DTSTART:20250113T163000Z
+SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
+UID:4fa8ea74-4ccb-4c55-a8ed-1662b4f0bf81@4fa8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Marzena Wójcik
+DTEND:20241011T081500Z
+LOCATION:Paw.C sala A
+DTSTART:20241011T060000Z
+SUMMARY:Zarządzanie zespołem sprzedażowym (konwersatorium)
+UID:0f158315-0a4f-4094-9fff-257431688373@0f15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241018T110000Z
+LOCATION:L 525 Ustr.
+DTSTART:20241018T093000Z
+SUMMARY:Reklamacje produktów (wykład)
+UID:6de68808-1ac6-4ff4-8b04-a49866f2b347@6de6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241030T134500Z
+LOCATION:link do zajęć
+DTSTART:20241030T121500Z
+SUMMARY:Innowacja wartości. Doskonalenie produktu. (wykład do wyboru)
+UID:fa374795-893d-47f9-ba23-651f9341d8df@fa37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241125T184500Z
+LOCATION:Paw.G  9
+DTSTART:20241125T163000Z
+SUMMARY:Trendy rozwojowe na rynku FMCG (konwersatorium)
+UID:20ed0c24-32be-4fa9-8bf7-499105b32a0f@20ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Anna Gacek
+DTEND:20241128T100000Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20241128T074500Z
+SUMMARY:Przemiany fizykochemiczne produktu (ćwiczenia)
+UID:ceff5211-32d2-4f68-95e3-4006a257c296@ceff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241127T120000Z
+LOCATION:link do zajęć
+DTSTART:20241127T103000Z
+SUMMARY:Innowacja wartości. Doskonalenie produktu. (wykład do wyboru)
+UID:9875b5d6-c59e-4b22-ac52-e4465d3a7470@9875.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241204T083000Z
+LOCATION:link do zajęć
+DTSTART:20241204T070000Z
+SUMMARY:Wprowadzenie do Wordpressa (wykład do wyboru)
+UID:5b3d58e7-7b0b-4f4d-bc9a-f2cfebb6b605@5b3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241113T120000Z
+LOCATION:link do zajęć
+DTSTART:20241113T103000Z
+SUMMARY:Innowacja wartości. Doskonalenie produktu. (wykład do wyboru)
+UID:5d0f6b53-465b-4f37-b142-d48c16636c4a@5d0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Anna Gacek
+DTEND:20241219T100000Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20241219T074500Z
+SUMMARY:Przemiany fizykochemiczne produktu (ćwiczenia)
+UID:77c8d670-32bf-431d-8255-0beb0d15b90b@77c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20250115T083000Z
+LOCATION:link do zajęć
+DTSTART:20250115T070000Z
+SUMMARY:Wprowadzenie do Wordpressa (wykład do wyboru)
+UID:bd9383f3-5e7b-4ecc-8ad2-0aa1f19a39ee@bd93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20241004T110000Z
+LOCATION:L 525 Ustr.
+DTSTART:20241004T093000Z
+SUMMARY:Reklamacje produktów (wykład)
+UID:f849737a-bd51-4067-8069-e23a96e529e7@f849.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241030T120000Z
+LOCATION:link do zajęć
+DTSTART:20241030T103000Z
+SUMMARY:Innowacja wartości. Doskonalenie produktu. (wykład do wyboru)
+UID:7739c5eb-2df2-488a-b2ae-dba7d1f00c85@7739.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Anna Gacek
+DTEND:20241121T100000Z
+LOCATION:Paw.Ustronie lab.fiz.1
+DTSTART:20241121T074500Z
+SUMMARY:Przemiany fizykochemiczne produktu (ćwiczenia)
+UID:af38d7d9-0700-4338-8efe-09a31c992f45@af38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20250108T120000Z
+LOCATION:link do zajęć
+DTSTART:20250108T103000Z
+SUMMARY:Innowacja wartości. Doskonalenie produktu. (wykład do wyboru)
+UID:67e85788-a9d2-428e-9844-a022b80367ad@67e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paweł Turek
+DTEND:20250117T193000Z
+LOCATION:link do zajęć
+DTSTART:20250117T154500Z
+SUMMARY:Reklamacje produktów (wykład e-learningowy)
+UID:ccb383e0-767c-4061-a781-4ba28247fa51@ccb3.org
+END:VEVENT
+END:VCALENDAR

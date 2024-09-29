@@ -1,0 +1,356 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241026T090000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241026T064500Z
+SUMMARY:Partycypacja społeczna w zarządzaniu rozwojem (ćwiczenia)
+UID:ed031bd1-7a84-4290-8bdd-7369a40350b3@ed03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241130T100000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241130T074500Z
+SUMMARY:Partycypacja społeczna w zarządzaniu rozwojem (ćwiczenia)
+UID:32577caa-c212-4a74-aca3-15f9de9cad2e@3257.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Laura Kochel
+DTEND:20241214T124500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241214T103000Z
+SUMMARY:Architektura krajobrazu (Projekt)
+UID:953b175c-3c50-4bdf-b92a-a0b73e4390f6@953b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20241012T090000Z
+LOCATION:link do zajęć
+DTSTART:20241012T064500Z
+SUMMARY:Gospodarka odpadami komunalnymi (wykład do wyboru)
+UID:4580fcec-dd32-4c02-8fee-2efb15165fea@4580.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241026T151500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241026T130000Z
+SUMMARY:Zarządzanie projektami inżynierskimi (Projekt)
+UID:7422ac51-b546-493a-ba59-afcf8278169c@7422.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Laura Kochel
+DTEND:20250111T124500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250111T103000Z
+SUMMARY:Architektura krajobrazu (Projekt)
+UID:94338f5f-5bfe-4096-a68b-515f77b8e7a8@9433.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Anna Karwińska
+DTEND:20250112T114500Z
+LOCATION:link do zajęć
+DTSTART:20250112T084500Z
+SUMMARY:Socjologia miasta (wykład)
+UID:b5334f5f-4d47-49fc-ad40-53890b7b4e5f@b533.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20250125T100000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20250125T074500Z
+SUMMARY:Monitoring środowiska (Projekt)
+UID:e027f75a-5815-47c9-bfe5-7f2bcbbd770c@e027.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241214T184500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241214T163000Z
+SUMMARY:Gospodarka odpadami komunalnymi (Projekt)
+UID:5d64bc97-3cc7-4ff1-9324-743d580d41da@5d64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20241117T151500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241117T130000Z
+SUMMARY:Monitoring środowiska (Projekt)
+UID:618a931d-f593-4bc0-9881-b2be05a70384@618a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20250125T184500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20250125T163000Z
+SUMMARY:Gospodarka odpadami komunalnymi (Projekt)
+UID:ca5f8bb6-4efd-4931-8a99-d9dfb943b519@ca5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241130T184500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241130T163000Z
+SUMMARY:Gospodarka odpadami komunalnymi (Projekt)
+UID:e5408a46-5980-4973-b8d5-f0ed747631e5@e540.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20250111T100000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250111T074500Z
+SUMMARY:Monitoring środowiska (Projekt)
+UID:146b7ef4-e896-43b2-bf34-3b7182d7788b@146b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20241116T100000Z
+LOCATION:link do zajęć
+DTSTART:20241116T074500Z
+SUMMARY:Gospodarka odpadami komunalnymi (wykład do wyboru)
+UID:3dced406-94c0-484f-a38c-0605bc4f7818@3dce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Laura Kochel
+DTEND:20241201T100000Z
+LOCATION:link do zajęć
+DTSTART:20241201T074500Z
+SUMMARY:Architektura krajobrazu (wykład do wyboru)
+UID:14fb8fa8-f041-4584-b9fd-5e1f4bd6061d@14fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241116T161500Z
+LOCATION:link do zajęć
+DTSTART:20241116T140000Z
+SUMMARY:Zarządzanie projektami inżynierskimi (wykład do wyboru)
+UID:0eaf6ed9-20d8-4488-bdb9-eac47e1649f5@0eaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Laura Kochel
+DTEND:20241116T124500Z
+LOCATION:link do zajęć
+DTSTART:20241116T103000Z
+SUMMARY:Architektura krajobrazu (wykład do wyboru)
+UID:989afeab-318d-479c-9d81-152d17f4a435@989a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20241130T124500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241130T103000Z
+SUMMARY:Monitoring środowiska (Projekt)
+UID:a6b51cf4-2b01-4754-b90e-ce827d82c5fe@a6b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20241027T124500Z
+LOCATION:link do zajęć
+DTSTART:20241027T103000Z
+SUMMARY:Monitoring środowiska (wykład do wyboru)
+UID:986d33fc-4dff-40cc-bbd9-d312f229de3d@986d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20241215T100000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241215T074500Z
+SUMMARY:Monitoring środowiska (Projekt)
+UID:267bc3e2-c51c-4466-81d3-a1747c0845c7@267b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Laura Kochel
+DTEND:20241027T100000Z
+LOCATION:link do zajęć
+DTSTART:20241027T074500Z
+SUMMARY:Architektura krajobrazu (wykład do wyboru)
+UID:744bd0a6-7d49-4063-a6f3-c65612b763f9@744b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241130T161500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241130T140000Z
+SUMMARY:Zarządzanie projektami inżynierskimi (Projekt)
+UID:65a87886-d01a-4134-8d5f-83e7d132ec4b@65a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Anna Karwińska
+DTEND:20241213T170000Z
+LOCATION:link do zajęć
+DTSTART:20241213T144500Z
+SUMMARY:Socjologia miasta (wykład)
+UID:12761181-9309-4d3e-9112-35c3afe10385@1276.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Laura Kochel
+DTEND:20250125T124500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250125T103000Z
+SUMMARY:Architektura krajobrazu (Projekt)
+UID:c63c6899-da3b-4004-8b84-ffb8fae135b1@c63c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241201T124500Z
+LOCATION:link do zajęć
+DTSTART:20241201T103000Z
+SUMMARY:Partycypacja społeczna w zarządzaniu rozwojem (wykład)
+UID:42e2a128-8854-4696-9136-0314d9c5956b@42e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241215T124500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241215T103000Z
+SUMMARY:Partycypacja społeczna w zarządzaniu rozwojem (ćwiczenia)
+UID:19c5b35c-f9c4-41bc-9395-12d2d7738e77@19c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Anna Karwińska
+DTEND:20250126T114500Z
+LOCATION:link do zajęć
+DTSTART:20250126T084500Z
+SUMMARY:Socjologia miasta (wykład)
+UID:b0ce21f8-ec40-42d4-817b-5fe6c2775de5@b0ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20241013T090000Z
+LOCATION:link do zajęć
+DTSTART:20241013T064500Z
+SUMMARY:Monitoring środowiska (wykład do wyboru)
+UID:7bb2be2f-86b7-404b-8910-ef54432971d1@7bb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Anna Karwińska
+DTEND:20250110T180000Z
+LOCATION:link do zajęć
+DTSTART:20250110T154500Z
+SUMMARY:Socjologia miasta (wykład)
+UID:05a8dac2-5d8c-40a0-993f-d786666b5206@05a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20250125T161500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250125T140000Z
+SUMMARY:Zarządzanie projektami inżynierskimi (Projekt)
+UID:6ec50933-fb92-409a-bab4-e0a3804be59c@6ec5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241026T174500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241026T153000Z
+SUMMARY:Gospodarka odpadami komunalnymi (Projekt)
+UID:ac89f1a0-3bb6-4a61-82d2-7d018aec091c@ac89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241012T114500Z
+LOCATION:link do zajęć
+DTSTART:20241012T093000Z
+SUMMARY:Partycypacja społeczna w zarządzaniu rozwojem (wykład)
+UID:47e89fba-0c4b-4d73-bf23-7a1a0bbf1623@47e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20241026T114500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241026T093000Z
+SUMMARY:Monitoring środowiska (Projekt)
+UID:f06dd64d-e09a-4e3d-acfc-83874157d485@f06d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241214T161500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241214T140000Z
+SUMMARY:Zarządzanie projektami inżynierskimi (Projekt)
+UID:8631b1b2-684b-4019-9a8a-e678cab45dfe@8631.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Anna Karwińska
+DTEND:20241129T184500Z
+LOCATION:link do zajęć
+DTSTART:20241129T154500Z
+SUMMARY:Socjologia miasta (wykład)
+UID:a7bdaa01-bdd4-4f29-9789-72665dd0225d@a7bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241012T151500Z
+LOCATION:link do zajęć
+DTSTART:20241012T130000Z
+SUMMARY:Zarządzanie projektami inżynierskimi (wykład do wyboru)
+UID:d9fcfe5c-4b07-4bdf-beee-8795328d49ed@d9fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Karol Majewski
+DTEND:20241116T184500Z
+LOCATION:link do zajęć
+DTSTART:20241116T163000Z
+SUMMARY:Monitoring środowiska (wykład do wyboru)
+UID:b7431ff8-5dc5-4fba-bce5-8781deeee50b@b743.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20250111T161500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250111T140000Z
+SUMMARY:Zarządzanie projektami inżynierskimi (Projekt)
+UID:496c305c-1dac-49a1-b097-8c5e18fe4321@496c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241025T184500Z
+LOCATION:link do zajęć
+DTSTART:20241025T163000Z
+SUMMARY:Zarządzanie projektami inżynierskimi (wykład do wyboru)
+UID:b95f0e41-4ff3-4a20-a981-1d7b3f169a93@b95f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Petryk
+DTEND:20241025T160000Z
+LOCATION:link do zajęć
+DTSTART:20241025T134500Z
+SUMMARY:Gospodarka odpadami komunalnymi (wykład do wyboru)
+UID:8354abfe-bd59-4cde-8cb6-dd5900dcb7f8@8354.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Dominika Hołuj
+DTEND:20241115T194500Z
+LOCATION:link do zajęć
+DTSTART:20241115T173000Z
+SUMMARY:Partycypacja społeczna w zarządzaniu rozwojem (wykład)
+UID:691f8c1a-e44e-4dff-b123-2852f62e5d84@691f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241117T124500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241117T103000Z
+SUMMARY:Gospodarka odpadami komunalnymi (Projekt)
+UID:2025bc74-a3f8-433f-b55b-39eb175e7a2c@2025.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20250111T184500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20250111T163000Z
+SUMMARY:Gospodarka odpadami komunalnymi (Projekt)
+UID:e374ef36-c9f9-4a80-a00e-2404276aef18@e374.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Paulina Śliz
+DTEND:20241117T100000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241117T074500Z
+SUMMARY:Zarządzanie projektami inżynierskimi (Projekt)
+UID:ce390925-8ebe-407b-a126-a05d1f5aa074@ce39.org
+END:VEVENT
+END:VCALENDAR

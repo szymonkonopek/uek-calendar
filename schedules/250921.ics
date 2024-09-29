@@ -1,0 +1,962 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20250121T083000Z
+LOCATION:Paw.B 251
+DTSTART:20250121T074500Z
+SUMMARY:Grafika inżynierska (wykład)
+UID:a45423da-5a15-4f91-89a7-00954f8a1f03@a454.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20241114T083000Z
+LOCATION:Paw.F 106
+DTSTART:20241114T070000Z
+SUMMARY:Wspomaganie procesów decyzyjnych (konwersatorium)
+UID:5805649d-dbfe-4669-9a0b-2066a0f40cd6@5805.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20250121T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20250121T084500Z
+SUMMARY:Substancje dodatkowe w rozwoju produktu żywnościowego (wykład do wyboru)
+UID:43af7c37-87c0-41e0-8690-765b2942d080@43af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241015T091500Z
+LOCATION:Paw.C sala A
+DTSTART:20241015T074500Z
+SUMMARY:Substancje dodatkowe w rozwoju produktu żywnościowego (wykład do wyboru)
+UID:f1414a58-97e1-4c65-a0b4-543fb13d8d0f@f141.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20241205T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20241205T084500Z
+SUMMARY:Style i techniki negocjacji biznesowych (wykład do wyboru)
+UID:00dd0667-e172-4e18-a7ec-49b26c1ff6de@00dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241008T143000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241008T130000Z
+SUMMARY:Opakowalnictwo (laboratorium)
+UID:9ac54a91-1be8-42c1-bb8c-025dbfe4e11c@9ac5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20250107T190000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20250107T173000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:949d6336-8a4e-4367-b60e-7aaeedb2e338@949d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241206T143000Z
+LOCATION:Paw.E sala J
+DTSTART:20241206T121500Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:065157bd-3459-47ab-a22b-036c316b39b7@0651.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241015T143000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241015T130000Z
+SUMMARY:Opakowalnictwo (laboratorium)
+UID:e3b967ea-5bae-4486-baec-34e918126cd6@e3b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20250123T083000Z
+LOCATION:Paw.F 106
+DTSTART:20250123T070000Z
+SUMMARY:Wspomaganie procesów decyzyjnych (konwersatorium)
+UID:d9cde931-5901-4bc7-a7df-4c207e85b276@d9cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20250121T111500Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250121T103000Z
+SUMMARY:Grafika inżynierska (ćwiczenia)
+UID:0d81cb84-43f8-48ed-b743-ef8f8cf77435@0d81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241112T153000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241112T140000Z
+SUMMARY:Opakowalnictwo (laboratorium)
+UID:de89603b-43e2-4d0b-870b-95d42fe59019@de89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20241119T190000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241119T173000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:b93c7ba3-9f97-4e07-921d-681d31e9aa19@b93c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20241202T100000Z
+LOCATION:Paw.F 516
+DTSTART:20241202T074500Z
+SUMMARY:Ocena jakości mikrobiologicznej produktów w badaniach laboratoryjnych (wykład do wyboru)
+UID:beae7e99-5a40-4bb6-81d5-578928e45189@beae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241010T161500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241010T144500Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:29c1fc8b-0510-4cbc-a935-9fe5942ee8cb@29c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241126T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20241126T084500Z
+SUMMARY:Substancje dodatkowe w rozwoju produktu żywnościowego (wykład do wyboru)
+UID:ad220799-00ab-420e-8b16-75d0744d1d7e@ad22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20250113T100000Z
+LOCATION:Paw.F 516
+DTSTART:20250113T074500Z
+SUMMARY:Ocena jakości mikrobiologicznej produktów w badaniach laboratoryjnych (wykład do wyboru)
+UID:fde69f07-7d4b-4668-984f-ac00a11b4e65@fde6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241008T091500Z
+LOCATION:Paw.C sala A
+DTSTART:20241008T074500Z
+SUMMARY:Substancje dodatkowe w rozwoju produktu żywnościowego (wykład do wyboru)
+UID:e3bc7321-471a-4e88-aa1a-7bb51f6b5e3c@e3bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20250114T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20250114T084500Z
+SUMMARY:Substancje dodatkowe w rozwoju produktu żywnościowego (wykład do wyboru)
+UID:6ee21602-e750-426d-ac8a-82bf5f086131@6ee2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250117T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20250117T093000Z
+SUMMARY:Style i techniki negocjacji biznesowych (wykład do wyboru)
+UID:4eb3aa0b-0f34-41c3-bbf4-c73dd43b9851@4eb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241007T110000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241007T093000Z
+SUMMARY:Opakowalnictwo (wykład)
+UID:9f9b0602-a571-469d-9fe5-72951d52586b@9f9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20241001T073000Z
+LOCATION:Paw.B 251
+DTSTART:20241001T060000Z
+SUMMARY:Grafika inżynierska (wykład)
+UID:e17a58c1-3b1c-4ad6-be5b-e623188e2e28@e17a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20241029T190000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241029T173000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:b0ef6686-afaa-42cd-b5ca-bca196582c24@b0ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20241210T083000Z
+LOCATION:Paw.B 251
+DTSTART:20241210T070000Z
+SUMMARY:Grafika inżynierska (wykład)
+UID:dbdecfc2-7fa8-4776-a717-b495dad82c7a@dbde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241205T171500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241205T154500Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:c09970e2-6aa4-451c-8070-375fe7387ce7@c099.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20241121T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20241121T084500Z
+SUMMARY:Style i techniki negocjacji biznesowych (wykład do wyboru)
+UID:ce27208e-bbc2-4c16-a0ef-f8ca9649be43@ce27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241217T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20241217T084500Z
+SUMMARY:Substancje dodatkowe w rozwoju produktu żywnościowego (wykład do wyboru)
+UID:c5404ca8-1c5c-4b1a-b54b-267fad1a6d73@c540.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20250107T083000Z
+LOCATION:Paw.B 251
+DTSTART:20250107T070000Z
+SUMMARY:Grafika inżynierska (wykład)
+UID:cfb6fbff-3252-4d73-aea9-7059a25b5c8e@cfb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20250121T153000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20250121T140000Z
+SUMMARY:Opakowalnictwo (laboratorium)
+UID:ca949343-2e92-41e4-aafe-1ee140c3c819@ca94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241105T153000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241105T140000Z
+SUMMARY:Opakowalnictwo (laboratorium)
+UID:2bd89cf4-fd18-44a2-afde-220925979c86@2bd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20241017T073000Z
+LOCATION:Paw.F 106
+DTSTART:20241017T060000Z
+SUMMARY:Wspomaganie procesów decyzyjnych (konwersatorium)
+UID:3536938c-326e-4874-b581-18226db9da55@3536.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20241128T083000Z
+LOCATION:Paw.F 106
+DTSTART:20241128T070000Z
+SUMMARY:Wspomaganie procesów decyzyjnych (konwersatorium)
+UID:5df6a963-942a-4ef5-9a70-ac5cfe6b81fe@5df6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20250113T120000Z
+LOCATION:Paw.S sala 7
+DTSTART:20250113T103000Z
+SUMMARY:Opakowalnictwo (wykład)
+UID:a9fb3de9-d5d9-435a-a716-abc80c311a91@a9fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20241001T110000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241001T093000Z
+SUMMARY:Grafika inżynierska (ćwiczenia)
+UID:2170b59e-2a8e-4dd6-81c1-75564d4a92de@2170.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241024T161500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241024T144500Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:2f9c056a-882c-4360-a20a-302461d28d81@2f9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241007T124500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241007T111500Z
+SUMMARY:Ekonomiczne aspekty jakości produktu (wykład)
+UID:387c2300-0f3e-4fd8-881c-d8a8bf907393@387c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241217T153000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241217T140000Z
+SUMMARY:Opakowalnictwo (laboratorium)
+UID:e6c7dcdc-7ce6-441d-989f-cd0812b39f86@e6c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:d11c12a1-5a72-4741-8c08-1395d305e921@d11c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20241028T100000Z
+LOCATION:Paw.F 516
+DTSTART:20241028T074500Z
+SUMMARY:Ocena jakości mikrobiologicznej produktów w badaniach laboratoryjnych (wykład do wyboru)
+UID:f1be6fcc-9252-4175-9c01-c47d2eef3ff6@f1be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241107T171500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241107T154500Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:12ebf841-a606-41db-bebe-b9534d09a4f5@12eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241216T120000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241216T103000Z
+SUMMARY:Opakowalnictwo (wykład)
+UID:d73708c2-2ca0-46f9-ae14-9adc8c409e7b@d737.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241212T194500Z
+LOCATION:Paw.C sala B
+DTSTART:20241212T173000Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:f65616aa-202a-4d6d-b7bd-c86c71e8cb82@f656.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20241112T120000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241112T103000Z
+SUMMARY:Grafika inżynierska (ćwiczenia)
+UID:d8b61a9a-d23a-4485-99e6-2f4d146ddcb4@d8b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241202T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241202T121500Z
+SUMMARY:Ekonomiczne aspekty jakości produktu (wykład)
+UID:2e9e3413-d235-4253-9b20-5bd6fe7a6793@2e9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241031T171500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241031T154500Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:118852bf-d90e-4c72-b1f7-650272528e23@1188.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241003T161500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241003T144500Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:7a3a0b81-28ca-40e3-9614-6fc27997532a@7a3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20250107T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20250107T084500Z
+SUMMARY:Substancje dodatkowe w rozwoju produktu żywnościowego (wykład do wyboru)
+UID:e79c4feb-8041-4db8-b825-dec0449892cc@e79c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20250116T171500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250116T154500Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:9e20ceb9-0eb8-4efe-83e7-a7c45074b1f6@9e20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241029T153000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241029T140000Z
+SUMMARY:Opakowalnictwo (laboratorium)
+UID:de520df0-de5d-4597-8f79-aed565a953e4@de52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20250122T190000Z
+LOCATION:Platforma Moodle
+DTSTART:20250122T121500Z
+SUMMARY:Ekonomiczne aspekty jakości produktu (wykład e-learningowy)
+UID:dcd88f01-0bd2-40b5-8e4b-72bfc33fa2fe@dcd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241126T153000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241126T140000Z
+SUMMARY:Opakowalnictwo (laboratorium)
+UID:f92c0013-66d7-4f3e-91a9-71c962e99e11@f92c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20250107T120000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20250107T103000Z
+SUMMARY:Grafika inżynierska (ćwiczenia)
+UID:137b2e15-ec6c-4741-9cde-94f8d0e660c9@137b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241007T143000Z
+LOCATION:Paw.G 10
+DTSTART:20241007T130000Z
+SUMMARY:Ekonomiczne aspekty jakości produktu (ćwiczenia)
+UID:40014ff3-0cb2-4340-8311-b20aaa0126c4@4001.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20241126T083000Z
+LOCATION:Paw.B 251
+DTSTART:20241126T070000Z
+SUMMARY:Grafika inżynierska (wykład)
+UID:3da0dcc7-2635-4b69-9f14-7878a5ff9840@3da0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20250117T174500Z
+LOCATION:Platforma Moodle
+DTSTART:20250117T144500Z
+SUMMARY:Ekonomiczne aspekty jakości produktu (Ćwiczenia e-learningowe)
+UID:ddd50058-20c9-4dfb-9a93-3f01e5aa7748@ddd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20250109T171500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250109T154500Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:e081f0a4-7ed2-4a5b-8497-9f78b8a3b765@e081.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20241112T083000Z
+LOCATION:Paw.B 251
+DTSTART:20241112T070000Z
+SUMMARY:Grafika inżynierska (wykład)
+UID:22feb45a-be3f-49ea-988f-2a7518edee57@22fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20241126T120000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241126T103000Z
+SUMMARY:Grafika inżynierska (ćwiczenia)
+UID:632138e1-26d3-46ae-afe3-6b8a430edf56@6321.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20241219T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20241219T084500Z
+SUMMARY:Style i techniki negocjacji biznesowych (wykład do wyboru)
+UID:93738bf3-4d58-4f68-b9ea-09af7903605e@9373.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20241010T091500Z
+LOCATION:Paw.C sala A
+DTSTART:20241010T074500Z
+SUMMARY:Style i techniki negocjacji biznesowych (wykład do wyboru)
+UID:ab922aee-5e12-4f6b-a737-ae837a412085@ab92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20241031T083000Z
+LOCATION:Paw.F 106
+DTSTART:20241031T070000Z
+SUMMARY:Wspomaganie procesów decyzyjnych (konwersatorium)
+UID:e11c20b1-6e35-4ddf-941c-349df983ae35@e11c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241104T120000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241104T103000Z
+SUMMARY:Opakowalnictwo (wykład)
+UID:81b60fb5-673f-4666-b601-7cdfe5af6fcd@81b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241202T120000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241202T103000Z
+SUMMARY:Opakowalnictwo (wykład)
+UID:611c0d6a-774f-4a21-a5f8-a431a44b9729@611c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241203T153000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241203T140000Z
+SUMMARY:Opakowalnictwo (laboratorium)
+UID:ae06d418-190b-4455-8243-7151ecf6058c@ae06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20250121T190000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20250121T173000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:b0c48764-a3ee-4bfd-a999-cf7344643fd9@b0c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241219T171500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241219T154500Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:7e5b57f8-590a-44b7-a4ab-a8ad3ce7e7a8@7e5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20241209T100000Z
+LOCATION:Paw.F 516
+DTSTART:20241209T074500Z
+SUMMARY:Ocena jakości mikrobiologicznej produktów w badaniach laboratoryjnych (wykład do wyboru)
+UID:4973d661-4e8e-4a59-9c35-084cf7e07d57@4973.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20250120T100000Z
+LOCATION:Paw.F 516
+DTSTART:20250120T074500Z
+SUMMARY:Ocena jakości mikrobiologicznej produktów w badaniach laboratoryjnych (wykład do wyboru)
+UID:5c468dad-8f39-4ae8-9df3-2fe505f4c784@5c46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241022T143000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241022T130000Z
+SUMMARY:Opakowalnictwo (laboratorium)
+UID:45f79aeb-94ad-422b-b765-0bfc64eed26d@45f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20241203T190000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241203T173000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:d083d14f-20fe-4b9d-92e7-8722d28ed232@d083.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241022T091500Z
+LOCATION:Paw.C sala A
+DTSTART:20241022T074500Z
+SUMMARY:Substancje dodatkowe w rozwoju produktu żywnościowego (wykład do wyboru)
+UID:0a901fe1-06b3-4a17-b040-65b5c543169a@0a90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20241104T100000Z
+LOCATION:Paw.F 516
+DTSTART:20241104T074500Z
+SUMMARY:Ocena jakości mikrobiologicznej produktów w badaniach laboratoryjnych (wykład do wyboru)
+UID:f99ff0ed-97c2-4381-9363-75278ad3d403@f99f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241203T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20241203T084500Z
+SUMMARY:Substancje dodatkowe w rozwoju produktu żywnościowego (wykład do wyboru)
+UID:03054e36-28a7-41e1-affd-884c3c084ea2@0305.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20250123T171500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250123T154500Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:df888c08-db18-4cda-9e95-ed8c95c3ad6b@df88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241210T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20241210T084500Z
+SUMMARY:Substancje dodatkowe w rozwoju produktu żywnościowego (wykład do wyboru)
+UID:114096c4-f92a-4fa1-8bdb-3689b7a8b0d6@1140.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20241105T190000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241105T173000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:daad23a4-0485-48bf-88f5-e6aeae76df62@daad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20241217T190000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241217T173000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:7739857e-b001-4e77-b3f2-335b07f83c56@7739.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20241126T190000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241126T173000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:337040f0-0fca-4753-a45c-343ec6cca4da@3370.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20250114T153000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20250114T140000Z
+SUMMARY:Opakowalnictwo (laboratorium)
+UID:6dfa58b5-a2d3-4d91-84ed-365ea4e18509@6dfa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20250107T153000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20250107T140000Z
+SUMMARY:Opakowalnictwo (laboratorium)
+UID:62807b58-63b0-4d3d-ba1d-5c13c93d52f4@6280.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241104T134500Z
+LOCATION:Paw.S sala 7
+DTSTART:20241104T121500Z
+SUMMARY:Ekonomiczne aspekty jakości produktu (wykład)
+UID:c33725b9-520a-4f78-ab7f-90dbfcf201d3@c337.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20250114T190000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20250114T173000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:a241b3b4-5ccd-40a7-adec-e027014a800e@a241.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20250123T141500Z
+LOCATION:Platforma Moodle
+DTSTART:20250123T103000Z
+SUMMARY:Ekonomiczne aspekty jakości produktu (Ćwiczenia e-learningowe)
+UID:3696754d-ec52-4fee-9562-c37ab4316033@3696.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20250116T083000Z
+LOCATION:Paw.F 106
+DTSTART:20250116T074500Z
+SUMMARY:Wspomaganie procesów decyzyjnych (konwersatorium)
+UID:6d2b5ad8-90b2-421c-ab6b-78e7b7e66e91@6d2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20241112T190000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241112T173000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:70c0feda-1fe3-4490-817e-b3bc3bca7d9d@70c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20241015T180000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241015T163000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:636958c1-fa7c-49e2-887d-e0ea57aa7447@6369.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241105T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20241105T084500Z
+SUMMARY:Substancje dodatkowe w rozwoju produktu żywnościowego (wykład do wyboru)
+UID:7d9b0407-5c40-4cb2-8c7e-f30b76d5a7b2@7d9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20241015T073000Z
+LOCATION:Paw.B 251
+DTSTART:20241015T060000Z
+SUMMARY:Grafika inżynierska (wykład)
+UID:ea2293cd-1374-4420-b4ac-87ecf1b588b8@ea22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:5be44782-2065-4ede-891d-16c668ed725f@5be4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20241210T190000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241210T173000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:3745d5e0-1f11-4151-894b-ebaed2cea21d@3745.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20241125T100000Z
+LOCATION:Paw.F 516
+DTSTART:20241125T074500Z
+SUMMARY:Ocena jakości mikrobiologicznej produktów w badaniach laboratoryjnych (wykład do wyboru)
+UID:254a4df6-c3eb-47e5-946f-af188fa1cdc6@254a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20241210T120000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241210T103000Z
+SUMMARY:Grafika inżynierska (ćwiczenia)
+UID:e5b8b85f-023e-4cae-87e3-6d08f4117179@e5b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241118T120000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241118T103000Z
+SUMMARY:Opakowalnictwo (wykład)
+UID:d2fd73d9-614c-4d77-9c35-32d573f50809@d2fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241202T153000Z
+LOCATION:Paw.G 10
+DTSTART:20241202T140000Z
+SUMMARY:Ekonomiczne aspekty jakości produktu (ćwiczenia)
+UID:1f6a02c1-a278-4a5d-ab85-e5297bb48c77@1f6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241017T161500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241017T144500Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:30aae11c-6ac0-4d0f-b659-248dc7567c2e@30aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20241008T180000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241008T163000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:134f9f9f-d04c-490b-852f-33067b576e40@134f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20241021T110000Z
+LOCATION:Paw.S sala 7
+DTSTART:20241021T093000Z
+SUMMARY:Opakowalnictwo (wykład)
+UID:7b8ac695-0c45-4ace-b3b4-a125f27035fe@7b8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241001T143000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241001T130000Z
+SUMMARY:Opakowalnictwo (laboratorium)
+UID:cb97e0ca-4e06-4d3b-b9d1-c96ee4102cc5@cb97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20241029T083000Z
+LOCATION:Paw.B 251
+DTSTART:20241029T070000Z
+SUMMARY:Grafika inżynierska (wykład)
+UID:afb05eae-20cc-4119-ab36-e4ef30d5991b@afb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20241021T090000Z
+LOCATION:Paw.F 516
+DTSTART:20241021T064500Z
+SUMMARY:Ocena jakości mikrobiologicznej produktów w badaniach laboratoryjnych (wykład do wyboru)
+UID:37573492-6de2-477d-bdf3-4ab4f5961a04@3757.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Gębarowski
+DTEND:20241212T171500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241212T154500Z
+SUMMARY:Różnice kulturowe w biznesie (wykład do wyboru)
+UID:483b5211-6342-4f65-9236-82dd1096cd1d@483b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20241022T180000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241022T163000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:f3379099-8d2a-4e92-add3-196bfd157f16@f337.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20241118T100000Z
+LOCATION:Paw.F 516
+DTSTART:20241118T074500Z
+SUMMARY:Ocena jakości mikrobiologicznej produktów w badaniach laboratoryjnych (wykład do wyboru)
+UID:e6e3f481-2a98-4a6b-8b95-02e6ebef31db@e6e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241119T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20241119T084500Z
+SUMMARY:Substancje dodatkowe w rozwoju produktu żywnościowego (wykład do wyboru)
+UID:5282c3f8-c2a5-4271-a63d-85e36d74b383@5282.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20250116T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20250116T084500Z
+SUMMARY:Style i techniki negocjacji biznesowych (wykład do wyboru)
+UID:c9f76d1d-a40e-40af-842f-c012ad8c527a@c9f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Urszula Balon
+DTEND:20241118T153000Z
+LOCATION:Paw.G 10
+DTSTART:20241118T140000Z
+SUMMARY:Ekonomiczne aspekty jakości produktu (ćwiczenia)
+UID:34efe6d5-4ac3-4ca6-a7b2-1c4bfca708e0@34ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241210T153000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241210T140000Z
+SUMMARY:Opakowalnictwo (laboratorium)
+UID:73d4eb7e-7569-444e-941b-a2144494a075@73d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241001T091500Z
+LOCATION:Paw.C sala A
+DTSTART:20241001T074500Z
+SUMMARY:Substancje dodatkowe w rozwoju produktu żywnościowego (wykład do wyboru)
+UID:72dccdfd-43cb-4b6c-bef8-6617118e86d4@72dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20241107T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20241107T084500Z
+SUMMARY:Style i techniki negocjacji biznesowych (wykład do wyboru)
+UID:621d8e1b-9547-4f9f-aa3d-3cd2e12bf4e2@621d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Agnieszka Kawecka
+DTEND:20250120T111500Z
+LOCATION:Paw.S sala 7
+DTSTART:20250120T103000Z
+SUMMARY:Opakowalnictwo (wykład)
+UID:37f5c03b-ef3c-403b-9637-b5ff5a69759c@37f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20241029T120000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241029T103000Z
+SUMMARY:Grafika inżynierska (ćwiczenia)
+UID:67a0428b-0f00-4d6b-8c7a-26d578c64f5f@67a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20250109T083000Z
+LOCATION:Paw.F 106
+DTSTART:20250109T070000Z
+SUMMARY:Wspomaganie procesów decyzyjnych (konwersatorium)
+UID:6c0fa83e-007d-43c8-86e7-15b3e27cd3e5@6c0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Piotr Przybek
+DTEND:20241001T180000Z
+LOCATION:208 paw.U (tylko Kat. Rach)
+DTSTART:20241001T163000Z
+SUMMARY:Statystyczna analiza danych (ćwiczenia)
+UID:9e7d2b1e-9dc0-409f-941a-43b4929a4fd6@9e7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Justyna Syguła-Cholewińska
+DTEND:20241216T100000Z
+LOCATION:Paw.F 516
+DTSTART:20241216T074500Z
+SUMMARY:Ocena jakości mikrobiologicznej produktów w badaniach laboratoryjnych (wykład do wyboru)
+UID:72a96ada-c2a9-41d6-a2f0-ca02ed31a1c1@72a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Witko
+DTEND:20241015T110000Z
+LOCATION:Paw.U sala L(prac.rys. tech.)
+DTSTART:20241015T093000Z
+SUMMARY:Grafika inżynierska (ćwiczenia)
+UID:ef54b1f1-9eee-4f59-86ab-432afbe8c3cb@ef54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Natalia Kozik
+DTEND:20241119T153000Z
+LOCATION:Paw.U sala S(Kat.Opak.)
+DTSTART:20241119T140000Z
+SUMMARY:Opakowalnictwo (laboratorium)
+UID:3718fd85-681e-4774-b629-1405c424de39@3718.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mariola Wiater
+DTEND:20241024T091500Z
+LOCATION:Paw.C sala A
+DTSTART:20241024T074500Z
+SUMMARY:Style i techniki negocjacji biznesowych (wykład do wyboru)
+UID:4c72d406-acce-473e-9da4-54ee09ac010a@4c72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241112T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20241112T084500Z
+SUMMARY:Substancje dodatkowe w rozwoju produktu żywnościowego (wykład do wyboru)
+UID:eb538f4f-d512-4834-a464-fa53e27ff53f@eb53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Małgorzata Miśniakiewicz
+DTEND:20241029T101500Z
+LOCATION:Paw.C sala A
+DTSTART:20241029T084500Z
+SUMMARY:Substancje dodatkowe w rozwoju produktu żywnościowego (wykład do wyboru)
+UID:c147d9e0-12ae-4bf3-a1c5-073a43585622@c147.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Sabina Mrówka
+DTEND:20241212T083000Z
+LOCATION:Paw.F 106
+DTSTART:20241212T070000Z
+SUMMARY:Wspomaganie procesów decyzyjnych (konwersatorium)
+UID:eac3c1dc-132b-4e6f-9ba0-3c80385ad52d@eac3.org
+END:VEVENT
+END:VCALENDAR

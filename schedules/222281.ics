@@ -1,0 +1,412 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Woźniak
+DTEND:20241206T170000Z
+LOCATION:Paw.F 413
+DTSTART:20241206T144500Z
+SUMMARY:Zarządzanie procesami innowacyjnymi (ćwiczenia)
+UID:b9c15689-4679-4e64-b175-c5317f6c910b@b9c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karol Małecki
+DTEND:20241117T100000Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241117T074500Z
+SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
+UID:8bad92b1-ac3a-4dc1-a656-6cc59901b6ed@8bad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20241116T161500Z
+LOCATION:link do zajęć
+DTSTART:20241116T140000Z
+SUMMARY:Zarządzanie prawami własności intelektualnej (wykład)
+UID:44b3890f-dd0c-48e6-9f5e-a06cad91b8a2@44b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Winkler
+DTEND:20241013T114500Z
+LOCATION:link do zajęć
+DTSTART:20241013T093000Z
+SUMMARY:Techniki komunikacyjne (wykład)
+UID:d12214bb-29a9-4169-95c7-c839aef5bbe4@d122.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karol Małecki
+DTEND:20241019T170000Z
+LOCATION:Bibl. 440
+DTSTART:20241019T144500Z
+SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
+UID:2d9aa1fa-e86a-4b7e-8600-ef16620a999c@2d9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Krzysztof Rudziński
+DTEND:20241214T100000Z
+LOCATION:Paw.F 713  Kat.Bank./sala dyd.
+DTSTART:20241214T074500Z
+SUMMARY:Techniki komunikacyjne (ćwiczenia)
+UID:54823b79-eb8b-4d16-bf68-10f9757fc0f7@5482.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Kafel
+DTEND:20250110T170000Z
+LOCATION:L Paw.A 401
+DTSTART:20250110T144500Z
+SUMMARY:Metody twórczego myślenia (ćwiczenia)
+UID:73baf953-f758-4e5b-a05c-76914c0696ee@73ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Kafel
+DTEND:20241221T124500Z
+LOCATION:Paw.A 301b
+DTSTART:20241221T103000Z
+SUMMARY:Metody twórczego myślenia (ćwiczenia)
+UID:964244e2-b5fa-4ead-83b1-7c968fb4f074@9642.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karol Małecki
+DTEND:20250125T100000Z
+LOCATION:Bibl.425
+DTSTART:20250125T074500Z
+SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
+UID:3d52f286-1c20-4d51-a585-8e9135637825@3d52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Woźniak
+DTEND:20241012T114500Z
+LOCATION:Bibl. 440
+DTSTART:20241012T093000Z
+SUMMARY:Zarządzanie procesami innowacyjnymi (ćwiczenia)
+UID:acdb9991-4e3b-4d4b-8163-4ca73513f2cd@acdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Cabała
+DTEND:20241013T090000Z
+LOCATION:link do zajęć
+DTSTART:20241013T064500Z
+SUMMARY:Zarządzanie procesami innowacyjnymi (wykład)
+UID:19ab3a65-9692-48e8-862d-cfb4ee159c2f@19ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20241208T124500Z
+LOCATION:link do zajęć
+DTSTART:20241208T103000Z
+SUMMARY:Zarządzanie prawami własności intelektualnej (wykład)
+UID:48370b49-0ec0-4bfc-9d8c-5f4da4816a27@4837.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Krzysztof Rudziński
+DTEND:20241019T090000Z
+LOCATION:Paw.F 413
+DTSTART:20241019T064500Z
+SUMMARY:Techniki komunikacyjne (ćwiczenia)
+UID:a2d82eef-212e-4bd0-8339-b787304f587c@a2d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Kafel
+DTEND:20241123T184500Z
+LOCATION:Paw.C sala A
+DTSTART:20241123T163000Z
+SUMMARY:Metody twórczego myślenia (ćwiczenia)
+UID:f410ed03-1469-45ba-b089-47af79c986d7@f410.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20241214T124500Z
+LOCATION:Paw.U sala N
+DTSTART:20241214T103000Z
+SUMMARY:Biznes plan (ćwiczenia)
+UID:799a7e76-1844-450f-89a0-6a4be7d700e6@799a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Krzysztof Rudziński
+DTEND:20241207T184500Z
+LOCATION:Paw.F 717
+DTSTART:20241207T163000Z
+SUMMARY:Techniki komunikacyjne (ćwiczenia)
+UID:eb6a5182-0f2c-4c56-bdb8-172d95031105@eb6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20241026T090000Z
+LOCATION:link do zajęć
+DTSTART:20241026T064500Z
+SUMMARY:Biznes plan (wykład)
+UID:8d176005-ae71-4552-8a4f-fee4123b4750@8d17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20241027T124500Z
+LOCATION:link do zajęć
+DTSTART:20241027T103000Z
+SUMMARY:Zarządzanie prawami własności intelektualnej (wykład)
+UID:96f027ce-ddf0-4a5b-a876-39ad2379f17a@96f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20241215T100000Z
+LOCATION:link do zajęć
+DTSTART:20241215T074500Z
+SUMMARY:Zarządzanie prawami własności intelektualnej (wykład)
+UID:6b162477-fde2-47d0-8221-6c9ecbc2a2eb@6b16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karol Małecki
+DTEND:20241221T161500Z
+LOCATION:Paw.A 301b
+DTSTART:20241221T140000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
+UID:1d593c2d-a114-4c42-b54e-976bf9888785@1d59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20241116T100000Z
+LOCATION:link do zajęć
+DTSTART:20241116T074500Z
+SUMMARY:Biznes plan (wykład)
+UID:7aa3fc30-553c-4cba-bf94-e53474666466@7aa3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Sołtysik
+DTEND:20241026T141500Z
+LOCATION:link do zajęć
+DTSTART:20241026T120000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
+UID:41470e7d-0dcb-4250-9596-9a84401a803f@4147.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Kafel
+DTEND:20241208T100000Z
+LOCATION:link do zajęć
+DTSTART:20241208T074500Z
+SUMMARY:Metody twórczego myślenia (wykład)
+UID:d69c610b-ff88-4e63-bf9c-73eefb81aa2f@d69c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Kafel
+DTEND:20241018T160000Z
+LOCATION:link do zajęć
+DTSTART:20241018T134500Z
+SUMMARY:Metody twórczego myślenia (wykład)
+UID:7cd130d5-27aa-40bd-a9a8-7f1a91252fcc@7cd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20250111T100000Z
+LOCATION:Rakowicka 16 sala 13
+DTSTART:20250111T074500Z
+SUMMARY:Biznes plan (ćwiczenia)
+UID:3b8fd250-cc58-407d-bd2b-7e7f00e75256@3b8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20241130T100000Z
+LOCATION:link do zajęć
+DTSTART:20241130T074500Z
+SUMMARY:Zarządzanie prawami własności intelektualnej (wykład)
+UID:426b44a6-1e85-465c-976d-e34a2d7fe0a6@426b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20241222T124500Z
+LOCATION:L Paw.A 401
+DTSTART:20241222T103000Z
+SUMMARY:Biznes plan (ćwiczenia)
+UID:e7da3b6a-f305-4f41-8f6d-1d3d25082a91@e7da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Woźniak
+DTEND:20241025T160000Z
+LOCATION:Paw.B 053 (KSB)
+DTSTART:20241025T134500Z
+SUMMARY:Zarządzanie procesami innowacyjnymi (ćwiczenia)
+UID:c43bd620-7870-42ad-b2c0-28ee4d6da0fe@c43b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20250112T110000Z
+LOCATION:link do zajęć
+DTSTART:20250112T084500Z
+SUMMARY:Zarządzanie prawami własności intelektualnej (wykład)
+UID:4a5fd9ff-c510-45f5-af0d-7215c31b0136@4a5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20250125T124500Z
+LOCATION:L Paw.A 401
+DTSTART:20250125T103000Z
+SUMMARY:Biznes plan (ćwiczenia)
+UID:c9eb87e3-bdad-4a4f-a96f-59c06d0ff9ec@c9eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20241130T124500Z
+LOCATION:link do zajęć
+DTSTART:20241130T103000Z
+SUMMARY:Biznes plan (wykład)
+UID:99bb7966-c1e0-47b1-9e6c-aa54822a5abe@99bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Woźniak
+DTEND:20250111T124500Z
+LOCATION:Bud.gł. 7
+DTSTART:20250111T103000Z
+SUMMARY:Zarządzanie procesami innowacyjnymi (ćwiczenia)
+UID:28639001-bd01-4c2f-bbdb-269d38d540b7@2863.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karol Małecki
+DTEND:20241207T161500Z
+LOCATION:L Paw.A 401
+DTSTART:20241207T140000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
+UID:c6144c77-f763-4c81-8def-881c5166f796@c614.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Cabała
+DTEND:20241026T114500Z
+LOCATION:link do zajęć
+DTSTART:20241026T093000Z
+SUMMARY:Zarządzanie procesami innowacyjnymi (wykład)
+UID:b2747fe7-31e9-4805-996b-9cc4015c35e8@b274.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Krzysztof Rudziński
+DTEND:20241117T124500Z
+LOCATION:Paw.F 413
+DTSTART:20241117T103000Z
+SUMMARY:Techniki komunikacyjne (ćwiczenia)
+UID:6d762c01-b912-436a-9ead-f1c96f8d0e2b@6d76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20241207T100000Z
+LOCATION:Paw.U sala P (KatRozOrg)
+DTSTART:20241207T074500Z
+SUMMARY:Biznes plan (ćwiczenia)
+UID:0e0d0f4c-7cc4-4ed4-beaa-35eaa52b27f3@0e0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karol Małecki
+DTEND:20241213T170000Z
+LOCATION:Bibl.425
+DTSTART:20241213T144500Z
+SUMMARY:Zarządzanie zasobami ludzkimi (ćwiczenia)
+UID:0ac1bd9f-7768-4161-9e8d-9046e7c5382b@0ac1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Kafel
+DTEND:20241124T124500Z
+LOCATION:link do zajęć
+DTSTART:20241124T103000Z
+SUMMARY:Metody twórczego myślenia (wykład)
+UID:5ee6e3c3-a101-4233-84b9-1c66cd418f48@5ee6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Paweł Cabała
+DTEND:20241020T114500Z
+LOCATION:link do zajęć
+DTSTART:20241020T093000Z
+SUMMARY:Zarządzanie procesami innowacyjnymi (wykład)
+UID:813913cb-25a0-4986-b619-fc9f13f1b217@8139.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Krzysztof Rudziński
+DTEND:20241012T090000Z
+LOCATION:Bibl. 443
+DTSTART:20241012T064500Z
+SUMMARY:Techniki komunikacyjne (ćwiczenia)
+UID:f1a788ec-c0f5-4715-bb58-11469f1d428a@f1a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Woźniak
+DTEND:20241123T161500Z
+LOCATION:Paw.C sala B
+DTSTART:20241123T140000Z
+SUMMARY:Zarządzanie procesami innowacyjnymi (ćwiczenia)
+UID:6aefcf10-2db7-4b3a-b90a-02cf4dc22e55@6aef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Sołtysik
+DTEND:20241116T124500Z
+LOCATION:link do zajęć
+DTSTART:20241116T103000Z
+SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
+UID:78ff99ae-7976-4c16-aceb-b8899ec63b2e@78ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Woźniak
+DTEND:20241221T100000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241221T074500Z
+SUMMARY:Zarządzanie procesami innowacyjnymi (ćwiczenia)
+UID:f89ec9fa-9649-4815-95a4-2e8035687a5f@f89e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Krzysztof Rudziński
+DTEND:20241221T184500Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241221T163000Z
+SUMMARY:Techniki komunikacyjne (ćwiczenia)
+UID:5f04a9d0-3cda-4d88-9b10-2721cd16689d@5f04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Mariusz Sołtysik
+DTEND:20241124T100000Z
+LOCATION:link do zajęć
+DTSTART:20241124T074500Z
+SUMMARY:Zarządzanie zasobami ludzkimi (wykład)
+UID:f0f25e1d-40c0-483c-b1f8-b6acfcbbc1bd@f0f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Winkler
+DTEND:20241018T184500Z
+LOCATION:link do zajęć
+DTSTART:20241018T163000Z
+SUMMARY:Techniki komunikacyjne (wykład)
+UID:ce44b435-17a9-4ead-a6d9-3b04ddd1d734@ce44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Kafel
+DTEND:20241019T114500Z
+LOCATION:Paw.C sala A
+DTSTART:20241019T093000Z
+SUMMARY:Metody twórczego myślenia (ćwiczenia)
+UID:bc8443b9-5a75-44f3-8882-2fa440c0c72a@bc84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Kafel
+DTEND:20241207T124500Z
+LOCATION:L Paw.A 401
+DTSTART:20241207T103000Z
+SUMMARY:Metody twórczego myślenia (ćwiczenia)
+UID:98891b01-e34f-4d3f-8b42-35771809b72d@9889.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Krzysztof Kosiec
+DTEND:20241020T090000Z
+LOCATION:link do zajęć
+DTSTART:20241020T064500Z
+SUMMARY:Biznes plan (wykład)
+UID:e444696b-f48a-4ffe-b860-e689d7563468@e444.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Kafel
+DTEND:20241115T170000Z
+LOCATION:L Paw.A 401
+DTSTART:20241115T144500Z
+SUMMARY:Metody twórczego myślenia (ćwiczenia)
+UID:6c01d249-6af1-4c10-9a13-4dcc9077202b@6c01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Renata Winkler
+DTEND:20241027T100000Z
+LOCATION:link do zajęć
+DTSTART:20241027T074500Z
+SUMMARY:Techniki komunikacyjne (wykład)
+UID:ce7dfe93-80be-497e-8981-1c7851c8e4af@ce7d.org
+END:VEVENT
+END:VCALENDAR

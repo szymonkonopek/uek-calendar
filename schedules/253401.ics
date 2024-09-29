@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Alicja Dudek
+DTEND:20241130T114500Z
+LOCATION:Paw.S sala 5
+DTSTART:20241130T093000Z
+SUMMARY:Diversity and Inclusion in the Workplace (konwersatorium do wyboru)
+UID:334b4e2f-48c1-49ed-a9e1-de44a0e553df@334b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
+DTEND:20241222T114500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241222T093000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:57387dad-7cdd-46e1-8ef6-f3fe02af5df5@5738.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20250119T091500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20250119T070000Z
+SUMMARY:Economic Aspects of Financial and Alternative Markets (konwersatorium)
+UID:449ac758-d947-4184-a98d-c348a4b523ce@449a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marzena Piszczek
+DTEND:20241129T194500Z
+LOCATION:Paw.F 109
+DTSTART:20241129T173000Z
+SUMMARY:Corporate governance (konwersatorium)
+UID:6deeecee-6377-46cd-b4ab-8b0e9a02c4f0@6dee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20241222T091500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241222T070000Z
+SUMMARY:Economic Aspects of Financial and Alternative Markets (konwersatorium)
+UID:717583aa-10f2-47f5-b6f6-908bd26248c5@7175.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20241201T091500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241201T070000Z
+SUMMARY:Economic Aspects of Financial and Alternative Markets (konwersatorium)
+UID:ee0b751c-5328-40f4-ac96-76e6f2b7afac@ee0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
+DTEND:20250119T143000Z
+LOCATION:Paw.A 09 lab. Win8.1\, Office21
+DTSTART:20250119T121500Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:d4cc3452-af95-4b09-9027-f7e7f314b503@d4cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Alicja Dudek
+DTEND:20250118T114500Z
+LOCATION:Paw.F 717
+DTSTART:20250118T093000Z
+SUMMARY:Diversity and Inclusion in the Workplace (konwersatorium do wyboru)
+UID:929bf2ac-294f-40d1-87fb-977c9b4a2b2b@929b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
+DTEND:20241026T104500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241026T083000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:29cf8781-3073-4b3c-88cd-fb429116809d@29cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20241027T091500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20241027T070000Z
+SUMMARY:Economic Aspects of Financial and Alternative Markets (konwersatorium)
+UID:d51be47f-9c9a-412f-b958-070df4c9ecdb@d51b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Alicja Dudek
+DTEND:20241026T081500Z
+LOCATION:Paw.F 717
+DTSTART:20241026T060000Z
+SUMMARY:Diversity and Inclusion in the Workplace (konwersatorium do wyboru)
+UID:64737b59-682d-4595-9c07-0b0449a1da4c@6473.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marzena Piszczek
+DTEND:20241130T170000Z
+LOCATION:Paw.F 008
+DTSTART:20241130T144500Z
+SUMMARY:Corporate governance (konwersatorium)
+UID:6b3713f9-7e7c-4024-b7f6-a66c37664321@6b37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241201T114500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241201T093000Z
+SUMMARY:Empirical Methods of Risk Assessment (konwersatorium)
+UID:777135f7-9891-4f8e-a9ba-b705a25d965c@7771.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Marzena Piszczek
+DTEND:20241208T143000Z
+LOCATION:Paw.F 717
+DTSTART:20241208T121500Z
+SUMMARY:Corporate governance (konwersatorium)
+UID:36e04487-6ed2-4ff7-9562-61fafb9c676f@36e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
+DTEND:20241027T143000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241027T121500Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:5df0664f-a977-4943-83da-07aedc1644b2@5df0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
+DTEND:20241116T091500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241116T070000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:c5a1e16b-2f01-4c66-9632-de63ada81eab@c5a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20250119T114500Z
+LOCATION:Paw.A 115 lab.Win8.1\, Office21
+DTSTART:20250119T093000Z
+SUMMARY:Empirical Methods of Risk Assessment (konwersatorium)
+UID:c0facb6f-09a2-4832-b7e2-ba9d43cec38a@c0fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof.UEK dr hab.inż. Kamil Makieła
+DTEND:20241207T114500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241207T093000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:d8878c96-48bf-4930-99c1-afca62a6ff45@d887.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Alicja Dudek
+DTEND:20241222T143000Z
+LOCATION:Paw.F 008
+DTSTART:20241222T121500Z
+SUMMARY:Diversity and Inclusion in the Workplace (konwersatorium do wyboru)
+UID:6cb64284-9ab9-40b5-a671-8b6d036e74cf@6cb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20241116T170000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241116T144500Z
+SUMMARY:Economic Aspects of Financial and Alternative Markets (konwersatorium)
+UID:fde898d0-d4cf-44d5-bc25-90db22dd172b@fde8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Alicja Dudek
+DTEND:20241208T114500Z
+LOCATION:Paw.F 106
+DTSTART:20241208T093000Z
+SUMMARY:Diversity and Inclusion in the Workplace (konwersatorium do wyboru)
+UID:df8ab514-9966-47a1-8649-889003714e5d@df8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241208T091500Z
+LOCATION:Paw.A 118 lab. Win10\, Office21
+DTSTART:20241208T070000Z
+SUMMARY:Empirical Methods of Risk Assessment (konwersatorium)
+UID:ac854c9a-36d7-4e90-9cbf-86a5bf15bab9@ac85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241207T170000Z
+LOCATION:Paw.A 014 lab. Win8.1 Office21
+DTSTART:20241207T144500Z
+SUMMARY:Empirical Methods of Risk Assessment (konwersatorium)
+UID:f95fc940-4a78-4cd2-bfcb-3ebee92cbf7c@f95f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241221T170000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241221T144500Z
+SUMMARY:Empirical Methods of Risk Assessment (konwersatorium)
+UID:1c2cab8d-7d72-474c-b9ff-50ff9054c87e@1c2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Oleksy
+DTEND:20241207T091500Z
+LOCATION:Paw.A 117 lab. Win10\, Office21
+DTSTART:20241207T070000Z
+SUMMARY:Economic Aspects of Financial and Alternative Markets (konwersatorium)
+UID:4eb36c9c-5cd5-4c61-aacc-72e13d1d0685@4eb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Marcin Czupryna
+DTEND:20241027T114500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241027T093000Z
+SUMMARY:Empirical Methods of Risk Assessment (konwersatorium)
+UID:61262046-d51c-4a46-8272-25c55706c4ee@6126.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Alicja Dudek
+DTEND:20241221T143000Z
+LOCATION:Paw.S sala 9
+DTSTART:20241221T121500Z
+SUMMARY:Diversity and Inclusion in the Workplace (konwersatorium do wyboru)
+UID:8d0b020c-0657-444e-936c-373c97bc9223@8d0b.org
+END:VEVENT
+END:VCALENDAR

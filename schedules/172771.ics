@@ -1,0 +1,484 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
+DTEND:20241012T081500Z
+LOCATION:link do zajęć
+DTSTART:20241012T060000Z
+SUMMARY:Ekonomika i organizacja przedsiębiorstw usługowych (wykład)
+UID:104bf0f6-f25c-4484-a204-df26cfb5c6ef@104b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jadwiga Berbeka
+DTEND:20241116T100000Z
+LOCATION:link do zajęć
+DTSTART:20241116T074500Z
+SUMMARY:Turystyka społeczna (wykład)
+UID:8a3dd916-94ea-45d1-8c19-d7cba7a32aa5@8a3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dominik Ziarkowski
+DTEND:20241201T114500Z
+LOCATION:Bibl. 443
+DTSTART:20241201T093000Z
+SUMMARY:Historia turystyki i rekreacji (ćwiczenia)
+UID:616e3f29-f3ae-4b91-8213-746d999c87ae@616e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20250110T170000Z
+LOCATION:Paw.B 251
+DTSTART:20250110T144500Z
+SUMMARY:Podstawy marketingu (ćwiczenia)
+UID:8e8e7f6c-9cbe-4143-adcf-2189d731e7bc@8e8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dominik Ziarkowski
+DTEND:20250111T143000Z
+LOCATION:L Paw.A 401
+DTSTART:20250111T121500Z
+SUMMARY:Historia turystyki i rekreacji (ćwiczenia)
+UID:fdbb5a4d-ec3e-4108-bba6-9458c56873b3@fdbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Lipecki
+DTEND:20241206T170000Z
+LOCATION:L Paw.A 401
+DTSTART:20241206T144500Z
+SUMMARY:Pierwsza pomoc przedmedyczna (ćwiczenia)
+UID:64172ff6-566d-40b5-bfb2-9ad75962e3c9@6417.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernadetta Zawilińska
+DTEND:20241208T091500Z
+LOCATION:link do zajęć
+DTSTART:20241208T070000Z
+SUMMARY:Geografia turystyczna (wykład)
+UID:80a58dae-4870-47ec-9e61-530e1bbf4fea@80a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Rudnicki
+DTEND:20241025T160000Z
+LOCATION:Bibl. 443
+DTSTART:20241025T134500Z
+SUMMARY:Funkcjonowanie biur podróży (konwersatorium)
+UID:b9841253-0c0e-488c-928e-f5047e1fe626@b984.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Rudnicki
+DTEND:20241115T170000Z
+LOCATION:Paw.B 251
+DTSTART:20241115T144500Z
+SUMMARY:Funkcjonowanie biur podróży (konwersatorium)
+UID:6b1da169-6b46-4333-a6a8-1e967eda4db3@6b1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dominik Ziarkowski
+DTEND:20241124T091500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241124T070000Z
+SUMMARY:Krajoznawstwo (ćwiczenia)
+UID:345d6ae2-5d7f-449e-8da2-dd7a9cf97e6c@345d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
+DTEND:20241027T091500Z
+LOCATION:link do zajęć
+DTSTART:20241027T070000Z
+SUMMARY:Ekonomika i organizacja przedsiębiorstw usługowych (wykład)
+UID:17d91355-c61f-451a-9b65-684454877d39@17d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernadetta Zawilińska
+DTEND:20241207T114500Z
+LOCATION:link do zajęć
+DTSTART:20241207T093000Z
+SUMMARY:Krajoznawstwo (wykład)
+UID:70f31739-1b12-400f-af92-282e084f5182@70f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernadetta Zawilińska
+DTEND:20241013T081500Z
+LOCATION:link do zajęć
+DTSTART:20241013T060000Z
+SUMMARY:Geografia turystyczna (wykład)
+UID:c70ae5a2-34d1-43eb-bf4f-7aa8668a747f@c70a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20241012T133000Z
+LOCATION:link do zajęć
+DTSTART:20241012T111500Z
+SUMMARY:Podstawy marketingu (wykład)
+UID:b52b98a1-d099-4294-95e2-c499d75007fc@b52b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Lipecki
+DTEND:20250111T091500Z
+LOCATION:L Paw.A 401
+DTSTART:20250111T070000Z
+SUMMARY:Pierwsza pomoc przedmedyczna (ćwiczenia)
+UID:e3c599b8-e4c9-4d21-a787-8ea98a7570ec@e3c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernadetta Zawilińska
+DTEND:20241005T081500Z
+LOCATION:link do zajęć
+DTSTART:20241005T060000Z
+SUMMARY:Geografia turystyczna (wykład)
+UID:61857b2b-cf17-45af-93da-778af9661fce@6185.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20241221T091500Z
+LOCATION:Paw.B 451
+DTSTART:20241221T070000Z
+SUMMARY:Partnerstwo na rynku turystycznym (ćwiczenia)
+UID:6f982f96-b302-495c-9a4f-54c1805012eb@6f98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20241214T143000Z
+LOCATION:link do zajęć
+DTSTART:20241214T121500Z
+SUMMARY:Ubezpieczenia w turystyce (wykład)
+UID:d3ab9292-a1da-43ad-8bf0-3b288dd08051@d3ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20241026T081500Z
+LOCATION:link do zajęć
+DTSTART:20241026T060000Z
+SUMMARY:Ubezpieczenia w turystyce (wykład)
+UID:9a0a29bb-2e7f-406e-b599-d6040312eba1@9a0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20241013T133000Z
+LOCATION:link do zajęć
+DTSTART:20241013T111500Z
+SUMMARY:Partnerstwo na rynku turystycznym (wykład)
+UID:4b6f6ee1-13a0-4a7b-9a26-a3fd09f122f8@4b6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
+DTEND:20241005T133000Z
+LOCATION:link do zajęć
+DTSTART:20241005T111500Z
+SUMMARY:Ekonomika i organizacja przedsiębiorstw usługowych (wykład)
+UID:dc92af4b-a24b-4d55-b579-1d132b295603@dc92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20241129T170000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241129T144500Z
+SUMMARY:Partnerstwo na rynku turystycznym (ćwiczenia)
+UID:9fe8079e-6a2e-411a-a610-66ff6b726226@9fe8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20241006T104500Z
+LOCATION:link do zajęć
+DTSTART:20241006T083000Z
+SUMMARY:Podstawy marketingu (wykład)
+UID:3cf8d411-323d-4d9a-a0d6-babb32840c7b@3cf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Grażyna Sordyl
+DTEND:20241117T091500Z
+LOCATION:link do zajęć
+DTSTART:20241117T070000Z
+SUMMARY:Ubezpieczenia w turystyce (wykład)
+UID:0234c786-eaff-4546-b94c-28f3b80eb148@0234.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20250125T091500Z
+LOCATION:Paw.C sala A
+DTSTART:20250125T070000Z
+SUMMARY:Podstawy marketingu (ćwiczenia)
+UID:d6a02f28-161a-4f22-9087-ffa94fbb7642@d6a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20250124T170000Z
+LOCATION:Paw.B 251
+DTSTART:20250124T144500Z
+SUMMARY:Partnerstwo na rynku turystycznym (ćwiczenia)
+UID:85f2848a-5aaa-4cdd-86a0-5831f3f03cc8@85f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
+DTEND:20241207T091500Z
+LOCATION:link do zajęć
+DTSTART:20241207T070000Z
+SUMMARY:Ekonomika i organizacja przedsiębiorstw usługowych (wykład)
+UID:18fb5dc4-354e-4090-bcdf-7e74146b35f9@18fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernadetta Zawilińska
+DTEND:20241221T114500Z
+LOCATION:Paw.F 715
+DTSTART:20241221T093000Z
+SUMMARY:Geografia turystyczna (ćwiczenia)
+UID:9b48e997-1dae-4702-a190-e8ee074d97d0@9b48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20241004T160000Z
+LOCATION:link do zajęć
+DTSTART:20241004T134500Z
+SUMMARY:Podstawy marketingu (wykład)
+UID:f5f9e8fe-d3ed-4b2a-8c78-f4182309c535@f5f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernadetta Zawilińska
+DTEND:20241006T133000Z
+LOCATION:link do zajęć
+DTSTART:20241006T111500Z
+SUMMARY:Geografia turystyczna (wykład)
+UID:eed02bbb-8b21-4c2f-8544-a2ee396ae310@eed0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jadwiga Berbeka
+DTEND:20241005T104500Z
+LOCATION:link do zajęć
+DTSTART:20241005T083000Z
+SUMMARY:Turystyka społeczna (wykład)
+UID:e084a5c2-1d6e-4e5c-b4d9-89fbed462b40@e084.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernadetta Zawilińska
+DTEND:20241026T133000Z
+LOCATION:link do zajęć
+DTSTART:20241026T111500Z
+SUMMARY:Krajoznawstwo (wykład)
+UID:d5ab3b8d-d303-49b3-bf0e-c6d1f27d5b84@d5ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dominik Ziarkowski
+DTEND:20241123T143000Z
+LOCATION:link do zajęć
+DTSTART:20241123T121500Z
+SUMMARY:Historia turystyki i rekreacji (wykład)
+UID:70dbf290-82cd-4523-829a-fe7619b8f913@70db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dominik Ziarkowski
+DTEND:20250111T114500Z
+LOCATION:L Paw.A 401
+DTSTART:20250111T093000Z
+SUMMARY:Krajoznawstwo (ćwiczenia)
+UID:e4fd2079-073e-44cf-a1e8-884088d27bbc@e4fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernadetta Zawilińska
+DTEND:20241006T160000Z
+LOCATION:link do zajęć
+DTSTART:20241006T134500Z
+SUMMARY:Krajoznawstwo (wykład)
+UID:d660c7dd-33ea-4344-93d3-d7e2a6c4f4e4@d660.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernadetta Zawilińska
+DTEND:20241026T104500Z
+LOCATION:link do zajęć
+DTSTART:20241026T083000Z
+SUMMARY:Geografia turystyczna (wykład)
+UID:884e17c0-1245-493a-9cbb-54f55716704a@884e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20241116T124500Z
+LOCATION:link do zajęć
+DTSTART:20241116T103000Z
+SUMMARY:Podstawy marketingu (wykład)
+UID:7c74bfc5-e36f-4e69-882b-2b8fefda415c@7c74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dominik Ziarkowski
+DTEND:20241124T114500Z
+LOCATION:L Paw.A 401
+DTSTART:20241124T093000Z
+SUMMARY:Historia turystyki i rekreacji (ćwiczenia)
+UID:411b8823-61d9-464d-ba5e-58047d965870@411b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernadetta Zawilińska
+DTEND:20241130T091500Z
+LOCATION:link do zajęć
+DTSTART:20241130T070000Z
+SUMMARY:Geografia turystyczna (wykład)
+UID:0e4d3898-7a30-4d35-b599-89de65acfd0b@0e4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dominik Ziarkowski
+DTEND:20241201T091500Z
+LOCATION:Paw.B 054 (KSB)
+DTSTART:20241201T070000Z
+SUMMARY:Krajoznawstwo (ćwiczenia)
+UID:dd5adc35-8aa8-4e75-9fa7-a0ab2b58a1bb@dd5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
+DTEND:20241201T143000Z
+LOCATION:Bibl. 440
+DTSTART:20241201T121500Z
+SUMMARY:Ekonomika i organizacja przedsiębiorstw usługowych (ćwiczenia)
+UID:15ae4427-753c-463e-ad21-2919d63675ef@15ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Krzysztof Lipecki
+DTEND:20241122T170000Z
+LOCATION:L Paw.A 401
+DTSTART:20241122T144500Z
+SUMMARY:Pierwsza pomoc przedmedyczna (ćwiczenia)
+UID:e0fc3167-ef29-44fc-bffa-8c3ea57e33c0@e0fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jadwiga Berbeka
+DTEND:20241117T114500Z
+LOCATION:link do zajęć
+DTSTART:20241117T093000Z
+SUMMARY:Turystyka społeczna (wykład)
+UID:c564c39e-2616-4792-bb73-2d9aa59b5e1f@c564.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
+DTEND:20241013T104500Z
+LOCATION:link do zajęć
+DTSTART:20241013T083000Z
+SUMMARY:Ekonomika i organizacja przedsiębiorstw usługowych (wykład)
+UID:cd43ccfe-25da-4dde-9b15-c4b140be7ea2@cd43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20241207T143000Z
+LOCATION:link do zajęć
+DTSTART:20241207T121500Z
+SUMMARY:Partnerstwo na rynku turystycznym (wykład)
+UID:b5043ca9-e2cf-46b3-b1a1-b65042e2e6a9@b504.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernadetta Zawilińska
+DTEND:20250125T114500Z
+LOCATION:Paw.F 717
+DTSTART:20250125T093000Z
+SUMMARY:Geografia turystyczna (ćwiczenia)
+UID:45276d0a-0742-49f7-9e8a-9921115999f4@4527.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernadetta Zawilińska
+DTEND:20241213T170000Z
+LOCATION:Paw.F 515
+DTSTART:20241213T144500Z
+SUMMARY:Geografia turystyczna (ćwiczenia)
+UID:c42089b3-3c9a-401a-878b-ded5dd916993@c420.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernadetta Zawilińska
+DTEND:20241027T143000Z
+LOCATION:link do zajęć
+DTSTART:20241027T121500Z
+SUMMARY:Krajoznawstwo (wykład)
+UID:b96c2930-92b2-49c1-bc10-da0c3a1cf228@b96c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20241220T170000Z
+LOCATION:Paw.C sala C
+DTSTART:20241220T144500Z
+SUMMARY:Podstawy marketingu (ćwiczenia)
+UID:948add49-15b5-47db-87ac-5e4110251631@948a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
+DTEND:20241215T143000Z
+LOCATION:Bibl. 441
+DTSTART:20241215T121500Z
+SUMMARY:Ekonomika i organizacja przedsiębiorstw usługowych (ćwiczenia)
+UID:5d44ac28-7b56-47b7-a48d-a9094a9c5554@5d44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
+DTEND:20250125T143000Z
+LOCATION:Paw.A 301b
+DTSTART:20250125T121500Z
+SUMMARY:Ekonomika i organizacja przedsiębiorstw usługowych (ćwiczenia)
+UID:29bb83e0-27ea-42e6-a0d6-dbed3f6456f7@29bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dominik Ziarkowski
+DTEND:20241214T091500Z
+LOCATION:link do zajęć
+DTSTART:20241214T070000Z
+SUMMARY:Historia turystyki i rekreacji (wykład)
+UID:361679a6-0173-4b38-ab64-d8b03563efe5@3616.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20241027T114500Z
+LOCATION:link do zajęć
+DTSTART:20241027T093000Z
+SUMMARY:Podstawy marketingu (wykład)
+UID:b512b27e-a2d3-450d-80c7-33164db4d763@b512.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Iryna Manczak
+DTEND:20241123T114500Z
+LOCATION:link do zajęć
+DTSTART:20241123T093000Z
+SUMMARY:Partnerstwo na rynku turystycznym (wykład)
+UID:65d37382-c1b0-484d-a139-6fc44f0347ab@65d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Tomasz Smoleń
+DTEND:20241214T114500Z
+LOCATION:link do zajęć
+DTSTART:20241214T093000Z
+SUMMARY:Podstawy marketingu (wykład)
+UID:ccd1f172-d866-4a02-80b4-cdafc674ed13@ccd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernadetta Zawilińska
+DTEND:20241123T091500Z
+LOCATION:link do zajęć
+DTSTART:20241123T070000Z
+SUMMARY:Krajoznawstwo (wykład)
+UID:c38360a8-bda2-4c0d-81b9-cad4fc3ff672@c383.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Michał Rudnicki
+DTEND:20241221T143000Z
+LOCATION:L Paw.A 401
+DTSTART:20241221T121500Z
+SUMMARY:Funkcjonowanie biur podróży (konwersatorium)
+UID:712d40e3-30c2-48b0-943d-c602472b9055@712d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr Agata Jonas
+DTEND:20241130T114500Z
+LOCATION:link do zajęć
+DTSTART:20241130T093000Z
+SUMMARY:Ekonomika i organizacja przedsiębiorstw usługowych (wykład)
+UID:ab0a7709-8595-4437-8764-451da67a3953@ab0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Bernadetta Zawilińska
+DTEND:20241130T143000Z
+LOCATION:link do zajęć
+DTSTART:20241130T121500Z
+SUMMARY:Krajoznawstwo (wykład)
+UID:5d9a5f96-6923-4795-b2bd-4c8243119f53@5d9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dominik Ziarkowski
+DTEND:20241004T184500Z
+LOCATION:link do zajęć
+DTSTART:20241004T163000Z
+SUMMARY:Historia turystyki i rekreacji (wykład)
+UID:f2cc24b7-8a4d-4a66-b7f8-c81a53e861db@f2cc.org
+END:VEVENT
+END:VCALENDAR

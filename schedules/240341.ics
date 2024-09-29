@@ -1,0 +1,1106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241211T120000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241211T103000Z
+SUMMARY:Knowledge Management (ćwiczenia)
+UID:f4ecdb8f-8d4b-430a-a1d8-b0ab44906256@f4ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20241007T124500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241007T111500Z
+SUMMARY:Computer System Administration (ćwiczenia)
+UID:7088d80c-eb76-4a4c-a5ab-cd73faab88f7@7088.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20250115T101500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20250115T084500Z
+SUMMARY:Knowledge Management (wykład)
+UID:415942d7-a2bc-4edb-b4ae-b757b08374cf@4159.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20241029T083000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241029T070000Z
+SUMMARY:Computer Programming 5 (ćwiczenia)
+UID:3036d4f7-eb17-4d1f-b1e5-ee9c5a8e6d99@3036.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20241212T134500Z
+LOCATION:Paw.G - 1
+DTSTART:20241212T121500Z
+SUMMARY:Concurrent and Distributed Programming (wykład)
+UID:afbaf95d-a24f-4c54-8a08-59b37a923c20@afba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20241007T143000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241007T130000Z
+SUMMARY:Object-Oriented Analysis and Design (ćwiczenia)
+UID:a761905d-5b4f-432d-a166-6e6466db7112@a761.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241030T120000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241030T103000Z
+SUMMARY:Knowledge Management (ćwiczenia)
+UID:e1e62fa4-d77f-4c86-8a3b-edf03da67ea7@e1e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241106T101500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241106T084500Z
+SUMMARY:Knowledge Management (wykład)
+UID:03b30b91-3fe8-46b1-92d6-abb3b62de6b6@03b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241028T171500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241028T154500Z
+SUMMARY:IT Project Management (ćwiczenia)
+UID:0772e130-7432-498e-a822-648124d55b29@0772.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20250122T194500Z
+LOCATION:Paw.A 121 lab. Win10\, Office21
+DTSTART:20250122T173000Z
+SUMMARY:Object-Oriented Analysis and Design (ćwiczenia)
+UID:df40de27-8443-4cc0-8e4a-1ecf444d6da9@df40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241121T101500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241121T084500Z
+SUMMARY:Introduction to React (ćwiczenia do wyboru)
+UID:d88e0c5b-715c-4ae9-8555-a68843b77d41@d88e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20241119T083000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241119T070000Z
+SUMMARY:Computer Programming 5 (ćwiczenia)
+UID:4086eae0-ce48-4cf7-ab32-a43417ad3b27@4086.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20241210T134500Z
+LOCATION:Paw.G - 1
+DTSTART:20241210T121500Z
+SUMMARY:IT Project Management (wykład)
+UID:a25e319e-3cb1-4222-9c47-95d09bb98d6c@a25e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241014T161500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241014T144500Z
+SUMMARY:IT Project Management (ćwiczenia)
+UID:0a9dacee-c17f-4af4-b8e3-f8f8f6f78b1d@0a9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241023T091500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241023T074500Z
+SUMMARY:Knowledge Management (wykład)
+UID:c56918d6-94c3-4ec8-88b7-24f23c178efc@c569.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241009T091500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241009T074500Z
+SUMMARY:Knowledge Management (wykład)
+UID:d9188487-5a5a-4229-93a0-75c21998fd61@d918.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241128T101500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241128T084500Z
+SUMMARY:Introduction to React (ćwiczenia do wyboru)
+UID:4085bfa5-b718-49f4-b8d3-d9eee44505b9@4085.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20241028T134500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241028T121500Z
+SUMMARY:Computer System Administration (ćwiczenia)
+UID:7e46e639-ea34-43d1-84c1-9dbec9c5d1ca@7e46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Soja
+DTEND:20241210T120000Z
+LOCATION:Paw.U sala K
+DTSTART:20241210T103000Z
+SUMMARY:Object-Oriented Analysis and Design (wykład)
+UID:2e7b5cf2-c101-4a20-9d6a-af863fc1bbdc@2e7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20241022T073000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241022T060000Z
+SUMMARY:Computer Programming 5 (ćwiczenia)
+UID:582982ed-3aa0-4762-aae4-fc7af1d00312@5829.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20241114T134500Z
+LOCATION:Paw.G - 1
+DTSTART:20241114T121500Z
+SUMMARY:Concurrent and Distributed Programming (wykład)
+UID:d0590d3d-0513-47c9-8db7-ecefe752381a@d059.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran  dr Przemysław Rola
+DTEND:20241210T101500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241210T084500Z
+SUMMARY:Introduction to machine learning (ćwiczenia do wyboru)
+UID:5bf593c0-2139-4332-bade-0e63d0f5043f@5bf5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20241209T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241209T103000Z
+SUMMARY:Concurrent and Distributed Programming (ćwiczenia)
+UID:4846f75c-caea-42ef-bcbf-f8f8906de7da@4846.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241107T101500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241107T084500Z
+SUMMARY:Introduction to React (ćwiczenia do wyboru)
+UID:9faee63e-73d8-4496-a4a4-9cb1386d6528@9fae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20241216T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241216T103000Z
+SUMMARY:Concurrent and Distributed Programming (ćwiczenia)
+UID:d7a696f7-7e29-4dfa-80bd-e875d8058250@d7a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran  dr Przemysław Rola
+DTEND:20241015T091500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241015T074500Z
+SUMMARY:Introduction to machine learning (ćwiczenia do wyboru)
+UID:4b765adf-3ad2-46fa-a1d8-758aaa849f28@4b76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241218T101500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241218T084500Z
+SUMMARY:Knowledge Management (wykład)
+UID:c89e649f-a48b-4c65-960b-fa2d318f59fb@c89e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241202T171500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241202T154500Z
+SUMMARY:IT Project Management (ćwiczenia)
+UID:d9e0a03d-37a4-4eeb-8ef7-18c7ef620452@d9e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241218T120000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241218T103000Z
+SUMMARY:Knowledge Management (ćwiczenia)
+UID:4a5c7749-4936-4b23-9108-83625b2fa3ad@4a5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20250107T083000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20250107T070000Z
+SUMMARY:Computer Programming 5 (ćwiczenia)
+UID:52ae9e31-d33e-48fc-bbed-f8269104012b@52ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20250113T153000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250113T140000Z
+SUMMARY:Object-Oriented Analysis and Design (ćwiczenia)
+UID:488a9dff-9211-4643-95e1-4db9ca6de8b4@488a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20241128T134500Z
+LOCATION:Paw.G - 1
+DTSTART:20241128T121500Z
+SUMMARY:Concurrent and Distributed Programming (wykład)
+UID:ba45a0dc-9b68-4f62-b0b8-8e353eeb64a7@ba45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:f8148bd8-b024-47c5-bc2b-b32d559de81c@f814.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20250116T163000Z
+LOCATION:Paw.G 11
+DTSTART:20250116T154500Z
+SUMMARY:Computer System Administration (wykład)
+UID:73ca0e23-a6fd-4e48-a22c-11daee88af0b@73ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241204T101500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241204T084500Z
+SUMMARY:Knowledge Management (wykład)
+UID:8ea94d32-78b5-4145-a3e1-358580276d99@8ea9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20250107T134500Z
+LOCATION:Paw.G - 1
+DTSTART:20250107T121500Z
+SUMMARY:IT Project Management (wykład)
+UID:b2ae3f74-f903-4489-b87c-dad487883225@b2ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20250115T083000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20250115T074500Z
+SUMMARY:Knowledge Management (wykład)
+UID:7c016823-0426-4a64-b5ae-c1332080feff@7c01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20241104T134500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241104T121500Z
+SUMMARY:Computer System Administration (ćwiczenia)
+UID:f566f778-4a79-4d47-b607-1b38148ef783@f566.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241106T120000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241106T103000Z
+SUMMARY:Knowledge Management (ćwiczenia)
+UID:cb82aa94-a021-42d6-bad0-3b99349bf0f9@cb82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241127T120000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241127T103000Z
+SUMMARY:Knowledge Management (ćwiczenia)
+UID:7252d012-1898-4fca-881e-15f97fb14df5@7252.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241007T161500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241007T144500Z
+SUMMARY:IT Project Management (ćwiczenia)
+UID:1a8c3d0a-7bc8-42e2-ab62-012d1fb47417@1a8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20250121T144500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250121T140000Z
+SUMMARY:Computer System Administration (ćwiczenia)
+UID:dccd6c8d-7b2f-4a90-bf5f-d4e25dcee993@dccd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20241017T124500Z
+LOCATION:Paw.G - 1
+DTSTART:20241017T111500Z
+SUMMARY:Concurrent and Distributed Programming (wykład)
+UID:5da07eea-ab79-4ce4-bd75-e1af32b16239@5da0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20241104T153000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241104T140000Z
+SUMMARY:Object-Oriented Analysis and Design (ćwiczenia)
+UID:54ebc944-8ac6-4e78-9ab8-e5a194d5f5e1@54eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241023T110000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241023T093000Z
+SUMMARY:Knowledge Management (ćwiczenia)
+UID:dd3db91a-f669-416b-98a7-fd2b9c97380d@dd3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241024T091500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241024T074500Z
+SUMMARY:Introduction to React (ćwiczenia do wyboru)
+UID:df3640bd-7aea-4e74-8065-2c10537fb222@df36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20250109T134500Z
+LOCATION:Paw.G - 1
+DTSTART:20250109T121500Z
+SUMMARY:Concurrent and Distributed Programming (wykład)
+UID:7858421d-ba4c-444f-93e6-88f7efc485fa@7858.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20241021T110000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241021T093000Z
+SUMMARY:Concurrent and Distributed Programming (ćwiczenia)
+UID:f7419cb1-a03b-43ae-9c2e-1604436bcabe@f741.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241021T161500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241021T144500Z
+SUMMARY:IT Project Management (ćwiczenia)
+UID:69d7be4a-b0c8-484c-b073-7ceb97469b98@69d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20250120T134500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250120T121500Z
+SUMMARY:Computer System Administration (ćwiczenia)
+UID:cadb7ca4-8f30-4670-b2ce-6d305a171c77@cadb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241216T171500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241216T154500Z
+SUMMARY:IT Project Management (ćwiczenia)
+UID:4919438a-fddf-4683-beb8-8b1e5392fb7d@4919.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran  dr Przemysław Rola
+DTEND:20250116T134500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250116T121500Z
+SUMMARY:Introduction to machine learning (ćwiczenia do wyboru)
+UID:f7886df4-1367-4ccf-873f-c075a836f95f@f788.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20241001T124500Z
+LOCATION:Paw.G - 1
+DTSTART:20241001T111500Z
+SUMMARY:IT Project Management (wykład)
+UID:2e4f9e1c-402b-4c0d-82c7-0fc05d481357@2e4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran  dr Przemysław Rola
+DTEND:20241112T101500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241112T084500Z
+SUMMARY:Introduction to machine learning (ćwiczenia do wyboru)
+UID:2af4e1cc-cd12-46ba-9030-d0772b7e7b70@2af4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20241209T134500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241209T121500Z
+SUMMARY:Computer System Administration (ćwiczenia)
+UID:ab090a24-ac4a-4655-b34a-9db32016a544@ab09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran  dr Przemysław Rola
+DTEND:20241022T091500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241022T074500Z
+SUMMARY:Introduction to machine learning (ćwiczenia do wyboru)
+UID:7de18d2f-09af-406f-a5c7-6fce22e85eba@7de1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20250115T120000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20250115T103000Z
+SUMMARY:Knowledge Management (ćwiczenia)
+UID:fd45970d-436b-41c5-af96-a6115225bd60@fd45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20241216T134500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241216T121500Z
+SUMMARY:Computer System Administration (ćwiczenia)
+UID:3be22a88-55a4-4bba-90f5-98d49bbf62d7@3be2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20241104T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241104T103000Z
+SUMMARY:Concurrent and Distributed Programming (ćwiczenia)
+UID:c7671475-e9c3-405e-a1fa-43cd52ae51c0@c767.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241120T120000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241120T103000Z
+SUMMARY:Knowledge Management (ćwiczenia)
+UID:64bd75d9-94da-4d14-bd52-51bc81ccf222@64bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20241203T083000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241203T070000Z
+SUMMARY:Computer Programming 5 (ćwiczenia)
+UID:6e9163f4-9245-409c-85fc-7b70d453a468@6e91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241016T110000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241016T093000Z
+SUMMARY:Knowledge Management (ćwiczenia)
+UID:db1e68f7-ad1e-4cc8-b1e9-b216a950f4ac@db1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20241126T134500Z
+LOCATION:Paw.G - 1
+DTSTART:20241126T121500Z
+SUMMARY:IT Project Management (wykład)
+UID:09760a50-bb9a-4327-a0d2-17f7ebfff015@0976.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20241112T083000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241112T070000Z
+SUMMARY:Computer Programming 5 (ćwiczenia)
+UID:d5f1342e-d992-4c43-b60d-c086d8aa2a63@d5f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20241121T120000Z
+LOCATION:Paw.G - 1
+DTSTART:20241121T103000Z
+SUMMARY:Computer System Administration (wykład)
+UID:92b9f483-e976-4ce4-9347-888fa67bb62a@92b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241120T101500Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241120T084500Z
+SUMMARY:Knowledge Management (wykład)
+UID:46c4b83d-edc0-4d19-af46-5fd7f0c6862c@46c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20241007T110000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241007T093000Z
+SUMMARY:Concurrent and Distributed Programming (ćwiczenia)
+UID:6ee6984a-37e5-4013-96e7-3756a757db6e@6ee6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran  dr Przemysław Rola
+DTEND:20241126T101500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241126T084500Z
+SUMMARY:Introduction to machine learning (ćwiczenia do wyboru)
+UID:bb62013d-5b9c-4dce-a148-479c80bfda97@bb62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:fff88244-0b5b-4951-af22-539a1c36ea41@fff8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran  dr Przemysław Rola
+DTEND:20241105T101500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241105T084500Z
+SUMMARY:Introduction to machine learning (ćwiczenia do wyboru)
+UID:e5a87535-3348-4e50-9fd1-fcd913442a64@e5a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20250121T083000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20250121T070000Z
+SUMMARY:Computer Programming 5 (ćwiczenia)
+UID:31aaa476-173d-40eb-83ab-9b6ff04d35a5@31aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241010T091500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241010T074500Z
+SUMMARY:Introduction to React (ćwiczenia do wyboru)
+UID:0483bcf6-3b4d-4e9e-930a-e63fcc23687d@0483.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20250122T120000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20250122T103000Z
+SUMMARY:Knowledge Management (ćwiczenia)
+UID:d3484af4-d16a-43ba-bc2c-7c1326f11e02@d348.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Soja
+DTEND:20250107T120000Z
+LOCATION:Paw.U sala K
+DTSTART:20250107T103000Z
+SUMMARY:Object-Oriented Analysis and Design (wykład)
+UID:7805a98b-eb32-495b-a72f-fab24ffaf27d@7805.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241113T120000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241113T103000Z
+SUMMARY:Knowledge Management (ćwiczenia)
+UID:89b8f17f-2133-4559-a090-29f255c72bc5@89b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20241217T083000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241217T070000Z
+SUMMARY:Computer Programming 5 (ćwiczenia)
+UID:1d961695-30c0-4725-bc34-2cab2d42b245@1d96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20250116T120000Z
+LOCATION:Paw.G - 1
+DTSTART:20250116T103000Z
+SUMMARY:Computer System Administration (wykład)
+UID:7212ee42-2c69-4c2c-99fc-633b4274b51c@7212.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241118T171500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241118T154500Z
+SUMMARY:IT Project Management (ćwiczenia)
+UID:59e3fd89-d368-4ea7-8b18-7f0d7148d9bc@59e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Soja
+DTEND:20241126T120000Z
+LOCATION:Paw.U sala K
+DTSTART:20241126T103000Z
+SUMMARY:Object-Oriented Analysis and Design (wykład)
+UID:cfd626ec-fefd-42db-abe4-f2cda9ca9348@cfd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20241014T124500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241014T111500Z
+SUMMARY:Computer System Administration (ćwiczenia)
+UID:3b15d40c-5d50-4310-b66d-9216a2116954@3b15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran  dr Przemysław Rola
+DTEND:20241008T091500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241008T074500Z
+SUMMARY:Introduction to machine learning (ćwiczenia do wyboru)
+UID:1a92891a-09ef-4ea5-8004-4fd45763e47c@1a92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20241112T134500Z
+LOCATION:Paw.G - 1
+DTSTART:20241112T121500Z
+SUMMARY:IT Project Management (wykład)
+UID:87a3508b-e93e-4d71-a345-488ee1f941a5@87a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20241118T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241118T103000Z
+SUMMARY:Concurrent and Distributed Programming (ćwiczenia)
+UID:b979b761-ac9f-4ba8-984a-1724ef41752f@b979.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20241015T073000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241015T060000Z
+SUMMARY:Computer Programming 5 (ćwiczenia)
+UID:ae40ebce-1d86-410a-8beb-97eb994f61a7@ae40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran  dr Przemysław Rola
+DTEND:20241029T101500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241029T084500Z
+SUMMARY:Introduction to machine learning (ćwiczenia do wyboru)
+UID:96eafab2-1f6c-4d77-8e06-2b3b9148f364@96ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Soja
+DTEND:20241015T110000Z
+LOCATION:Paw.U sala K
+DTSTART:20241015T093000Z
+SUMMARY:Object-Oriented Analysis and Design (wykład)
+UID:826fadd8-a457-42df-bf94-bedd6cb476a4@826f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Soja
+DTEND:20250121T153000Z
+LOCATION:Paw.G  8
+DTSTART:20250121T144500Z
+SUMMARY:Object-Oriented Analysis and Design (wykład)
+UID:e7fd6322-8b26-4b97-b3d4-2ddf5d48503e@e7fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241204T120000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241204T103000Z
+SUMMARY:Knowledge Management (ćwiczenia)
+UID:47801215-b211-4ba4-b424-b87cac4ec8cc@4780.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241212T101500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241212T084500Z
+SUMMARY:Introduction to React (ćwiczenia do wyboru)
+UID:baeefd6e-7487-4237-85c7-29de423f4680@baee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20241209T153000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241209T140000Z
+SUMMARY:Object-Oriented Analysis and Design (ćwiczenia)
+UID:bcd2c866-038c-4d83-82a6-693d86832f9b@bcd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241017T091500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241017T074500Z
+SUMMARY:Introduction to React (ćwiczenia do wyboru)
+UID:d7f83c8e-7b51-4856-bce5-5b2995cafc62@d7f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20241015T124500Z
+LOCATION:Paw.G - 1
+DTSTART:20241015T111500Z
+SUMMARY:IT Project Management (wykład)
+UID:18b78fa7-21e1-4bcb-b539-c1032ec619ae@18b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20241105T083000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241105T070000Z
+SUMMARY:Computer Programming 5 (ćwiczenia)
+UID:86effd4e-d179-42bd-92e9-d7428bf94355@86ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20250108T120000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20250108T103000Z
+SUMMARY:Knowledge Management (ćwiczenia)
+UID:54a05565-882a-4b7d-a70d-2329bc0b36aa@54a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20241205T120000Z
+LOCATION:Paw.G - 1
+DTSTART:20241205T103000Z
+SUMMARY:Computer System Administration (wykład)
+UID:177989c2-950e-4dae-82db-aa752f15846d@1779.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20241008T073000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241008T060000Z
+SUMMARY:Computer Programming 5 (ćwiczenia)
+UID:dcbce753-3265-4248-ab5b-bb069cf6a4fb@dcbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Soja
+DTEND:20241029T120000Z
+LOCATION:Paw.U sala K
+DTSTART:20241029T103000Z
+SUMMARY:Object-Oriented Analysis and Design (wykład)
+UID:547370fe-b5a3-45f9-932a-b540aabc85ba@5473.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20241107T120000Z
+LOCATION:Paw.G - 1
+DTSTART:20241107T103000Z
+SUMMARY:Computer System Administration (wykład)
+UID:0283b0a2-543d-47aa-b425-9dcf78de4f81@0283.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20241126T083000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241126T070000Z
+SUMMARY:Computer Programming 5 (ćwiczenia)
+UID:2125c2b8-f17c-48be-8603-e1e8985e6a34@2125.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20241125T153000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241125T140000Z
+SUMMARY:Object-Oriented Analysis and Design (ćwiczenia)
+UID:07474fa7-f831-4214-b1b4-bccb0196e989@0747.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20241029T134500Z
+LOCATION:Paw.G - 1
+DTSTART:20241029T121500Z
+SUMMARY:IT Project Management (wykład)
+UID:6a315bce-a598-472d-ae84-b43f4a8e8b89@6a31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20250123T130000Z
+LOCATION:Paw.G - 1
+DTSTART:20250123T121500Z
+SUMMARY:Concurrent and Distributed Programming (wykład)
+UID:bcb2e9a8-1223-46f2-b89c-d34b5f363f34@bcb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20241118T134500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241118T121500Z
+SUMMARY:Computer System Administration (ćwiczenia)
+UID:3d7fa0f3-3f7e-418f-b068-6f790d373326@3d7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20241202T134500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241202T121500Z
+SUMMARY:Computer System Administration (ćwiczenia)
+UID:799c924c-2eb6-4bca-9142-ffc83ab1b9b0@799c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241205T101500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241205T084500Z
+SUMMARY:Introduction to React (ćwiczenia do wyboru)
+UID:20b26500-ded1-4347-8811-8000c3539c43@20b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20241202T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241202T103000Z
+SUMMARY:Concurrent and Distributed Programming (ćwiczenia)
+UID:4fc7d199-008f-4474-a2fc-73caa9a2ca09@4fc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241031T101500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241031T084500Z
+SUMMARY:Introduction to React (ćwiczenia do wyboru)
+UID:b97f4843-1411-48ce-8dde-e058915c995b@b97f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241114T101500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241114T084500Z
+SUMMARY:Introduction to React (ćwiczenia do wyboru)
+UID:ad7235dd-8faf-484e-b71b-9714ee6dcf6c@ad72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20241125T134500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241125T121500Z
+SUMMARY:Computer System Administration (ćwiczenia)
+UID:6b83f293-796e-487b-a57c-b9ff95108928@6b83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20241021T124500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241021T111500Z
+SUMMARY:Computer System Administration (ćwiczenia)
+UID:78215c14-21a9-418e-83c8-9040c55dc94d@7821.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20241024T110000Z
+LOCATION:Paw.G - 1
+DTSTART:20241024T093000Z
+SUMMARY:Computer System Administration (wykład)
+UID:5e5bbf98-ad7f-4148-8f4a-d189355688f8@5e5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241104T171500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241104T154500Z
+SUMMARY:IT Project Management (ćwiczenia)
+UID:19f858a4-bc1e-4e65-ba16-6aaa9b141898@19f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241125T171500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241125T154500Z
+SUMMARY:IT Project Management (ćwiczenia)
+UID:8c2423a1-129c-4a2d-93d2-0bf27482ebcf@8c24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran  dr Przemysław Rola
+DTEND:20241119T101500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241119T084500Z
+SUMMARY:Introduction to machine learning (ćwiczenia do wyboru)
+UID:8f97f045-ffa6-4008-af1a-35231762a80c@8f97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20241125T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241125T103000Z
+SUMMARY:Concurrent and Distributed Programming (ćwiczenia)
+UID:fded266c-3328-4271-b183-279bbafb0800@fded.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran  dr Przemysław Rola
+DTEND:20250107T093000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250107T084500Z
+SUMMARY:Introduction to machine learning (ćwiczenia do wyboru)
+UID:9b8cb041-2f51-4d9f-983c-d5f800076b29@9b8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Konkol
+DTEND:20241209T171500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241209T154500Z
+SUMMARY:IT Project Management (ćwiczenia)
+UID:cd3c1d97-a3b1-4a08-b303-bf48d10a8a32@cd3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241219T101500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241219T084500Z
+SUMMARY:Introduction to React (ćwiczenia do wyboru)
+UID:b2c487bd-5771-48f2-ae9e-eb975293eacf@b2c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Soja
+DTEND:20241112T120000Z
+LOCATION:Paw.U sala K
+DTSTART:20241112T103000Z
+SUMMARY:Object-Oriented Analysis and Design (wykład)
+UID:1ffca8a2-ce7a-4f40-be20-0f1bf2ae5302@1ffc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Dymek
+DTEND:20250121T130000Z
+LOCATION:Paw.G - 1
+DTSTART:20250121T121500Z
+SUMMARY:IT Project Management (wykład)
+UID:31dd3f34-beaa-4d4c-b5d8-d9af41bf9b41@31dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20241009T110000Z
+LOCATION:Paw.B 059 (KSB)
+DTSTART:20241009T093000Z
+SUMMARY:Knowledge Management (ćwiczenia)
+UID:ba9c93ac-284a-465b-b07b-80f3ebd7f0d4@ba9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20241003T091500Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241003T074500Z
+SUMMARY:Introduction to React (ćwiczenia do wyboru)
+UID:dfa714a3-6438-4b5d-84d5-9a525393c3b0@dfa7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20241031T134500Z
+LOCATION:Paw.G - 1
+DTSTART:20241031T121500Z
+SUMMARY:Concurrent and Distributed Programming (wykład)
+UID:f8ef10f3-98bd-4d49-a292-8a43e876f14e@f8ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran  dr Przemysław Rola
+DTEND:20241217T101500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241217T084500Z
+SUMMARY:Introduction to machine learning (ćwiczenia do wyboru)
+UID:8822d4e8-e43b-4d52-9dde-7cac403a61c9@8822.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20250109T093000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20250109T084500Z
+SUMMARY:Introduction to React (ćwiczenia do wyboru)
+UID:399c1479-d729-4e5a-88de-87d162479d6e@399c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20241003T124500Z
+LOCATION:Paw.G - 1
+DTSTART:20241003T111500Z
+SUMMARY:Concurrent and Distributed Programming (wykład)
+UID:e5a9df57-d707-4c40-93bb-eb0d23c2b05e@e5a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Sebastian Baran  dr Przemysław Rola
+DTEND:20241203T101500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241203T084500Z
+SUMMARY:Introduction to machine learning (ćwiczenia do wyboru)
+UID:ca7031df-b09e-49de-8a53-34e9b2329e20@ca70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20241021T143000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241021T130000Z
+SUMMARY:Object-Oriented Analysis and Design (ćwiczenia)
+UID:77e3360a-4165-4586-877e-42f984452c2a@77e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20241028T120000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241028T103000Z
+SUMMARY:Concurrent and Distributed Programming (ćwiczenia)
+UID:66632010-4fb6-4abf-a08b-3373dc47e2c2@6663.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20241001T073000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241001T060000Z
+SUMMARY:Computer Programming 5 (ćwiczenia)
+UID:a699afe2-e96e-4371-9c02-620c6d77437d@a699.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20241219T120000Z
+LOCATION:Paw.G - 1
+DTSTART:20241219T103000Z
+SUMMARY:Computer System Administration (wykład)
+UID:d1e55cc5-c4ac-48e5-a12b-b8a0b0e78286@d1e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Paweł Łukasik
+DTEND:20250113T190000Z
+LOCATION:Paw.F 104
+DTSTART:20250113T173000Z
+SUMMARY:Knowledge Management (ćwiczenia)
+UID:3115d7cb-f73b-4d5c-95d2-fbfb421adc19@3115.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Jakub Kanclerz
+DTEND:20250113T134500Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20250113T121500Z
+SUMMARY:Computer System Administration (ćwiczenia)
+UID:ea2c5869-3721-40b3-850c-bdd68e657075@ea2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20241210T083000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20241210T070000Z
+SUMMARY:Computer Programming 5 (ćwiczenia)
+UID:f9caf491-99a8-4253-a870-c90fee977a7a@f9ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Soja
+DTEND:20250121T120000Z
+LOCATION:Paw.U sala K
+DTSTART:20250121T103000Z
+SUMMARY:Object-Oriented Analysis and Design (wykład)
+UID:18b1f62b-45b8-4138-8cbd-92d1c77acca9@18b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20241216T153000Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20241216T140000Z
+SUMMARY:Computer System Administration (wykład)
+UID:8f83fea2-ceb2-4856-bb9a-9bde3713d079@8f83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Tadeusz Wilusz
+DTEND:20241014T110000Z
+LOCATION:Paw.A 07 lab. Win7\, Office21
+DTSTART:20241014T093000Z
+SUMMARY:Concurrent and Distributed Programming (ćwiczenia)
+UID:5fd4d5d1-c03f-4ab1-a908-fbfae6b6abce@5fd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Dariusz Put
+DTEND:20250114T083000Z
+LOCATION:Paw.A 013 lab. Win10\, Office21
+DTSTART:20250114T070000Z
+SUMMARY:Computer Programming 5 (ćwiczenia)
+UID:ddb3fb78-5cc5-42a9-99e5-7d95c8816124@ddb3.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1338 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20250124T143000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20250124T121500Z
+SUMMARY:Zaawansowane metody w analityce biznesowej (konwersatorium do wyboru)
+UID:98cf6ee6-b787-4237-bca5-af12fc094880@98cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20241119T101500Z
+LOCATION:Bibl. 440
+DTSTART:20241119T084500Z
+SUMMARY:Inwentyka (konwersatorium)
+UID:8f9fe138-97d1-4801-8005-ea26bd9eee65@8f9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20241105T101500Z
+LOCATION:Bibl. 440
+DTSTART:20241105T084500Z
+SUMMARY:Inwentyka (konwersatorium)
+UID:39f09d58-9ea7-4ac9-a35a-1c0b66055aeb@39f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Sady
+DTEND:20241024T090000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241024T060000Z
+SUMMARY:Przywództwo zespołu (konwersatorium do wyboru)
+UID:e3783e17-6f40-4840-a407-587e827b7ed8@e378.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20250116T100000Z
+LOCATION:Bibl. 440
+DTSTART:20250116T070000Z
+SUMMARY:Promocja osobista (konwersatorium do wyboru)
+UID:166d4ff0-a6be-4f58-bc22-36f5a1faac97@166d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Tarnowska
+DTEND:20241022T073000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241022T060000Z
+SUMMARY:Makroekonomia i polityka gospodarcza (ćwiczenia)
+UID:75e3935a-d013-4529-9794-abfd3c8c1905@75e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20250117T143000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20250117T121500Z
+SUMMARY:Zaawansowane metody w analityce biznesowej (konwersatorium do wyboru)
+UID:f229514e-6aab-47fc-b662-524d29b4c250@f229.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Tarnowska
+DTEND:20241008T073000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241008T060000Z
+SUMMARY:Makroekonomia i polityka gospodarcza (ćwiczenia)
+UID:e4f279e4-b071-4bc5-b9f2-d3a7d4fced4b@e4f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241011T081500Z
+LOCATION:Paw.F 413
+DTSTART:20241011T060000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:c6ff98bc-0b27-4384-9c04-8094d831352d@c6ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20241031T100000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241031T070000Z
+SUMMARY:Projektowanie ukierunkowane na ludzi (konwersatorium do wyboru)
+UID:845dd14e-4400-42b9-96eb-5e502db4a268@845d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20250110T091500Z
+LOCATION:Paw.F 413
+DTSTART:20250110T070000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:ae40e72b-53ce-4243-82cc-9ed17fdc251b@ae40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Tarnowska
+DTEND:20241217T083000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241217T070000Z
+SUMMARY:Makroekonomia i polityka gospodarcza (ćwiczenia)
+UID:d471df71-33e7-44f8-948b-aa76d49fecd5@d471.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241213T091500Z
+LOCATION:Paw.F 413
+DTSTART:20241213T070000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:a95973a4-8903-4584-a77e-0e7e465c465a@a959.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241115T114500Z
+LOCATION:Paw.F 413
+DTSTART:20241115T093000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:a74a6d3b-5c7e-4c8b-acf1-36ebdaf4d84d@a74a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20241129T143000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241129T121500Z
+SUMMARY:Zaawansowane metody w analityce biznesowej (konwersatorium do wyboru)
+UID:52baa18b-0e95-4ea2-8acf-37b1e1139b66@52ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Remigiusz Gawlik
+DTEND:20241219T100000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241219T070000Z
+SUMMARY:Metody budowania zespołu (konwersatorium do wyboru)
+UID:f54351e2-f1b8-4435-b9d8-952ad98f8318@f543.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wioleta Gałat
+DTEND:20241017T143000Z
+LOCATION:Paw.F 415
+DTSTART:20241017T130000Z
+SUMMARY:Projekt badawczy (Projekt)
+UID:2ec432c2-dfc2-44a9-aac4-2f82d96daf51@2ec4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20250110T143000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20250110T121500Z
+SUMMARY:Zaawansowane metody w analityce biznesowej (konwersatorium do wyboru)
+UID:a8dc6ed7-2f83-486e-aefe-75ff3867f28e@a8dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wioleta Gałat
+DTEND:20241107T153000Z
+LOCATION:Paw.F 415
+DTSTART:20241107T140000Z
+SUMMARY:Projekt badawczy (Projekt)
+UID:0b8c6a98-851c-465e-80e7-c35575653ecb@0b8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241128T100000Z
+LOCATION:Bibl. 440
+DTSTART:20241128T070000Z
+SUMMARY:Promocja osobista (konwersatorium do wyboru)
+UID:2b03fc15-27e1-4786-bfe2-30b297e71154@2b03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Janus
+DTEND:20241022T143000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241022T130000Z
+SUMMARY:Makroekonomia i polityka gospodarcza (wykład)
+UID:ccb4a65c-1d25-49e4-85ed-0734eb06f1fb@ccb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Tarnowska
+DTEND:20241119T083000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241119T070000Z
+SUMMARY:Makroekonomia i polityka gospodarcza (ćwiczenia)
+UID:8b8e73db-572f-4a72-b322-176c7801fcca@8b8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Katarzyna Sułek
+DTEND:20250107T101500Z
+LOCATION:Bibl. 440
+DTSTART:20250107T084500Z
+SUMMARY:Inwentyka (konwersatorium)
+UID:8a4eb1aa-10ce-4eb8-85d7-3902f51fd2a9@8a4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wioleta Gałat
+DTEND:20241128T153000Z
+LOCATION:Paw.F 415
+DTSTART:20241128T140000Z
+SUMMARY:Projekt badawczy (Projekt)
+UID:8e02dfd5-4943-4267-9c83-51d766755b3e@8e02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Sady
+DTEND:20241010T090000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241010T060000Z
+SUMMARY:Przywództwo zespołu (konwersatorium do wyboru)
+UID:46ce801e-d1f0-4488-94cb-dc9668d7f90b@46ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20241219T100000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241219T070000Z
+SUMMARY:Data classification methods in business intelligence (konwersatorium do wyboru)
+UID:8d078645-bc17-4789-87aa-f8ca859e933f@8d07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20241212T100000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241212T070000Z
+SUMMARY:Data classification methods in business intelligence (konwersatorium do wyboru)
+UID:73ef693f-1aec-43b2-95b9-9b1d5033db10@73ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241220T114500Z
+LOCATION:Paw.F 413
+DTSTART:20241220T093000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:309c3b25-17a7-4a1d-9415-a41ea0b90af2@309c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241115T091500Z
+LOCATION:Paw.F 413
+DTSTART:20241115T070000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:8bd11b22-56d9-4be5-96a0-bf558620a906@8bd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20241114T100000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241114T070000Z
+SUMMARY:Projektowanie ukierunkowane na ludzi (konwersatorium do wyboru)
+UID:26276191-4524-484d-8a92-1c2f33d7e511@2627.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20241126T101500Z
+LOCATION:Bibl. 440
+DTSTART:20241126T084500Z
+SUMMARY:Inwentyka (konwersatorium)
+UID:a135d27e-965e-4487-a66d-212cfca6091b@a135.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Filip Grzegorczyk
+DTEND:20241217T190000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241217T173000Z
+SUMMARY:Prawo korporacyjne (ćwiczenia)
+UID:2b2432b1-c27d-4e48-a7ee-e951f2a339d8@2b24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Janus
+DTEND:20250121T153000Z
+LOCATION:Paw.C sala C
+DTSTART:20250121T144500Z
+SUMMARY:Makroekonomia i polityka gospodarcza (wykład)
+UID:97413115-dbc9-449b-a4ae-c97bbe967cf2@9741.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20250117T091500Z
+LOCATION:Paw.F 413
+DTSTART:20250117T070000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:1f41cf5e-b1df-4a1f-b5c1-c7bbf8fcb392@1f41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20241003T090000Z
+LOCATION:Bibl. 440
+DTSTART:20241003T060000Z
+SUMMARY:Projektowanie ukierunkowane na ludzi (konwersatorium do wyboru)
+UID:9fa1eb3a-641c-448d-8806-a66b08016d49@9fa1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Sady
+DTEND:20241031T100000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241031T070000Z
+SUMMARY:Przywództwo zespołu (konwersatorium do wyboru)
+UID:79c9297e-b38e-4803-a975-5a7c6ffdf938@79c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Sady
+DTEND:20241202T151500Z
+LOCATION:Paw.F CJ  301
+DTSTART:20241202T121500Z
+SUMMARY:Przywództwo zespołu (konwersatorium do wyboru)
+UID:dfa4be8e-c751-4546-8da8-a1a148220411@dfa4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Patryk Dunal
+DTEND:20241107T171500Z
+LOCATION:L 525 Ustr.
+DTSTART:20241107T154500Z
+SUMMARY:Rachunkowość finansowa w GBS (konwersatorium)
+UID:cebe831b-0199-43f1-a784-bc5710b28794@cebe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241122T114500Z
+LOCATION:Paw.F 413
+DTSTART:20241122T093000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:920e6e0b-49cb-40d1-8044-1e470f48bf2c@920e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Tarnowska
+DTEND:20250114T083000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20250114T070000Z
+SUMMARY:Makroekonomia i polityka gospodarcza (ćwiczenia)
+UID:c843ddd1-cdf2-4cd0-901e-5d006fec6d4b@c843.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20250115T151500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20250115T121500Z
+SUMMARY:Zaawansowane metody w analityce biznesowej (konwersatorium do wyboru)
+UID:66040b2e-4c85-4de4-a726-40fb1b54ebd1@6604.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Patryk Dunal
+DTEND:20250123T171500Z
+LOCATION:L 525 Ustr.
+DTSTART:20250123T154500Z
+SUMMARY:Rachunkowość finansowa w GBS (konwersatorium)
+UID:146b850d-ca24-41a8-a2bc-ac656e96168d@146b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20241010T090000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241010T060000Z
+SUMMARY:Projektowanie ukierunkowane na ludzi (konwersatorium do wyboru)
+UID:b81e85d6-6add-498e-ab9a-833a0b2b89b1@b81e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Patryk Dunal
+DTEND:20241003T161500Z
+LOCATION:L 525 Ustr.
+DTSTART:20241003T144500Z
+SUMMARY:Rachunkowość finansowa w GBS (konwersatorium)
+UID:7dd3fed1-def9-4f7e-8297-705a98eacd50@7dd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Andrzej Sokołowski
+DTEND:20241017T090000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241017T060000Z
+SUMMARY:Metody grupowania obiektów w analityce biznesowej (konwersatorium do wyboru)
+UID:54b4eb3b-b863-43a5-804a-387d0e655ace@54b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241108T114500Z
+LOCATION:Paw.F 413
+DTSTART:20241108T093000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:fb5bd2bf-d435-4b21-b96e-a776dc7e3a12@fb5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Andrzej Sokołowski
+DTEND:20241125T184500Z
+LOCATION:Paw.U sala T (Kat. ZKL)
+DTSTART:20241125T154500Z
+SUMMARY:Metody grupowania obiektów w analityce biznesowej (konwersatorium do wyboru)
+UID:ab457dfb-1447-44cf-b47a-4717c01fe8d3@ab45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20241203T101500Z
+LOCATION:Bibl. 440
+DTSTART:20241203T084500Z
+SUMMARY:Inwentyka (konwersatorium)
+UID:e5757a79-3ea0-4f2f-8908-169df5ef7c6f@e575.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Filip Grzegorczyk
+DTEND:20241021T161500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241021T144500Z
+SUMMARY:Prawo korporacyjne (wykład)
+UID:9cca2236-c2db-48fc-a448-3cc1c745d358@9cca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241213T114500Z
+LOCATION:Paw.F 413
+DTSTART:20241213T093000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:c137954d-7a5a-4f70-8033-a9e223d5db8f@c137.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Remigiusz Gawlik
+DTEND:20241128T100000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241128T070000Z
+SUMMARY:Metody budowania zespołu (konwersatorium do wyboru)
+UID:b32c4e09-7936-4397-bef3-df2d789066b4@b32c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Janus
+DTEND:20250114T153000Z
+LOCATION:Paw.S sala 8
+DTSTART:20250114T140000Z
+SUMMARY:Makroekonomia i polityka gospodarcza (wykład)
+UID:412c17e6-7aa1-4209-9d0a-0dd4c50d3e94@412c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Janus
+DTEND:20241008T143000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241008T130000Z
+SUMMARY:Makroekonomia i polityka gospodarcza (wykład)
+UID:7ae1c45c-79e7-49ee-a799-1489a45bdba9@7ae1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Janus
+DTEND:20241105T153000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241105T140000Z
+SUMMARY:Makroekonomia i polityka gospodarcza (wykład)
+UID:2ab1b3ee-969e-45bc-9617-adfc9638559e@2ab1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20250110T114500Z
+LOCATION:Paw.F 413
+DTSTART:20250110T093000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:28697758-9c1c-4772-9125-3ff5f9e50453@2869.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20250124T114500Z
+LOCATION:Paw.F 413
+DTSTART:20250124T093000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:6a29f603-db0a-4f76-9c57-718f8237b429@6a29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241018T104500Z
+LOCATION:Paw.F 413
+DTSTART:20241018T083000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:9f767fe6-e505-4944-9b09-a15cda134563@9f76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Andrzej Sokołowski
+DTEND:20241121T083000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241121T070000Z
+SUMMARY:Metody grupowania obiektów w analityce biznesowej (konwersatorium do wyboru)
+UID:b3329f52-d552-4f91-a7b5-8761c83d7e49@b332.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Kafel
+DTEND:20241001T091500Z
+LOCATION:Bibl. 440
+DTSTART:20241001T074500Z
+SUMMARY:Inwentyka (konwersatorium)
+UID:11933dad-db5a-4317-8524-1c2fe44dd25d@1193.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Patryk Dunal
+DTEND:20241219T171500Z
+LOCATION:L 525 Ustr.
+DTSTART:20241219T154500Z
+SUMMARY:Rachunkowość finansowa w GBS (konwersatorium)
+UID:d2771c1b-63d3-41f5-b3dd-350b2ea46c6c@d277.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Filip Grzegorczyk
+DTEND:20250113T171500Z
+LOCATION:Paw.S sala 8
+DTSTART:20250113T154500Z
+SUMMARY:Prawo korporacyjne (wykład)
+UID:671b59a9-1f06-44af-af74-f732cf7c5a62@671b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241007T114500Z
+LOCATION:Paw.G  8
+DTSTART:20241007T093000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:c02ce5ee-695f-4a76-9ab9-113527cd6942@c02c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Patryk Dunal
+DTEND:20241121T171500Z
+LOCATION:L 525 Ustr.
+DTSTART:20241121T154500Z
+SUMMARY:Rachunkowość finansowa w GBS (konwersatorium)
+UID:e35da95e-df6a-4fe3-8ba2-f6818af6bd3f@e35d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Katarzyna Sułek
+DTEND:20250121T101500Z
+LOCATION:Bibl. 440
+DTSTART:20250121T084500Z
+SUMMARY:Inwentyka (konwersatorium)
+UID:e1595211-f0b0-4dbb-b218-2924d3d5646d@e159.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Kafel
+DTEND:20241022T091500Z
+LOCATION:Bibl. 440
+DTSTART:20241022T074500Z
+SUMMARY:Inwentyka (konwersatorium)
+UID:e8111bca-c5ab-46c9-87e2-8cceb056f3fa@e811.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Janus
+DTEND:20241119T153000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241119T140000Z
+SUMMARY:Makroekonomia i polityka gospodarcza (wykład)
+UID:c57a028c-3ed8-4bf3-b1a5-50cb49c51a18@c57a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Filip Grzegorczyk
+DTEND:20241105T190000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241105T173000Z
+SUMMARY:Prawo korporacyjne (ćwiczenia)
+UID:7354bd3e-262d-43ce-ba35-7943c5560371@7354.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241025T104500Z
+LOCATION:Paw.F 413
+DTSTART:20241025T083000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:8a55bf9d-0eb0-4347-86e9-0c605322aaf9@8a55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Tarnowska
+DTEND:20241203T083000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241203T070000Z
+SUMMARY:Makroekonomia i polityka gospodarcza (ćwiczenia)
+UID:6fcdfbe6-c827-4a96-ab1d-298d66f679cc@6fcd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241011T104500Z
+LOCATION:Paw.F 413
+DTSTART:20241011T083000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:7717f80a-470d-4f36-91fb-742195d2fffa@7717.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20250123T100000Z
+LOCATION:Bibl. 440
+DTSTART:20250123T070000Z
+SUMMARY:Promocja osobista (konwersatorium do wyboru)
+UID:7b52bf1d-a486-4a69-ac06-70fecf051600@7b52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241206T091500Z
+LOCATION:Paw.F 413
+DTSTART:20241206T070000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:0ad49ed7-4feb-41ae-9be6-afd4238a7c82@0ad4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wioleta Gałat
+DTEND:20241205T153000Z
+LOCATION:Paw.F 415
+DTSTART:20241205T140000Z
+SUMMARY:Projekt badawczy (Projekt)
+UID:0be5158e-9c12-43d5-95c1-02af0838bae4@0be5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Filip Grzegorczyk
+DTEND:20241008T180000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241008T163000Z
+SUMMARY:Prawo korporacyjne (ćwiczenia)
+UID:10cabc76-5dda-4e57-9f6f-d9c11d4a2d3c@10ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Filip Grzegorczyk
+DTEND:20250121T190000Z
+LOCATION:Paw.F 008
+DTSTART:20250121T181500Z
+SUMMARY:Prawo korporacyjne (ćwiczenia)
+UID:1ffdbd4f-b1c9-4bd8-899a-733323ada6c1@1ffd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20241213T143000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241213T121500Z
+SUMMARY:Zaawansowane metody w analityce biznesowej (konwersatorium do wyboru)
+UID:67615880-415d-46ac-a9c5-19b080d56136@6761.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20250117T114500Z
+LOCATION:Paw.F 413
+DTSTART:20250117T093000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:360d1191-0852-4cdd-bb3e-dc9e0bec9e23@360d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Patryk Dunal
+DTEND:20241017T161500Z
+LOCATION:L 525 Ustr.
+DTSTART:20241017T144500Z
+SUMMARY:Rachunkowość finansowa w GBS (konwersatorium)
+UID:13fdeb30-66eb-46e3-adc0-dbeffc0738c3@13fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wioleta Gałat
+DTEND:20241114T153000Z
+LOCATION:Paw.F 415
+DTSTART:20241114T140000Z
+SUMMARY:Projekt badawczy (Projekt)
+UID:bd2f2775-5fcd-4181-942e-c202f3e51ec3@bd2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241205T100000Z
+LOCATION:Bibl. 440
+DTSTART:20241205T070000Z
+SUMMARY:Promocja osobista (konwersatorium do wyboru)
+UID:8f9527e7-c8c5-4913-8403-463c9df93dbf@8f95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Sady
+DTEND:20241107T100000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241107T070000Z
+SUMMARY:Przywództwo zespołu (konwersatorium do wyboru)
+UID:b317d533-331a-4b2e-ac49-00284fea723b@b317.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241212T100000Z
+LOCATION:Bibl. 440
+DTSTART:20241212T070000Z
+SUMMARY:Promocja osobista (konwersatorium do wyboru)
+UID:87806434-c1a4-4986-9c4e-f32418b4c4b5@8780.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Kafel
+DTEND:20241015T091500Z
+LOCATION:Bibl. 440
+DTSTART:20241015T074500Z
+SUMMARY:Inwentyka (konwersatorium)
+UID:a59252fa-d22e-418d-88be-6b6033d3ad16@a592.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:059ddd88-238d-42ee-932c-9a49f7e47b6a@059d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wioleta Gałat
+DTEND:20241031T153000Z
+LOCATION:Paw.F 415
+DTSTART:20241031T140000Z
+SUMMARY:Projekt badawczy (Projekt)
+UID:540e2c26-02bb-4689-ba0d-700024d4ca9e@540e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241115T143000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241115T121500Z
+SUMMARY:Zaawansowane metody w analityce biznesowej (konwersatorium do wyboru)
+UID:a418db01-224f-41dc-ad7d-7eafbea34423@a418.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241018T133000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241018T111500Z
+SUMMARY:Zaawansowane metody w analityce biznesowej (konwersatorium do wyboru)
+UID:e2350936-e109-42dc-80de-0dc3b677dcf7@e235.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241206T114500Z
+LOCATION:Paw.F 413
+DTSTART:20241206T093000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:919a9f44-cd93-40c0-9ee4-2107aa32c372@919a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Remigiusz Gawlik
+DTEND:20250109T100000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250109T070000Z
+SUMMARY:Metody budowania zespołu (konwersatorium do wyboru)
+UID:5e8a3caa-c1ea-4397-a353-6c73379aa9d0@5e8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Patryk Dunal
+DTEND:20241024T161500Z
+LOCATION:L 525 Ustr.
+DTSTART:20241024T144500Z
+SUMMARY:Rachunkowość finansowa w GBS (konwersatorium)
+UID:d6013c4c-6850-45d2-a266-1c170bd48b1a@d601.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Filip Grzegorczyk
+DTEND:20241203T190000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241203T173000Z
+SUMMARY:Prawo korporacyjne (ćwiczenia)
+UID:08837283-74b0-4594-83e5-3eada1d451cc@0883.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241108T091500Z
+LOCATION:Paw.F 413
+DTSTART:20241108T070000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:33a1ea0f-4a23-43a7-954e-3b251d9b800c@33a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241220T091500Z
+LOCATION:Paw.F 413
+DTSTART:20241220T070000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:40da43e1-6609-4ee7-898f-09b27313999c@40da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Filip Grzegorczyk
+DTEND:20250114T190000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20250114T173000Z
+SUMMARY:Prawo korporacyjne (ćwiczenia)
+UID:c8be67fe-825b-43da-97bf-b74071ec59c5@c8be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Kafel
+DTEND:20241029T101500Z
+LOCATION:Bibl. 440
+DTSTART:20241029T084500Z
+SUMMARY:Inwentyka (konwersatorium)
+UID:8644361d-3199-4ac2-8142-84d8a59ddeef@8644.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20241024T090000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241024T060000Z
+SUMMARY:Projektowanie ukierunkowane na ludzi (konwersatorium do wyboru)
+UID:3ca478c4-7773-4e71-a7d2-ce28e7ab5efa@3ca4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Filip Grzegorczyk
+DTEND:20241118T171500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241118T154500Z
+SUMMARY:Prawo korporacyjne (wykład)
+UID:10a11ef0-98ae-4df2-bd34-d270e662d94d@10a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Sady
+DTEND:20241121T083000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241121T070000Z
+SUMMARY:Przywództwo zespołu (konwersatorium do wyboru)
+UID:6761bcf9-8496-4c33-8f62-b1ff947a2ba6@6761.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:9ac24b41-d97c-46a4-9cad-71a75056b66e@9ac2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Remigiusz Gawlik
+DTEND:20241212T100000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241212T070000Z
+SUMMARY:Metody budowania zespołu (konwersatorium do wyboru)
+UID:b267fdf8-1c72-42c2-a686-cd525ecd9b84@b267.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Patryk Dunal
+DTEND:20241114T171500Z
+LOCATION:L 525 Ustr.
+DTSTART:20241114T154500Z
+SUMMARY:Rachunkowość finansowa w GBS (konwersatorium)
+UID:9d5243b4-24fb-42e1-9605-53e3b291192b@9d52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Remigiusz Gawlik
+DTEND:20250116T100000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250116T070000Z
+SUMMARY:Metody budowania zespołu (konwersatorium do wyboru)
+UID:0f428959-315e-466e-be55-5607d6981d70@0f42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241011T133000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241011T111500Z
+SUMMARY:Zaawansowane metody w analityce biznesowej (konwersatorium do wyboru)
+UID:66e2c185-af55-4da8-83fc-5bb7d8720974@66e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20241107T100000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241107T070000Z
+SUMMARY:Projektowanie ukierunkowane na ludzi (konwersatorium do wyboru)
+UID:e4a6d49a-5a0b-4de6-9ac6-25b4325520fb@e4a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Patryk Dunal
+DTEND:20250116T171500Z
+LOCATION:L 525 Ustr.
+DTSTART:20250116T154500Z
+SUMMARY:Rachunkowość finansowa w GBS (konwersatorium)
+UID:a7806ca5-2b58-4472-944f-ee21c0b5413d@a780.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241025T133000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241025T111500Z
+SUMMARY:Zaawansowane metody w analityce biznesowej (konwersatorium do wyboru)
+UID:01035d3e-5c48-4ac1-a71d-34030be2c427@0103.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Filip Grzegorczyk
+DTEND:20241007T161500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241007T144500Z
+SUMMARY:Prawo korporacyjne (wykład)
+UID:2e918fdc-95cd-4776-948a-dfa1c16fbacb@2e91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Janus
+DTEND:20241217T153000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241217T140000Z
+SUMMARY:Makroekonomia i polityka gospodarcza (wykład)
+UID:96fdd849-eff8-4e0c-b74a-f2920ba367b5@96fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20241121T101500Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241121T084500Z
+SUMMARY:Data classification methods in business intelligence (konwersatorium do wyboru)
+UID:63221662-6204-482d-b05f-94e6b8009d8e@6322.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Filip Grzegorczyk
+DTEND:20241202T171500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241202T154500Z
+SUMMARY:Prawo korporacyjne (wykład)
+UID:48331357-d763-4f9e-9644-edfa1d1b091d@4833.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20250109T100000Z
+LOCATION:Bibl. 440
+DTSTART:20250109T070000Z
+SUMMARY:Promocja osobista (konwersatorium do wyboru)
+UID:8863c43f-6fa4-4e7b-bade-c38e3c0bf262@8863.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241004T133000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241004T111500Z
+SUMMARY:Zaawansowane metody w analityce biznesowej (konwersatorium do wyboru)
+UID:b12f51de-cbfc-49d8-8cf2-903f0496244a@b12f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wioleta Gałat
+DTEND:20241024T143000Z
+LOCATION:Paw.F 415
+DTSTART:20241024T130000Z
+SUMMARY:Projekt badawczy (Projekt)
+UID:058fb97f-115d-41ee-8ef7-2b94bf3db965@058f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241121T101500Z
+LOCATION:Bibl. 440
+DTSTART:20241121T084500Z
+SUMMARY:Promocja osobista (konwersatorium do wyboru)
+UID:8f697c42-3a21-4208-9c24-08fa8ada8cbc@8f69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Andrzej Sokołowski
+DTEND:20241118T151500Z
+LOCATION:Paw.F CJ  301
+DTSTART:20241118T121500Z
+SUMMARY:Metody grupowania obiektów w analityce biznesowej (konwersatorium do wyboru)
+UID:ab40af6b-2682-4975-a34c-30f4b824a197@ab40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20241205T100000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241205T070000Z
+SUMMARY:Data classification methods in business intelligence (konwersatorium do wyboru)
+UID:815186b5-bbd0-4db6-a9f2-a131d110c2d6@8151.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241108T143000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241108T121500Z
+SUMMARY:Zaawansowane metody w analityce biznesowej (konwersatorium do wyboru)
+UID:08d90ec9-f335-46b7-856f-97ec75750a81@08d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Tomasz Kafel
+DTEND:20241008T091500Z
+LOCATION:Bibl. 440
+DTSTART:20241008T074500Z
+SUMMARY:Inwentyka (konwersatorium)
+UID:80407726-55bc-4a23-9d0c-8ab3713e6176@8040.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Sady
+DTEND:20241017T090000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241017T060000Z
+SUMMARY:Przywództwo zespołu (konwersatorium do wyboru)
+UID:77e07ce9-fbd9-478f-9bc7-57f20ddc7211@77e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Andrzej Sokołowski
+DTEND:20241114T100000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241114T070000Z
+SUMMARY:Metody grupowania obiektów w analityce biznesowej (konwersatorium do wyboru)
+UID:7f24d899-7f79-487a-8266-3a907c9a9448@7f24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20250124T091500Z
+LOCATION:Paw.F 413
+DTSTART:20250124T070000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:ad6ba100-cc56-4918-9208-4261e12ee379@ad6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241018T081500Z
+LOCATION:Paw.F 413
+DTSTART:20241018T060000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:70ca7aa2-70eb-4932-9252-45ebc0e0f2b9@70ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241004T104500Z
+LOCATION:Paw.F 413
+DTSTART:20241004T083000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:84785d4e-d0ca-4985-af72-364f1c803fe7@8478.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Katarzyna Sułek
+DTEND:20241210T101500Z
+LOCATION:Bibl. 440
+DTSTART:20241210T084500Z
+SUMMARY:Inwentyka (konwersatorium)
+UID:41183832-7733-4a25-be31-dbda377e539e@4118.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20241017T090000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241017T060000Z
+SUMMARY:Projektowanie ukierunkowane na ludzi (konwersatorium do wyboru)
+UID:ed41aea4-3b62-4672-8097-e344783691df@ed41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Tarnowska
+DTEND:20250123T130000Z
+LOCATION:Paw.G 12
+DTSTART:20250123T121500Z
+SUMMARY:Makroekonomia i polityka gospodarcza (ćwiczenia)
+UID:632024a9-50ae-4d84-8440-df053a3b52cb@6320.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Patryk Dunal
+DTEND:20241010T161500Z
+LOCATION:L 525 Ustr.
+DTSTART:20241010T144500Z
+SUMMARY:Rachunkowość finansowa w GBS (konwersatorium)
+UID:9956849a-67a5-4028-bb45-d6d024f57d20@9956.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Remigiusz Gawlik
+DTEND:20250123T100000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20250123T070000Z
+SUMMARY:Metody budowania zespołu (konwersatorium do wyboru)
+UID:173a4b2a-bf6a-4c2b-ace5-7869131ca24f@173a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Andrzej Sokołowski
+DTEND:20241024T090000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241024T060000Z
+SUMMARY:Metody grupowania obiektów w analityce biznesowej (konwersatorium do wyboru)
+UID:a580d6dd-0679-43fc-8c21-df27a823fa57@a580.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Remigiusz Gawlik
+DTEND:20241121T101500Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241121T084500Z
+SUMMARY:Metody budowania zespołu (konwersatorium do wyboru)
+UID:b5f70d11-9fac-4b36-ab61-5318cf757905@b5f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20250109T100000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250109T070000Z
+SUMMARY:Data classification methods in business intelligence (konwersatorium do wyboru)
+UID:8db17a6b-45ad-40a4-8714-3dfc83e5f475@8db1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Filip Grzegorczyk
+DTEND:20241216T171500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241216T154500Z
+SUMMARY:Prawo korporacyjne (wykład)
+UID:d9f368b3-7c1f-47b7-9e40-4003cd1eb059@d9f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20241220T143000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241220T121500Z
+SUMMARY:Zaawansowane metody w analityce biznesowej (konwersatorium do wyboru)
+UID:3eb2ee2a-0da8-4055-b651-364bb90d10aa@3eb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Monika Sady
+DTEND:20241114T100000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241114T070000Z
+SUMMARY:Przywództwo zespołu (konwersatorium do wyboru)
+UID:cedc1ca2-380e-4c40-ba38-774b3b259c66@cedc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241004T081500Z
+LOCATION:Paw.F 413
+DTSTART:20241004T060000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:e3696652-2c42-4497-8824-0c91eaa0c0b6@e369.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241122T091500Z
+LOCATION:Paw.F 413
+DTSTART:20241122T070000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:29c0d068-056e-419c-a321-63ea0ddc0361@29c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241129T091500Z
+LOCATION:Paw.F 413
+DTSTART:20241129T070000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:87e96e6b-d6e6-4fb0-9312-27232277d764@87e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Patryk Dunal
+DTEND:20250109T171500Z
+LOCATION:L 525 Ustr.
+DTSTART:20250109T154500Z
+SUMMARY:Rachunkowość finansowa w GBS (konwersatorium)
+UID:089f2672-da17-46c8-96d5-7b6eab4e3094@089f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wioleta Gałat
+DTEND:20241121T153000Z
+LOCATION:Paw.F 415
+DTSTART:20241121T140000Z
+SUMMARY:Projekt badawczy (Projekt)
+UID:e7bfed95-a312-463f-a3f2-ed8a28e8ef6d@e7bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Filip Grzegorczyk
+DTEND:20241022T180000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241022T163000Z
+SUMMARY:Prawo korporacyjne (ćwiczenia)
+UID:ac2f7677-c80d-4cfc-baf5-a8110e2b7904@ac2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Katarzyna Sułek
+DTEND:20241217T101500Z
+LOCATION:Bibl. 440
+DTSTART:20241217T084500Z
+SUMMARY:Inwentyka (konwersatorium)
+UID:ee0734a5-1247-47bb-8c92-148998945ae8@ee07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20250116T100000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250116T070000Z
+SUMMARY:Data classification methods in business intelligence (konwersatorium do wyboru)
+UID:4502c08f-a2b3-4215-8e2c-1a1978bb6e98@4502.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Patryk Dunal
+DTEND:20241031T171500Z
+LOCATION:L 525 Ustr.
+DTSTART:20241031T154500Z
+SUMMARY:Rachunkowość finansowa w GBS (konwersatorium)
+UID:2537285f-6ff5-4570-b5d0-54f28e9f1d5c@2537.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20250123T100000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20250123T070000Z
+SUMMARY:Data classification methods in business intelligence (konwersatorium do wyboru)
+UID:9eb42e6d-a351-4040-813f-4caf63699408@9eb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Andrzej Sokołowski
+DTEND:20241010T090000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241010T060000Z
+SUMMARY:Metody grupowania obiektów w analityce biznesowej (konwersatorium do wyboru)
+UID:cd44fcaf-39ae-4f53-a105-385d4736377d@cd44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Klaudia Blachnicka
+DTEND:20241112T101500Z
+LOCATION:Bibl. 440
+DTSTART:20241112T084500Z
+SUMMARY:Inwentyka (konwersatorium)
+UID:16a73be7-a2dd-4bd3-8f93-f90a664662e6@16a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Jakub Janus
+DTEND:20241203T153000Z
+LOCATION:Paw.S sala 8
+DTSTART:20241203T140000Z
+SUMMARY:Makroekonomia i polityka gospodarcza (wykład)
+UID:b24dee51-db7b-47b1-9c6a-329f30d69250@b24d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Roman Huptas
+DTEND:20241128T100000Z
+LOCATION:Paw.A 201 lab. Win10\, Office21
+DTSTART:20241128T070000Z
+SUMMARY:Data classification methods in business intelligence (konwersatorium do wyboru)
+UID:c1541cd7-f905-4ff3-9925-fa695e9d24fb@c154.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241129T114500Z
+LOCATION:Paw.F 413
+DTSTART:20241129T093000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:ed734543-64de-4886-8a85-32195363fa06@ed73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Fryderyk Falniowski
+DTEND:20241122T134500Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241122T121500Z
+SUMMARY:Zaawansowane metody w analityce biznesowej (konwersatorium do wyboru)
+UID:d32c609d-b147-437d-b322-2f83b67c2ace@d32c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Patryk Dunal
+DTEND:20241205T171500Z
+LOCATION:L 525 Ustr.
+DTSTART:20241205T154500Z
+SUMMARY:Rachunkowość finansowa w GBS (konwersatorium)
+UID:a13dfa1a-77d3-48d7-8a37-793061c08dd5@a13d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Remigiusz Gawlik
+DTEND:20241205T100000Z
+LOCATION:Paw.E sala H (KSB)
+DTSTART:20241205T070000Z
+SUMMARY:Metody budowania zespołu (konwersatorium do wyboru)
+UID:16eb568c-c145-48b0-8341-6a1b17442138@16eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wioleta Gałat
+DTEND:20241010T143000Z
+LOCATION:Paw.F 415
+DTSTART:20241010T130000Z
+SUMMARY:Projekt badawczy (Projekt)
+UID:b1f4031f-f7a2-44d7-9479-b311136f11e9@b1f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Filip Grzegorczyk
+DTEND:20241119T190000Z
+LOCATION:Paw.F 414 (Kat. Gosp.Reg.)
+DTSTART:20241119T173000Z
+SUMMARY:Prawo korporacyjne (ćwiczenia)
+UID:7112ad88-7423-496c-8ffc-ce8057cbfacc@7112.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Patryk Dunal
+DTEND:20241128T171500Z
+LOCATION:L 525 Ustr.
+DTSTART:20241128T154500Z
+SUMMARY:Rachunkowość finansowa w GBS (konwersatorium)
+UID:4d5ca932-9bda-41e7-bac9-6645c0aafd5a@4d5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241025T081500Z
+LOCATION:Paw.F 413
+DTSTART:20241025T060000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:020797de-14e0-4220-add6-db8f8de8b3f4@0207.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Andrzej Sokołowski
+DTEND:20241031T100000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241031T070000Z
+SUMMARY:Metody grupowania obiektów w analityce biznesowej (konwersatorium do wyboru)
+UID:95ef5d2d-9bb6-4f50-8d7d-e17b2b6c7bcd@95ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Jerzy Marzec
+DTEND:20241206T143000Z
+LOCATION:Paw.A 122 lab. Win10\, Office21
+DTSTART:20241206T121500Z
+SUMMARY:Zaawansowane metody w analityce biznesowej (konwersatorium do wyboru)
+UID:ac1b56ea-8260-4ae9-a885-2a8acdae4350@ac1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr inż. Katarzyna Sułek
+DTEND:20250114T101500Z
+LOCATION:Bibl. 440
+DTSTART:20250114T084500Z
+SUMMARY:Inwentyka (konwersatorium)
+UID:a459df99-0352-49c2-9a38-4fe4836f88c0@a459.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Wioleta Gałat
+DTEND:20241003T143000Z
+LOCATION:Paw.F 415
+DTSTART:20241003T130000Z
+SUMMARY:Projekt badawczy (Projekt)
+UID:a1b42e39-47ab-48f2-9c7c-7e759ac9518b@a1b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Filip Grzegorczyk
+DTEND:20241104T171500Z
+LOCATION:Paw.S sala 8
+DTSTART:20241104T154500Z
+SUMMARY:Prawo korporacyjne (wykład)
+UID:df924e42-5dde-4d67-ba82-e18cd15d2583@df92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Szymon Jarosz
+DTEND:20241121T083000Z
+LOCATION:Paw.S sala 11
+DTSTART:20241121T070000Z
+SUMMARY:Projektowanie ukierunkowane na ludzi (konwersatorium do wyboru)
+UID:859f8555-7d15-4c7a-9c62-f8a1d5b6f819@859f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Magdalena Chałupczak
+DTEND:20241219T100000Z
+LOCATION:Bibl. 440
+DTSTART:20241219T070000Z
+SUMMARY:Promocja osobista (konwersatorium do wyboru)
+UID:af5631a7-3b36-4342-b4b5-48bb95a9ae88@af56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr inż. Patryk Dunal
+DTEND:20241212T171500Z
+LOCATION:L 525 Ustr.
+DTSTART:20241212T154500Z
+SUMMARY:Rachunkowość finansowa w GBS (konwersatorium)
+UID:d550dbb1-f390-4c7d-aa44-901d98770740@d550.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Joanna Tarnowska
+DTEND:20241105T083000Z
+LOCATION:Paw.E sala G (KSB)
+DTSTART:20241105T070000Z
+SUMMARY:Makroekonomia i polityka gospodarcza (ćwiczenia)
+UID:a1e7b432-2b23-4d88-a982-d188e04b314f@a1e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK Filip Grzegorczyk
+DTEND:20250121T163000Z
+LOCATION:Paw.F 102
+DTSTART:20250121T154500Z
+SUMMARY:Prawo korporacyjne (wykład)
+UID:78f22e2f-f879-4f0b-a2b5-a4e175f46707@78f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Błażej Mazur
+DTEND:20241007T141500Z
+LOCATION:Bibl.425
+DTSTART:20241007T120000Z
+SUMMARY:Data science (konwersatorium do wyboru)
+UID:d833204c-fb61-4e45-97ec-46c55817b584@d833.org
+END:VEVENT
+END:VCALENDAR

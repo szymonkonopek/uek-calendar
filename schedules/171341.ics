@@ -1,0 +1,858 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20241004T091500Z
+LOCATION:Paw.F 415
+DTSTART:20241004T074500Z
+SUMMARY:Prawo prywatne międzynarodowe (ćwiczenia)
+UID:cb325b73-1c01-40d1-8d7a-062b77bb45e0@cb32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20250110T134500Z
+LOCATION:Paw.F 515
+DTSTART:20250110T121500Z
+SUMMARY:Podatki i opłaty lokalne w praktyce (konwersatorium do wyboru)
+UID:6834211e-6043-4554-b528-f46b788637ce@6834.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Czubik
+DTEND:20241021T090000Z
+LOCATION:link do zajęć
+DTSTART:20241021T064500Z
+SUMMARY:Międzynarodwe prawo spadkowe (wykład do wyboru)
+UID:bebec37e-ade5-4bf8-8df1-21dfebda0b66@bebe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
+DTEND:20241024T091500Z
+LOCATION:link do zajęć
+DTSTART:20241024T074500Z
+SUMMARY:Prawo własności intelektualnej (wykład)
+UID:1538a0a8-fd5a-4e12-8520-74da95e54d4c@1538.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20241001T180000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241001T163000Z
+SUMMARY:Prawo własności intelektualnej (ćwiczenia)
+UID:b3adedf6-70ad-4372-b898-7b3a6c72ea40@b3ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20241202T120000Z
+LOCATION:link do zajęć
+DTSTART:20241202T103000Z
+SUMMARY:Mediacje i alternatywne sposoby rozstrzygania sporów (wykład do wyboru)
+UID:c3015fb3-28a1-49f4-a460-f324530b7413@c301.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Czubik
+DTEND:20241216T100000Z
+LOCATION:link do zajęć
+DTSTART:20241216T074500Z
+SUMMARY:Międzynarodwe prawo spadkowe (wykład do wyboru)
+UID:bc9a150b-d02b-4991-9741-7a37a5bdf9a5@bc9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
+DTEND:20241205T101500Z
+LOCATION:link do zajęć
+DTSTART:20241205T084500Z
+SUMMARY:Prawo własności intelektualnej (wykład)
+UID:a3460ad3-453f-482a-8b37-83ca3000f841@a346.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20241220T134500Z
+LOCATION:Paw.F 515
+DTSTART:20241220T121500Z
+SUMMARY:Podatki i opłaty lokalne w praktyce (konwersatorium do wyboru)
+UID:d7952568-9131-43cf-81bc-1f93386c4fdd@d795.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20250120T120000Z
+LOCATION:link do zajęć
+DTSTART:20250120T103000Z
+SUMMARY:Mediacje i alternatywne sposoby rozstrzygania sporów (wykład do wyboru)
+UID:904f72ce-ce19-4017-84fb-da2262fe6e40@904f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20241211T083000Z
+LOCATION:link do zajęć
+DTSTART:20241211T070000Z
+SUMMARY:Prawo restrukturyzacyjne (wykład do wyboru)
+UID:63c9660a-b639-4de4-b63a-9bb5da9c8cdd@63c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20250121T190000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20250121T173000Z
+SUMMARY:Prawo własności intelektualnej (ćwiczenia)
+UID:5784dc74-a1e0-423a-ad7b-039c958e62d9@5784.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20241025T124500Z
+LOCATION:Paw.F 515
+DTSTART:20241025T111500Z
+SUMMARY:Podatki i opłaty lokalne w praktyce (konwersatorium do wyboru)
+UID:f87feb9e-ccc5-4d48-8940-384069e3f5dd@f87f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20250107T120000Z
+LOCATION:link do zajęć
+DTSTART:20250107T103000Z
+SUMMARY:Prawo prywatne międzynarodowe (wykład)
+UID:1086a23d-4783-4607-86b8-379ccdaeee7e@1086.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20241126T120000Z
+LOCATION:link do zajęć
+DTSTART:20241126T103000Z
+SUMMARY:Prawo prywatne międzynarodowe (wykład)
+UID:9eefc1a9-2635-487d-bfbe-294e32e3d8e5@9eef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20241105T120000Z
+LOCATION:link do zajęć
+DTSTART:20241105T103000Z
+SUMMARY:Prawo prywatne międzynarodowe (wykład)
+UID:e4fe28d5-f019-4cfd-a6ec-c9fe5c3ed32d@e4fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20241206T134500Z
+LOCATION:Paw.F 515
+DTSTART:20241206T121500Z
+SUMMARY:Podatki i opłaty lokalne w praktyce (konwersatorium do wyboru)
+UID:8da51a1d-38e8-43b6-b219-83d531fa3919@8da5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Czubik
+DTEND:20250120T101500Z
+LOCATION:link do zajęć
+DTSTART:20250120T084500Z
+SUMMARY:Międzynarodwe prawo spadkowe (wykład do wyboru)
+UID:6cc205d4-a18c-4185-8b26-036fea2e75ae@6cc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20241030T083000Z
+LOCATION:link do zajęć
+DTSTART:20241030T070000Z
+SUMMARY:Prawo restrukturyzacyjne (wykład do wyboru)
+UID:ff4a30be-3167-4027-8732-3c89e2d34534@ff4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20250107T190000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20250107T173000Z
+SUMMARY:Prawo własności intelektualnej (ćwiczenia)
+UID:e9329b96-b268-487c-ba49-50713504d289@e932.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250115T083000Z
+LOCATION:link do zajęć
+DTSTART:20250115T070000Z
+SUMMARY:Prawo restrukturyzacyjne (wykład do wyboru)
+UID:cb777457-b970-4d5a-a3e0-387b3b8e6f07@cb77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20250124T101500Z
+LOCATION:Paw.F 415
+DTSTART:20250124T084500Z
+SUMMARY:Prawo prywatne międzynarodowe (ćwiczenia)
+UID:efdbb0e1-3fbf-4caf-bae0-3716f1066816@efdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20241209T120000Z
+LOCATION:link do zajęć
+DTSTART:20241209T103000Z
+SUMMARY:Mediacje i alternatywne sposoby rozstrzygania sporów (wykład do wyboru)
+UID:46d55ae8-e630-4f5e-bf41-44511c1fb446@46d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20250113T120000Z
+LOCATION:link do zajęć
+DTSTART:20250113T103000Z
+SUMMARY:Mediacje i alternatywne sposoby rozstrzygania sporów (wykład do wyboru)
+UID:957cf6d9-7453-4db2-87e9-98c93c55b621@957c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20241113T083000Z
+LOCATION:link do zajęć
+DTSTART:20241113T070000Z
+SUMMARY:Prawo restrukturyzacyjne (wykład do wyboru)
+UID:6a290816-0963-462c-8222-81129c36eeae@6a29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
+DTEND:20241219T101500Z
+LOCATION:link do zajęć
+DTSTART:20241219T084500Z
+SUMMARY:Prawo własności intelektualnej (wykład)
+UID:31b1efc6-8e18-46c9-83f1-9cf2409b2402@31b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
+DTEND:20250109T101500Z
+LOCATION:link do zajęć
+DTSTART:20250109T084500Z
+SUMMARY:Prawo własności intelektualnej (wykład)
+UID:75e7848f-8b94-4fa4-9650-3cd125f85570@75e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20241029T190000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241029T173000Z
+SUMMARY:Prawo własności intelektualnej (ćwiczenia)
+UID:34fd886f-6284-4211-84fb-17e7f792996d@34fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
+DTEND:20241114T101500Z
+LOCATION:link do zajęć
+DTSTART:20241114T084500Z
+SUMMARY:Prawo własności intelektualnej (wykład)
+UID:0e873b2f-e8f8-491f-8be0-b5a1738f84a6@0e87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20241119T120000Z
+LOCATION:link do zajęć
+DTSTART:20241119T103000Z
+SUMMARY:Prawo prywatne międzynarodowe (wykład)
+UID:ddab32b8-16e0-4339-8fb8-87207a4fa395@ddab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20241203T190000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241203T173000Z
+SUMMARY:Prawo własności intelektualnej (ćwiczenia)
+UID:1c9d9a80-8cf8-4f44-bf2c-a19cc7154942@1c9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20241120T083000Z
+LOCATION:link do zajęć
+DTSTART:20241120T070000Z
+SUMMARY:Prawo restrukturyzacyjne (wykład do wyboru)
+UID:fdf9c1ba-301a-494f-a1db-78a51269fd8b@fdf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20241008T110000Z
+LOCATION:link do zajęć
+DTSTART:20241008T093000Z
+SUMMARY:Prawo prywatne międzynarodowe (wykład)
+UID:4a3d2b9f-1a4c-43a8-8c5f-81c12ae66310@4a3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20241018T091500Z
+LOCATION:Paw.F 415
+DTSTART:20241018T074500Z
+SUMMARY:Prawo prywatne międzynarodowe (ćwiczenia)
+UID:6abf4c7a-a232-4b22-9057-faf9c281e7b3@6abf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20241204T083000Z
+LOCATION:link do zajęć
+DTSTART:20241204T070000Z
+SUMMARY:Prawo restrukturyzacyjne (wykład do wyboru)
+UID:f6209313-436c-45a6-ab3c-e838cf635ca1@f620.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20241112T190000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241112T173000Z
+SUMMARY:Prawo własności intelektualnej (ćwiczenia)
+UID:251f04bb-5f03-4650-8213-9c82927579ae@251f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Czubik
+DTEND:20241202T100000Z
+LOCATION:link do zajęć
+DTSTART:20241202T074500Z
+SUMMARY:Międzynarodwe prawo spadkowe (wykład do wyboru)
+UID:081815b6-e5bc-4f01-a2f3-9bba5f422116@0818.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20241104T120000Z
+LOCATION:link do zajęć
+DTSTART:20241104T103000Z
+SUMMARY:Mediacje i alternatywne sposoby rozstrzygania sporów (wykład do wyboru)
+UID:1df61277-87e0-4cfc-ac4b-071c457439f6@1df6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20241001T110000Z
+LOCATION:link do zajęć
+DTSTART:20241001T093000Z
+SUMMARY:Prawo prywatne międzynarodowe (wykład)
+UID:cb7e93cf-ae69-45dc-98ff-7ac0e83c1d79@cb7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20241108T134500Z
+LOCATION:Paw.F 515
+DTSTART:20241108T121500Z
+SUMMARY:Podatki i opłaty lokalne w praktyce (konwersatorium do wyboru)
+UID:34291857-fddb-4c94-ab16-01d8563fc809@3429.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20241106T083000Z
+LOCATION:link do zajęć
+DTSTART:20241106T070000Z
+SUMMARY:Prawo restrukturyzacyjne (wykład do wyboru)
+UID:4531440d-5abe-4e84-8872-e901b716c765@4531.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241010T123000Z
+DTSTART:20241010T093000Z
+SUMMARY: (rezerwacja)
+UID:b8042c4b-115b-489c-95d9-674423915c15@b804.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20241014T110000Z
+LOCATION:link do zajęć
+DTSTART:20241014T093000Z
+SUMMARY:Mediacje i alternatywne sposoby rozstrzygania sporów (wykład do wyboru)
+UID:361f1ed7-b106-426c-9aa6-bb64aa8c4341@361f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250115T124500Z
+LOCATION:link do zajęć
+DTSTART:20250115T111500Z
+SUMMARY:Prawo restrukturyzacyjne (wykład do wyboru)
+UID:ce8eb567-99de-4352-ad20-397382c612e9@ce8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20250110T101500Z
+LOCATION:Paw.F 415
+DTSTART:20250110T084500Z
+SUMMARY:Prawo prywatne międzynarodowe (ćwiczenia)
+UID:0c79ba3d-e354-42da-bcdc-98a5521fdc86@0c79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
+DTEND:20241017T091500Z
+LOCATION:link do zajęć
+DTSTART:20241017T074500Z
+SUMMARY:Prawo własności intelektualnej (wykład)
+UID:118be3b8-bc48-44ad-915d-09e92af06c24@118b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Czubik
+DTEND:20241104T100000Z
+LOCATION:link do zajęć
+DTSTART:20241104T074500Z
+SUMMARY:Międzynarodwe prawo spadkowe (wykład do wyboru)
+UID:1bcb2d0f-a4b9-4e9e-9764-13727b1693cf@1bcb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20241127T083000Z
+LOCATION:link do zajęć
+DTSTART:20241127T070000Z
+SUMMARY:Prawo restrukturyzacyjne (wykład do wyboru)
+UID:0c1670b1-e878-4e36-98a7-7cd61d75b24a@0c16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Czubik
+DTEND:20241209T100000Z
+LOCATION:link do zajęć
+DTSTART:20241209T074500Z
+SUMMARY:Międzynarodwe prawo spadkowe (wykład do wyboru)
+UID:354fc34e-f7f3-4cae-af81-4993b7fe82fd@354f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20241021T110000Z
+LOCATION:link do zajęć
+DTSTART:20241021T093000Z
+SUMMARY:Mediacje i alternatywne sposoby rozstrzygania sporów (wykład do wyboru)
+UID:8ea52e71-1f23-4148-ac05-4a05d54bec1f@8ea5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20241216T120000Z
+LOCATION:link do zajęć
+DTSTART:20241216T103000Z
+SUMMARY:Mediacje i alternatywne sposoby rozstrzygania sporów (wykład do wyboru)
+UID:c0c39a74-a7b2-4a2a-8215-f18271700013@c0c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20241008T180000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241008T163000Z
+SUMMARY:Prawo własności intelektualnej (ćwiczenia)
+UID:a917603a-4f9c-40eb-9f49-f85ad2bc12b0@a917.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20241213T101500Z
+LOCATION:Paw.F 415
+DTSTART:20241213T084500Z
+SUMMARY:Prawo prywatne międzynarodowe (ćwiczenia)
+UID:4251c21c-dd14-4700-8736-3bf86f2c3011@4251.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20241004T124500Z
+LOCATION:Paw.F 515
+DTSTART:20241004T111500Z
+SUMMARY:Podatki i opłaty lokalne w praktyce (konwersatorium do wyboru)
+UID:232d8a7d-812a-41be-86cc-87d0ea3fe853@232d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20250121T120000Z
+LOCATION:link do zajęć
+DTSTART:20250121T103000Z
+SUMMARY:Prawo prywatne międzynarodowe (wykład)
+UID:83a3ee40-d973-44ea-97bc-65ec750d8177@83a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20241210T120000Z
+LOCATION:link do zajęć
+DTSTART:20241210T103000Z
+SUMMARY:Prawo prywatne międzynarodowe (wykład)
+UID:a3ed7c1b-68c1-4d3f-b7fe-5f5001b9e39e@a3ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20250114T120000Z
+LOCATION:link do zajęć
+DTSTART:20250114T103000Z
+SUMMARY:Prawo prywatne międzynarodowe (wykład)
+UID:538ced9a-8550-4ff2-a24a-6d3b90f75dce@538c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20241016T073000Z
+LOCATION:link do zajęć
+DTSTART:20241016T060000Z
+SUMMARY:Prawo restrukturyzacyjne (wykład do wyboru)
+UID:ad74a3bd-4acd-4b00-a439-97613ff6cf80@ad74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Czubik
+DTEND:20250113T101500Z
+LOCATION:link do zajęć
+DTSTART:20250113T084500Z
+SUMMARY:Międzynarodwe prawo spadkowe (wykład do wyboru)
+UID:5fe2e02b-c381-4e7a-8bd7-5e16c2cc5179@5fe2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20241213T134500Z
+LOCATION:Paw.F 515
+DTSTART:20241213T121500Z
+SUMMARY:Podatki i opłaty lokalne w praktyce (konwersatorium do wyboru)
+UID:adfa0f85-2ce4-4bd0-8941-6676cefa67ce@adfa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20241028T120000Z
+LOCATION:link do zajęć
+DTSTART:20241028T103000Z
+SUMMARY:Mediacje i alternatywne sposoby rozstrzygania sporów (wykład do wyboru)
+UID:0d910d0b-e869-44ce-a39b-5ccc0cd80bde@0d91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
+DTEND:20241010T091500Z
+LOCATION:link do zajęć
+DTSTART:20241010T074500Z
+SUMMARY:Prawo własności intelektualnej (wykład)
+UID:5c7be29c-2923-4b08-9730-db8829e284cb@5c7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
+DTEND:20241003T091500Z
+LOCATION:link do zajęć
+DTSTART:20241003T074500Z
+SUMMARY:Prawo własności intelektualnej (wykład)
+UID:c0dd5a28-a574-4a76-ae86-0a9cc6084936@c0dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Czubik
+DTEND:20241125T100000Z
+LOCATION:link do zajęć
+DTSTART:20241125T074500Z
+SUMMARY:Międzynarodwe prawo spadkowe (wykład do wyboru)
+UID:6cece8c6-94d8-402c-b317-8eb9bdcba094@6cec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20241129T134500Z
+LOCATION:Paw.F 515
+DTSTART:20241129T121500Z
+SUMMARY:Podatki i opłaty lokalne w praktyce (konwersatorium do wyboru)
+UID:28f588fd-f699-4b0d-af8f-eec4f449a090@28f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20241217T190000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241217T173000Z
+SUMMARY:Prawo własności intelektualnej (ćwiczenia)
+UID:4c77c822-b8f7-48f0-9b09-a8e4833171ce@4c77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20241115T101500Z
+LOCATION:Paw.F 415
+DTSTART:20241115T084500Z
+SUMMARY:Prawo prywatne międzynarodowe (ćwiczenia)
+UID:44b4f67e-1472-48ad-8d0d-e6a7f00b66b8@44b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20241007T110000Z
+LOCATION:link do zajęć
+DTSTART:20241007T093000Z
+SUMMARY:Mediacje i alternatywne sposoby rozstrzygania sporów (wykład do wyboru)
+UID:571c52b9-913c-46b8-a029-6df5a2bd4f1c@571c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20241122T134500Z
+LOCATION:Paw.F 515
+DTSTART:20241122T121500Z
+SUMMARY:Podatki i opłaty lokalne w praktyce (konwersatorium do wyboru)
+UID:f706f8ff-04b9-473a-91a5-60d3592984b0@f706.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20241011T124500Z
+LOCATION:Paw.F 515
+DTSTART:20241011T111500Z
+SUMMARY:Podatki i opłaty lokalne w praktyce (konwersatorium do wyboru)
+UID:e620ad45-bf94-40e4-b7c9-fd3f9da2f89c@e620.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20250124T111500Z
+LOCATION:Paw.S sala 4
+DTSTART:20250124T103000Z
+SUMMARY:Prawo prywatne międzynarodowe (ćwiczenia)
+UID:09e4b262-7b7d-4ff2-8de0-32f2a865d93a@09e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
+DTEND:20241212T101500Z
+LOCATION:link do zajęć
+DTSTART:20241212T084500Z
+SUMMARY:Prawo własności intelektualnej (wykład)
+UID:5b7ee7ae-174f-4ed0-93b3-07d410d107eb@5b7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20241125T120000Z
+LOCATION:link do zajęć
+DTSTART:20241125T103000Z
+SUMMARY:Mediacje i alternatywne sposoby rozstrzygania sporów (wykład do wyboru)
+UID:aae70064-38d5-45bc-bd8d-f851e2f92db0@aae7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20241126T153000Z
+LOCATION:Paw.F 515
+DTSTART:20241126T140000Z
+SUMMARY:Prawo prywatne międzynarodowe (ćwiczenia)
+UID:e388a6c2-b4e4-40a6-ae32-e38ff155d288@e388.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250108T083000Z
+LOCATION:link do zajęć
+DTSTART:20250108T070000Z
+SUMMARY:Prawo restrukturyzacyjne (wykład do wyboru)
+UID:c557ef95-af85-4eb4-abeb-2a7868beb9ac@c557.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20241022T180000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241022T163000Z
+SUMMARY:Prawo własności intelektualnej (ćwiczenia)
+UID:8410f256-fe14-4737-af37-28a569ba10c9@8410.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20250122T083000Z
+LOCATION:link do zajęć
+DTSTART:20250122T070000Z
+SUMMARY:Prawo restrukturyzacyjne (wykład do wyboru)
+UID:54bd0168-cdc8-40de-bb94-253693a1eb47@54bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20250124T143000Z
+LOCATION:Paw.F 515
+DTSTART:20250124T121500Z
+SUMMARY:Podatki i opłaty lokalne w praktyce (konwersatorium do wyboru)
+UID:13fbc104-4867-4735-a3de-fdb37d4b7295@13fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20241023T073000Z
+LOCATION:link do zajęć
+DTSTART:20241023T060000Z
+SUMMARY:Prawo restrukturyzacyjne (wykład do wyboru)
+UID:84c68112-26e0-43da-a1bb-3fda9938e695@84c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20241218T083000Z
+LOCATION:link do zajęć
+DTSTART:20241218T070000Z
+SUMMARY:Prawo restrukturyzacyjne (wykład do wyboru)
+UID:56032b77-9676-4106-b5c3-fa1c5e4c3953@5603.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20241015T110000Z
+LOCATION:link do zajęć
+DTSTART:20241015T093000Z
+SUMMARY:Prawo prywatne międzynarodowe (wykład)
+UID:8326cada-94a7-4444-bad7-e9a0c233f120@8326.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20241018T124500Z
+LOCATION:Paw.F 515
+DTSTART:20241018T111500Z
+SUMMARY:Podatki i opłaty lokalne w praktyce (konwersatorium do wyboru)
+UID:1fc19181-324f-401a-8077-4770ee09bfef@1fc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Karol Ryszkowski
+DTEND:20241118T120000Z
+LOCATION:link do zajęć
+DTSTART:20241118T103000Z
+SUMMARY:Mediacje i alternatywne sposoby rozstrzygania sporów (wykład do wyboru)
+UID:1b7ed3c6-4378-4f31-bdab-b0e6a5725c4a@1b7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
+DTEND:20241031T101500Z
+LOCATION:link do zajęć
+DTSTART:20241031T084500Z
+SUMMARY:Prawo własności intelektualnej (wykład)
+UID:30255269-42a8-4085-906a-440933ac6b13@3025.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20241015T180000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241015T163000Z
+SUMMARY:Prawo własności intelektualnej (ćwiczenia)
+UID:815b1252-7aba-4e4d-840b-9547075943e7@815b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
+DTEND:20241107T101500Z
+LOCATION:link do zajęć
+DTSTART:20241107T084500Z
+SUMMARY:Prawo własności intelektualnej (wykład)
+UID:d1a5cb77-93bb-481b-b712-d17bd025c942@d1a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20241112T120000Z
+LOCATION:link do zajęć
+DTSTART:20241112T103000Z
+SUMMARY:Prawo prywatne międzynarodowe (wykład)
+UID:249de9a1-8d5a-499c-aba0-5c42a3c84452@249d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20241210T190000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241210T173000Z
+SUMMARY:Prawo własności intelektualnej (ćwiczenia)
+UID:bb30c528-49ed-4c87-bc3c-a62e8d52baa7@bb30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Czubik
+DTEND:20241118T100000Z
+LOCATION:link do zajęć
+DTSTART:20241118T074500Z
+SUMMARY:Międzynarodwe prawo spadkowe (wykład do wyboru)
+UID:1df14f82-e272-4d42-8d51-75b9ab117a79@1df1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
+DTEND:20241121T101500Z
+LOCATION:link do zajęć
+DTSTART:20241121T084500Z
+SUMMARY:Prawo własności intelektualnej (wykład)
+UID:5f33b953-2156-4010-8173-f464cf56a500@5f33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Czubik
+DTEND:20241007T091500Z
+LOCATION:link do zajęć
+DTSTART:20241007T074500Z
+SUMMARY:Międzynarodwe prawo spadkowe (wykład do wyboru)
+UID:ac9b2a3b-6947-4a3c-89ad-82a83a781679@ac9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20241203T120000Z
+LOCATION:link do zajęć
+DTSTART:20241203T103000Z
+SUMMARY:Prawo prywatne międzynarodowe (wykład)
+UID:ed39a40c-2936-4739-86d0-5015ac761e84@ed39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. dr hab. Paweł Czubik
+DTEND:20241014T090000Z
+LOCATION:link do zajęć
+DTSTART:20241014T064500Z
+SUMMARY:Międzynarodwe prawo spadkowe (wykład do wyboru)
+UID:7f33fef2-df12-4ab5-812f-654d7968ff77@7f33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
+DTEND:20250116T101500Z
+LOCATION:link do zajęć
+DTSTART:20250116T084500Z
+SUMMARY:Prawo własności intelektualnej (wykład)
+UID:b2401921-380f-429e-8ade-485fc45a85ac@b240.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
+DTEND:20241128T101500Z
+LOCATION:link do zajęć
+DTSTART:20241128T084500Z
+SUMMARY:Prawo własności intelektualnej (wykład)
+UID:35399ff8-19b4-4e91-92ee-01475c8203de@3539.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20250117T143000Z
+LOCATION:Paw.F 515
+DTSTART:20250117T121500Z
+SUMMARY:Podatki i opłaty lokalne w praktyce (konwersatorium do wyboru)
+UID:36f5d07d-c03e-4c9b-96b1-bdc253149fa9@36f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20241022T110000Z
+LOCATION:link do zajęć
+DTSTART:20241022T093000Z
+SUMMARY:Prawo prywatne międzynarodowe (wykład)
+UID:c1af8db0-c4bf-4f8a-8a73-0ad61ddec874@c1af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20241126T190000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241126T173000Z
+SUMMARY:Prawo własności intelektualnej (ćwiczenia)
+UID:a658aec9-14e7-49e6-8a0b-69e5462efbae@a658.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20241217T120000Z
+LOCATION:link do zajęć
+DTSTART:20241217T103000Z
+SUMMARY:Prawo prywatne międzynarodowe (wykład)
+UID:ea810b38-f33d-498a-bd04-bde63e79f6d3@ea81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Aleksandra Nowak-Gruca
+DTEND:20250123T101500Z
+LOCATION:link do zajęć
+DTSTART:20250123T084500Z
+SUMMARY:Prawo własności intelektualnej (wykład)
+UID:e611ed52-29df-4df5-9ed3-5ac0f225c176@e611.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20250114T190000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20250114T173000Z
+SUMMARY:Prawo własności intelektualnej (ćwiczenia)
+UID:6f77b8c1-a8d8-4277-b74d-e44a589d2fc6@6f77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: mgr Karolina Gwiżdż
+DTEND:20241115T134500Z
+LOCATION:Paw.F 515
+DTSTART:20241115T121500Z
+SUMMARY:Podatki i opłaty lokalne w praktyce (konwersatorium do wyboru)
+UID:146e79f1-b95e-46bc-bfd5-3f120a910b80@146e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20241119T190000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241119T173000Z
+SUMMARY:Prawo własności intelektualnej (ćwiczenia)
+UID:f566c8cb-d875-4603-931e-90b5b05d9e0a@f566.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: prof. UEK dr hab. Piotr Horosz
+DTEND:20241009T073000Z
+LOCATION:link do zajęć
+DTSTART:20241009T060000Z
+SUMMARY:Prawo restrukturyzacyjne (wykład do wyboru)
+UID:80cfc717-7a40-4036-9c86-8030f009bb96@80cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Mateusz Tondera
+DTEND:20241105T190000Z
+LOCATION:Paw.B 055 (KSB)
+DTSTART:20241105T173000Z
+SUMMARY:Prawo własności intelektualnej (ćwiczenia)
+UID:ca2ffd1f-5b7a-4182-9413-d7acad0c911a@ca2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: 
+DTEND:20241219T134500Z
+DTSTART:20241219T121500Z
+SUMMARY: (rezerwacja)
+UID:314bdd33-330c-4313-93a6-9d9d3b765a34@314b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Instructor: dr Edyta Figura-Góralczyk
+DTEND:20241029T120000Z
+LOCATION:link do zajęć
+DTSTART:20241029T103000Z
+SUMMARY:Prawo prywatne międzynarodowe (wykład)
+UID:ee0af708-6735-4038-969d-841a52c20a1c@ee0a.org
+END:VEVENT
+END:VCALENDAR
