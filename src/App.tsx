@@ -22,7 +22,7 @@ import {
 } from '@mui/material';
 import { TransitionProps } from '@mui/material/transitions';
 import GitHubIcon from '@mui/icons-material/GitHub';
-import ReactGA from 'react-ga';
+import ReactGA from 'react-ga4';
 
 interface Group {
   name: string;
