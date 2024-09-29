@@ -104,10 +104,6 @@ const App: React.FC = () => {
     setFilteredGroups(filtered);
   };
 
-  const handleClickOpen = () => {
-    setOpen(true);
-  };
-
   const handleClose = () => {
     setOpen(false);
   };
@@ -120,9 +116,23 @@ const App: React.FC = () => {
 
     ReactGA.event({
       category: 'Group Selection',
-      action: 'Group Click',
+      action: 'Group Name',
       label: group.name,
-      nonInteraction: false, // Interaction event
+      nonInteraction: false,
+    });
+
+    ReactGA.send({
+      category: 'Group Selection',
+      action: 'Group ID',
+      label: group.id,
+      nonInteraction: false,
+    });
+
+    ReactGA.send({
+      category: 'Group Selection',
+      action: 'Parent Category',
+      label: group.parentCategory,
+      nonInteraction: false,
     });
   };
 
