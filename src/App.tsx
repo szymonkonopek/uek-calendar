@@ -22,6 +22,7 @@ import {
 } from '@mui/material';
 import { TransitionProps } from '@mui/material/transitions';
 import GitHubIcon from '@mui/icons-material/GitHub';
+import ReactGA from 'react-ga';
 
 interface Group {
   name: string;
@@ -50,6 +51,11 @@ const App: React.FC = () => {
   const [isToastOpen, setIsToastOpen] = useState(false);
   const [groupList, setGroupList] = useState<Group[]>([]);
   const [loading, setLoading] = useState(true); // Add loading state
+
+  const TRACKING_ID = 'G-2J9R25M4JV';
+  ReactGA.initialize(TRACKING_ID);
+
+  ReactGA.send(['pageview', window.location.pathname + window.location.search]);
 
   // Fetch group data from the provided URL
   useEffect(() => {
