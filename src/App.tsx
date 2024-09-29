@@ -1,18 +1,14 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
+import axios from 'axios';
 import {
   Container,
   TextField,
   List,
   ListItemText,
   Typography,
-  Link,
   ListItemButton,
-  AppBar,
-  IconButton,
-  Toolbar,
   Stack,
   Box,
-  Divider,
   Button,
   Dialog,
   DialogActions,
@@ -22,8 +18,8 @@ import {
   Slide,
   Snackbar,
   Card,
+  CircularProgress,
 } from '@mui/material';
-import groupData from './group_folder.json';
 import { TransitionProps } from '@mui/material/transitions';
 import GitHubIcon from '@mui/icons-material/GitHub';
 
@@ -31,6 +27,10 @@ interface Group {
   name: string;
   id: string;
   parentCategory: string;
+}
+
+interface GroupData {
+  [parentCategory: string]: [string, string][]; // Array of [name, id]
 }
 
 const Transition = React.forwardRef(function Transition(
@@ -48,17 +48,36 @@ const App: React.FC = () => {
   const [selectedGroup, setSelectedGroup] = useState<Group | null>(null);
   const [open, setOpen] = useState(false);
   const [isToastOpen, setIsToastOpen] = useState(false);
+  const [groupList, setGroupList] = useState<Group[]>([]);
+  const [loading, setLoading] = useState(true); // Add loading state
 
-  const groupList: Group[] = Object.entries(groupData).flatMap(
-    ([parentCategory, groups]) =>
-      groups.map((group) => ({
-        name: group[0],
-        id: group[1],
-        parentCategory: parentCategory,
-      }))
-  );
+  // Fetch group data from the provided URL
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        setLoading(true); // Start loading
+        const response = await axios.get(
+          'https://szymonkonopek.github.io/calendar/src/group_folder.json'
+        );
+        const data: GroupData = response.data; // Cast the response to GroupData type
+        const groups = Object.entries(data).flatMap(
+          ([parentCategory, groups]) =>
+            groups.map((group) => ({
+              name: group[0],
+              id: group[1],
+              parentCategory: parentCategory,
+            }))
+        );
+        setGroupList(groups);
+      } catch (error) {
+        console.error('Error fetching group data:', error);
+      } finally {
+        setLoading(false); // Stop loading
+      }
+    };
+    fetchData();
+  }, []);
 
-  // Search function to filter group by name, ID, or parent category
   const handleSearch = (query: string) => {
     setSearchQuery(query);
     if (query.length === 0) {
@@ -99,7 +118,6 @@ const App: React.FC = () => {
     setIsToastOpen(true);
   };
 
-  // Render the search bar and results
   return (
     <>
       <Container
@@ -155,31 +173,42 @@ const App: React.FC = () => {
           Example: Informatyka Stosowana
         </Typography>
 
-        <List sx={{ minHeight: '70vh' }}>
-          {filteredGroups.map((group, index) => (
-            <ListItemButton
-              key={group.id}
-              onClick={() => handleGroupClick(group)}
-              sx={{
-                background: index % 2 === 0 ? 'white' : '#e4e7eb',
-              }}
-            >
-              <ListItemText
-                primary={
-                  <Stack direction={'row'} gap={0.5}>
-                    <Typography variant='subtitle1' fontWeight={500}>
-                      {group.name}
-                    </Typography>
-                    <Typography variant='subtitle1'>
-                      {group.parentCategory}
-                    </Typography>
-                  </Stack>
-                }
-                secondary={`Group ID: ${group.id}`}
-              />
-            </ListItemButton>
-          ))}
-        </List>
+        {/* Display loader when fetching data */}
+        {loading ? (
+          <Stack alignItems='center' sx={{ mt: 5 }}>
+            <CircularProgress />
+            <Typography variant='subtitle1' sx={{ mt: 2 }}>
+              Loading groups...
+            </Typography>
+          </Stack>
+        ) : (
+          <List sx={{ minHeight: '70vh' }}>
+            {filteredGroups.map((group, index) => (
+              <ListItemButton
+                key={group.id}
+                onClick={() => handleGroupClick(group)}
+                sx={{
+                  background: index % 2 === 0 ? 'white' : '#e4e7eb',
+                }}
+              >
+                <ListItemText
+                  primary={
+                    <Stack direction={'row'} gap={0.5}>
+                      <Typography variant='subtitle1' fontWeight={500}>
+                        {group.name}
+                      </Typography>
+                      <Typography variant='subtitle1'>
+                        {group.parentCategory}
+                      </Typography>
+                    </Stack>
+                  }
+                  secondary={`Group ID: ${group.id}`}
+                />
+              </ListItemButton>
+            ))}
+          </List>
+        )}
+
         <Dialog
           open={open}
           TransitionComponent={Transition}
@@ -193,7 +222,6 @@ const App: React.FC = () => {
               component='span'
               sx={{
                 display: 'block',
-
                 background: '#e0e0e0',
                 fontFamily: 'monospace',
                 overflowWrap: 'break-word',
