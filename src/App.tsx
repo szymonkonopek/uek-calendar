@@ -115,6 +115,15 @@ const App: React.FC = () => {
   const handleGroupClick = (group: Group) => {
     setSelectedGroup(group);
     setOpen(true);
+
+    console.log('group', group.id);
+
+    ReactGA.event({
+      category: 'Group Selection',
+      action: 'Group Click',
+      label: group.name,
+      nonInteraction: false, // Interaction event
+    });
   };
 
   const handleCopy = () => {
