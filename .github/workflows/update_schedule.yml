@@ -2,8 +2,8 @@ name: Update Schedule ICS File
 
 # Run the action every hour
 on:
-  schedule:
-    - cron: '0 */12 * * *' # Runs every 12 hours (at 00:00 and 12:00)
+  # schedule:
+    # - cron: '0 */12 * * *' # Runs every 12 hours (at 00:00 and 12:00)
 
   workflow_dispatch: # Allows manual trigger
 
