@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import axios from 'axios';
 import {
   Container,
@@ -99,7 +99,7 @@ const App: React.FC = () => {
           group.id.includes(lowerCaseQuery) || // Match group ID
           group.parentCategory.toLowerCase().includes(lowerCaseQuery) // Match parent category
       )
-      .slice(0, 10); // Limit results to 10
+      .slice(0, 20); // Limit results to 10
 
     setFilteredGroups(filtered);
   };
@@ -136,9 +136,11 @@ const App: React.FC = () => {
     });
   };
 
+  const randomNumber = useMemo(() => (Math.random() * 100).toFixed(0), []);
+
   const handleCopy = () => {
     navigator.clipboard.writeText(
-      `https://szymonkonopek.github.io/calendar/schedules/${selectedGroup?.id}.ics`
+      `https://szymonkonopek.github.io/calendar/schedules/${selectedGroup?.id}.ics#${randomNumber}`
     );
     setIsToastOpen(true);
   };
@@ -253,7 +255,7 @@ const App: React.FC = () => {
               }}
               py={3}
               px={1}
-            >{`https://szymonkonopek.github.io/calendar/schedules/${selectedGroup?.id}.ics`}</Box>
+            >{`https://szymonkonopek.github.io/calendar/schedules/${selectedGroup?.id}.ics#${randomNumber}`}</Box>
             <DialogContentText
               id='alert-dialog-slide-description'
               sx={{ pt: 2 }}
