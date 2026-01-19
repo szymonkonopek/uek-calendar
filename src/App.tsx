@@ -65,7 +65,10 @@ const App: React.FC = () => {
         const response = await axios.get(
           'https://szymonkonopek.github.io/calendar/group_folder.json'
         );
-        const data: GroupData = response.data; // Cast the response to GroupData type
+        const lecturer_data = await axios.get(
+          'https://szymonkonopek.github.io/calendar/lecturer_folder.json'
+        );
+        const data: GroupData = { ...response.data, ...lecturer_data.data }; // Cast the response to GroupData type
         const groups = Object.entries(data).flatMap(
           ([parentCategory, groups]) =>
             groups.map((group) => ({
@@ -140,7 +143,11 @@ const App: React.FC = () => {
 
   const handleCopy = () => {
     navigator.clipboard.writeText(
-      `https://szymonkonopek.github.io/calendar/schedules/${selectedGroup?.id}.ics#${randomNumber}`
+      `https://szymonkonopek.github.io/calendar/${
+        selectedGroup?.parentCategory === 'Pracownik'
+          ? 'schedules_lecturers'
+          : 'schedules'
+      }/${selectedGroup?.id}.ics#${randomNumber}`
     );
     setIsToastOpen(true);
   };
@@ -255,7 +262,11 @@ const App: React.FC = () => {
               }}
               py={3}
               px={1}
-            >{`https://szymonkonopek.github.io/calendar/schedules/${selectedGroup?.id}.ics#${randomNumber}`}</Box>
+            >{`https://szymonkonopek.github.io/calendar/${
+              selectedGroup?.parentCategory === 'Pracownik'
+                ? 'schedules_lecturers'
+                : 'schedules'
+            }/${selectedGroup?.id}.ics#${randomNumber}`}</Box>
             <DialogContentText
               id='alert-dialog-slide-description'
               sx={{ pt: 2 }}
