@@ -19,10 +19,12 @@ import {
   Snackbar,
   Card,
   CircularProgress,
+  Link,
 } from '@mui/material';
 import { TransitionProps } from '@mui/material/transitions';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import ReactGA from 'react-ga4';
+import FormDialog from './components/FormDialog';
 
 interface Group {
   name: string;
@@ -51,6 +53,22 @@ const App: React.FC = () => {
   const [isToastOpen, setIsToastOpen] = useState(false);
   const [groupList, setGroupList] = useState<Group[]>([]);
   const [loading, setLoading] = useState(true); // Add loading state
+  const [isFormOpen, setIsFormOpen] = useState(false);
+
+  // form
+  const [formData, setFormData] = useState({
+    formFullName: '',
+    formEmail: '',
+    formIdentifier: '',
+    formAdditionalInfo: '',
+  });
+
+  const handleFormDataChange = (field: string, value: string) => {
+    setFormData((prevData) => ({
+      ...prevData,
+      [field]: value,
+    }));
+  };
 
   const TRACKING_ID = 'G-2J9R25M4JV';
   ReactGA.initialize(TRACKING_ID);
@@ -109,6 +127,10 @@ const App: React.FC = () => {
 
   const handleClose = () => {
     setOpen(false);
+  };
+
+  const handleSendForm = () => {
+    setIsFormOpen(false);
   };
 
   const handleGroupClick = (group: Group) => {
@@ -206,6 +228,11 @@ const App: React.FC = () => {
         <Typography variant='subtitle2' color='textDisabled' sx={{ mt: 1 }}>
           Example: Informatyka Stosowana
         </Typography>
+        <Button sx={{ ml: -1 }} onClick={() => setIsFormOpen(true)}>
+          <Typography variant='subtitle2' sx={{ mt: 1 }}>
+            Help / Contact / Pomoc
+          </Typography>
+        </Button>
 
         {/* Display loader when fetching data */}
         {loading ? (
@@ -286,6 +313,13 @@ const App: React.FC = () => {
             message='Group URL copied to clipboard'
           />
         </Dialog>
+
+        <FormDialog
+          open={isFormOpen}
+          formData={formData}
+          onClose={() => setIsFormOpen(false)}
+          onDataChange={handleFormDataChange}
+        />
 
         <Card sx={{ pb: 5 }}>
           <Typography variant='h5' sx={{ p: 2, mb: 3 }}>
