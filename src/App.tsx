@@ -20,6 +20,9 @@ import {
   Card,
   CircularProgress,
   Link,
+  Checkbox,
+  FormControlLabel,
+  FormGroup,
 } from '@mui/material';
 import { TransitionProps } from '@mui/material/transitions';
 import GitHubIcon from '@mui/icons-material/GitHub';
@@ -54,6 +57,11 @@ const App: React.FC = () => {
   const [groupList, setGroupList] = useState<Group[]>([]);
   const [loading, setLoading] = useState(true); // Add loading state
   const [isFormOpen, setIsFormOpen] = useState(false);
+
+  // calendar URL options
+  const [showNumbers, setShowNumbers] = useState(false);
+  const [showLektoraty, setShowLektoraty] = useState(false);
+  const [shortMode, setShortMode] = useState<number | null>(null);
 
   // form
   const [formData, setFormData] = useState({
@@ -163,14 +171,19 @@ const App: React.FC = () => {
 
   const randomNumber = useMemo(() => (Math.random() * 100).toFixed(0), []);
 
+  const getCalendarUrl = (group: Group | null) => {
+    if (!group) return '';
+    const typ = group.parentCategory === 'Pracownik' ? 'N' : 'G';
+    const scheduleUrl = `https://planzajec.uek.krakow.pl/index.php?typ=${typ}&id=${group.id}&okres=2`;
+    const params = new URLSearchParams({ url: scheduleUrl });
+    if (!showNumbers) params.set('numer', '0');
+    if (showLektoraty) params.set('lektoraty', '1');
+    if (shortMode !== null) params.set('short', String(shortMode));
+    return `https://a2c.uek.krakow.pl/api/calendar?${params.toString()}#${randomNumber}`;
+  };
+
   const handleCopy = () => {
-    navigator.clipboard.writeText(
-      `https://szymonkonopek.github.io/calendar/${
-        selectedGroup?.parentCategory === 'Pracownik'
-          ? 'schedules_lecturers'
-          : 'schedules'
-      }/${selectedGroup?.id}.ics#${randomNumber}`
-    );
+    navigator.clipboard.writeText(getCalendarUrl(selectedGroup));
     setIsToastOpen(true);
   };
 
@@ -289,11 +302,58 @@ const App: React.FC = () => {
               }}
               py={3}
               px={1}
-            >{`https://szymonkonopek.github.io/calendar/${
-              selectedGroup?.parentCategory === 'Pracownik'
-                ? 'schedules_lecturers'
-                : 'schedules'
-            }/${selectedGroup?.id}.ics#${randomNumber}`}</Box>
+            >{getCalendarUrl(selectedGroup)}</Box>
+            <FormGroup sx={{ pt: 2 }}>
+              <FormControlLabel
+                control={
+                  <Checkbox
+                    checked={showNumbers}
+                    onChange={(e) => setShowNumbers(e.target.checked)}
+                  />
+                }
+                label={
+                  <Typography variant='body2'>
+                    <b>Wyświetlaj numery zajęć</b> wg schematu "(numer
+                    spotkania)/(liczba spotkań)"
+                  </Typography>
+                }
+              />
+              <FormControlLabel
+                control={
+                  <Checkbox
+                    checked={showLektoraty}
+                    onChange={(e) => setShowLektoraty(e.target.checked)}
+                  />
+                }
+                label={
+                  <Typography variant='body2'>
+                    <b>Pokazuj lektoraty</b>
+                  </Typography>
+                }
+              />
+              {[
+                [1, 'Skróć nazwy do akronimów'],
+                [2, 'Skróć nazwy do 12 znaków'],
+                [3, 'Skróć nazwy wg schematu "pierwsze słowo i akronim"'],
+                [
+                  4,
+                  'Skróć nazwy wg schematu "po cztery znaki oddzielone kropką"',
+                ],
+              ].map(([mode, label]) => (
+                <FormControlLabel
+                  key={mode}
+                  control={
+                    <Checkbox
+                      checked={shortMode === mode}
+                      onChange={(e) =>
+                        setShortMode(e.target.checked ? (mode as number) : null)
+                      }
+                    />
+                  }
+                  label={<Typography variant='body2'>{label}</Typography>}
+                />
+              ))}
+            </FormGroup>
             <DialogContentText
               id='alert-dialog-slide-description'
               sx={{ pt: 2 }}
