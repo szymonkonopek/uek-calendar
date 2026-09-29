@@ -43,9 +43,15 @@ const Transition = React.forwardRef(function Transition(
   props: TransitionProps & {
     children: React.ReactElement<any, any>;
   },
-  ref: React.Ref<unknown>
+  ref: React.Ref<unknown>,
 ) {
-  return <Slide direction='up' ref={ref} {...props} />;
+  return (
+    <Slide
+      direction='up'
+      ref={ref}
+      {...props}
+    />
+  );
 });
 
 const App: React.FC = () => {
@@ -89,10 +95,10 @@ const App: React.FC = () => {
       try {
         setLoading(true); // Start loading
         const response = await axios.get(
-          'https://szymonkonopek.github.io/calendar/group_folder.json'
+          'https://szymonkonopek.github.io/calendar/group_folder.json',
         );
         const lecturer_data = await axios.get(
-          'https://szymonkonopek.github.io/calendar/lecturer_folder.json'
+          'https://szymonkonopek.github.io/calendar/lecturer_folder.json',
         );
         const data: GroupData = { ...response.data, ...lecturer_data.data }; // Cast the response to GroupData type
         const groups = Object.entries(data).flatMap(
@@ -101,7 +107,7 @@ const App: React.FC = () => {
               name: group[0],
               id: group[1],
               parentCategory: parentCategory,
-            }))
+            })),
         );
         setGroupList(groups);
       } catch (error) {
@@ -126,7 +132,7 @@ const App: React.FC = () => {
         (group) =>
           group.name.toLowerCase().includes(lowerCaseQuery) || // Match group name
           group.id.includes(lowerCaseQuery) || // Match group ID
-          group.parentCategory.toLowerCase().includes(lowerCaseQuery) // Match parent category
+          group.parentCategory.toLowerCase().includes(lowerCaseQuery), // Match parent category
       )
       .slice(0, 20); // Limit results to 10
 
@@ -174,7 +180,7 @@ const App: React.FC = () => {
   const getCalendarUrl = (group: Group | null) => {
     if (!group) return '';
     const typ = group.parentCategory === 'Pracownik' ? 'N' : 'G';
-    const scheduleUrl = `https://planzajec.uek.krakow.pl/index.php?typ=${typ}&id=${group.id}&okres=1`;
+    const scheduleUrl = `https://planzajec.uek.krakow.pl/index.php?typ=${typ}&id=${group.id}&okres=3`;
     const params = new URLSearchParams({ url: scheduleUrl });
     if (!showNumbers) params.set('numer', '0');
     if (showLektoraty) params.set('lektoraty', '1');
@@ -228,7 +234,10 @@ const App: React.FC = () => {
           </Button>
         </Stack>
 
-        <Typography variant='h4' gutterBottom>
+        <Typography
+          variant='h4'
+          gutterBottom
+        >
           Find your Group
         </Typography>
         <TextField
@@ -238,20 +247,36 @@ const App: React.FC = () => {
           value={searchQuery}
           onChange={(e) => handleSearch(e.target.value)}
         />
-        <Typography variant='subtitle2' color='textDisabled' sx={{ mt: 1 }}>
+        <Typography
+          variant='subtitle2'
+          color='textDisabled'
+          sx={{ mt: 1 }}
+        >
           Example: Informatyka Stosowana
         </Typography>
-        <Button sx={{ ml: -1 }} onClick={() => setIsFormOpen(true)}>
-          <Typography variant='subtitle2' sx={{ mt: 1 }}>
+        <Button
+          sx={{ ml: -1 }}
+          onClick={() => setIsFormOpen(true)}
+        >
+          <Typography
+            variant='subtitle2'
+            sx={{ mt: 1 }}
+          >
             Help / Contact / Pomoc
           </Typography>
         </Button>
 
         {/* Display loader when fetching data */}
         {loading ? (
-          <Stack alignItems='center' sx={{ mt: 5 }}>
+          <Stack
+            alignItems='center'
+            sx={{ mt: 5 }}
+          >
             <CircularProgress />
-            <Typography variant='subtitle1' sx={{ mt: 2 }}>
+            <Typography
+              variant='subtitle1'
+              sx={{ mt: 2 }}
+            >
               Loading groups...
             </Typography>
           </Stack>
@@ -267,8 +292,14 @@ const App: React.FC = () => {
               >
                 <ListItemText
                   primary={
-                    <Stack direction={'row'} gap={0.5}>
-                      <Typography variant='subtitle1' fontWeight={500}>
+                    <Stack
+                      direction={'row'}
+                      gap={0.5}
+                    >
+                      <Typography
+                        variant='subtitle1'
+                        fontWeight={500}
+                      >
                         {group.name}
                       </Typography>
                       <Typography variant='subtitle1'>
@@ -302,7 +333,9 @@ const App: React.FC = () => {
               }}
               py={3}
               px={1}
-            >{getCalendarUrl(selectedGroup)}</Box>
+            >
+              {getCalendarUrl(selectedGroup)}
+            </Box>
             <FormGroup sx={{ pt: 2 }}>
               <FormControlLabel
                 control={
@@ -382,7 +415,10 @@ const App: React.FC = () => {
         />
 
         <Card sx={{ pb: 5 }}>
-          <Typography variant='h5' sx={{ p: 2, mb: 3 }}>
+          <Typography
+            variant='h5'
+            sx={{ p: 2, mb: 3 }}
+          >
             Google Calendar Tutorial
           </Typography>
           <Stack
