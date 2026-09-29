@@ -174,7 +174,7 @@ const App: React.FC = () => {
   const getCalendarUrl = (group: Group | null) => {
     if (!group) return '';
     const typ = group.parentCategory === 'Pracownik' ? 'N' : 'G';
-    const scheduleUrl = `https://planzajec.uek.krakow.pl/index.php?typ=${typ}&id=${group.id}&okres=2`;
+    const scheduleUrl = `https://planzajec.uek.krakow.pl/index.php?typ=${typ}&id=${group.id}&okres=1`;
     const params = new URLSearchParams({ url: scheduleUrl });
     if (!showNumbers) params.set('numer', '0');
     if (showLektoraty) params.set('lektoraty', '1');
