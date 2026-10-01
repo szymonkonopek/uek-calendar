@@ -413,66 +413,6 @@ const App: React.FC = () => {
           onClose={() => setIsFormOpen(false)}
           onDataChange={handleFormDataChange}
         />
-
-        <Card sx={{ pb: 5 }}>
-          <Typography
-            variant='h5'
-            sx={{ p: 2, mb: 3 }}
-          >
-            Google Calendar Tutorial
-          </Typography>
-          <Stack
-            direction={'column'}
-            alignItems={'center'}
-            justifyContent={'center'}
-            spacing={4}
-          >
-            <Box
-              component='img'
-              sx={{
-                width: 450,
-
-                maxWidth: { xs: 250, md: 450 },
-                ml: 2,
-                border: '3px solid #e0e0e0',
-              }}
-              src='https://github.com/user-attachments/assets/3b18f157-4c9c-45ba-980c-3e02ca6e53ff'
-            />
-            <Box
-              component='img'
-              sx={{
-                width: 450,
-
-                maxWidth: { xs: 250, md: 450 },
-                ml: 2,
-                border: '3px solid #e0e0e0',
-              }}
-              src='https://github.com/user-attachments/assets/c19957be-5729-4c04-a532-4d4199ece90b'
-            />
-            <Box
-              component='img'
-              sx={{
-                width: 450,
-
-                maxWidth: { xs: 250, md: 450 },
-                ml: 2,
-                border: '3px solid #e0e0e0',
-              }}
-              src='https://github.com/user-attachments/assets/5381a365-7896-4d07-9acd-14b024859735'
-            />
-            <Box
-              component='img'
-              sx={{
-                width: 450,
-
-                maxWidth: { xs: 250, md: 450 },
-                ml: 2,
-                border: '3px solid #e0e0e0',
-              }}
-              src='https://github.com/user-attachments/assets/e158d11d-941b-492a-8aad-86945f53f3c4'
-            />
-          </Stack>
-        </Card>
       </Container>
     </>
   );
